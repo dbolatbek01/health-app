@@ -1,0 +1,561 @@
+**==> picture [227 x 78] intentionally omitted <==**
+
+## **Standard Operating Procedure** 
+
+SOP Perioperative transösophageale Echokardiografie 
+
+## **Geltungsbereich** 
+
+Institut für Anästhesie 
+
+**==> picture [469 x 32] intentionally omitted <==**
+
+**----- Start of picture text -----**<br>
+Änderungshistorie<br>Version  gültig ab  Verfasser  Freigabe  Änderungsgrund  Wiedervorlage<br>**----- End of picture text -----**<br>
+
+
+**==> picture [451 x 56] intentionally omitted <==**
+
+DHZB I SOP Perioperative transösophageale Echokardiografie Nr.506 I Version Nr. 2.0 
+
+Seite 2 von 14 
+
+## **Inhaltsverzeichnis** 
+
+|1.|Indikationen ..................................................................................................................................... 3|
+|---|---|
+|2.|Kontraindikationen ........................................................................................................................... 3|
+|3.|Aufklärung ........................................................................................................................................ 4|
+|4.|Sicherheitsaspekte .......................................................................................................................... 4|
+|5.|Geräte- / Sondenhandhabung, technische Aspekte ........................................................................ 5|
+|6.|Untersuchungsaufzeichnung ........................................................................................................... 6|
+|7.|Befundung ....................................................................................................................................... 7|
+|8.|Echoprotokoll DHZB ........................................................................................................................ 8|
+|9.|Inkrafttreten .................................................................................................................................... 14|
+
+
+
+Aus Gründen der besseren Lesbarkeit wird auf die gleichzeitige Verwendung männlicher und weiblicher Sprachformen verzichtet. Sämtliche Personenbezeichnungen gelten für beiderlei Geschlecht. 
+
+DHZB I SOP Perioperative transösophageale Echokardiografie Nr.506 I Version Nr. 2.0 
+
+Seite 3 von 14 
+
+## **1. Indikationen** 
+
+- 1.1 Sämtliche Eingriffe am offenen Herzen (z. B. Klappenoperationen und Defektverschlüsse) sowie Assistimplantationen und pulmonale Thrombektomien/-endarteriektomien 
+
+- 1.2 Koronarchirurgie 
+
+- 1.3 Sämtliche Eingriffe an der thorakalen Aorta, inkl. Aorta descendens (z. B. operative oder interventionelle Versorgung von Dissektionen und Aneurysmen) 
+
+_“[…] we concur that TOE is reasonable for use in all adult patients who are undergoing either cardiac surgery or thoracic aortic surgical procedures under general anaesthesia.” Flachskampf FA et al. Recommendations for transoesophageal echocardiography: update 2010. Eur J Echocard, 2010; 11, 557-76_ 
+
+- 1.4 Transplantationschirurgie 
+
+- 1.5 Katheterbasierte intrakardiale Prozeduren bei Patienten in Vollnarkose (z. B. Mitraclip® und TAVI aber auch Okklusionsverfahren wie Watchman® und Amplatzer®, sowie AngioVac®-Prozeduren), ausgenommen implantierbare PA-Druckmesssysteme (Cardio-MEMS®) 
+
+- 1.6 Schrittmacher- bzw. ICD-Sondenextraktionen 
+
+- 1.7 Herzferne Operationen bei Patienten mit bekannter oder vermuteter kardialer Pathologie, welche den Verlauf und das operative Outcome beeinflussen könnte, sowie bei anderweitig nicht erklärter therapierefraktärer Hypotension 
+
+- 1.8 TEE-Bereitschaft: 
+
+Bei katheterbasierten intrakardialen Prozeduren, die in Sedierung durchgeführt werden, wird für den Konversionsfall ein unmittelbar einsatzfähiges, hochgefahrenes Echogerät sowie eine TTEund eine vorbereitete TEE-Sonde im Operationssaal vorgehalten (ausgenommen implantierbare PA-Druckmesssysteme) 
+
+## **2. Kontraindikationen** 
+
+Im Falle einer absoluten Kontraindikation ist auf das Einführen einer TEE-Sonde zu verzichten. Bei Vorliegen einer relativen Kontraindikation soll im Rahmen einer Nutzen- / Risikoabwägung in Rücksprache mit einem Oberarzt und ggf. nach Diskussion mit den mitbehandelnden Kollegen im Sinne des Patienten über die Verzichtbarkeit bzw. Notwendigkeit der TEE-Untersuchung entschieden werden. 
+
+## 2.1 absolute: 
+
+- Ablehung durch den Patienten 
+
+- bekannte Perforation im oberen Gastrointestinaltrakt 
+
+- aktuelle pharyngeale, laryngeale oder ösophageale Lazeration 
+
+- Mallory-Weiss Syndrom 
+
+- bekannte ausgeprägte Ösophagusstriktur 
+
+- bekanntes Ösophagusdivertikel (u. a. Zenker-Divertikel) 
+
+- aktive obere gastrointestinale Blutung 
+
+- Ösophagusvarizen Grad III[1,2] 
+
+- kürzlich stattgehabte gastroösophageale Chirurgie (< 6 Wochen) 
+
+- Z. n. Ösophagektomie mit Kontinuitätsverlust 
+
+- tracheoösophageale Fistel 
+
+DHZB I SOP Perioperative transösophageale Echokardiografie Nr.506 I Version Nr. 2.0 
+
+Seite 4 von 14 
+
+## 2.2 relative: 
+
+- stattgehabte Radiatio von Hals / Mediastinum 
+
+- ösophageale Sklerodermie 
+
+- stattgehabte gastroösophageale Chirurgie 
+
+- ausgeprägte Koagulopathie 
+
+- kürzliche obere gastrointestinale Blutung 
+
+- Ösophagusvarizen Grad I-II[1,2] 
+
+- Barrettösophagus 
+
+- aktive Ösophagitis 
+
+- aktive gastrale Ulkuserkrankung 
+
+- bekannte Schluckstörungen 
+
+- symptomatische Hiatushernie 
+
+- eingeschränkte Halsbeweglichkeit (cervikale Arthritis, atlantoaxiale Gelenkerkrankung) 
+
+- bekannte luminale Neoplasie von Pharynx oder Ösophagus 
+
+- instabile Halswirbelverletzung 
+
+## **3. Aufklärung** 
+
+- 3.1 TEE ist eine aufklärungspflichtige invasive Maßnahme. Sämtliche Patienten, für welche die o. g. Indikationen zutreffen, werden i. R. der präoperativen anästhesiologischen Visite und Narkoseaufklärung über diese Maßnahme aufgeklärt. 
+
+- 3.2 Bestandteil der Aufklärung müssen insbesondere die Risiken von Verletzungen der Schleimhaut im Bereich des Rachens, der Speiseröhre und des Magens inkl. damit einhergehender Blutungskomplikationen sein, sowie die Gefahr von Verletzungen bzw. Perforationen der Speiseröhre, des Kehlkopfes und des Magens. Das Risiko von Zahnschäden und des Auftretens von Schluckstörungen bzw. Heiserkeit gehört ebenfalls zu einer vollständigen TEE-Aufklärung. 
+
+## **4. Sicherheitsaspekte** 
+
+- 4.1 Das Platzieren der lubrifizierten Sonde erfolgt ausschließlich bei vollkommen entriegelter Flexion in Nullstellung, respektive mit minimaler Anteflexion. Das Transducerarray ist beim Einführen nach anterior gedreht, die Einführrichtung ist streng axial zum Patienten, nach kaudal gerichtet. Ein Anheben des Unterkiefers / Kinns (Esmarch-Handgriff) erleichtert die Überwindung der Enge am pharyngo-ösophagealen Übergang. In der Regel empfiehlt es sich zur einfacheren Handhabung, den zuvor aufgefädelten Beißschutz nach erfolgreicher Platzierung der Sonde zu positionieren. 
+
+- 4.2 Die Insertion der TEE-Sonde wird unter keinen Umständen erzwungen. Bei unerwartetem Widerstand ist ggf. der aufsichtsführende Oberarzt zur Hilfe zu holen. Unter Umständen kann der Wechsel auf eine pädiatrische Sonde die Passage in den Ösophagus ermöglichen. Anderenfalls ist der komplette Verzicht auf die TEE-Untersuchung zu erwägen und mit dem chirurgischen Team zu diskutieren. 
+
+- 4.3 Zur Vermeidung von Drucknekrosen im Gesichtsbereich (insbesondere der Lippen) ist auf eine schonende Lagerung der Sonde bei Nichtbenutzung, aber auch auf korrekten Sitz des Beißschutzes zu achten und ggf. entsprechend abzupolstern. 
+
+1 Spencer KT. Transesophageal Echocardiography in Patients With Esophageal Varices. J Am Soc Echocardiogr. 2009; 22(4): 401-3 
+
+> 2 Pantham G et al. Bleeding Risk in Patients with Esophageal Varices Undergoing Transesophageal Echocardiography. Echocardiography. 2013; 30(10): 1152-5 
+
+DHZB I SOP Perioperative transösophageale Echokardiografie Nr.506 I Version Nr. 2.0 
+
+Seite 5 von 14 
+
+- 4.4 Der starre Beißschutz selbst kann bei Defibrillation / Kardioversion insbesondere mit externen Elektroden zu Zahnschäden führen. 
+
+- 4.5 Ein Verriegeln der Sondenposition in Ante-/Retro- oder auch lateraler Flexion sollte grundsätzlich vermieden werden. Im Besonderen bei akzidenteller Dislokation der Sonde kann dies zu erheblichen Lazerationen führen. 
+
+- 4.6 Die akustische Transmission der Echo-Sonde sollte nur dann aktiviert sein, wenn der Untersucher tatsächlich das Live-Bild betrachtet, um eine unnötige lokale Wärmeentwicklung zu vermeiden (Aktivierung der „Freeze“-Funktion). Besonders bei 3D-Bildgebung und in den Doppler-Modi führt die abgegebene Energie ins Gewebe relativ rasch zu lokaler Erhitzung und kann trotz Abschaltschutz (insbesondere bei hypothermen Patienten) zu ösophagealen Verbrennungen führen. 
+
+- 4.7 Während laufender MAZE-Prozeduren (unabhängig davon, ob es sich um eine Radiofrequenzoder Kryoablation handelt), sollte die Sonde aus Sicherheitsgründen nach hoch ösophageal retrahiert werden. 
+
+- 4.8 Obschon tief transgastrische Einstellungen gemäß internationalen Guidelines zu den Standardschnitten gehören, kann bei fehlender Indikation bzw. guter Darstellbarkeit und DopplerAnlotbarkeit der Aortenklappe in der transgastrischen langen Achse großzügig auf diese Einstellung verzichtet werden. In jedem Fall sollte eine tief transgastrische Darstellung nicht erzwungen werden und ausgedehnte Sondenmanipulationen in dieser Position vermieden werden. 
+
+- 4.9 Die Entfernung einer platzierten Sonde erfolgt grundsätzlich erst nach OP-Ende, bei Patienten für welche nicht unmittelbar ein Intensivbett verfügbar ist und die deshalb zunächst im Saal verbleiben ggf. auch erst unmittelbar zur Verlegung. Unter keinen Umständen wird die Sonde vor Thoraxverschluss entfernt. 
+
+## **5. Geräte- / Sondenhandhabung, technische Aspekte** 
+
+- 5.1 Der Sondenschaft darf nicht geknickt oder torquiert werden. Die ideale Aufbewahrungsform transösophagealer Sonden bleibt die ausgestreckt hängende Position, daher sollte auch eine unnötig lange Lagerung in den Transportcontainern vermieden werden. 
+
+- 5.2 Der Konnektor der GE 3D-Sonden (6VT-D) trägt einen offenen Platinenkontakt, welcher äußerst empfindlich auf Flüssigkeiten reagiert. Es ist daher sorgsam darauf zu achten, dass dieser Konnektor z. B. im Transportcontainer nicht in Kontakt mit Flüssigkeiten oder Resten lubrifizierender Substanzen gerät. 
+
+- 5.3 Der Transport der Sonde erfolgt, im sauberen sowie im benutzten Zustand, ausschließlich in den dafür vorgesehenen Plastikcontainern mit einem aufgesetzten Schaumschutz für den Transducerkopf. Eine benutzte Sonde wird durch Einlegen eines Patientenetiketts in den Transportcontainer und Entfernen des Beipacks mit Überzieher und Kontaktgel kenntlich gemacht. 
+
+- 5.4 Die Platzierung der Sonde erfolgt regulär im Saal, um Patienten- und Sondenschäden bei Einfahrt vorzubeugen. Ausnahmen hiervon sind beispielsweise Fälle, bei denen bereits in der Einleitung zur Platzierung einer venösen Halskanüle transösophageal geschallt wird. 
+
+- 5.5 Die 3D TEE-Sonden (Philips und GE) werden zum Schutz vor Arrosion mit einem Überzieher verwendet. Die pädiatrischen TEE-Sonden (GE) hingegen werden in der Regel unbehüllt platziert. 
+
+DHZB I SOP Perioperative transösophageale Echokardiografie Nr.506 I Version Nr. 2.0 
+
+Seite 6 von 14 
+
+Um Schäden durch Zahnkontakt zu vermeiden, wird ein Beißschutz eingelegt (verzichtbar bei zahnlosen Patienten). 
+
+- 5.6 Eine Diskonnektion der Sonde im laufenden Betrieb (während akustischer Transmission) muss zum Schutz vor elektrischen Schäden an Gerät und Sonde unbedingt vermieden werden. Die Sonde sollte sich hierfür zumindest im „Freeze“-Modus befinden. 
+
+- 5.7 Die Kindersonde der Fa. GE mit mechanischer Scanwinkelsteuerung sollte entriegelt und in Nullstellung konnektiert werden, damit die automatische Sondenkalibrierung fehlerfrei durchgeführt werden kann. 
+
+- 5.8 Die Verbindung der Echogeräte mit der Videoanlage in den Hybridsälen und OPs 1 - 4 sollte idealerweise vor dem Einschalten des Gerätes erfolgen, da sonst der DVI-Ausgang am Ultraschallgerät nicht sicher aktiviert wird und die Bildübertragung auf die externen Monitore u. U. nicht funktioniert. 
+
+- 5.9 Vor dem Trennen des Gerätes von der Stromversorgung nach Abschluss der Untersuchung sollte das vollständige Herunterfahren der Betriebssoftware abgewartet werden. 
+
+- 5.10 Die Geräte der OPs 6 und 8 werden u. a. zur Schonung der Steckkontakte der Bildübertragungskabel regelhaft konnektiert im Saal belassen. Ein Überfahren der Kabel mit dem Echogerät oder anderem Mobiliar ist dringend zu vermeiden. 
+
+- 5.11 Sonden mit einem mutmaßlichen Defekt sollten zunächst an einem anderen Konnektionsport des Echogeräts nochmals auf Reproduzierbarkeit des Fehlers getestet werden. Wenn sich der Defekt bestätigt, wird die entsprechende Sonde zunächst desinfiziert und anschließend in einer Transportbox mit ausgefülltem gelben Laufzettel und Fehlerbeschreibung für die Medizintechnik im Anästhesie-Büro deponiert. 
+
+## **6. Untersuchungsaufzeichnung** 
+
+- 6.1 Die PACS-Infrastruktur ist im DHZB auf der kardiovaskulären Bilddatenmanagement-Software IntelliSpace Cardiovascular® der Fa. Philips aufgebaut. Sämtliche aufgezeichnete Untersuchungen werden dorthin überspielt und archiviert. 
+
+- 6.2 Um Patientenmismatches und -dopplungen durch Schreibfehler o. ä. zu vermeiden, werden regulär vor Untersuchungsbeginn in dem Softwaretool Cardis DICOM-konforme, adressierte Echountersuchungsanforderungen angelegt, welche dann in die Worklist des spezifischen Echogeräts geladen werden können. 
+
+- 6.3 Für die perioperative / periinterventionelle Echokardiografie werden i. S. eines Vorher/Nachhervergleichs grundsätzlich zwei Untersuchungen pro Patient und Prozedur angelegt. Ausnahmen von dieser Regel sind beispielsweise Perikardiozentesen, Sondenextraktionen sowie TEE-Untersuchungen bei herzfernen Operationen, wo in der Regel eine Untersuchung ausreichend ist. 
+
+- 6.4 Um die Übertragung der Untersuchungsdaten von den GE Vivid-Geräten nach IntelliSpace zu gewährleisten, sollte nach Beenden der Untersuchung das Gerät erst heruntergefahren werden, nachdem die Meldung „X unerledigte Jobs im Spooler“ vom unteren Bildschirmrand verschwunden ist. 
+
+Um die Übertragung der Untersuchungsdaten von dem Philips EPIQ-Gerät nach IntelliSpace zu gewährleisten, sollte nach Beenden der Untersuchung das Gerät erst nach einem angemessenen 
+
+DHZB I SOP Perioperative transösophageale Echokardiografie Nr.506 I Version Nr. 2.0 
+
+Seite 7 von 14 
+
+Zeitraum bzw. nachdem die Untersuchung in der Archivliste (unter dem Reiter „Überprüfen“ zu finden) mit einem Haken als übertragen gekennzeichnet worden ist heruntergefahren werden. 
+
+- 6.5 Zur einer adäquaten Echodokumentation gehört ausnahmslos die Mitaufzeichnung des EKGSignals. Hierfür stehen in allen Sälen Anschlüsse zur Verfügung, welche das EKG-Signal der Monitoringanlage splitten und an Peripheriegeräte wie die Echomaschine und den Defibrillator durchschleifen. 
+
+## **7. Befundung** 
+
+- 7.1 Aus der ärztlichen Dokumentationspflicht ergibt sich die Notwendigkeit der Befundschreibung nach Durchführung einer diagnostischen Maßnahme. Eine vollständige Ultraschalluntersuchung besteht grundsätzlich aus zwei Komponenten: einer technischen (Durchführung der Untersuchung und Aufzeichnung von Bilddaten) und einer medizinisch-inhaltlichen (Befundinterpretation und Verfassung eines strukturierten Berichts), wobei letztere die ärztliche Leistung im engeren Sinne darstellt. 
+
+   - Der Befundbericht enthält die Beschreibung der Untersuchung, die medizinische Fragestellung und deren Beantwortung. 
+
+- 7.1 Die Befundschreibung am DHZB wird in der Regel im US Viewer durchgeführt - eine aus dem „full client“[3] von IntelliSpace Cardiovascular startbare Applikation, die auf allen Rechnern im OP-Bereich verfügbar ist. Verwendet wird hierzu die hinterlegte Befundvorlage **[TEE_ANAESTH]** . Ärztliche Mitarbeiter, welche in transösophagealer Echokardiografie zertifiziert sind (DGAI oder EACTA/EACVI), können und sollten ihre Befunde finalisieren. Mitarbeiter ohne entsprechende Zertifizierung können ihre Befunde als vorläufig abspeichern und sollten diese dann möglichst von einem Oberarzt evaluieren und abschließen lassen. 
+
+   - Bei rein kursorischen, fokussierten Untersuchungen mit reduzierter Fragestellung kann in Ausnahmefällen auch eine kurze Zusammenfassung des erhobenen Befundes in m.life der Dokumentationspflicht genügen. 
+
+- 7.2 In der Regel wird ein Gesamtbefund für jede chirurgische / interventionelle Maßnahme verfasst, unabhängig davon, ob eine oder mehrere Untersuchungen für die Prozedur angelegt wurden. In diesem Fall wird der Befund an die präoperative/-interventionelle respektive an die einzige Untersuchung des Falles angehangen und mit dem Befundcode **ANAETEE-011** („ _Es handelt sich um eine perioperative bzw. periinterventionelle Untersuchung mit ZWEI Bilddatensätzen._ “) bzw. **ANAETEE-010** („ _Es handelt sich um eine perioperative bzw. periinterventionelle Untersuchung mit EINEM Bilddatensatz._ “) versehen. Es besteht aber darüber hinaus auch die Möglichkeit, einen individuellen Befund für jede einzelne Untersuchung zu verfassen (Befundcodes **ANAETEE-008** und **ANAETEE-009** ). 
+
+- 7.3 Erkenntnisse aus Echountersuchungen, welche für den weiteren Verlauf des Patienten besonders relevant erscheinen und / oder von dem erwarteten Operationsergebnis deutlich abweichende Befunde, sollten abgesehen von der Dokumentation in IntelliSpace auch in der elektronischen Patientenakte (m.life) vermerkt und im Rahmen der Übergabe des Patienten an die nachversorgenden Einheiten kommuniziert werden. 
+
+- 7.2 Die initiale Einweisung zur Verwendung des US Viewers erfolgt im Rahmen der Einarbeitung durch 
+
+Templates sind prinzipiell implementierbar und willkommen. 
+
+> 3 IntelliSpace Cardiovascular arbeitet nur als sog. „full client“, wenn zwei Bedingungen erfüllt sind: a) das Programm wurde direkt aus dem Startmenü oder über das Desktop-Icon gestartet (und nicht beispielsweise über den Querverweis aus Medfolio), b) der User ist mit seinem persönlichen Login am System angemeldet (entspricht dem Windows-Login) 
+
+DHZB I SOP Perioperative transösophageale Echokardiografie Nr.506 I Version Nr. 2.0 
+
+Seite 8 von 14 
+
+## **8. Echoprotokoll DHZB** 
+
+Im Folgenden wird der angestrebte Untersuchungsstandard im DHZB erläutert. Dieser orientiert sich im Wesentlichen an den von nationalen und internationalen Fachgesellschaften publizierten Guidelines[4,5,6,7,8,9,10] für eine umfassende perioperative transösophageale Echountersuchung. Ergänzt wird dies durch lokale Standards zur Erfassung von 3D-Datensets, welche eine zukünftige Reevaluation auch hinsichtlich initial nicht vordergründiger Fragestellungen ermöglichen sollen. Der Echo-Standard im DHZB lehnt sich hierbei partiell an das Duke-Protokoll[11] an. 
+
+Die Chronologie des Untersuchungsablaufs ist vom Untersucher frei wählbar; so ist es mitunter empfehlenswert, besonders störanfällige Sequenzen wie die Aufzeichnung von EKG-getriggerten 3D-Volumina und Doppleruntersuchungen bereits vor Hautschnitt durchzuführen. Im Notfall kann (und sollte) vom Standard abgewichen werden um eine fokussierte Darstellung der relevanten Pathologie vor kardiopulmonalem Bypass sicherzustellen. 
+
+_Die in roter, kursiver Schrift dargestellten Untersuchungsbestandteile sind nur bei Erfüllung der jeweils hinterlegten Bedingung durchzuführen, anderenfalls aber verzichtbar._ 
+
+## **8.1 Prä-EKZ / präprozedurale Untersuchung** 
+
+- 8.1.1 (hoch) MÖ aszendierende Aorta kurze Achse 
+
+- 8.1.2 (hoch) MÖ aszendierende Aorta lange Achse 
+
+   - Messung Diameter Ao. ascendens Auf Höhe rechte Pulmonalarterie 
+
+   - _Darstellung Kanülierungsstelle nach arterieller Kanülierung_ 
+
+- 8.1.3 MÖ AK kurze Achse 
+
+   - Farbdoppler AK 
+
+- 8.1.4 MÖ RV inflow-outflow 
+
+> 4 Hahn T et al. Guidelines for Performing a Comprehensive Transesophageal Echocardiographic Examination: Recommendations from the American Society of Echocardiography and the Society of Cardiovascular Anesthesiologists. Am Soc Echocardiogr 2013; 26: 921-64 
+
+> 5 Shanewise JS et al. ASE/SCA Guidelines for Performing a Comprehensive Intraoperative Multiplane Transesophageal Echocardiography Examination: Recommendations of the American Society of Echocardiography Council for Intraoperative Echocardiography and the Society of Cardiovascular Anesthesiologists Task Force for Certification in Perioperative Transesophageal Echocardiography. J Am Soc Echocardiogr 1999; 12: 884 -900 
+
+> 6 Baumgartner H et al. Echocardiographic assessment of valve stenosis: EAE/ASE recommendations for clinical practice. European Journal of Echocardiography 2009; 10, 1-25 
+
+- 7 Lang RM et al. Recommendations for transoesophageal echocardiography: update 2010. Eur Heart J - Cardiovascular Imaging 2012; 13, 1-46 
+
+8 Lancelloti P. Recommendations for the echocardiographic assessment of native valvular regurgitation: an executive summary from the European Association of Cardiovascular Imaging. European Heart Journal - Cardiovascular Imaging 2013; 14, 611-644 
+
+9 Flachskampf FA. Recommendations for Performing Transoesophageal Echocardiography. Eur J Echocardiography 2001; 2, 8-21 
+
+> 10 Baumgartner H et al. Recommendations on the Echocardiographic Assessment of Aortic Valve Stenosis: A Focused Update from the European Association of Cardiovascular Imaging and the American Society of Echocardiography. J Am Soc Echocardiogr 2017; 30: 372-92 
+
+> 11 http://anesthesiology.duke.edu/?page_id=816767 
+
+DHZB I SOP Perioperative transösophageale Echokardiografie Nr.506 I Version Nr. 2.0 
+
+Seite 9 von 14 
+
+- Farbdoppler TK 
+
+- Farbdoppler PK 
+
+## 8.1.5  MÖ bikaval 
+
+- Farbdoppler interatriales Septum (ggf. Nyquist Limit ≤ 40cm/s) zum Ausschluss PFO / ASD 
+
+- _bei Systemexplantationen / Sondenextraktionen MÖ bikaval hoch eingestellt zur Verlaufsbeobachtung bei potentieller Verletzung V. cava superior_ 
+
+## 8.1.6 MÖ modifiziert bikaval 
+
+- Farbdoppler TK 
+
+- _Spektraldoppler CW TK bei Insuffizienz (Bestimmung Spitzengradient zur RVP-Estimation, Hüllkurve Insuffizienzjet wenn signifikanter Reflux) oder Stenose (Hüllkurve trikuspidaler Inflow für mittleren Gradienten, Dezelerationsrate der E-Welle PHT)_ 
+
+- _Messung Vena contracta sofern TI vorhanden (Nyquist Limit 50-60 cm/s, Varianz aus)_ 
+
+## 8.1.7 MÖ lange Achse 
+
+- Farbdoppler MK 
+
+- _Messung Vena contracta sofern MI vorhanden (Nyquist Limit 50-60 cm/s, Varianz aus)_ 
+
+- _Messung PISA-Shellradius sofern signifikante MI vorhanden (Anheben FarbdopplerBaseline 30-40 cm/s, Varianz aus)_ 
+
+- _Messung Mitralannulus falls signifikante MI vorhanden_ 
+
+## 8.1.8 MÖ AK lange Achse 
+
+- Farbdoppler AK 
+
+- M-Mode AK nativ (Darstellung Segelseparation) 
+
+- _M-Mode Farbdoppler LVOT sofern konzentrische AI vorhanden (LVOT/Jet-Verhältnis im Bereich 1 cm unterhalb der AK)_ 
+
+- _Messung Vena contracta sofern AI vorhanden (Nyquist Limit 50-60 cm/s, Varianz aus)_ 
+
+- Messung LVOT 
+
+- _Messung IVSD bei Hinweisen für HOCM, LVOTO_ 
+
+- _Messung Diameter AK-Annulus, Sinus of Valsava, sinotubuläre Juntion und Ao. ascendens bei Pathologien der AK, Aortenwurzel oder Ao. ascendens_ 
+
+## 8.1.9 MÖ 2-Kammer 
+
+- Farbdoppler MK 
+
+DHZB I SOP Perioperative transösophageale Echokardiografie Nr.506 I Version Nr. 2.0 
+
+Seite 10 von 14 
+
+## _8.1.10 MÖ linkes Herzohr_ 
+
+- _PW Doppler sofern LA-Dilatation, VHF oder spontaner Echokontrast vorhanden_ 
+
+## 8.1.11 MÖ mitral kommissural 
+
+- Farbdoppler MK 
+
+## 8.1.12 MÖ 4-Kammer 
+
+- Farbdoppler MK 
+
+- _Spektraldoppler CW MK wenn signifikante MI (Hüllkurve Insuffizienzjet für PISA) oder MS (Hüllkurve mitraler Inflow für mittleren Gradienten, Dezelerationsrate der E-Welle PHT) vorhanden_ 
+
+- Farbdoppler TK 
+
+- _Messung TK-Annulus bei signifikanter MI oder TI_ 
+
+- _Spektraldoppler CW TK sofern signifikante Stenose oder Insuffizienz_ 
+
+## 8.1.13 3D Volumina (sämtlich als Multi Beat mit Bildwiederholfrequenz ≥20 bps) 
+
+   - 4D groß / 3D Komplettvolumen linker Ventrikel in MÖ 4-Kammer 
+
+   - 4D groß / 3D Komplettvolumen rechter Ventrikel in MÖ 4-Kammer mit dem rechten Ventrikel in Bildmitte gedreht 
+
+   - 4D Zoom / 3D-Zoom MK bei Z-Achse in sog. „Surgeon’s View“ mit AK auf 12:00 Uhr gedreht 
+
+   - _4D Zoom / 3D-Zoom MK mit Farbdoppler, wenn signifikante MI vorhanden_ 
+
+   - _4D Zoom / 3D-Zoom AK in MÖ lange Achse AK bei Pathologien der AK / Aortenwurzel (immer als Single Beat Akquise zur Vermeidung von Stitching)_ 
+
+- 8.14 Pleura li. und re. zum Ausschluss eines signifikanten Ergusses 
+
+- 8.1.15 TG basal kurze Achse 
+
+   - _Farbdoppler sofern MK-Vitium vorhanden_ 
+
+## 8.1.16 TG mittpapillär kurze Achse 
+
+- M-Mode antero-posteriore Achse 
+
+## 8.1.17 TG 2-Kammerblick 
+
+   - _Messung LVIDs/LVIDd bei Aorten-/Mitralklappenpathologie oder Kardiomyopathie_ 
+
+- _8.1.18 TG IVC lange Achse_ 
+
+   - _Spektraldopper PW Lebervenen bei signifikanter TI_ 
+
+DHZB I SOP Perioperative transösophageale Echokardiografie Nr.506 I Version Nr. 2.0 
+
+Seite 11 von 14 
+
+- _Darstellung der Kanülenposition nach IVC Kanülierung (Vermeidung intrahepatischer Fehllage) bei Fällen mit HLM_ 
+
+## 8.1.19 TG lange Achse 
+
+- Farbdoppler AK 
+
+- _Spektraldoppler CW AK sofern signifikante AS (Hüllkurve des Aorten-Outflows für VTI und mittleren Gradienten, Bestimmung der Spitzengeschwindigkeit) oder AI (Bestimmung Dezelerationsrate des Insuffizienz-Jets PHT)_ 
+
+- _Spektraldoppler PW LVOT sofern AS oder LVOTO (Hüllkurve für VTI)_ 
+
+## 8.1.20 TG RV inflow 
+
+- _8.1.21 tief TG 5-Kammerblick (sofern Aortenvitium nicht ausgeschlossen)_ 
+
+   - _Farbdoppler AK_ 
+
+   - _Spektraldoppler CW AK sofern signifikante Stenose oder Insuffizienz_ 
+
+   - _Spektraldoppler PW LVOT sofern AS (Hüllkurve für VTI)_ 
+
+- 8.1.22 deszendierende Aorta lange und kurze Achse (unter Verwendung von Multi-D Biplanar bzw. X- Plane; Zyklenanzahl/Schleifenlänge entsprechend erhöhen) 
+
+   - _Spektraldopper PW Ao. descendens. bei AI (diastolische Flussumkehr)_ 
+
+   - _Darstellung zentralen Anflutens des HLM-Probevolumens („100 rein“) nach arterieller Kanülierung bei Fällen mit HLM_ 
+
+- 8.1.23 HÖ Aortenbogen lange Achse 
+
+- 8.1.24 HÖ Aortenbogen kurze Achse 
+
+- _8.1.25 Diastologie bei Anhalt für gravierende diastolische Funktionsstörung und / oder erhöhte linksventrikuläre Füllungsdrücke_ 
+
+   - _transmitraler Inflow (PW)_ 
+
+   - _Pulmonalvenenfluss (PW)_ 
+
+   - _Gewebedoppler lateraler Mitralannulus (PW)_ 
+
+   - _Propagation Velocity mitraler Inflow (Farbdoppler MMode)_ 
+
+- _8.1.26 zu erhebende Parameter bei spezifischen Fragestellungen (s. a. mitgeltende SOPs zu Assistimplantation, Aortenchirurgie und Herztransplantation):_ 
+
+_**Aortenstenose** : Jet Spitzengeschwindigkeit (m/s) // mittlerer transvalvulärer Gradient (mmHg) // Klappenöffnungsfläche mittels Kontinuitätsgleichung (cm²) // Annulusweite (mm)_ 
+
+DHZB I SOP Perioperative transösophageale Echokardiografie Nr.506 I Version Nr. 2.0 
+
+Seite 12 von 14 
+
+_**Aorteninsuffizienz** : Dezelerationsrate des diastolischen Insuffizienzjets PHT (ms) // diastolische Flussumkehr in der Ao. descendens mittels PW // Vena contracta Weite (mm) // Verhältnis Jetweite zu LVOT-Weite im Bereich 1 cm unter der AK bei konzentrischen Jets (%) // Annulusweite (mm) // LVIDd (cm)_ 
+
+_**Mitralstenose** : mittlerer transmitraler Gradient (mmHg) // 2D Planimetrie bzw.  3D-assistierte biplane Planimetrie (cm²) // Dezelerationsrate der E-Welle PHT (ms)_ 
+
+_**Mitralinsuffizienz** : Vena contracta Weite (mm) // Flusskonvergenzmessung PISA für EROA (cm²) und Regurgitations-volumen R Vol (ml) // Länge des anterioren Segels (mm) // LVIDs (cm) // Sphericity Index, Tenting height (mm) und PVL-Winkel (°) bei funktioneller Insuffizienz_ 
+
+_**Trikuspidalinsuffizienz** : Vena contracta Weite (mm) // systolische Flussumkehr in der Lebervene // Annulusweite (mm)_ 
+
+## _**8.2 An EKZ**_ 
+
+- _8.2.1 MÖ lange Achse_ 
+
+   - _Assistenz bei der Einlage eines Ventrikelvents_ 
+
+   - _Assistenz beim Entlüften des Herzens, insbesondere ist auf Depots im LV-Apex sowie im LA zu achten_ 
+
+- _8.2.2 MÖ 4-Kammer (tief eingestellt oder stark retroflektiert) bzw. MÖ modifiziert bikaval zur Darstellung des Koronarsinus_ 
+
+   - _Assistenz bei der Platzierung eines retrograden Kardioplegiekatheters_ 
+
+- _8.2.3 MÖ 2-Kammer_ 
+
+   - _Verifikation der korrekten Lage eines eingeführten retrograden Kardioplegiekatheters_ 
+
+- _8.2.4 HÖ Aortenbogen lange Achse_ 
+
+   - _Detektion von Luft bei Operationen am offenen Herzen ohne Aortenklemmung_ 
+
+## **8.3 Post-EKZ / postprozedurale Untersuchung** 
+
+- 8.3.1 MÖ aszendierende Aorta lange Achse 
+
+   - _Darstellung Kanülierungsstelle nach arterieller Dekanülierung / Ausschluss sekundäre Aortendissektion bei Fällen mit HLM bzw. partieller Ausklemmung_ 
+
+- 8.3.2 MÖ aszendierende Aorta kurze Achse 
+
+- 8.3.3 MÖ AK kurze Achse 
+
+   - Farbdoppler AK 
+
+- 8.3.4 MÖ RV inflow-outflow 
+
+DHZB I SOP Perioperative transösophageale Echokardiografie Nr.506 I Version Nr. 2.0 
+
+Seite 13 von 14 
+
+   - Farbdoppler TK 
+
+   - Farbdoppler PK 
+
+- 8.3.5 MÖ bikaval 
+
+- 8.3.6 MÖ modifiziert bikaval 
+
+   - Farbdoppler TK 
+
+- 8.3.7 MÖ lange Achse 
+
+   - Farbdoppler MK 
+
+- 8.3.8 MÖ AK lange Achse 
+
+   - Farbdoppler AK 
+
+- 8.3.9 MÖ 2-Kammer 
+
+   - Farbdoppler MK 
+
+- 8.3.10 MÖ mitral kommissural 
+
+   - Farbdoppler MK 
+
+- 8.3.11 MÖ 4-Kammerblick 
+
+   - Farbdoppler MK 
+
+   - Farbdoppler TK 
+
+- 8.3.12 3D Volumina (sämtlich als Multi Beat mit Bildwiederholfrequenz ≥20 bps) 
+
+   - 4D groß / 3D Komplettvolumen linker Ventrikel in MÖ 4-Kammer 
+
+   - 4D groß / 3D Komplettvolumen rechter Ventrikel in MÖ 4-Kammer mit dem rechten Ventrikel in Bildmitte gedreht 
+
+   - 4D Zoom / 3D-Zoom MK bei Z-Achse in sog. „Surgeon’s View“ mit AK auf 12:00 Uhr gedreht 
+
+   - _4D Zoom / 3D-Zoom MK mit Farbdoppler nach MKR/E_ 
+
+- 8.3.13 TG mittpapillär kurze Achse 
+
+   - M-Mode antero-posteriore Achse 
+
+- 8.3.14 TG 2-Kammerblick 
+
+- 8.3.15 TG lange Achse 
+
+   - Farbdoppler AK 
+
+DHZB I SOP Perioperative transösophageale Echokardiografie Nr.506 I Version Nr. 2.0 
+
+Seite 14 von 14 
+
+## _8.3.16 tief TG 5-Kammerblick (nach Aortenklappenersatz)_ 
+
+   - _Farbdoppler AK_ 
+
+- 8.3.17 deszendierende Aorta lange und kurze Achse (unter Verwendung von Multi-D Biplanar bzw. X- Plane) 
+
+- 8.3.18 HÖ Aortenbogen lange Achse 
+
+- 8.3.19 HÖ Aortenbogen kurze Achse 
+
+- _8.3.20 Besonderheiten bei spezifischen Indikationen bzw. nach bestimmten Eingriffen (s. a. mitgeltende SOPs zu Assistimplantation, Aortenchirurgie und Herztransplantation):_ 
+
+   - _über sämtliche neu implantierten / reparierten Klappen sind Flussgeschwindigkeiten bzw. - gradienten zu bestimmen_ 
+
+   - _nach Klappenersatz oder Ringannuloplastien müssen „benachbarte“ Klappen hinsichtlich anatomischer Distorsion und evtl. neu aufgetretener Insuffizienzen untersucht werden_ 
+
+   - _nach Mitral-, Trikuspidal- und / oder Aortenklappeneingriffen müssen Koronaraffektionen i. S. von regionalen Wandbewegungsstörungen ausgeschlossen werden (typischerweise RCA-Abgangskinking nach AKE, bzw. Cx-Verschluss nach MKR oder RCA-Verschluss nach TKR); diese Betrachtung sollte idealerweise im Eigenrhythmus erfolgen, um pacerbedingte Dyskinesien zu vermeiden_ 
+
+   - _Ausschluss signifikante LVOT-Beschleunigung, SAM-Phänomen nach MKR_ 
+
+   - _Ausschluss neu aufgetrene Pleuraergüsse (insbesondere re.) nach Systemexplantation / Sondenextraktion_ 
+
+## **9. Inkrafttreten** 
+
+Die SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
+

@@ -1,0 +1,2363 @@
+--- Page 1 ---
+Neurologische Universitätsklinik Heidelberg 
+Abteilung Neurologie und Poliklinik 
+ 
+ 
+SOP Behandlungsstandards der Notambulanz – Version 2017 
+ 
+ 
+ 
+ 
+SOP 
+der Notfallambulanz 
+ 
+Ziel:  
+Verbesserung der organisatorischen und medizinischen Abläufe in der 
+neurologischen Notambulanz 
+ 
+ 
+ 
+Autoren: 
+ 
+Dr. Anne Brault, Dr. Katharina Drüschler, PD Dr. Christoph Gumbinger, Dr. med. univ. Christian 
+Hametner, PD Dr. Solveig Horstmann, Dr. Sarah Löw, Dr. Matthias Osswald, Dr. Jan Purucker, Dr. 
+Christine Rasch, Prof Dr. Peter Ringleb, Dr. Andrea Viehöver, Prof Dr. Frank Winkler 
+Federführung: Prof. Dr. Simon Nagel 
+ 
+ 
+ 
+Freigabe: 
+ 
+Prof. Dr. S. Nagel, Prof. Dr. W.Wick 
+ 
+ 
+ 
+ 
+Version 2017 vom 24.11.2017 
+Datum Ablauf: 01.01.2020 
+ 
+ 
+ 
+
+--- Page 2 ---
+ 
+ 
+ 
+Inhalt 
+ 
+I 
+Einleitung und Zielsetzung .................................................................................................... 6 
+II 
+Organisationsabläufe ........................................................................................................... 7 
+II.1 
+Annahme und Erstversorgung von Patienten der Notaufnahme ........................................... 7 
+II.1.1 
+Vorankündigung und strukturierte Annahme von Notfallpatienten ............................ 7 
+II.1.2 
+Initiales Management von Patienten mit zeitkritischen Erkrankungen ........................ 8 
+II.1.3 
+Schockraumanagement ................................................................................................. 8 
+II.2 
+Aufnahmen/Verlegungen ....................................................................................................... 9 
+II.3 
+Teleneurologie...................................................................................................................... 10 
+II.4 
+FAST-Zentren ........................................................................................................................ 11 
+II.5 
+Triage der Patienten ............................................................................................................ 12 
+III 
+Hinweise zur Abklärung spezifischer neurologischer Syndrome ........................................... 14 
+III.1 
+Akuter ischämischer Schlaganfall und intracerebrale Blutung ............................................ 14 
+III.2 
+Bewusstseinsstörungen ........................................................................................................ 14 
+III.2.1 
+Anamnese: ................................................................................................................... 14 
+III.2.2 
+Klinische Untersuchung: .............................................................................................. 14 
+III.2.3 
+Diagnostik: ................................................................................................................... 14 
+Labor 
+14 
+Apparative Diagnostik .............................................................................................................. 15 
+III.2.4 
+Wichtige Differentialdiagnosen der Bewusstseinsstörung (qualitativ und quantitativ)
+ 
+15 
+III.3 
+Epilepsie ............................................................................................................................... 15 
+III.3.1 
+Anamnese/Fremdanamnese: ...................................................................................... 15 
+III.3.2 
+Klinische Untersuchung: .............................................................................................. 16 
+III.3.3 
+Diagnostik: ................................................................................................................... 16 
+III.3.4 
+Prozedere: ................................................................................................................... 17 
+III.3.4.1 
+Erster epileptischer Anfall im Erwachsenenalter .................................................... 17 
+III.3.4.2 
+Erneuter epileptischer Anfall bei bekannter Epilepsie ........................................... 17 
+III.3.4.3 
+Medikamentöse Prophylaxe epileptischer Anfälle ................................................. 17 
+III.3.4.4 
+Therapie des Status epilepticus .............................................................................. 18 
+III.4 
+Entzündliche ZNS-Erkrankungen .......................................................................................... 18 
+III.4.1 
+MS- Schubtherapie ...................................................................................................... 18 
+III.4.2 
+Besonderheiten und Nebenwirkungen bei Patienten unter immunmodulierender 
+Medikation .................................................................................................................................... 19 
+III.5 
+Kopfschmerz ......................................................................................................................... 19 
+III.5.1 
+Anamnese: ................................................................................................................... 19 
+III.5.2 
+Klinische Untersuchung: .............................................................................................. 19 
+III.5.3 
+Wichtigste Differentialdiagnosen des Kopfschmerz ................................................... 19 
+III.6 
+Subarachnoidalblutung ........................................................................................................ 19 
+III.6.1 
+Typische Befunde in Anamnese und klinischer Untersuchung : ................................. 19 
+III.6.2 
+Management ............................................................................................................... 20 
+III.6.3 
+Diagnostik: ................................................................................................................... 20 
+III.6.4 
+Procedere .................................................................................................................... 20 
+III.7 
+Zerebrale Sinus- / Venenthrombose ..................................................................................... 20 
+III.7.1 
+Typische Befunde in Anamnese und klinischer Untersuchung ................................... 20 
+III.7.2 
+Management ............................................................................................................... 21 
+III.7.3 
+Diagnostik .................................................................................................................... 21 
+
+--- Page 3 ---
+ 
+ 
+III.7.4 
+Procedere .................................................................................................................... 21 
+III.8 
+Bakterielle (eitrige) Meningoencephalitis ............................................................................ 21 
+III.8.1 
+Typische Befunde in Anamnese und klinischer Untersuchung ................................... 21 
+III.8.2 
+Management ............................................................................................................... 21 
+III.8.3 
+Diagnostik: ................................................................................................................... 22 
+III.8.4 
+Prozedere: ................................................................................................................... 22 
+III.9 
+Migräne ................................................................................................................................ 22 
+III.9.1 
+Typische Befunde in Anamnese und klinischer Untersuchung ................................... 22 
+III.9.2 
+Management ............................................................................................................... 22 
+III.9.3 
+Diagnostik .................................................................................................................... 23 
+III.9.4 
+Prozedere: ................................................................................................................... 23 
+III.10 
+Schwindel ............................................................................................................................. 23 
+III.10.1 
+Anamnese: ................................................................................................................... 23 
+III.10.2 
+Klinische Untersuchung und Diagnostik: ..................................................................... 24 
+III.10.3 
+Prozedere: ................................................................................................................... 25 
+III.11 
+Fazialisparese ....................................................................................................................... 25 
+III.11.1 
+Anamnese und klinische Untersuchung: ..................................................................... 25 
+III.11.2 
+Diagnostik: ................................................................................................................... 25 
+III.11.3 
+Prozedere: ................................................................................................................... 26 
+III.12 
+Besonderheiten bei Neuroonkologischen Krankheitsbildern ............................................... 26 
+III.12.1 
+Blutbildveränderungen und Fieber bei Hirntumorpatienten unter Chemotherapie .. 26 
+III.12.1.1 Grundsätzliches: ...................................................................................................... 26 
+III.12.1.2 Definition der Neutropenie: ................................................................................... 26 
+III.12.2 
+Chemotherapie induzierte Anämie: ............................................................................ 27 
+III.12.3 
+Chemotherapie induzierte Thrombozytopenie: ......................................................... 27 
+III.12.4 
+Verdacht auf ZNS-Lymphom ....................................................................................... 27 
+III.12.5 
+Patienten mit Hirntumoren, Metastasen oder neuen zerebralen Raumforderungen 27 
+III.13 
+Funktionelle Beschwerden in der Notfallambulanz ............................................................. 28 
+III.13.1 
+Psychogene 
+Anfälle, 
+dissoziative 
+Lähmungen, 
+Gefühlsstörungen 
+oder 
+Gangsstörungen ............................................................................................................................ 29 
+III.13.1.1 Psychogene Anfälle ................................................................................................. 29 
+III.13.1.2 Lähmungen ............................................................................................................. 29 
+III.13.1.3 Gefühlsstörungen ................................................................................................... 30 
+III.13.1.4 Gangsstörungen ...................................................................................................... 30 
+III.13.2 
+Prozedere .................................................................................................................... 30 
+IV 
+Fahrtauglichkeit ................................................................................................................. 31 
+V 
+Hygienemaßnahmen .......................................................................................................... 33 
+VI 
+Dokumentation und Codierung ........................................................................................... 34 
+VII 
+Literatur ............................................................................................................................. 37 
+VIII Anhang .............................................................................................................................. 38 
+VIII.1 
+SOP Schockraummanagement ............................................................................................. 38 
+VIII.2 
+Annahmeprotokoll Schockraum ........................................................................................... 39 
+VIII.3 
+Triage-Algorithmus .............................................................................................................. 40 
+VIII.4 
+DD der qualitativen und quantitativen Bewusstseinsstörung (Auswahl) ............................ 41 
+VIII.5 
+Differenzialdiagnosen Kopfschmerz (Auswahl) .................................................................... 42 
+VIII.6 
+Pathway bakterielle (eitrige) Meningitis; modifiziert nach DGN-Leitlinie ........................... 43 
+VIII.7 
+Lyse-Box NFA-Kopfklinik ....................................................................................................... 44 
+VIII.8 
+Inhalt Notfallkoffer (Kreislauf und Verbände) ...................................................................... 45 
+
+--- Page 4 ---
+ 
+ 
+VIII.9 
+Verfahrensanweisung Actilyse ............................................................................................. 46 
+VIII.10 Verfahrensanweisung Praxbind ........................................................................................... 47 
+VIII.11 Verfahrensanweisung Blutgasanalse ................................................................................... 48 
+VIII.12 Kommunikation und Übernahmezeitpunkte bei Verlegungen ............................................. 49 
+VIII.13 Merkblatt zur ambulanten dringlichen Facharztüberweisung ............................................ 50 
+ 
+ 
+
+--- Page 5 ---
+ 
+ 
+Tabellen- und Abbildungsverzeichnis 
+ 
+Tabelle 1: Untersuchungen bei Aufnahme (Pflege) 
+Tabelle 2: Differenziadiagose bei anfallsartigen Störungen 
+Tabelle 3: Behandlung des Status epilepticus 
+Tabelle 4: Häufigkeit verschiedener Schwindeldiagnosen 
+Tabelle 5: Differenzialdiagnose Schwindel-HINTS 
+Tabelle 6: Bedeutsame Verläufe funktioneller Beschwerden 
+ 
+ 
+ 
+
+--- Page 6 ---
+ 
+ 
+I 
+Einleitung und Zielsetzung 
+Wir sehen uns in unserer Notfallambulanz (NFA) in den vergangenen Jahren mit steigenden 
+Patientenzahlen konfrontiert. Die Patienten suchen zunehmend selbst die NFA auf oder werden von 
+Haus-, Fachärzten und anderen Kliniken eingewiesen oder vom Rettungsdienst eingeliefert. Das 
+Spektrum der Diagnosen reicht dabei von akuten Schlaganfällen über Kopfschmerzen, Schwindel, 
+peripher-neurologischen Erkrankungen, Bewegungsstörungen, Infektionen des ZNS-Systems bis zu 
+nicht-neurologischen 
+Krankheitsbildern 
+(Infektionen 
+außerhalb 
+des 
+ZNS-Systems, 
+Elektrolytentgleisungen, Intoxikationen...)1.   
+ 
+Die Patienten bedürfen einer der individuellen Dringlichkeit angepassten Diagnostik und Therapie. 
+Seit 2015 haben wir eine formalisierte Ersteinschätzung der Dringlichkeit eingeführt. Verschiedene 
+diagnostische und therapeutische Maßnahmen können ebenfalls standardisiert werden. Dieses 
+Manuskript enthält Empfehlungen für Behandlungsstandards der NFA-Patienten der Neurologischen 
+Klinik des Universitätsklinikums Heidelberg. Die Behandlungsstandards orientieren sich an den 
+Leitlinien der DGN und der einschlägigen Literatur, konkretisieren und ergänzen diese jedoch in 
+einzelnen Punkten.  
+ 
+Es handelt sich um Empfehlungen, d.h. mit Begründung kann hiervon natürlich abgewichen werden. 
+Diese Empfehlungen ergänzen die Behandlungsstandards der N5 (Stroke Unit/- und Wachstation), 
+sowie die Behandlungsstandards der N4 (Intensivstation),  sowie die SOP Rekanalisierende Therapie 
+unserer Abteilung.  
+ 
+Weiterhin sollen prozedurale Entscheidungshilfen vorgegeben werden, d.h. bei welchen Patienten ist 
+welche Diagnostik sinnvoll oder sogar zwingend, bei welchen Patienten können wir auf eine  
+sofortige weiterführende Diagnostik verzichten, in welchen Situation ist eine stationäre Aufnahme 
+angezeigt und in welchen eine ambulante Abklärung ausreichend. 
+ 
+Ziel dieses Manuskripts ist es, nicht alle relevanten neurologischen Erkrankungen mit 
+Notfallcharakter 
+ähnlich 
+einem 
+Lehrbuch 
+abzuhandeln, 
+sondern 
+vielmehr 
+konkrete 
+Handlungsanweisungen bzw. –empfehlungen für unseren Alltag zu liefern. 
+ 
+ 
+Alle im Folgenden angegebenen Medikamente und Dosierungen wurden nach bestem 
+Wissen recherchiert. Dennoch obliegt die korrekte Anwendung, insbesondere die 
+Berücksichtigung von Kontraindikationen, dem verantwortlichen und indizierenden Arzt! 
+Zu Dosierungen, Applikationsformen, Wechselwirkungen siehe auch AID 
+
+--- Page 7 ---
+ 
+ 
+II Organisationsabläufe 
+II.1 
+Annahme und Erstversorgung von Patienten der Notaufnahme 
+Unangemessene Diskussionen mit dem Rettungsdienstpersonal oder niedergelassenen Kolleginnen 
+und Kollegen über mögliche Verdachtsdiagnosen sind zu unterlassen. Dies erfordert jedoch eine 
+kritische Einschätzung sowohl des Rettungsdienstes/Arztes vor Ort als auch des annehmenden Arztes 
+im Sinne einer möglichst initial direkt korrekten Patientenzuordnung, um Wartezeiten, unnötige 
+Behandlungen und Sekundärtransporte zu vermeiden. 
+ 
+Bei Patienten, welche auf Zuweisung durch einen Notarzt und in Begleitung des Notarztes in die NFA 
+der Kopfklinik angeliefert werden, besteht eine Annahmepflicht. Die Annahme erfolgt grundsätzlich 
+durch den diensthabenden Arzt. Bei Patienten, welche durch den Rettungsdienst ohne 
+Notarztbegleitung angeliefert werden oder welche sich eigenständig vorstellen, erfolgt unmittelbar 
+eine Triage durch die Pflege der Notfallambulanz und ggf. eine unmittelbare Information an den 
+diensthabenden Arzt. Ausnahme: Patienten mit zeitkritischen Erkrankungen und vorheriger 
+Ankündigung (Kapitel II.1.1) durch die Leitstelle ohne Notarztbegleitung sind primär durch den 
+diensthabenden Arzt anzunehmen, vorab erfolgt bereits telefonisch eine Einschätzung der Triage als 
+Unterstützung für die Rettungssanitäter  (Kapitel II.3). 
+II.1.1 
+Vorankündigung und strukturierte Annahme von Notfallpatienten 
+Nachweislich beschleunigt die Vorankündigung von Patienten die innerklinische Versorgung2. Dies 
+gilt insb. für zeitkritische Krankheitsbilder wie akute zerebrovaskuläre Ereignisse und Meningitis. 
+ 
+Es erfolgt daher vom Rettungsdienst ausgehend ein direktes Gespräch mit dem diensthabenden Arzt. 
+Annahmen über die Leitstelle erfolgen nur, sofern nicht anders möglich. Es sollte in diesen Fällen um 
+einen Rückruf der den Patienten präklinisch versorgenden Kollegen gebeten werden. 
+ 
+Bis zur Umstellung auf eine digitale Lösung werden standardmäßig abgefragt und dokumentiert (dies 
+kann auch während des begonnenen Transports des Patienten erfolgen): 
+ 
+- 
+Geburtsdatum des Patienten 
+- 
+Vorname, Nachname 
+- 
+Akute Symptomatik inkl. Einschätzung des Schweregrads (sNIHSS-EMS Summe) 
+- 
+A, B oder C Problem? -> Bei A/B/C Problem: s. Schockraummanagement 
+- 
+Zeitfenster: Erstes Auftreten der Symptome und letzter Zeitpunkt, in dem der Patient im 
+Vorzustand war. 
+- 
+Vorzustand des Patienten (~ pmRS) 
+- 
+Multiresistenter Keim oder anderer Isolationsgrund? 
+- 
+Antikoagulation? (gezielte Abfrage von Apixaban (Eliquis), Dabigatran (Pradaxa), Edoxaban 
+(Lixiana), Rivaroxaban (Xarelto) , sowie Phenoprocoumon (Marcumar®)) 
+- 
+Vorliegen einer Patientenverfügung/vollmacht 
+- 
+Telefonnummer von Angehörigen 
+- 
+Telefonnummer für Rückfragen 
+- 
+Transportdauer 
+- 
+Zeitpunkt der Annahme des Patienten 
+ 
+ Patientenverfügungen/-vollmacht sollen direkt mitgebracht werden 
+ Angehörige sollen aufgefordert werden, sich in der Nähe eines Telefons zu Hause erreichbar 
+zu halten, wenn eine Erreichbarkeit auf dem Weg in die Klinik nicht durchgehend 
+gewährleistet ist. 
+ 
+
+--- Page 8 ---
+ 
+ 
+Bereits während des Transports versucht der annehmende Arzt weitere benötigte Informationen aus 
+Vorbriefen und Angehörigengesprächen zu erfahren. 
+ 
+ 
+Die Anmeldung eines Patienten erfolgt an der Pforte der Kopfklinik. Mitarbeiter des Rettungsdienstes 
+sollen hierfür möglichst direkt bei Ankunft an der Kopfklinik die Versicherungskarte an der Pforte 
+abgeben. 
+ 
+Bei Eintreffen in der NFA erfolgt eine Übergabe des Rettungsdienstes an die Pflege und den 
+zuständigen Arzt: 
+- 
+Patient verbleibt auf Rettungsdienst-Trage 
+- 
+NA/RD machen kurze strukturierte Übergabe 
+- 
+NA/RD steht für Rückfragen zur Verfügung 
+- 
+Umlagerung, Übernahme Patientenversorgung durch NFA-Team 
+ 
+Alle Mitglieder des den Patienten versorgenden NFA-Teams folgen der Übergabe. Keine 
+Manipulationen (Ausnahme z.B. laufende Reanimation) am Patienten während der Übergabe. Bei der 
+Übergabe durch den NA/RD sowie bei Rückfragen von Seiten des NFA-Teams ist auf einen sachlich 
+kollegialen Umgangston zu achten. Ein positives Feedback über korrekte Diagnose und Behandlung 
+an den RD ist ausdrücklich erwünscht. 
+II.1.2 
+Initiales Management von Patienten mit zeitkritischen Erkrankungen 
+Bei Patienten mit zeitkritischen Erkrankungen erfolgt eine Parallelisierung der Abläufe: 
+ 
+ Zwei ärztliche Kollegen (wenn machbar) nehmen Übergabe entgegen 
+ 1. Kollege verbleibt am Patienten und koordiniert und unterstützt die Erstversorgung 
+(Eigenanamnese, 
+Erstuntersuchung, 
+Zugang, 
+Blutentnahme, 
+mögliche 
+KM-Allergien 
+erfragen). 
+ 2. Kollege übernimmt die Anmeldung der notwendigen Diagnostik im ISH und informiert die 
+Neuroradiologie und ggf. die N5/N4. Rückmeldung an den 1. Kollegen über den Status. 
+ 2. 
+Kollege 
+holt 
+weitere 
+benötigte 
+Informationen 
+z.B. 
+Fremdanamnese 
+von 
+Angehörigen/Hausarzt ein. Des Weiteren erfolgt eine kurze Erstinformationen der 
+Angehörigen. 
+ 
+Die 
+weitere 
+Versorgung 
+von 
+Schlaganfallpatienten 
+ist 
+im 
+Behandlungsstandard 
+(SOP)„Rekanalisierende Therapie“ geregelt. 
+II.1.3 
+Schockraumanagement 
+Grundsätzlich erfolgt die strukturierte Annahme von Schockraumpatienten mit derselben 
+Gründlichkeit 
+wie 
+bei 
+anderen 
+akuten 
+Notfallpatienten 
+(Anhang: 
+Anhang: 
+„SOP 
+„Schockraummanagement“). Anmerkung: Der Schockraum in der Kopfklinik ist nicht im eigentlichen 
+Sinn ein (Trauma-)schockraum, sondern intubierten und kardiorespiratorisch instabilen Patienten 
+vorenthalten. 
+ 
+Zwecks frühzeitiger Vorbereitung und Planung nötiger Ressourcen werden zudem gezielt die 
+folgenden Parameter abgefragt (Anhang: „Annahmeprotokoll Schockraum): 
+ 
+ABCD(E) (Airway, Breathing, Circulation, Disability, Exposure) 
+ 
+A: z.B. Atemwegsprobleme/-verlegung 
+B: Aktueller Ventilationsstatus (endotrachealer Tubus? Larynxtubus? Larynxmaske?) 
+
+--- Page 9 ---
+ 
+ 
+A+B: Umintubation notwendig? 
+C: Zirkulationsstörung? Aktive Blutung? 
+D: kritische Begleiterkrankung/-verletzung 
+E: besondere Umstände, mögliche Intoxikationen, Hypothermie? 
+ 
+Ggf. erfolgt bereits über eine Voranmeldung des Patienten im ISH: 
+ 
+- 
+Information Neurorad über (beamtetes) CCT, cMRT, 
+- 
+Information N4 (INT2) 
+- 
+Information Oberarzt 
+- 
+Ggf. Information Anästhesie 
+- 
+Weitere benötigte Fachdisziplinen 
+ 
+Es werden vorbereitet/vorgehalten (1 Pflegekraft NFA): 
+ 
+- 
+2 kristalloide Infusionen mit 3-Wegehähnen 
+- 
+Notfallspritzen (Arterenol, Suprarenin) 
+- 
+Sedierung (Disoprivan und Midazolam) 
+- 
+Relaxantien (Rocuronium, Esmeron®) 
+- 
+Zugang zu BTM-Medikamenten („Schlüsselträger“) 
+- 
+Ggf. benötigtes Material für (Um-)Intubation 
+- 
+Notfallkoffer für Transporte (Anhang: „Inhalt Notfallkoffer (Kreislauf und Verbände)“) 
+ 
+Bei Eintreffen des Patienten im Schockraum sind neben der NFA-Pflegekraft ein zusätzlicher 
+„Springer“, 2 diensthabende Neurologen/darunter mind. 1 Intensiv-erfahrener Arzt, ggf. weitere 
+benötigte Fachdisziplinen zugegen. 
+ 
+Die Übergabe eines Patienten mit ABC-Problem erfolgt im Schockraum. Die Übergabe erfolgt im 
+Beisein des Schockraumteams durch den zuweisenden Notarzt. Eine Umlagerung des Patienten 
+erfolgt erst nach der strukturierten Übergabe (ABCDE; s.o.). Der Schockraum-Leader dokumentiert 
+stichwortartig (Anhang: „Annahmeprotokoll Schockraum“). 
+Neben der Blutentnahme (Vorbelegung IS-H: „Schockraumroutine“) erfolgt die Abnahme einer 
+venösen BGA (Anhang: „Verfahrensanweisung BGA“). Die weitere Versorgung erfolgt gemäß dem 
+jeweiligen Krankheitsbild. 
+II.2 
+Aufnahmen/Verlegungen 
+Patienten mit akuten Schlaganfällen werden (Kapazität vorausgesetzt) entweder auf Station N5 
+(Stroke Unit) oder die N4 (Intensivstation) aufgenommen. Wenn dies nicht möglich ist, sind die 
+Stroke Units in Heppenheim und Sinsheim zu präferieren. Besteht bei einem Patienten die 
+Symptomatik bereits seit mehr als fünf Tagen (stabiler klinischer Befund), ist auch die Aufnahme auf 
+eine Normalstation möglich.  
+Hinsichtlich der Verlegung auf die N5/N4 gilt, dass eine Verlegung so schnell wie möglich erfolgen 
+sollte, spätestens jedoch 45 Minuten nach Ankündigung des Patienten auf Station. Die Ankündigung 
+erfolgt vom Arzt der NFA an den Arzt der N5/N4, dieser informiert die jeweilige Pflege der Station. 
+Der genaue Übernahmezeitpunkt wird zwischen der Pflege NFA und der Pflege der Station 
+vereinbart. 
+Die Verlegung ist bei Lysepatienten vom Arzt der NFA zu begleiten. Dies gilt ebenso bei akuten (nicht 
+lysierten) Schlaganfallpatienten sowie bei instabilen oder Patienten mit fluktuierender Symptomatik. 
+Sondersituation: Sollten mehrere Patienten (>2) gleichzeitig auf die Station aufgenommen werden, 
+ist der 3. Patient solange in der NFA zu überwachen, bis die Versorgung der Aufnahmen auf der N5 
+erfolgt ist und dort wieder Kapazitäten für einen weiteren Zugang frei sind (Anhang:  
+„Kommunikation und Übernahmezeitpunkte bei Verlegungen“) 
+
+--- Page 10 ---
+Behandlungsstandards Notfallambulanz
+Bei externen Verlegungen (Liste externer Krankenhäuser) sollte so früh wie möglich das
+Transportmittel (in der Regel qualifizierter Krankentransport, z.B. Krankentransportwagen (KTW)
+angefordert werden, um die Wartezeiten für die Patienten so gering wie möglich zu halten. Ist eine
+Aufnahme auf eine Überwachungsstation indiziert, diese aber bei uns nicht möglich, muss der
+Transport mit einem KTW erfolgen (trotz langer Wartezeiten). Der private Transport ist in diesem Fall
+absolut kontraindiziert. Ist eine Aufnahme auf eine externe Normalstation geplant, kann ggf. ein
+privater Transport des Patienten erfolgen, sofern dies der klinische Befund zulässt. Wir sollten diese
+privaten Transporte aber keinesfalls anregen oder gar verlangen.
+Eine Übernachtung in der NFA aufgrund fehlender Transportkapazität sollte in jedem Fall vermieden
+werden. Im Notfall erfolgt eine Aufnahme im Haus bis zum nächsten Morgen.
+Bei Patienten, die ein CCT erhalten haben und nicht in domo aufgenommen wurden, ist unbedingt an
+die Dokumentation für die nächste Neuroradiologie-Konferenz zu denken (Vorlage_CT_Liste).
+Patienten mit neuroonkologischen Erkrankungen sollten vornehmlich auf die Station Neuro 1 und
+Patienten mit allgemeinen neurologischen Erkrankungen auf unsere Stationen Neuro 2 und 3
+aufgenommen werden. Wenn eine Aufnahme nötig ist, können weitere diagnostische Maßnahmen
+auch von Station erfolgen.
+II.3 Teleneurologie
+Teleneurologisch werden folgende Kliniken mitbetreut (O:/Notambulanz/Organisation):
++--------------------------------+--------------+-----------------------------------+--------------------------------------+
+| Krankenhaus                    | Tel.- Nummer | Dienstarzt (NFA)                  | Stroke unit/ITS                      |
++--------------------------------+--------------+-----------------------------------+--------------------------------------+
+| Bad Kreuznach, St. Marienwörth | 0671-372-0   | 0671-372-4222 0671-372-4419       | 0671-372-4111                        |
+| Bruchsal Fürst Stirum Klinik   | 07251-708-0  | 07251-708-57440                   |                                      |
+| KKH Erbach                     | 06062 - 79-0 | 06062-79-7315 06062-79-7071       | 06062-797071                         |
+| Kreisklinik Groß-Umstadt       | 06078-79-0   | 06078-79-3200                     | 06078-79-2704, 06078- 79-2725        |
+| KKH Bergstraße/Heppenheim      | 06252-701-0  | 06252-701-920 99 06252-701-921 06 | 06252-701-92183                      |
+| KKH Mosbach                    | 06261 – 83-0 | 06260-83-8147                     | 06062-83-8166                        |
+| Öhringen, Hohenloher KH        | 07941 692-0  | 07941-692-8011                    | 07941-692-310                        |
+| GRN Klinik Sinsheim            | 07261 66-0   | 07261 – 66-1113 07261-66-111      | 07261-66-17111 (werktags 8-00-17-00) |
++--------------------------------+--------------+-----------------------------------+--------------------------------------+
+
+Telefonnummern der Luftrettung:
++--------------+--------------+--------------+
+| Luftrettung  | Standort     | Tel.- Nummer |
++--------------+--------------+--------------+
+| Christoph 2  | Frankfurt    | 069-19222    |
+| Christoph 5  | Ludwigshafen | 0621-19222   |
+| Christoph 16 | Saarbrücken  | 0681-19222   |
+| Christoph 43 | Baden Baden  | 07222-19222  |
+| Christoph 51 | Stuttgart    | 07141-19222  |
+| Christoph 53 | Mannheim     | 06221-19222  |
+| Christoph 77 | Mainz        | 06131-19222  |
++--------------+--------------+--------------+
+
+
+--- Page 11 ---
+ 
+ 
+II.4 
+FAST-Zentren 
+Hinsichtlich des FAST-Netzwerkes verweisen wir auf die SOP „FAST“ 
+ 
+Laufwerk O:/FAST
+
+--- Page 12 ---
+Behandlungsstandards Notfallambulanz
+II.5 Triage der Patienten
+Ziel der Triage ist eine rasche Einschätzung der Dringlichkeit einer ärztlichen Behandlung und eine
+systematische Organisation der Abläufe in der NFA. Die Triage wird grundsätzlich von der Pflegekraft
+vorgenommen, welche den Patienten annimmt. Die Übergabe durch den Notarzt/Rettungsdienst
+erfolgt direkt an den Arzt, Pflege ist dabei anwesend. Es erfolgt eine kurze zielgerichtete Anamnese
+(Währenddessen: Messen der Vitalparameter, Legen von Zugang, Blutabnahme durch Pflege). Ein
+Arztkontakt ist bei akuten Notfällen („1er“) oder Unklarheit ist sofort herzustellen. Es erfolgt das
+Ausfüllen der Leitsymptome und der Triagezahl (sowie weiterer Parameter) auf dem Pflegebogen,
+sowie ggf. Kennzeichnung im ISH in Zukunft (Anhang: „Triage-Algorithmus“).
+Tabelle 1: Untersuchungen bei Aufnahme (Pflege)
++--------+------------+----------------------+
+| Gruppe | Diagnostik | Zeitpunkt/Indikation |
++--------+------------+----------------------+
++--------+------------+----------------------+
+
+Strukturiertes Gespräch im Erstkontakt
+Triage Sofort
+bei Annahme des Patienten
+Vital- Blutdruck Umgehend
+Parameter
+Herzfrequenz Umgehend
+Monitorüberwachung Sofort bei Patienten mit Triagestufe 1 oder
+(RR, Puls, HF, spO ) anderweitig zu überwachenden
+2
+Indikationen
+12- Kanal- EKG Bei geeigneten Fragestellungen im Verlauf
+(z.B. VHF?)
+Temperatur aurikulär Umgehend
+Labor Routine: Blutbild, Na, K, Glu, Kreatinin, Umgehend bei Triage Kategorie 1 und 2
+Harnstoff, CK, PTT, INR, TZ, als Notfall im Zentrallabor oder im Verlauf
+nach ärztlicher Rücksprache bei Kategorie
+3 und 4 (nicht als Notfall)
+Vor KM-Gabe
+TSH
+Bei spezieller Fragestellung
+CRP, TNT
+BGA Umgehend (Anhang: „Anhang:
+"Verfahrensanweisung BGA")
+INR Wenn dringlich, dann per POCT
+Ecarin-Clotting-Time, Substanz- Bei V.a. Einnahme von Dabigatran,
+spezifische Anti-Xa-Aktivität, Rivaroxaban , Apixaban oder Edoxaban
+Dabigatran-Konzentration nach ärztlicher Anordnung
+D-Dimere Z.B. bei V.a Sinusvenenthrombose
+Prolaktin Ggf. bei DD: Anfall/Synkope
+
+--- Page 13 ---
+ 
+ 
+Patienten der Kategorie 2 sollten durch die zuständige Pflegekraft bis zum Arztkontakt alle 30 min re-
+evaluiert werden. Insbesondere soll eine Verschlechterung oder das Auftreten neuer Symptome 
+abgefragt werden. 
+Bei Patienten der Kategorie 4 ist frühzeitig (innerhalb von 30 min nach Anmeldung) durch ein 
+ärztliches Gespräch die Möglichkeit der  „dringliche Facharztüberweisung“ zu überprüfen. Die 
+Möglichkeit der dringlichen Facharztüberweisung sollte nicht vornehmlich für solche Patienten 
+verwendet werden, welche schon durch uns ärztlich untersucht wurden und z.B. eine Ephys 
+empfohlen wurde. Wenn eine solche Diagnostik nach unserer Einschätzung dringlich ist, sollte sie 
+hier erfolgen. Es sollte vermieden werden, dies dem Patienten nach 2 h Wartezeit anzubieten. Eine 
+Anmeldung im System sollte trotzdem erfolgen, damit wir einen Überblick haben, bei welchen 
+Patienten eine Empfehlung zur dringlichen Facharztüberweisung erfolgt ist. Als Diagnosekode sollte 
+die Z71 (Beratung) verwendet werden und ein kurzer Vermerk im Feld Behandlung erfolgen. 
+Letzteres erfolgt über Patientenorganizer > Fall > Termine/Bew > Doppelklick auf den aktuellen Fall > 
+Besuchsdaten > Eintrag bei Bemerkung: „dringliche Facharztüberweisung“. 
+ 
+Für die dringliche Facharztüberweisung muss der Hausarzt eine Überweisung mit einem Code 
+versehen, den der Hausarzt schon vorrätig haben sollte, sonst kann er diese unter 
+terminservice@kvbawue.de anfordern. Eine „Überweisung“ von uns ist nicht möglich. 
+ 
+Nach Erhalt der Überweisung meldet sich der Patient bei der KV Ba-Wü (08-16.00 Uhr): Tel 0711- 
+78753966, die Kassenärztliche Vereinigung (KV) garantiert einen Facharzttermin innerhalb von 4 
+Wochen, nach Angabe der KV sind aktuell Terminvereinbarungen aber meist innerhalb einiger Tage 
+möglich (dringliche Facharztüberweisung). 
+
+--- Page 14 ---
+ 
+ 
+III Hinweise zur Abklärung spezifischer neurologischer Syndrome 
+III.1 
+Akuter ischämischer Schlaganfall und intracerebrale Blutung 
+Hinsichtlich der Behandlung des akuten ischämischen Schlaganfalls und der intracerebralen Blutung 
+verweisen wir auf die SOP „Rekanalisierende Therapie“ sowie die „Behandlungsstandards der 
+Schlaganfall und Wachstation“. 
+ 
+Für die Notfallambulanz sind folgende Dokumente aus den Behandlungsstandards der Schlaganfall- 
+und Wachstation wichtig: 
+NIHSS-Bogen (bei jedem Schlaganfall auszufüllen) 
+"Rekanalisation-Einwilligung" 
+"Thrombolyse-Kontraindikationen" 
+"Zeitdokumentation Thrombolyse/Thrombektomie" 
+"Dosierungstabelle Thrombolyse" 
+„Verfahrensanweisung Actilyse“ 
+„Verfahrensanweisung Praxbind®“ 
+„Lyse-Box NFA Kopfklinik“ 
+III.2 
+Bewusstseinsstörungen 
+Formal können die Bewusstseinsstörungen in qualitative und quantitative Bewusstseinsstörungen 
+eingeteilt werden. 
+III.2.1 
+Anamnese:  
+Anhang: „Annahmeprotokoll Schockraum“ 
+III.2.2 
+Klinische Untersuchung:  
+A- Atmung: Spontanatmung, Belüftung Lunge, Vitalparameter: SpO2, venöse BGA, RR, HF, 
+Temperatur 
+B- Bewusstsein: wach, somnolent, soporös, komatös? 
+C- Kognition: orientiert? Befolgt Aufforderungen? 
+D- Diagnostik: Meningismus, Augenstellung, Pupillen, Hirnstammreflexe, Reaktion auf 
+Schmerzreize an den Extremitäten und trigeminal, Beuge-/Strecksynergismen, Babinski-
+Zeichen,  
+E- Eindruck/Inspektion: Hinweis auf Trauma, Vergiftung, Vorerkrankungen 
+III.2.3 
+Diagnostik: 
+Labor 
+Immer: 
+o Venöse BGA (Elektrolyte, Glucose, pO2, pCO2, …) Vorteil: schnelle Ergebnisse! 
+o Notfalllabor/ Analysezentrum: Gerinnung, E’lyte, Blutbild, Nierenwerte, Glucose, CRP 
+Zusätzlich, wenn indiziert: 
+o CoaguCheck (INR bei Antikoagulation bzw. unklaren Medikamenten; bzw. z.B. Anti-Xa-Aktivität, 
+Dabigatrankonzentration bei NOAK) 
+o TSH (bei bekannter SD-Erkrankung und KM-Gabe) 
+o Prolaktin (zur Abgrenzung Grand mal/komplex-fokaler Anfall versus psychogener Anfall; nur 
+sinnvoll, wenn Abnahme max. 30 Minuten nach Anfall; nicht zur Abgrenzung einer Synkope 
+geeignet) 
+o Tox-Screening (bei [vermuteter] Einnahme von Drogen oder Medikamenten) 
+
+--- Page 15 ---
+Behandlungsstandards Notfallambulanz
+o Medikamentenspiegel (z.B. bei Einnahme von Antiepileptika, Lithium, Theophillin)
+Erweitert:
+o Liquordiagnostik (Hinweis auf Meningitis (bakteriell/viral), SAB)
+Apparative Diagnostik
+o Primäre Bildgebung: CCT (Vorteil: schnell verfügbar) und CT-Angio (A. basilaris? Aneurysma?), CT-
+Perfusion nur bei spezifischer Fragestellung
+o Knochenfenster/Mittelgesicht und ggf. Darstellung der HWS (Hinweis auf Trauma, eher NCH-
+Patienten)
+o CT-NNH (Fokussuche bei hochgradigem V.a. Meningitis)
+o cMRT (z.B. Ausdehnung von Hirnstammläsionen bei Basilarisverschluss)
+o EEG (bei V.a. Status epilepticus)
+o CT Thorax/Abdomen (z.B. bei V.a. Aortendissektion, akutem Abdomen, V.a. Lungenembolie...)
+III.2.4 Wichtige Differentialdiagnosen der Bewusstseinsstörung (qualitativ und quantitativ)
+(Anhang: „DD der qualitativen und quantitativen Bewusstseinsstörungen“)
+III.3 Epilepsie
+Patienten mit Anfallserkrankungen werden häufig in unserer NFA behandelt. Die folgenden
+Ausführungen sollen Hinweise zur gezielten Anamneseführung und Diagnostik oder unklaren
+anfallsverdächtigen Syndromen liefern.
+III.3.1 Anamnese/Fremdanamnese:
+o Augenstellung: Augen offen, starr, leer oder zur Seite
+o Dauer: einzelner Anfall < 2 Minuten
+o Unterschiedliche Anfallstypen (Klassifizierung: siehe z.B. Neuauflage Springer-Lehrbuch
+Neurologie, 2015; "komplex fokal" etc. ist nicht suffizient!) - Semiologie oft konstant von Anfall
+zu Anfall
+o Reorientierung: postiktal variabel- oft verlangsamt
+o bei Grand-Mal: oft Zungenbiss mit Blut vor dem Mund, Einnässen
+o Aurasymptomatik und postiktale Symptome aktiv erfragen
+o Provozierende Faktoren (Schlafentzug, Alkohol, Drogen, Medikamente...) aktiv erfragen
+o Begleitverletzungen beachten (Traumafolgen)
+o bei Grand-Mal- Anfällen meist CK-Erhöhung und Muskelkater am Folgetag
+Tabelle 2: Differentialdiagnose bei anfallsartigen Störungen (http://www.dgn.org/leitlinien)
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------+
+|                                                                                                                                                                                                                                                              | Epileptischer Anfall                                               |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------+
+|  Augen offen, starr, leer oder verdreht  Dauer: < 2 Minuten  höchst unterschiedliche Anfallsphänomene (oft konstant von Anfall zu Anfall)  Reorientierung postiktal variabel – oft verlangsamt  Bei tonisch-klonischen Anfällen Muskelkater am Folgetag |                                                                    |
+|                                                                                                                                                                                                                                                              | Psychogener nicht epileptischer Anfall (siehe auch Kapitel III 7.) |
+|  Augen oft geschlossen (“wie schlafend”, u.U. zugekniffen)  Dauer: oft 2 Minuten  Variable Anfallsphänomene von Anfall zu Anfall  Häufig atonisch  Oft verzögerte Reorientierung mit Gedächtnislücke für das Ereignis                                   |                                                                    |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------+
+
+
+--- Page 16 ---
+Behandlungsstandards Notfallambulanz
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------+
+|                                                                                                                                                                                                                                          | (konvulsive) Sykope          |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------+
+|  Augen offen, nach oben verdreht  Asynchrone Myoklonien und variable Abläufe  Oft: Armbeugung, Beinstreckung, rasche Reorientierung (<1 Minute)                                                                                       |                              |
+|                                                                                                                                                                                                                                          | REM-Schlaf-Verhaltensstörung |
+|  Augen geschlossen  In der zweiten Nachthälfte  Oft jede Nacht  Unruhe, periodisch, mit komplexen Handlungen und Bewegungen, oft wiederholt („an- und abschwellende“ Phönomenologie)  Nach dem Wecken (unmittelbar) Traumerinnerung |                              |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------+
+
+III.3.2 Klinische Untersuchung:
+o Ausführliche neurologische Untersuchung (bei bewusstseinsgestörten Patienten siehe dort)
+o besonderer Fokus auf: Vigilanz (im Verlauf), Schutzreflexe, Atmung (Benzodiazepine erhalten?),
+Körpertemperatur
+o persistierendes fokal neurologisches Defizit (erweiterte Diagnostik zur Abgrenzung postiktal
+versus Ischämie (z.B. cMRT) indiziert?)
+III.3.3 Diagnostik:
+Labor:
+Immer:
+o Notfalllabor/Analysezentrum: Elektrolyte (Hyponatriämie?), Glukose (Hypoglykämie?), CK,
+Nierenwerte, Gerinnung, BB
+Zusätzlich, wenn indiziert:
+o Prolaktin (zur Abgrenzung Grand mal/komplex-fokaler Anfall versus psychogener Anfall; nur
+sinnvoll, wenn Abnahme max. 30 Minuten nach Anfall; nicht zur Abgrenzung einer Synkope
+geeignet)
+o Medikamentenspiegel (bei Antiepileptika-Einnahme zur Kontrolle der Medikamenten-
+Compliance, s.u.)
+o CRP (infektassoziert?)
+o Blutalkoholkonzentration (bekannter oder vermuteter Alkoholabusus)
+o Schwangerschaftstest bei Frauen im gebärfähigen Alter (nur wenn der Beginn einer dauerhaften
+antikonvulsiven Medikation geplant ist)
+Erweitert:
+o Lumbalpunktion bei V.a. Meningitis/Encephalitis (Fieber, Infektwerte, prolongierte
+Bewusstseinsstörung?); und ggf. beim ersten, ätiologisch noch ungeklärten Anfall im Verlauf
+einer stat. Abklärung
+Bildgebende/ Apparative Diagnostik:
+o CCT (nach erstem Anfall, und bei relevantem Kopftrauma mit der Frage nach Traumafolgen -
+NICHT nach jedem Anfall bei bekannter Epilepsie!)
+o CT-A Bei persistierendem neurologischen Defizit „postiktal“ mit Bewusstseinsstörung, ggf.
+Hirnstammfunktionsstörung oder Pyramidenbahnzeichen bereits in der NFA
+(Basilaristhrombose?)
+o cMRT (in der Regel erst indiziert im Verlauf nach erstem Anfall, oder auch wenn bei bekannter
+Epilepsie bisher noch nie ein cMRT durchgeführt wurde. Bei MRT-Durchführung im Rahmen des
+stationären Aufenthaltes bei einem status epilepticus oder bei rezidivierenden auch non-
+konvulsiven Anfällen ist eine geeignete Überwachung in der MRT erforderlich)
+o EEG (bei V.a. nichtkonvulsiven Status epilepticus; ansonsten i.R. des stationären Aufenthalts oder
+ambulant; s.u.; nicht geeignet, um eine Epilepsie auszuschließen)
+
+--- Page 17 ---
+ 
+ 
+III.3.4 
+Prozedere: 
+III.3.4.1 Erster epileptischer Anfall im Erwachsenenalter 
+Gelegenheitsanfall mit typischen Provokationsfaktoren: 
+o Schlafentzug  Entlassung nach Hause ohne antiepileptische Therapie möglich, 
+ambulante 
+Abklärung inkl. cMRT und Fahruntauglichkeit (Seite 29) 
+o Fieber/ Infekt (nicht ZNS-Infektion)  Entlassung nach Hause ohne antiepileptische Therapie 
+möglich, Infekttherapie ggf. nach internistischer Maßgabe 
+o Alkhoholentzug und Alkoholintoxikation  Je nach Alkoholspiegel weitere Behandlung in der 
+Inneren Medizin bzw. zur Entgiftung (PZN Wiesloch, Salem-Krankenhaus),  antiepileptische 
+Medikation nicht zwingend 
+o Schwere Hypoglykämie (BZ <40)  Verlegung Innere Medizin, keine weitere neurologische 
+Notfall-Diagnostik 
+o Schwere Elektrolytentgleisung  Verlegung Innere Medizin bzw. N5, keine weitere 
+neurologische Notfall-Diagnostik 
+ 
+Anfallssemiologie, die eindeutig auf fokale Epilepsie hindeutet (Aura und/oder fokale/lateralisierte 
+Anfallssymptome und/oder postiktale fokale Defizite):  
+ Beginn einer antikonvulsiven Medikation gerechtfertigt, stationäre Aufnahme erwägen zur 
+Klärung der Ätiologie - vor allem dann, wenn die Ätiologie nicht geklärt  ist 
+(mögliche 
+strukturelle 
+Hirnerkrankungen als Auslöser; z.B.: Hirninfarkt, intrazerebrale Blutung (ICB), Subarachnoidalblutung 
+(SAB), Sinusvenenthrombose (SVT), Multiple Sklerose, Demenz, Hirntumor, Hirnmetastasen, 
+Enzephalitis, Meningitis) 
+ 
+keine Klärung der Ätiologie möglich (keine Provokationsfaktoren ersichtlich, keine strukturellen oder 
+metabolische Ursachen zu eruieren, Anfallssemiologie lässt keine klare Diagnose des 
+Epilepsiesyndroms zu): DD fokale oder generalisierte Epilepsie  
+ stationäre Aufnahme, auch zur Differentialdiagnose des Epilepsiesyndroms  (Relevanz 
+für 
+Medikation und Prognose) 
+III.3.4.2 Erneuter epileptischer Anfall bei bekannter Epilepsie 
+Bei bekannter Epilepsie ist V.a. nach Auslösern des aktuellen Anfalls zu suchen: 
+o Provozierende 
+Faktoren 
+(s.o.), 
+wenn 
+möglich 
+spezifische 
+(Labor-)Diagnostik 
+(Medikamentenspiegel, Alkoholspiegel) 
+o Infekt: Fokus, ggf. Fokussuche bzw. Infekttherapie in internistischer Abteilung 
+o Bei struktureller Ursache und prinzipiell fortschreitender Hirnerkrankung ggf. Progredienz der 
+Grunderkrankung, hier wenn sinnvoll MRT-Diagnostik ergänzen 
+o Therapieresistenz: ggf. stationäre Aufnahme oder Empfehlung einer weiteren Abklärung in 
+unserer Epilepsieambulanz (auch abhängig von der Anfallsfrequenz) 
+III.3.4.3 Medikamentöse Prophylaxe epileptischer Anfälle 
+Nach erstem Anfall: oft sinnvoll (strukturelle Hirnläsion als Ursache, oder anderes Epilepsiesyndrom 
+mit relevantem Rezidivrisiko, oder Notwendigkeit eines hohen Rezidivschutzes aufgrund 
+Lebensumständen des Patienten).  
+ Fokale Epilepsien: Lamotrigin und Levetiracetam sind leitliniengetreu Mittel der 1. Wahl (Cave: 
+aufgrund der langsamen Eindosierung von Lamotrigin ist dies bei hohem Rezidivrisiko eines fokalen 
+Anfalls in der Akuttherapie ungeeignet) 
+ Generalisierte Epilepsien: Valproat Mittel der 1. Wahl wegen überlegener Wirksamkeit (s. oben 
+Einschränkung bei jungen Frauen), sollte stets als Retardpräparat verordnet werden; Alternativen: 
+Lamotrigin, Topiramat, Levetiracetam. 
+ 
+Nach mehreren Anfällen sollte stets nach ausführlicher Aufklärung des Patienten eine Medikation 
+begonnen werden. CAVE: Bei (jungen) Patientinnen Interaktion mit der Pille und bei Schwangerschaft 
+Gefahr der Teratogenität (kein VPA!)  
+
+--- Page 18 ---
+Behandlungsstandards Notfallambulanz
+Bekannte (schon behandelte) Epilepsie: zunächst wenn sinnvoll und möglich (NW?) Aufdosierung des
+bereits eingenommenen Antikonvulsivums (zugelassene Höchstdosen beachten), oder
+Medikamentenumstellung, in Ausnahmefällen auch Add-on Therapie.
+III.3.4.4 Therapie des Status epilepticus
+Beginn in der NFA, weitere Therapie auf der N5 oder N4.
+CAVE: ein Grand-Mal-Status ist ein lebensbedrohlicher Notfall und muss sofort auf die N4 verlegt
+werden, wenn er nicht innerhalb von 10 Minuten unter den begonnenen therapeutischen
+Maßnahmen sistiert.
+Tabelle 3: Behandlung des status epiepticus
+(gemäß Behandlungsstandard der Schlaganfall- und Wachstation (N5)):
++----+-------+-------------------------------------------------------------------------------------------------------------+------------------+------------------------------------------------------------------------------------+----------------------------------------+
+|    | Stufe |                                                                                                             | Grand-Mal-Status |                                                                                    | Fokaler Status, Komplex-Fokaler Status |
++----+-------+-------------------------------------------------------------------------------------------------------------+------------------+------------------------------------------------------------------------------------+----------------------------------------+
+| 1  |       | Lorazepam i.v.: 2-4 mg über 1 Minute i.v., bei fehlender Wirkung Wdh. nach 5 Min; max. 0,1 mg/kg KG pro Tag |                  |                                                                                    |                                        |
+| 2a |       | Levetiracetam 30-60 mg/kg KG i.v., max. 500 mg/min                                                          |                  | Levetiracetam i.v. 1000-2000 mg, max. 500mg/min                                    |                                        |
+| 2b |       | Valproat i.v.: 20-30 mg/kg KG über 15 min, dann 1500 mg/12 Std max. Tagesdosis 3600 mg/Tag                  |                  | Valproat i.v.: 900 mg über 15 min, dann 1500 mg/12 Std max. Tagesdosis 3600 mg/Tag |                                        |
++----+-------+-------------------------------------------------------------------------------------------------------------+------------------+------------------------------------------------------------------------------------+----------------------------------------+
+
+NB: Levetiracetam ist für die Status-Behandlung nicht zugelassen.
+Weitere Behandlung des Status epilepticus im stationären Setting: Phenytoin, Phenobarbital,
+Thiopental, Propofol, Midazolam
+III.4 Entzündliche ZNS-Erkrankungen
+III.4.1 MS- Schubtherapie
+Bei akuter Schubsymptomatik (Symptome sollten länger als 24 h anhalten, kein Fieber)
+können folgende Schubtherapiemöglichkeiten angeboten werden
+Bei leichten Symptomen:
+Angebot einer oralen Urbasonstoßtherapie mit 5x480 mg Urbason unter Magenschutz und
+Thromboseprophylaxe (niedriges Risiko Clexane 20mg, hohes Risiko Clexane 40 mg s.c. täglich,
+Infektausschluss inkl. U-Status bedenken), Anbindung an niedergelassenen Neurologen, ggf. erneute
+ambulante Bildgebung erwägen.
+Bei schwerer betroffenen Patienten:
+3-5x 1g intravenös Urbason (ambulant vorziehen, ggf. niedergelassener Neurologe oder auch
+Hausarzt je nach Möglichkeit) unter Magenschutz und Thromboseprophylaxe (s.o., Infektausschluss
+inkl. U-Status bedenken), Anbindung an niedergelassenen Neurologen bzw. Anbindung
+Immunologische Ambulanz (wenn Umstellung der Schubprophylaxe in Betracht kommt).
+Bei Patienten mit einer Gehbehinderung oder sonstigen schweren Symptomen (z.B. drohender
+Visusverlust aufgrund RBN): Stationäre Aufnahme
+Bei Persistenz der Symptomatik oder kaum rückläufigen Symptomen und deutlicher Beeinträchtigung
+(schwere Parese, ausgeprägtes visuelles Defizit) kann nach 2 Wochen die Urbasonstoßtherapie mit 3-
+max.5x2g wiederholt werden
+Zudem kann bei unzureichender Wirkung oder schweren Defiziten eine orale Ausschleichtherapie
+erfolgen (beginnend je nach Körpergewicht mit z.B. 80mg, ausschleichend über 2 Wochen
+
+--- Page 19 ---
+ 
+ 
+III.4.2 
+Besonderheiten und Nebenwirkungen bei Patienten unter immunmodulierender 
+Medikation 
+Laufwerk O:/ Leitlinien und Prozeduren/Neuroimmunologie  
+III.5 
+Kopfschmerz 
+Kopfschmerzen sind ein häufiges Symptom unserer Patienten in der NFA. Die wenigsten Patienten 
+benötigen eine kraniale Bildgebung. Die Anamnese und die klinische Untersuchung sind die 
+wesentlichen Instrumente um Patienten mit abklärungspflichtigen Erkrankungen zu identifizieren. 
+Zu den „Red Flags“ gehören: 
+ Perakuter, plötzlicher Beginn 
+ Vernichtender Charakter 
+ Begleitende Übelkeit und Erbrechen 
+ Begleitende fokal neurologische Symptome 
+ Begleitende quantitative und qualitative Bewusstseinsstörungen 
+ Vorhergehendes Kopftrauma 
+Sollte keines dieser Kriterien vorliegen kann in der Regel auf eine kraniale Bildgebung verzichtet 
+werden und es kann z.B. ein ambulantes cMRT empfohlen werden (z.B. bei V.a. primäre 
+Kopfschmerzen zur einmaligen Ausschlussdiagnostik).  
+Besondere Gründe können jedoch weiterhin z.B. eine umgehende Bildgebung (CCT/cMRT) 
+rechtfertigen, ggf. in Absprache mit dem diensthabenden Oberarzt. 
+III.5.1 
+Anamnese: 
+o 
+Schmerzbeginn (perakut, allmählich) 
+o 
+Schmerzlokalisation (einseitig, holocephal, frontal, nuchal (ggf. einseitig), Carotidodynie 
+o 
+Schmerzcharakter (pochend, drückend, stechend, ziehend, elektrisierend, bekannter Schmerz...) 
+o 
+Schmerzintensität (Visuelle Analogskala (VAS) 1-10) 
+o 
+Schmerzdauer (seit Wochen, seit Tagen, mehrfache Sekunden dauerende Schmerzattacken, ...) 
+o 
+Begleitsymptomatik aktiv erfragen (Übelkeit, Erbrechen, Sehstörungen, fokal neurologische 
+Ausfälle, lageabhängig, Z.n. LP?, Augenrötung, -tränen, Nasenkongestion, Trauma) 
+o 
+Schmerzverstärkung/-linderung (Aktivität, Ruhe) 
+o 
+Bereits eingenommene Medikation 
+III.5.2 
+Klinische Untersuchung: 
+o 
+Ausführliche neurologische Untersuchung 
+o 
+Besonderes 
+Augenmerk: 
+Meningismus, 
+Hirnnerven, 
+Nervenaustrittspunkte, 
+Kalottenklopfschmerz, 
+Verschlimmerung 
+beim 
+Vornüberbeugen, 
+Horner-Syndrom, 
+Strömungsgeräusch über ACI, Mydriasis, gerötetes Auge, prominente A. temporalis, 
+Hemianopsie, sonstige Sehstörungen, RR, Fieber 
+III.5.3 
+Wichtigste Differentialdiagnosen des Kopfschmerz 
+(Anhang: „Differenzialdiagnosen des Kopfschmerzes“) 
+III.6 
+Subarachnoidalblutung 
+III.6.1 
+Typische Befunde in Anamnese und klinischer Untersuchung : 
+ Heftigster (Vernichtungs)Kopfschmerz, Maximum in <5 min, begleitender Meningismus, 
+Übelkeit und Erbrechen, Vigilanzminderung, fokal neurologische Symptome 
+
+--- Page 20 ---
+ 
+ 
+III.6.2 
+Management  
+o Priorität hoch | + 1 Pflegekraft | + beim Patient bleiben bis auf Station | Zeitmanagement wie 
+bei akuter Ischämie | nach Diagnosestellung unverzüglich auf Station (Neuro 4 oder 5) 
+o Blutdruck: Ziel 140 mmHg, < 160 mmHg (Urapidil 5-25 mg als Bolus, bis max. 50mg, Clonidin 
+s.c./i.v. 0,075-0,3 mg (initial RR-Steigerung), Bayotensin akut Phiole)  
+o Frühzeitige Schmerztherapie (vor CCT): Metamizol (1g i.v., erwünschte Nebenwirkung: 
+Blutdrucksenkung), ggf. Piritramid (7,5 mg) i.v., cave: Vigilanzminderung 
+o Antiemese: Dimenhydrinat 100 mg i.v.  
+o bei Temperatur >37.5°C und Hyperglykämie: Behandlung nach Behandlungsstandard der 
+Schlaganfall- und Wachstation (N5) 
+o Normovolämie durch isotonische Kochsalzlösung 
+o bei SAB Nachweis | Blutdruck (s.o.) | 1. Gabe von Nimodipin 2x30 mg p.o. 
+III.6.3 
+Diagnostik: 
+Labor: 
+o Notfalllabor/Analysezentrum: Gerinnung, E’lyte, Blutbild, Nierenwerte, Glucose, CRP, ggf. 
+Kreuzblut 
+o Bei negativem CCT und dringendem klinischen Verdacht: Liquordiagnostik (atraumatische 
+Punktion, inkl. Berliner Blau Färbung/Siderophagensuche; innerhalb von 6 h nach Ereignis ist CCT 
+i.d.R. ausreichend3. 
+ 
+Apparative Diagnostik: 
+o CCT (bei SAB Nachweis im Nativ-CCT| Notfallindikation für CT-A (kein Warten) 
+o Konventionelle Angiographie in der Regel erst von Station aus 
+III.6.4 
+Procedere 
+o Nachweis SAB: 
+ 
+I.d.R. N4, immer bei bei Hunt und Hess 4-5; Fisher 3-4 und Liquorzirkulationsstörung (Info 
+an NCH) 
+ 
+Evtl. N5 bei Hunt und Hess 1-3; Fisher 1-2; perimesencephal 
+ 
+Bei Aneurysmanachweis: SOP „Behandlung intrakranieller Aneurysmen“  
+o fehlender Nachweis SAB, aber wiederholte Kopfschmerzereignissen in letzter Woche  
+ 
+Normalstation (DD Zerebrales Vasokonstriktionssyndrom, CAVE Ischämie und Blutung 
+nach 7–14 d möglich!) 
+ 
+Normalstation bei therapierefraktärem Kopfschmerz (Anhang. „Differenzialdiagnosen 
+Kopfschmerz“) 
+ 
+bei Entlassung nach Hause (andere Kopfschmerzursachen erwägen und im Brief notieren; 
+cMRT empfehlen (Sequenzen explizit nennen, z.B. bei einseitigem Kopfschmerz  
+kontrastverstärkte Aortenbogen-darstellung + T1-Fat-Sat (Dissektion?), ab 3. Tag nach 
+Ereignis 
+Wandhämatom 
+sichtbar); 
+symptomatische 
+Kopfschmerztherapie 
++ 
+Begleittherapie empfehlen (z.B. Ibuprofen 600 3xtäglich, 1 Tablette Dimenhydrinat  bei 
+Bedarf) 
+III.7 
+Zerebrale Sinus- / Venenthrombose  
+III.7.1 
+Typische Befunde in Anamnese und klinischer Untersuchung 
+ progrediente KS über Tage bis Wochen, oft therapieresistent, Stauungspapille, epileptische 
+Anfälle, Vigilanzminderung 
+ Risikofaktoren erfragen/beachten: weiblich, adipös, Nikotinabusus, vorangegangene 
+Thrombose(n), Hormonpräparate mit hohem Östrogenanteil, Schwangerschaft, postpartal  
+
+--- Page 21 ---
+ 
+ 
+III.7.2 
+Management 
+o Priorität abhängig von Klinik und Verlauf; bei epileptischem Anfall + Kopfschmerz + 
+Vigilanzminderung: hoch 
+o Ggf. Antikonvulsivum (z.B. Levetiracetam 500-1000mg i.v.; bei Ödem auch prophylaktische Gabe 
+erwägen) 
+o Schmerztherapie (vor Bildgebung): Metamizol (1 g i.v.), Perfalgan 1g i.v. ggf. Piritramid (7,5 mg) 
+i.v., cave: Vigilanzminderung  
+III.7.3 
+Diagnostik 
+Labor: 
+o Notfalllabor/Analysezentrum: Gerinnung, E’lyte, Blutbild, Nierenwerte, Glucose, CRP, spezielle 
+Thrombophiliediagnostik erst von Station aus 
+o D-Dimere (Abnahme aus frischer Butterflypunktion, sinnvoller bei kurzfristigem Verlauf als bei 
+langem Verlauf; bei akuter SVT D-Dimere >500 ng/ml bei >95%, unauffällige D-Dimere schließen 
+SVT NICHT aus, falsch positive Werte vor allem bei Begleitinfekten) 
+ 
+Apparative Zusatzdiagnostik: 
+o cMRT (Alter < 35); alternativ CCT + venöse CT-Angiographie 
+o Lumbalpunktion (DD septische SVT; ggf. erst von Station aus) 
+III.7.4 
+Procedere 
+o Nachweis Sinus- / Venenthrombose  
+ 
+N4 bei Vigilanzminderung oder ausgedehntem Ödem inkl. Blutung 
+ 
+N5 bei fokal neurologischen Symptomen und fokalem Ödem 
+ 
+Normalstation bei isoliertem Kopfschmerz ohne Auffälligkeiten im Parenchymbild 
+möglich, wenn kein Bett auf N5. 
+ 
+LMWH gewichtsadaptiert s.c. (vor Therapie Gerinnungsdiagnostik), ggf. Heparinperfusor 
+bei ausgedehnter Blutung (Antagonisierung mit Protamin  besser steuerbar)  
+o Kein Nachweis einer SVT im MRT 
+ 
+Aufnahme Normalstation bis zur endgültigen Befundung am nächsten  Morgen 
+o kein Nachweis SVT+ D-Dimer >0,5 
+ 
+ nicht-zerebrale 
+Thrombose 
+wahrscheinlich 
+(Dyspnoe?, 
+Tachykardie?, 
+Beinumfangdifferenz + Schmerzen im Bein?, Thrombopenie?, Kachexie? Infekt? 
+Hämolyse?)  
+o bei niedrigem Verdacht einer SVT kann je nach Situation eine stationäre Aufnahme zur cMRT 
+angeboten werden, alternativ ist eine Empfehlung zur ambulanten cMRT (DD Kopfschmerz siehe 
+Anhang Seite 40); symptomatische Kopfschmerztherapie + Begleittherapie empfehlen (z.B. 
+Ibuprofen 600 3xtäglich, 1 Tablette Dimenhydrinat, Vomex® bei Bedarf) 
+III.8 
+Bakterielle (eitrige) Meningoencephalitis 
+III.8.1 
+Typische Befunde in Anamnese und klinischer Untersuchung 
+ Kopfschmerz holocephal/nuchal evtl. rasch progredient, Infekt in den vergangenen 
+Tagen/Wochen (z.B. Otitis, Pneumonie, Sinusitis...), Immunsupression?, Splenektomie? 
+Meningismus, 
+Fieber, 
+fokal 
+neurologische 
+Symptome, 
+Vigilanzminderung, 
+Hautveränderungen?, Einblutungen?  
+III.8.2 
+Management  
+(Anhang: „Pathway bakterielle (eitrige) Meningitis“) 
+
+--- Page 22 ---
+ 
+ 
+o Isolierung bis 24h nach erster Antibiotikagabe 
+o Priorität hoch (Diagnostik und Therapiebeginn < 1h) 
+ 
+Bei wachem Patient ohne fokal neurologisches Defizit:  
+ 
+primär Lumbalpunktion (Gerinnung? Thrombozyten?) 
+ 
+Blutkultur (2x aerob, 2x anaerob) 
+ 
+Dexamethason 10 mg i.v. (anschließend 10mg i.v. alle 6 h über 4d) 
+ 
+empirische Antibiose, Ceftriaxon 4 g i.v.+ Ampicillin 5mg i.v. (ambulant erworben), 
+Vancomycin 750 mg i.v., Meropenem 2 g i.v.  (nosokomial) 
+ 
+Bei fokal neurologischen Defiziten oder Vigilanzminderung: 
+ 
+Blutkultur (2x aerob, 2x anaerob) 
+ 
+Dexamethason 10 mg i.v. (anschließend 10 mg i.v. alle 6h über 4d) 
+ 
+empirische Antibiose, Ceftriaxon 4 g i.v.+ Ampicillin 5 mg i.v. (ambulant erworben), 
+Vancomycin 750 mg i.v., Meropenem 2 g i.v.  (nosokomial) 
+ 
+CCT + Knochenfenster + NNH (Info Neuroradiologie über Isolierung) 
+ 
+Lumbalpunktion (Kontraindikationen beachten: Liquorzirkulationsstörung?) 
+o Schmerztherapie frühzeitig: Metamizol (1 g i.v. auch antipyretisch), Perfalgan 1g i.v. (auch 
+antipyretisch) 
+III.8.3 
+Diagnostik: 
+Labor: 
+o 
+Blutbild, Gerinnung, Nierenwerte, Elektrolyte, CRP, PCT 
+o 
+2x2 Blutkulturen (s.o.) 
+o 
+ggf. Kreuzblut (OP indiziert?) 
+o 
+Lumbalpunktion (s.o.) 
+ 
+apparative Diagnostik: 
+o 
+CCT + Knochenfenster und NNH (NNH-Fokus?) 
+III.8.4 
+Prozedere: 
+o 
+Info NCH bei Liquorzirkulationsstörung/intracerebraler Abszess 
+o 
+Info Dienstarzt Hygiene (tagsüber Tel.: 7821 bzw. Liquorlabor Tel.: 39362, außerhalb der 
+Dienstzeiten Tel.: 0171 6340087 (Gramfärbung; Pneumokokken/Meningokokken-Schnelltest) 
+o 
+Bei V.a. NNH-Fokus, Info HNO-Arzt 
+o 
+Meldepflicht und Umgebungsprophylaxe (Kontaktpersonen identifizieren, Rettungssanitäter) 
+bei Meningokokken (z.B. Ciprophloxacin 1x500mg) 
+o 
+Aufnahme Neuro 4 bei Vigilanzminderung und geplanter Fokussanierung (am besten 
+Einzelzimmer zur Isolierung) ggf. auch Neuro 5, auf keinen Fall auf Normalstation! 
+III.9 
+Migräne 
+III.9.1 
+Typische Befunde in Anamnese und klinischer Untersuchung 
+ Schmerzcharakter und Lokalisation (häufig einseitig pochend), Schmerzintensität (visuelle 
+Analogsakla 0-10), Schmerzdauer, Begleitsymptomatik (Übelkeit und Erbrechen, Lärm- und 
+Lichtempfindlichkeit), 
+Sehstörungen 
+(Fortifikationen, 
+Flimmerskotome, 
+Gesichtsfeldeinschränkungen), fokale neurologische Defizits, Aurasymptomatik erfragen, 
+typischer Ablauf, Migräne bekannt, wie präsentiert sich Migräneattacke gewöhnlich?, bereits 
+eingenommene Medikation 
+III.9.2 
+Management 
+o Symptomatische Therapie in der NFA: 
+
+--- Page 23 ---
+Behandlungsstandards Notfallambulanz
+ Klinisch eindeutige Migräne
+ Leicht: Ibuprofen 600 mg p.o. (alternativ Aspisol 1000 mg i.v. CAVE: red flags
+SAB)
+ Mittel: 6ml/0,5ml s.c. Sumatriptan/100 mg p.o. (CAVE Kontraindikationen: art.
+HTN, KHK) ± Aspisol 1000 mg i.v. (CAVE: red flags SAB) + Domperidon 10 mg
+alternativ Dimenhydrinat 162 mg i.v. oder 150 mg supp.
+ Schwer: 6ml/0,5ml s.c. Sumatriptan/100 mg p.o. (CAVE Kontraindikationen: art.
+HTN, KHK) + Aspisol 1000 mg i.v. (CAVE: red flags SAB) + Domperidon 10 mg
+alternativ Dimenhydrinat 162 mg i.v. oder 150 mg supp.
+ Klinisch nicht eindeutige Migräne
+ Metamizol 1000mg i.v. oder Paracetamol 1000mg i.v./p.o.
+III.9.3 Diagnostik
+o bei bekannter Migräne keine weitere Diagnostik
+o Bildgebung ggf. bei erster Attacke; bei erstmalig fokal neurologischen Defiziten, bei
+persistierenden fokal neurologischen Defiziten, bei Änderung des Schmerzcharakters
+III.9.4 Prozedere:
+o bei gutem Ansprechen der Therapie -> ambulant (Empfehlung Kopfschmerztagebuch;
+Anbindung an niedergelassenen Neurologen/Schmerztherapeuten; explizite Instruktion der
+Einnahme der Anfallsmedikation)
+o therapierefraktär -> N2/3 oder N5 (bei z.B. Status migränosus mit Bewusstseinsstörung oder
+Agitation)
+III.10 Schwindel
+Schwindel ist neben Kopfschmerzen (Kapitel III.5) das häufigste Symptom in der NFA. Auch hier
+benötigen die wenigsten Patienten eine akute kraniale Bildgebung. Im Übrigen benötigen auch die
+wenigsten Patienten mit isoliertem Schwindel ohne fokal neurologische Symptome eine akute
+neurosonologische Diagnostik.
+Die Häufigkeit der verschiedenen Schwindeldiagnosen in einer interdisziplinären Schwindelambulanz
+ist wie in der folgenden Tabelle dargestellt4. Für detaillierte Information zu den einzelnen Diagnosen
+verweisen wir auf die einschlägige Literatur und die Lehrbücher.
+Tabelle 4: Häufigkeit verschiedener Schwindeldiagnosen
++-----------------------------------------------+--------+
+| Benigner peripherer Lagerungsschwindel (BPLS) | 17,1 % |
++-----------------------------------------------+--------+
+| Somatoformer phobischer Schwankschwindel      | 15 %   |
+| Zentrale vestibuläre Symptome                 | 12,3 % |
+| Vestibuläre Migraine                          | 11,4 % |
+| Morbus Meniere                                | 10,1 % |
+| Neuritis vestibularis                         | 8,3 %  |
+| Bilaterale Vestibulopathie                    | 7,1 %  |
+| Vestibularisparoxysmie                        | 3,7 %  |
+| anderer psychogener Schwindel                 | 2,9 %  |
+| Perilymphfistel                               | 0,5 %  |
++-----------------------------------------------+--------+
+
+III.10.1 Anamnese:
+Die Anamnese bei Schwindelpatienten sollte sich auf 4 wesentliche Aspekte konzentrieren:
+ Der zeitliche Verlauf (Attackenartiges Auftreten – Dauerschwindel)
+
+--- Page 24 ---
+ 
+ 
+ 
+Attackendauer Sek bis  Min:  
+BPLS 
+(<1min), 
+Vestibularisparoxysmie 
+(<1min), 
+Perilymphfistel, Bogengangsdehiszens 
+ 
+Attackendauer Min bis h: Vestibuläre Migraine (5min-72h), Morbus Meniere (20min-
+12h), Episodische Ataxie Typ 2 
+ 
+Persistierende Symptome, Dauer: Wochen bis Monate: bilaterale Vestibulopathie, 
+funktioneller Schwindel, neurodegenerative Erkrankung 
+ 
+Akuter Beginn, Dauer: Tage bis wenige Wochen: Neurinitis vestibularis, Hirnstamm-, 
+Kleinhirninfarkt 
+ Die Form des Auftretens (Drehschwindel – Schwankschwindel) 
+ Gibt es auslösende oder modulierende Faktoren? : 
+ 
+Lageänderung, Tageszeit, Druckänderung, Situationen, Aktivität, ect.. ? 
+ Gibt es Begleitsymptome 
+ 
+Hypakusis, Tinnitus, Druckgefühl im Ohr, …?     
+M. Menière? 
+ 
+Doppelbilder, Ataxie, Dysarthrie, …?                   
+Hirnstamminfarkt? 
+ 
+Kopfschmerz, Licht-Lärmempfindlichkeit, …?    
+Vestibuläre Migräne?  
+III.10.2 Klinische Untersuchung und Diagnostik: 
+Die wesentliche differentialdiagnostische Aufgabe bei einem Patienten mit akutem Schwindelbeginn 
+besteht in der Erkennung einer unter Umständen bedrohlichen nicht-vestibulären zentralen 
+Erkrankung, wie dem akuten Schlaganfall. Bestehen keine weiteren Begleitsymptome empfiehlt sich 
+folgendes Vorgehen nach Brandt et al. (2013) und Abklopfen der sog. HINTS (Head-Impulse-
+Nystagmus-Test-of-Skew)5, 6:  
+ Test auf vertikale Schielstellung 
+ Abgrenzung eines peripheren Spontannystagmus von einem zentralen Fixationsnystagmus 
+mittels Fixationssuppression und Frenzel-Brille 
+ Untersuchung eines Blickrichtungsnystagmus (zentrale Störung) entgegen der Richtung eines 
+Spontannystagmus 
+ Untersuchung der Blickfolgesakkaden  (zentrale Störung) 
+ Durchführung des klinischen Kopfimpulstests für den horizontalen vestibulookulären Reflex 
+ 
+Sprechen „HINTS“ und das von Brandt et al. (2013) vorgeschlagene Vorgehen5 nicht für eine zentrale 
+Ursache, ist eine periphere sehr wahrscheinlich.  
+ 
+Bei klinischem Verdacht auf einen Lagerungsschwindel sollten zunächst das Hallpike Manöver (post. 
+Bogengang) bds (https://www.youtube.com/watch?v=GxPwcbEmlFw) sowie das Manöver für den 
+horizont. Bogengang (https://www.youtube.com/watch?v=6uGuh3ir5ak) durchgeführt werden und 
+bei fehlendem Schwindel sollte das Hallpike Manöver wiederholt werden. Ggf. können dann direkt 
+die entsprechenden Befreiungsmanöver durchgeführt werden:  post. Bogengang nach Semont: 
+(https://www.youtube.com/watch?v=1UJlU92reD) 
+oder 
+horizontaler 
+Bogengang: 
+(https://www.youtube.com/watch?v=eHfBUsP5ZhQ)  
+ 
+ 
+ 
+Die folgende Graphik soll einen Überblick über das Vorliegen verschiedener Symptome und Befunde 
+bei peripheren und zentralen Schwindelursachen geben. 
+  
+ 
+Tabelle 5: Differenzialdiagnose Schwindel - HINTS 
+
+--- Page 25 ---
+ 
+ 
+ 
+III.10.3 Prozedere:  
+o Lagerungsschwindel: Anleitung zur selbständige Lagerung entsprechend dem betroffenen 
+Bogengang, Mitgabe des Übungsbogens (Laufwerk O:/Notambulanz/Schwindel) 
+o Neuropathia vestibularis: Vorstellung HNO (Kortisonschema nach Stennert), ggf. stationäre 
+Aufnahme (HNO) in Abhängigkeit der Schwere der Symptomatik 
+o M. Menière: Vorstellung HNO 
+o Basilaris-Migräne: Aufklärung über Krankheitsbild, Behandlung siehe Migräne 
+o Zentrale Ursachen (Schlaganfall), auch bei Unsicherheiten  stationäre Aufnahme (cMRT) 
+III.11 
+Fazialisparese 
+III.11.1 Anamnese und klinische Untersuchung: 
+ Zeitlicher Verlauf, Kopfschmerzen, Fieber, Zeckenbiss (Erythema migrans, Gelenkschmerzen), 
+Ohrenschmerzen, Hauterscheinungen (äußerer Gehörgang), Hörminderung, Hyperakusis, 
+Geschmacksstörungen, Schwangerschaft (3-fach erhöhtes Risiko), vollständiger Lidschluss?, 
+Stirnast mitbetroffen?, Tränen-/Speichelsekretion, Diabetes mellitus, Trauma, andere 
+Hirnnervenausfälle, oft Hypästhesie im Wangenbereich der betroffenen Seite, Meningismus 
+III.11.2 Diagnostik: 
+Bis zu 70% der Fazialisparesen sind idiopathisch7 
+Labor: 
+Immer: 
+o 
+Analysenzentrum: Blutbild, Elektrolyte, Nierenwerte (Aciclovir?), Gerinnung (LP), CRP 
+o 
+Vorstellung HNO mit Frage Zoster oticus 
+Erweitert: 
+
+--- Page 26 ---
+ 
+ 
+o 
+Borrelienserologie, VZV-Serologie 
+o 
+Lumbalpunktion (keine absolute Indikation bei jeder Fazialisparese, in jedem Fall indiziert bei 
+Zoster oticus oder z.B. bei Fieber, Infektwerten, starken Schmerzen, beidseitigen Paresen, 
+abnormen klinischen Befunden) 
+ 
+Apparative Diagnostik 
+o 
+eine Bildgebung ist in der Regel nicht indiziert 
+o 
+bei akzessorischen Symptomen (z. B. Hypakusis, Tinnitus, sensible Ausfälle, Doppelbilder) 
+Bildgebung (CCT cMRT: Kleinhirnbrückenwinkel- oder Felsenbeinprozess, Parotisläsion, 
+Hirnstammläsion7, 8.  
+o 
+Elektrophysiologie (EMG und ENG zur Abschätzung der Prognose im Verlauf) 
+III.11.3 Prozedere: 
+o 
+Steroide möglichst früher Beginn <48 h (5x60 mg, anschließend Reduktion täglich um 10 mg9 , 
+Schema auf Laufwerk O:/Notambulanz/Fazialisparese (Magenschutz mit z.B. Pantoprazol!) 
+o 
+bei entzündlichem Liquor: Aciclovir (3 × tgl. i. v. 10 mg/kg KG), auf Dosisanpassung bei 
+Nierenfunktionsstörung achten. Zoster PCR in Hygiene anfordern, stat. Aufnahme 
+Normalstation. Bei klin. Verdacht auch Neuroborelliose (z.B. bds. Parese) Beginn Ceftriaxon 2g 
+i.v. und Borrelienserologie anfordern   
+o 
+Supportive Therapie (Rezept ausstellen):  
+ 
+Tränenersatzmittel (z.B: Cornegel AT mehrmals tägl.,), Augensalbe (z.B. Dexpanthenol 
+AS z.N., Uhrglasverband z.N.  Hornhautschutz 
+ 
+Fazialisübungsbogen (Laufwerk O:/Notambulanz/Fazialisparese) 
+o 
+Bei unvollständigem Lidschluss ophthalmologische Kontrolle (Cornealulkus?) 
+III.12 
+Besonderheiten bei Neuroonkologischen Krankheitsbildern 
+III.12.1 Blutbildveränderungen und Fieber bei Hirntumorpatienten unter Chemotherapie 
+III.12.1.1 Grundsätzliches:  
+ 
+Standard: Wöchentliche Blutbildkontrollen unter Chemotherapie 
+ 
+Standard: Alle 2 Wochen Differential-Blutbild 
+ 
+Unter 1.500/µl Leukozyten oder 50.000/µl Thrombozyten BB alle 2-3 Tage 
+ 
+Bei Leukozyten unter 1.000/µl oder Thrombozyten unter 25.000/µl tägliche Kontrolle 
+ 
+Bei Lymphopenie <0,8/nl  
+ 
+Prophylaxe mit Cotrim forte Montag-Mittwoch-Freitag 1-0-0;  oder bei Allergie 
+alternativ: 
+ 
+Pentamidin-Inhalationen (300 mg) alle 4 Wochen 
+III.12.1.2 Definition der Neutropenie:  
+ 
+Neutrophile Granulozyten unter 500 μl bzw. Leukozyten unter 1000 μl 
+ 
+Definition Fieber: Temperatur > 38,4°C oder Temperatur > 38,0°C über eine Stunden oder 
+zweimal innerhalb 12h 
+ 
+o Risikogruppen:  
+ 
+Niedrigrisiko: erwartete Neutropeniedauer < 5 Tage (fast alle unserer Tumorpatienten) 
+ 
+Standardrisiko: erwartete Neutropeniedauer 5-10 Tage 
+ 
+Hochrisiko: erwartete Neutropeniedauer > 10 Tage 
+ 
+o 
+Neutropenie plus Fieber unter Chemotherapie 
+ immer ein medizinischer Notfall 
+o Diagnostik: 
+
+--- Page 27 ---
+ 
+ 
+ 
+Sorgfältige klinische Untersuchung (Haut, Schleimhaute, Atemwege, Abdomen, 
+periphere und zentrale Zugange, Punktionsstellen, Perianalregeion) 
+ 
+Labor (BB und Diff, CRP, Leber- und Nierenwerte, U-Stix und ggf. Urinsediment, bei V.a 
+auf Sepsis: Laktat, D-Dimere, Quick, aPTT) 
+o Stationäre Aufnahme (in der Regel indiziert):  
+ 
+ 
+2 separate Blutkulturen (auch aus zentralen Wegen) 
+ 
+Bildgebung und weitere Diagnostik je nach Symptomatik, niederschwellig CT-Thorax! 
+ 
+Keine Umkehrisolation, kein Einzelzimmer 
+ 
+Antibiotikum-Auswahl je nach Infektfokus und Risikogruppe 
+ 
+Niedrigrisiko: Ciprofloxacin + Amoxicillin/Clavulansäure 
+ 
+Standardrisiko: 
+Piperacillin/Tazobactam 
+oder 
+Ceftazidim 
+oder 
+Impenem/Meropenem 
+ 
+Hochrisiko: 
+Piperacillin/Tazobactam 
+oder 
+Ceftazidim 
+oder 
+Impenem/Meropenem  
+ 
+Filgrastim (5 μg kg einmal taglich) bis Neutrophile >1500 μl 
+ 
+Therapiekontrolle nach 48 bis 72h! 
+ 
+An Pilzinfektion denken und ggf. Therapie erweitern 
+o Dauer der Therapie: 
+ 
+Niedrigrisiko: Therapie beenden nach 2 fieberfreien Tagen  
+ 
+Standardrisiko und Hochrisiko: Therapie beenden nach 7 fieberfreien Tagen oder nach 
+Granulozytenanstieg  > 1000/µl  2 fieberfreie Tage 
+III.12.2 Chemotherapie induzierte Anämie: 
+o Hb-Abfall <7 g/dl oder bei klinischen Symptomen einer Anämie (Dyspnoe, Tachykardie) 
+ Stationäre Aufnahme (Gabe von 2 EKs, Hb-Kontrolle am Folgetag und dann im Verlauf 
+alle 2 Tage bis Anstieg oder stabiler Befund) 
+III.12.3 Chemotherapie induzierte Thrombozytopenie: 
+o Thrombozytenzahl <10/nl oder bei klinischen Blutungszeichen (Schleimhäute, Petechien) 
+ Stationäre Aufnahme (Gabe von 2TKs – bei Patienten in der Neutropenie bestrahlte TKs 
+bestellen, Thrombozytenkontrolle am Folgetag und dann im Verlauf alle 2 Tage bis 
+Anstieg oder stabiler Befund, CAVE: bei fehlendem Anstieg ggfs. Thrombozyten auch im 
+Citratblut bestimmen lassen) 
+III.12.4 Verdacht auf ZNS-Lymphom 
+o Grundsätzliches:  
+ 
+Bei Patientin mit sich rasch entwickelnder Klinik und ventrikelnahen hyperdensen 
+Läsionen im CCT daran denken! 
+ 
+Wenn nicht unbedingt notwendig, kein Dexamethason geben bis die Diagnostik 
+abgeschlossen ist.  
+o Bei Verdacht:  
+ 
+Bei stabilem Patienten unter der Woche stationäre Aufnahme sowie Anmelden eines 
+cMRTs mit Navigationsdatensatz, weitere Planung über die Station möglich 
+ 
+Bei klinisch schwer betroffenem Patienten sofortiges MRT  
+ 
+Info an den Dienstarzt der NCH zur Planung einer Biopsie (Resektion bei größerer 
+Raumforderung möglich) 
+ 
+ASS oder andere blutverdünnende Mittel absetzen – wenn vertretbar 
+III.12.5 Patienten mit Hirntumoren, Metastasen oder neuen zerebralen Raumforderungen 
+o Grundsätzliches:  
+
+--- Page 28 ---
+Behandlungsstandards Notfallambulanz
+ Stationäre Aufnahme bei bekannten Patienten ist indiziert bei:
+ therapierefraktären Anfällen
+ deutlich verschlechterten neurologischen Ausfällen
+ Hirndrucksymptomatik
+ CCT bei bekannten Patienten nicht immer zwingend notwendig, sinnvoll bei:
+ Mehrfachen epileptischen Anfällen
+ Thrombopenie
+ Hirndruckzeichen oder deutlich verschlechterten neurologischen Ausfällen
+ Gabe von Dexamethason:
+ Bei klinischer Verschlechterung je nach Schweregrad Beginn mit 8-8-0 mg
+oder z.B. 4-4-0 mg, immer mit Magenschutz (z.B. Pantoprazol 40 mg) und
+Enoxparin 0,2-0,4ml. Regelmäßige BZ-Kontrollen unter der Therapie.
+ Hochdosierte i.v. Gabe (20-40 mg) nur bei Hirndruckzeichen,
+Mittellinienverlagerung, nicht standardmäßig!
+ Bei infratentoriellen Raumforderungen je nach Größe und ggf. Aufstau bereits cMRT
+(mit Neuronavigation) über NFA organisieren und RS mit dem Neurochirurgischen DA
+(39666). Bei Aufstau ist bis zur Operation eine Aufnahme auf N4 oder N5 notwendig.
+ Bei neuen Raumforderungen im CCT differentialdiagnostisch auch an Abszesse
+denken (Immunsuppression? Fieber, Infektwerte?). Wenn klinisch und bildgebend der
+Verdacht besteht cMRT (mit Neuronavigation) über NFA organisieren. Je nach MRT-
+Befund RS mit dem Neurochirurgischen DA (39666),
+III.13 Funktionelle Beschwerden in der Notfallambulanz
+Nicht alle körperlichen Beschwerden lassen sich zwangsläufig einer organischen Ursache zuordnen;
+die entsprechenden Störungsbilder werden i.d.R. als funktionelle Symptome oder funktionelle
+somatische Syndrome bezeichnet. Die einschlägige Literatur der (neurologischen) Notfallmedizin hat
+sich dem Thema der funktionellen Störungen und deren Diagnostik und Management in der NFA
+bisher nicht ausreichend gewidmet, obwohl diese Beschwerden unserem Eindruck nach durchaus
+häufig sind. Die häufigsten neurologischen funktionellen Beschwerden sind Kopfschmerzen,
+motorische und sensorische Symptome sowie Schwindel und Anfallsyndrome10, 11.
+Die Abklärung der Patienten mit Verdacht auf funktionelle Symptome beinhaltet auf jeden Fall eine
+gründliche neurologische körperliche und ggf. internistische Untersuchung. Apparative
+Notfalldiagnostik mit Bildgebung und z.B. elektrophysiologischen Untersuchungen sollte bei klinisch
+zweifelhalten Befunden nach oberärztlicher Rücksprache unmittelbar erfolgen (z.B. bei unklarem
+„Anfallsstatus“ oder akuter Lähmung), ansonsten sollten diese, erstmalig durchaus sinnvollen
+Untersuchungen, entweder ambulant oder stationär erfolgen. Eine apparative „Überdiagnostik“
+sollte vermieden werden. Insbesondere ist bei der Anamnese und Untersuchung auf sog. „yellow
+flags“ (Warnhinweise für problematische Verläufe) zu achten.
+Tabelle 6: Bedeutsame Verläufe funktioneller Beschwerden
++------------------------------------------------+----------------------------------------------------------------------------------------------+------------------------------+--------------------------------------------------------------------------------------------------+
+|                                                | Warnhinweise für klinisch bedeutsame Verläufe funktioneller und somatoformer Störungen13, 14 |                              |                                                                                                  |
++------------------------------------------------+----------------------------------------------------------------------------------------------+------------------------------+--------------------------------------------------------------------------------------------------+
+| Kriterium                                      |                                                                                              | Merkmale leichter Verläufe   | Merkmale schwerer Verläufe („yellow flags“)                                                      |
+| Anzahl                                         |                                                                                              | Eine oder wenige Beschwerden | Mehrere Beschwerden                                                                              |
+| Häufigkeit/Dauer                               |                                                                                              | Gelegentlich/kurz            | Häufig/anhaltend                                                                                 |
+| Subjektive Annahme zu Krankheit und Gesundheit |                                                                                              | Weitgehend adäquat           | Dysfunktional, z:B. Schonverhalten, Rückversicherung, Ängstlichkeit, Katastro- phierendes Denken |
+| Funktionelle Beeinträchtigung                  |                                                                                              | Gering                       | Deutlich, z.B. längere Arbeits-unfähigkeit, soz. Rückzug, körperl. Dekonditionierung             |
+| Psychische Komorbidität                        |                                                                                              | Gering                       | Mäßig bis hoch                                                                                   |
+| Arzt-Patient-Beziehung                         |                                                                                              | Unkompliziert                | Kompliziert (meist beiderseits)                                                                  |
++------------------------------------------------+----------------------------------------------------------------------------------------------+------------------------------+--------------------------------------------------------------------------------------------------+
+
+
+--- Page 29 ---
+ 
+ 
+ 
+Die Gesprächsführung bei Patienten mit schweren funktionellen Verläufen ist häufig eine 
+Herausforderung. Es wird empfohlen eine supportive Haltung einzunehmen sowie Interesse und 
+Akzeptanz auszudrücken und den Patienten zu Wort kommen zu lassen. Eine „sowohl-als-auch“ 
+Haltung bzgl. der Frage nach organischem und psychischem Ursprung der Beschwerden ist zunächst 
+ratsam11, 12, 13. Patienten mit „yellow flags“ sollten auf jeden Fall einer weiteren psychosomatischen 
+Diagnostik zugeführt werden. Bezgl. des Managements und Therapie dieser Erkrankungen verweisen 
+wir  auf die S3-Leitlinie „Umgang mit  Patienten mit nichtspezifischen, funktionellen und 
+somatoformen Körperbeschwerden“. 
+III.13.1 Psychogene 
+Anfälle, 
+dissoziative 
+Lähmungen, 
+Gefühlsstörungen 
+oder 
+Gangsstörungen 
+III.13.1.1 Psychogene Anfälle 
+Klinik: 
+Während eines Anfalles ist besonders auf die folgenden 6 Zeichen zur Unterscheidung einer 
+epileptischen Genese und nicht-epileptischen Genese zu achten14. 
+ 
+Anhaltspunkte zur DD psychogener Anfälle 
+ 
+o 
+Häufig situative Auslöser eruierbar, tagsüber, in Anwesenheit von Dritten 
+o 
+Dauer: oft  > 2 Minuten 
+o 
+Bilaterale motorische Phänomene bei (vollständig) erhaltenem Bewusstsein 
+o 
+Fehlen von RR-Spitzen und Zyanose 
+o 
+Zungenbiß möglich (meist Zungenspitze), selten Einnässen oder Einkoten 
+o 
+Häufig atonisch: beginn häufig mit langsamen zu Boden sinken (sehr selten Verletzungen) 
+o 
+Reorientierung variabel 
+o 
+Variable Anfallsphänomene von Anfall zu Anfall 
+III.13.1.2 Lähmungen 
+Klinik: 
+o 
+Mono-, Para-,Hemi- und Tetrasymptomatik, Erscheinungsbild peripher oder zentral, komplett 
+oder partiell, teils von Zittern oder Schütteln begleitet 
+Anhaltspunkte zur DD psychogener/dissoziativer Lähmungen 
+o 
+Kein Versuch der Bewegungsausführung bei Aufforderung 
+o 
+Teils erhaltener Tonus, gleichzeitige Aktivierung agonistisch- antagonistischer Muskelgruppen 
+
+--- Page 30 ---
+ 
+ 
+o 
+Schutzreflexe sind erhalten (z.B. Arm fällt beim Loslassen nicht auf das Gesicht) 
+o 
+Arm macht beim Herabfallen nicht die normalerweise vorhandene Suppinationsbewegung 
+o 
+Lähmung orientiert sich am (subjektiven) Körperbild, Lähmung teils nur eines Gelenks 
+o 
+keine objektivierbaren Zeichen (path. Reflexe etc.) 
+o 
+Bei Paraplegie: Fehlen Spastizität, Pyramidenbahnzeichen, Blasen- und Mastdarmstörungen 
+III.13.1.3 Gefühlsstörungen 
+Klinik: 
+o 
+Par-, Hyp- oder Anästhesien, oft handschuh-/strumpfförmig, proximal häufig ringförmig 
+o 
+Ggf. Begrenzung durch Kleidungsstücke 
+o 
+häufig nur geringe Behinderung im Alltag  
+Anhaltspunkte zur DD psychogener/dissoziativer Gefühlstörung 
+o 
+Inselförmige Aussparungen, überschreiten der Mittellinie,  
+o 
+Fehlende Sensibilitätsstörung auf der Körperrückseite; 
+o 
+Intakter Kornealreflex/Bauchhautreflexe bei Anästhesie im Gesichts-/Bauchbereich; 
+o 
+Inkonsistente Angaben (z.B. Spitz-Stumpf-Diskrimination „stumpf“ angegeben bei Anästhesie) 
+III.13.1.4 Gangsstörungen 
+Klinik:  
+o 
+Schwäche, Schritthemmung, Hinken Gleichgewichtsstörung 
+o 
+Astasie und Abasie  Rollstuhl  
+Anhaltspunkte zur DD psychogener/dissoziativer Gefühlstörung 
+o 
+Kurzdauerndes Schwanken beim Gehen, übertriebene Langsamkeit und Zögern, kleinschrittig  
+o 
+Romberg-Test mit Besserung bei Ablenkung (z.B. auf Stirn geschriebene Zahlen erkennen) 
+o 
+„Fast-Ausrutschen“ beim Gehen mit „Abfangbewegung 
+o 
+Plötzliches Einknicken in den Knien, jedoch ohne hinzufallen, Haltsuchen am Begleiter/Arzt 
+o 
+Normaler Bewegungsablauf bei ungewohnten Bewegungen (z.B. Rückwärtslaufen) 
+o 
+Gestikulieren mit den Armen oder kommentieren der Bewegungsstörung 
+III.13.2 Prozedere 
+o 
+Bei ersten Ereignis: Körperliche Erkrankung, die die Symptome erklärt, muss ausgeschlossen 
+sein, ggf. stationärer Aufenthalt 
+ Patient ernst nehmen. Bei Patienten mit eindeutiger/vordiagnostizierter funktioneller 
+Störung: 
+o 
+Aufklärung, dass es sich nicht um einen epileptischen Anfall/schwere körperliche Erkrankung  
+handelt 
+o 
+Bei psychogenen Anfällen: Keine Antikonvulsiva, Benzodiazepingabe vermeiden 
+o 
+Diagnose klar vertreten, verunsichernde Zusatzuntersuchungen vermeiden 
+o 
+Anbindung an psychosomatische Ambulanz (Tel. 06221 56-8774), bei dringender Vorstellung: 
+Innere NFA 
+o 
+Anbindung an niedergelassenen Kollegen: bei mangelnder Annahme des Krankheitskonzept 
+ggf. Brücke bauen: „Nervenarzt = Neurologe und Psychiater“ 
+Stationäre Aufnahme bei bekannter Diagnose vermeiden! 
+
+--- Page 31 ---
+ 
+ 
+IV Fahrtauglichkeit 
+Wesentliche Ausführungen sind dem entsprechenden Kapitel der Behandlungsstandards der 
+Schlaganfall- und Wachstation (N5) entnommen. Aufgrund der Wichtigkeit werden Sie hier nochmals 
+wiederholt.  
+ 
+Es gehört zu den Aufklärungspflichten des behandelnden Arztes, Patienten auf diese Regelungen 
+hinzuweisen; ansonsten kann eine Mithaftung resultieren. Die Information über die nicht mehr 
+bestehende Fahrtauglichkeit wird inkl. der von uns empfohlenen Karenzzeit im Arztbrief erwähnt und 
+in der Akte dokumentiert, nachdem der Patient im Rahmen einer Visite darauf hingewiesen wurde. 
+ 
+Nach den „Begutachtungsleitlinien zur Kraftfahreignung“ werden Führerschein-Klassen zwei Gruppen 
+unterteilt[27]: 
+Gruppe 1: Führer von Fahrzeugen der Klassen AM
+, A
+, A1
+, B
+, BE
+,  
+L
+, T
+ 
+Gruppe 2: Führer von Fahrzeugen der Klassen C 
+, C1
+, CE
+ 
+, C1E
+, D
+, D1
+, DE
+ und die Fahrerlaubnis zur Fahrgastbeförderung (FzF). 
+ 
+Wenn über die Karenzzeit hinaus Defizite bestehen und Fahrwunsch bestehen, sollte die 
+Fahrtauglichkeit mittels eines verkehrsmedizinischen Gutachtens überprüft werden. Gutachter und 
+Behandler sollen nicht eine Person sein. Diese Gutachten dürfen nur von Fachärzten mit 
+verkehrsmedizinischer Zusatzqualifikation erstellt werden. Bei Gesichtsfeldeinschränkung ist vor 
+Wiederaufnahme der Fahrtätigkeit eine fachaugenärztliche Perimetrie, bei neuropsychologischen 
+Defiziten eine neuro-psychologische Testung notwendig. Die Kosten für diese Gutachten muss der 
+Patient selber tragen! 
+ 
+ 
+Besonderheiten bei Schlagfanfallpatienten 
+Nach den o.g. Leitlinien gilt (Zitate):  
+ 
+ 
+Wer an den Folgen einer Hirnblutung oder -ischämie leidet, ist bei Vorliegen relevanter 
+neurologischer und/oder neuropsychologischer Ausfälle (z. B. Lähmungen, Aphasien, 
+Gesichtsfeldausfällen) nicht in der Lage, den gestellten Anforderungen zum Führen von 
+Kraftfahrzeugen beider Gruppen gerecht zu werden.  
+ 
+Nach erfolgreicher Therapie kann, abhängig von den besonderen Umständen des Einzelfalles, 
+angenommen werden, dass der Betreffende bedingt wieder in der Lage ist, Kraftfahrzeuge der 
+Gruppe 1 zu führen 
+ 
+Bei Vorliegen transitorisch-ischämischer Attacken (TIA), die mit Bewusstseinsstörungen oder 
+relevanten neurologischen Ausfällen einhergehen, ist die risikolose Teilnahme am 
+Straßenverkehr nur gegeben, wenn nach entsprechender Diagnostik und Therapie keine 
+signifikant erhöhte Rezidivgefahr mehr besteht 
+ 
+Da es sich in jedem Fall von Hirnblutung und Hirndurchblutungsstörungen um ein mit 
+Leistungsausfällen und/oder Rückfallgefahren verbundenes Leiden handelt, können die 
+Belastungen, wie sie beim Führen eines Kraftfahrzeuges der Gruppe 2 entstehen, dem Kranken 
+nicht zugemutet werden 
+ 
+Da Rezidive in der Frühphase eines ischämischen Insults besonders häufig sind, empfiehlt es sich 
+generell nach einem zerebrovaskulären Ereignis eine Karenzzeit einzuhalten [28] 
+ 
+Nach TIA mind. 4 Wochen, wenn der ABCD²<4 ist oder eine Ursache (z.B. Karotisstenose) 
+beseitigt wurde. Sonst beträgt die empfohlene Karenzzeit 3 Monate. 
+ 
+Nach Schlaganfall wenigstens 3 Monate 
+ 
+Für Personenbeförderung und Fahrzeugen der Gruppe 2 in der Regel auf Dauer 
+ 
+
+--- Page 32 ---
+ 
+ 
+ 
+Besonderheiten bei Anfallspatienten 
+www.fahrerlaubnisrecht.de/Begutachtungsleitlinien/BGLL 3.9.6.htm 
+Allgemein gelten folgende Fahrverbote: 
+Gruppe 1 
+o Provozierter Anfall: wieder fahrtauglich nach 3 Monaten (anfallsfrei) 
+o Erstmaliger epileptischer Anfall: 6 Monate (anfallsfrei) 
+o Wiederholter Anfall (bekannte Epilepsie): 1 Jahr (anfallsfrei) 
+o wiederholte 
+Fokale 
+Anfällen 
+ohne 
+Bewusstseinsstörung 
+und 
+ohne 
+weitere 
+Behinderungen: 1 Jahr (Beobachtungszeit) 
+o wiederholte ausschließlich Schlafgebundene Anfälle: 3 Jahre (Beobachtungszeit) 
+Gruppe 2 
+o Prinzipiell keine Fahrerlaubnis 
+o Ausnahmen:  
+ 
+bei einmaligem Anfall 2 Jahr anfallsfrei (oder 6 Monate, wenn durch Fieber oder 
+Schlafentzug verursacht) 
+Empfehlung der Beurteilung der beruflichen Situation/ Risikoabschätzung. In der Regel Versicherung 
+durch die Berufsgenossenschaften. www.arbeitssicherheit.de 
+ 
+ 
+
+--- Page 33 ---
+ 
+ 
+V Hygienemaßnahmen 
+Die allgemeinen Regeln der Krankenhaushygiene gelten auch in der NFA. (http://intranet.krz.uni-
+heidelberg.de/index.php?id=6082).  
+Hinsichtlich multiresistenter Erreger (MRE) wird auf die entsprechenden Merkblätter im Intranet 
+verwiesen (http://intranet.krz.uni-heidelberg.de/index.php?id=6224).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 34 ---
+ 
+ 
+VI Dokumentation und Codierung 
+Hinweise zum ärztlichen Arbeiten in der Diagnosenansicht der NFA (OE:311105) 
+ 
+1. Zum Laden der Grundeinstellungen der Diagnosenansicht, welche alle wichtigen Spalten 
+enthält, bitte auf den Butten 
+ in der zweiten Zeile klicken.  
+ 
+2. Anschließend können die Spalten sortiert und verschoben werden. Hierzu bitte den 
+Spaltennamen mit einem Klick anwählen und dann die linke Maustaste gedrückt halten; dann 
+kann die Spalte (oder mehrere) verschoben werden. 
+ 
+3. Neue Spalten können über die Auswahl „Einblenden“ oder „Ausblenden“ an- und abgewählt 
+werden.  Aus dem Spaltenvorrat können neue Spaten in die eigene Ansicht aufgenommen 
+werden (Abb. 1 und 2) 
+ 
+ 
+ 
+ 
+4. Seit neuestem steht eine „Prio-Spalte“ für die Eintragung der Triage zur Verfügung. Diese 
+kann, sollte sie nicht über das „Einblenden“ oder „Ausblenden“ an- oder abgewählt werden, 
+über den Button „Layout“ „weitere Spalten“ aktiviert werden. Anschließend muss die 
+Karte „Kundenspez. Daten“ gewählt werden und die Spalte „Priorität“ ausgewählt werden. 
+Jetzt erscheint diese im Spaltenvorrat und kann eingeblendet werden. 
+5. Eine sinnvolle Anordnung der Spalten zeigt Abbildung 3.  
+ 
+
+--- Page 35 ---
+ 
+ 
+ 
+Mit dem grünen oder gelben Pfeil 
+ werden alle vorhergehenden Einstellungen gespeichert 
+ 
+6. Um das Wartezeittool zu aktivieren bitte unter Sonstiges, Wartezeitberechnung einstellen. 
+Die Spalten Wartezeit oder Warte(Ges) nehmen dann eine zarte Eierschalenfarbe ein. Damit 
+ist das Wartezeittool in der Ansicht aktiviert (Abb.4). 
+ 
+ 
+ 
+7. Um eine spätere sinnvolle Erfassung und Auswertung der Warte- und Behandlungszeiten in 
+der NFA zu ermöglichen ist es notwendig, dass jeder behandelnde Arzt bzw. jede 
+behandelnde Ärztin eine Statusänderung für den jeweiligen Patienten vornimmt. Dies geht 
+ganz einfach und schnell mit einem Klick in die Spalte Status in die Zeile des jeweiligen 
+Patienten (Abb.5).  
+ 
+ 
+Patient wartet: immer wenn Patient wartet  
+In Behandlung: wenn der Patient in ärztlicher Behandlung ist (Patient wird rot unterlegt) 
+Fremdleistung: wenn Patient bei CT, Doppler, etc. ist. 
+ 
+
+--- Page 36 ---
+ 
+ 
+Bitte den Status nicht auf abgeschlossen setzen, dies wird die Pflege machen. 
+Leider fehlt noch eine Auswahl für Warten auf Transport 
+ 
+Bei allen Patienten der NFA wird ein elektronischer Bericht, welcher in der Dokumentenauswahl als 
+NEUR-NOT (Notfallbogen Neurologie) gekennzeichnet ist, erstellt. Zu jedem Patienten muss zudem 
+eine Diagnose verschlüsselt werden. 
+ 
+  
+ 
+
+--- Page 37 ---
+Behandlungsstandards Notfallambulanz
+VII Literatur
+1. Rizos T, Jüttler E, Sykora M, Poli S, Ringleb PA (2011) Common disorders in the neurological
+emergency room--experience at a tertiary care hospital. Eur J Neurol. 18(3):430-5
+2. Meretoja A, Strbian D, Mustanoja S, Tatlisumak T, Lindsberg PJ, Kaste M. (2012) Reducing in-
+hospital delay to 20 minutes in stroke thrombolysis. Neurology. 24;79(4):306-13
+3. Perry JJ, Stiell IG, Sivilotti ML, Bullard MJ, Emond M, Symington C, Sutherland J, Worster A,
+Hohl C, Lee JS, Eisenhauer MA, Mortensen M, Mackey D, Pauls M, Lesiuk H, Wells GA (2011)
+Sensitivity of computed tomography performed within six hours of onset of headache for
+diagnosis of subarachnoid haemorrhage: prospective cohort study. BMJ. 18;343:d4277
+4. Strupp M, Dieterich M, Brandt T (2013) The treatment and natural course of peripheral and
+central vertigo. Dtsch Arztebl. 110(29–30): 505–16
+5. Brandt T, Strupp M, Dieterich M (2014) Five keys for diagnosing most vertigo, dizziness, and
+imbalance syndromes: an expert opinion. J Neurol. 261(1):229-31.
+6. Kattah JC, Talkad AV, Wang DZ, Hsieh YH, Newman-Toker DE (2009) HINTS to diagnose stroke
+in the acute vestibular syndrome: three-step bedside oculomotor examination more
+sensitive than early MRI diffusion-weighted imaging. Stroke. 40(11):3504-10
+7. Peitersen E (2002) Bell's palsy: the spontaneous course of 2,500 peripheral facial nerve
+palsies of different etiologies. Acta Otolaryngol Suppl. 2002;(549):4-30
+8. Thömke F, Urban PP, Marx JJ, Mika-Grüttner A, Hopf HC (2002) Seventh nerve palsies may be
+the only clinical sign of small pontine infarctions in diabetic and hypertensive patients. J
+Neurol. 249(11):1556-62
++-------------------------------------------------------------------------------------------------+
+| 9. Burmeister HP, Baltzer PA, Klingner CM et al. (2010) Computer- und                           |
++-------------------------------------------------------------------------------------------------+
+| Magnetresonanztomographie des N. facialis. HNO. 58: 433–442                                     |
+| 10. Engström M, Berg T, Stjernquist-Desatnik A et al. (2008) Prednisolone and valaciclovir in   |
+| Bell's palsy: a randomised, double-blind, placebo-controlled, multicentre trial. Lancet Neurol. |
+| 7: 993–1000                                                                                     |
++-------------------------------------------------------------------------------------------------+
+
+11. Royl G, Ploner CJ, Möckel M, Leithner C (2010) Neurological chief complaints in an
+emergency room. .Nervenarzt. 81(10):1226-30
+12. Dinkel A, Lahmann C (2016) Funktionelle Symptome und somatoforme Störungen in der
+Notaufnahme. Notfall Rettungsmed. 3/2016
+13. Sattel H, Schaefert R, Häuser W, Herrmann M, Ronel J, Henningsen P, Hausteiner-Wiehle C
+(2014) Umgang mit Patienten mit nicht-spezifischen, funktionellen und somatoformen
+Körperbeschwerden. Dtsch med Wochenschr. 139(12): 602-607
+14. Schaefert, R, Hausteiner-Wiehle C, Constanze,Häuser, W, Ronel J, Herrmann M, Henningsen
+P (2012) Clinical Practice Guideline: Non-specific, functional and somatoform bodily
+complaints. Dtsch Arztebl 2012; 109(47): 803-13
+15. Asadi-Pooya AA, Michael R. Sperling (2015) Epidemiology of psychogenic
+nonepileptic seizures. Epilepsy & Behavior. 46: 60-65
+
+--- Page 38 ---
+ 
+ 
+VIII Anhang 
+VIII.1 
+SOP Schockraummanagement 
+ 
+Purrucker, Nagel 
+
+--- Page 39 ---
+Behandlungsstandards Notfallambulanz
+VIII.2 Annahmeprotokoll Schockraum
+Annahmeprotokoll Schockraum – Neurologische Universitätsklinik Heidelberg
+Datum: Zeitpunkt Eintreffen (hh:mm):
++----------------------------------+
+| Patientenname Geb. Datum, pmRS   |
++----------------------------------+
+| Symptombeginn + „last seen well“ |
+| Alarmzeitpunkt Rettungsdienst    |
+| Auffindesituation                |
+| Problem/Hinweis                  |
+| Airway                           |
+| Breathing                        |
+| Circulation                      |
+| Disability                       |
+| Exposure                         |
+| Allergie(n)                      |
+| Kontaktdaten Angehörige          |
+| Antikoagulation                  |
+| Sonstiges                        |
++----------------------------------+
+
+Arzt:_______________________ Kürzel: _______________
+
+--- Page 40 ---
+ 
+ 
+VIII.3 
+Triage-Algorithmus 
+ 
+ 
+
+--- Page 41 ---
+ 
+ 
+ 
+VIII.4 
+DD der qualitativen und quantitativen Bewusstseinsstörung (Auswahl) 
+ 
+ 
+vaskulär 
+Ischämie (Basilaris-
+thrombose) 
+Intracerebrale 
+Blutung 
+Subarachnoidal-
+blutung 
+Anfallsartige Erkrankungen 
+Status non-
+konvulsivus 
+Status komplex-
+fokaler Anfälle 
+Postiktale 
+Phase 
+Dissoziativer ANfall 
+Psychogener Anfall 
+Synkope 
+entzündlich 
+Meningitis 
+Enzephalitis 
+Infekt außerhalb des 
+ZNS 
+Sepsis/eptische 
+Enzephalopathie 
+internistisch/metabolisch 
+Elektrolyt-entgleisung 
+Hypo-/Hyper-
+glykämie 
+Enzephalopathie 
+(urämisch/hepatisch) 
+Exsikkose 
+traumatisch 
+Schädel-Hirn-Trauma 
+Subduralhämatom 
+Epiduralhämatom 
+Sonstiges 
+Erhöhter Hirndruck 
+Intoxikation 
+Hypoxie (LAE, kardial, 
+pulmonal) 
+Hyperkapnie (z.B. 
+COPD) 
+Hypo-/Hyperthermie 
+Katatonie/malignes 
+neurolept. Syndrom 
+Addison-Krise 
+
+--- Page 42 ---
+ 
+ 
+VIII.5 
+Differenzialdiagnosen Kopfschmerz (Auswahl) 
+ 
+ 
+schlagartig 
+auftretend 
+Subarachnoidal-blutung 
+Intracerebrale Blutung 
+Vasokonstriktions-
+syndrom 
+Dissektion 
+Posteriorinfarkt 
+Postkoitaler Kopfschmerz 
+subakut, 
+allmählich, länger 
+anhaltend 
+Meningitis/Enzephalitis 
+Liquorunter-
+drucksyndrom 
+Sinusvenen-thrombose 
+Meningeosis 
+intrakranielle 
+Raumforderung 
+attackenartig,  
+Migräne (mit und ohne 
+Aura) 
+Cluster-Kopfschmerz 
+Trigemuns-neuralgie  
+(andere Neuralgien) 
+Sepsis/eptische 
+Enzephalopathie 
+chronisch 
+Spannungs-kopfschmerz 
+posttraumatisch 
+Meikamenten-induzierter 
+KS 
+Sonstige 
+Hypertensive Krise 
+Arteriitis temporalis 
+Glaukomanfall 
+Kopschmerz im Rahmen 
+eines Infektes 
+Sinusitis 
+
+--- Page 43 ---
+ 
+ 
+VIII.6 
+Pathway bakterielle (eitrige) Meningitis; modifiziert nach DGN-Leitlinie 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 44 ---
+Behandlungsstandards Notfallambulanz
+VIII.7 Lyse-Box NFA-Kopfklinik
++--------+---------------------------+-----------+
+| Fach 1 |                           |           |
++--------+---------------------------+-----------+
+| Menge  | Material                  | vorhanden |
+| 6x     | Verschlusskoni rot        |           |
+| 2x     | Dreiwegehahn mit Schlauch |           |
+|        | Klebeetikett Actilyse     |           |
++--------+---------------------------+-----------+
+
++--------+---------------------------+-----------+
+| Fach 2 |                           |           |
++--------+---------------------------+-----------+
+| Menge  | Material                  | vorhanden |
+| 1x     | Vomex 62mg/10ml           |           |
+| 1x     | Urapidil 50mg/5ml         |           |
+| 1x     | Propofol 1% 200mg/20ml    |           |
+| 5x     | Aufziehkanülen rot stumpf |           |
+| 1x     | Spritze 20ml              |           |
+| 1x     | Spritze 10ml              |           |
+| 1x     | Spritze 5ml               |           |
++--------+---------------------------+-----------+
+
++--------+---------------------------+-----------+
+| Fach 3 |                           |           |
++--------+---------------------------+-----------+
+| Menge  | Material                  | vorhanden |
+| 1x     | Actilyse 50mg             |           |
+| 1x     | Actilyse 20mg             |           |
+| 2x     | Perfusorspritze 50ml      |           |
+| 4x     | Perfusorleitung 70cm      |           |
+| 1x     | Spritze 20ml              |           |
+| 1x     | Spritze 10ml              |           |
+| 1x     | Spritze 5ml               |           |
+| 6x     | EKG-Elektroden            |           |
+| 2x     | Überleitungskanüle        |           |
+| 2x     | Entnahmekanüle mit Filter |           |
+| 1x     | Standard zur Thrombolyse  |           |
++--------+---------------------------+-----------+
+
+
+--- Page 45 ---
+Behandlungsstandards Notfallambulanz
+VIII.8 Inhalt Notfallkoffer (Kreislauf und Verbände)
++-------+---------------------------------------------+-----------+
+| Menge | Material                                    | Vorhanden |
++-------+---------------------------------------------+-----------+
+| 1x    | Blutdruckmessgerät Erwachsene, manuell      |           |
+| 1x    | Stethoskop                                  |           |
+| Menge | Material                                    | Vorhanden |
+| 5x    | Vlieskompresse 10x10cm                      |           |
+| 5x    | Vlieskompresse 5x5cm                        |           |
+| 5x    | Spritze 2ml                                 |           |
+| 5x    | Spritze 5ml                                 |           |
+| 5x    | Spritze 10ml                                |           |
+| 5x    | Spritze 20ml                                |           |
+| 5x    | Kanüle 20G (gelb)                           |           |
+| 3x    | Kanüle 27g (grau)                           |           |
+| 5x    | Aufziehkanüle "Blunt fill" 18G (rot)        |           |
+| 2x    | Entnahmekanüle mit Filter 0,45um, Minispike |           |
+| 2x    | Überleitungskanüle Trans-o-fix              |           |
+| 1x    | Pflasterrolle, braun, 1,25cm                |           |
+| 1x    | Pflasterrolle, braun, 2,5cm                 |           |
+| 1x    | Pflasterrolle, braun, 5cm                   |           |
+| 10x   | Verschlusskonen, rot                        |           |
+| 2x    | Tegaderm Katheterverband                    |           |
+| 4x    | Kanülenpflaster VECA-V                      |           |
++-------+---------------------------------------------+-----------+
+
+
+--- Page 46 ---
+Behandlungsstandards Notfallambulanz
+VIII.9 Verfahrensanweisung Actilyse
+1. Bestellung und Bevorratung in der NFA
+a. Die Notfallambulanz bestellt und bevorratet Actilyse in folgenden Dosierungen:
+ 10 mg (Bestellnummer: 01035262)
+ 20 mg (Bestellnummer: 01000841)
+ 50 mg (Bestellnummer: 01000842)
+b. Bestellt wird Actilyse ausschließlich über die Kostenstelle der Neurologischen
+c. Dementsprechend muss keine Actilyse mehr von STWA oder Intensiv 2 zurück gegeben
+werden
+2. Aufziehen von Actilyse
+a. Die Bolusdosis wird mit Actilyse 50 mg aufgezogen und in separater Spritze aufgenommen
+(Berechnung siehe Tabelle 1)
+b. Sofort nach dem Auflösen des Bolus wird dieser appliziert
+c. Während der Vorbereitung der Bolusapplikation wird die Perfusorspritze für die
+Dauerapplikation vorbereitet; eine Pause zwischen Bolusapplikation und Infusionsbeginn der
+Dauerapplikation muss vermieden werden
+d. Liegt die zu applizierende Gesamtdosis über 50 mg, wird die restliche Dosis schon in der NFA
+in einer zweiten Perfusorspritze vorbereitet
+e. Alle Perfusorspritzen müssen mit einem Etikett versehen werden, auf welchem
+Medikamentenname und –dosierung, Laufrate sowie Patientenname vermerkt werden; die
+Etiketten sind durch den zuständigen Arzt und die zuständige Pflegekraft zu unterzeichnen
+Tabelle 1: Dosisschema für Actilyse
++---------+-----------------------+------------+-----------------+
+|         | Actilyse® 0,9mg/kg kG |            |                 |
++---------+-----------------------+------------+-----------------+
+| KG [kg] | Dosis [mg]            | Bolus [ml] | Infusion [ml/h] |
+| 50      | 45                    | 4,5        | 40,5            |
+| 55      | 49,5                  | 5,0        | 44,6            |
+| 60      | 54                    | 5,4        | 48,6            |
+| 65      | 58,5                  | 5,9        | 52,7            |
+| 70      | 63                    | 6,3        | 56,7            |
+| 75      | 67,5                  | 6,8        | 60,8            |
+| 80      | 72                    | 7,2        | 64,8            |
+| 85      | 76,5                  | 7,7        | 68,9            |
+| 90      | 81                    | 8,1        | 72,9            |
+| 95      | 85,5                  | 8,6        | 77,0            |
+| 100     | 90                    | 9,0        | 81,0            |
+| >100    | 90                    | 9,0        | 81,0            |
++---------+-----------------------+------------+-----------------+
+
+
+--- Page 47 ---
+ 
+ 
+VIII.10 Verfahrensanweisung Praxbind 
+ 
+1. Darreichungsform 
+ 
+ 
+Eine Packung enthält 2 x 2,5g/50ml Praxbind® –Infusionslösung 
+ 
+2. Lagerung 
+ 
+ 
+Die Notfallambulanz bevorratet Praxbind® als Notfalldepot für die Kopfklinik 
+ 
+Praxbind® muss im Kühlschrank bei  4° - 8°C gelagert werden 
+ 
+Praxbind® muss lichtgeschützt gelagert werden, weshalb die Originalverpackung erst bei 
+Verwendung geöffnet wird 
+ 
+3. Weitergabe an Stationen 
+ 
+ 
+Praxbind® wird über eine patientenspezifisches Sonderrezept abgerechnet 
+ 
+Jede Station muss, wenn das Medikament in der NFA geholt wird, ein Aktenetikett des 
+jeweiligen Patienten mitbringen 
+ 
+Mit der Weitergabe von Praxbind® muss das Formular „Notfalldepot Praxbind®“ ausgefüllt 
+werden 
+ 
+Nach dem Ausfüllen des Formulars wird dieses via Hauspost in die Apotheke geschickt, z.H. 
+Frau Grohmann 
+ 
+4. Nachbestellung Praxbind 
+ 
+ 
+Wurde das Medikament in der NFA verwendet oder an die Stationen weiter gegeben, muss 
+dieses sofort nachbestellt werden (hierzu bitte separate Anleitung „Praxbind®-Bestellung“ 
+beachten) 
+ 
+Zu den normalen Öffnungszeiten der Apotheke kann dies ganz normal über BISI erfolgen 
+ 
+Außerhalb der regulären Öffnungszeiten der Apotheke (Nachtdienst, Wochenende) muss 
+über die Pforte der Chirurgie (Tel.: 6112) der diensthabende Apotheker informiert werden 
+und gleichzeitig die Bestellung über BISI erfolgen 
+ 
+5. Verabreichung 
+ 
+ 
+Es werden 5g (2 x 2,5g/50ml) intravenös verabreicht entweder als 
+ 
+1. Zwei aufeinanderfolgende Infusionen oder 
+2. Über je 5 – 10 Minuten als Bolusinjektion 
+ 
+ 
+Vor und nach der Infusion / Bolusinjektion von Praxbind® muss der venöse Zugang mit 10 ml 
+NaCl 0,9% gespült werden 
+ 
+Praxbind® muss über einen separaten venösen Zugang verabreicht werden, es dürfen keine 
+anderen Infusionen oder andere Medikamente über diesen Zugang verabreicht werden 
+ 
+ 
+
+--- Page 48 ---
+Behandlungsstandards Notfallambulanz
+VIII.11 Verfahrensanweisung Blutgasanalse
+In dieser Verfahrensanweisung werden die Patientengruppen, der (die) Zeitpunkt(e) der Abnahme
+sowie die für die jeweilige Fragestellung wichtigen Parameter definiert.
++-----------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
+| 1. Beatmung                                   |  Nach Übernahme und abgeschlossener Übergabe des Notarztes  Nach jedem Transport innerhalb der Klinik  Spätestens 30 Minuten nach einer Veränderung der Beatmungsparameter  Vor Verlegung auf die Intensivstation  Idealerweise Abnahme zusammen mit dem regulären Labor (1. Abnahme) | Alle Parameter relevant           |
++-----------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
+| 2. Sauerstoff ≥ 10l über Maske                |  Nach Übernahme und abgeschlossener Übergabe durch den Notarzt / Rettungsdienst  Maximal 30 Minuten nach Veränderungen am Sauerstoffzufluss (< 10l / >10l)  Idealerweise Abnahme zusammen mit dem regulären Labor (1. Abnahme)                                                          | pO , pCO , pH, BZ, 2 2 Lactat, Hb |
+| 3. Dyspnoe und bekannte COPD                  |  Nach Übernahme und abgeschlossener Übergabe durch den Notarzt / Rettungsdienst  Maximal 30 Minuten nach Veränderungen am Sauerstoffzufluss (< 10l / >10l)  Idealerweise Abnahme zusammen mit dem regulären Labor (1. Abnahme)                                                          | pO , pCO , pH, 2 2                |
+| 4. Unklare Vigilanz- / Orientierungsstörungen |  Nach Übernahme und abgeschlossener Übergabe durch den Notarzt / Rettungsdienst  Idealerweise Abnahme zusammen mit dem regulären Labor (1. Abnahme)                                                                                                                                      | Na+, K+, BZ, pCO , 2 pH           |
+| 5. Grandmal-Anfälle                           |  Nach der Übernahme und abgeschlossener Übergabe durch den Notarzt / Rettungsdienst  Idealerweise Abnahme zusammen mit dem regulären Labor (1. Abnahme)                                                                                                                                  | Na+, pO , pCO , BZ 2 2            |
+| 6. Zeichen von SIRS / SEPSIS                  |  Nach der Übernahme und abgeschlossener Übergabe durch den Notarzt / Rettungsdienst  Idealerweise Abnahme zusammen mit dem regulären Labor (1. Abnahme)                                                                                                                                  | pH, pO , pCO , 2 2 Lactat, BE     |
+| 7. Zeichen einer Dehydration / Exikose        |  Nach der Übernahme und abgeschlossener Übergabe durch den Notarzt / Rettungsdienst  Idealerweise Abnahme zusammen mit dem regulären Labor (1. Abnahme)                                                                                                                                  | Hb, Hk                            |
++-----------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
+
+Grundsätzlich sollte stets eine komplette BGA-Analyse erfolgen (Ausnahmen bilden spezifische
+Elektrolytkontrollen nach ärztlicher Anweisung)
+Auf die Korrekte Angabe des Abnahmeorts (venös vs. kapillär vs. arteriell) ist unbedingt zu achten.
+
+--- Page 49 ---
+ 
+ 
+VIII.12 Kommunikation und Übernahmezeitpunkte bei Verlegungen 
+ 
+1. Information der Intensiv- / Wachstationen für Zugänge aus der Notfallambulanz 
+ 
+a. Der Arzt der NFA informiert den Arzt der jeweiligen Intensiv- oder Wachstation über 
+einen Zugang 
+ 
+b. Der Arzt der jeweiligen Intensiv- oder Wachstation informiert die Pflege der 
+entsprechenden Intensiv- oder Wachstation 
+ 
+c. Die Pflege der Notfallambulanz bespricht mit der Pflege der jeweiligen Intensiv- oder 
+Wachstation den Übernahmezeitpunkt 
+ 
+2. Zeit bis zur Aufnahme von Patienten aus der Notfallambulanz 
+ 
+a. Grundsätzlich gilt, dass jeder Patient so schnell wie möglich auf die aufnehmende 
+Station verlegt wird 
+ 
+b. Der späteste Übernahmezeitpunkt auf Station ist 45 Minuten nach Ankündigung des 
+Patienten 
+ 
+ 
+c. Visiten und Pausen (ärztlich / pflegerisch) führen auf keinen Fall zu einer verzögerten 
+Aufnahme (siehe Punkt a. und b.) 
+ 
+d. Ausnahmen von den oben beschriebenen Aufnahmekriterien sind  
+  
+ 
+Verlegungen auf eine andere Station um ein Bett zu schaffen 
+ 
+Verlegungen von MR-Patienten bzw. die noch nicht abgeschlossene 
+Grundreinigung der Zimmer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 50 ---
+ 
+ 
+VIII.13 Merkblatt zur ambulanten dringlichen Facharztüberweisung 
+ 
+Sehr geehrte Patientin, Sehr geehrter Patient, 
+ 
+ 
+Die „dringliche Facharztüberweisung“ muss vom Hausarzt erfolgen. 
+Dazu muss der Hausarzt die Überweisung mit einem Code versehen, den er schon vorrätig haben 
+sollte. Ansonsten kann er diesen unter terminservice@kvbawue.de anfordern. 
+  
+Nach Erhalt der Überweisung melden  Sie sich bei der:  
+Kassenärztlichen Vereinigung (KV) Ba-Wü zw. 08-16.00 Uhr werktags 
+Tel  0711- 78753966.   
+ 
+Die KV garantiert einen Facharzttermin innerhalb von 4 Wochen.  
+ 
+Nach Angabe der KV sind (Stand August 2017) Terminvereinbarungen meist innerhalb einiger Tage 
+möglich. 
+ 
+ 
+Mit freundlichen Grüßen 
+ 
+Ihr Team der Neurologie 
+ 
+ 
+ 
+ 
+ 
+
