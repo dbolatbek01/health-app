@@ -3,9 +3,9 @@ import numpy
 import chromadb
 import json
 
-JSON = Path(r"C:\Users\Данат\Documents\Wildau\Masterarbeit\App\parser\chunks.jsonl")
-INPUT_DIR = Path(r"C:\Users\Данат\Documents\Wildau\Masterarbeit\App\embeddings\models") 
-CHROMA_DIR = Path(r"C:\Users\Данат\Documents\Wildau\Masterarbeit\App\chromadb")
+JSON = Path(r"C:\Masterarbeit\App\parser\chunks.jsonl")
+INPUT_DIR = Path(r"C:\Masterarbeit\App\embeddings\models") 
+CHROMA_DIR = Path(r"C:\Masterarbeit\App\chromadb")
 
 MODELS = [
     ("sop_bge_m3", INPUT_DIR / "embeddings_bge_m3.npz"),

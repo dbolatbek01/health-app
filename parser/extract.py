@@ -1,7 +1,7 @@
 import fitz
 import pdfplumber
 
-PDF_PATH = r"C:\Users\Данат\Documents\Wildau\Masterarbeit\App\testpdf\test.pdf"
+PDF_PATH = r"C:\Masterarbeit\App\testpdf\test.pdf"
 
 HEADER_PATTERNS = [
     "Behandlungsstandards",

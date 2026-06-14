@@ -6,7 +6,7 @@ from marker.config.parser import ConfigParser
 
 def main():
     PDF_DIR = Path(r"C:\Users\Данат\Documents\Svetofor API")
-    OUTPUT_DIR = Path(r"C:\Users\Данат\Documents\Wildau\Masterarbeit\App\parsed")
+    OUTPUT_DIR = Path(r"C:\Masterarbeit\App\parsed")
     OUTPUT_DIR.mkdir(exist_ok=True)
 
     print("Загрузка моделей...")

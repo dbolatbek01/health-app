@@ -2,8 +2,8 @@ from pathlib import Path
 import json
 import uuid
 
-INPUT_DIR = Path(r"C:\Users\Данат\Documents\Wildau\Masterarbeit\App\parser\parsed_clean")
-OUTPUT_FILE = Path(r"C:\Users\Данат\Documents\Wildau\Masterarbeit\App\parser\chunks.jsonl")
+INPUT_DIR = Path(r"C:\Masterarbeit\App\parser\parsed_clean")
+OUTPUT_FILE = Path(r"C:\Masterarbeit\App\parser\chunks.jsonl")
 
 CHUNK_SIZE =1536   #  ≈ 512 tokens
 OVERLAP = 384       #  ≈ 128 tokens
