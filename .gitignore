@@ -1,2 +1,4 @@
-chromadb/
-embeddings/
+chromadb/*.sqlite3
+chromadb/*/
+chromadb/__pycache__/
+embeddings/models/
