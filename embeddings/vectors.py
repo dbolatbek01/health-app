@@ -3,8 +3,8 @@ import json
 import numpy
 from sentence_transformers import SentenceTransformer
 
-INPUT_FILE = Path(r"C:\Users\Данат\Documents\Wildau\Masterarbeit\App\parser\chunks.jsonl") 
-OUTPUT_DIR = Path(r"C:\Users\Данат\Documents\Wildau\Masterarbeit\App\embeddings\models")
+INPUT_FILE = Path(r"C:\Masterarbeit\App\parser\chunks.jsonl") 
+OUTPUT_DIR = Path(r"C:\Masterarbeit\App\embeddings\models")
 
 MODELS = [
     ("BAAI/bge-m3", OUTPUT_DIR / "embeddings_bge_m3.npz"),

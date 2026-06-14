@@ -2,7 +2,7 @@ from pathlib import Path
 import pymupdf4llm
 
 PDF_DIR = Path(r"C:\Users\Данат\Documents\Svetofor API")
-OUTPUT_DIR = Path(r"C:\Users\Данат\Documents\Wildau\Masterarbeit\App\parsed_ohne_ki")
+OUTPUT_DIR = Path(r"C:\Masterarbeit\App\parsed_ohne_ki")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 for pdf_path in PDF_DIR.glob("**/*.pdf"):  # ** — рекурсивно по подпапкам
