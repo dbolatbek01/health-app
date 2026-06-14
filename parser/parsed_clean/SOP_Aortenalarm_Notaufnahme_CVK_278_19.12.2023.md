@@ -68,10 +68,13 @@ Die Dokumentation wird als Konsil im eCARE-System der zentralen Notaufnahme erfa
 |---|---|---|
 |**Kontakt**|**CVK**|**DHZC**|
 |Erster Dienst Herzchirurgie|siehe Dienstplan|97-2330|
-|Erster Dienst Kardioanästhesie<br>OP-Koordinator|665 011|97-2710|
-|Anästhesie-Pflege|bis 20:00 Uhr: 665 560<br>ab 20:00 Uhr: 651 222|97-1761|
+|Erster Dienst Kardioanästhesie
+OP-Koordinator|665 011|97-2710|
+|Anästhesie-Pflege|bis 20:00 Uhr: 665 560
+ab 20:00 Uhr: 651 222|97-1761|
 |Radiologie|Diensthabender Radiologe: *8844|MTRA: 97-2475 / 97-2470|
-|Postoperatives Intensivbett|W1i: 651 300<br>665 101|WD1I: 97-2111|
+|Postoperatives Intensivbett|W1i: 651 300
+665 101|WD1I: 97-2111|
 |||WD2I: 97-2080|
 |OP-Pflege|665 051|97-2710|
 |Telelift|entfällt|1-10-500|
@@ -99,7 +102,23 @@ Die Dokumentation wird als Konsil im eCARE-System der zentralen Notaufnahme erfa
 
 **Tabelle 2** . Aortic Dissection Detection Risk Score (ADDRS) – Vortest akute Aortendissektion (Quelle: Pocket-Leitlinien Aortenerkrankungen 2014, S. 31) 
 
-Patient mit V.a.<br>Aortendissektion<br>Schockraum<br>– Stabilisieren<br>des Patienten<br>EKG-<br>getriggerte<br>CT-<br>Untersuchung<br>TYP A TYP B<br>Überwachung<br>Notfall-OP AUF IMC<br>W2i<br>OP im DHZC OP im DHZC OP im DHZC<br>Standort MA Standort AP Standort AP<br>**----- End of picture text -----**<br>
+Patient mit V.a.
+Aortendissektion
+Schockraum
+– Stabilisieren
+des Patienten
+EKG-
+getriggerte
+CT-
+Untersuchung
+TYP A TYP B
+Überwachung
+Notfall-OP AUF IMC
+W2i
+OP im DHZC OP im DHZC OP im DHZC
+Standort MA Standort AP Standort AP
+**----- End of picture text -----**
+
 
 **Abbildung 3** . Präoperativer Patientenpfad – Akutes Aortensyndrom 
 
@@ -108,14 +127,16 @@ Patient mit V.a.<br>Aortendissektion<br>Schockraum<br>– Stabilisieren<br>des P
 |**Therapie**|**Medikament**|**Dosierung**|
 |---|---|---|
 |Analgesie/Sedierung|Morphin|3 mgi.v. / 0,1mg/kgKG nach Bedarf|
-|Katecholaminpflichtigkeit|Urapidil|10-50 mg Bolus i.v. fraktioniert, dann Perfusor<br>150 mg/50 ml(3 mg/ml)mit 6-10 ml/h|
+|Katecholaminpflichtigkeit|Urapidil|10-50 mg Bolus i.v. fraktioniert, dann Perfusor
+150 mg/50 ml(3 mg/ml)mit 6-10 ml/h|
 ||Epinephrin|5 mg/50 ml Perfusor (100 ug/ml)|
 ||Norepinephrin|5 mg/50 ml (100 ug/ml)|
 ||Solatol|20-40 mgoder Beloc 1-5 mg|
 |Blutdruck und Herzfrequenz|||
 ||Glycerolnitrat|5-200 ug/min:50 mg/50 ml Perfusor(1 mg/ml)|
 ||||
-|Übelkeit und Erbrechen<br>(+ Prophylaxe)|Dexamethason|4 mgi.v.|
+|Übelkeit und Erbrechen
+(+ Prophylaxe)|Dexamethason|4 mgi.v.|
 ||Ondansetron|8 mgi.v.|
 |Blutgerinnung|Tranexamsäure|1gi.v.|
 |Intubationspflicht (60-100 kg)|Sufentanil|30-50 uq|

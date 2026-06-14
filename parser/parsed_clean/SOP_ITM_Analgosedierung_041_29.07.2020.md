@@ -13,7 +13,11 @@ Organisationseinheiten IPS, PACU, Anästhesie
 
 Sedierungsschema 
 
-Änderungshistorie<br>Version  gültig ab  Verfasser  Freigabe  Änderungsgrund  Wiedervorlage<br>Brecht, S.<br>**----- End of picture text -----**<br>
+Änderungshistorie
+Version  gültig ab  Verfasser  Freigabe  Änderungsgrund  Wiedervorlage
+Brecht, S.
+**----- End of picture text -----**
+
 
 ## **Inhaltsverzeichnis** 
 

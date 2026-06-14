@@ -9,7 +9,11 @@ Organisationseinheit IPS
 
 ## **Änderungshistorie** 
 
-Version  Esrtellt am  Verfasst/Geprüft<br>Roggenbruck, S.  Literatur gelöscht<br>2.1  11.02.2022  01.02.2024<br>**----- End of picture text -----**<br>
+Version  Esrtellt am  Verfasst/Geprüft
+Roggenbruck, S.  Literatur gelöscht
+2.1  11.02.2022  01.02.2024
+**----- End of picture text -----**
+
 
 ## **Inhaltsverzeichnis** 
 

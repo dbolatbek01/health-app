@@ -130,20 +130,33 @@ Bei Abweichung vom Standard: Kennzeichnung (z. B. Exspiration) Alle Aufnahmen we
 
 Der Abstand zum Rasterwandgerät beträgt immer 200 cm, es wird mit wechselndem Fokus gearbeitet. Auf den Einsatz von Streustrahlenrastern soll bei kleinen Kindern verzichtet werden. Erst ab einem Objektdurchmesser von > 15 cm und damit einem Alter von 8–12 Jahren sind Streustrahlenraster erforderlich. 
 
-|**Aufnahm**<br>**e**|**Alter**|**Deteko**|**Raste**|**kV**|**mA**<br>**s**|**Foku**|**Filter**|**EI_T /**|**Kamme**|**DR**|
+|**Aufnahm**
+**e**|**Alter**|**Deteko**|**Raste**|**kV**|**mA**
+**s**|**Foku**|**Filter**|**EI_T /**|**Kamme**|**DR**|
 |---|---|---|---|---|---|---|---|---|---|---|
-||**in**|**r**|**r**|||**s**|**mmCu+1mmA**|<br>**Empfindlichkei**|**r**|**W**|
+||**in**|**r**|**r**|||**s**|**mmCu+1mmA**|
+**Empfindlichkei**|**r**|**W**|
 ||**Jahre**||||||**L**|**t**|||
 ||**n**||||||||||
 ||||||||||||
-|**a.p. - p.a.**|1–˂ 5|43 x 35|-|85|Auto||0,1|125|<br>|2,0|
-|**a.p. - p.a.**|5–˂ 8|43 x 35|-|85|Auto||0,1|125|<br>|3,5|
-|**a.p. - p.a.**|8–˂ 10|43 x 35|-/+|10<br>5|Auto||0,1|250|<br>|3,5|
-|**a.p. - p.a.**|10–18|43 x 35|+|10<br>5|Auto||0,1 – 0,2|250|<br>|15|
+|**a.p. - p.a.**|1–˂ 5|43 x 35|-|85|Auto||0,1|125|
+|2,0|
+|**a.p. - p.a.**|5–˂ 8|43 x 35|-|85|Auto||0,1|125|
+|3,5|
+|**a.p. - p.a.**|8–˂ 10|43 x 35|-/+|10
+5|Auto||0,1|250|
+|3,5|
+|**a.p. - p.a.**|10–18|43 x 35|+|10
+5|Auto||0,1 – 0,2|250|
+|15|
 |**seitlich**|1–˂ 5|43 x 35|-|80|2,0||0,1|125|manuell|2,5|
 |**seitlich**|5–˂ 8|43 x 35|-|80|2,0||0,1|125|manuell|5|
-|**seitlich**|8–˂ 10|43 x 35|-|10<br>5|Auto||0,1|250|<br>|5|
-|**seitlich**|10–18|43 x 35|+|10<br>5|Auto||0,1 - 0,2|250|<br>|40|
+|**seitlich**|8–˂ 10|43 x 35|-|10
+5|Auto||0,1|250|
+|5|
+|**seitlich**|10–18|43 x 35|+|10
+5|Auto||0,1 - 0,2|250|
+|40|
 
 ## **9. Strahlenschutz** 
 

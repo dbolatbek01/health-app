@@ -336,7 +336,54 @@ Anlage zu SOP387
 
 ## **Bildgebung nach herzchirurgischen Eingriffen** 
 
-Abstract<br>Kurzfassung der SOP387 "Thorax-Bildgebung nach operativen und interventionellen Eingriffen in der<br>Herzchirurgie“. Ziel der SOP: Evidenzbasierte Verringerung der Strahlenbelastung durch Reduktion von Thorax-<br>Röntgenbildern und Anwendung von Alternativmethoden ohne Verlust von Qualität und Sicherheit der<br>medizinischen Behandlung. Die Lungensonographie ist dem Röntgenthorax an Sensitivität und Spezifität überlegen<br>und kommt nahe dem Goldstandard: der Computertomographie des Thorax. Die Lungensonographie setzt ein<br>gewisses Maß an Expertise sowie die Speicherung der sonographischen Befunde voraus.<br>Präoperative Vorbereitung<br>Stabile pulmonale  keine relevanten<br>Symptomatik und anatomischen<br>Erkrankung? Besonderheiten?<br>Nein Ja Ja Nein<br>Hinweis:<br>Sollte bereits eine CT des Thorax<br>Röntgenthorax KEIN Röntgenthorax Röntgenthorax vorliegen ist grundsätzlich kein<br>Röntgenthorax notwendig.<br>herzchirurgischer Eingriff + postoperative Aufnahme<br>Hinweis:<br>Narkoseinduktion und  Eine EKG-kontrollierte Anlage<br>Katheteranlage eines ZVKs über die V. jug. interna<br>führt in ca. 96% zu einer korrekten<br>Lage.<br>TEE<br>Nein (+Bilddokumentation)<br>Lage optimieren<br>ZVK:  Spitze Übergang V. cava sup. + RA?<br>PAK: In A. pulmonalis?<br>Postoperative Aufnahme<br>AWR/ITS<br>Röntgenthorax  Nein Ja<br>ZVK/PAK im TEE<br>ODER KEIN Röntgenthorax<br>kontrolliert?<br>TTE/TEE<br>Röntgenthorax  Endotrachealtubus<br>ODER Nein seitengleich ventiliert? Ja<br>Lungensono Intubation C+L ≤ 2  KEIN Röntgenthorax<br>ODER + Intubationstiefe<br>Bronchoskopie dokumentiert?<br>Pneumothorax<br>Nein sonographisch sicher  Ja<br>Röntgenthorax ausgeschlossen? KEIN Röntgenthorax<br>Thoraxdrainagen<br>unter Sicht<br>eingebracht?<br>Version Erstellung Prüfung Freigabe Freigabedatum Seite<br>**----- End of picture text -----**<br>
+Abstract
+Kurzfassung der SOP387 "Thorax-Bildgebung nach operativen und interventionellen Eingriffen in der
+Herzchirurgie“. Ziel der SOP: Evidenzbasierte Verringerung der Strahlenbelastung durch Reduktion von Thorax-
+Röntgenbildern und Anwendung von Alternativmethoden ohne Verlust von Qualität und Sicherheit der
+medizinischen Behandlung. Die Lungensonographie ist dem Röntgenthorax an Sensitivität und Spezifität überlegen
+und kommt nahe dem Goldstandard: der Computertomographie des Thorax. Die Lungensonographie setzt ein
+gewisses Maß an Expertise sowie die Speicherung der sonographischen Befunde voraus.
+Präoperative Vorbereitung
+Stabile pulmonale  keine relevanten
+Symptomatik und anatomischen
+Erkrankung? Besonderheiten?
+Nein Ja Ja Nein
+Hinweis:
+Sollte bereits eine CT des Thorax
+Röntgenthorax KEIN Röntgenthorax Röntgenthorax vorliegen ist grundsätzlich kein
+Röntgenthorax notwendig.
+herzchirurgischer Eingriff + postoperative Aufnahme
+Hinweis:
+Narkoseinduktion und  Eine EKG-kontrollierte Anlage
+Katheteranlage eines ZVKs über die V. jug. interna
+führt in ca. 96% zu einer korrekten
+Lage.
+TEE
+Nein (+Bilddokumentation)
+Lage optimieren
+ZVK:  Spitze Übergang V. cava sup. + RA?
+PAK: In A. pulmonalis?
+Postoperative Aufnahme
+AWR/ITS
+Röntgenthorax  Nein Ja
+ZVK/PAK im TEE
+ODER KEIN Röntgenthorax
+kontrolliert?
+TTE/TEE
+Röntgenthorax  Endotrachealtubus
+ODER Nein seitengleich ventiliert? Ja
+Lungensono Intubation C+L ≤ 2  KEIN Röntgenthorax
+ODER + Intubationstiefe
+Bronchoskopie dokumentiert?
+Pneumothorax
+Nein sonographisch sicher  Ja
+Röntgenthorax ausgeschlossen? KEIN Röntgenthorax
+Thoraxdrainagen
+unter Sicht
+eingebracht?
+Version Erstellung Prüfung Freigabe Freigabedatum Seite
+**----- End of picture text -----**
+
 
 Anlage zu SOP387 
 
@@ -344,7 +391,53 @@ Anlage zu SOP387
 
 ## **Fast Track Konzept nach postoperativer Aufnahme AWR/ITS** 
 
-Sedierungsreduktion<br>Weaning der Beatmung<br>Differenzierte Kreislauftherapie<br>Ja Nein<br>Extubationskriterien Keine signifikante  Gerinnungsoptimierung + ggf.<br>erfüllt? Nachblutung? chirurgische Blutungskontrolle<br>Ja<br>Schnellstmögliche Extubation Nein<br>Ziel <6h<br>Pneumothorax?<br>Nein Lungensono Atelektasen?<br>respiratorisch stabil? ODER Pleuraergüsse?<br>Röntgenthorax Lungenödem?<br>Ja Pneumonie?<br>Ja<br>KEIN Röntgenthorax<br>Therapie<br>Kriterien Entfernung  Kriterien Entfernung<br>Mediastinal/Thorax- Thoraxdrainage<br>drainage erfüllt? erfüllt?<br>Ja Ja<br>Entfernung<br>Entfernung Thoraxdrainage<br>Mediastinaldrainagen<br>hämodynamisch und Ja Ja hämodynamisch und<br>respiratorisch  KEIN Röntgenthorax respiratorisch<br>stabil? stabil?<br>Nein Nein<br>TTE/TEE Lungensono<br>+ ggf. Lungensono ODER<br>Röntgenthorax Röntgenthorax<br>Pneumothorax?<br>Perikardtamponade?<br>Atelektasen?<br>Reduzierte LV-EF?<br>Pleuraergüsse?<br>Hypovolämie?<br>Lungenödem?<br>Pneumothorax?<br>Pneumonie?<br>Ja Ja<br>Therapie Therapie<br>Hinweis: Kein Röntgenthorax als<br>Verlaufskontrolle, nur bei<br>entsprechender Klinik!<br>**----- End of picture text -----**<br>
+Sedierungsreduktion
+Weaning der Beatmung
+Differenzierte Kreislauftherapie
+Ja Nein
+Extubationskriterien Keine signifikante  Gerinnungsoptimierung + ggf.
+erfüllt? Nachblutung? chirurgische Blutungskontrolle
+Ja
+Schnellstmögliche Extubation Nein
+Ziel <6h
+Pneumothorax?
+Nein Lungensono Atelektasen?
+respiratorisch stabil? ODER Pleuraergüsse?
+Röntgenthorax Lungenödem?
+Ja Pneumonie?
+Ja
+KEIN Röntgenthorax
+Therapie
+Kriterien Entfernung  Kriterien Entfernung
+Mediastinal/Thorax- Thoraxdrainage
+drainage erfüllt? erfüllt?
+Ja Ja
+Entfernung
+Entfernung Thoraxdrainage
+Mediastinaldrainagen
+hämodynamisch und Ja Ja hämodynamisch und
+respiratorisch  KEIN Röntgenthorax respiratorisch
+stabil? stabil?
+Nein Nein
+TTE/TEE Lungensono
++ ggf. Lungensono ODER
+Röntgenthorax Röntgenthorax
+Pneumothorax?
+Perikardtamponade?
+Atelektasen?
+Reduzierte LV-EF?
+Pleuraergüsse?
+Hypovolämie?
+Lungenödem?
+Pneumothorax?
+Pneumonie?
+Ja Ja
+Therapie Therapie
+Hinweis: Kein Röntgenthorax als
+Verlaufskontrolle, nur bei
+entsprechender Klinik!
+**----- End of picture text -----**
+
 
 ## **Extubationsziele:** 
 

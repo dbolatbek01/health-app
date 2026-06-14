@@ -1,8 +1,8 @@
 import re
 from pathlib import Path
 
-INPUT_DIR = Path(r"C:\Users\Данат\Documents\Wildau\Masterarbeit\App\parsed_ohne_ki")
-OUTPUT_DIR = Path(r"C:\Users\Данат\Documents\Wildau\Masterarbeit\App\parsed_clean")
+INPUT_DIR = Path(r"C:\Users\Данат\Documents\Wildau\Masterarbeit\App\parser\parsed_ohne_ki")
+OUTPUT_DIR = Path(r"C:\Users\Данат\Documents\Wildau\Masterarbeit\App\parser\parsed_clean")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 FULL_LINE_JUNK = [

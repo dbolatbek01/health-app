@@ -62,12 +62,19 @@ Neben der Standardechokardiographie zur Beurteilung der Anatomie und Funktion de
 
    - f) IVC: Diameter und Atemvariabilität 
 
-|**Parameter**|**z-score Calculator**|**Werte bei erheblicher RV-**<br>**Funktionsstörung (Echo)* **|
+|**Parameter**|**z-score Calculator**|**Werte bei erheblicher RV-**
+**Funktionsstörung (Echo)* **|
 |---|---|---|
-|RV – FAC im 4-<br>Kammerblick|https://www.rchsd.org/zscore/<br>Pediatric echo chamber diameters and areas,<br>Cantinotti et al,JASE 2014|< 20 %|
-|RV/LV enddiastol.<br>Ratio||> 0,7|
+|RV – FAC im 4-
+Kammerblick|https://www.rchsd.org/zscore/
+Pediatric echo chamber diameters and areas,
+Cantinotti et al,JASE 2014|< 20 %|
+|RV/LV enddiastol.
+Ratio||> 0,7|
 |TAPSE|https://www.pedz.de/de/pedz/mmode.html|< 10 mm|
-|RV-EF|https://www.rchsd.org/zscore/<br>RV Volume (3D) Z scores;<br>Jone et al,Can J Card 2022|< 30 %|
+|RV-EF|https://www.rchsd.org/zscore/
+RV Volume (3D) Z scores;
+Jone et al,Can J Card 2022|< 30 %|
 |RV-EDV|||
 
 *Keiner der Werte ist anerkannt als prädiktiv für die Notwendigkeit eines RVAD; Werte altersabhängig. 
@@ -211,10 +218,13 @@ Normwerte Echokardiographie: https://www.rchsd.org/zscore/; für LV: PHN Echocar
 |**Patient:**|**Datum:**|**Datum:**|
 |---|---|---|
 ||||
-||Norm LVIDd (https://www.rchsd.org/zscore/)<br>(PHN Echocardiographic Z Scores, Lopez 2017):<br>____________________________________________||
+||Norm LVIDd (https://www.rchsd.org/zscore/)
+(PHN Echocardiographic Z Scores, Lopez 2017):
+____________________________________________||
 |Länge:|Gewicht:|BSA:|
 
-|**VAD Excor**<br>**Pumpenstopp**|**Baseline**|**VAD 30/min**|**5–10 min Stopp**|**15–20 min Stopp**|
+|**VAD Excor**
+**Pumpenstopp**|**Baseline**|**VAD 30/min**|**5–10 min Stopp**|**15–20 min Stopp**|
 |---|---|---|---|---|
 ||||||
 |**Zeit**|||||
@@ -236,7 +246,8 @@ Normwerte Echokardiographie: https://www.rchsd.org/zscore/; für LV: PHN Echocar
 |**RV FAC**|||||
 |**TAPSE**|||||
 |**Global strain/%**|||||
-|**Smax LV SAX**<br>**(Hinterwand)**|||||
+|**Smax LV SAX**
+**(Hinterwand)**|||||
 |**E/e’**|||||
 
 _RWT, relative wall thickness: (IVSd+PWD)/LVIDD; SV, stroke volume:_  _x (LVOT (cm)²/2) x VTI RV FAC, right ventricular fractional area change: (RV-area enddiastol. – RV-area endsystol.)/RV-area enddiastol._ 
@@ -245,10 +256,12 @@ _RWT, relative wall thickness: (IVSd+PWD)/LVIDD; SV, stroke volume:_  _x (
 
 |**Datum:**|Größe:||
 |---|---|---|
-|**Patient:**|Gewicht:|Normwert LVIDd (https://www.rchsd.org/zscore/);<br>PHN Echocardiographic Z Scores, Lopez 2017):|
+|**Patient:**|Gewicht:|Normwert LVIDd (https://www.rchsd.org/zscore/);
+PHN Echocardiographic Z Scores, Lopez 2017):|
 |**Baseline: rpm; Fluss                      l/min**|BSA:||
 
-|**RPM /**|**HF**|**Rhythmus**|**Rhythmus**|**BP**|**AK-**<br>|**LVEDD**|**LVEF**|**Smax**|**RVEDD**|**RVEF**|**VTI im**|**AR**|**MR**|**TR**|**PA-Druck**|**Symptome**|
+|**RPM /**|**HF**|**Rhythmus**|**Rhythmus**|**BP**|**AK-**
+|**LVEDD**|**LVEF**|**Smax**|**RVEDD**|**RVEF**|**VTI im**|**AR**|**MR**|**TR**|**PA-Druck**|**Symptome**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**Fluss**||||**(mmHg)**|**Öffnung**|**(mm)**|**(%)**|**radial**|**(mm)**|**(%)**|**RVOT**||||||
 |**LVAD**|||||||||||||||||

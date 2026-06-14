@@ -13,7 +13,11 @@ Arztdienst, Pflegedienst auf der Intensivstation
 
 Flussdiagramm Schwieriger Atemweg 
 
-Änderungshistorie<br>Version  Erstellt<br>5.0  15.12.2021  Überarbeitung  31.12.2022<br>**----- End of picture text -----**<br>
+Änderungshistorie
+Version  Erstellt
+5.0  15.12.2021  Überarbeitung  31.12.2022
+**----- End of picture text -----**
+
 
 ## **Inhaltsverzeichnis** 
 

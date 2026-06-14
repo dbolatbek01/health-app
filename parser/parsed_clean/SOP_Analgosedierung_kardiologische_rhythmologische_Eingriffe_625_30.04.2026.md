@@ -73,16 +73,45 @@ Geltungsbereich: Herzkatheter
 
 Tabelle 1. ASA-Klassifikation im Kerndatensatz 3.0 DGAI 2010 und Beispieldiagnosen der American Society of Anesthesiologists Physical Status (ASA PS) Classification. (Auszug aus American Society of Anesthesiologists) 
 
-|Tabelle 1. ASA-Klassifikation im Kerndatensatz 3.0 DGAI 2010 und Beispieldiagnosen der American Society of<br>Anesthesiologists Physical Status (ASA PS) Classification. (Auszug aus American Society of Anesthesiologists)|Tabelle 1. ASA-Klassifikation im Kerndatensatz 3.0 DGAI 2010 und Beispieldiagnosen der American Society of<br>Anesthesiologists Physical Status (ASA PS) Classification. (Auszug aus American Society of Anesthesiologists)|Tabelle 1. ASA-Klassifikation im Kerndatensatz 3.0 DGAI 2010 und Beispieldiagnosen der American Society of<br>Anesthesiologists Physical Status (ASA PS) Classification. (Auszug aus American Society of Anesthesiologists)|
+|Tabelle 1. ASA-Klassifikation im Kerndatensatz 3.0 DGAI 2010 und Beispieldiagnosen der American Society of
+Anesthesiologists Physical Status (ASA PS) Classification. (Auszug aus American Society of Anesthesiologists)|Tabelle 1. ASA-Klassifikation im Kerndatensatz 3.0 DGAI 2010 und Beispieldiagnosen der American Society of
+Anesthesiologists Physical Status (ASA PS) Classification. (Auszug aus American Society of Anesthesiologists)|Tabelle 1. ASA-Klassifikation im Kerndatensatz 3.0 DGAI 2010 und Beispieldiagnosen der American Society of
+Anesthesiologists Physical Status (ASA PS) Classification. (Auszug aus American Society of Anesthesiologists)|
 |---|---|---|
-|**ASA-**<br>**Klasse**|**DGAI 2010**|**ASA 2014**|
-|I|Normaler, gesunder Patient|Gesund, Nichtraucher, kein oder minimaler<br>Alkoholkonsum|
-|II|Patient mit leichter Allgemeinerkrankung (z. B. gut<br>eingestellter Hypertonus, schwach ausgeprägter<br>Diabetes)|Raucher, regelmäßiger Alkoholkonsum (z. B. zu sozialen<br>Anlässen), Schwangerschaft, Adipositas (BMI 30–40<br>kg/m2), gut eingestellter DM oder aHT, leichte<br>Lungenerkrankung|
-|III|Patient mit schwerer Allgemeinerkrankung (z. B.<br>Angina pectoris, früherer<br>Myokardinfarkt, COPD)|Schlecht eingestellter DM oder aHT;<br>COPD, BMI ≥ 40 kg/m2, Hepatitis, Drogenmissbrauch<br>(einschließlich Alkohol), Schrittmacher, reduzierte<br>myokardiale EF, terminale Niereninsuffizienz mit<br>Dialysepflichtigkeit, Apoplex, TIA, MI oder KHK mit<br>Stent-Versorgung >3 Monate zurückliegend|
-|IV|Patient mit schwerer Allgemeinerkrankung, die<br>eine ständige Lebensbedrohung darstellt (z. B.<br>chronische Herzinsuffizienz, Nierenversagen)|MI, Apoplex, TIA oder KHK mit Stentversorgung <3<br>Monate zurückliegend, schwere Herzklappenvitien,<br>Herzinsuffizienz mit stark reduzierter EF, Sepsis,<br>DIC, akutes Nierenversagen|
-|V|Moribunder Patient, von dem nicht erwartet wird,<br>dass er ohne Operation überlebt (z. B. rupturiertes<br>BAA)|Rupturiertes abdominales/thorakales<br>Aortenaneurysma, schweres Polytrauma, intrakranielle<br>Blutung mit Hirndruck/Mittellinien-Shift, kritische<br>Darmischämie, Multiorganversagen|
+|**ASA-**
+**Klasse**|**DGAI 2010**|**ASA 2014**|
+|I|Normaler, gesunder Patient|Gesund, Nichtraucher, kein oder minimaler
+Alkoholkonsum|
+|II|Patient mit leichter Allgemeinerkrankung (z. B. gut
+eingestellter Hypertonus, schwach ausgeprägter
+Diabetes)|Raucher, regelmäßiger Alkoholkonsum (z. B. zu sozialen
+Anlässen), Schwangerschaft, Adipositas (BMI 30–40
+kg/m2), gut eingestellter DM oder aHT, leichte
+Lungenerkrankung|
+|III|Patient mit schwerer Allgemeinerkrankung (z. B.
+Angina pectoris, früherer
+Myokardinfarkt, COPD)|Schlecht eingestellter DM oder aHT;
+COPD, BMI ≥ 40 kg/m2, Hepatitis, Drogenmissbrauch
+(einschließlich Alkohol), Schrittmacher, reduzierte
+myokardiale EF, terminale Niereninsuffizienz mit
+Dialysepflichtigkeit, Apoplex, TIA, MI oder KHK mit
+Stent-Versorgung >3 Monate zurückliegend|
+|IV|Patient mit schwerer Allgemeinerkrankung, die
+eine ständige Lebensbedrohung darstellt (z. B.
+chronische Herzinsuffizienz, Nierenversagen)|MI, Apoplex, TIA oder KHK mit Stentversorgung <3
+Monate zurückliegend, schwere Herzklappenvitien,
+Herzinsuffizienz mit stark reduzierter EF, Sepsis,
+DIC, akutes Nierenversagen|
+|V|Moribunder Patient, von dem nicht erwartet wird,
+dass er ohne Operation überlebt (z. B. rupturiertes
+BAA)|Rupturiertes abdominales/thorakales
+Aortenaneurysma, schweres Polytrauma, intrakranielle
+Blutung mit Hirndruck/Mittellinien-Shift, kritische
+Darmischämie, Multiorganversagen|
 |VI|Hirntoter Organspender|–|
-|_aHT_arterielle Hypertonie,_BAA_Bauchaortenaneurysma,_BMI_Body-Mass-Index,_COPD_„chronic obstructive pulmonary disease“<br>(chronisch obstruktive Lungenerkrankung),_DIC_„disseminated intravasal coagulation“ (disseminierte intravasale Gerinnung),_DM_<br>Diabetes mellitus,_EF_Ejektionsfraktion,_KHK_koronare Herzkrankheit,_MI_Myokardinfarkt, TIA transitorisch ischämische Attacke|||
+|_aHT_arterielle Hypertonie,_BAA_Bauchaortenaneurysma,_BMI_Body-Mass-Index,_COPD_„chronic obstructive pulmonary disease“
+(chronisch obstruktive Lungenerkrankung),_DIC_„disseminated intravasal coagulation“ (disseminierte intravasale Gerinnung),_DM_
+Diabetes mellitus,_EF_Ejektionsfraktion,_KHK_koronare Herzkrankheit,_MI_Myokardinfarkt, TIA transitorisch ischämische Attacke|||
 
 ## **Personelle Voraussetzungen** 
 
@@ -126,7 +155,34 @@ Die Wahl der Sedativa und Analgetika sind dem Operateur bzw. dem qualifizierten 
 
 |**Propofol**||
 |---|---|
-|<br>1%-ige oder 2%-ige Emulsion<br><br>Narkotikum ohne analgetischen Effekt<br><br>Zusätzliche adäquate analgetische Therapie bei<br>schmerzhaften Eingriffen sinnvoll<br><br>Wirkeintritt nach < 1 Min.<br><br>Nach Beendigung wacht Pat. nach 5-10 Min. auf<br><br>KEIN Antidot, Komplikationen müssen durch<br>behandelndes Team beherrscht werden<br> Durch Lipophilie anfällig für bakterielle<br>Kontamination, Zubereitung unter Beachtung der<br>Hygienestandards| Wirkeintritt und Wirkstärke abhängig von Alter,<br>Körpergewicht, Begleiterkrankungen (LV-Funktion)<br> Vasodilatation, negative inotrope Wirkung<br>(= Verringerung der Kontraktionskraft des Herzens),<br>Cave: Hypotonie<br> Bei adipösen Pat. zu Beginn hohe Dosen nötig, nach<br>Saturierung der Fettdepots, tritt Atemdepression ein<br>und erfordert eine Dosisreduktion<br> Dosis: Bolus 0,5 mg/kgKG , dann Dauerinfusion mit 0,5-<br>4,0 mg/kgKG/h<br> KI: Brughada Syndrom, Allergien gegen Hühner- und<br>Sojaeiweiß sowie Haselnüsse, Hülsenfrüchte|
+|
+1%-ige oder 2%-ige Emulsion
+
+Narkotikum ohne analgetischen Effekt
+
+Zusätzliche adäquate analgetische Therapie bei
+schmerzhaften Eingriffen sinnvoll
+
+Wirkeintritt nach < 1 Min.
+
+Nach Beendigung wacht Pat. nach 5-10 Min. auf
+
+KEIN Antidot, Komplikationen müssen durch
+behandelndes Team beherrscht werden
+ Durch Lipophilie anfällig für bakterielle
+Kontamination, Zubereitung unter Beachtung der
+Hygienestandards| Wirkeintritt und Wirkstärke abhängig von Alter,
+Körpergewicht, Begleiterkrankungen (LV-Funktion)
+ Vasodilatation, negative inotrope Wirkung
+(= Verringerung der Kontraktionskraft des Herzens),
+Cave: Hypotonie
+ Bei adipösen Pat. zu Beginn hohe Dosen nötig, nach
+Saturierung der Fettdepots, tritt Atemdepression ein
+und erfordert eine Dosisreduktion
+ Dosis: Bolus 0,5 mg/kgKG , dann Dauerinfusion mit 0,5-
+4,0 mg/kgKG/h
+ KI: Brughada Syndrom, Allergien gegen Hühner- und
+Sojaeiweiß sowie Haselnüsse, Hülsenfrüchte|
 
 **SOP Analgosedierung bei kardiologischen und rhythmologischen Eingriffen** 
 
@@ -136,13 +192,19 @@ Geltungsbereich: Herzkatheter
 
 |**Dexmedetomidin**|**Dexmedetomidin**|
 |---|---|
-| bspw. bei AV-Klappen-Interventionen<br> Zentraler A2- Agonist<br> sedierende,analgetische und anxiolytische Wirkung| kurze Halbwertzeit, gut steuerbar<br> Dosis:<br> KI: schwere Leberfunktionsstörungen|
+| bspw. bei AV-Klappen-Interventionen
+ Zentraler A2- Agonist
+ sedierende,analgetische und anxiolytische Wirkung| kurze Halbwertzeit, gut steuerbar
+ Dosis:
+ KI: schwere Leberfunktionsstörungen|
 
 - **Etomidate**  Einsatz bei Kardioversionen.  KI: Allergien gegen Hühner- und Sojaeiweiß sowie Nüsse  Sedierende, keine analgetische Wirkung und Hülsenfrüchte  Dosis: 0,1-0,2 mg/kgKG als Bolus i.v. 
 
 |**Fentanyl **||
 |---|---|
-| Analgetikum<br> Dosis: 50-100µgfraktioniert in 25µgBoli i.v.| Cave: Atemdepression<br> Antidot: Nalaxon, 0,5 mg i.v.(Cave Rebound)|
+| Analgetikum
+ Dosis: 50-100µgfraktioniert in 25µgBoli i.v.| Cave: Atemdepression
+ Antidot: Nalaxon, 0,5 mg i.v.(Cave Rebound)|
 
 ## **Piritramid** 
 

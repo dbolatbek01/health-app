@@ -71,12 +71,16 @@ Eine einheitliche Terminologie ist essenziell für eine präzise klinische Kommu
 
 |**Begriff**|**Definition**|
 |---|---|
-|Sonde|Intrakardiale, epikardiale oder extravaskuläre Stimulations- oder<br>Defibrillationselektrode|
-|Aggregat|Implantierter Impulsgenerator (Schrittmacher- oder ICD-Gehäuse mit Batterie<br>und Elektronik)|
-|CIED|Cardiac Implantable Electronic Device – Oberbegriff für alle implantierbaren<br>kardialen elektronischen Systeme|
+|Sonde|Intrakardiale, epikardiale oder extravaskuläre Stimulations- oder
+Defibrillationselektrode|
+|Aggregat|Implantierter Impulsgenerator (Schrittmacher- oder ICD-Gehäuse mit Batterie
+und Elektronik)|
+|CIED|Cardiac Implantable Electronic Device – Oberbegriff für alle implantierbaren
+kardialen elektronischen Systeme|
 |Aggregattasche|Subkutane, subfasziale oder submuskuläre Tasche zur Aufnahme des Aggregats|
 |Device-Abfrage|Programmiergerätgestützte Funktionsabfrage des implantierten Systems|
-|Transvenöse<br>Sondenextraktion|Entfernung implantierter intrakardialer Sonden|
+|Transvenöse
+Sondenextraktion|Entfernung implantierter intrakardialer Sonden|
 |Leadless PM|Intrakardiales Schrittmachersystem ohne transvenöse Sonde|
 |CRT-P / CRT-D|Kardiale Resynchronisationstherapie mit Schrittmacher (P) oder Defibrillator (D)|
 
@@ -84,7 +88,12 @@ Eine einheitliche Terminologie ist essenziell für eine präzise klinische Kommu
 
 |**Rolle**|**Verantwortlichkeit**|**Dokumentationsort**|
 |---|---|---|
-|Aufnahme-<br>Arzt|Durchführung der präoperativen Vorbereitung,<br>Sicherstellung der vollständigen Diagnostik,<br>Dokumentation aller erforderlichen Maßnahmen,<br>Indikationsprüfung|KIS,<br>Verlaufsdokumentation|
+|Aufnahme-
+Arzt|Durchführung der präoperativen Vorbereitung,
+Sicherstellung der vollständigen Diagnostik,
+Dokumentation aller erforderlichen Maßnahmen,
+Indikationsprüfung|KIS,
+Verlaufsdokumentation|
 |Operateur|Finale Indikationsprüfung, finale Freigabe zum CIED-Eingriff|OP-Bericht|
 
 ## **5. Indikationsprüfung** 
@@ -137,10 +146,19 @@ Bei Patienten mit CIED-Eingriffen sind zusätzlich zur üblichen Anamnese folgen
 
 |**Kategorie**|**Zu erfassende Aspekte**|
 |---|---|
-|Allgemein|Rhythmusstörungen<br>Synkopen<br>Herzinsuffizienz-Symptome|
-|Device-spezifisch|Implantationsdatum<br>Device-Typ und Hersteller<br>Anzahl und Typ der implantierten Sonden<br>Vorherige Revisionen (mit Datum)<br>Vorherige Infektionen|
-|Medikation|Antikoagulation<br>Thrombozytenaggregationstherapie|
-|Komorbiditäten|Diabetes mellitus<br>Niereninsuffizienz (bei Dialysepflicht: Seite des Shuntarmes vermerken)<br>Immunsuppression|
+|Allgemein|Rhythmusstörungen
+Synkopen
+Herzinsuffizienz-Symptome|
+|Device-spezifisch|Implantationsdatum
+Device-Typ und Hersteller
+Anzahl und Typ der implantierten Sonden
+Vorherige Revisionen (mit Datum)
+Vorherige Infektionen|
+|Medikation|Antikoagulation
+Thrombozytenaggregationstherapie|
+|Komorbiditäten|Diabetes mellitus
+Niereninsuffizienz (bei Dialysepflicht: Seite des Shuntarmes vermerken)
+Immunsuppression|
 
 ## **8. Verpflichtendes Einscannen und Dokumentieren des Implantatausweises** 
 
@@ -182,7 +200,11 @@ Wichtig ist auch das Erkennen und die Dokumentation venöser Kollateralkreisläu
 
 ||||
 |---|---|---|
-|**Zwingende Voraussetzung**||**Der Patient muss mindestens 24 Stunden fieberfrei sein.**<br>Definition:Keine Körpertemperatur ≥ 38°C in den letzten 24 Stunden.<br>Bei Fieber → CIED-Eingriff verschieben,<br>Infekt-Fokussuche & -behandlung durchführen.<br>**Ausnahme: Notfallimplantation bei vitaler Indikation.**|
+|**Zwingende Voraussetzung**||**Der Patient muss mindestens 24 Stunden fieberfrei sein.**
+Definition:Keine Körpertemperatur ≥ 38°C in den letzten 24 Stunden.
+Bei Fieber → CIED-Eingriff verschieben,
+Infekt-Fokussuche & -behandlung durchführen.
+**Ausnahme: Notfallimplantation bei vitaler Indikation.**|
 
 ## **11. Präoperative Device-Abfrage** 
 
@@ -192,11 +214,13 @@ Bei bestehendem CIED-Device ist das Vorhandensein einer aktuellen Device-Abfrage
 
 |**Parameter**|**Vorgehen / Zielwert**|
 |---|---|
-|Zeitpunkt|Aktuell vorliegende Abfrage (eingescannt) nicht älter als 4 Wochen;<br>sonst präoperativ durchführen|
+|Zeitpunkt|Aktuell vorliegende Abfrage (eingescannt) nicht älter als 4 Wochen;
+sonst präoperativ durchführen|
 |Batteriestatus|Dokumentation des aktuellen Batterielevels|
 |Sondenfunktion|Sensing, Reizschwelle – Werte dokumentieren|
 |Sondenimpedanz|Herstellerspezifischer Normbereich (typisch 300–1.000 Ohm)|
-|Schrittmacher-Abhängigkeit|Stimulationshäufigkeit erfassen; bei Abhängigkeit perioperativen Plan<br>festlegen|
+|Schrittmacher-Abhängigkeit|Stimulationshäufigkeit erfassen; bei Abhängigkeit perioperativen Plan
+festlegen|
 |Tachytherapien|Arrhythmieereignisse und ggf. abgegebene Therapien dokumentieren|
 
 **SOP Präoperatives Management vor CIEDEingriff – Klinik HTG** 
@@ -209,10 +233,18 @@ Die präoperative Bildgebung stellt einen zentralen Bestandteil der Vorbereitung
 
 |**Indikation**|**Maßnahme**|
 |---|---|
-|Routine vor jedem CIED-Eingriff<br>**(Pflicht)**|Thorax-Röntgen p.a. (+ lateral bei bestehenden Devices); nicht<br>älter als 4 Wochen|
-|Komplexe Device-Systeme, Revisionen,<br>geplante Sondenextraktion|CT-Thorax mit Kontrastmittel zur Darstellung der<br>zentralvenösen Anatomie (Stenosen/Okklusionen V. subclavia,<br>V. brachiocephalica, V. cava superior)|
-|Verdacht auf venöse Okklusion/<br>geplantes System-Upgrade|Venographie zur direkten Beurteilung der venösen<br>Durchgängigkeit|
-|Verdacht auf Device-assoziierte<br>Infektion|TEE zum Nachweis von Vegetationen; ggf. FDG-PET/CT|
+|Routine vor jedem CIED-Eingriff
+**(Pflicht)**|Thorax-Röntgen p.a. (+ lateral bei bestehenden Devices); nicht
+älter als 4 Wochen|
+|Komplexe Device-Systeme, Revisionen,
+geplante Sondenextraktion|CT-Thorax mit Kontrastmittel zur Darstellung der
+zentralvenösen Anatomie (Stenosen/Okklusionen V. subclavia,
+V. brachiocephalica, V. cava superior)|
+|Verdacht auf venöse Okklusion/
+geplantes System-Upgrade|Venographie zur direkten Beurteilung der venösen
+Durchgängigkeit|
+|Verdacht auf Device-assoziierte
+Infektion|TEE zum Nachweis von Vegetationen; ggf. FDG-PET/CT|
 
 **Thorax-Röntgen – zu dokumentierende Befunde** 
 
@@ -234,7 +266,8 @@ Die transthorakale Echokardiographie (TTE) stellt einen wichtigen Bestandteil de
 |---|---|
 |Linksventrikuläre Ejektionsfraktion (LV-EF)|Entscheidend für ICD- und CRT-Indikation|
 |Rechtsventrikuläre Funktion|Risikobewertung und operative Planung|
-|Klappenfunktion|Insb. Trikuspidalklappenfunktion bei transvenösen<br>Sonden; ggf. alternative Implantationsstrategie|
+|Klappenfunktion|Insb. Trikuspidalklappenfunktion bei transvenösen
+Sonden; ggf. alternative Implantationsstrategie|
 |Intrakardiale Strukturen|Thromben, Vegetationen, angeborene Herzfehler|
 
 **Klinischer Hinweis:** Trikuspidalklappe: Bei bestehenden Trikuspidalklappenerkrankungen sollten alternative Strategien zur Vermeidung einer transvalvulären Sonde berücksichtigt werden (z. B. CSSonde, epikardiale Sonde, Leadless-Device). 
@@ -259,12 +292,22 @@ Präoperative Laboruntersuchungen dienen der frühzeitigen Identifikation mögli
 
 |**Parameter**|**Klinische Bedeutung**|**Pflicht / Zusatz**|
 |---|---|---|
-|Blutbild (inkl. Hb,<br>Thrombozyten)|Anämie, Thrombozytopenie erkennen; ggf. präoperative<br>Korrektur|Pflicht|
-|CRP / Leukozytose|Hinweis auf aktive Infektion; elektiver Eingriff nur bei<br>Infektfreiheit|Pflicht|
-|Elektrolyte (Kalium,<br>Natrium)|Elektrolytstörungen → erhöhtes perioperatives<br>Arrhythmierisiko|Pflicht|
-|Kreatinin / eGFR|Nierenfunktion beeinflusst Antikoagulationsmanagement<br>und KM-Gabe|Pflicht|
-|Gerinnung (INR, aPTT)|Relevant bei oraler Antikoagulation; perioperatives<br>Blutungsrisiko|Pflicht|
-|Kreuzblut + 2 EK<br>bereitstellen|Sofortige Verfügbarkeit von Blutprodukten bei<br>lebensbedrohlicher Blutungskomplikation|Pflicht bei<br>Extraktion|
+|Blutbild (inkl. Hb,
+Thrombozyten)|Anämie, Thrombozytopenie erkennen; ggf. präoperative
+Korrektur|Pflicht|
+|CRP / Leukozytose|Hinweis auf aktive Infektion; elektiver Eingriff nur bei
+Infektfreiheit|Pflicht|
+|Elektrolyte (Kalium,
+Natrium)|Elektrolytstörungen → erhöhtes perioperatives
+Arrhythmierisiko|Pflicht|
+|Kreatinin / eGFR|Nierenfunktion beeinflusst Antikoagulationsmanagement
+und KM-Gabe|Pflicht|
+|Gerinnung (INR, aPTT)|Relevant bei oraler Antikoagulation; perioperatives
+Blutungsrisiko|Pflicht|
+|Kreuzblut + 2 EK
+bereitstellen|Sofortige Verfügbarkeit von Blutprodukten bei
+lebensbedrohlicher Blutungskomplikation|Pflicht bei
+Extraktion|
 
 **Wichtig:** Vor geplanten Sondenextraktionen müssen zwingend eine Kreuzblut-Bestimmung durchgeführt und mindestens 2 Erythrozytenkonzentrate präoperativ reserviert werden. Schwere Komplikationen (Verletzungen der V. cava superior, des rechten Vorhofs oder Ventrikels) können innerhalb kürzester Zeit zu lebensbedrohlichen Blutungen führen. 
 
@@ -274,10 +317,24 @@ Ein optimiertes Antikoagulationsmanagement ist zur Minimierung von Blutungskompl
 
 |**Substanzklasse**|**Perioperatives Vorgehen**|**Evidenz**|
 |---|---|---|
-|Vitamin-K-Antagonisten<br>(Phenprocoumon, Warfarin)|Fortführung im therapeutischen Bereich bevorzugt. INR vor<br>Eingriff prüfen; Zielwert im unteren Drittel des therapeutischen<br>Bereichs.**Kein Heparin-Bridging**.|BRUISE-CONTROL<br>(RCT)|
-|DOAK (Apixaban,<br>Rivaroxaban, Edoxaban,<br>Dabigatran)|Kurzzeitige Pausierung; letzte Einnahme 24–48 h vor Eingriff<br>(substanzabhängig; bei eingeschränkter Nierenfunktion ggf.<br>längere Pause).**Kein Heparin-Bridging**.|BRUISE-<br>CONTROL-2 (RCT)|
+|Vitamin-K-Antagonisten
+(Phenprocoumon, Warfarin)|Fortführung im therapeutischen Bereich bevorzugt. INR vor
+Eingriff prüfen; Zielwert im unteren Drittel des therapeutischen
+Bereichs.**Kein Heparin-Bridging**.|BRUISE-CONTROL
+(RCT)|
+|DOAK (Apixaban,
+Rivaroxaban, Edoxaban,
+Dabigatran)|Kurzzeitige Pausierung; letzte Einnahme 24–48 h vor Eingriff
+(substanzabhängig; bei eingeschränkter Nierenfunktion ggf.
+längere Pause).**Kein Heparin-Bridging**.|BRUISE-
+CONTROL-2 (RCT)|
 |Aspirin (ASS-Monotherapie)|In der Regel perioperativ fortführen.|–|
-|Duale<br>Thrombozytenhemmung<br>(DAPT)|P2Y12-Inhibitor pausieren, sofern klinisch vertretbar.<br>Individuelle Rücksprache mit behandelndem Kardiologen<br>zwingend erforderlich.|ESC DAPT-<br>Leitlinie|
+|Duale
+Thrombozytenhemmung
+(DAPT)|P2Y12-Inhibitor pausieren, sofern klinisch vertretbar.
+Individuelle Rücksprache mit behandelndem Kardiologen
+zwingend erforderlich.|ESC DAPT-
+Leitlinie|
 
 **Wichtig: Heparin-Bridging** ist bei CIED-Eingriffen zu **vermeiden** . Es ist mit einem signifikant erhöhten Risiko für Aggregattaschenhämatome verbunden, die ihrerseits das Infektionsrisiko ca. 9-fach erhöhen. 
 

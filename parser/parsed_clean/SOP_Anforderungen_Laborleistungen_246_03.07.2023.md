@@ -70,15 +70,22 @@ Für jede nicht autorisierte Verursachung oder Beauftragung von Analysen oder so
 |**Kostenträger**||||
 |**Beauftragte Analysen**||||
 |**Beginn der Studie**||**Ende der Studie**||
-|**Anzahl der Analysen**||**Frequenz**<br>**Probeneingang**||
-|**Muster für**<br>**Probenbeschriftung**||||
-|**Besonderheiten zu**<br>**Präanalytik bzw.**<br>**Analytik**||||
-|**Anforderungen an die**<br>**Ergebnisdokumentation**||||
+|**Anzahl der Analysen**||**Frequenz**
+**Probeneingang**||
+|**Muster für**
+**Probenbeschriftung**||||
+|**Besonderheiten zu**
+**Präanalytik bzw.**
+**Analytik**||||
+|**Anforderungen an die**
+**Ergebnisdokumentation**||||
 |**Probenarchivierung**||**Anzahl der Proben**||
 |**Ort**||**Zeitraum (von-bis)**||
 |||||
-|**Genehmigung**<br>**Studienleitung**|Datum, Unterschrift|||
+|**Genehmigung**
+**Studienleitung**|Datum, Unterschrift|||
 |**Prüfung Laborleitung**|Datum, Unterschrift|||
-|**Rückgabe der Proben**<br>**an den Auftraggeber**|Datum, Unterschrift|||
+|**Rückgabe der Proben**
+**an den Auftraggeber**|Datum, Unterschrift|||
 |**Vernichtung der Proben**|Datum, Unterschrift|||
 

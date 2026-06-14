@@ -65,17 +65,26 @@ Bei Patienten mit niedrigem Thromboserisiko gelten die allgemeinen Basismaßnahm
 |**Maßnahmen zur Thromboseprophylaxe**|**Maßnahmen zur Thromboseprophylaxe**|
 |---|---|
 |**Risikoklassifikation**||
-|Ersteinschätzung bei Aufnahme|Beurteilung von Mobilität und Blutungsrisiko mittels Laborkontrollen<br>(z.B. D-Dimere)|
+|Ersteinschätzung bei Aufnahme|Beurteilung von Mobilität und Blutungsrisiko mittels Laborkontrollen
+(z.B. D-Dimere)|
 |Dispositionelle Risikofaktoren|Angeborene und erworbene Faktoren|
-|Expositionelle Risikofaktoren|Art und Umfang des operativen Eingriffs, akute Erkrankungen, Grad der<br>Immobilisierung|
+|Expositionelle Risikofaktoren|Art und Umfang des operativen Eingriffs, akute Erkrankungen, Grad der
+Immobilisierung|
 |**Risikoklassifikation nach S3-Leitlinie Prophylaxe VTE**||
 |Geringes Risiko|Varikosis, nephrotisches Syndrom, Schwangerschaft/Postpartalperiode|
-|Mittleres Risiko|Chronische Herzinsuffizienz, Z.n. Herzinfarkt, maligne Erkrankungen,<br>höheres Lebensalter (über 60 Jahre), Übergewicht (BMI > 30 kg/m²),<br>akute Infektionen/entzündliche Erkrankungen mit Immobilisation,<br>Herzrhythmusstörungen|
-|Hohes Risiko|Thrombophile Hämostasedefekte (z.B. Faktor-V-Leiden),<br>Aortenklappenersatz, chronische Herzinsuffizienz, intensivpflichtige<br>Patienten, ausgeprägte Herzrhythmusstörungen, frühere TVT|
+|Mittleres Risiko|Chronische Herzinsuffizienz, Z.n. Herzinfarkt, maligne Erkrankungen,
+höheres Lebensalter (über 60 Jahre), Übergewicht (BMI > 30 kg/m²),
+akute Infektionen/entzündliche Erkrankungen mit Immobilisation,
+Herzrhythmusstörungen|
+|Hohes Risiko|Thrombophile Hämostasedefekte (z.B. Faktor-V-Leiden),
+Aortenklappenersatz, chronische Herzinsuffizienz, intensivpflichtige
+Patienten, ausgeprägte Herzrhythmusstörungen, frühere TVT|
 |T**ägliche Beininspektion**||
 |Achten auf Umfang, Temperaturunterschiede, Farbe und Schmerzen||
 
-g<br>**----- End of picture text -----**<br>
+g
+**----- End of picture text -----**
+
 
 **Pflege: Thromboseprophylaxe** 
 
@@ -85,12 +94,21 @@ Geltungsbereich: Pflege
 |---|---|
 |**Basismaßnahmen**||
 |Frühmobilisation|Förderung der Beweglichkeit des Patienten|
-|Bewegungsübungen der unteren<br>Extremitäten|Z.B. Fußwippen und Wadenpumpe zur Aktivierung der<br>Wadenmuskelpumpe. Leichte Hochlagerung der Beine (15°-20°) zur<br>Steigerung des venösen Blutrückflusses und zur Prävention von<br>Ödemen|
+|Bewegungsübungen der unteren
+Extremitäten|Z.B. Fußwippen und Wadenpumpe zur Aktivierung der
+Wadenmuskelpumpe. Leichte Hochlagerung der Beine (15°-20°) zur
+Steigerung des venösen Blutrückflusses und zur Prävention von
+Ödemen|
 |Beinhochlagerung|Zur Unterstützung des venösen Rückflusses|
 |**Physikalische Maßnahmen (auf ärztliche Anordnung)**||
 |A**uf ärztliche Anordnung**|z.B. medizinische Kompressionsstrümpfe oder Kompressionsverbände.|
 |**Medikamentöse Maßnahmen (auf schriftliche ärztliche Anordnung)**||
-|Prophylaktische Behandlung<br>bei mittlerem oder hohem<br>Thromboserisiko|Heparinen (intravenös oder subkutan)<br>Thrombininhibitoren<br>Vitamin-K-Antagonisten<br>Orale Antikoagulanzien|
+|Prophylaktische Behandlung
+bei mittlerem oder hohem
+Thromboserisiko|Heparinen (intravenös oder subkutan)
+Thrombininhibitoren
+Vitamin-K-Antagonisten
+Orale Antikoagulanzien|
 
 ## **5.4 Antithrombosestrümpfe und Kompressionsverbände** 
 
@@ -106,15 +124,22 @@ Ein Kompressionsverband soll nur angelegt werden, wenn z. B. aus anatomischen Gr
 
 |**Anlegen von AT-Strümpfen und Kompressionsverbänden**|**Anlegen von AT-Strümpfen und Kompressionsverbänden**|
 |---|---|
-|**Materialien**|Antithrombosestrümpfe<br>elastische Binden und deren Fixierung|
-|**Vorbereitung**|Patienten informieren<br>Hygienische Händedesinfektion<br>Ausmessen/Anpassen und Anziehen der AT-Strümpfe bzw. Kompressionsverband<br>anlegen|
-|**Nachbereitung**|Material entsorgen/desinfizieren<br>Arbeitsfläche reinigen (Wischdesinfektion)<br>Hygienische Händedesinfektion|
+|**Materialien**|Antithrombosestrümpfe
+elastische Binden und deren Fixierung|
+|**Vorbereitung**|Patienten informieren
+Hygienische Händedesinfektion
+Ausmessen/Anpassen und Anziehen der AT-Strümpfe bzw. Kompressionsverband
+anlegen|
+|**Nachbereitung**|Material entsorgen/desinfizieren
+Arbeitsfläche reinigen (Wischdesinfektion)
+Hygienische Händedesinfektion|
 
 ## **6. Dokumentation** 
 
 Die durchgeführten Maßnahmen werden in den Patientendokumentationssystemen SAP, M-Life und/oder COPRA) dokumentiert. 
 
-|Version 4.0|Letzte Überprüfung|Letzte Überprüfung||||||||Seite<br>3  3|
+|Version 4.0|Letzte Überprüfung|Letzte Überprüfung||||||||Seite
+3  3|
 |---|---|---|---|---|---|---|---|---|---|---|
 |SO 301|Nächste Überprüfung|||||||||von|
 

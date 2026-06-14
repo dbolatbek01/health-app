@@ -80,7 +80,9 @@ Eine medikamentöse Therapie der Herzinsuffizienz sollte im Regelfall nach Beend
 |**Laborkontrollen**|**Gerinnungsvisiten und Ansetzen der Ziel-aPTT**|
 |---|---|
 |**(Große Gerinnung, inkl. Anti-Xa, TAT, TEG)**|**durch den VAD-Arztdienst**|
-|Montag, Mittwoch und Freitag auf WD1i<br>2x/Woche auf WD2i|Montag, Mittwoch, Freitag, auf WD1i<br>2x/Woche auf WD2i|
+|Montag, Mittwoch und Freitag auf WD1i
+2x/Woche auf WD2i|Montag, Mittwoch, Freitag, auf WD1i
+2x/Woche auf WD2i|
 |||
 
 - Faktoren, die für die Festsetzung der Ziel aPTT berücksichtigt werden: 
@@ -173,7 +175,28 @@ Sollte der Patient vor Beginn der Rehabilitation in ein anderes Krankenhaus verl
 
 - Erster Vorstellungstermin in der VAD-Ambulanz. 
 
-Optimale medikamentöse Therapie zur Behandlung einer Herzinsuffizienz<br>LVAD-Implantation<br>Therapie mit positiv inotropen<br>Tägliche Reevaluation Ja Nein<br>Substanzen<br>MAD >75 mmHg<br>Ja Nein<br>Optimale medikamentöse<br>Herzinsuffizenztherapie MAD MAD<br>65-75 mmHg < 65 mmHg<br>ARNI<br>BB<br>Dosierung beibehalten<br>Symptome wie<br>Schwindel/Synkope  Ohne Symptome<br>MRA vorhanden?<br>SGLT-2-Inhibitor<br>Absetzen der zuletzt<br>angesetzten  Dosierung anpassen<br>Eisenmangel ausgleichen Therapie<br>**----- End of picture text -----**<br>
+Optimale medikamentöse Therapie zur Behandlung einer Herzinsuffizienz
+LVAD-Implantation
+Therapie mit positiv inotropen
+Tägliche Reevaluation Ja Nein
+Substanzen
+MAD >75 mmHg
+Ja Nein
+Optimale medikamentöse
+Herzinsuffizenztherapie MAD MAD
+65-75 mmHg < 65 mmHg
+ARNI
+BB
+Dosierung beibehalten
+Symptome wie
+Schwindel/Synkope  Ohne Symptome
+MRA vorhanden?
+SGLT-2-Inhibitor
+Absetzen der zuletzt
+angesetzten  Dosierung anpassen
+Eisenmangel ausgleichen Therapie
+**----- End of picture text -----**
+
 
 2019 EACTS Expert Consensus on long-term mechanical circulatory support. doi: 10.1093/ejcts/ezz098 
 
@@ -195,19 +218,31 @@ Vorname: Geboren am: Station: Verantwortliche/r Ärztin/Arzt:
 |||**Kürzel**|
 ||||
 |**1. Technik und Geräte**|||
-|Technische Schulung durchgeführt inklusive<br>Versorgung mit zusätzlichem Heimequipment (Koffer,<br>Reserve-Akkus etc.)<br>(Dokumentation durch Assist-Technik in SAP)|||
-|Heim-Monitor für Gerinnungsmessung (z.B.<br>CoaguCheck® Gerät) beantragt|||
-|Heim-Monitor für Gerinnungsmessung (z.B.<br>CoaguCheck® Gerät) erhalten|||
-|Schulung Heim-Monitor für Gerinnungsmessung (z.B.<br>CoaguCheck® Gerät) durchgeführt (Dokumentation<br>durch Stationspflege in SAP)|||
+|Technische Schulung durchgeführt inklusive
+Versorgung mit zusätzlichem Heimequipment (Koffer,
+Reserve-Akkus etc.)
+(Dokumentation durch Assist-Technik in SAP)|||
+|Heim-Monitor für Gerinnungsmessung (z.B.
+CoaguCheck® Gerät) beantragt|||
+|Heim-Monitor für Gerinnungsmessung (z.B.
+CoaguCheck® Gerät) erhalten|||
+|Schulung Heim-Monitor für Gerinnungsmessung (z.B.
+CoaguCheck® Gerät) durchgeführt (Dokumentation
+durch Stationspflege in SAP)|||
 |**2. Kabelaustrittstelle und Wundverband**|||
 |Beurteilung der Kabelaustrittsstelle|||
-|ggf. Fäden Assist-Kabel entfernen<br>(3 Wochen nach Implantat überdenken)|||
-|Verbandsschulung der Angehörigen durchgeführt<br>(wenn kein Pflegedienst beauftragt wird)<br>(Dokumentation durch Assist-Pflege in SAP)|||
-|Informationsmaterial zum Verbandswechsel an<br>Patient:in ausgehändigt|||
+|ggf. Fäden Assist-Kabel entfernen
+(3 Wochen nach Implantat überdenken)|||
+|Verbandsschulung der Angehörigen durchgeführt
+(wenn kein Pflegedienst beauftragt wird)
+(Dokumentation durch Assist-Pflege in SAP)|||
+|Informationsmaterial zum Verbandswechsel an
+Patient:in ausgehändigt|||
 ||||
 |**3. Medizinische Befunde**|||
 |Blutdruck bei Entlassung (Ziel MAD 70-80 mmHg)|||
-|Beurteilung der postoperativen Echokardiographie<br>(Rechtsherzfunktion, Aortenklappe, Entlastung LV)|||
+|Beurteilung der postoperativen Echokardiographie
+(Rechtsherzfunktion, Aortenklappe, Entlastung LV)|||
 |Beurteilung des postoperativen Thorax-Röntgenbilds|||
 
 |||**erledigt,**|
@@ -216,24 +251,46 @@ Vorname: Geboren am: Station: Verantwortliche/r Ärztin/Arzt:
 |||**Kürzel**|
 ||||
 |**4. Medikation**|||
-|Thrombozytenaggregationshemmer angesetzt?<br>- Begründung, wenn nicht eingeleitet|||
+|Thrombozytenaggregationshemmer angesetzt?
+- Begründung, wenn nicht eingeleitet|||
 |Spironalocton gesetzt?|||
 |Herzinsuffizienztherapie eingeleitet?|||
 |Beta-Blocker angesetzt?|||
-|Sacubitril/Valsartan überdacht?<br>- Begründung, wenn nicht eingeleitet|||
-|Amiodaron in der Therapie?<br>- welche Indikation?<br>- seit wann?|||
-|Sildenafil in der Therapie?<br>- welche Indikation?<br>- wie lange (Dauertherapie)?<br>- Antrag gestellt,wenn Dauertherapie?|||
+|Sacubitril/Valsartan überdacht?
+- Begründung, wenn nicht eingeleitet|||
+|Amiodaron in der Therapie?
+- welche Indikation?
+- seit wann?|||
+|Sildenafil in der Therapie?
+- welche Indikation?
+- wie lange (Dauertherapie)?
+- Antrag gestellt,wenn Dauertherapie?|||
 |**5. Entlassungsbericht**|||
-|Angabe des Infektionsstatus des Patienten<br>(multiresistente Keime)|||
-|Verlauf der mikrobiologischen Befunde und der<br>verabreichten antibiotischen Therapie|||
-|Beschreibung der Kabelaustrittstelle und ggf.<br>Anpassung der laufenden Antibiose|||
-|Allgemeine Information nach Assist-Implantation<br>(Textbaustein) mit individueller Anpassung<br>(LVAD-System, aPTT und INR-Werte, HIT,<br>Antikoagulation)|||
+|Angabe des Infektionsstatus des Patienten
+(multiresistente Keime)|||
+|Verlauf der mikrobiologischen Befunde und der
+verabreichten antibiotischen Therapie|||
+|Beschreibung der Kabelaustrittstelle und ggf.
+Anpassung der laufenden Antibiose|||
+|Allgemeine Information nach Assist-Implantation
+(Textbaustein) mit individueller Anpassung
+(LVAD-System, aPTT und INR-Werte, HIT,
+Antikoagulation)|||
 |Angabe des Ziel-INRs|||
-|Dokumentation der Zusatzangaben zur<br>Medikation aus Punkt 4|||
-|Weitere individuelle und für die<br>Weiterbehandlung relevante Informationen (z.B.<br>Informationen zu Operationstechnik,<br>Therapiekonzept und weiteren in dieser SOP<br>behandelten Punkten)|||
+|Dokumentation der Zusatzangaben zur
+Medikation aus Punkt 4|||
+|Weitere individuelle und für die
+Weiterbehandlung relevante Informationen (z.B.
+Informationen zu Operationstechnik,
+Therapiekonzept und weiteren in dieser SOP
+behandelten Punkten)|||
 |**6. Entlassung**|||
 |Abschlussgespräch mit Patient:in|||
-|Aushandlung des Pflege- und Physiotherapie-<br>Verlegungsberichts|||
-|Rückmeldung an das VAD-Team (Übermittlung<br>der vorliegenden Checkliste)|||
-|Termin in der VAD-Ambulanz, falls Patient:in<br>nicht zur Rehabilitation ins Klinikum Seehof<br>nach Teltow verlegt wird|||
+|Aushandlung des Pflege- und Physiotherapie-
+Verlegungsberichts|||
+|Rückmeldung an das VAD-Team (Übermittlung
+der vorliegenden Checkliste)|||
+|Termin in der VAD-Ambulanz, falls Patient:in
+nicht zur Rehabilitation ins Klinikum Seehof
+nach Teltow verlegt wird|||
 

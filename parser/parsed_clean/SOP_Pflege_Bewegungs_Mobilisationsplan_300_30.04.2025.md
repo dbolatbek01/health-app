@@ -84,5 +84,7 @@ Lagerungsmaßnahmen werden im stationären Bereich im Mobilisations- und Positio
 
 **CAVE** : Bei Patienten mit einer Sternotomie sollen Druck- und Zugkräfte auf das Sternum vermieden werden. 
 
-g<br>**----- End of picture text -----**<br>
+g
+**----- End of picture text -----**
+
 

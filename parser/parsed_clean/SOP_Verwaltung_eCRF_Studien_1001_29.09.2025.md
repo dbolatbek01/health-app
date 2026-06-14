@@ -43,13 +43,44 @@ Diese SOP gilt standortübergreifend für alle Mitarbeiter einer Prüfstelle, di
 
 ## **4 Begriffsdefinitionen** 
 
-|**Investigator-Initiated**<br>**Trial (IIT)**|Eine Investigator-Initiated Trial (IIT) bezeichnet eine klinische Untersu-<br>chung, die nicht von der pharmazeutischen Industrie oder einem ande-<br>ren kommerziellen Sponsor, sondern von einem Arzt oder Forscher<br>(dem Prüfer) selbst konzipiert und durchgeführt wird. In einer IIT obliegt<br>dem Forscher, unabhängig von den Finanzierungsquellen, die vollstän-<br>dige Verantwortung für alle Phasen der Studie, einschließlich der Pla-<br>nung, Durchführung, Auswertung und des Abschlusses der klinischen<br>Untersuchung.|
+|**Investigator-Initiated**
+**Trial (IIT)**|Eine Investigator-Initiated Trial (IIT) bezeichnet eine klinische Untersu-
+chung, die nicht von der pharmazeutischen Industrie oder einem ande-
+ren kommerziellen Sponsor, sondern von einem Arzt oder Forscher
+(dem Prüfer) selbst konzipiert und durchgeführt wird. In einer IIT obliegt
+dem Forscher, unabhängig von den Finanzierungsquellen, die vollstän-
+dige Verantwortung für alle Phasen der Studie, einschließlich der Pla-
+nung, Durchführung, Auswertung und des Abschlusses der klinischen
+Untersuchung.|
 |---|---|
-|**Investigator Site File**<br>**(ISF)**|Der Investigator Site File (ISF) kann als eine zentrale Dokumenten-<br>sammlungan einer Prüfstelleverstanden werden, die alle wesentlichen<br>Unterlagen einer klinischen Studie enthält. Er dient der Dokumentation<br>und dem Nachweis, dass die Studie gemäß den regulatorischen Anfor-<br>derungen, ethischen Richtlinien und dem Studienprotokoll durchgeführt<br>wird. Der ISF wird regelmäßig aktualisiert und ist eine wichtige Grund-<br>lage für interne und externe Audits sowie Inspektionen.|
-|**Task Allocation List**<br>**(TAL)**|<br>Eine Task Allokation List (TAL) ist eine Liste, die die Zuweisung von<br>Aufgaben (Tasks) an bestimmte Personen oder Rollen innerhalb einer<br>Studie dokumentiert. Die TAL dient in der Regel dazu, die Verantwort-<br>lichkeiten und Zuständigkeiten klar zu definieren, um die Effizienz und<br>Klarheit in der Ausführung von Aufgaben zu verbessern.|
-|**Trial Master File**<br>**(TMF)**|<br>Der Trial Master File (TMF) ist eine umfassende Sammlung aller we-<br>sentlichen Dokumente, die für die Durchführung, Überwachung und<br>Verwaltung einer klinischen Studie aus derPerspektive eines Sponsors<br>erforderlich sind. Der TMF ist entscheidend für die Sicherstellung der<br>Transparenz und Nachvollziehbarkeit der Studienaktivitäten und spielt<br>eine zentrale Rolle bei internen und externen Audits sowie Inspektionen<br>durch Aufsichtsbehörden.|
+|**Investigator Site File**
+**(ISF)**|Der Investigator Site File (ISF) kann als eine zentrale Dokumenten-
+sammlungan einer Prüfstelleverstanden werden, die alle wesentlichen
+Unterlagen einer klinischen Studie enthält. Er dient der Dokumentation
+und dem Nachweis, dass die Studie gemäß den regulatorischen Anfor-
+derungen, ethischen Richtlinien und dem Studienprotokoll durchgeführt
+wird. Der ISF wird regelmäßig aktualisiert und ist eine wichtige Grund-
+lage für interne und externe Audits sowie Inspektionen.|
+|**Task Allocation List**
+**(TAL)**|
+Eine Task Allokation List (TAL) ist eine Liste, die die Zuweisung von
+Aufgaben (Tasks) an bestimmte Personen oder Rollen innerhalb einer
+Studie dokumentiert. Die TAL dient in der Regel dazu, die Verantwort-
+lichkeiten und Zuständigkeiten klar zu definieren, um die Effizienz und
+Klarheit in der Ausführung von Aufgaben zu verbessern.|
+|**Trial Master File**
+**(TMF)**|
+Der Trial Master File (TMF) ist eine umfassende Sammlung aller we-
+sentlichen Dokumente, die für die Durchführung, Überwachung und
+Verwaltung einer klinischen Studie aus derPerspektive eines Sponsors
+erforderlich sind. Der TMF ist entscheidend für die Sicherstellung der
+Transparenz und Nachvollziehbarkeit der Studienaktivitäten und spielt
+eine zentrale Rolle bei internen und externen Audits sowie Inspektionen
+durch Aufsichtsbehörden.|
 
-|Version:<br>2.0|SOP-Nr.: 1001|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite<br>3 von 7||
+|Version:
+2.0|SOP-Nr.: 1001|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite
+3 von 7||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |||||||||||||||
 
@@ -101,7 +132,8 @@ Studienkoordination
 
 In der Regel werden die benötigten Studiensysteme vom Sponsor bereitgestellt. Die Verantwortung für die Organisation und Durchführung der Schulungsmaßnahmen liegt beim Sponsor, der die Gestaltung und Methodik der Schulung eigenständig festlegt (bspw. Schulung im Rahmen der Studieninitiierung, Selbsttraining, Onlineschulung). 
 
-|Version:|SOP-Nr.: 1001|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite<br>4 von 7||
+|Version:|SOP-Nr.: 1001|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite
+4 von 7||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |||||||||||||||
 
@@ -141,7 +173,8 @@ Die studienspezifische Übersicht zu den aktiven und inaktiven Systemzugängen i
 
 Studienkoordination 
 
-|Version:|SOP-Nr.: 1001|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite<br>5 von 7||
+|Version:|SOP-Nr.: 1001|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite
+5 von 7||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |||||||||||||||
 
@@ -187,8 +220,11 @@ Anlage 1: Log Systemzugänge (PS-TP-DA-01)
 
 |Version|Änderungsgrund bzw. Kurzbeschreibung (Abschnitt) der Änderungen|
 |---|---|
-|V01|<br>Ersterstellung|
-|V02|<br>Änderung der SOP nur aus Sicht des Prüfzentrums, weitere Anpassungen an Do-<br>kumentenlenkung und GCP Vorgaben, Anlage 1 neu hinzugefügt|
+|V01|
+Ersterstellung|
+|V02|
+Änderung der SOP nur aus Sicht des Prüfzentrums, weitere Anpassungen an Do-
+kumentenlenkung und GCP Vorgaben, Anlage 1 neu hinzugefügt|
 
 Alle Anpassungen an dieser SOP werden lückenlos im Excel-Änderungsprotokoll (Formblatt FATP-QM-02) dokumentiert. 
 
@@ -202,14 +238,22 @@ Die aktuelle Version des Änderungsprotokolls ist gemeinsam mit dieser SOP im ze
 
 **Studientitel EudraCT / NCT Hauptprüfer Zentrums-ID** 
 
-|**Name**|**Studien-**<br>**funktion**|(je|**System**<br>System 1 Zeile)|**Datum**<br>**Antrag**|**Start**<br>**Systemzugriff**|**Ende**<br>**Systemzugriff**|**Datum**<br>**Inaktivierung**|
+|**Name**|**Studien-**
+**funktion**|(je|**System**
+System 1 Zeile)|**Datum**
+**Antrag**|**Start**
+**Systemzugriff**|**Ende**
+**Systemzugriff**|**Datum**
+**Inaktivierung**|
 |---|---|---|---|---|---|---|---|
 |||||||||
 |||||||||
 |||||||||
 |||||||||
 
-|Version:<br>2.0|SOP-NummerPS-TP-DA-01|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite<br>1 von 2|
+|Version:
+2.0|SOP-NummerPS-TP-DA-01|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite
+1 von 2|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 ||||||||||||||
 

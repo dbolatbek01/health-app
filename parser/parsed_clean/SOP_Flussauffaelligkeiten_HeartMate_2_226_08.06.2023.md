@@ -23,5 +23,30 @@ Klinik für Herz-, Thorax- und Gefäßchirurgie: Arztdienst; VAD-Team
 
 **Legende** Ja Nein Ergebnis / weiter 
 
-Hämodynamische Parameter / Pumpenparameter<br>Patient im Schock oder<br>Orale Antikoagulation<br>Anurie bei Crush-Niere<br>und Entlassung<br>Log-File-Analyse Normalisierung<br>aller Parameter<br>Abfall der Leistung < 50%  1. Beobachtung<br>des Normalwertes  2. Volumengabe<br>-> V.a. Einflussokklusion 3. PTT auf >70 sec<br>   oder INR 2,5 - 3<br>ECHO, CT, Angiographie LV Einmaliger Versuch<br>und Ein- und Ausflussgraft,  der Thrombolyse (r-TPA)<br>tägl. Labor, Beurteilung<br>der Kanülenlage und dyn.<br>Obstruktion durch LV, ggf.<br>Obstruktion Ausflussgraft Ausflussgraftobstruktion<br>Suboptimale Okklusions-<br>Kanülenlage thrombus<br>Carotis-Schutz<br>Systemwechsel, Pumpenwechsel<br>Stent<br>ggf. HU-Listung auf HeartMate 3<br>ggf. HU-Listung<br>**----- End of picture text -----**<br>
+Hämodynamische Parameter / Pumpenparameter
+Patient im Schock oder
+Orale Antikoagulation
+Anurie bei Crush-Niere
+und Entlassung
+Log-File-Analyse Normalisierung
+aller Parameter
+Abfall der Leistung < 50%  1. Beobachtung
+des Normalwertes  2. Volumengabe
+-> V.a. Einflussokklusion 3. PTT auf >70 sec
+   oder INR 2,5 - 3
+ECHO, CT, Angiographie LV Einmaliger Versuch
+und Ein- und Ausflussgraft,  der Thrombolyse (r-TPA)
+tägl. Labor, Beurteilung
+der Kanülenlage und dyn.
+Obstruktion durch LV, ggf.
+Obstruktion Ausflussgraft Ausflussgraftobstruktion
+Suboptimale Okklusions-
+Kanülenlage thrombus
+Carotis-Schutz
+Systemwechsel, Pumpenwechsel
+Stent
+ggf. HU-Listung auf HeartMate 3
+ggf. HU-Listung
+**----- End of picture text -----**
+
 

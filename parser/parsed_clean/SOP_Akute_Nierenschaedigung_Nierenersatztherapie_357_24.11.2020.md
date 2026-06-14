@@ -78,9 +78,16 @@ _Tabelle 1. KDIGO-Klassifikation der AKI nach [1]._
 
 |**KDIGO-STADIUM**|**SERUM-KREATININ**|**URINAUSSCHEIDUNG**|
 |---|---|---|
-|**1**|1,5- bis 1,9-facher Anstieg binnen<br>7 Tagen<br>_oder_<br>Anstieg ≥ 0,3 mg/dL in 48 h|< 0,5 ml/kgKG/h über mehr als 6 h|
+|**1**|1,5- bis 1,9-facher Anstieg binnen
+7 Tagen
+_oder_
+Anstieg ≥ 0,3 mg/dL in 48 h|< 0,5 ml/kgKG/h über mehr als 6 h|
 |**2**|2,0- bis 2,9-facher Anstieg|< 0,5 ml/kgKG/h über mehr als 12 h|
-|**3**|≥3-facher Anstieg<br>_oder_<br>≥ 4 mg/dL mit einem akuten Anstieg<br>≥ 0,5 mg/dL|< 0,3 ml/kgKG/h über mehr als 24 h<br>oder Anurie > 1 2h|
+|**3**|≥3-facher Anstieg
+_oder_
+≥ 4 mg/dL mit einem akuten Anstieg
+≥ 0,5 mg/dL|< 0,3 ml/kgKG/h über mehr als 24 h
+oder Anurie > 1 2h|
 
 ## **3. Risikofaktoren und Risikostratifizierung** 
 
@@ -90,9 +97,23 @@ Die AKI weist in der Kardiochirurgie eine vergleichsweise höhere Inzidenz als i
 
 _Tabelle 2. Risikofaktoren für die Entwicklung einer AKI nach [4]_ 
 
-|Allgemeine Risikofaktoren|Hohes Alter<br>Weibliches Geschlecht<br>Insulinpflichtiger Diabetes mellitus<br>Vorbestehende chronische Niereninsuffizienz<br>Vorbestehende Herz- oder Leberinsuffizienz<br>Bestehende Pulmonale Grunderkrankung<br>Nephrotoxische Medikamente<br>Sepsis<br>Intraoperativer Transfusionsbedarf|
+|Allgemeine Risikofaktoren|Hohes Alter
+Weibliches Geschlecht
+Insulinpflichtiger Diabetes mellitus
+Vorbestehende chronische Niereninsuffizienz
+Vorbestehende Herz- oder Leberinsuffizienz
+Bestehende Pulmonale Grunderkrankung
+Nephrotoxische Medikamente
+Sepsis
+Intraoperativer Transfusionsbedarf|
 |---|---|
-|Kardiochirurgie-<br>spezifische Risikofaktoren|Präoperative IABP<br>Revisionseingriff<br>Notfalleingriff<br>Mehr-Prozeduren-Eingriff<br>Operationen mit kardiopulmonalem Bypass<br>Bypass-Zeit|
+|Kardiochirurgie-
+spezifische Risikofaktoren|Präoperative IABP
+Revisionseingriff
+Notfalleingriff
+Mehr-Prozeduren-Eingriff
+Operationen mit kardiopulmonalem Bypass
+Bypass-Zeit|
 
 ## **3.2     Risikostratifizierung** 
 
@@ -112,10 +133,18 @@ _Tabelle 3. Score nach Jiang et al. zur Evaluation des Risikos eine Kardiochirur
 |41-60|1|41-60|1|41-60|1|
 |61-80|2|61-80|2|61-80|2|
 |> 81|3|> 81|3|> 81|3|
-|Nicht dialysepflichtige<br>Niereninsuffizienz|1|Nicht dialysepflichtige<br>Niereninsuffizienz|1|Nicht dialysepflichtige<br>Niereninsuffizienz|1|
+|Nicht dialysepflichtige
+Niereninsuffizienz|1|Nicht dialysepflichtige
+Niereninsuffizienz|1|Nicht dialysepflichtige
+Niereninsuffizienz|1|
 |NYHA Klassifikation > 2|1|NYHA Klassifikation > 2|1|Eingriff mit CPB|1|
-|Vorheriger kardio-<br>chirurgischer Eingriff|1|Vorheriger kardio-<br>chirurgischer Eingriff|1|Vorheriger kardio-<br>chirurgischer Eingriff|1|
-|||Kombinationseingriff<br>(Klappe und Bypass)|1|Kombinationseingriff<br>(Klappe und Bypass)|1|
+|Vorheriger kardio-
+chirurgischer Eingriff|1|Vorheriger kardio-
+chirurgischer Eingriff|1|Vorheriger kardio-
+chirurgischer Eingriff|1|
+|||Kombinationseingriff
+(Klappe und Bypass)|1|Kombinationseingriff
+(Klappe und Bypass)|1|
 |||||||
 |||Transfusion von EKs|1/unit|Transfusion von EKs|1/unit|
 |||||LCOS|1|

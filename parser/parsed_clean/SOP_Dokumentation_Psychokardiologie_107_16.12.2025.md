@@ -18,11 +18,46 @@ Dieser Prozess beschreibt die Vorgehensweise zur Erstellung, Bearbeitung und Arc
 |---|---|---|---|---|
 |**Schritt**|**Beschreibung**|**Verantwortlich**|**Dokumente/Tools**|**Frist**|
 ||||||
-|1. Datenerfassung|Erhebung der relevan-<br>ten Informationen im<br>Patientenkontakt|Zuständige Mitarbei-<br>tende AB Psychokardio-<br>logie|Digitale Vorlagen,<br>Formulare,<br>SOP018a/b, Papier<br>und Stift|Bei Leistungserbrin-<br>gung|
-|2. Berichterstellung|Erstellung des Psycho-<br>sozialen TX-Evaluati-<br>onsberichts|Zuständige Mitarbei-<br>tende AB Psychokardio-<br>logie|Digitale Vorlagen,<br>Formulare,<br>SOP018a/b|Innerhalb von 5 Werk-<br>tagen|
-|3. Freigabe|Formale Freigabe der<br>Dokumentation|Prozessverantwortliche<br>Person|Word,<br>arbeitsbereichs-in-<br>terne Festplatte|Nach Prüfung|
-|4. Archivierung|Speicherung und Ab-<br>lage des PDF-Doku-<br>ments gemäß Vorga-<br>ben über<br>PEGASOS-Scan in SAP|Zuständige<br>Mitarbeitende AB<br>Psychokardiologie|SAP,<br>Arbeitsbereichs-in-<br>terne Festplatte|Innerhalb von 5 Werk-<br>tagen (gleichzeitig<br>mit Punkt 3)|
-|5. Audit/Feedback|Regelmäßige Quali-<br>tätskontrolle und<br>Feedback an das<br>Team|Teaminternes Quali-<br>täts-management|SAP, Psychosoziale<br>Evaluationsbe-<br>richte|Einmal im Quartal|
+|1. Datenerfassung|Erhebung der relevan-
+ten Informationen im
+Patientenkontakt|Zuständige Mitarbei-
+tende AB Psychokardio-
+logie|Digitale Vorlagen,
+Formulare,
+SOP018a/b, Papier
+und Stift|Bei Leistungserbrin-
+gung|
+|2. Berichterstellung|Erstellung des Psycho-
+sozialen TX-Evaluati-
+onsberichts|Zuständige Mitarbei-
+tende AB Psychokardio-
+logie|Digitale Vorlagen,
+Formulare,
+SOP018a/b|Innerhalb von 5 Werk-
+tagen|
+|3. Freigabe|Formale Freigabe der
+Dokumentation|Prozessverantwortliche
+Person|Word,
+arbeitsbereichs-in-
+terne Festplatte|Nach Prüfung|
+|4. Archivierung|Speicherung und Ab-
+lage des PDF-Doku-
+ments gemäß Vorga-
+ben über
+PEGASOS-Scan in SAP|Zuständige
+Mitarbeitende AB
+Psychokardiologie|SAP,
+Arbeitsbereichs-in-
+terne Festplatte|Innerhalb von 5 Werk-
+tagen (gleichzeitig
+mit Punkt 3)|
+|5. Audit/Feedback|Regelmäßige Quali-
+tätskontrolle und
+Feedback an das
+Team|Teaminternes Quali-
+täts-management|SAP, Psychosoziale
+Evaluationsbe-
+richte|Einmal im Quartal|
 
 ## **3.2 Ambulante Dokumentation (HSA) – Sonstige Patientenkontakte** 
 
@@ -30,9 +65,25 @@ Dieser Prozess beschreibt die Vorgehensweise zur Erstellung, Bearbeitung und Arc
 |---|---|---|---|---|
 |**Schritt**|**Beschreibung**|**Verantwortlich**|**Dokumente/Tools**|**Frist**|
 ||||||
-|1. Datenerfassung|Erhebung der relevan-<br>ten Informationen im<br>Patientenkontakt|Zuständige Mitarbei-<br>tende AB Psychokardio-<br>logie|Digitale Vorlagen,<br>Formulare, Papier<br>und Stift, digital<br>auf iPad|Bei Leistungserbrin-<br>gung|
-|2. Befundbericht:<br>Erstellung/Speicherung|Erstellung eines Be-<br>fundberichts in SAP|Zuständige Mitarbei-<br>tende AB Psychokardio-<br>logie|SAP Befundbericht|Innerhalb von 5 Werk-<br>tagen|
-|3. Audit/Feedback|Regelmäßige Quali-<br>tätskontrolle und<br>Feedback an das Team|Teaminternes Qualitäts-<br>management|SAP, Berichtswesen|Halbjährlich|
+|1. Datenerfassung|Erhebung der relevan-
+ten Informationen im
+Patientenkontakt|Zuständige Mitarbei-
+tende AB Psychokardio-
+logie|Digitale Vorlagen,
+Formulare, Papier
+und Stift, digital
+auf iPad|Bei Leistungserbrin-
+gung|
+|2. Befundbericht:
+Erstellung/Speicherung|Erstellung eines Be-
+fundberichts in SAP|Zuständige Mitarbei-
+tende AB Psychokardio-
+logie|SAP Befundbericht|Innerhalb von 5 Werk-
+tagen|
+|3. Audit/Feedback|Regelmäßige Quali-
+tätskontrolle und
+Feedback an das Team|Teaminternes Qualitäts-
+management|SAP, Berichtswesen|Halbjährlich|
 
 **Dokumentation in der Psychokardiologie** 
 
@@ -44,13 +95,50 @@ Geltungsbereich: Psychokardiologie
 |---|---|---|---|---|
 |**Schritt**|**Beschreibung**|**Verantwortlich**|**Dokumente/Tools**|**Frist**|
 ||||||
-|1. Konsilanfrage|Eingang der Anfrage von<br>der Station in SAP|Station / Anfra-<br>gende Stelle|SAP|Sofort|
-|2. Konsilannahme,<br>Konsilplanung|Annahme und Planung<br>des Konsils durch das<br>Team|Zuständige Mitarbei-<br>tende AB Psychokar-<br>diologie|SAP|Sofort|
-|3. Datenerfassung|Erhebung der relevanten<br>Informationen im Patien-<br>tenkontakt|Zuständige Mitarbei-<br>tende AB Psychokar-<br>diologie|SAP, Vorlagen|Gemäß Dringlichkeits-<br>stufen|
-|4. Berichterstellung|Erstellung des psychosozi-<br>alen TX-Evaluationsbe-<br>richts|Zuständige Mitarbei-<br>tende AB Psychokar-<br>diologie|Digitale Vorlagen,<br>Formulare,<br>SOP018a/b,|Innerhalb von 3 Werk-<br>tagen|
-|5. Freigabe|Formale Freigabe und Ab-<br>zeichnung der Dokumen-<br>tation|Prozessverantwortli-<br>che Person|Word, arbeitsbe-<br>reichsinterne Fest-<br>platte|Nach Prüfung|
-|6. Archivierung|Speicherung und Ablage<br>des PDF-Dokuments ge-<br>mäß Vorgaben über<br>PEGASOS-Scan in SAP|Zuständige Mitarbei-<br>tende AB Psychokar-<br>diologie|SAP,<br>arbeitsbereichsin-<br>terne Festplatte|Innerhalb von 5 Werk-<br>tagen (gleichzeitig<br>mit Punkt 5)|
-|7. Audit/Feedback|Regelmäßige Qualitäts-<br>kontrolle und Feedback<br>an das Team|Teaminternes Quali-<br>tätsmanagement|Psychosoziale Eva-<br>luationsberichte|Halbjährlich|
+|1. Konsilanfrage|Eingang der Anfrage von
+der Station in SAP|Station / Anfra-
+gende Stelle|SAP|Sofort|
+|2. Konsilannahme,
+Konsilplanung|Annahme und Planung
+des Konsils durch das
+Team|Zuständige Mitarbei-
+tende AB Psychokar-
+diologie|SAP|Sofort|
+|3. Datenerfassung|Erhebung der relevanten
+Informationen im Patien-
+tenkontakt|Zuständige Mitarbei-
+tende AB Psychokar-
+diologie|SAP, Vorlagen|Gemäß Dringlichkeits-
+stufen|
+|4. Berichterstellung|Erstellung des psychosozi-
+alen TX-Evaluationsbe-
+richts|Zuständige Mitarbei-
+tende AB Psychokar-
+diologie|Digitale Vorlagen,
+Formulare,
+SOP018a/b,|Innerhalb von 3 Werk-
+tagen|
+|5. Freigabe|Formale Freigabe und Ab-
+zeichnung der Dokumen-
+tation|Prozessverantwortli-
+che Person|Word, arbeitsbe-
+reichsinterne Fest-
+platte|Nach Prüfung|
+|6. Archivierung|Speicherung und Ablage
+des PDF-Dokuments ge-
+mäß Vorgaben über
+PEGASOS-Scan in SAP|Zuständige Mitarbei-
+tende AB Psychokar-
+diologie|SAP,
+arbeitsbereichsin-
+terne Festplatte|Innerhalb von 5 Werk-
+tagen (gleichzeitig
+mit Punkt 5)|
+|7. Audit/Feedback|Regelmäßige Qualitäts-
+kontrolle und Feedback
+an das Team|Teaminternes Quali-
+tätsmanagement|Psychosoziale Eva-
+luationsberichte|Halbjährlich|
 
 ## **3.4 Stationäre Dokumentation (Konsile) – alle anderen Patientenkontakte** 
 
@@ -58,9 +146,33 @@ Geltungsbereich: Psychokardiologie
 |---|---|---|---|---|
 |**Schritt**|**Beschreibung**|**Verantwortlich**|**Dokumente/Tools**|**Frist**|
 ||||||
-|1. Konsilanfrage|Eingang der Anfrage von<br>der Station im SAP|Station / Anfra-<br>gende Stelle|SAP|Sofort|
-|2. Konsilannahme,<br>Konsilplanung|Annahme und Planung<br>des Konsils vom Team|Zuständige Mitarbei-<br>tende des Arbeitsbe-<br>reichs Psychokardio-<br>logie|SAP|Sofort|
-|3. Datenerfassung|Erhebung der relevanten<br>Informationen im Patien-<br>tenkontakt|Zuständige Mitarbei-<br>tende des Arbeitsbe-<br>reichs Psychokardio-<br>logie|SAP, Vorlagen|Gemäß Dringlich-<br>keits-stufen|
-|4. Konsilbericht:<br>Erstellung/Speicherung|Erstellung des Konsilbe-<br>funds mit allen relevanten<br>Informationen und Emp-<br>fehlungen|Zuständige Mitarbei-<br>tende des Arbeitsbe-<br>reichs Psychokardio-<br>logie|SAP, Konsilbefund|Am Tag der Durch-<br>führung des Konsils|
-|5. Audit/Feedback|Auswertung der Konsildo-<br>kumentation im Rahmen<br>von Qualitätsreviews|Teaminternes Quali-<br>tätsmanagement|Berichte|Halbjährlich|
+|1. Konsilanfrage|Eingang der Anfrage von
+der Station im SAP|Station / Anfra-
+gende Stelle|SAP|Sofort|
+|2. Konsilannahme,
+Konsilplanung|Annahme und Planung
+des Konsils vom Team|Zuständige Mitarbei-
+tende des Arbeitsbe-
+reichs Psychokardio-
+logie|SAP|Sofort|
+|3. Datenerfassung|Erhebung der relevanten
+Informationen im Patien-
+tenkontakt|Zuständige Mitarbei-
+tende des Arbeitsbe-
+reichs Psychokardio-
+logie|SAP, Vorlagen|Gemäß Dringlich-
+keits-stufen|
+|4. Konsilbericht:
+Erstellung/Speicherung|Erstellung des Konsilbe-
+funds mit allen relevanten
+Informationen und Emp-
+fehlungen|Zuständige Mitarbei-
+tende des Arbeitsbe-
+reichs Psychokardio-
+logie|SAP, Konsilbefund|Am Tag der Durch-
+führung des Konsils|
+|5. Audit/Feedback|Auswertung der Konsildo-
+kumentation im Rahmen
+von Qualitätsreviews|Teaminternes Quali-
+tätsmanagement|Berichte|Halbjährlich|
 

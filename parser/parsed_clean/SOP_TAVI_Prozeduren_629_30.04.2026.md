@@ -180,7 +180,8 @@ Die Patientenumlagerung von dem Operationstisch in das Bett erfolgt gemeinsam du
 |||Cordis(MA)|||
 |**Ballon**|||18/20/21/||
 ||True Valvuloplastie-||||
-|||BARD|22/23/24/<br>||
+|||BARD|22/23/24/
+||
 ||Dilatationsballonkatheter||||
 ||||25/26/28||
 ||||||

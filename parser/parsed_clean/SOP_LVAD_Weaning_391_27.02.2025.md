@@ -150,18 +150,34 @@ Allen Patienten nach Explantation ist eine ambulante oder stationäre Rehabilita
 |**LVAD-Pumpenstopp Echo-Protokoll**|||
 |---|---|---|
 |**Datum:**|Größe:|Gewicht:|
-|**Patient:**|BSA:|Max. LVEDD (≤ 3,1 cm/m² (Männer) bzw. ≤ 3,2 cm/m²<br>(Frauen):|
+|**Patient:**|BSA:|Max. LVEDD (≤ 3,1 cm/m² (Männer) bzw. ≤ 3,2 cm/m²
+(Frauen):|
 |**Device:**|||
 
-|**RPM/Fluss**<br>**LVAD**|**HF**|**Rhythmus**|**BP**<br>**(mmHg)**|**AK-**<br>**Öffnung**|**LVEDD**<br>**(mm)**|**LVEF**<br>**(%)**|**Smax**<br>**radial**|**RVEDD**<br>**(mm)**|**RVEF**<br>**(%)**|**VTI im**<br>**RVOT**|**AR**|**MR**|**TR**|**PA-**<br>**Druck**|**Symptome**|
+|**RPM/Fluss**
+**LVAD**|**HF**|**Rhythmus**|**BP**
+**(mmHg)**|**AK-**
+**Öffnung**|**LVEDD**
+**(mm)**|**LVEF**
+**(%)**|**Smax**
+**radial**|**RVEDD**
+**(mm)**|**RVEF**
+**(%)**|**VTI im**
+**RVOT**|**AR**|**MR**|**TR**|**PA-**
+**Druck**|**Symptome**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Baseline||||||||||||||||
 |Reduktion*||||||||||||||||
-|Stopp bei<br>HeartMate 3||||||||||||||||
+|Stopp bei
+HeartMate 3||||||||||||||||
 
 * bei HeartWare 1.800 RPM, bei HeartMate II 6.000 RPM, bei HeartMate 3 3.000 RPM 
 
-|Stopp bei<br>HeartMate 3<br>* bei HeartWare 1.800 RPM, bei HeartMate II 6.000 RPM, bei HeartMate 3 3.000 RPM|Stopp bei<br>HeartMate 3<br>* bei HeartWare 1.800 RPM, bei HeartMate II 6.000 RPM, bei HeartMate 3 3.000 RPM|
+|Stopp bei
+HeartMate 3
+* bei HeartWare 1.800 RPM, bei HeartMate II 6.000 RPM, bei HeartMate 3 3.000 RPM|Stopp bei
+HeartMate 3
+* bei HeartWare 1.800 RPM, bei HeartMate II 6.000 RPM, bei HeartMate 3 3.000 RPM|
 |---|---|
 |||
 |**Kein Herzkatheter, weil:**||

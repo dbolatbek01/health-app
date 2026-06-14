@@ -52,7 +52,14 @@ Der CCW-Patientendatensatz ist im Bereich Arbeitsliste der Konsile-KIKA festgeha
 
 Somit wird jeder Patient / jede Patientin zeitnah informiert und über die Teams-Excel-Datei kann der aktuelle Status eines jeden Falls jederzeit sofort eingesehen werden. 
 
-|**Patientendaten in**<br>**CCW**<br>**(Arzt/Ärztin**<br>**AHF/CAH)**|**Überblick in**<br>**Teams**<br>**(Pat.-Koord. CAH)**|**Besprechung auf**<br>**Konferenz**<br>**(Arzt/Ärztin)**|**Information**|**Komplettierung**|
+|**Patientendaten in**
+**CCW**
+**(Arzt/Ärztin**
+**AHF/CAH)**|**Überblick in**
+**Teams**
+**(Pat.-Koord. CAH)**|**Besprechung auf**
+**Konferenz**
+**(Arzt/Ärztin)**|**Information**|**Komplettierung**|
 |---|---|---|---|---|
 ||||**Zuweiser/Patient**|**Team, OP-Termin**|
 ||||**(Arzt/Ärztin)**|**(Pat.- Koord. CAH)**|

@@ -95,7 +95,8 @@ Start mit 1 µg/kg/h als Dauerinfusion, Steigerung täglich um 1 µg/kg/h bis au
 ||+ 4,4 % FMS|70-77|9,7|2,1-2,6|0,1-0,6|
 |||||||
 |||||||
-||+ 3 % MCT<br>+ 4,4 % FMS|95-102|9,7|2,1-2,6|ca. 3|
+||+ 3 % MCT
++ 4,4 % FMS|95-102|9,7|2,1-2,6|ca. 3|
 |||||||
 |||||||
 |||55|11,6|2|0,1|
@@ -104,7 +105,8 @@ Start mit 1 µg/kg/h als Dauerinfusion, Steigerung täglich um 1 µg/kg/h bis au
 ||+ 3 % MCT|80|11,6|2|2,7|
 |||||||
 |||||||
-||+ 4 % MCT<br>+ 1gProt.|92|11,6|3|3,6|
+||+ 4 % MCT
++ 1gProt.|92|11,6|3|3,6|
 |||||||
 |||||||
 |**Fresubin Jucy**||150|33,5|4,0|0|
@@ -167,5 +169,30 @@ Start mit 1 µg/kg/h als Dauerinfusion, Steigerung täglich um 1 µg/kg/h bis au
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 
-Chylothorax<br>Ätiologie klären<br>(s. Text)<br>4 d fettfreie Nahrung p.o.<br>+ Fette iv<br>nein<br>Chylus  7 d TPN<br>< 20 ml/kg/d<br>ja<br>ja<br>Chylus<br>< 20 ml/kg/d<br>nein<br>7 d TPN + Octreotid<br>nein<br>14 d fettfreie Nahrung p.o.<br>Anreicherung mit MCT-Fetten  ja Chylus<br>Fette iv n. Bedarf < 20 ml/kg/d<br>nein<br>Remission nein<br>ja<br>Individuelles Therapiekonzept<br>Re-Start normale Ernährung Erwäge invasive Diagnostik<br>Erwäge chirurgisches Vorgehen<br>**----- End of picture text -----**<br>
+Chylothorax
+Ätiologie klären
+(s. Text)
+4 d fettfreie Nahrung p.o.
++ Fette iv
+nein
+Chylus  7 d TPN
+< 20 ml/kg/d
+ja
+ja
+Chylus
+< 20 ml/kg/d
+nein
+7 d TPN + Octreotid
+nein
+14 d fettfreie Nahrung p.o.
+Anreicherung mit MCT-Fetten  ja Chylus
+Fette iv n. Bedarf < 20 ml/kg/d
+nein
+Remission nein
+ja
+Individuelles Therapiekonzept
+Re-Start normale Ernährung Erwäge invasive Diagnostik
+Erwäge chirurgisches Vorgehen
+**----- End of picture text -----**
+
 

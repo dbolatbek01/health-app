@@ -1,6 +1,11 @@
-|**SOP:**<br>**Sekretmanagement**|Campus: CCM||
+|**SOP:**
+**Sekretmanagement**|Campus: CCM||
 |---|---|---|
-||Geltungsbereich:<br>Fächerverbund für<br>Infektiologie, Pneumologie und<br>Intensivmedizin,**Stationen:**<br>**144i, 147i, 149a**||
+||Geltungsbereich:
+Fächerverbund für
+Infektiologie, Pneumologie und
+Intensivmedizin,**Stationen:**
+**144i, 147i, 149a**||
 
 ## **Ziele** 
 
@@ -15,45 +20,167 @@ Die hier gemachten Angaben zur Therapieempfehlung ersetzen nicht die Überprüfu
 |**Abkürzung**|**Erklärung**|**Zusatzinformationen **|
 |---|---|---|
 |**ABx**|Antibiotische Therapie||
-|**ACC**|Acetylcysteininfusion|3x/d jeweils 600 mg als Kurzinfusion<br>intravenös ,<br>Inhalative Anwendung ist möglich,<br>zurückhaltender Einsatz auf 144i|
-|**Anticholinergika**|Anticholinergika:<br><br>Glycopyrronium<br>(i.v. oder s.c.)<br><br>Scopolamin<br>(transdermal)<br><br>Bornaprin (p.o.)<br><br>Ipratropiumbromid<br>(inhalativ oder<br>Mund auswischen)<br>Nebenwirkungen: Delir,<br>Herzrhythmusstörungen,<br>Harnverhalt, Dyskrinie im<br>TBS<br>Memo: absolute<br>Kontraindikation Glaukom|<br>Glycopyrroinum: z.B. 3x/d jeweils<br>200 µg als Kurzinfusion<br><br>Scopolamin: transdermales Pflaster<br>enthält 1.50 mg Scopolamin,<br>Wechsel alle 3d<br><br>Bornaprin: 3x/d jeweils 2-4 mg<br>enteral<br><br>Ipratropiumbromid Inhalation 4x/Tag<br>jeweils 500 µg<br><br>Ipratropiumbromid Mund<br>auswischen 4x/Tag: 250 µg<br>Fertiglösung in 50ml<br>Leitungswasser geben und mit<br>gewonnener Lösung den Mund<br>auswischen (Memo: Off-Label-Use)|
+|**ACC**|Acetylcysteininfusion|3x/d jeweils 600 mg als Kurzinfusion
+intravenös ,
+Inhalative Anwendung ist möglich,
+zurückhaltender Einsatz auf 144i|
+|**Anticholinergika**|Anticholinergika:
+
+Glycopyrronium
+(i.v. oder s.c.)
+
+Scopolamin
+(transdermal)
+
+Bornaprin (p.o.)
+
+Ipratropiumbromid
+(inhalativ oder
+Mund auswischen)
+Nebenwirkungen: Delir,
+Herzrhythmusstörungen,
+Harnverhalt, Dyskrinie im
+TBS
+Memo: absolute
+Kontraindikation Glaukom|
+Glycopyrroinum: z.B. 3x/d jeweils
+200 µg als Kurzinfusion
+
+Scopolamin: transdermales Pflaster
+enthält 1.50 mg Scopolamin,
+Wechsel alle 3d
+
+Bornaprin: 3x/d jeweils 2-4 mg
+enteral
+
+Ipratropiumbromid Inhalation 4x/Tag
+jeweils 500 µg
+
+Ipratropiumbromid Mund
+auswischen 4x/Tag: 250 µg
+Fertiglösung in 50ml
+Leitungswasser geben und mit
+gewonnener Lösung den Mund
+auswischen (Memo: Off-Label-Use)|
 |**AT**|Atemtherapie|Durchführung durch Physiotherapie|
-|**BTx**|Injektion von<br>Botulinumtoxin in Gl.<br>submandibulares als<br>Konsilleistung der<br>Phoniatrie|Verzögerter Wirkeintritt, Wirkungsdauer von<br>10-14 Wochen|
-|**CA**|Anwendung eines<br>mechanischen<br>Hustenassistenten,<br>Kritische Abwägung der<br>Indikation: ARDS, post-OP,<br>ausgeprägte Restriktion,<br>hämodynamische<br>Instabilität, Pneumothorax,<br>ausgeprägtes Emphysem,<br>LAE, aktive Blutung,|Einstellung i.d.R. über<br>Atmungstherapeut*in/Ärzt*in; sofern nicht<br>anders verordnet 3x/d jeweils 3x3 Atemzüge<br>sowie bei Bedarf|
+|**BTx**|Injektion von
+Botulinumtoxin in Gl.
+submandibulares als
+Konsilleistung der
+Phoniatrie|Verzögerter Wirkeintritt, Wirkungsdauer von
+10-14 Wochen|
+|**CA**|Anwendung eines
+mechanischen
+Hustenassistenten,
+Kritische Abwägung der
+Indikation: ARDS, post-OP,
+ausgeprägte Restriktion,
+hämodynamische
+Instabilität, Pneumothorax,
+ausgeprägtes Emphysem,
+LAE, aktive Blutung,|Einstellung i.d.R. über
+Atmungstherapeut*in/Ärzt*in; sofern nicht
+anders verordnet 3x/d jeweils 3x3 Atemzüge
+sowie bei Bedarf|
 
-|Seite 1 von 6|Revision: 1|Revision: 1|Letzte Überprüfung<br>17.10.2023||||||
+|Seite 1 von 6|Revision: 1|Revision: 1|Letzte Überprüfung
+17.10.2023||||||
 |---|---|---|---|---|---|---|---|---|
 |||||||Überarbeitet: Müller-Plathe|||
 ||||16.10.2025|||Freigegeben:|||
 
-|**SOP:**<br>**Sekretmanagement**|**SOP:**<br>**Sekretmanagement**|Campus: CCM|Campus: CCM||
+|**SOP:**
+**Sekretmanagement**|**SOP:**
+**Sekretmanagement**|Campus: CCM|Campus: CCM||
 |---|---|---|---|---|
-|||Geltungsbereich:<br>Fächerverbund für<br>Infektiologie, Pneumologie und<br>Intensivmedizin,**Stationen:**<br>**144i, 147i, 149a**|||
+|||Geltungsbereich:
+Fächerverbund für
+Infektiologie, Pneumologie und
+Intensivmedizin,**Stationen:**
+**144i, 147i, 149a**|||
 ||||||
-||Rippenfraktur,<br>tracheobronchiale<br>Instabilität||||
-|**DNase**|Dornase alfa,<br>Wirksam nur bei eitrigem<br>Tracheobronchialsekret.<br>Keine Indikation bei<br>glasigem oder weisslichem<br>Sekret.||Inhalation 1-2x/d jeweils 1 Ampulle (2.500<br>E./2.5 ml)||
-|**Emser**|Inhalation mit Emser Sole<br>Inhalat®||Inhalation 3-4x/ d jeweils 5ml Fertiglösung<br>(58,75 mg Natürliches Emser Salz pro<br>Ampulle)||
-|**Infektionsprophylaxe**|Gentamycininhalation<br>Memo: Off-Label-Use||Bei jedem Patienten mit SA Phasen und<br>fortbestehender Dysphagie:<br>1x/d jeweils 40 mg Gentamycininhalation||
-|**LipoAerosol**|Inhalation mit unverdünnter<br>Fertiglösung||2-4x/d jeweils 3 ml Lösung||
+||Rippenfraktur,
+tracheobronchiale
+Instabilität||||
+|**DNase**|Dornase alfa,
+Wirksam nur bei eitrigem
+Tracheobronchialsekret.
+Keine Indikation bei
+glasigem oder weisslichem
+Sekret.||Inhalation 1-2x/d jeweils 1 Ampulle (2.500
+E./2.5 ml)||
+|**Emser**|Inhalation mit Emser Sole
+Inhalat®||Inhalation 3-4x/ d jeweils 5ml Fertiglösung
+(58,75 mg Natürliches Emser Salz pro
+Ampulle)||
+|**Infektionsprophylaxe**|Gentamycininhalation
+Memo: Off-Label-Use||Bei jedem Patienten mit SA Phasen und
+fortbestehender Dysphagie:
+1x/d jeweils 40 mg Gentamycininhalation||
+|**LipoAerosol**|Inhalation mit unverdünnter
+Fertiglösung||2-4x/d jeweils 3 ml Lösung||
 |**Logo**|Logopädische Therapie||Anmeldung über Phoniatrie||
-|**Hyperosmolare**<br>**NaCl- Lösung**|Inhalation mit<br>hyperosmolarer<br>Natriumchloridlösung<br>Zurückhaltender Einsatz da<br>schwere Bronchospasmen<br>möglich||<br>Inhalation mit 5 ml ~ 3 % verdünnter<br>Lösung (Mischung 0,9 % NaCl mit<br>5,85 % NaCl Verhältnis 1:1)<br><br>Inhalation mit 3 ml 5,85 %<br>Fertiglösung||
+|**Hyperosmolare**
+**NaCl- Lösung**|Inhalation mit
+hyperosmolarer
+Natriumchloridlösung
+Zurückhaltender Einsatz da
+schwere Bronchospasmen
+möglich||
+Inhalation mit 5 ml ~ 3 % verdünnter
+Lösung (Mischung 0,9 % NaCl mit
+5,85 % NaCl Verhältnis 1:1)
+
+Inhalation mit 3 ml 5,85 %
+Fertiglösung||
 |**PCF **|Peak Cough Flow||Messung i.d.R. durch Atmungstherapeut*in||
-|**PEP System**|Oszillierendes Positive<br>Expiratory Pressure (PEP)<br>System: z.B. Cornet,<br>Acapella||Anpassung i.d.R. durch<br>Atmungstherapeut*in/Ärzt*in/Physiotherapie;<br>sofern nicht anders verordnet: 3x/d sowie<br>bei Bedarf||
+|**PEP System**|Oszillierendes Positive
+Expiratory Pressure (PEP)
+System: z.B. Cornet,
+Acapella||Anpassung i.d.R. durch
+Atmungstherapeut*in/Ärzt*in/Physiotherapie;
+sofern nicht anders verordnet: 3x/d sowie
+bei Bedarf||
 |**SA- Phase**|Sprechaufsatzphase||||
 |**TK**|Trachealkanüle||||
-|**Tyloxapol**|Inhalation mit 0.1 % bzw. 1<br>% Tyloxapol<br>Memo: erstmalige<br>Inhalation<br>Absaugbereitschaft, bei<br>Entlassung: ist nicht<br>verordnungsfähig||I.d.R. vorsichtiger Beginn mit 0.1 % Lösung<br>und schrittweise Anpassung an erforderliche<br>Medikation. Maximal Inhalation 3-5x/ Tag<br>jeweils 5ml 1% Tyloxapol||
-|**VW**|Vibrationsweste,<br>Kritische Abwägung der<br>Indikation: ARDS, postOP,<br>ausgeprägte Restriktion,<br>hämodynamische<br>Instabilität, Pneumothorax,<br>ausgeprägtes Emphysem,<br>LAE, aktive Blutung,<br>Rippenfraktur||Anpassung i.d.R. durch<br>Atmungstherapeut*in/Ärzt*in; sofern nicht<br>anders verordnet: 3x/d sowie bei Bedarf||
+|**Tyloxapol**|Inhalation mit 0.1 % bzw. 1
+% Tyloxapol
+Memo: erstmalige
+Inhalation
+Absaugbereitschaft, bei
+Entlassung: ist nicht
+verordnungsfähig||I.d.R. vorsichtiger Beginn mit 0.1 % Lösung
+und schrittweise Anpassung an erforderliche
+Medikation. Maximal Inhalation 3-5x/ Tag
+jeweils 5ml 1% Tyloxapol||
+|**VW**|Vibrationsweste,
+Kritische Abwägung der
+Indikation: ARDS, postOP,
+ausgeprägte Restriktion,
+hämodynamische
+Instabilität, Pneumothorax,
+ausgeprägtes Emphysem,
+LAE, aktive Blutung,
+Rippenfraktur||Anpassung i.d.R. durch
+Atmungstherapeut*in/Ärzt*in; sofern nicht
+anders verordnet: 3x/d sowie bei Bedarf||
 
 ## **Sekretmanagement** 
 
-|Seite 2 von 6|Revision: 1|Revision: 1|Letzte Überprüfung<br>17.10.2023||||||
+|Seite 2 von 6|Revision: 1|Revision: 1|Letzte Überprüfung
+17.10.2023||||||
 |---|---|---|---|---|---|---|---|---|
 |||||||Überarbeitet: Müller-Plathe|||
 ||||16.10.2025|||Freigegeben:|||
 
-|**SOP:**<br>**Sekretmanagement**|Campus: CCM||
+|**SOP:**
+**Sekretmanagement**|Campus: CCM||
 |---|---|---|
-||Geltungsbereich:<br>Fächerverbund für<br>Infektiologie, Pneumologie und<br>Intensivmedizin,**Stationen:**<br>**144i, 147i, 149a**||
+||Geltungsbereich:
+Fächerverbund für
+Infektiologie, Pneumologie und
+Intensivmedizin,**Stationen:**
+**144i, 147i, 149a**||
 
 ## **Hintergrund** 
 
@@ -79,14 +206,20 @@ Für eine suffiziente Sekretclearance bedarf es einer adäquaten Beschaffenheit 
 
 - 2) Ziel ist durch Kontrolle der Pseudohypersalivation und Aspiration Spontanatmungsphasen an der entblocken Trachealkanüle sicher zu realisieren, um so effektives logopädisches Training zur Therapie der Schluckstörung durchführen zu können (siehe SOP Logopädie). Schon die 
 
-|Seite 3 von 6|Revision: 1|Revision: 1|Letzte Überprüfung<br>17.10.2023||||||
+|Seite 3 von 6|Revision: 1|Revision: 1|Letzte Überprüfung
+17.10.2023||||||
 |---|---|---|---|---|---|---|---|---|
 |||||||Überarbeitet: Müller-Plathe|||
 ||||16.10.2025|||Freigegeben:|||
 
-|**SOP:**<br>**Sekretmanagement**|Campus: CCM||
+|**SOP:**
+**Sekretmanagement**|Campus: CCM||
 |---|---|---|
-||Geltungsbereich:<br>Fächerverbund für<br>Infektiologie, Pneumologie und<br>Intensivmedizin,**Stationen:**<br>**144i, 147i, 149a**||
+||Geltungsbereich:
+Fächerverbund für
+Infektiologie, Pneumologie und
+Intensivmedizin,**Stationen:**
+**144i, 147i, 149a**||
 
    - Belüftung des Kehlkopfes und die Möglichkeit an der entblocken TK zu sprechen sind wertvolle Bausteine der Therapie der Dysphagie. 
 
@@ -136,14 +269,20 @@ In der Analyse muss differenziert werden:
 
 Zur Prophylaxe einer Tracheobronchitis bei Patienten die trotz Dysphagie an der entblocken Trachealkanüle atmen wird 1xd ein Aminoglycosid inhaliert. 
 
-|Seite 4 von 6|Revision: 1|Revision: 1|Letzte Überprüfung<br>17.10.2023||||||
+|Seite 4 von 6|Revision: 1|Revision: 1|Letzte Überprüfung
+17.10.2023||||||
 |---|---|---|---|---|---|---|---|---|
 |||||||Überarbeitet: Müller-Plathe|||
 ||||16.10.2025|||Freigegeben:|||
 
-|**SOP:**<br>**Sekretmanagement**|Campus: CCM||
+|**SOP:**
+**Sekretmanagement**|Campus: CCM||
 |---|---|---|
-||Geltungsbereich:<br>Fächerverbund für<br>Infektiologie, Pneumologie und<br>Intensivmedizin,**Stationen:**<br>**144i, 147i, 149a**||
+||Geltungsbereich:
+Fächerverbund für
+Infektiologie, Pneumologie und
+Intensivmedizin,**Stationen:**
+**144i, 147i, 149a**||
 
 ## **4) Hohe infraglottische Sekretlast bei insuffizienter Mobilisation des Sekretes aufgrund dessen Beschaffenheit:** 
 
@@ -193,14 +332,20 @@ _Fazit: Der invasiv beatmete Patient ist somit immer als husteninsuffizient anzu
 
 - **b) Mechanischer Hustenassistent** : Mittel der Wahl bei allen hämodynamisch stabilen Patienten ohne Kontraindikationen (Pneumothorax, bronchopleurale Fisteln, Bronchusstumpfinsuffizienz, 7 Tage nach operativen Engriffen an Lunge und Bronchialsystem, pulmonale Blutungen, offene Tuberkulose, ausgeprägte Restriktion, ausgeprägtes Emphysem, Lungenarterienembolie, Rippenfraktur). Konsequente Durchführung 3x/Tag. Die Einstellungen des mechanischen Hustenassistenten werden auf COPRA Seite 9 dokumentiert. 
 
-|Seite 5 von 6|Revision: 1|Revision: 1|Letzte Überprüfung<br>17.10.2023||||||
+|Seite 5 von 6|Revision: 1|Revision: 1|Letzte Überprüfung
+17.10.2023||||||
 |---|---|---|---|---|---|---|---|---|
 |||||||Überarbeitet: Müller-Plathe|||
 ||||16.10.2025|||Freigegeben:|||
 
-|**SOP:**<br>**Sekretmanagement**|Campus: CCM||
+|**SOP:**
+**Sekretmanagement**|Campus: CCM||
 |---|---|---|
-||Geltungsbereich:<br>Fächerverbund für<br>Infektiologie, Pneumologie und<br>Intensivmedizin,**Stationen:**<br>**144i, 147i, 149a**||
+||Geltungsbereich:
+Fächerverbund für
+Infektiologie, Pneumologie und
+Intensivmedizin,**Stationen:**
+**144i, 147i, 149a**||
 
 ## **Prophylaxe:** 
 
@@ -212,7 +357,8 @@ Bei orotracheal beatmeten Patienten wird zur Vermeidung von Sekretverlegungen de
 
 ## **Übersichtsdiagramm Sekretmanagement** 
 
-|Seite 6 von 6|Revision: 1|Revision: 1|Letzte Überprüfung<br>17.10.2023||||||
+|Seite 6 von 6|Revision: 1|Revision: 1|Letzte Überprüfung
+17.10.2023||||||
 |---|---|---|---|---|---|---|---|---|
 |||||||Überarbeitet: Müller-Plathe|||
 ||||16.10.2025|||Freigegeben:|||

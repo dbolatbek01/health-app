@@ -78,15 +78,26 @@ Die ersten Patienten der CAH werden durch die Station um 07:20 Uhr an der OP-Sch
 
 |**Uhrzeit / Zeitmarke**|**Maßnahme / Definition Zeitmarke**|
 |---|---|
-|07:35 Uhr|Narkosebeginn: Spritzen der Medikamente zur<br>Narkoseeinleitung / Start inhalative Einleitung bzw. bei<br>WacharteriePunktion|
-|Drähte für ZVK/Schleuse liegen, bzw.<br>wenn voll installiertes Kind von K-IPS bei<br>EintreffendesKindesimOP-Saal|Anruf Assistent|
-|10 min nach Anruf<br>20 min nach Anruf|Chirurgischer Assistent anwesend zur Lagerung<br>Operateur anwesend zur Unterstützung (Info des Operateurs<br>durchchirurgischen Assistenten)|
-|Freigabe Anästhesie|Freigabe des Patienten für erste Lagerungsmaßnahmen,<br>während Anästhesie noch fertig instrumentiert. Beginn der<br>Lagerung durchchirurgischesTeam inder Einleitung|
-|Ende Einleitung**(Zeitpunkt Null)**|Freigabe des Patienten für sämtliche vorbereitenden<br>Maßnahmendurchdas operativeTeam|
+|07:35 Uhr|Narkosebeginn: Spritzen der Medikamente zur
+Narkoseeinleitung / Start inhalative Einleitung bzw. bei
+WacharteriePunktion|
+|Drähte für ZVK/Schleuse liegen, bzw.
+wenn voll installiertes Kind von K-IPS bei
+EintreffendesKindesimOP-Saal|Anruf Assistent|
+|10 min nach Anruf
+20 min nach Anruf|Chirurgischer Assistent anwesend zur Lagerung
+Operateur anwesend zur Unterstützung (Info des Operateurs
+durchchirurgischen Assistenten)|
+|Freigabe Anästhesie|Freigabe des Patienten für erste Lagerungsmaßnahmen,
+während Anästhesie noch fertig instrumentiert. Beginn der
+Lagerung durchchirurgischesTeam inder Einleitung|
+|Ende Einleitung**(Zeitpunkt Null)**|Freigabe des Patienten für sämtliche vorbereitenden
+Maßnahmendurchdas operativeTeam|
 |Patient im OP-Saal(Null**+ 5 min**)|Patient auf OP-Tisch / Lafette entfernt|
 |AnfangChirurg. Maßnahmen(Null +5 min)|Lagerungim OP-Saal|
 |||
-|Operateur anwesend (Null**+ 10 min**)|Operateur oder zusätzlicher, die Operation beginnender<br>Assistentanwesend|
+|Operateur anwesend (Null**+ 10 min**)|Operateur oder zusätzlicher, die Operation beginnender
+Assistentanwesend|
 |Team-Time Out(Null**+ 34 min)**|Team-Time-Out|
 |Schnitt(Null**+ 35 min**)|Schnitt|
 
@@ -98,19 +109,30 @@ Wartezeiten werden durch alle Berufsgruppen dokumentiert.
 
 |**Zeitpunkt**|**Maßnahme**|
 |---|---|
-|Abruf von Station|1. Position: Zeitpunkt laut OP-Terminplan<br>Folgende Positionen: Anruf auf Station|
-|Anästhesie-Pflege / Arzt-<br>Präsenz|1. Patienten-Kontakt AN-FD oder AN-AD (Anästhesie-Arztdienst)   =<br>„Überwachungsbeginn“|
-|Beginn Anästhesie|Injektion erstes Narkosemedikament<br>oder<br>1. Punktion(AK / ZVK)bei wachen Patienten|
+|Abruf von Station|1. Position: Zeitpunkt laut OP-Terminplan
+Folgende Positionen: Anruf auf Station|
+|Anästhesie-Pflege / Arzt-
+Präsenz|1. Patienten-Kontakt AN-FD oder AN-AD (Anästhesie-Arztdienst)   =
+„Überwachungsbeginn“|
+|Beginn Anästhesie|Injektion erstes Narkosemedikament
+oder
+1. Punktion(AK / ZVK)bei wachen Patienten|
 |Freigabe Anästhesie|Freigabe für Lagerung / Clipping Haare|
 |Ende Einleitung|Ende aller Maßnahmen der Anästhesie-Einleitung|
 |Patient im OP-Saal|Auffahren Tisch auf OP-Säule|
-|Beginn chirurgische<br>Maßnahmen|Beginn der Maßnahmen durch einen Arzt der eingriffsdurchführenden Abteilung im<br>OP-Saal(bspw. ärztliche Lagerung,US-Untersuchung,Abwaschen,Abdecken etc.)|
+|Beginn chirurgische
+Maßnahmen|Beginn der Maßnahmen durch einen Arzt der eingriffsdurchführenden Abteilung im
+OP-Saal(bspw. ärztliche Lagerung,US-Untersuchung,Abwaschen,Abdecken etc.)|
 |Schnitt|Bei Interventionen: 1. Perkutane Punktion|
 |Naht|Bei Interventionen: Ende der interventionellen/operativen Manipulation|
-|Ende chirurgische<br>Maßnahmen|Ende Verband / Entlagerung der behandelten Person|
+|Ende chirurgische
+Maßnahmen|Ende Verband / Entlagerung der behandelten Person|
 |Patient aus dem Saal|Patient verlässt OP-Saal|
-|Ende Anästhesie|Extubation; bei LA = Ende chirurgische Maßnahmen<br>Beatmet verlegte Patienten = Überwachungsende|
-|Ende Anästhesie-Pflege /<br>Arzt-Präsenz|Übergabe ITS / PACU / Aufwachraum oder an den Pflegedienst der Station<br>respektive Ende Personalbindungam Patienten(AN FD)|
+|Ende Anästhesie|Extubation; bei LA = Ende chirurgische Maßnahmen
+Beatmet verlegte Patienten = Überwachungsende|
+|Ende Anästhesie-Pflege /
+Arzt-Präsenz|Übergabe ITS / PACU / Aufwachraum oder an den Pflegedienst der Station
+respektive Ende Personalbindungam Patienten(AN FD)|
 
 ## **5. Mitgeltende Dokumente** 
 

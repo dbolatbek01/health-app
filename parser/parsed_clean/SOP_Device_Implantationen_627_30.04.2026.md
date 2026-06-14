@@ -74,9 +74,13 @@ Geltungsbereich: Herzkatheter
 
 |**Materialien**||
 |---|---|
-|**Einmalmaterialien**|Sterile Handschuhe (4x), Perfusorspritzen und Verbrauchsmaterialien Nahtmaterial:<br>Mersilene SH 0.0 75 cm; Monocryl FS-2 3.0 45 cm; Vicryl SH 0.0 70 cm|
-|**Instrumentarium**|Punktionsbesteck, Kauter, Tunnelierungsinstrumente und OP-Besteck, sterile Abdeckungen<br>(Ioban-Inzisionsfolie s. „Vorbereitung Patient:in“) sowie Nahtmaterialien (Mersilene,<br>Monocryl, Vicryl) sowie spezielles Zusatzmaterial nach Prozedur.|
-|**Abdeckungen**|Abdeckung für Patient:in und Materialtisch sowie sterile Abdeckungen für Bildwandler,<br>Kabel und Röntgenschutz.|
+|**Einmalmaterialien**|Sterile Handschuhe (4x), Perfusorspritzen und Verbrauchsmaterialien Nahtmaterial:
+Mersilene SH 0.0 75 cm; Monocryl FS-2 3.0 45 cm; Vicryl SH 0.0 70 cm|
+|**Instrumentarium**|Punktionsbesteck, Kauter, Tunnelierungsinstrumente und OP-Besteck, sterile Abdeckungen
+(Ioban-Inzisionsfolie s. „Vorbereitung Patient:in“) sowie Nahtmaterialien (Mersilene,
+Monocryl, Vicryl) sowie spezielles Zusatzmaterial nach Prozedur.|
+|**Abdeckungen**|Abdeckung für Patient:in und Materialtisch sowie sterile Abdeckungen für Bildwandler,
+Kabel und Röntgenschutz.|
 |**Nahtmaterial**|Z-Naht je nach Vorgehen|
 |**Notfallset**|Reanimationsausrüstung, Defibrillatorzubehör, Intubationsmaterial und Absaugung|
 
@@ -112,7 +116,16 @@ Geltungsbereich: Herzkatheter
 
 |||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|
-||**REA-**<br>**Wagen**|**Absaugung**|**ACT**|**O2**<br>**Anschluss**<br>**Ambu-**<br>**Beutel**|**Pericard-**<br>**punktions-**<br>**set**|**Defi +**<br>**Kabel**|**SM**|**Beatmungsgerät**<br>**+ O2 Flasche**|**BGA-**<br>**Gerät**|**BTM**|**Kühlschrank**|
+||**REA-**
+**Wagen**|**Absaugung**|**ACT**|**O2**
+**Anschluss**
+**Ambu-**
+**Beutel**|**Pericard-**
+**punktions-**
+**set**|**Defi +**
+**Kabel**|**SM**|**Beatmungsgerät**
+**+ O2 Flasche**|**BGA-**
+**Gerät**|**BTM**|**Kühlschrank**|
 |1||||||||||||
 |2||||||||||||
 |3||||||||||||

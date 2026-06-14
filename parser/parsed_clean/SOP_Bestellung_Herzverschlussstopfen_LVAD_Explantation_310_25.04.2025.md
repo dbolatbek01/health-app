@@ -344,16 +344,35 @@ Potapov vom DHZB, und mit Unterstützung von Medidee Services Deutschland GmbH w
 
 Die folgenden Personen waren in Informationsbeschaffung, Risikoanalyse, Prozessentwicklung und Freigabe involviert: 
 
-|Die<br>folgenden<br>Personen<br>waren<br>in<br>Prozessentwicklung und Freigabe involviert:|Die<br>folgenden<br>Personen<br>waren<br>in<br>Prozessentwicklung und Freigabe involviert:|Informationsbeschaffung,<br>Risikoanalyse,|
+|Die
+folgenden
+Personen
+waren
+in
+Prozessentwicklung und Freigabe involviert:|Die
+folgenden
+Personen
+waren
+in
+Prozessentwicklung und Freigabe involviert:|Informationsbeschaffung,
+Risikoanalyse,|
 |---|---|---|
 |Katrin Hiestermann||LeitungAEMP|
 |Christoph Noffke||Hygienebeauftragter|
-|Michael<br>r||Senior Partner<br>Medidee ServicesDeutschland GmbH|
-|Laurent Meuser||Project Associate<br>Medidee Services Deutschland GmbH|
+|Michael
+r||Senior Partner
+Medidee ServicesDeutschland GmbH|
+|Laurent Meuser||Project Associate
+Medidee Services Deutschland GmbH|
 |Michael Lichtenstein||Fittkau MetallgestaltungGmbH, Hersteller|
 ||||
-|||Gefäßchirurgie und Leitung des Bereiches<br>Mechanische<br>Kreislaufunterstützung<br>am<br>DHZB|
-|Sabine Hübler||Kommissarische Verwaltungsleitung<br>Deutsches Herzzentrum Berlin|
+|||Gefäßchirurgie und Leitung des Bereiches
+Mechanische
+Kreislaufunterstützung
+am
+DHZB|
+|Sabine Hübler||Kommissarische Verwaltungsleitung
+Deutsches Herzzentrum Berlin|
 
 ## **1.2 Referenzdokumente** 
 
@@ -395,15 +414,22 @@ In diesem Abschnitt werden die, für die Erstaufbereitung wichtigen Produktparam
 
 |**Produkt**|**Produktparameter**|**Parameterbeschreibung**|
 |---|---|---|
-|Herzverschlussstopfen|Material Körper|Titan GR5, 3.7165 Legierung<br>(6AL4V ELI)|
-||Besonderheit Körper|Hohlraum auf der, dem Herz<br>abgewandten<br>Seite<br>des<br>Stopfens zum Aufstecken<br>aufdieZange.|
+|Herzverschlussstopfen|Material Körper|Titan GR5, 3.7165 Legierung
+(6AL4V ELI)|
+||Besonderheit Körper|Hohlraum auf der, dem Herz
+abgewandten
+Seite
+des
+Stopfens zum Aufstecken
+aufdieZange.|
 ||Material Beschichtung|CP Ti-120+170 mesh|
 ||Porösität Beschichtung|30-40%|
 ||Dicke Beschichtung|35 bis 69 Micron|
 |O-Ringe|Material|MVQ 70 Shore A|
 ||Temperaturbereich|-40°C bis+200°C|
 |Herzverschlussstopfenzange|Material|Edelstahl, rostfrei|
-|Innensechskant<br>(für HeartMate 3)|Material|Edelstahl, rostfrei|
+|Innensechskant
+(für HeartMate 3)|Material|Edelstahl, rostfrei|
 
 5 
 
@@ -413,16 +439,21 @@ In diesem Abschnitt werden die, für die Erstaufbereitung wichtigen Produktparam
 
 |**Prozess**|**Prozessparameter**|**Parameterbeschreibung**|
 |---|---|---|
-|Reinigung und Desinfektion<br>im RDG|Prozesschemie|Neodisher MediClean Forte|
+|Reinigung und Desinfektion
+im RDG|Prozesschemie|Neodisher MediClean Forte|
 ||ProzesschemieDosierung|0.7%|
-||Prozesswasser|Entspricht den Vorgaben der<br>EN 285|
+||Prozesswasser|Entspricht den Vorgaben der
+EN 285|
 ||Desinfektionstemperatur|90°C|
 ||A0|>3000|
 ||Programm|Instrumente|
 |Sterilisationsprozess|Temperatur|134°C|
 ||Zeit bei 134°C|5 min|
 ||Sterilisationsmedium|Sattdampf|
-||Indikatoren|Dampfdurchdringung<br>und<br>chemischer Indikator Klasse<br>6|
+||Indikatoren|Dampfdurchdringung
+und
+chemischer Indikator Klasse
+6|
 ||Programm|Instrumente|
 
 ## **3.3 Vergleich mit validierten Instrumenten des DHZB** 
@@ -559,14 +590,30 @@ Die Herzverschlussstopfen wurden als kritisch B – thermostabil eingestuft. Die
 
 |**Name, Firma/Position**|**Datum**|**Unterschrift**|
 |---|---|---|
-|Katrin Hiestermann<br>Leitung AEMP|06.11.2020||
+|Katrin Hiestermann
+Leitung AEMP|06.11.2020||
 |Sektion Hygiene|06.11.2020||
-|Michael<br>r<br>Senior Partner<br>Medidee ServicesDeutschland GmbH|06.11.2020||
-|Laurent Meuser<br>Project Associate<br>Medidee Services Deutschland GmbH|06.11.2020||
-|Michael Lichtenstein<br>Fittkau Metallgestaltung GmbH|06.11.2020||
-|Oberarzt der Klinik für Herz-, Thorax- und<br>Gefäßchirurgie<br>Leitung des Bereiches Mechanische<br>Kreislaufunterstützung<br>Deutsches Herzzentrum Berlin|06.11.2020||
-|Ärztlicher Direktor<br>Direktor der Klinik für Herz-Thorax-<br>Gefässchirurgie<br>Deutsches Herzzentrum Berlin|06.11.2020||
-|Sabine Hübler<br>Kommissarische Verwaltungsleitung<br>Deutsches Herzzentrum Berlin|06.11.2020||
+|Michael
+r
+Senior Partner
+Medidee ServicesDeutschland GmbH|06.11.2020||
+|Laurent Meuser
+Project Associate
+Medidee Services Deutschland GmbH|06.11.2020||
+|Michael Lichtenstein
+Fittkau Metallgestaltung GmbH|06.11.2020||
+|Oberarzt der Klinik für Herz-, Thorax- und
+Gefäßchirurgie
+Leitung des Bereiches Mechanische
+Kreislaufunterstützung
+Deutsches Herzzentrum Berlin|06.11.2020||
+|Ärztlicher Direktor
+Direktor der Klinik für Herz-Thorax-
+Gefässchirurgie
+Deutsches Herzzentrum Berlin|06.11.2020||
+|Sabine Hübler
+Kommissarische Verwaltungsleitung
+Deutsches Herzzentrum Berlin|06.11.2020||
 
 13 
 
@@ -578,147 +625,687 @@ Zur Identifizierung der möglichen Risiken, welche in Zusammenhang mit der Aufbe
 
 ## **7.1 Allgemeine Gefährdungsanalyse** 
 
-|**#**|**Sicherheitsrelevante**<br>**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
+|**#**|**Sicherheitsrelevante**
+**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
 |---|---|---|---|---|
-|A.2.1|Was ist der<br>vorgesehene Nutzen<br>und wie wird das<br>Medizinprodukt<br>genutzt?|Ja<br>Nein|Der<br>Herzverschlussstopfen<br>wird<br>zum<br>Verschließen des linken Ventrikels, nach der<br>Explantation der Herzpumpe verwendet. Er dient<br>dazu die zurückbleibende Öffnung im linken<br>Ventrikel zu verschließen und gleichzeitig eine<br>erneute Implantierung einer Herzpumpe zu<br>ermöglichen, sollte dies notwendig werden.<br>Weiterhin bleibt bei der Verwendung des<br>Herzverschlussstopfens die Explantation des, an<br>die Herzwand angenähten Ringes aus, welche<br>das Patientenherz zusätzlich belasten würde.<br>(risikoreiche OP unter Verwendung einer Herz-<br>Lungen- Maschine mit Risiko einer zusätzlichen<br>Schädigung des Herzens)|Kompatibilität des<br>Herzverschlussstopfens mit dem<br>verbleibenden Ring der Herzpumpe. Die<br>Dimensionen des<br>Herzverschlussstopfens müssen so<br>gewählt sein, dass dieser sich<br>problemlos implantieren lässt und<br>gleichzeitig die notwendige Dichtigkeit<br>gewährleistet.<br>Keine Gefährdung Hinsichtlich der<br>Erstaufbereitung.|
+|A.2.1|Was ist der
+vorgesehene Nutzen
+und wie wird das
+Medizinprodukt
+genutzt?|Ja
+Nein|Der
+Herzverschlussstopfen
+wird
+zum
+Verschließen des linken Ventrikels, nach der
+Explantation der Herzpumpe verwendet. Er dient
+dazu die zurückbleibende Öffnung im linken
+Ventrikel zu verschließen und gleichzeitig eine
+erneute Implantierung einer Herzpumpe zu
+ermöglichen, sollte dies notwendig werden.
+Weiterhin bleibt bei der Verwendung des
+Herzverschlussstopfens die Explantation des, an
+die Herzwand angenähten Ringes aus, welche
+das Patientenherz zusätzlich belasten würde.
+(risikoreiche OP unter Verwendung einer Herz-
+Lungen- Maschine mit Risiko einer zusätzlichen
+Schädigung des Herzens)|Kompatibilität des
+Herzverschlussstopfens mit dem
+verbleibenden Ring der Herzpumpe. Die
+Dimensionen des
+Herzverschlussstopfens müssen so
+gewählt sein, dass dieser sich
+problemlos implantieren lässt und
+gleichzeitig die notwendige Dichtigkeit
+gewährleistet.
+Keine Gefährdung Hinsichtlich der
+Erstaufbereitung.|
 
 14 
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-|**#**|**Sicherheitsrelevante**<br>**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
+|**#**|**Sicherheitsrelevante**
+**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
 |---|---|---|---|---|
-|A.2.2|Ist das Medizinprodukt<br>zur Implantation<br>vorgesehen?|Ja<br>Nein|Der Herzverschlussstopfen wird in die Herzwand<br>(linker Ventrikel) des Patienten implantiert. Er wird<br>in den, an das Herzwandgewebe angenähten<br>Ring gesetzt, welcher nach der Explantation der<br>Pumpe dort verbleibt.|Siehe A.2.8: Sterilität|
-|A.2.3|Ist das Medizinprodukt<br>dazu bestimmt, mit dem<br>Patienten oder anderen<br>Personen in Kontakt zu<br>kommen?|Ja<br>Nein|Der Herzverschlussstopfen wird dem Patienten<br>implantiert.<br>Zuerst kommt er in Kontakt mit dem Personal des<br>Herstellers.<br>Im Krankenhaus kommt er in Kontakt mit dem, für<br>die Erstaufbereitung verantwortlichen Personal,<br>sowie dem, die Operation vorbereitenden und<br>durchführenden Personal.|Kontamination / Kreuzkontamination<br>Siehe A.2.8: Sterilität|
+|A.2.2|Ist das Medizinprodukt
+zur Implantation
+vorgesehen?|Ja
+Nein|Der Herzverschlussstopfen wird in die Herzwand
+(linker Ventrikel) des Patienten implantiert. Er wird
+in den, an das Herzwandgewebe angenähten
+Ring gesetzt, welcher nach der Explantation der
+Pumpe dort verbleibt.|Siehe A.2.8: Sterilität|
+|A.2.3|Ist das Medizinprodukt
+dazu bestimmt, mit dem
+Patienten oder anderen
+Personen in Kontakt zu
+kommen?|Ja
+Nein|Der Herzverschlussstopfen wird dem Patienten
+implantiert.
+Zuerst kommt er in Kontakt mit dem Personal des
+Herstellers.
+Im Krankenhaus kommt er in Kontakt mit dem, für
+die Erstaufbereitung verantwortlichen Personal,
+sowie dem, die Operation vorbereitenden und
+durchführenden Personal.|Kontamination / Kreuzkontamination
+Siehe A.2.8: Sterilität|
 
 15 
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-|**#**|**Sicherheitsrelevante**<br>**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
+|**#**|**Sicherheitsrelevante**
+**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
 |---|---|---|---|---|
-|A.2.4|Welche Materialien<br>oder Komponenten<br>werden in dem<br>Medizinprodukt<br>verwendet oder werden<br>mit dem Medizinprodukt<br>verwendet oder stehen<br>mit ihm in Kontakt?|Ja<br>Nein|Der Körper des Medizinproduktes besteht aus<br>Temperguss-Titan,<br>die<br>Beschichtung<br>aus<br>sphärischem Titanpuder. Eingesetzt wird das<br>Medizinprodukt mit einer, ebenfalls aus Titan<br>gefertigten<br>Herzverschlussstopfenzange.<br>Zur<br>Sicherstellung der Dichtigkeit wird zusätzlich ein<br>O-Ring aus Silikon MVQ 70 Shore A (USP Klasse<br>VI) eingesetzt.<br>Keiner der Bestandteile enthält Materialien<br>tierischen Ursprunges.<br>Titan ist ein Standard Material zur Herstellung von<br>Implantaten und chirurgischen Instrumenten.<br>Das Silikon MVQ 70 aus dem der O-Ring gefertigt<br>ist, entspricht USP Klasse VI und ist in den USA<br>und Europa zur Implantation zugelassen.<br>Der<br>Herzverschlussstopfen,<br>die<br>Herzverschlussstopfenzange, sowie der O-Ring<br>kommen in Kontakt mit Blut und Gewebe des<br>Patienten.<br>(Nicht<br>relevant<br>für<br>die<br>Erstaufbereitung)|Beschädigung der Materialien während<br>des Transports (siehe A.2.24), der<br>Erstaufbereitung<br>(Prozess/Prozesschemie) oder der<br>Nutzung (Nicht relevant für die<br>Erstaufbereitung).<br>Eintrag von Fremdsubstanzen (z.B.<br>Kunststoffabrieb) in die<br>Sintherbeschichtung des<br>Herzverschlussstopfens während des<br>Transportes|
+|A.2.4|Welche Materialien
+oder Komponenten
+werden in dem
+Medizinprodukt
+verwendet oder werden
+mit dem Medizinprodukt
+verwendet oder stehen
+mit ihm in Kontakt?|Ja
+Nein|Der Körper des Medizinproduktes besteht aus
+Temperguss-Titan,
+die
+Beschichtung
+aus
+sphärischem Titanpuder. Eingesetzt wird das
+Medizinprodukt mit einer, ebenfalls aus Titan
+gefertigten
+Herzverschlussstopfenzange.
+Zur
+Sicherstellung der Dichtigkeit wird zusätzlich ein
+O-Ring aus Silikon MVQ 70 Shore A (USP Klasse
+VI) eingesetzt.
+Keiner der Bestandteile enthält Materialien
+tierischen Ursprunges.
+Titan ist ein Standard Material zur Herstellung von
+Implantaten und chirurgischen Instrumenten.
+Das Silikon MVQ 70 aus dem der O-Ring gefertigt
+ist, entspricht USP Klasse VI und ist in den USA
+und Europa zur Implantation zugelassen.
+Der
+Herzverschlussstopfen,
+die
+Herzverschlussstopfenzange, sowie der O-Ring
+kommen in Kontakt mit Blut und Gewebe des
+Patienten.
+(Nicht
+relevant
+für
+die
+Erstaufbereitung)|Beschädigung der Materialien während
+des Transports (siehe A.2.24), der
+Erstaufbereitung
+(Prozess/Prozesschemie) oder der
+Nutzung (Nicht relevant für die
+Erstaufbereitung).
+Eintrag von Fremdsubstanzen (z.B.
+Kunststoffabrieb) in die
+Sintherbeschichtung des
+Herzverschlussstopfens während des
+Transportes|
 
 16 
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-|**#**|**Sicherheitsrelevante**<br>**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
+|**#**|**Sicherheitsrelevante**
+**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
 |---|---|---|---|---|
-|A.2.5|Wird dem Patienten<br>Energie zugeführt oder<br>entzogen?|Ja<br>Nein|Der Herzverschlussstopfen ist nicht dafür gedacht<br>Energie abzugeben oder zu entziehen.||
-|A.2.6|Werden Substanzen an<br>den Patienten<br>abgegeben oder ihm<br>entzogen?|Ja<br>Nein|Der Herzverschlussstopfen ist nicht dafür gedacht<br>Substanzen abzugeben oder zu entziehen.||
-|A.2.7|Werden biologische<br>Materialien durch das<br>Medizinprodukt für eine<br>spätere<br>Wiederverwendung,<br>Transfusion oder<br>Transplantation<br>verarbeitet?|Ja<br>Nein|Es werden keine biologischen Materialien durch<br>den. Herzverschlussstopfen verarbeitet.||
+|A.2.5|Wird dem Patienten
+Energie zugeführt oder
+entzogen?|Ja
+Nein|Der Herzverschlussstopfen ist nicht dafür gedacht
+Energie abzugeben oder zu entziehen.||
+|A.2.6|Werden Substanzen an
+den Patienten
+abgegeben oder ihm
+entzogen?|Ja
+Nein|Der Herzverschlussstopfen ist nicht dafür gedacht
+Substanzen abzugeben oder zu entziehen.||
+|A.2.7|Werden biologische
+Materialien durch das
+Medizinprodukt für eine
+spätere
+Wiederverwendung,
+Transfusion oder
+Transplantation
+verarbeitet?|Ja
+Nein|Es werden keine biologischen Materialien durch
+den. Herzverschlussstopfen verarbeitet.||
 
 17 
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-|**#**|**Sicherheitsrelevante**<br>**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
+|**#**|**Sicherheitsrelevante**
+**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
 |---|---|---|---|---|
-|A.2.8|Wird das<br>Medizinprodukt steril<br>geliefert oder soll es<br>vom Benutzer<br>sterilisiert werden, oder<br>sind andere<br>mikrobiologische<br>Kontrollen anwendbar?|Ja<br>Nein|Der<br>Herzverschlussstopfen,<br>sowie<br>die<br>Herzverschlussstopfenzange und der O-Ring<br>werden nicht steril geliefert und müssen demnach<br>einer Erstaufbereitung unterzogen werden.<br>Der Herzverschlussstopfen, sowie der O-Ring<br>sind<br>zum<br>Einmalgebrauch<br>bestimmt.<br>Die<br>Herzverschlussstopfenzange<br>kann<br>wiederaufbereitet<br>werden.<br>Mikrobiologische<br>Kontrollen können lediglich als In-Prozess-<br>Kontrollen<br>während<br>der<br>Aufbereitung<br>durchgeführt werden, um die abschließende<br>Sterilität<br>von<br>Produkt<br>und<br>Zubehör<br>zu<br>gewährleisten.|Herzverschlussstopfen,<br>Herzverschlussstopfenzange und O-Ring<br>werden unsteril angeliefert. Es besteht<br>die Möglichkeit, dass Pyrogene<br>vorhanden sind, sowie Pilzsporen und<br>Viren anhaften.|
-|A.2.9|Ist das Medizinprodukt<br>dazu bestimmt,<br>routinemäßig vom<br>Anwender gereinigt und<br>desinfiziert zu werden?|Ja<br>Nein|Der<br>Herzverschlussstopfen<br>ist<br>nicht<br>zur<br>routinemäßigen Reinigung und Desinfektion<br>bestimmt, da es sich um ein permanentes<br>Implantat handelt.||
-|A.2.10|Ist das Medizinprodukt<br>dazu bestimmt, die<br>Patientenumgebung zu<br>verändern?|Ja<br>Nein|Der<br>Herzverschlussstopfen<br>ist<br>nicht<br>dazu<br>bestimmt die Patientenumgebung zu verändern.||
+|A.2.8|Wird das
+Medizinprodukt steril
+geliefert oder soll es
+vom Benutzer
+sterilisiert werden, oder
+sind andere
+mikrobiologische
+Kontrollen anwendbar?|Ja
+Nein|Der
+Herzverschlussstopfen,
+sowie
+die
+Herzverschlussstopfenzange und der O-Ring
+werden nicht steril geliefert und müssen demnach
+einer Erstaufbereitung unterzogen werden.
+Der Herzverschlussstopfen, sowie der O-Ring
+sind
+zum
+Einmalgebrauch
+bestimmt.
+Die
+Herzverschlussstopfenzange
+kann
+wiederaufbereitet
+werden.
+Mikrobiologische
+Kontrollen können lediglich als In-Prozess-
+Kontrollen
+während
+der
+Aufbereitung
+durchgeführt werden, um die abschließende
+Sterilität
+von
+Produkt
+und
+Zubehör
+zu
+gewährleisten.|Herzverschlussstopfen,
+Herzverschlussstopfenzange und O-Ring
+werden unsteril angeliefert. Es besteht
+die Möglichkeit, dass Pyrogene
+vorhanden sind, sowie Pilzsporen und
+Viren anhaften.|
+|A.2.9|Ist das Medizinprodukt
+dazu bestimmt,
+routinemäßig vom
+Anwender gereinigt und
+desinfiziert zu werden?|Ja
+Nein|Der
+Herzverschlussstopfen
+ist
+nicht
+zur
+routinemäßigen Reinigung und Desinfektion
+bestimmt, da es sich um ein permanentes
+Implantat handelt.||
+|A.2.10|Ist das Medizinprodukt
+dazu bestimmt, die
+Patientenumgebung zu
+verändern?|Ja
+Nein|Der
+Herzverschlussstopfen
+ist
+nicht
+dazu
+bestimmt die Patientenumgebung zu verändern.||
 
 18 
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-|**#**|**Sicherheitsrelevante**<br>**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
+|**#**|**Sicherheitsrelevante**
+**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
 |---|---|---|---|---|
-|A.2.11|Werden Messungen<br>vorgenommen?|Ja<br>Nein|Der<br>Herzverschlussstopfen<br>hat<br>keine<br>Messfunktion||
-|A.2.12|Ist das Medizinprodukt<br>interpretativ?|Ja<br>Nein|Der<br>Herzverschlussstopfen<br>enthält<br>keine<br>elektronischen<br>Bauteile,<br>wodurch<br>keine<br>Möglichkeit einer Interpretation gegeben ist.||
-|A.2.13|Ist das Medizinprodukt<br>zur Verwendung in<br>Verbindung mit<br>anderen<br>Medizinprodukten,<br>Arzneimitteln oder<br>anderen medizinischen<br>Technologien<br>bestimmt?|Ja<br>Nein|Der Herzverschlussstopfen ist dazu bestimmt<br>zusammen mit dem Sewing-Ring der jeweiligen<br>Herzpumpe (HeartWare/HeartMate) verwendet<br>zu werden.|Siehe A.2.1.<br>Keine Gefährdungen bezogen auf die<br>Erstaufbereitung abzusehen|
-|A.2.14|Gibt es unerwünschte<br>Emission von Energie<br>oder Substanzen?|Ja<br>Nein|Der<br>Herzverschlussstopfen<br>ist<br>nicht<br>dazu<br>bestimmt Energie oder Substanzen zu imitieren.||
+|A.2.11|Werden Messungen
+vorgenommen?|Ja
+Nein|Der
+Herzverschlussstopfen
+hat
+keine
+Messfunktion||
+|A.2.12|Ist das Medizinprodukt
+interpretativ?|Ja
+Nein|Der
+Herzverschlussstopfen
+enthält
+keine
+elektronischen
+Bauteile,
+wodurch
+keine
+Möglichkeit einer Interpretation gegeben ist.||
+|A.2.13|Ist das Medizinprodukt
+zur Verwendung in
+Verbindung mit
+anderen
+Medizinprodukten,
+Arzneimitteln oder
+anderen medizinischen
+Technologien
+bestimmt?|Ja
+Nein|Der Herzverschlussstopfen ist dazu bestimmt
+zusammen mit dem Sewing-Ring der jeweiligen
+Herzpumpe (HeartWare/HeartMate) verwendet
+zu werden.|Siehe A.2.1.
+Keine Gefährdungen bezogen auf die
+Erstaufbereitung abzusehen|
+|A.2.14|Gibt es unerwünschte
+Emission von Energie
+oder Substanzen?|Ja
+Nein|Der
+Herzverschlussstopfen
+ist
+nicht
+dazu
+bestimmt Energie oder Substanzen zu imitieren.||
 
 19 
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-|**#**|**Sicherheitsrelevante**<br>**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
+|**#**|**Sicherheitsrelevante**
+**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
 |---|---|---|---|---|
-|A.2.15|Ist das Medizinprodukt<br>anfällig für<br>Umwelteinflüsse?|Ja<br>Nein|Der Herzverschlussstopfen ist potentiell anfällig<br>für Umwelteinflüsse.|Mögliche Gefährdungen sind:<br>- Abbau oder chemischer Angriff durch<br>die Verwendung von nicht bioinertem<br>Material<br>- Chemischer Angriff durch die<br>Reinigungschemie des RDG oder<br>Flugrost<br>- Physikalische (Hitze/Kälte) und<br>mechanische Beanspruchung während<br>Transport und Aufbereitung|
-|A.2.16|Beeinflusst das<br>Medizinprodukt die<br>Umwelt?|Ja<br>Nein|Der Herzverschlussstopfen hat keinen Einfluss<br>auf die Umwelt.||
-|A.2.17|Benötigt das<br>Medizingerät<br>Verbrauchsmaterialien<br>oder Zubehör?|Ja<br>Nein|Der Herzverschlussstopfen wird mit Hilfe einer<br>chirurgischen<br>Zange<br>(Herzverschlsusstopfenzange)<br>aus<br>Edelstahl<br>eingesetzt. Um die Dichtigkeit des Stopfens zu<br>gewährleisten wird ein O-Ring aus MVQ 70<br>(Methyl-Vinyl-Silikongummi) zusammen mit dem<br>Herzverschlussstopfen implantiert.|Mögliche Gefährungen:<br>- O-Ring ist nicht temperaturresistent<br>- Unvollständige Reinigung/<br>Desinfektion/ Sterilisation des<br>Verschlussstopfens durch vormontierten<br>O-Ring<br>- Unvollständige Reinigung/<br>Desinfektion/ Sterilisation der Zange|
+|A.2.15|Ist das Medizinprodukt
+anfällig für
+Umwelteinflüsse?|Ja
+Nein|Der Herzverschlussstopfen ist potentiell anfällig
+für Umwelteinflüsse.|Mögliche Gefährdungen sind:
+- Abbau oder chemischer Angriff durch
+die Verwendung von nicht bioinertem
+Material
+- Chemischer Angriff durch die
+Reinigungschemie des RDG oder
+Flugrost
+- Physikalische (Hitze/Kälte) und
+mechanische Beanspruchung während
+Transport und Aufbereitung|
+|A.2.16|Beeinflusst das
+Medizinprodukt die
+Umwelt?|Ja
+Nein|Der Herzverschlussstopfen hat keinen Einfluss
+auf die Umwelt.||
+|A.2.17|Benötigt das
+Medizingerät
+Verbrauchsmaterialien
+oder Zubehör?|Ja
+Nein|Der Herzverschlussstopfen wird mit Hilfe einer
+chirurgischen
+Zange
+(Herzverschlsusstopfenzange)
+aus
+Edelstahl
+eingesetzt. Um die Dichtigkeit des Stopfens zu
+gewährleisten wird ein O-Ring aus MVQ 70
+(Methyl-Vinyl-Silikongummi) zusammen mit dem
+Herzverschlussstopfen implantiert.|Mögliche Gefährungen:
+- O-Ring ist nicht temperaturresistent
+- Unvollständige Reinigung/
+Desinfektion/ Sterilisation des
+Verschlussstopfens durch vormontierten
+O-Ring
+- Unvollständige Reinigung/
+Desinfektion/ Sterilisation der Zange|
 
 20 
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-|**#**|**Sicherheitsrelevante**<br>**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
+|**#**|**Sicherheitsrelevante**
+**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
 |---|---|---|---|---|
-|A.2.18|Ist eine Wartung oder<br>Kalibrierung<br>notwendig?|Ja<br>Nein|Das Implantat muss weder gewartet noch<br>kalibriert werden.||
-|A.2.19|Enthält das<br>Medizinprodukt<br>Software?|Ja<br>Nein|Es ist keine Software enthalten.||
-|A.2.20|Ermögliche das<br>Medizinprodukt den<br>Zugang zu<br>Informationen?|Ja<br>Nein|Nicht anwendbar, siehe A.2.19||
-|A.2.21|Speichert das<br>Medizinprodukt Daten,<br>die für die<br>Patientenversorgung<br>kritisch sind?|Ja<br>Nein|Nicht anwendbar, siehe A.2.19||
+|A.2.18|Ist eine Wartung oder
+Kalibrierung
+notwendig?|Ja
+Nein|Das Implantat muss weder gewartet noch
+kalibriert werden.||
+|A.2.19|Enthält das
+Medizinprodukt
+Software?|Ja
+Nein|Es ist keine Software enthalten.||
+|A.2.20|Ermögliche das
+Medizinprodukt den
+Zugang zu
+Informationen?|Ja
+Nein|Nicht anwendbar, siehe A.2.19||
+|A.2.21|Speichert das
+Medizinprodukt Daten,
+die für die
+Patientenversorgung
+kritisch sind?|Ja
+Nein|Nicht anwendbar, siehe A.2.19||
 
 21 
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-|**#**|**Sicherheitsrelevante**<br>**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
+|**#**|**Sicherheitsrelevante**
+**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
 |---|---|---|---|---|
-|A.2.22|Hat das Medizinprodukt<br>eine begrenzte<br>Haltbarkeitsdauer?|Ja<br>Nein|Der Herzverschlussstopfen ist dazu vorgesehen,<br>im Körper des Patienten zu verbleiben, bis erneut<br>eine<br>Pumpe<br>eingesetzt<br>werden<br>muss<br>-<br>anderenfalls bis zum Lebensende des Patienten.<br>In sterilem Zustand ist die Haltbarkeit nur durch<br>das eingesetzte Sterilbarrieresystem begrenzt.|Kontamination durch zu lange/falsche<br>Lagerung nach der Sterilisation|
-|A.2.23|Gibt es verzögerte oder<br>Langzeiteffekte, die mit<br>der Nutzung<br>zusammenhängen?|Ja<br>Nein|Bisher sind keine negativen Effekte (verzögert<br>oder Langzeit) bekannt, die mit der Nutzung der<br>Herzverschlussstopfen oder deren Aufreinigung<br>zusammenhängen.||
+|A.2.22|Hat das Medizinprodukt
+eine begrenzte
+Haltbarkeitsdauer?|Ja
+Nein|Der Herzverschlussstopfen ist dazu vorgesehen,
+im Körper des Patienten zu verbleiben, bis erneut
+eine
+Pumpe
+eingesetzt
+werden
+muss
+-
+anderenfalls bis zum Lebensende des Patienten.
+In sterilem Zustand ist die Haltbarkeit nur durch
+das eingesetzte Sterilbarrieresystem begrenzt.|Kontamination durch zu lange/falsche
+Lagerung nach der Sterilisation|
+|A.2.23|Gibt es verzögerte oder
+Langzeiteffekte, die mit
+der Nutzung
+zusammenhängen?|Ja
+Nein|Bisher sind keine negativen Effekte (verzögert
+oder Langzeit) bekannt, die mit der Nutzung der
+Herzverschlussstopfen oder deren Aufreinigung
+zusammenhängen.||
 
 22 
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-|**#**|**Sicherheitsrelevante**<br>**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
+|**#**|**Sicherheitsrelevante**
+**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
 |---|---|---|---|---|
-|A.2.24|Welchen mechanischen<br>Kräften wird das<br>Medizinprodukt<br>ausgesetzt?|Ja<br>Nein|Der Herzverschlussstopfen wird während des<br>Transportes Vibrationen ausgesetzt. Weiterhin<br>erfährt<br>er<br>Spüldruck<br>während<br>der<br>Erstaufbereitung und muss der Pumpkraft des<br>Herzens widerstehen.|Der Herzverschlussstopfen wird in<br>verschließbaren Standard-<br>Kunststoffbeuteln mit Clip-Verschluss<br>transportiert. Durch die Vibrationen<br>während des Transports könnten<br>Kunststoffpartikel durch den<br>Herzverschlussstopfen abgetragen<br>werden.<br>Es muss sichergestellt sein, dass der<br>Spüldruck den Herzverschlussstopfen<br>nicht bewegt. Die entstehende Reibung<br>oder Stöße könnten den Stopfen<br>beschädigen. Zange und stopfen sollten<br>mit ausreichend Abstand zueinander<br>aufbereitet werden.<br>Weiterhin muss sichergestellt sein, dass<br>der O-Ring während der<br>Erstaufbereitung nicht verloren geht.|
+|A.2.24|Welchen mechanischen
+Kräften wird das
+Medizinprodukt
+ausgesetzt?|Ja
+Nein|Der Herzverschlussstopfen wird während des
+Transportes Vibrationen ausgesetzt. Weiterhin
+erfährt
+er
+Spüldruck
+während
+der
+Erstaufbereitung und muss der Pumpkraft des
+Herzens widerstehen.|Der Herzverschlussstopfen wird in
+verschließbaren Standard-
+Kunststoffbeuteln mit Clip-Verschluss
+transportiert. Durch die Vibrationen
+während des Transports könnten
+Kunststoffpartikel durch den
+Herzverschlussstopfen abgetragen
+werden.
+Es muss sichergestellt sein, dass der
+Spüldruck den Herzverschlussstopfen
+nicht bewegt. Die entstehende Reibung
+oder Stöße könnten den Stopfen
+beschädigen. Zange und stopfen sollten
+mit ausreichend Abstand zueinander
+aufbereitet werden.
+Weiterhin muss sichergestellt sein, dass
+der O-Ring während der
+Erstaufbereitung nicht verloren geht.|
 
 23 
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-|**#**|**Sicherheitsrelevante**<br>**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
+|**#**|**Sicherheitsrelevante**
+**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
 |---|---|---|---|---|
-|A.2.25|Was bestimmt die<br>Lebensdauer des<br>Medizinprodukts?|Ja<br>Nein|Die Lebensdauer des Herzverschlussstopfens<br>hängt von der Notwendigkeit einer Explantation<br>zwecks Einsetzens einer neuen Herzpumpe ab.<br>Ansonsten<br>ist<br>anzunehmen,<br>dass<br>die<br>Lebensdauer des Herzverschlussstopfens der<br>Lebenszeit des Patienten entspricht.||
-|A.2.26|Ist das Medizinprodukt<br>für den einmaligen<br>Gebrauch bestimmt?|Ja<br>Nein|Der Herzverschlussstopfen ist für den einmaligen<br>Gebrauch vorgesehen.|Biologische Gefährdung durch einen<br>wieder aufbereiteten<br>Herzverschlussstopfen. Es ist<br>wahrscheinlich, dass organisches<br>Material nicht vollständig aus der<br>porösen Sinterschicht entfernt werden<br>kann. Der Herzverschlussstopfen darf<br>nicht zur Wiederverwendung aufbereitet<br>werden – Weiter siehe A.2.27|
-|A.2.27|Ist eine sichere<br>Stilllegung oder<br>Entsorgung des<br>Medizinproduktes<br>erforderlich?|Ja<br>Nein|Entsorgung von biologisch kontaminierten und<br>nicht wieder aufbereitbaren Medizinprodukten<br>nach den Entsorgungsrichtlinien des DHZB für<br>biokontaminierte Abfälle. (Herzverschlussstopfen<br>und O-Ring)|Keine Gefährdung bezüglich der<br>Erstaufbereitung identifizierbar.|
+|A.2.25|Was bestimmt die
+Lebensdauer des
+Medizinprodukts?|Ja
+Nein|Die Lebensdauer des Herzverschlussstopfens
+hängt von der Notwendigkeit einer Explantation
+zwecks Einsetzens einer neuen Herzpumpe ab.
+Ansonsten
+ist
+anzunehmen,
+dass
+die
+Lebensdauer des Herzverschlussstopfens der
+Lebenszeit des Patienten entspricht.||
+|A.2.26|Ist das Medizinprodukt
+für den einmaligen
+Gebrauch bestimmt?|Ja
+Nein|Der Herzverschlussstopfen ist für den einmaligen
+Gebrauch vorgesehen.|Biologische Gefährdung durch einen
+wieder aufbereiteten
+Herzverschlussstopfen. Es ist
+wahrscheinlich, dass organisches
+Material nicht vollständig aus der
+porösen Sinterschicht entfernt werden
+kann. Der Herzverschlussstopfen darf
+nicht zur Wiederverwendung aufbereitet
+werden – Weiter siehe A.2.27|
+|A.2.27|Ist eine sichere
+Stilllegung oder
+Entsorgung des
+Medizinproduktes
+erforderlich?|Ja
+Nein|Entsorgung von biologisch kontaminierten und
+nicht wieder aufbereitbaren Medizinprodukten
+nach den Entsorgungsrichtlinien des DHZB für
+biokontaminierte Abfälle. (Herzverschlussstopfen
+und O-Ring)|Keine Gefährdung bezüglich der
+Erstaufbereitung identifizierbar.|
 
 24 
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-|**#**|**Sicherheitsrelevante**<br>**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
+|**#**|**Sicherheitsrelevante**
+**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
 |---|---|---|---|---|
-|A.2.28|Erfordert die Installation<br>oder Verwendung des<br>Medizinproduktes eine<br>spezielle Ausbildung<br>oder besondere<br>Fähigkeiten?|Ja<br>Nein|Das Einsetzen des Herzverschlussverstopfens<br>geschieht<br>durch<br>den<br>Chirurgen,<br>der<br>die<br>Herzpumpe explantiert.<br>Das Personal, dass die Aufbereitung durchführt<br>muss entsprechend geschult sein (Sachkenntnis<br>nach Anlage 6 der Richtlinie des RKI) und den<br>implementierten<br>Prozess<br>befolgen.<br>Die<br>Aufbereitung soll ausschließlich von Personal mit<br>Fachkunde 2 (FK2) durchgeführt werden.||
-|A.2.29|Wie werden<br>Informationen zur<br>Sicherheit<br>bereitgestellt?|Ja<br>Nein|Informationen zur Sicherheit werden durch eine<br>Risikoanalyse ermittelt und zusammen mit den<br>entsprechenden<br>Maßnahmen<br>als<br>Teil<br>des<br>erarbeiteten<br>Prozessablaufs<br>zur<br>Verfügung<br>gestellt.|Das durchführende Personal muss die<br>Sicherheitsinformationen beachten und<br>der Aufbereitungsanleitung Folge leisten.|
-|A.2.30|Werden neue<br>Herstellungsprozesse<br>etabliert oder<br>eingeführt?|Ja<br>Nein|Es werden keine neuen Herstellungsprozesse<br>eingeführt.||
+|A.2.28|Erfordert die Installation
+oder Verwendung des
+Medizinproduktes eine
+spezielle Ausbildung
+oder besondere
+Fähigkeiten?|Ja
+Nein|Das Einsetzen des Herzverschlussverstopfens
+geschieht
+durch
+den
+Chirurgen,
+der
+die
+Herzpumpe explantiert.
+Das Personal, dass die Aufbereitung durchführt
+muss entsprechend geschult sein (Sachkenntnis
+nach Anlage 6 der Richtlinie des RKI) und den
+implementierten
+Prozess
+befolgen.
+Die
+Aufbereitung soll ausschließlich von Personal mit
+Fachkunde 2 (FK2) durchgeführt werden.||
+|A.2.29|Wie werden
+Informationen zur
+Sicherheit
+bereitgestellt?|Ja
+Nein|Informationen zur Sicherheit werden durch eine
+Risikoanalyse ermittelt und zusammen mit den
+entsprechenden
+Maßnahmen
+als
+Teil
+des
+erarbeiteten
+Prozessablaufs
+zur
+Verfügung
+gestellt.|Das durchführende Personal muss die
+Sicherheitsinformationen beachten und
+der Aufbereitungsanleitung Folge leisten.|
+|A.2.30|Werden neue
+Herstellungsprozesse
+etabliert oder
+eingeführt?|Ja
+Nein|Es werden keine neuen Herstellungsprozesse
+eingeführt.||
 
 25 
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-|**#**|**Sicherheitsrelevante**<br>**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
+|**#**|**Sicherheitsrelevante**
+**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
 |---|---|---|---|---|
-|A.2.31|Ist die erfolgreiche<br>Anwendung des<br>Medizinproduktes von<br>der<br>Gebrauchstauglichkeit<br>der<br>Benutzerschnittstelle<br>anhängig?|Ja<br>Nein|Der Herzverschlussstopfen wird mit Hilfe einer<br>speziell<br>entwickelten<br>Herzverschlussstopfenzange eingesetzt. Diese<br>kann<br>als<br>Benutzerschnittstelle<br>angesehen<br>werden, wobei darauf zu achten ist, dass das<br>Design und die Ergonomik der Zange eine sichere<br>Anwendung ermöglichen.|Keine Gefährdung bezüglich der<br>Erstaufbereitung identifizierbar.|
-|A.2.31.<br>1|Können<br>Gestaltungsmerkmale<br>der<br>Benutzerschnittstelle zu<br>Anwendungsfehlern<br>beitragen?|Ja<br>Nein|Siehe A.2.31|Keine Gefährdung bezüglich der<br>Erstaufbereitung identifizierbar.|
-|A.2.31.<br>2|Wird das<br>Medizinprodukt in einer<br>Umgebung eingesetzt,<br>in der Ablenkungen zu<br>Bedienungsfehlern<br>führen können?|Ja<br>Nein|Der Herzverschlussstopfen wird im Rahmen einer<br>Operation am Herzen eingesetzt.|Inkorrekte Aufnahme des<br>Herzverschlussstopfens mit der Zange,<br>sowie inkorrektes/ungenaues Aufziehen<br>des O-Rings.<br>Keine Gefährdung bezüglich der<br>Erstaufbereitung identifizierbar.|
+|A.2.31|Ist die erfolgreiche
+Anwendung des
+Medizinproduktes von
+der
+Gebrauchstauglichkeit
+der
+Benutzerschnittstelle
+anhängig?|Ja
+Nein|Der Herzverschlussstopfen wird mit Hilfe einer
+speziell
+entwickelten
+Herzverschlussstopfenzange eingesetzt. Diese
+kann
+als
+Benutzerschnittstelle
+angesehen
+werden, wobei darauf zu achten ist, dass das
+Design und die Ergonomik der Zange eine sichere
+Anwendung ermöglichen.|Keine Gefährdung bezüglich der
+Erstaufbereitung identifizierbar.|
+|A.2.31.
+1|Können
+Gestaltungsmerkmale
+der
+Benutzerschnittstelle zu
+Anwendungsfehlern
+beitragen?|Ja
+Nein|Siehe A.2.31|Keine Gefährdung bezüglich der
+Erstaufbereitung identifizierbar.|
+|A.2.31.
+2|Wird das
+Medizinprodukt in einer
+Umgebung eingesetzt,
+in der Ablenkungen zu
+Bedienungsfehlern
+führen können?|Ja
+Nein|Der Herzverschlussstopfen wird im Rahmen einer
+Operation am Herzen eingesetzt.|Inkorrekte Aufnahme des
+Herzverschlussstopfens mit der Zange,
+sowie inkorrektes/ungenaues Aufziehen
+des O-Rings.
+Keine Gefährdung bezüglich der
+Erstaufbereitung identifizierbar.|
 
 26 
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-|**#**|**Sicherheitsrelevante**<br>**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
+|**#**|**Sicherheitsrelevante**
+**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
 |---|---|---|---|---|
-|A.2.31.<br>3|Verfügt das<br>Medizinprodukt über<br>eine Verbindungsteile<br>der Zubehör?|Ja<br>Nein|Das Medizinprodukt ist zur Gewährleistung der<br>Dichtigkeit (Verhinderung von Blutaustritt) über<br>einen<br>O-Ring<br>mit<br>dem<br>Sewing-Ring<br>der<br>Herzpumpe verbunden.|Der O-Ring wird im Prozess der<br>Aufbereitung beschädigt.<br>Der O-Ring wird beim Einsetzen<br>beschädigt.|
-|A.2.31.<br>4|Verfügt das<br>Medizinprodukt über<br>eine Schnittstelle zur<br>Steuerung?|Ja<br>Nein|Es<br>ist<br>keine<br>Schnittstelle<br>zur<br>Steuerung<br>vorhanden.||
-|A.2.31.<br>5|Zeigt das<br>Medizinprodukt<br>Informationen an?|Ja<br>Nein|Es werden keine Informationen angezeigt||
-|A.2.31.<br>6|Wird das<br>Medizinprodukt über<br>ein Menü gesteuert?|Ja<br>Nein|Es ist keine Steuerungsschnittstelle vorhanden||
+|A.2.31.
+3|Verfügt das
+Medizinprodukt über
+eine Verbindungsteile
+der Zubehör?|Ja
+Nein|Das Medizinprodukt ist zur Gewährleistung der
+Dichtigkeit (Verhinderung von Blutaustritt) über
+einen
+O-Ring
+mit
+dem
+Sewing-Ring
+der
+Herzpumpe verbunden.|Der O-Ring wird im Prozess der
+Aufbereitung beschädigt.
+Der O-Ring wird beim Einsetzen
+beschädigt.|
+|A.2.31.
+4|Verfügt das
+Medizinprodukt über
+eine Schnittstelle zur
+Steuerung?|Ja
+Nein|Es
+ist
+keine
+Schnittstelle
+zur
+Steuerung
+vorhanden.||
+|A.2.31.
+5|Zeigt das
+Medizinprodukt
+Informationen an?|Ja
+Nein|Es werden keine Informationen angezeigt||
+|A.2.31.
+6|Wird das
+Medizinprodukt über
+ein Menü gesteuert?|Ja
+Nein|Es ist keine Steuerungsschnittstelle vorhanden||
 
 27 
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-|**#**|**Sicherheitsrelevante**<br>**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
+|**#**|**Sicherheitsrelevante**
+**Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
 |---|---|---|---|---|
-|A.2.31.<br>7|Ist der erfolgreiche<br>Einsatz des<br>Medizinproduktes von<br>den Kenntnissen,<br>Fähigkeiten und<br>Fertigkeiten des<br>Benutzers abhängig?|Ja<br>Nein|Der Herzverschlussstopfen wird im Rahmen einer<br>Operation<br>am<br>Herzen<br>(Explantation<br>der<br>Herzpumpe)<br>eingesetzt.<br>Der<br>implantierende<br>Chirurg und das OP-Personal verfügen über die<br>nötige Sachkenntnis.|Keine Gefährdungen Hinsichtlich der<br>Erstaufbereitung.|
-|A.2.31.<br>8|Wird das Medizingerät<br>von Personen mit<br>besonderen<br>Bedürfnissen benutzt?|Ja<br>Nein|Siehe A.2.31.7||
-|A.2.31.<br>9|Kann die<br>Benutzerschnittstelle<br>benutzt werden, um<br>unautorisierte Aktionen<br>auszuführen?|Ja<br>Nein|Die<br>Herzverschlussstopfenzange<br>kann<br>als<br>Benutzerschnittstelle angesehen werden. Diese<br>ist<br>speziell<br>zur<br>Anwendung<br>mit<br>dem<br>Herzverschlussstopfen vorgesehen.|Fremdverwendung der<br>Herzverschlussstopfenzange, die nicht<br>mit dem vorgesehenen Nutzen vereinbar<br>ist.<br>Keine Gefährdung hinsichtlich der<br>Erstaufbereitung.|
-|A.2.32|Benutzt das<br>Medizinprodukt ein<br>Alarmsystem?|Ja<br>Nein|Es sind keine elektronischen Bauteile verbaut.||
+|A.2.31.
+7|Ist der erfolgreiche
+Einsatz des
+Medizinproduktes von
+den Kenntnissen,
+Fähigkeiten und
+Fertigkeiten des
+Benutzers abhängig?|Ja
+Nein|Der Herzverschlussstopfen wird im Rahmen einer
+Operation
+am
+Herzen
+(Explantation
+der
+Herzpumpe)
+eingesetzt.
+Der
+implantierende
+Chirurg und das OP-Personal verfügen über die
+nötige Sachkenntnis.|Keine Gefährdungen Hinsichtlich der
+Erstaufbereitung.|
+|A.2.31.
+8|Wird das Medizingerät
+von Personen mit
+besonderen
+Bedürfnissen benutzt?|Ja
+Nein|Siehe A.2.31.7||
+|A.2.31.
+9|Kann die
+Benutzerschnittstelle
+benutzt werden, um
+unautorisierte Aktionen
+auszuführen?|Ja
+Nein|Die
+Herzverschlussstopfenzange
+kann
+als
+Benutzerschnittstelle angesehen werden. Diese
+ist
+speziell
+zur
+Anwendung
+mit
+dem
+Herzverschlussstopfen vorgesehen.|Fremdverwendung der
+Herzverschlussstopfenzange, die nicht
+mit dem vorgesehenen Nutzen vereinbar
+ist.
+Keine Gefährdung hinsichtlich der
+Erstaufbereitung.|
+|A.2.32|Benutzt das
+Medizinprodukt ein
+Alarmsystem?|Ja
+Nein|Es sind keine elektronischen Bauteile verbaut.||
 
 28 
 
@@ -750,71 +1337,326 @@ Zur Identifizierung der möglichen Risiken, welche in Zusammenhang mit der Aufbe
 
 Die folgende Tabelle beschreibt die unterschiedlichen Prozessschritte und In-Prozess-Kontrollen denen Herzverschlussstopfen, O-Ringe und Herzverschlussstopfenzange bei der Aufbereitung unterzogen werden. Der Aufbereitungsprozess basiert auf der Risikoklassifizierung des RKI und der zuvor durchgeführten Risikoanalyse. Er wird als eigenständige Arbeitsanweisung in das Qualitätsmanagement des DHZB aufgenommen und dient gleichzeitig als Checkliste zur Prozessdokumentation. Zusammen mit den Chargenprotokollen von Reinigung/Desinfektion und Sterilisation wird die ausgefüllte und freigegeben 
 
-|**Prozess-**<br>**schritt**|**Beschreibung**<br>(Durchzuführen von geschultem Mitarbeiter mit FK2)|**In-Prozess-**<br>**Kontrolle**|**Schritt abgeschlossen**|
+|**Prozess-**
+**schritt**|**Beschreibung**
+(Durchzuführen von geschultem Mitarbeiter mit FK2)|**In-Prozess-**
+**Kontrolle**|**Schritt abgeschlossen**|
 |---|---|---|---|
-|**1**|**Unreine Seite: Beladen des RDG**<br>- Leercharge mit Sieben starten - Programm: Instrumente<br>- Prozesschemie: Neodisher MediClean Forte<br>1 Instrumentensieb<br>1 kleiner Siebkorb mit Deckel für die O-Ringe;<br>1 kleiner Siebkorb mit Deckel für die Stopfen mit den Maßen L x B x H<br>(HInnen): 20cm x 8cm x 3,5cm (3cm).<br>_AEMP AA-0005-1 Bestucken der RDG_|Programm<br>erfolgreich<br>durchlaufen?|**Ja**<br>Weiter mit Schritt**2**<br>**Nein**<br>Schritt 1 wiederholen|
-|**2**|**Unreine Seite: Wischdesinfektion**<br>- Wischdesinfektion der Primärverpackung von 2 Stopfen, Zange und<br>O-Ringen (Incidin Pro)<br>- In Schleuse oder Durchreiche positionieren<br>_AEMP AA-0023-1 Wischdesinfektion_|Durchgeführt?|**Ja**<br>Weiter mit Schritt**3**<br>**Nein**<br>Schritt 2 wiederholen|
+|**1**|**Unreine Seite: Beladen des RDG**
+- Leercharge mit Sieben starten - Programm: Instrumente
+- Prozesschemie: Neodisher MediClean Forte
+1 Instrumentensieb
+1 kleiner Siebkorb mit Deckel für die O-Ringe;
+1 kleiner Siebkorb mit Deckel für die Stopfen mit den Maßen L x B x H
+(HInnen): 20cm x 8cm x 3,5cm (3cm).
+_AEMP AA-0005-1 Bestucken der RDG_|Programm
+erfolgreich
+durchlaufen?|**Ja**
+Weiter mit Schritt**2**
+**Nein**
+Schritt 1 wiederholen|
+|**2**|**Unreine Seite: Wischdesinfektion**
+- Wischdesinfektion der Primärverpackung von 2 Stopfen, Zange und
+O-Ringen (Incidin Pro)
+- In Schleuse oder Durchreiche positionieren
+_AEMP AA-0023-1 Wischdesinfektion_|Durchgeführt?|**Ja**
+Weiter mit Schritt**3**
+**Nein**
+Schritt 2 wiederholen|
 
 34 
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-|**Prozess-**<br>**schritt**|**Beschreibung**<br>(Durchzuführen von geschultem Mitarbeiter mit FK2)|**In-Prozess-**<br>**Kontrolle**|**Schritt abgeschlossen**|
+|**Prozess-**
+**schritt**|**Beschreibung**
+(Durchzuführen von geschultem Mitarbeiter mit FK2)|**In-Prozess-**
+**Kontrolle**|**Schritt abgeschlossen**|
 |---|---|---|---|
-|**3**|**Reine Seite: Hygiene (1)**<br>- Anlegen persönliche Schutzausrüstung,<br>- Desinfektion Hände,<br>- Anlegen neuer Handschuhe,<br>- Desinfektion der Handschuhe<br>_Leitfaden zur Umsetzung der Abläufe im Bereich AEMP – Kapitel_<br>_5.1.4 – Hygieneplan „unreine und reine Seite“_<br>_AEMP AA-0028-1 Bereichskleidung Schutzkleidung_|Durchgeführt?|**Ja**<br>Weiter mit Schritt**4**<br>**Nein**<br>Schritt 3 wiederholen|
-|**4**|**Reine Seite: Hygiene (2)**<br>Kurz bevor RD-Prozess mit Leercharge abgeschlossen:<br>- Wischdesinfektion des Arbeitstisches mit Incidin Pro<br>_Leitfaden zur Umsetzung der Abläufe im Bereich AEMP – Kapitel 6.4_<br>_– Allgemeines zum Sortieren, Prüfen, Packen_<br>_AEMP AA-0023-1 Wischdesinfektion_|Durchgeführt?|**Ja**<br>Weiter mit Schritt**5**<br>**Nein**<br>Schritt 4 durchführen|
-|**5**|**Reine Seite: Vorbereitung Beladen**<br>Kurz bevor RD-Prozess mit Leercharge abgeschlossen:<br>- Transfer der Produkte (Stopfen, O-Ringe) in ihren desinfizierten<br>Primärverpackungen von der Schleuse auf den Arbeitstisch|Durchgeführt?|**Ja**<br>Weiter mit Schritt**6**<br>**Nein**<br>Schritt 5 durchführen|
-|**6**|**Reine Seite: Beladen des Siebes (1)**<br>- Entnahme von 2 Stopfen aus ihren Verpackungen. Mit der Öffnung<br>nach unten in dem dafür vorgesehenen Siebkorb platzieren.<br>- HeartMate-Stopfen zusätzlich mit maximal geöffneter Schelle in<br>Richtung der Schräge positionieren<br>- Der Siebkorb mit den Stopfen muss leicht schräg im Sieb positioniert<br>werden.|Stopfen steht<br>schräg?<br>Sinther stößt nicht<br>an<br>Siebabdeckung?|**Ja**<br>Weiter mit Schritt**7**<br>**Nein**<br>Korrekturen durchführen, dann<br>weiter mit Schritt 8|
+|**3**|**Reine Seite: Hygiene (1)**
+- Anlegen persönliche Schutzausrüstung,
+- Desinfektion Hände,
+- Anlegen neuer Handschuhe,
+- Desinfektion der Handschuhe
+_Leitfaden zur Umsetzung der Abläufe im Bereich AEMP – Kapitel_
+_5.1.4 – Hygieneplan „unreine und reine Seite“_
+_AEMP AA-0028-1 Bereichskleidung Schutzkleidung_|Durchgeführt?|**Ja**
+Weiter mit Schritt**4**
+**Nein**
+Schritt 3 wiederholen|
+|**4**|**Reine Seite: Hygiene (2)**
+Kurz bevor RD-Prozess mit Leercharge abgeschlossen:
+- Wischdesinfektion des Arbeitstisches mit Incidin Pro
+_Leitfaden zur Umsetzung der Abläufe im Bereich AEMP – Kapitel 6.4_
+_– Allgemeines zum Sortieren, Prüfen, Packen_
+_AEMP AA-0023-1 Wischdesinfektion_|Durchgeführt?|**Ja**
+Weiter mit Schritt**5**
+**Nein**
+Schritt 4 durchführen|
+|**5**|**Reine Seite: Vorbereitung Beladen**
+Kurz bevor RD-Prozess mit Leercharge abgeschlossen:
+- Transfer der Produkte (Stopfen, O-Ringe) in ihren desinfizierten
+Primärverpackungen von der Schleuse auf den Arbeitstisch|Durchgeführt?|**Ja**
+Weiter mit Schritt**6**
+**Nein**
+Schritt 5 durchführen|
+|**6**|**Reine Seite: Beladen des Siebes (1)**
+- Entnahme von 2 Stopfen aus ihren Verpackungen. Mit der Öffnung
+nach unten in dem dafür vorgesehenen Siebkorb platzieren.
+- HeartMate-Stopfen zusätzlich mit maximal geöffneter Schelle in
+Richtung der Schräge positionieren
+- Der Siebkorb mit den Stopfen muss leicht schräg im Sieb positioniert
+werden.|Stopfen steht
+schräg?
+Sinther stößt nicht
+an
+Siebabdeckung?|**Ja**
+Weiter mit Schritt**7**
+**Nein**
+Korrekturen durchführen, dann
+weiter mit Schritt 8|
 
 35 
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-|**Prozess-**<br>**schritt**|**Beschreibung**<br>(Durchzuführen von geschultem Mitarbeiter mit FK2)|**In-Prozess-**<br>**Kontrolle**|**Schritt abgeschlossen**|
+|**Prozess-**
+**schritt**|**Beschreibung**
+(Durchzuführen von geschultem Mitarbeiter mit FK2)|**In-Prozess-**
+**Kontrolle**|**Schritt abgeschlossen**|
 |---|---|---|---|
-|**7**|**Reine Seite: Beladen des Siebes (2)**<br>- Entnahme von zwei O-Ringen aus der Verpackung<br>- Prüfen der O-Ringe unter Lupenlampe auf Beschädigungen<br>- Platzieren in dem dafür vorgesehenen Siebkorb.<br>- Verschließen des Siebkorbes und platzieren im Instrumentensieb|2 O-Ringe ohne<br>Vorschaden<br>gewählt?<br>2 O-Ringe im<br>Siebkorb und<br>Siebkorb<br>verschlossen?<br>(O-Ringe dürfen<br>nicht herausfallen)|**Ja**<br>Weiter mit Schritt**8**<br>**Nein**<br>Korrekturen durchführen, dann<br>weiter mit Schritt 8|
-|**8**|**Reine Seite: Beladen des Siebes (3)**<br>- Öffnen der Zange auf zwischen 45° und 60°.<br>- HeartMate-Zange so weit wie möglich öffnen und<br>Spannmechanismus entspannen.<br>- Platzieren der Zange schräg und mit dem Maul nach oben im<br>Instrumentensieb.<br>- Innensechskant-Schlüssel (HeartMate-Stopfen, keine besondere<br>Anforderung)|Zange ausreichend<br>geöffnet?<br>Maul oben?|**Ja**<br>Weiter mit Schritt**9**<br>**Nein**<br>Korrekturen durchführen, dann<br>weiter mit Schritt 9|
-|**9**|**Reine Seite: Beladen des RDG**<br>- RDG von der reinen Seite mit dem befüllten Siebkorb beladen.<br>- Einbuchen in ASANUS Software (Unreine Seite)<br>- Programm: Instrumente ausführen (unreine Seite)<br>- Prozesschemie: Neodisher MediClean Forte<br>- Vorbereiten des Arbeitstisches für das Verpacken der desinfizierten<br>Güter zur Sterilisation<br>_AEMP AA-0041-1 Maschinelle Aufbereitung_<br>_AEMP AA-0005-1 Bestucken der RDG_|(I) RD-Prozess<br>erfolgreich<br>abgeschlossen<br>Instrumente<br>augenscheinlich<br>sauber<br>(II) Arbeitstisch für<br>das Verpacken<br>vorbereitet|**Ja**<br>Weiter mit Schritt**12**<br>**Nein**<br>(I) Weiter mit Schritt 10<br>(II) Vorbereitung durchführen|
+|**7**|**Reine Seite: Beladen des Siebes (2)**
+- Entnahme von zwei O-Ringen aus der Verpackung
+- Prüfen der O-Ringe unter Lupenlampe auf Beschädigungen
+- Platzieren in dem dafür vorgesehenen Siebkorb.
+- Verschließen des Siebkorbes und platzieren im Instrumentensieb|2 O-Ringe ohne
+Vorschaden
+gewählt?
+2 O-Ringe im
+Siebkorb und
+Siebkorb
+verschlossen?
+(O-Ringe dürfen
+nicht herausfallen)|**Ja**
+Weiter mit Schritt**8**
+**Nein**
+Korrekturen durchführen, dann
+weiter mit Schritt 8|
+|**8**|**Reine Seite: Beladen des Siebes (3)**
+- Öffnen der Zange auf zwischen 45° und 60°.
+- HeartMate-Zange so weit wie möglich öffnen und
+Spannmechanismus entspannen.
+- Platzieren der Zange schräg und mit dem Maul nach oben im
+Instrumentensieb.
+- Innensechskant-Schlüssel (HeartMate-Stopfen, keine besondere
+Anforderung)|Zange ausreichend
+geöffnet?
+Maul oben?|**Ja**
+Weiter mit Schritt**9**
+**Nein**
+Korrekturen durchführen, dann
+weiter mit Schritt 9|
+|**9**|**Reine Seite: Beladen des RDG**
+- RDG von der reinen Seite mit dem befüllten Siebkorb beladen.
+- Einbuchen in ASANUS Software (Unreine Seite)
+- Programm: Instrumente ausführen (unreine Seite)
+- Prozesschemie: Neodisher MediClean Forte
+- Vorbereiten des Arbeitstisches für das Verpacken der desinfizierten
+Güter zur Sterilisation
+_AEMP AA-0041-1 Maschinelle Aufbereitung_
+_AEMP AA-0005-1 Bestucken der RDG_|(I) RD-Prozess
+erfolgreich
+abgeschlossen
+Instrumente
+augenscheinlich
+sauber
+(II) Arbeitstisch für
+das Verpacken
+vorbereitet|**Ja**
+Weiter mit Schritt**12**
+**Nein**
+(I) Weiter mit Schritt 10
+(II) Vorbereitung durchführen|
 
 36 
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-|**Prozess-**<br>**schritt**|**Beschreibung**<br>(Durchzuführen von geschultem Mitarbeiter mit FK2)|**In-Prozess-**<br>**Kontrolle**|**Schritt abgeschlossen**|
+|**Prozess-**
+**schritt**|**Beschreibung**
+(Durchzuführen von geschultem Mitarbeiter mit FK2)|**In-Prozess-**
+**Kontrolle**|**Schritt abgeschlossen**|
 |---|---|---|---|
-|**(10)**|**RD-Prozess nicht erfolgreich:**<br>- Entladen des RDG auf der reinen Seite<br>Je nach Grund für den Abbruch:<br>(I) Sofortige Wiederholung von Schritt 9 auf demselben Gerät, oder<br>(II) Möglichst sofortige Wiederholung von Schritt 9 auf einem<br>nebenstehenden Gerät nach Leercharge (Verlassen der reinen Seite<br>in diesem Schritt nicht zulässig)<br>_AEMP AA-0002-1 Entnahme aus RDG_|RD-Prozess<br>erfolgreich<br>abgeschlossen|**Ja**<br>Weiter mit Schritt**12**<br>**Nein**<br>Falls weder (I) noch (II)<br>möglich –<br>Weiter mit Schritt 11|
-|**(11)**|**Reine Seite: Abbruch des Prozesses**<br>- Verpacken der Siebe in Transportcontainer<br>- Eindeutige Kennzeichnung: „Produkt zur Aufbereitung“<br>- Transport der Siebe in Container in anderen Aufbereitungsraum –<br>Reine Seite<br>(Standzeiten sind möglichst geringhalten)<br>- Leercharge im RDG fahren|Vollständig<br>durchgeführt?<br>RD-Prozess der<br>Leercharge<br>durchgeführt?|**Ja**<br>Weiter mit Schritt 9<br>**Nein**<br>Korrekturen durchführen, dann<br>weiter mit Schritt 9|
-|**12**|**Reine Seite: Hygiene**<br>- Anlegen persönliche Schutzausrüstung,<br>- Desinfektion Hände,<br>- Anlegen neuer Handschuhe,<br>- Desinfektion der Handschuhe<br>_Leitfaden zur Umsetzung der Abläufe im Bereich AEMP – Kapitel_<br>_5.1.4 – Hygieneplan „unreine und reine Seite“_<br>_AEMP AA-0028-1 Bereichskleidung Schutzkleidung_|Durchgeführt?|**Ja**<br>Weiter mit Schritt 13<br>**Nein**<br>Schritt 12 wiederholen|
+|**(10)**|**RD-Prozess nicht erfolgreich:**
+- Entladen des RDG auf der reinen Seite
+Je nach Grund für den Abbruch:
+(I) Sofortige Wiederholung von Schritt 9 auf demselben Gerät, oder
+(II) Möglichst sofortige Wiederholung von Schritt 9 auf einem
+nebenstehenden Gerät nach Leercharge (Verlassen der reinen Seite
+in diesem Schritt nicht zulässig)
+_AEMP AA-0002-1 Entnahme aus RDG_|RD-Prozess
+erfolgreich
+abgeschlossen|**Ja**
+Weiter mit Schritt**12**
+**Nein**
+Falls weder (I) noch (II)
+möglich –
+Weiter mit Schritt 11|
+|**(11)**|**Reine Seite: Abbruch des Prozesses**
+- Verpacken der Siebe in Transportcontainer
+- Eindeutige Kennzeichnung: „Produkt zur Aufbereitung“
+- Transport der Siebe in Container in anderen Aufbereitungsraum –
+Reine Seite
+(Standzeiten sind möglichst geringhalten)
+- Leercharge im RDG fahren|Vollständig
+durchgeführt?
+RD-Prozess der
+Leercharge
+durchgeführt?|**Ja**
+Weiter mit Schritt 9
+**Nein**
+Korrekturen durchführen, dann
+weiter mit Schritt 9|
+|**12**|**Reine Seite: Hygiene**
+- Anlegen persönliche Schutzausrüstung,
+- Desinfektion Hände,
+- Anlegen neuer Handschuhe,
+- Desinfektion der Handschuhe
+_Leitfaden zur Umsetzung der Abläufe im Bereich AEMP – Kapitel_
+_5.1.4 – Hygieneplan „unreine und reine Seite“_
+_AEMP AA-0028-1 Bereichskleidung Schutzkleidung_|Durchgeführt?|**Ja**
+Weiter mit Schritt 13
+**Nein**
+Schritt 12 wiederholen|
 
 37 
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-|**Prozess-**<br>**schritt**|**Beschreibung**<br>(Durchzuführen von geschultem Mitarbeiter mit FK2)|**In-Prozess-**<br>**Kontrolle**|**Schritt abgeschlossen**|
+|**Prozess-**
+**schritt**|**Beschreibung**
+(Durchzuführen von geschultem Mitarbeiter mit FK2)|**In-Prozess-**
+**Kontrolle**|**Schritt abgeschlossen**|
 |---|---|---|---|
-|**13**|**Reine Seite: Beenden des RD-Prozesses**<br>- Entnehmen des Instrumentensiebes<br>- Freigabe über ASANUS-Software<br>- Prüfen der Produkte auf Vollständigkeit der Trocknung sowie<br>sichtbare Partikel (Lupenlampe)<br>_AEMP AA-0002-1 Entnahme aus RDG_<br>_AEMP AA-0045-1 Reinigungs- und Funktionskontrolle der_<br>_Instrumentensets_<br>_AEMP AA-0007-1 Funktionskontrolle der Instrumente_|(I) Produkte<br>vollständig<br>trocken?<br>(II) Produkte frei<br>von sichtbaren<br>Partikeln?<br>Chargenprotokoll<br>ausgedruckt?|**Ja**<br>Weiter mit Schritt**14**<br>**Nein**<br>(I) Nachtrocknen mit Druckluft,<br>dann weiter mit Schritt 14<br>(II) Wiederholen der Aufreinigung<br>beginnend mit Schritt 1|
-|**14**|**Reine Seite: Verpacken für Sterilisation**<br>- Stopfen (2x), O-Ringe (2x, jeweils in einer Pouch verschweißt) und<br>Zange in Siebkorb legen. (Zzgl. Innenechskantschlüssel für<br>HeartMate3)<br>- Siebkorb für die Sterilisation 1x in Sterilisationsflies einschlagen<br>(Pasteur‘sche Schleife)<br>- Packen in ¼ STE Container mit Einmal-Bakterienfilter<br>_AEMP AA-0042-1 Packen von Instrumentensets_<br>_AEMP AA-0022-1 Weichverpackung_<br>_AEMP AA-0015-1 Verpacken und Kennzeichnen der_<br>_Instrumentensiebe_|Produkt-Set<br>vollständig?<br>2 O-Ringe in<br>jeweils einer Pouch<br>(verschweißt)?<br>Sieb 1x mit<br>Pasteur’scher<br>Schleife<br>eingeschlagen?<br>Beschriftung<br>korrekt?|**Ja**<br>Weiter mit Schritt**15**<br>**Nein**<br>Korrekturen durchführen, dann<br>weiter mit Schritt 15|
+|**13**|**Reine Seite: Beenden des RD-Prozesses**
+- Entnehmen des Instrumentensiebes
+- Freigabe über ASANUS-Software
+- Prüfen der Produkte auf Vollständigkeit der Trocknung sowie
+sichtbare Partikel (Lupenlampe)
+_AEMP AA-0002-1 Entnahme aus RDG_
+_AEMP AA-0045-1 Reinigungs- und Funktionskontrolle der_
+_Instrumentensets_
+_AEMP AA-0007-1 Funktionskontrolle der Instrumente_|(I) Produkte
+vollständig
+trocken?
+(II) Produkte frei
+von sichtbaren
+Partikeln?
+Chargenprotokoll
+ausgedruckt?|**Ja**
+Weiter mit Schritt**14**
+**Nein**
+(I) Nachtrocknen mit Druckluft,
+dann weiter mit Schritt 14
+(II) Wiederholen der Aufreinigung
+beginnend mit Schritt 1|
+|**14**|**Reine Seite: Verpacken für Sterilisation**
+- Stopfen (2x), O-Ringe (2x, jeweils in einer Pouch verschweißt) und
+Zange in Siebkorb legen. (Zzgl. Innenechskantschlüssel für
+HeartMate3)
+- Siebkorb für die Sterilisation 1x in Sterilisationsflies einschlagen
+(Pasteur‘sche Schleife)
+- Packen in ¼ STE Container mit Einmal-Bakterienfilter
+_AEMP AA-0042-1 Packen von Instrumentensets_
+_AEMP AA-0022-1 Weichverpackung_
+_AEMP AA-0015-1 Verpacken und Kennzeichnen der_
+_Instrumentensiebe_|Produkt-Set
+vollständig?
+2 O-Ringe in
+jeweils einer Pouch
+(verschweißt)?
+Sieb 1x mit
+Pasteur’scher
+Schleife
+eingeschlagen?
+Beschriftung
+korrekt?|**Ja**
+Weiter mit Schritt**15**
+**Nein**
+Korrekturen durchführen, dann
+weiter mit Schritt 15|
 
 38 
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-|**Prozess-**<br>**schritt**|**Beschreibung**<br>(Durchzuführen von geschultem Mitarbeiter mit FK2)|**In-Prozess-**<br>**Kontrolle**|**Schritt abgeschlossen**|
+|**Prozess-**
+**schritt**|**Beschreibung**
+(Durchzuführen von geschultem Mitarbeiter mit FK2)|**In-Prozess-**
+**Kontrolle**|**Schritt abgeschlossen**|
 |---|---|---|---|
-|**15**|**Sterilisation:**<br>- Übergabe an die Sterilisation<br>- Erfassung via ASANUS - Software<br>- Positionierung in der obersten Containerlage<br>- Dampfsterilisation bei 134°C mit Prozessüberwachungssystem<br>(Dampfdurchdringung, Chemischer Indikator Klasse 6)<br>_AEMP AA-0019-1 Chargenvorbereitung und Beladen des Sterilisators_<br>_AEMP AA-0020-1 Sterilisation_<br>_AEMP AA-0048-1 Siebkontrolle_<br>_AEMP AA-0024-1 Routinekontrollen bei den_<br>_Dampfsterilisationsprozessen_|Sterilisationsgut in<br>oberster<br>Containerlage?<br>Sterilisation<br>erfolgreich?<br>(Indikator prüfen)<br>Chargenprotokoll<br>ausgedruckt?|**Ja**<br>Weiter mit Schritt 17<br>**Nein**<br>Schritt 15 wiederholen|
-|**(16)**|**Sterilisation nicht erfolgreich:**<br>Je nach Grund für den Abbruch:<br>(I) Sofortige Wiederholung von Schritt 15 auf demselben Gerät, oder<br>(II) Möglichst sofortige Wiederholung von Schritt 15 auf einem<br>nebenstehenden Gerät.|Sterilisation<br>erfolgreich<br>abgeschlossen|**Ja**<br>Weiter mit Schritt**17**<br>**Nein**<br> **Abbruch des Prozesses und**<br>**Mitteilung an die Leitung AEMP**|
+|**15**|**Sterilisation:**
+- Übergabe an die Sterilisation
+- Erfassung via ASANUS - Software
+- Positionierung in der obersten Containerlage
+- Dampfsterilisation bei 134°C mit Prozessüberwachungssystem
+(Dampfdurchdringung, Chemischer Indikator Klasse 6)
+_AEMP AA-0019-1 Chargenvorbereitung und Beladen des Sterilisators_
+_AEMP AA-0020-1 Sterilisation_
+_AEMP AA-0048-1 Siebkontrolle_
+_AEMP AA-0024-1 Routinekontrollen bei den_
+_Dampfsterilisationsprozessen_|Sterilisationsgut in
+oberster
+Containerlage?
+Sterilisation
+erfolgreich?
+(Indikator prüfen)
+Chargenprotokoll
+ausgedruckt?|**Ja**
+Weiter mit Schritt 17
+**Nein**
+Schritt 15 wiederholen|
+|**(16)**|**Sterilisation nicht erfolgreich:**
+Je nach Grund für den Abbruch:
+(I) Sofortige Wiederholung von Schritt 15 auf demselben Gerät, oder
+(II) Möglichst sofortige Wiederholung von Schritt 15 auf einem
+nebenstehenden Gerät.|Sterilisation
+erfolgreich
+abgeschlossen|**Ja**
+Weiter mit Schritt**17**
+**Nein**
+ **Abbruch des Prozesses und**
+**Mitteilung an die Leitung AEMP**|
 
 39 
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-|**Prozess-**<br>**schritt**|**Beschreibung**<br>(Durchzuführen von geschultem Mitarbeiter mit FK2)|**Beschreibung**<br>(Durchzuführen von geschultem Mitarbeiter mit FK2)|**Beschreibung**<br>(Durchzuführen von geschultem Mitarbeiter mit FK2)|**In-Prozess-**<br>**Kontrolle**|**Schritt abgeschlossen**|
+|**Prozess-**
+**schritt**|**Beschreibung**
+(Durchzuführen von geschultem Mitarbeiter mit FK2)|**Beschreibung**
+(Durchzuführen von geschultem Mitarbeiter mit FK2)|**Beschreibung**
+(Durchzuführen von geschultem Mitarbeiter mit FK2)|**In-Prozess-**
+**Kontrolle**|**Schritt abgeschlossen**|
 |---|---|---|---|---|---|
-|**17**|**Abschluss der Sterilisation:**<br>- Übergabe an den OP<br>- Außerdem Übergabe von: (I) Chargenfreigabeprotokolle in Kopie,<br>überprüft und freigegeben<br>Stellvertreter<br>- Ausgefüllter und ebenso freigegeben<br>Dokument)|||Sind die<br>Chargenprotokolle<br>vorhanden und<br>freigegeben<br>Ist die|**Ende des Prozesses**<br>**Chargenfreigabeprotokolle und den**|
+|**17**|**Abschluss der Sterilisation:**
+- Übergabe an den OP
+- Außerdem Übergabe von: (I) Chargenfreigabeprotokolle in Kopie,
+überprüft und freigegeben
+Stellvertreter
+- Ausgefüllter und ebenso freigegeben
+Dokument)|||Sind die
+Chargenprotokolle
+vorhanden und
+freigegeben
+Ist die|**Ende des Prozesses**
+**Chargenfreigabeprotokolle und den**|
 |||||||
 |||||||
 |||||||
-|||||freigegeben<br>Annahme durch<br>den OP||
+|||||freigegeben
+Annahme durch
+den OP||
 
 40 
 
@@ -896,20 +1738,24 @@ Grundsätzlich:
 
 Striktes Einhalten der **Händehygiene** nach den 5 Indikationen des WHO-Modells. Berücksichtigung des aktuellen Hygieneleitfaden! 
 
-||**Beschreibung**<br>|||
+||**Beschreibung**
+|||
 |---|---|---|---|
 |**Prozess-**||**In-Prozess-**||
 ||||**Schritt abgeschlossen**|
 |**schritt**|(durchzuführen von geschultem Mitarbeiter mit|**Kontrolle**||
 ||mindestens FK2)|||
 |||||
-||**Unreine Seite: Beladen des RDG**||**Ja**<br>Weiter mit Schritt**2**<br>**Nein** Schritt 1 wiederholen|
+||**Unreine Seite: Beladen des RDG**||**Ja**
+Weiter mit Schritt**2**
+**Nein** Schritt 1 wiederholen|
 ||- Leercharge mit Sieben starten -|||
 ||Programm: Instrumente|||
 ||Prozesschemie: Neodisher MediClean Forte|||
 |||||
 |||Programm||
-||1 Instrumentensieb<br>1 kleiner Siebkorb mit Deckel für die O-|||
+||1 Instrumentensieb
+1 kleiner Siebkorb mit Deckel für die O-|||
 |**1**||erfolgreich||
 |||durchlaufen?||
 ||Ringe;|||
@@ -918,50 +1764,169 @@ Striktes Einhalten der **Händehygiene** nach den 5 Indikationen des WHO-Modells
 ||Stopfen mit den Maßen L x B x H (HInnen):|||
 ||20cm x 8cm x 3,5cm (3cm).|||
 |||||
-|**2**|**Unreine Seite: Wischdesinfektion**<br>- Wischdesinfektion der Primärverpackung<br>von 2 Stopfen, Zange und O-Ringen<br>(Incidin Pro)<br>- In Schleuse oder Durchreiche<br>positionieren|Durchgeführt?|**Ja**<br>Weiter mit Schritt**3**<br>**Nein** Schritt 2 wiederholen|
-||**Reine Seite: Hygiene (1)**||**Ja**<br>Weiter mit Schritt**4**<br>**Nein** Schritt 3 wiederholen|
+|**2**|**Unreine Seite: Wischdesinfektion**
+- Wischdesinfektion der Primärverpackung
+von 2 Stopfen, Zange und O-Ringen
+(Incidin Pro)
+- In Schleuse oder Durchreiche
+positionieren|Durchgeführt?|**Ja**
+Weiter mit Schritt**3**
+**Nein** Schritt 2 wiederholen|
+||**Reine Seite: Hygiene (1)**||**Ja**
+Weiter mit Schritt**4**
+**Nein** Schritt 3 wiederholen|
 ||- Anlegen persönliche Schutzausrüstung,|||
-||- Desinfektion Hände,<br>- Anlegen neuer Handschuhe,|||
+||- Desinfektion Hände,
+- Anlegen neuer Handschuhe,|||
 |**3**||Durchgeführt?||
 |||||
 ||- Desinfektion der Handschuhe|||
 |||||
-|**4**|**Reine Seite: Hygiene (2)**<br>Kurz bevor RD-Prozess mit Leercharge<br>abgeschlossen:<br>- Wischdesinfektion des Arbeitstisches mit<br>Descosept sensitiv|Durchgeführt?|**Ja**<br>Weiter mit Schritt**5**<br>**Nein** Schritt 4 durchführen|
+|**4**|**Reine Seite: Hygiene (2)**
+Kurz bevor RD-Prozess mit Leercharge
+abgeschlossen:
+- Wischdesinfektion des Arbeitstisches mit
+Descosept sensitiv|Durchgeführt?|**Ja**
+Weiter mit Schritt**5**
+**Nein** Schritt 4 durchführen|
 
 Erstellt: Hiestermann, K. Kelterborn, K. QB 3.0 05.03.2025 
 
 ## **ARBEITSANWEISUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-Prozess- Beschreibung In-Prozess-<br>(durchzuführen von geschultem Mitarbeiter mit  Schritt abgeschlossen<br>schritt  Kontrolle<br>mindestens FK2)<br>Reine Seite: Vorbereitung Beladen<br>Kurz bevor RD-Prozess mit Leercharge<br>abgeschlossen:  Ja   Weiter mit Schritt  6<br>5  Durchgeführt?<br>- Transfer der Produkte (Stopfen, O-Ringe)   Nein  Schritt 5 durchführen<br>in ihren desinfizierten Primärverpackungen<br>von der Schleuse auf den Arbeitstisch<br>Reine Seite: Beladen des Siebes (1)<br>- Entnahme von 2 Stopfen aus ihren<br>Verpackungen. Mit der Öffnung nach unten<br>in dem dafür vorgesehenen Siebkorb<br>Stopfen steht schräg?   Ja   Weiter mit Schritt  7<br>platzieren<br>6  Sinther stößt nicht an   Nein  Korrekturen durchführen,<br>- HeartMate-Stopfen zusätzlich mit maximal<br>Siebabdeckung?  dann weiter mit Schritt 8<br>geöffneter Schelle in Richtung der Schräge<br>positionieren<br>- Der Siebkorb mit den Stopfen muss leicht<br>schräg im Sieb positioniert werden<br>Reine Seite: Beladen des Siebes (2)<br>2 O-Ringe ohne<br>- Entnahme von zwei O-Ringen aus der<br>Vorschaden gewählt?<br>Verpackung<br>2 O-Ringe im<br>- Prüfen der O-Ringe unter der Lupenlampe   Ja   Weiter mit Schritt  8<br>Siebkorb und<br>7  auf Beschädigungen   Nein  Korrekturen durchführen,<br>Siebkorb<br>- Platzieren in dem dafür vorgesehenen  dann weiter mit Schritt 8<br>verschlossen?<br>Siebkorb<br>(O-Ringe dürfen nicht<br>- Verschließen des Siebkorbes und<br>herausfallen)<br>platzieren im Instrumentensieb<br>Reine Seite: Beladen des Siebes (3)<br>- Öffnen der Zange auf zwischen 45° und<br>60°.  Zange ausreichend   Ja   Weiter mit Schritt  9<br>8  - HeartMate-Zange so weit wie möglich  geöffnet?   Nein  Korrekturen durchführen,<br>öffnen und Spannmechanismus entspannen  Maul oben?  dann weiter mit Schritt 9<br>- Platzieren der Zange schräg und mit dem<br>Maul nach oben im Instrumentensieb<br>Reine Seite: Beladen des RDG<br>- RDG von der reinen Seite mit dem<br>(I) RD-Prozess<br>befüllten Siebkorb beladen.<br>erfolgreich<br>- Einbuchen in ASANUS-Software (Unreine<br>abgeschlossen<br>Seite)   Ja   Weiter mit Schritt  12<br>Instrumente<br>- Programm: Instrumente ausführen   Nein  (I) Weiter mit Schritt 10<br>9  augenscheinlich<br>(unreine Seite)  (II) Vorbereitung<br>sauber<br>- Prozesschemie: Neodisher MediClean  durchführen<br>(II) Arbeitstisch für<br>Forte<br>das Verpacken<br>- Vorbereiten des Arbeitstisches für das<br>vorbereitet<br>Verpacken der desinfizierten Güter zur<br>Sterilisation<br>**----- End of picture text -----**<br>
+Prozess- Beschreibung In-Prozess-
+(durchzuführen von geschultem Mitarbeiter mit  Schritt abgeschlossen
+schritt  Kontrolle
+mindestens FK2)
+Reine Seite: Vorbereitung Beladen
+Kurz bevor RD-Prozess mit Leercharge
+abgeschlossen:  Ja   Weiter mit Schritt  6
+5  Durchgeführt?
+- Transfer der Produkte (Stopfen, O-Ringe)   Nein  Schritt 5 durchführen
+in ihren desinfizierten Primärverpackungen
+von der Schleuse auf den Arbeitstisch
+Reine Seite: Beladen des Siebes (1)
+- Entnahme von 2 Stopfen aus ihren
+Verpackungen. Mit der Öffnung nach unten
+in dem dafür vorgesehenen Siebkorb
+Stopfen steht schräg?   Ja   Weiter mit Schritt  7
+platzieren
+6  Sinther stößt nicht an   Nein  Korrekturen durchführen,
+- HeartMate-Stopfen zusätzlich mit maximal
+Siebabdeckung?  dann weiter mit Schritt 8
+geöffneter Schelle in Richtung der Schräge
+positionieren
+- Der Siebkorb mit den Stopfen muss leicht
+schräg im Sieb positioniert werden
+Reine Seite: Beladen des Siebes (2)
+2 O-Ringe ohne
+- Entnahme von zwei O-Ringen aus der
+Vorschaden gewählt?
+Verpackung
+2 O-Ringe im
+- Prüfen der O-Ringe unter der Lupenlampe   Ja   Weiter mit Schritt  8
+Siebkorb und
+7  auf Beschädigungen   Nein  Korrekturen durchführen,
+Siebkorb
+- Platzieren in dem dafür vorgesehenen  dann weiter mit Schritt 8
+verschlossen?
+Siebkorb
+(O-Ringe dürfen nicht
+- Verschließen des Siebkorbes und
+herausfallen)
+platzieren im Instrumentensieb
+Reine Seite: Beladen des Siebes (3)
+- Öffnen der Zange auf zwischen 45° und
+60°.  Zange ausreichend   Ja   Weiter mit Schritt  9
+8  - HeartMate-Zange so weit wie möglich  geöffnet?   Nein  Korrekturen durchführen,
+öffnen und Spannmechanismus entspannen  Maul oben?  dann weiter mit Schritt 9
+- Platzieren der Zange schräg und mit dem
+Maul nach oben im Instrumentensieb
+Reine Seite: Beladen des RDG
+- RDG von der reinen Seite mit dem
+(I) RD-Prozess
+befüllten Siebkorb beladen.
+erfolgreich
+- Einbuchen in ASANUS-Software (Unreine
+abgeschlossen
+Seite)   Ja   Weiter mit Schritt  12
+Instrumente
+- Programm: Instrumente ausführen   Nein  (I) Weiter mit Schritt 10
+9  augenscheinlich
+(unreine Seite)  (II) Vorbereitung
+sauber
+- Prozesschemie: Neodisher MediClean  durchführen
+(II) Arbeitstisch für
+Forte
+das Verpacken
+- Vorbereiten des Arbeitstisches für das
+vorbereitet
+Verpacken der desinfizierten Güter zur
+Sterilisation
+**----- End of picture text -----**
+
 
 Erstellt: Hiestermann, K. Kelterborn, K. QB 3.0 05.03.2025 
 
 ## **ARBEITSANWEISUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-||**Beschreibung**<br>|**In-Prozess-**<br>**Kontrolle**<br>**Schritt abgeschlossen**|**In-Prozess-**<br>**Kontrolle**<br>**Schritt abgeschlossen**|
+||**Beschreibung**
+|**In-Prozess-**
+**Kontrolle**
+**Schritt abgeschlossen**|**In-Prozess-**
+**Kontrolle**
+**Schritt abgeschlossen**|
 |---|---|---|---|
 |**Prozess-**||||
 |**schritt**|(durchzuführen von geschultem Mitarbeiter mit|||
 ||mindestens FK2)|||
 |||||
-|**(10)**|**RD-Prozess nicht erfolgreich:**<br>- Entladen des RDG auf der reinen Seite<br>Je nach Grund für den Abbruch:<br>(I) Sofortige Wiederholung von Schritt 9 auf<br>demselben Gerät, oder<br>(II) Möglichst sofortige Wiederholung von<br>Schritt 9 auf einem nebenstehenden Gerät<br>nach Leercharge (Verlassen der reinen Seite<br>in diesem Schritt nicht zulässig)|RD-Prozess<br>erfolgreich<br>abgeschlossen|**Ja**<br>Weiter mit Schritt**12**<br>**Nein** Falls weder (I) noch (II)<br>möglich – Weiter mit Schritt 11|
-||**Reine Seite: Abbruch des Prozesses**||**Ja**<br>Weiter mit Schritt 9<br>**Nein** Korrekturen durchführen,|
+|**(10)**|**RD-Prozess nicht erfolgreich:**
+- Entladen des RDG auf der reinen Seite
+Je nach Grund für den Abbruch:
+(I) Sofortige Wiederholung von Schritt 9 auf
+demselben Gerät, oder
+(II) Möglichst sofortige Wiederholung von
+Schritt 9 auf einem nebenstehenden Gerät
+nach Leercharge (Verlassen der reinen Seite
+in diesem Schritt nicht zulässig)|RD-Prozess
+erfolgreich
+abgeschlossen|**Ja**
+Weiter mit Schritt**12**
+**Nein** Falls weder (I) noch (II)
+möglich – Weiter mit Schritt 11|
+||**Reine Seite: Abbruch des Prozesses**||**Ja**
+Weiter mit Schritt 9
+**Nein** Korrekturen durchführen,|
 ||- Verpacken der Siebe in|||
 ||Transportcontainer|Vollständig||
-||- Eindeutige Kennzeichnung: „Produkt zur<br>Aufbereitung“|durchgeführt?<br>RD-Prozess der||
+||- Eindeutige Kennzeichnung: „Produkt zur
+Aufbereitung“|durchgeführt?
+RD-Prozess der||
 |**(11)**||||
 ||- Transport der Siebe in Container in|Leercharge|dann weiter mit Schritt 9|
 ||anderen Aufbereitungsraum – Reine Seite|durchgeführt?||
 ||(Standzeiten sind möglichst geringhalten)|||
 ||- Leercharge im RDG fahren|||
-|**12**|**Reine Seite: Hygiene**<br>- Anlegen persönliche Schutzausrüstung,<br>- Desinfektion Hände,<br>- Anlegen neuer Handschuhe,<br>- Desinfektion der Handschuhe|Durchgeführt?|**Ja**<br>Weiter mit Schritt 13<br>**Nein** Schritt 12 wiederholen|
-||**Reine Seite: Beenden des RD-Prozesses**||**Ja**<br>Weiter mit Schritt**14**<br>**Nein** (I) Nachtrocknen mit|
+|**12**|**Reine Seite: Hygiene**
+- Anlegen persönliche Schutzausrüstung,
+- Desinfektion Hände,
+- Anlegen neuer Handschuhe,
+- Desinfektion der Handschuhe|Durchgeführt?|**Ja**
+Weiter mit Schritt 13
+**Nein** Schritt 12 wiederholen|
+||**Reine Seite: Beenden des RD-Prozesses**||**Ja**
+Weiter mit Schritt**14**
+**Nein** (I) Nachtrocknen mit|
 |||(I) Produkte||
-||- Entnehmen des Instrumentensiebes<br>- Freigabe über ASANUS-Software|||
+||- Entnehmen des Instrumentensiebes
+- Freigabe über ASANUS-Software|||
 |||vollständig trocken?||
 |||||
 |||(II) Produkte frei von||
-|**13**|<br>- Prüfen der Produkte auf Vollständigkeit||<br>Druckluft, dann weiter mit Schritt 14|
+|**13**|
+- Prüfen der Produkte auf Vollständigkeit||
+Druckluft, dann weiter mit Schritt 14|
 |||sichtbaren Partikeln?||
 ||der Trocknung sowie sichtbare Partikel||(II) Wiederholen der Aufreinigung|
 |||Chargenprotokoll||
@@ -969,24 +1934,51 @@ Erstellt: Hiestermann, K. Kelterborn, K. QB 3.0 05.03.2025
 |||ausgedruckt?||
 |||||
 |||||
-|**14**|**Reine Seite: Verpacken für Sterilisation**<br>- Stopfen (2x), O-Ringe (2x, jeweils in einer<br>Pouch verschweißt) und Zange in Siebkorb<br>legen.<br>- Siebkorb für die Sterilisation 1x in<br>Sterilisationsflies einschlagen (Pasteur‘sche<br>Schleife)<br>- Packen in ¼ STE Container mit Einmal-<br>Bakterienfilter|Produkt-Set<br>vollständig?<br>2 O-Ringe in jeweils<br>einer Pouch<br>(verschweißt)?<br>Sieb 1x mit<br>Pasteur’scher<br>Schleife<br>eingeschlagen?<br>Beschriftung korrekt?|**Ja**<br>Weiter mit Schritt**15**<br>**Nein** Korrekturen durchführen,<br>dann weiter mit Schritt 15|
+|**14**|**Reine Seite: Verpacken für Sterilisation**
+- Stopfen (2x), O-Ringe (2x, jeweils in einer
+Pouch verschweißt) und Zange in Siebkorb
+legen.
+- Siebkorb für die Sterilisation 1x in
+Sterilisationsflies einschlagen (Pasteur‘sche
+Schleife)
+- Packen in ¼ STE Container mit Einmal-
+Bakterienfilter|Produkt-Set
+vollständig?
+2 O-Ringe in jeweils
+einer Pouch
+(verschweißt)?
+Sieb 1x mit
+Pasteur’scher
+Schleife
+eingeschlagen?
+Beschriftung korrekt?|**Ja**
+Weiter mit Schritt**15**
+**Nein** Korrekturen durchführen,
+dann weiter mit Schritt 15|
 
 Erstellt: Hiestermann, K. Kelterborn, K. QB 3.0 05.03.2025 
 
 ## **ARBEITSANWEISUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-||**Beschreibung**<br>|**Beschreibung**<br>|**Beschreibung**<br>|||||||
+||**Beschreibung**
+|**Beschreibung**
+|**Beschreibung**
+|||||||
 |---|---|---|---|---|---|---|---|---|---|
 |**Prozess-**||||**In-Prozess-**||||||
 ||||||||**Schritt abgeschlossen**|||
 |**schritt**|(durchzuführen von geschultem Mitarbeiter mit|||**Kontrolle**||||||
 ||mindestens FK2)|||||||||
 |||||||||||
-||**Sterilisation:**||||||**Ja**<br>Weiter mit Schritt 17<br>**Nein** Schritt 15 wiederholen|||
+||**Sterilisation:**||||||**Ja**
+Weiter mit Schritt 17
+**Nein** Schritt 15 wiederholen|||
 ||- Übergabe an die Sterilisation|||Sterilisationsgut in||||||
 ||- Erfassung via ASANUS-Software|||oberster||||||
 ||- Positionierung in der obersten|||Containerlage?||||||
-||Containerlage<br>- Dampfsterilisation bei 134°C mit|||Sterilisation<br>erfolgreich?||||||
+||Containerlage
+- Dampfsterilisation bei 134°C mit|||Sterilisation
+erfolgreich?||||||
 |**15**||||||||||
 |||||||||||
 |||||||||||
@@ -994,7 +1986,18 @@ Erstellt: Hiestermann, K. Kelterborn, K. QB 3.0 05.03.2025
 ||(Dampfdurchdringung, Chemischer|||Chargenprotokoll||||||
 ||Indikator Klasse 6)|||ausgedruckt?||||||
 |||||||||||
-|**(16)**|**Sterilisation nicht erfolgreich:**<br>Je nach Grund für den Abbruch:<br>(I) Sofortige Wiederholung von Schritt 15<br>auf demselben Gerät, oder<br>(II) Möglichst sofortige Wiederholung von<br>Schritt 15 auf einem nebenstehenden<br>Gerät.|||Sterilisation<br>erfolgreich<br>abgeschlossen|||**Ja**<br>Weiter mit Schritt**17**<br>**Nein** **Abbruch des Prozesses**<br>**und Mitteilung an die Leitung AEMP**|||
+|**(16)**|**Sterilisation nicht erfolgreich:**
+Je nach Grund für den Abbruch:
+(I) Sofortige Wiederholung von Schritt 15
+auf demselben Gerät, oder
+(II) Möglichst sofortige Wiederholung von
+Schritt 15 auf einem nebenstehenden
+Gerät.|||Sterilisation
+erfolgreich
+abgeschlossen|||**Ja**
+Weiter mit Schritt**17**
+**Nein** **Abbruch des Prozesses**
+**und Mitteilung an die Leitung AEMP**|||
 |||||Sind die||||||
 ||**Abschluss der Sterilisation:**|||Chargenprotokolle||||||
 ||- Übergabe an den OP|||vorhanden und|||**Ende des Prozesses**|||

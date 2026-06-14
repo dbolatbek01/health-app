@@ -253,7 +253,10 @@ ZVA Charité Patienteneigentum
 |**Obere Ablagefläche**|Defibrillator (an Netzstrom konnektiert)|
 |---|---|
 |||
-|**Untere Ablagefläche**|In blauer Schütte:<br>_Hände_desinfektionsmittel<br>_Haut_desinfektionsmittel (Sprühaufsatz)<br>Monatsaktuelle Prüfliste (Anhang 2)|
+|**Untere Ablagefläche**|In blauer Schütte:
+_Hände_desinfektionsmittel
+_Haut_desinfektionsmittel (Sprühaufsatz)
+Monatsaktuelle Prüfliste (Anhang 2)|
 |||
 |||
 |**Seite links, oberes Fach**|Je 1 x Beatmungsmasken in den Größen 3, 4 und 5|
@@ -263,13 +266,22 @@ ZVA Charité Patienteneigentum
 |||
 |**Schublade 1**|2x Defi-Pads Erwachsene|
 |||
-|**Schublade 2**|Je 1x Trachealtuben Gr. 6,0 bis 8,0<br>2x Führungsstäbe|
+|**Schublade 2**|Je 1x Trachealtuben Gr. 6,0 bis 8,0
+2x Führungsstäbe|
 |||
-|**Schublade 3**|2 x Laryngoskopgriffe<br>je 1 x Macintosh-Spatel Gr. 3 und 4<br>je 1 x Guedeltubus Gr. 3 (gelb) und 4 (rot)<br>je 1 x Wendeltuben Gr. 24 und 26<br>1 x Cuffdruckmessgerät<br>1 x Magillzange|
+|**Schublade 3**|2 x Laryngoskopgriffe
+je 1 x Macintosh-Spatel Gr. 3 und 4
+je 1 x Guedeltubus Gr. 3 (gelb) und 4 (rot)
+je 1 x Wendeltuben Gr. 24 und 26
+1 x Cuffdruckmessgerät
+1 x Magillzange|
 |||
 |**Schublade 4**|Je 1 x Larynxmasken #3, 4 und 5|
 |||
-|**Schublade 5**|1 x Einführbesteck 6 F<br>1 x Einschwemmpacer<br>2 x Paceraggregat Osypka®<br>2 x Ersatzbatterien (9V-Block)|
+|**Schublade 5**|1 x Einführbesteck 6 F
+1 x Einschwemmpacer
+2 x Paceraggregat Osypka®
+2 x Ersatzbatterien (9V-Block)|
 |||
 |||
 |**Rückseite**|O2-Flasche|

@@ -11,7 +11,10 @@ Thoraxdrainagen
 
 Standorte CVK, Paulinenkrankenhaus Klinik für Kardioanästhesiologie und Intensivmedizin Klinik für Herz-, Thorax- und Gefäßchirurgie CISORM-Team 
 
-Version  Freigabe  Erstellung  Prüfung  Freigabe  Wiedervorlage<br>Krukenkamp, S.<br>**----- End of picture text -----**<br>
+Version  Freigabe  Erstellung  Prüfung  Freigabe  Wiedervorlage
+Krukenkamp, S.
+**----- End of picture text -----**
+
 
 ## **Inhaltsverzeichnis** 
 

@@ -9,7 +9,8 @@ Klinik für Kardioanästhesiologie und Intensivmedizin
 
 |**Änderungshistorie**|||||
 |---|---|---|---|---|
-|**Version**<br>**Freigabe**|**Erstellung**|**Prüfung**|**Freigabe**|**Wiedervorlage**|
+|**Version**
+**Freigabe**|**Erstellung**|**Prüfung**|**Freigabe**|**Wiedervorlage**|
 
 ## **Inhaltsverzeichnis** 
 

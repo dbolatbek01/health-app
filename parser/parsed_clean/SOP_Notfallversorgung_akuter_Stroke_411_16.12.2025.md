@@ -36,16 +36,26 @@ Geltungsbereich: HTG, CAI, Kardiologie, ICM
 
 ## **Relevante Telefonnummern / Anmeldeprocedere** 
 
-|Ärztl. Dienst der Neurologie CVK|Telefonnummern<br>(99-) 660555|
+|Ärztl. Dienst der Neurologie CVK|Telefonnummern
+(99-) 660555|
 |---|---|
 |Computertomographie am DHZC (Standort Augustenburger Platz)||
 |Werktags von 08:00 bis 16:00 Uhr||
-|•<br>Ärztl. Dienst<br>•<br>Med. Technologin/Technologe für Radiologie (MTR)|(97-) 1725<br>(97-) 1724|
+|•
+Ärztl. Dienst
+•
+Med. Technologin/Technologe für Radiologie (MTR)|(97-) 1725
+(97-) 1724|
 |Computertomographie Charité CVK||
 |Werktags von 16:00 bis 08:00 Uhr sowie am Wochenende und Feiertag||
-|•<br>Ärztl. Dienst Neuroradiologie<br>Mo-Fr 07:30 bis 22:30 Uhr|(99-) 657175|
-|Mo-Fr 22:31 bis 07:29 Uhr sowie an Wochenende/Feiertagen<br>Ärztl. Dienst Radiologie „Body“|(99-) 657460<br>(99-) 557419|
-|•<br>MTR am CT1||
+|•
+Ärztl. Dienst Neuroradiologie
+Mo-Fr 07:30 bis 22:30 Uhr|(99-) 657175|
+|Mo-Fr 22:31 bis 07:29 Uhr sowie an Wochenende/Feiertagen
+Ärztl. Dienst Radiologie „Body“|(99-) 657460
+(99-) 557419|
+|•
+MTR am CT1||
 |Interventionelle Neuroradiologie ärztl. Dienst|(99-) 657176|
 |Neurochirurgie ärztl.Dienst|(99-) 660444|
 
@@ -99,13 +109,21 @@ Standort für DHZC-Bereiche Mittelallee: Chirurgische Rettungsstelle am CVK
 
 - Dosierungstabelle 
 
-|**Körpergewichtsbereich**<br>**des Patienten (kg)**|**Tenecteplase (U)**<br>**Tenecteplase (mg)**|**Entsprechendes Volumen der**<br>**rekonstituierten Lösung (ml)**|
+|**Körpergewichtsbereich**
+**des Patienten (kg)**|**Tenecteplase (U)**
+**Tenecteplase (mg)**|**Entsprechendes Volumen der**
+**rekonstituierten Lösung (ml)**|
 |---|---|---|
-|<60|3000<br>15,0|3,0|
-|≥60 bis <70|3500<br>17,5|3,5|
-|≥70 bis <80|4000<br>20,0|4,0|
-|≥80 bis <90|4500<br>22,5|4,5|
-|≥90|5000<br>25|5,0|
+|<60|3000
+15,0|3,0|
+|≥60 bis <70|3500
+17,5|3,5|
+|≥70 bis <80|4000
+20,0|4,0|
+|≥80 bis <90|4500
+22,5|4,5|
+|≥90|5000
+25|5,0|
 
 ## **4. Referenzen** 
 

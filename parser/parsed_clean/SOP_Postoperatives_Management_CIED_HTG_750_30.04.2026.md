@@ -52,15 +52,22 @@ Eine einheitliche Terminologie ist essenziell für eine präzise klinische Kommu
 
 |**Begriff**|**Definition**|
 |---|---|
-|CIED|Cardiac Implantable Electronic Device – Oberbegriff für alle<br>implantierbaren Herzsysteme|
-|Aggregat|Implantierter Impulsgenerator (Schrittmacher- oder ICD-Gehäuse mit<br>Batterie und Elektronik)|
-|Sonde / Elektrode|Intrakardiale oder epikardiale Stimulations- oder<br>Defibrillationselektrode|
+|CIED|Cardiac Implantable Electronic Device – Oberbegriff für alle
+implantierbaren Herzsysteme|
+|Aggregat|Implantierter Impulsgenerator (Schrittmacher- oder ICD-Gehäuse mit
+Batterie und Elektronik)|
+|Sonde / Elektrode|Intrakardiale oder epikardiale Stimulations- oder
+Defibrillationselektrode|
 |Aggregattasche|Subkutane oder submuskuläre Tasche zur Aufnahme des Aggregats|
-|Device interrogation|Programmiergerätgestützte Funktionsabfrage des implantierten<br>Systems|
-|Leadless Schrittmacher|Kathetergeführtes, intrakardiales Schrittmachersystem ohne<br>transvenöse Sonde|
-|CRT-P / CRT-D|Kardiale Resynchronisationstherapie mit Schrittmacher (P) oder<br>Defibrillator (D)|
+|Device interrogation|Programmiergerätgestützte Funktionsabfrage des implantierten
+Systems|
+|Leadless Schrittmacher|Kathetergeführtes, intrakardiales Schrittmachersystem ohne
+transvenöse Sonde|
+|CRT-P / CRT-D|Kardiale Resynchronisationstherapie mit Schrittmacher (P) oder
+Defibrillator (D)|
 |DFT|Defibrillationsschwelle (Defibrillation Threshold)|
-|COI|Current of Injury – Verletzungsstrom bei aktiver Sondenverankerung<br>(Qualitätsmerkmal)|
+|COI|Current of Injury – Verletzungsstrom bei aktiver Sondenverankerung
+(Qualitätsmerkmal)|
 
 ## **4. Geltungsbereich** 
 
@@ -91,10 +98,21 @@ Geltungsbereich: Klinik HTG
 ||||
 |---|---|---|
 |**Rolle**|**Verantwortlichkeit**|**Dokumentationsort**|
-|Operateur|Festlegung der postoperativen Strategie,<br>Dokumentation des Eingriffs, spezifische<br>Anordnungen, Freigabe zur Entlassung|OP-Bericht|
-|Stationsarzt/-ärztin,<br>Physician Assistant|Durchführung des postoperativen Managements,<br>Erkennen und Behandeln von Komplikationen,<br>Kontaktaufnahme zum Operateur bei Auffälligkeiten|KIS,<br>Verlaufsdokumen-<br>tation, Arztbrief|
-|Pflegepersonal|Wundkontrolle, Überwachung der Vitalparameter,<br>Monitoring, Meldung von Auffälligkeiten an den Arzt|Pflegedokumen-<br>tation, KIS|
-|Schrittmacher-<br>Ambulanz|Durchführung und Dokumentation der Device-<br>Funktionskontrolle|Device-Datenbank|
+|Operateur|Festlegung der postoperativen Strategie,
+Dokumentation des Eingriffs, spezifische
+Anordnungen, Freigabe zur Entlassung|OP-Bericht|
+|Stationsarzt/-ärztin,
+Physician Assistant|Durchführung des postoperativen Managements,
+Erkennen und Behandeln von Komplikationen,
+Kontaktaufnahme zum Operateur bei Auffälligkeiten|KIS,
+Verlaufsdokumen-
+tation, Arztbrief|
+|Pflegepersonal|Wundkontrolle, Überwachung der Vitalparameter,
+Monitoring, Meldung von Auffälligkeiten an den Arzt|Pflegedokumen-
+tation, KIS|
+|Schrittmacher-
+Ambulanz|Durchführung und Dokumentation der Device-
+Funktionskontrolle|Device-Datenbank|
 
 ## **6. Postoperativer Standardablauf – Übersicht** 
 
@@ -159,11 +177,16 @@ Gemäß dem EHRA-Konsensus (Burri et al., 2021) sollte bei allen Patienten nach 
 
 |**Indikation**|**Maßnahme**|
 |---|---|
-|Routine nach Sondenimplantation|Thorax-Röntgen p.a. (± lateral) unmittelbar, spätestens<br>innerhalb 24 h|
-|Klinischer Verdacht auf<br>Pneumothorax|Sofortiges Thorax-Röntgen; Wiederholung nach 4–6 h bei<br>initial negativem Befund|
-|Negativer Röntgenbefund, weiter<br>Verdacht|CT-Thorax erwägen (höhere Sensitivität)|
+|Routine nach Sondenimplantation|Thorax-Röntgen p.a. (± lateral) unmittelbar, spätestens
+innerhalb 24 h|
+|Klinischer Verdacht auf
+Pneumothorax|Sofortiges Thorax-Röntgen; Wiederholung nach 4–6 h bei
+initial negativem Befund|
+|Negativer Röntgenbefund, weiter
+Verdacht|CT-Thorax erwägen (höhere Sensitivität)|
 |Verdacht auf Tamponade|Sofortige Echokardiographie; nicht auf Röntgen warten|
-|Aggregatwechsel ohne neue<br>Sondenimplantation|Keine Routine-Bildgebung zwingend; individuelle Entscheidung|
+|Aggregatwechsel ohne neue
+Sondenimplantation|Keine Routine-Bildgebung zwingend; individuelle Entscheidung|
 
 **Beim Thoraxröntgen sind folgende Befunde zu dokumentieren:** Ausschluss Pneumothorax, Sondenlage, Aggregatposition, Perikardkonturen sowie evtl. Pleuraerguss. 
 
@@ -219,10 +242,25 @@ Viele CIED-Patienten benötigen eine dauerhafte Antikoagulation (z. B. bei Vorho
 
 |**Substanzklasse**|**Perioperatives Vorgehen**|**Evidenz**|
 |---|---|---|
-|Vitamin-K-Antagonisten<br>(VKA)|Fortführung ohne Heparin-Bridging.**Heparin-Bridging**<br>**erhöht Hämatomrisiko signifikant**.|BRUISE-<br>CONTROL (RCT)|
-|DOAK (allgemein)|BRUISE CONTROL-2: Kein signifikanter Unterschied<br>Hämatom mit oder ohne Unterbrechung bei CHA₂DS₂-<br>VASc ≥ 2. Wiederaufnahme meist nach 24–48 h<br>postoperativ.|BRUISE-<br>CONTROL-2<br>(RCT)|
+|Vitamin-K-Antagonisten
+(VKA)|Fortführung ohne Heparin-Bridging.**Heparin-Bridging**
+**erhöht Hämatomrisiko signifikant**.|BRUISE-
+CONTROL (RCT)|
+|DOAK (allgemein)|BRUISE CONTROL-2: Kein signifikanter Unterschied
+Hämatom mit oder ohne Unterbrechung bei CHA₂DS₂-
+VASc ≥ 2. Wiederaufnahme meist nach 24–48 h
+postoperativ.|BRUISE-
+CONTROL-2
+(RCT)|
 |Aspirin|In der Regel Fortführung|–|
-|Duale<br>Thrombozytenhemmung<br>(DAPT)|Individuelle Rücksprache mit interventionellen<br>Kardiologen! Nach ACS/PCI < 1 Monat: DAPT fortführen. 1–<br>6 Monate: Ggf. P2Y12 absetzen. > 6 Monate: P2Y12<br>pausieren (Clopidogrel ≥ 5 d, Ticagrelor ≥ 3 d, Prasugrel ≥<br>7 d vor Eingriff).|ESC 2017 DAPT-<br>Leitlinie|
+|Duale
+Thrombozytenhemmung
+(DAPT)|Individuelle Rücksprache mit interventionellen
+Kardiologen! Nach ACS/PCI < 1 Monat: DAPT fortführen. 1–
+6 Monate: Ggf. P2Y12 absetzen. > 6 Monate: P2Y12
+pausieren (Clopidogrel ≥ 5 d, Ticagrelor ≥ 3 d, Prasugrel ≥
+7 d vor Eingriff).|ESC 2017 DAPT-
+Leitlinie|
 
 ## **13. Schmerztherapie** 
 
@@ -233,8 +271,11 @@ Postoperative Schmerzen entstehen vorwiegend durch die Präparation der Aggregat
 |**Stufe**|**Maßnahme**|
 |Basisanalgesie|Paracetamol 1000 mg 3-4x/d p.o. oder i.v.|
 |Bei ungenügender Kontrolle|Metamizol 500–1000 mg 3-4x/d (cave: Agranulozytose-Risiko)|
-|Starke Schmerzen (NRS > 6)|Niedrigdosierte Opioide (z. B. Tramadol) nach Rücksprache mit<br>Operateur|
-|Lokalanästhesie<br>(intraoperativ)|Lidocain 1% (max. 4,5 mg/kg), ggf. kombiniert mit Bupivacain 0,25%<br>oder Ropivacain 0,5%|
+|Starke Schmerzen (NRS > 6)|Niedrigdosierte Opioide (z. B. Tramadol) nach Rücksprache mit
+Operateur|
+|Lokalanästhesie
+(intraoperativ)|Lidocain 1% (max. 4,5 mg/kg), ggf. kombiniert mit Bupivacain 0,25%
+oder Ropivacain 0,5%|
 
 ## **14. Mobilisation und Verhaltensempfehlungen** 
 
@@ -260,12 +301,17 @@ CIED-Infektionen sind mit einer erhöhten Morbidität und Mortalität verbunden.
 
 |**Maßnahme**|**Vorgehen / Standard**|
 |---|---|
-|Perioperative<br>Antibiotikaprophylaxe|Cefazolin 1–2g i.v. oder Flucloxacillin 1–2g i.v. innerhalb 1h vor Schnitt;<br>bei Allergie oder MRSA-Risiko Vancomycin 15mg/kg i.v. 90–120min vor<br>Eingriff|
+|Perioperative
+Antibiotikaprophylaxe|Cefazolin 1–2g i.v. oder Flucloxacillin 1–2g i.v. innerhalb 1h vor Schnitt;
+bei Allergie oder MRSA-Risiko Vancomycin 15mg/kg i.v. 90–120min vor
+Eingriff|
 |Postoperative Antibiose|Nicht routinemäßig empfohlen (EHRA-Konsensus 2021)|
 |Verbandswechsel|Sterile Technik; aseptischer Verbandswechsel nach Bedarf|
 |Wundkontrolle|Täglich; Dokumentation in KIS|
-|Hämatom-Prävention|Antikoagulation optimieren, Kompressionsverband, atraumatische<br>Operationstechnik|
-|Antibakterielle Hülle|Erwägen bei Hochrisikopatienten (Diabetes, Niereninsuffizienz, Re-<br>Intervention)|
+|Hämatom-Prävention|Antikoagulation optimieren, Kompressionsverband, atraumatische
+Operationstechnik|
+|Antibakterielle Hülle|Erwägen bei Hochrisikopatienten (Diabetes, Niereninsuffizienz, Re-
+Intervention)|
 |Patientenscreening|MRSA-Screening gemäß hausinterner Hygienerichtlinie|
 
 ## **16. Management früher Komplikationen** 
@@ -318,7 +364,22 @@ CIED-Infektionen beginnen häufig lokal an der Aggregattasche und können auf di
 
 ## **18. Management und Reimplantationsstrategie nach CIED-Infektion** 
 
-A A + B B1 B2 B3<br>Isolierte  Tasche + syst.  Bakteriämie (syst.  Sonden-Vegetationen Syst. Infektion +<br>Tascheninfektion Infektion Infektion) Klappenendokarditis<br>Antibiotika: Antibiotika: Antibiotika: Antibiotika: Antibiotika:<br>10–14 Tage  nach B-Kategorie  ≥ 14 Tage  14–28 Tage  4–6 Wochen<br>Reimplantation: Reimplantation: Reimplantation: Reimplantation: Reimplantation:<br>Ab Tag 3–7 (frühest  ≥ Tag 14 nach neg. BK  Tag 14–21 nach neg.  Tag 14–28 (S. aureus ≥  Nach 4–6 Wo vollst.<br>möglich)  BK  28 d)  ABx-Kurs<br>Voraussetzungen: Voraussetzungen: Voraussetzungen: Voraussetzungen: Voraussetzungen:<br>– Neg. BK (2×)  Wie B-Kategorie  – 2× neg. BK (≥48h)  – Neg. BK  – 2 Wo neg. BK<br>– TEE-Befund neg.  + lokale Sanierung  – CRP rückläufig  – TEE neg.  – TEE: keine<br>– Tasche saniert  vollst.  – TEE neg.  – CRP normalisiert  Vegetation<br>– Klinische Stabilität  – CRP normal<br>– ABx-Kurs vollst.<br>**----- End of picture text -----**<br>
+A A + B B1 B2 B3
+Isolierte  Tasche + syst.  Bakteriämie (syst.  Sonden-Vegetationen Syst. Infektion +
+Tascheninfektion Infektion Infektion) Klappenendokarditis
+Antibiotika: Antibiotika: Antibiotika: Antibiotika: Antibiotika:
+10–14 Tage  nach B-Kategorie  ≥ 14 Tage  14–28 Tage  4–6 Wochen
+Reimplantation: Reimplantation: Reimplantation: Reimplantation: Reimplantation:
+Ab Tag 3–7 (frühest  ≥ Tag 14 nach neg. BK  Tag 14–21 nach neg.  Tag 14–28 (S. aureus ≥  Nach 4–6 Wo vollst.
+möglich)  BK  28 d)  ABx-Kurs
+Voraussetzungen: Voraussetzungen: Voraussetzungen: Voraussetzungen: Voraussetzungen:
+– Neg. BK (2×)  Wie B-Kategorie  – 2× neg. BK (≥48h)  – Neg. BK  – 2 Wo neg. BK
+– TEE-Befund neg.  + lokale Sanierung  – CRP rückläufig  – TEE neg.  – TEE: keine
+– Tasche saniert  vollst.  – TEE neg.  – CRP normalisiert  Vegetation
+– Klinische Stabilität  – CRP normal
+– ABx-Kurs vollst.
+**----- End of picture text -----**
+
 
 **Bridging bei Schrittmacherabhängigkeit (DHZC):** Epikardialer Schrittmacher (subxiphoidal) – bevorzugt am DHZC. Alternativ: semi-permanenter Schrittmacher mit externem Aggregat oder Leadless SM. 
 
@@ -400,11 +461,69 @@ Die Therapiedauer richtet sich nach Infektionstyp und mikrobiologischem Befund. 
 
 |**Kat.**|**Infektionstyp**|**Antibiotikatherapie**|**Reimplantation: Zeitfenster**|**Voraussetzungen für Reimplantation**|
 |---|---|---|---|---|
-|**A**|**Isolierte**<br>**Aggregattascheninfekt**<br>**ion**<br>(keine Bakteriämie,<br>keine Vegetationen)|10–14 Tage IV oder oral<br>nach klin. Stabilisierung|**Frühzeitig möglich:**<br>ab Tag 3–7 nach<br>Explantation; simultane<br>kontralaterale transvenöse<br>Reimplantation im Einzelfall<br>möglich|<br>– Neg. Blutkulturen (2x)<br>– Keine Vegetationen (TEE)<br>– Vollst. Explantation +<br>Taschensanierung<br>– Klinische Stabilität|
-|**A+B**|**Kombinierte Taschen-**<br>**und systemische**<br>**Infektion**<br>(Tascheninfektion +<br>Bakteriämie oder<br>Sondenbefall)|Richtet sich nach<br>systemischer<br>Komponente (B1–B3)|**Verzögert:**<br>frühestens nach 14 Tagen<br>ab negativen Blutkulturen|Wie B1–B3<br>Zusätzlich: lokale Sanierung vollständig|
-|**B1**|**Systemische Infektion:**<br>Bakteriämie ohne<br>Endokarditis|≥ 14 Tage nach<br>Explantation (ab<br>Datum neg.<br>Blutkulturen)|**Verzögert:**<br>frühestens Tag 14–21 nach<br>Explantation (nach 2x neg.<br>Blutkulturen im Abstand ≥<br>48 h)|– 2x neg. Blutkulturen (≥ 48 h Abstand)<br>– CRP-Trend rückläufig<br>– Klinische Stabilität<br>– Keine Vegetationen (TEE)|
-|**B2**|**Systemische Infektion:**<br>Sonden-Vegetation<br>ohne<br>Klappenendokarditis|≥ 14–28 Tage<br>(erregerspezifisch)|**Verzögert:**<br>Tag 14–28 nach<br>Explantation<br>(infektiologisch festlegen)|– Neg. Blutkulturen<br>– TEE: Vegetationsrückbildung<br>– Klinische Remission|
-|**B3**|**Systemische Infektion:**<br>Klappenendokarditis /<br>persistierende<br>Bakteriämie|4–6 Wochen<br>(erregerspezifisch,<br>infektiologisch<br>festgelegt)|**Deutlich verzögert:**<br>frühestens nach 4–6<br>Wochen vollständiger<br>Antibiotikatherapie|– Neg. Blutkulturen (mind. 2 Wochen)<br>– TEE: keine aktiven Vegetationen<br>– CRP normalisiert<br>– Vollst. Abschluss Antibiotikakurs|
+|**A**|**Isolierte**
+**Aggregattascheninfekt**
+**ion**
+(keine Bakteriämie,
+keine Vegetationen)|10–14 Tage IV oder oral
+nach klin. Stabilisierung|**Frühzeitig möglich:**
+ab Tag 3–7 nach
+Explantation; simultane
+kontralaterale transvenöse
+Reimplantation im Einzelfall
+möglich|
+– Neg. Blutkulturen (2x)
+– Keine Vegetationen (TEE)
+– Vollst. Explantation +
+Taschensanierung
+– Klinische Stabilität|
+|**A+B**|**Kombinierte Taschen-**
+**und systemische**
+**Infektion**
+(Tascheninfektion +
+Bakteriämie oder
+Sondenbefall)|Richtet sich nach
+systemischer
+Komponente (B1–B3)|**Verzögert:**
+frühestens nach 14 Tagen
+ab negativen Blutkulturen|Wie B1–B3
+Zusätzlich: lokale Sanierung vollständig|
+|**B1**|**Systemische Infektion:**
+Bakteriämie ohne
+Endokarditis|≥ 14 Tage nach
+Explantation (ab
+Datum neg.
+Blutkulturen)|**Verzögert:**
+frühestens Tag 14–21 nach
+Explantation (nach 2x neg.
+Blutkulturen im Abstand ≥
+48 h)|– 2x neg. Blutkulturen (≥ 48 h Abstand)
+– CRP-Trend rückläufig
+– Klinische Stabilität
+– Keine Vegetationen (TEE)|
+|**B2**|**Systemische Infektion:**
+Sonden-Vegetation
+ohne
+Klappenendokarditis|≥ 14–28 Tage
+(erregerspezifisch)|**Verzögert:**
+Tag 14–28 nach
+Explantation
+(infektiologisch festlegen)|– Neg. Blutkulturen
+– TEE: Vegetationsrückbildung
+– Klinische Remission|
+|**B3**|**Systemische Infektion:**
+Klappenendokarditis /
+persistierende
+Bakteriämie|4–6 Wochen
+(erregerspezifisch,
+infektiologisch
+festgelegt)|**Deutlich verzögert:**
+frühestens nach 4–6
+Wochen vollständiger
+Antibiotikatherapie|– Neg. Blutkulturen (mind. 2 Wochen)
+– TEE: keine aktiven Vegetationen
+– CRP normalisiert
+– Vollst. Abschluss Antibiotikakurs|
 
 **Hinweis – Erregerspezifische Anpassung:** Staphylococcus aureus (häufigster Erreger): Mindestens 14 Tage nach Explantation. Bei Komplikationen (z. B. embolische Ereignisse, Spondylodiszitis) mind. 6 Wochen. Pilzinfektionen: Antifungale Therapie über mind. 6 Wochen; Reimplantation nach individueller infektiologischer Beratung. Kultur-negative Infektionen: Therapiedauer orientiert an klinischem Bild und Histologie; infektiologisches Konsil obligat. 
 
@@ -476,8 +595,17 @@ Wenn ein gerätefreies Intervall klinisch nicht möglich ist, stehen folgende Ü
 
 |**Situation**|**Bevorzugte Strategie (DHZC)**|**Alternative**|
 |---|---|---|
-|**Schrittmacherabhängig**|**Epikardiale Einkammer-Schrittmacher-Implantation**<br>**(subxiphoidaler Zugang):**<br>– keine intravasale Sonde, niedrige Reinfektionsrate<br>– bei perm. VHF auch als definitive Versorgung<br>geeignet|Semi-permanenter Einkammer-<br>Schrittmacher (aktiv-fixierte RV-<br>Sonde via V. jug. int.) mit<br>externem Device<br>Leadless Schrittmacher|
-|**ICD-Indikation**|**Wearable Cardioverter-Defibrillator (WCD)**|Subkutaner ICD (S-ICD)<br>EV-ICD|
+|**Schrittmacherabhängig**|**Epikardiale Einkammer-Schrittmacher-Implantation**
+**(subxiphoidaler Zugang):**
+– keine intravasale Sonde, niedrige Reinfektionsrate
+– bei perm. VHF auch als definitive Versorgung
+geeignet|Semi-permanenter Einkammer-
+Schrittmacher (aktiv-fixierte RV-
+Sonde via V. jug. int.) mit
+externem Device
+Leadless Schrittmacher|
+|**ICD-Indikation**|**Wearable Cardioverter-Defibrillator (WCD)**|Subkutaner ICD (S-ICD)
+EV-ICD|
 
 **Bevorzugte Strategie am DHZC – Schrittmacherabhängige Patienten:** Minimal-invasive epikardiale Einkammer-Schrittmacherimplantation über subxiphoidalen Zugang. Keine intravasalen Komponenten → geringe Reinfektionsrate. Bei persistierendem oder permanentem Vorhofflimmern auch als endgültige Lösung geeignet. Kurze Operationsdauer, gut tolerierter minimal-invasiver Zugang. 
 
@@ -540,10 +668,15 @@ Die langfristige Funktionskontrolle eines CIED erfolgt in spezialisierten Device
 |**Zeitpunkt**|**Maßnahme**|
 |---|---|
 |6 Wochen nach Implantation|Erste ambulante Device-Kontrolle; früher bei klinischen Problemen|
-|Routinekontrolle Schrittmacher|Jährlich oder bei klinischen Symptomen (je nach Systemstatus und<br>Batteriekapazität)|
-|Routinekontrolle ICD / CRT|Alle 3–6 Monate (je nach Remote-Monitoring-Verfügbarkeit und<br>Systemtyp)|
-|Fernüberwachung (Remote<br>Monitoring)|Gerät aktivieren und Patientenschulung durchführen vor<br>Entlassung|
-|Aggregatwechsel|Geplant bei erreichtem Indikator (ERI/RRT) zur<br>Batterieerschöpfung|
+|Routinekontrolle Schrittmacher|Jährlich oder bei klinischen Symptomen (je nach Systemstatus und
+Batteriekapazität)|
+|Routinekontrolle ICD / CRT|Alle 3–6 Monate (je nach Remote-Monitoring-Verfügbarkeit und
+Systemtyp)|
+|Fernüberwachung (Remote
+Monitoring)|Gerät aktivieren und Patientenschulung durchführen vor
+Entlassung|
+|Aggregatwechsel|Geplant bei erreichtem Indikator (ERI/RRT) zur
+Batterieerschöpfung|
 
 ## SOP Postoperatives Management nach CIED- Eingriff – Klinik HTG
 

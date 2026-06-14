@@ -282,7 +282,9 @@ Für Erwachsene gelten die Diagnostischen Referenzwerte für interventionellradi
 |PCI|4 800|
 |kombinierte Koronarangiographie/PCI|5 500|
 |TAVI|8 000|
-|endovaskuläre Aneurysma-Therapie<br>(Aorta thorakalis, Bauchaorta infrarenal,Bauchaorta<br>suprarenal)|23 000|
+|endovaskuläre Aneurysma-Therapie
+(Aorta thorakalis, Bauchaorta infrarenal,Bauchaorta
+suprarenal)|23 000|
 |PTA Becken|9 000|
 
 ## **15. Dokumentation, Befundung und Leistungserfassung** 

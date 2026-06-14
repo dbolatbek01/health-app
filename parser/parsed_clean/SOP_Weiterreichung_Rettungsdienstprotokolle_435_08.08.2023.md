@@ -28,5 +28,26 @@ Dokumentationen, welche nicht einem im DHZC befindliche Patienten zugeordnet wer
 
 ## **3. Flussdiagramm eingehende Rettungsdienstprotokolle** 
 
-Patient kommt mit<br>1<br>NAW in das DHZC<br>1<br>NAW* & Patient DHZC<br>NAW übergibt den<br>2<br>Patienten im DHZC und<br>NAW              & Patient                & DHZC<br>erstellt<br>Protokoll, welches der<br>2 FAX: 1003 Dokumentation dient<br>Rettungsdienstprotokolle@dhzc-charite.de   3<br>Einsatzprotokoll wird an<br>3<br>Fax des Rettungsdienstprotokolls wird von der  DHZC geschickt ( via<br>Aufnahme auf das FAX der Station geschickt  e auf FAX ), DHZC<br>sendet FAX auf die<br>Station<br>* NAW = Notarztwagen<br>**----- End of picture text -----**<br>
+Patient kommt mit
+1
+NAW in das DHZC
+1
+NAW* & Patient DHZC
+NAW übergibt den
+2
+Patienten im DHZC und
+NAW              & Patient                & DHZC
+erstellt
+Protokoll, welches der
+2 FAX: 1003 Dokumentation dient
+Rettungsdienstprotokolle@dhzc-charite.de   3
+Einsatzprotokoll wird an
+3
+Fax des Rettungsdienstprotokolls wird von der  DHZC geschickt ( via
+Aufnahme auf das FAX der Station geschickt  e auf FAX ), DHZC
+sendet FAX auf die
+Station
+* NAW = Notarztwagen
+**----- End of picture text -----**
+
 

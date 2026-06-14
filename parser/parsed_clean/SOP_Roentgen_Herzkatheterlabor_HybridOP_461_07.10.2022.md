@@ -124,14 +124,24 @@ Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass für Anlagen zur Er
 |**Lokale Bezeichnung**|**_HK1 frontal_**|**_HK 1 lateral_**|
 |---|---|---|
 |Gerätebezeichnung|_Allura Xper FD 10/10, Philips_|_Allura Xper FD 10/10, Philips_|
-|Sachverständigenprüfbericht<br>(Nr./Datum)|2526432595<br>29.04.2021|2526432595<br>29.04.2021|
+|Sachverständigenprüfbericht
+(Nr./Datum)|2526432595
+29.04.2021|2526432595
+29.04.2021|
 |Interne Identifikation|ÄSQSB 2980|ÄSQSB 2979|
 |Gesamtfilterung|_2,5 mm Al_|_2,5 mm Al_|
 |Systemleistung Generator/Röhre|_100 kW_|_100 kW_|
 |Detektor Eingangsformate|_FD 25, 20, 15 cm_|_FD 25, 20, 15 cm_|
 |Dosisleistungsstufen|_ADR Niedrig/Normal/Hoch_|_ADR Niedrig/Normal/Hoch_|
 |DFP-Anzeige|_mGy * cm²_|_mGy * cm²_|
-|Regelkennlinie oder<br>Spannungsbereich|_Automatische_<br>_Dosisleistungsregelung (ADR) in_<br>_Abhängigkeit zum_<br>_Organprogram_|_Automatische_<br>_Dosisleistungsregelung (ADR)_<br>_in Abhängigkeit zum_<br>_Organprogram_|
+|Regelkennlinie oder
+Spannungsbereich|_Automatische_
+_Dosisleistungsregelung (ADR) in_
+_Abhängigkeit zum_
+_Organprogram_|_Automatische_
+_Dosisleistungsregelung (ADR)_
+_in Abhängigkeit zum_
+_Organprogram_|
 |Streustrahlenraster|_70/13/100_|_70/13/100_|
 |Programme und Abschaltdosen|_Sicherheitsabschaltung ≤600mAs / 60KWs_||
 |Brennfleckgröße|_0,5 / 0,8_|_0,5 / 0,8_|
@@ -141,14 +151,24 @@ Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass für Anlagen zur Er
 |**Lokale Bezeichnung**|**_HK2 frontal_**|**_HK 2 lateral_**|
 |---|---|---|
 |Gerätebezeichnung|_Allura Xper FD 10/10, Philips_|_Allura Xper FD 10/10, Philips_|
-|Sachverständigenprüfbericht<br>(Nr./Datum)|2526432593<br>29.04.2021|2526432593<br>29.04.2021|
+|Sachverständigenprüfbericht
+(Nr./Datum)|2526432593
+29.04.2021|2526432593
+29.04.2021|
 |Interne Identifikation|ÄSQSB 2980|ÄSQSB 2979|
 |Gesamtfilterung|_2,5 mm Al_|_2,5 mm Al_|
 |Systemleistung Generator/Röhre|_100 kW_|_100 kW_|
 |Detektor Eingangsformate|_FD 25, 20, 15 cm_|_FD 25, 20, 15 cm_|
 |Dosisleistungsstufen|_ADR Niedrig / Normal / Hoch_|_ADR Niedrig / Normal / Hoch_|
 |DFP-Anzeige|_mGy * cm²_|_mGy * cm²_|
-|Regelkennlinie oder<br>Spannungsbereich|_Automatische_<br>_Dosisleistungsregelung (ADR) in_<br>_Abhängigkeit zum_<br>_Organprogram_|_Automatische_<br>_Dosisleistungsregelung (ADR)_<br>_in Abhängigkeit zum_<br>_Organprogram_|
+|Regelkennlinie oder
+Spannungsbereich|_Automatische_
+_Dosisleistungsregelung (ADR) in_
+_Abhängigkeit zum_
+_Organprogram_|_Automatische_
+_Dosisleistungsregelung (ADR)_
+_in Abhängigkeit zum_
+_Organprogram_|
 |Streustrahlenraster|_70/13/100_|_70/13/100_|
 |Programme und Abschaltdosen|_Sicherheitsabschaltung ≤600mAs / 60KWs_||
 |Brennfleckgröße|_0,5 / 0,8_|_0,5 / 0,8_|
@@ -158,14 +178,16 @@ Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass für Anlagen zur Er
 |**Lokale Bezeichnung**|**_HK3 Monoplan_**|
 |---|---|
 |Gerätebezeichnung|_Allura Xper FD 10, Philips_|
-|Sachverständigenprüfbericht  (Nr./Datum)|2526528861<br>29.04.2021|
+|Sachverständigenprüfbericht  (Nr./Datum)|2526528861
+29.04.2021|
 |Interne Identifikation|ÄSQSB 2990|
 |Gesamtfilterung|_2,5 mm Al_|
 |Systemleistung Generator/Röhre|_100 kW_|
 |Detektor Eingangsformate|_FD 25, 20, 15 cm_|
 |Dosisleistungsstufen|_ADR Niedrig / Normal / Hoch_|
 |DFP-Anzeige|_mGy * cm²_|
-|Regelkennlinie oder Spannungsbereich|_Automatische Dosisleistungsregelung (ADR) in_<br>_Abhängigkeit zum Organprogram_|
+|Regelkennlinie oder Spannungsbereich|_Automatische Dosisleistungsregelung (ADR) in_
+_Abhängigkeit zum Organprogram_|
 |Streustrahlenraster|_70/13/100_|
 |Programme und Abschaltdosen|_Sicherheitsabschaltung ≤600mAs / 60KWs_|
 |Brennfleckgröße|_0,5 / 0,8_|
@@ -175,14 +197,16 @@ Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass für Anlagen zur Er
 |**Lokale Bezeichnung**|**_OP 6  Monoplan Hybrid OP_**|
 |---|---|
 |Gerätebezeichnung|_Artis Q Ceiling , Siemens_|
-|Sachverständigenprüfbericht  (Nr./Datum)|2528427488<br>02.11.2021|
+|Sachverständigenprüfbericht  (Nr./Datum)|2528427488
+02.11.2021|
 |Interne Identifikation|ÄSQSB 3922|
 |Gesamtfilterung|_2,5 mm Al_|
 |Systemleistung Generator/Röhre|_100 kW_|
 |Detektor Eingangsformate|_30x40 Format: 48 Zoom:42/32/22_|
 |Dosisleistungsstufen||
 |DFP-Anzeige|_µGy * m²_|
-|Regelkennlinie oder Spannungsbereich|_Automatische Dosisleistungsregelung (ADR) in_<br>_Abhängigkeit zum Organprogram_|
+|Regelkennlinie oder Spannungsbereich|_Automatische Dosisleistungsregelung (ADR) in_
+_Abhängigkeit zum Organprogram_|
 |Streustrahlenraster|_15/80/105_|
 |Programme und Abschaltdosen|_Sicherheitsabschaltung ≤600mAs / 60kJ_|
 |Brennfleckgröße|_0,3 / 0,4/ 0,9_|
@@ -192,14 +216,16 @@ Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass für Anlagen zur Er
 |**Lokale Bezeichnung**|**_OP 8 Monoplan Hybrid OP_**|
 |---|---|
 |Gerätebezeichnung|_Allura Xper FD 20 OR table, Philips_|
-|Sachverständigenprüfbericht (Nr./Datum)|2528330123<br>20.10.2021|
+|Sachverständigenprüfbericht (Nr./Datum)|2528330123
+20.10.2021|
 |Interne Identifikation|ÄSQSB 3912|
 |Gesamtfilterung|_2,5 mm Al_|
 |Systemleistung Generator/Röhre|_100 kW_|
 |Detektor Eingangsformate|_30x40 Format: 48 Zoom:42,32,22,15_|
 |Dosisleistungsstufen|_DL Niedrig / Medium / Normal_|
 |DFP-Anzeige|_mGy * cm²_|
-|Regelkennlinie oder Spannungsbereich|_Automatische Dosisleistungsregelung (ADR) in_<br>_Abhängigkeit zum Organprogram_|
+|Regelkennlinie oder Spannungsbereich|_Automatische Dosisleistungsregelung (ADR) in_
+_Abhängigkeit zum Organprogram_|
 |Streustrahlenraster|_44/12/105_|
 |Programme und Abschaltdosen|_Sicherheitsabschaltung ≤600mAs / 60KWs_|
 |Brennfleckgröße|_0,4 / 0,7_|

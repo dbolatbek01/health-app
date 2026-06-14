@@ -11,15 +11,35 @@ Standort CVK Augustenburger Platz: Klinik für Herz-, Thorax- und Gefäßchirurg
 
 Behandlungsprotokoll Dialyse 
 
-|**Version**<br>**gültig ab**<br>**Erstellung**<br>**Prüfung**<br>**Freigabe**<br>**Wiedervorlage**|**Version**<br>**gültig ab**<br>**Erstellung**<br>**Prüfung**<br>**Freigabe**<br>**Wiedervorlage**|**Version**<br>**gültig ab**<br>**Erstellung**<br>**Prüfung**<br>**Freigabe**<br>**Wiedervorlage**|
+|**Version**
+**gültig ab**
+**Erstellung**
+**Prüfung**
+**Freigabe**
+**Wiedervorlage**|**Version**
+**gültig ab**
+**Erstellung**
+**Prüfung**
+**Freigabe**
+**Wiedervorlage**|**Version**
+**gültig ab**
+**Erstellung**
+**Prüfung**
+**Freigabe**
+**Wiedervorlage**|
 |---|---|---|
 ||||
 ||||
 ||||
 ||||
 ||||
-|1.1<br>14.11.2019<br>Layout|||
-|1.2<br>23.11.2021<br>Layout<br>31.12.2022|||
+|1.1
+14.11.2019
+Layout|||
+|1.2
+23.11.2021
+Layout
+31.12.2022|||
 
 ## **Inhaltsverzeichnis** 
 
@@ -119,13 +139,33 @@ Plasmapheresen können auf den Stationen WD1i, WD2i und WD3u/i durchgeführt wer
 
 Fries, Denis 4593 2257 
 
-Weller, Karsten  4593 2111<br>**----- End of picture text -----**<br>
+Weller, Karsten  4593 2111
+**----- End of picture text -----**
+
 
 ## **Behandlungsprotokoll Dialyse** 
 
-Nr.  Patientenname<br>Ärztliche Anordnung<br>Diabetes  Hepatitis: keine  B  C<br>HD  HF HDF getrennte UF<br>Behandlungsdauer<br>Sollgewicht/Abnahme<br>re li<br>1  Cimino-Shunt  Fraxiparin  IE<br>2  PTFE-Shunt  Heparin  IE/h<br>3  Shaldon  2000<br>4  1000<br>Dialysator<br>Besonderheiten<br>K-Konz. mval/l<br>Vorspritze IE<br>**----- End of picture text -----**<br>
+Nr.  Patientenname
+Ärztliche Anordnung
+Diabetes  Hepatitis: keine  B  C
+HD  HF HDF getrennte UF
+Behandlungsdauer
+Sollgewicht/Abnahme
+re li
+1  Cimino-Shunt  Fraxiparin  IE
+2  PTFE-Shunt  Heparin  IE/h
+3  Shaldon  2000
+4  1000
+Dialysator
+Besonderheiten
+K-Konz. mval/l
+Vorspritze IE
+**----- End of picture text -----**
 
-[Arzt/Ärztin]<br>**----- End of picture text -----**<br>
+
+[Arzt/Ärztin]
+**----- End of picture text -----**
+
 
 ||||Station|Station|Station||Datum|Datum|Datum|||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -134,7 +174,8 @@ Nr.  Patientenname<br>Ärztliche Anordnung<br>Diabetes  Hepatitis: keine  B  C<b
 ||||||||||||**Test**||||Desinfektion|||||
 |Geräte-Nr.||||||||||||||||||||
 |An-||||||Abschlusszeit||||||||||||||
-|vor<br>kg||nach||||kg|||Abnahme||||||||||ml|
+|vor
+kg||nach||||kg|||Abnahme||||||||||ml|
 |**Monitoring**||||||||||||||||||||
 |RR-Manchette|||-Argyle||||||||EKG||||||SO2|||
 |Punktion|||||Nadelstärke||||||A||||||V|||
@@ -142,7 +183,8 @@ Nr.  Patientenname<br>Ärztliche Anordnung<br>Diabetes  Hepatitis: keine  B  C<b
 |Eisen III 1 Amp.||||||||||||||||||||
 |**Medikamente**gegeben**nach HD**|||||||||||||||||||HZ|
 |Katheter aufgefüllt||||||||||||||||||||
-|VW<br>A||||||||ml||V|||||||||ml|
+|VW
+A||||||||ml||V|||||||||ml|
 |verantwortlich||||||||||||/||||||||
 
 Uhrzeit RR (mm Hg) Herzfrequenz (S/min) Mitteldruck art. Fluss/MFL (ml/min) art. Druck (mmHG) ven. Druck (mmHG) TMP UF (ml/h, ml/min) Ist-Menge (ml) Heparin IE/h Epinephrin (ml/h) Norepinephrin (ml/h) Blutzucker (mg %) K[+] Na[+] Hb Ca[++] K-Konzentrat BV (l) 

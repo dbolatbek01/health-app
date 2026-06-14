@@ -165,7 +165,10 @@ Diese SOP gilt für die Aufnahme "Abdomen im Liegen" auf Station für die mobile
 
 ## **7. Aufnahmetechnik** 
 
-|**Abdomen**|**Format**|**Fokus**|**Raster**|**Abstand**<br>**cm**|**kV**|**mAs**|**DRW**<br>**(µGy*m² bzw.**<br>**cGy*cm²)**|
+|**Abdomen**|**Format**|**Fokus**|**Raster**|**Abstand**
+**cm**|**kV**|**mAs**|**DRW**
+**(µGy*m² bzw.**
+**cGy*cm²)**|
 |---|---|---|---|---|---|---|---|
 |**a.p.**|35 x 43||digital|130|81|9,0–12,5|230|
 |**seitl.**|35 x 43||digital|130–150|102|5,0–7,1|230|

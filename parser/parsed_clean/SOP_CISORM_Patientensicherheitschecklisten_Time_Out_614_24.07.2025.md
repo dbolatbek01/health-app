@@ -28,7 +28,9 @@ Prozessverantwortliche Personen sind die Funktionsdienstleitungen und die pflege
 
 ## **3.2 Bei Übernahme in den OP** 
 
-|**Durchführung**|Lagerungs-FD / OP-FD: wird bei bei direkter Übernahme durch Anästhesieteam durch 3.3.<br>ersetzt|Lagerungs-FD / OP-FD: wird bei bei direkter Übernahme durch Anästhesieteam durch 3.3.<br>ersetzt|
+|**Durchführung**|Lagerungs-FD / OP-FD: wird bei bei direkter Übernahme durch Anästhesieteam durch 3.3.
+ersetzt|Lagerungs-FD / OP-FD: wird bei bei direkter Übernahme durch Anästhesieteam durch 3.3.
+ersetzt|
 |---|---|---|
 ||||
 |**Zeitpunkt**|Vor Umlagerung auf den OP-Tisch oder vor Transfer der OP-Schleuse||

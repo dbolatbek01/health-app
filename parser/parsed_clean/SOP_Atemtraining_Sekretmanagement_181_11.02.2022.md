@@ -11,10 +11,21 @@ Organisationseinheit IPS
 
 |**Änderungshistorie**|**Änderungshistorie**|**Änderungshistorie**|
 |---|---|---|
-|**Version**<br>**gültig ab**<br>**Verfasser**<br>**Freigabe**<br>**Änderungsgrund**<br>**Wiedervorlage**|||
+|**Version**
+**gültig ab**
+**Verfasser**
+**Freigabe**
+**Änderungsgrund**
+**Wiedervorlage**|||
 ||||
-|<br> <br>Roggenbruck, S.<br>Ä<br>|||
-|1.1<br>10.02.2022||keine nderung<br>01.03.2024|
+|
+ 
+Roggenbruck, S.
+Ä
+|||
+|1.1
+10.02.2022||keine nderung
+01.03.2024|
 
 ## **Inhaltsverzeichnis** 
 

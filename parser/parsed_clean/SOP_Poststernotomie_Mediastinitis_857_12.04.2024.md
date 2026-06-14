@@ -53,7 +53,11 @@ Bezüglich Sternumstabilität und Knochenbeschaffenheit als wesentliche therapie
 
 **Tabelle 2.** Einteilung der Poststernotomie-Mediastinitis in Anlehnung an die AMSTERDAMKlassifikation [3] 
 
-|**Tabelle 2.**Einteilung der Poststernotomie-Mediastinitis in Anlehnung an die AMSTERDAM-<br>Klassifikation [3]|**Tabelle 2.**Einteilung der Poststernotomie-Mediastinitis in Anlehnung an die AMSTERDAM-<br>Klassifikation [3]|**Tabelle 2.**Einteilung der Poststernotomie-Mediastinitis in Anlehnung an die AMSTERDAM-<br>Klassifikation [3]|**Tabelle 2.**Einteilung der Poststernotomie-Mediastinitis in Anlehnung an die AMSTERDAM-<br>Klassifikation [3]|
+|**Tabelle 2.**Einteilung der Poststernotomie-Mediastinitis in Anlehnung an die AMSTERDAM-
+Klassifikation [3]|**Tabelle 2.**Einteilung der Poststernotomie-Mediastinitis in Anlehnung an die AMSTERDAM-
+Klassifikation [3]|**Tabelle 2.**Einteilung der Poststernotomie-Mediastinitis in Anlehnung an die AMSTERDAM-
+Klassifikation [3]|**Tabelle 2.**Einteilung der Poststernotomie-Mediastinitis in Anlehnung an die AMSTERDAM-
+Klassifikation [3]|
 |---|---|---|---|
 |||**Sternumstabilität**|**Knochenbeschaffenheit**|
 |||||
@@ -172,10 +176,26 @@ Bei Verdacht auf PSM soll empirisch mit Piperacillin/Tazobactam und Vancomycin b
 
 ||**Poststernotomie-Mediastinitis**|
 |---|---|
-|1. Empfehlung|Piperacillin/Tazobactam<br>3x4,5 g i.v.<br>+<br>Vancomycin<br>2x1 g i.v.|
-|2. bei Niereninsuffizienz|Piperacillin/Tazobactam<br>3x4,5 g i.v.<br>+<br>Daptomycin<br>1x8 mg/kg KG i.v.|
-|3. bei Penicillin-Allergie|Ciprofloxacin<br>2x400 mg i.v.<br>+<br>Vancomycin<br>2x1 g i.v.|
-|4. bei MRGN-Kolonisation|Meropenem<br>3x1 g i.v.<br>+<br>Vancomycin<br>2x1 g i.v.|
+|1. Empfehlung|Piperacillin/Tazobactam
+3x4,5 g i.v.
++
+Vancomycin
+2x1 g i.v.|
+|2. bei Niereninsuffizienz|Piperacillin/Tazobactam
+3x4,5 g i.v.
++
+Daptomycin
+1x8 mg/kg KG i.v.|
+|3. bei Penicillin-Allergie|Ciprofloxacin
+2x400 mg i.v.
++
+Vancomycin
+2x1 g i.v.|
+|4. bei MRGN-Kolonisation|Meropenem
+3x1 g i.v.
++
+Vancomycin
+2x1 g i.v.|
 
 Nach Erregeridentifizierung und Resistogramm sowie unter Berücksichtigung von Komorbidität und Nebenwirkungsprofil ggf. individuelle Anpassung und Fortführung der antiinfektiven Therapie in Absprache mit dem Oberarzt. Ggf. sollte die Infektiologie einbezogen werden. 
 

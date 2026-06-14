@@ -39,7 +39,18 @@ Bei Blutverlust > 25 ml/kg (Erw.: > 1,5 L) soll das Antibiotikum erneut und in d
 |---|---|---|---|---|
 ||**Kinder, Jugendliche)**|**nach HLM -**|**intraoperativ**||
 |||**Beginn**|||
-|**Cefazolin**|30 mg/kg (max. 2g, >120 kg<br>KG: 3g)<br>Start max. 60 min vor Schnitt<br>& beendet vor Schnitt|mit 50% der<br>Initialdosis<br>Max. 1 g|30 mg/kg alle<br>4 h bis<br>Hautnaht<br>Max. 2 g|≤ 7 LT: 30 mg/kg alle 12 h<br>> 7 LT: 30 mg/kg alle 8 h<br>Max. 2 g alle 8 h<br>Dauer: 24 h|
+|**Cefazolin**|30 mg/kg (max. 2g, >120 kg
+KG: 3g)
+Start max. 60 min vor Schnitt
+& beendet vor Schnitt|mit 50% der
+Initialdosis
+Max. 1 g|30 mg/kg alle
+4 h bis
+Hautnaht
+Max. 2 g|≤ 7 LT: 30 mg/kg alle 12 h
+> 7 LT: 30 mg/kg alle 8 h
+Max. 2 g alle 8 h
+Dauer: 24 h|
 ||||||
 |LT = Lebenstage|||||
 
@@ -53,7 +64,15 @@ Bei MRSA-Besiedlung bzw. nach vorangegangener MRSA-Infektion wird die Prophylaxe
 |---|---|---|
 ||**Kinder, Jugendliche)**||
 |Cefazolin|(s.o.)|(s.o.)|
-|**PLUS Vancomycin**|15 mg/kg über 1h<br>Bei >1 g Gabe über 2h<br>Innerhalb 60 min vor Schnitt<br>beendet<br>Fortführung als<br>Dauerinfusion|Neugeborene: 20 mg/kg<br>>28 LT: 30 mg/kg/Tag<br>Bei prä-operativer GFR<20 ml/min/1.73m², Anurie:<br>7 mg/kg; max. 0,8 g/Tag|
+|**PLUS Vancomycin**|15 mg/kg über 1h
+Bei >1 g Gabe über 2h
+Innerhalb 60 min vor Schnitt
+beendet
+Fortführung als
+Dauerinfusion|Neugeborene: 20 mg/kg
+>28 LT: 30 mg/kg/Tag
+Bei prä-operativer GFR<20 ml/min/1.73m², Anurie:
+7 mg/kg; max. 0,8 g/Tag|
 ||||
 |LT = Lebenstage|||
 
@@ -68,11 +87,32 @@ Bei Patienten mit niedrigem Risiko für eine MRSA-Infektion wird Clindamycin ver
 |||**Wiederholung**||
 |---|---|---|---|
 ||**Initialdosis**||**Post-OP**|
-|||<br>**intraoperativ**||
+|||
+**intraoperativ**||
 |||||
-|**Clindamycin**|Neugeborene (> 2 kg)*<br>≤ 7 LT: 7 mg/kg<br>8-28 LT: 9 mg/kg<br>Säuglinge > 28 LT und Kinder<br>10 mg/kg<br>max. Erwachsenendosis<br>Erwachsene<br>900 mg<br>Gabe 30–60 min vor<br>Hautschnitt|alle 6 h bis<br>Hautnaht|Neugeborene (> 2 kg)*<br>≤ 7 LT: 7 mg/kg alle 8 h<br>>8-28 LT: 9 mg/kg alle 8 h<br>Säuglinge> 28 LT und Kinder<br>10 mg/kg alle 8 h<br>max. Erwachsenendosis<br>Erwachsene<br>900 mg alle 8 h<br>Dauer: 24 h|
+|**Clindamycin**|Neugeborene (> 2 kg)*
+≤ 7 LT: 7 mg/kg
+8-28 LT: 9 mg/kg
+Säuglinge > 28 LT und Kinder
+10 mg/kg
+max. Erwachsenendosis
+Erwachsene
+900 mg
+Gabe 30–60 min vor
+Hautschnitt|alle 6 h bis
+Hautnaht|Neugeborene (> 2 kg)*
+≤ 7 LT: 7 mg/kg alle 8 h
+>8-28 LT: 9 mg/kg alle 8 h
+Säuglinge> 28 LT und Kinder
+10 mg/kg alle 8 h
+max. Erwachsenendosis
+Erwachsene
+900 mg alle 8 h
+Dauer: 24 h|
 |||||
-|LT: Lebenstage<br>* Neugeborene ≤ 2 kg Körpergewicht erhalten initial 5 mg/kg, danach 5 mg/kg alle 8 Stunden für<br>insgesamt 24 Stunden. Ab 29. LT 10 mg/kgalle 8 Stunden.||||
+|LT: Lebenstage
+* Neugeborene ≤ 2 kg Körpergewicht erhalten initial 5 mg/kg, danach 5 mg/kg alle 8 Stunden für
+insgesamt 24 Stunden. Ab 29. LT 10 mg/kgalle 8 Stunden.||||
 
 Vgl.: Bradley JS et al., Eds. Nelson's Pediatric Antimicrobial Therapy. 29th Ed. American Academy of Pediatrics; 2023. 
 

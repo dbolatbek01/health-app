@@ -7,7 +7,11 @@ Enhanced Recovery after Cardiac Surgery bei minimalinvasiver Chirurgie (ERACS MI
 
 Klinik für Herz-, Thorax- und Gefäßchirurgie Klinik für Kardioanästhesiologie und Intensivmedizin 
 
-Änderungshistorie<br>Version  Erstellt<br>Schmidt, G.<br>**----- End of picture text -----**<br>
+Änderungshistorie
+Version  Erstellt
+Schmidt, G.
+**----- End of picture text -----**
+
 
 ## **Inhaltsverzeichnis** 
 

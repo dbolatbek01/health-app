@@ -100,10 +100,19 @@ Geltungsbereich:  OP-Bereich DHZC
 |PCI|3500|
 |kombinierte Koronarangiographie/ PCI|4000|
 |TAVI|5000|
-|elektrophysiologische Untersuchung (EPU: Implantation Schrittmacher +<br>Defibrillatoren)<br>- Einkammersystem<br>- Zweikammersystem<br>- Dreikammersystem|900<br>1700<br>4900|
+|elektrophysiologische Untersuchung (EPU: Implantation Schrittmacher +
+Defibrillatoren)
+- Einkammersystem
+- Zweikammersystem
+- Dreikammersystem|900
+1700
+4900|
 |Endovaskuläre Behandlung des akuten Schlaganfalls (Thrombektomie)|14000|
 |Endovaskuläre Behandlung eines Hirnarterienaneurysmas|20000|
-|Endovaskuläre Aneurysma-Therapie<br>- einfache Prothesen<br>- fenestrierte/ gebranchte Prothesen|20000<br>30000|
+|Endovaskuläre Aneurysma-Therapie
+- einfache Prothesen
+- fenestrierte/ gebranchte Prothesen|20000
+30000|
 |Arteriographie Becken-Bein|3500|
 |PTA Becken|5000|
 |PTA Oberschenkel und Knie|2500|

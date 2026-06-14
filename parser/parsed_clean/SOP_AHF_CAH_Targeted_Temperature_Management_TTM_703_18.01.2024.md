@@ -436,7 +436,8 @@ Die **AHA PALS** Guidelines empfehlen eine geringfügig andere Formel für den S
 
 Für das Alter 1–10 Jahre: 2x Alter + 70 mmHg 1 Monat – 1 Jahr: > 70 mmHg > 10 Jahre: > 90 mmHg 
 
-|**Alter**|**5. Perzentile**|**50. Perzentile SPB**|**5. Perzentile MAD**|**50. Perzentile**<br>**MAD(mmHg)**|
+|**Alter**|**5. Perzentile**|**50. Perzentile SPB**|**5. Perzentile MAD**|**50. Perzentile**
+**MAD(mmHg)**|
 |---|---|---|---|---|
 ||**SBP(mmHg)**|**(mmHg)**|**(mmHg)**||
 |1|67|87|42|57|

@@ -182,7 +182,9 @@ RAO 30°
 
 LAO 30°, CRAN 30° RAO 30°, CRAN 30° 
 
-RAO 30° CAUD 30°  LAO 30-40°, CAUD 30°<br>**----- End of picture text -----**<br>
+RAO 30° CAUD 30°  LAO 30-40°, CAUD 30°
+**----- End of picture text -----**
+
 
 ## **Qualitätsempfehlung für die maximal zulässige KM-Menge:** 
 
@@ -202,17 +204,69 @@ Koronarangiographie                                                     1800 cGy
 
 Neben der rein angiographischen Beurteilung von Pathologien der koronaren Makro- und Mikrozirkulation wird evidenzbasiert und abhängig von spezifischen Befundkonstellationen eine erweiterte funktionelle Diagnostik empfohlen. Bei intermediären Stenosen zwischen 40% und 80% in der Koronarangiographie wird eine Druckdrahtmessung entweder in Ruhe (RFR oder DFR) oder unter Hyperämie mit Adenosin (FFR) ( **Klasse IA** )[4, 5] empfohlen. Dabei handelt es sich um folgende Verfahren: 
 
-|||||||**ESC-**<br>||
+|||||||**ESC-**
+||
 |---|---|---|---|---|---|---|---|
 ||||**Cut-off**|||||
-|**Verfahren**|**Messprinzip**|**Adenosin**|**für**<br>|**Vorteile**|**Limitationen**|**Empfehlung**|**Wann**|
+|**Verfahren**|**Messprinzip**|**Adenosin**|**für**
+|**Vorteile**|**Limitationen**|**Empfehlung**|**Wann**|
 |||||||**(Empfehlungsg**|**empfohlen?**|
 ||||**Ischämie**|||**rad)**||
 |||||||||
-|**FFR**|Druckverhältnis<br>unter Hyperämie<br>(Pd/Pa)|Ja|≤0,80|Goldstandard<br>, validiert,<br>Outcome-<br>Daten|Unangenehme<br>Hyperämie,<br>Zeitaufwand,<br>KI bei Asthma<br>oder HFrEF|Klasse I (IA)|Intermediäre<br>Stenosen 40-<br>80%,<br>Graubereich<br>iFR und DFR|
-|**iFR**|Druckverhältnis<br>in wave-free<br>Diastole|Nein|≤0,89|Keine<br>Hyperämie,<br>schnell,<br>validiert|Graubereich<br>(0,89–0,93),<br>Outcome-<br>Daten|Klasse I (IA)|Alternative zu<br>FFR bei<br>intermediären<br>Stenosen|
-|**DFR**|Druckverhältnis<br>in gesamter<br>Diastole|Nein|≤0,89|Numerisch<br>identisch zu<br>iFR, keine<br>Hyperämie|Graubereich<br>(0,89–0,93),<br>weniger<br>validiert|Analog zu iFR<br>(Klasse I)|Alternative zu<br>FFR/iFR,<br>Bestätigung<br>mit FFR im<br>Graubereich|
-|**RFR**|Druckverhältnis<br>über gesamten<br>Herzzyklus|Nein|≤0,89|Numerisch<br>identisch zu<br>iFR, keine<br>Hyperämie|Graubereich<br>(0,89–0,93),<br>weniger<br>validiert|Analog zu iFR<br>(Klasse I)|Alternative zu<br>FFR/iFR,<br>Bestätigung<br>mit FFR im<br>Graubereich|
+|**FFR**|Druckverhältnis
+unter Hyperämie
+(Pd/Pa)|Ja|≤0,80|Goldstandard
+, validiert,
+Outcome-
+Daten|Unangenehme
+Hyperämie,
+Zeitaufwand,
+KI bei Asthma
+oder HFrEF|Klasse I (IA)|Intermediäre
+Stenosen 40-
+80%,
+Graubereich
+iFR und DFR|
+|**iFR**|Druckverhältnis
+in wave-free
+Diastole|Nein|≤0,89|Keine
+Hyperämie,
+schnell,
+validiert|Graubereich
+(0,89–0,93),
+Outcome-
+Daten|Klasse I (IA)|Alternative zu
+FFR bei
+intermediären
+Stenosen|
+|**DFR**|Druckverhältnis
+in gesamter
+Diastole|Nein|≤0,89|Numerisch
+identisch zu
+iFR, keine
+Hyperämie|Graubereich
+(0,89–0,93),
+weniger
+validiert|Analog zu iFR
+(Klasse I)|Alternative zu
+FFR/iFR,
+Bestätigung
+mit FFR im
+Graubereich|
+|**RFR**|Druckverhältnis
+über gesamten
+Herzzyklus|Nein|≤0,89|Numerisch
+identisch zu
+iFR, keine
+Hyperämie|Graubereich
+(0,89–0,93),
+weniger
+validiert|Analog zu iFR
+(Klasse I)|Alternative zu
+FFR/iFR,
+Bestätigung
+mit FFR im
+Graubereich|
 
 ## **RFR** 
 
@@ -417,15 +471,53 @@ Geltungsbereich: Herzkatheterlabore
 |**Technik**|**Strategie**||**Vorteile**|**Nachteile/Limitationen**|
 |||**(Indikation)**|||
 ||||||
-|**Provisional**<br>**Stenting**|1-Stent|Non-true Bifurkation;<br>Side Branch < 2.5 mm; SB<br>nicht kritisch|Einfach, schnell,<br>gute Ergebnisse|Bei instabilem SB Risiko für<br>Kompromittierung|
-|**T-Stenting**|2-Stent|True Bifurkation, wenn<br>SB 90° Abgang|Einfach, wenig<br>Metall-Overlap|Risiko von Stent-Gaps;<br>abhängig von Anatomie|
-|**TAP (T and small**<br>**protrusion)**|2-Stent|Wenn nach Provisional<br>SB gerettet werden<br>muss|Einfacher als<br>Culotte; gute<br>Apposition|Kleine Protrusion kann<br>Restenose ↑|
-|**Culotte**|2-Stent|True Bifurkation,<br>ähnliche SB/MB<br>Durchmesser|Sehr gute<br>Coverage;<br>zirkuläre Deckung|Viel Metall; komplex; KBI<br>zwingend|
-|**DK-Crush (Double-**<br>**Kissing Crush)**|2-Stent|Komplexe true<br>Bifurkationen; SB ≥ 2.5–<br>3.0 mm|Beste Evidenz<br>(DKCRUSH V);<br>geringste TLR|Am komplexesten; viele<br>Schritte|
-|**Mini-Crush**|2-Stent|True Bifurkation; wenn<br>Culotte ungeeignet|Einfacher als<br>klassische Crush|Metall-Overlap; KBI<br>zwingend|
-|**V-Stenting**|2-Stent|Sehr frühe Aufzweigung;<br>kurze LM-Bifurkation|Schnell; simultane<br>Deckung|Kein vollständiges Ostium-<br>Scaffolding|
-|**SKS (Simultaneous**<br>**Kissing Stent)**|2-Stent|Seltene Rescue-Technik|Schnelle Lösung<br>bei SB-Kollaps|Viel Metall, Restenose ↑,<br>selten empfohlen|
-|**Reverse T-**<br>**Stenting**|2-Stent|Wenn nach MB-Stent SB<br>gut zugänglich|Gut in präzisen<br>Anatomien|Erfordert perfekte<br>Ausrichtung|
+|**Provisional**
+**Stenting**|1-Stent|Non-true Bifurkation;
+Side Branch < 2.5 mm; SB
+nicht kritisch|Einfach, schnell,
+gute Ergebnisse|Bei instabilem SB Risiko für
+Kompromittierung|
+|**T-Stenting**|2-Stent|True Bifurkation, wenn
+SB 90° Abgang|Einfach, wenig
+Metall-Overlap|Risiko von Stent-Gaps;
+abhängig von Anatomie|
+|**TAP (T and small**
+**protrusion)**|2-Stent|Wenn nach Provisional
+SB gerettet werden
+muss|Einfacher als
+Culotte; gute
+Apposition|Kleine Protrusion kann
+Restenose ↑|
+|**Culotte**|2-Stent|True Bifurkation,
+ähnliche SB/MB
+Durchmesser|Sehr gute
+Coverage;
+zirkuläre Deckung|Viel Metall; komplex; KBI
+zwingend|
+|**DK-Crush (Double-**
+**Kissing Crush)**|2-Stent|Komplexe true
+Bifurkationen; SB ≥ 2.5–
+3.0 mm|Beste Evidenz
+(DKCRUSH V);
+geringste TLR|Am komplexesten; viele
+Schritte|
+|**Mini-Crush**|2-Stent|True Bifurkation; wenn
+Culotte ungeeignet|Einfacher als
+klassische Crush|Metall-Overlap; KBI
+zwingend|
+|**V-Stenting**|2-Stent|Sehr frühe Aufzweigung;
+kurze LM-Bifurkation|Schnell; simultane
+Deckung|Kein vollständiges Ostium-
+Scaffolding|
+|**SKS (Simultaneous**
+**Kissing Stent)**|2-Stent|Seltene Rescue-Technik|Schnelle Lösung
+bei SB-Kollaps|Viel Metall, Restenose ↑,
+selten empfohlen|
+|**Reverse T-**
+**Stenting**|2-Stent|Wenn nach MB-Stent SB
+gut zugänglich|Gut in präzisen
+Anatomien|Erfordert perfekte
+Ausrichtung|
 
 - Nachdilatation inkl. POT ggf. Kissing Ballonangioplastie 
 
@@ -721,13 +813,18 @@ Geltungsbereich: Herzkatheterlabore
 
 |**Materialien**||
 |---|---|
-|**Einmalmaterialien**|Diagnostisch 5,0 F Katheter<br>Schleusen: Femoral 6 F, Transradial 6 F, High Risk 6 F / 7 F<br>Handsteuerung (Sets in Vorbereitung)|
+|**Einmalmaterialien**|Diagnostisch 5,0 F Katheter
+Schleusen: Femoral 6 F, Transradial 6 F, High Risk 6 F / 7 F
+Handsteuerung (Sets in Vorbereitung)|
 |||
-|**Instrumentarium**|LV-Biopsie: Maslanka – Zange 7 F / radial / Standard LV<br>MP1 SH 7 F Katheter<br>RV-Biopsie|
+|**Instrumentarium**|LV-Biopsie: Maslanka – Zange 7 F / radial / Standard LV
+MP1 SH 7 F Katheter
+RV-Biopsie|
 |||
 |**Abdeckungen**|Abdecksets|
 |**Nahtmaterial**|Mersilene 0|
-|**Notfallset**|ZVK-Set, Dialyse Sheldon Set, PE Set, Arterielles Punktionsset, Pericard-Punktionsset<br>KIT (Merit Medical (CBF/CCM) oder Angiocard (CVK)|
+|**Notfallset**|ZVK-Set, Dialyse Sheldon Set, PE Set, Arterielles Punktionsset, Pericard-Punktionsset
+KIT (Merit Medical (CBF/CCM) oder Angiocard (CVK)|
 |||
 
 ## **Mitgeltende Dokumente** 
@@ -756,7 +853,16 @@ Geltungsbereich: Herzkatheterlabore
 
 |||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|
-||**REA-**<br>**Wagen**|**Absaugung**|**ACT**|**O2**<br>**Anschluss**<br>**Ambu-**<br>**Beutel **|**Pericard-**<br>**punktions-**<br>**set**|**Defi +**<br>**Kabel**|**SM**|**Beatmungsgerät**<br>**+ O2 Flasche**|**BGA-**<br>**Gerät**|**BTM**|**Kühlschrank**|
+||**REA-**
+**Wagen**|**Absaugung**|**ACT**|**O2**
+**Anschluss**
+**Ambu-**
+**Beutel **|**Pericard-**
+**punktions-**
+**set**|**Defi +**
+**Kabel**|**SM**|**Beatmungsgerät**
+**+ O2 Flasche**|**BGA-**
+**Gerät**|**BTM**|**Kühlschrank**|
 |1||||||||||||
 |2||||||||||||
 |3||||||||||||

@@ -53,7 +53,8 @@ Die Besprechung wird vom oberärztlichen Dienst der WD1I nach folgender Checklis
 |---|---|
 |**Teil 1: Ermittlung Bettenbedarf und -kapazitäten**||
 |Teilnehmer:innen vollständig|OÄ WD1I|
-|Bettenbedarf für das OP-Programm inklusive ERACS-Patient:innen<br>sowie Hybrid-Reservebetten|OP-Koordination / OP-Planung|
+|Bettenbedarf für das OP-Programm inklusive ERACS-Patient:innen
+sowie Hybrid-Reservebetten|OP-Koordination / OP-Planung|
 |Geplante interne oder externe Übernahmen|OÄ ITM sowie OP-Planung|
 |Verlegungsoptionen/Bettenangebot WD1I|OÄ WD1I|
 |Verlegungsoptionen/Bettenangebot WD2I|OÄ WD2I|

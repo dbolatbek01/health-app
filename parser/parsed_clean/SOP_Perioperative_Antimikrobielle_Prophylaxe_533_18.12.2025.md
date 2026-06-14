@@ -36,7 +36,9 @@ Somit gilt für herzchirurgische Eingriffe (Eingriffe mit Sternotomie und Eingri
 |Redosierung nach HLM-Beginn|1 g|
 |Wiederholungsgabe intraoperativ|2 g alle 4 h (HWZ 2 h)|
 |Postoperativ*|2 g alle 8 h für 24 h (max. 3 Gaben)|
-|* Keine Fortsetzung postoperativ erforderlich bei a) sämtlichen interventionellen Klappeneingriffen ohne<br>Thorakotomie, b) bei Implantation, Austausch oder Revision von CIED sowie c) bei Eingriffen ohne Sternotomie und<br>ohne Verwendung von Implantaten (z.B. Perikardektomie).||
+|* Keine Fortsetzung postoperativ erforderlich bei a) sämtlichen interventionellen Klappeneingriffen ohne
+Thorakotomie, b) bei Implantation, Austausch oder Revision von CIED sowie c) bei Eingriffen ohne Sternotomie und
+ohne Verwendung von Implantaten (z.B. Perikardektomie).||
 
 Die Wiederholungsgaben erfolgen alle 4 Stunden, gerechnet ab dem Zeitpunkt der ersten Gabe. Mit Beginn der HLM wird 1 g Cefazolin zusätzlich verabreicht. 
 
@@ -80,16 +82,25 @@ Breiter Konsens (bei allerdings fehlender Evidenz) ist, dass die PAP bei Patient
 
 |**Zusätzliche Vancomycin-Gabe (+ Vancomycin)**|**Zusätzliche Vancomycin-Gabe (+ Vancomycin)**|**Zusätzliche Vancomycin-Gabe (+ Vancomycin)**|
 |---|---|---|
-||60 min vor Hautschnitt|15 mg/kg KG über 60 min<br>< 80 kg: 1 g<br>80-100 kg: 1,5 g<br>> 100 kg: 2 g|
+||60 min vor Hautschnitt|15 mg/kg KG über 60 min
+< 80 kg: 1 g
+80-100 kg: 1,5 g
+> 100 kg: 2 g|
 |**Bei normaler Nierenfunktion**|||
 ||||
 ||anschließend Fortführung als Perfusor*|2 g/50 ml über 24 h|
-||60 min vor Hautschnitt|15 mg/kg KG über 60 min<br>< 80 kg: 1 g<br>80-100 kg: 1,5 g<br>> 100 kg: 2 g|
+||60 min vor Hautschnitt|15 mg/kg KG über 60 min
+< 80 kg: 1 g
+80-100 kg: 1,5 g
+> 100 kg: 2 g|
 |**Bei eingeschränkter**|||
 |**Nierenfunktion**|||
 |**(GFR < 20 ml/min)**|||
 ||anschließend Fortführung als Perfusor*|1 g/50 ml über 24 h|
-|* Die Fortführung als Perfusor über 24 h ist nicht erforderlich bei a) sämtlichen interventionellen Klappeneingriffen ohne<br>Thorakotomie, b) bei Implantation, Austausch oder Revision von CIED sowie c) bei Eingriffen ohne Sternotomie und ohne<br>Verwendung von Implantaten (z.B. Perikardektomie). Hier wäre ggf, eine intraoperative Wiederholungsgabe nach 8 h<br>erforderlich.|||
+|* Die Fortführung als Perfusor über 24 h ist nicht erforderlich bei a) sämtlichen interventionellen Klappeneingriffen ohne
+Thorakotomie, b) bei Implantation, Austausch oder Revision von CIED sowie c) bei Eingriffen ohne Sternotomie und ohne
+Verwendung von Implantaten (z.B. Perikardektomie). Hier wäre ggf, eine intraoperative Wiederholungsgabe nach 8 h
+erforderlich.|||
 
 **Perioperative und periinterventionelle antimikrobielle Prophylaxe (PAP)** 
 
@@ -123,16 +134,25 @@ Alternatives Regime für Patienten mit schweren Penicillin- bzw. Betalaktam-Alle
 
 |**Vancomycin-Gabe(ggf. + Cefazolin s. Besonderheiten)**|**Vancomycin-Gabe(ggf. + Cefazolin s. Besonderheiten)**|**Vancomycin-Gabe(ggf. + Cefazolin s. Besonderheiten)**|
 |---|---|---|
-||60 min vor Hautschnitt|15 mg/kg KG über 60 min<br>< 80 kg: 1 g<br>80-100 kg: 1,5 g<br>> 100 kg: 2 g|
+||60 min vor Hautschnitt|15 mg/kg KG über 60 min
+< 80 kg: 1 g
+80-100 kg: 1,5 g
+> 100 kg: 2 g|
 |**Bei normaler Nierenfunktion**|||
 ||||
 ||anschließend Fortführung als Perfusor*|2 g/50 ml über 24 h|
-||60 min vor Hautschnitt|15 mg/kg KG über 60 min<br>< 80 kg: 1 g<br>80-100 kg: 1,5 g<br>> 100 kg: 2 g|
+||60 min vor Hautschnitt|15 mg/kg KG über 60 min
+< 80 kg: 1 g
+80-100 kg: 1,5 g
+> 100 kg: 2 g|
 |**Bei eingeschränkter**|||
 |**Nierenfunktion**|||
 |**(GFR < 20 ml/min)**|||
 ||anschließend Fortführung als Perfusor*|1 g/50 ml über 24 h|
-|*Die Fortführung als Perfusor über 24 h ist nicht erforderlich bei a) sämtlichen interventionellen Klappeneingriffen ohne<br>Thorakotomie, b) bei Implantation, Austausch oder Revision von CIED sowie c) bei Eingriffen ohne Sternotomie und ohne<br>Verwendung von Implantaten (z.B. Perikardektomie). Hier wäre ggf. eine intraoperative Wiederholungsgabe nach 8 h<br>erforderlich.|||
+|*Die Fortführung als Perfusor über 24 h ist nicht erforderlich bei a) sämtlichen interventionellen Klappeneingriffen ohne
+Thorakotomie, b) bei Implantation, Austausch oder Revision von CIED sowie c) bei Eingriffen ohne Sternotomie und ohne
+Verwendung von Implantaten (z.B. Perikardektomie). Hier wäre ggf. eine intraoperative Wiederholungsgabe nach 8 h
+erforderlich.|||
 
 ## **4.2 Besonderheiten** 
 
@@ -166,7 +186,8 @@ Keine Weiterführung der Cefazolingabe post-OP bei Therapie mit:
 |---|---|
 |Amoxicillin/Clavulansäure|Ceftobiprol|
 |Piperacillin/Tazobactam|Cefuroxim|
-|allen Carbapenemen (Doripenem, Ertapenem, Imipenem, Imipenem/Relobactam, Meropenem,<br>Meropenem/Vaborbactam)||
+|allen Carbapenemen (Doripenem, Ertapenem, Imipenem, Imipenem/Relobactam, Meropenem,
+Meropenem/Vaborbactam)||
 
 ## Perioperative und periinterventionelle antimikrobielle Prophylaxe (PAP)
 
@@ -218,15 +239,67 @@ SOP526 CAI Transplantation Herz, Herz-Lunge SOP530 CAI Transplantation Lunge SOP
 
 |**Eingriff/OP**|**Standard-PAP**|**Penicillin-Allergie**|**MRSA-Risiko: zusätzlich zur Standard-PAP**|
 |---|---|---|---|
-|**Herzchirurgische Eingriffe**|**Cefazolin**2 g i.v. *<br>(≥ 150 kg KG: 3 g)<br>30-60 Min. vor Hautschnitt,<br>Zusätzlich Gabe nach Start HLM 1 g<br>Wiederholungsgabe intraop. nach 4 h<br>post-OP alle 8 h ab letzter Gabe im OP<br>(3 Gaben)|**Vancomycin**1i.v.******<br>Dosierung:<br>≤ 80 kg: 1 g<br>81-90 kg KG: 1,5 g<br>> 90 kg KG: 2 g<br>60-120 min vor Hautschnitt,<br>anschließend Fortführung als Perfusor 2 g/50 ml<br>über 24 h (bei GFR < 20 ml/min: 1 g/50 ml)|**PLUS Vancomycin**i.v.******<br>Dosierung:<br>≤ 80 kg: 1 g<br>81-90 kg KG: 1,5 g<br>> 90 kg KG: 2 g<br>60-120 min vor Hautschnitt,<br>anschließend Fortführung als Perfusor 2 g/50 ml über 24 h<br>(bei GFR < 20 ml/min: 1 g/50 ml)|
+|**Herzchirurgische Eingriffe**|**Cefazolin**2 g i.v. *
+(≥ 150 kg KG: 3 g)
+30-60 Min. vor Hautschnitt,
+Zusätzlich Gabe nach Start HLM 1 g
+Wiederholungsgabe intraop. nach 4 h
+post-OP alle 8 h ab letzter Gabe im OP
+(3 Gaben)|**Vancomycin**1i.v.******
+Dosierung:
+≤ 80 kg: 1 g
+81-90 kg KG: 1,5 g
+> 90 kg KG: 2 g
+60-120 min vor Hautschnitt,
+anschließend Fortführung als Perfusor 2 g/50 ml
+über 24 h (bei GFR < 20 ml/min: 1 g/50 ml)|**PLUS Vancomycin**i.v.******
+Dosierung:
+≤ 80 kg: 1 g
+81-90 kg KG: 1,5 g
+> 90 kg KG: 2 g
+60-120 min vor Hautschnitt,
+anschließend Fortführung als Perfusor 2 g/50 ml über 24 h
+(bei GFR < 20 ml/min: 1 g/50 ml)|
 |||||
 |**PAP-Dauer 24 h**||||
 |||||
-|**Transfemorale Eingriffe**|**Ampicillin/Sulbactam**3 g i.v. ***<br>30-60 min vor Hautschnitt<br>(ggf. Wiederholungsgabe intraop. nach 2 h)|**Vancomycin**1i.v.   **<br>Dosierung:<br>≤ 80 kg: 1 g<br>81-90 kg KG: 1,5 g<br>> 90 kg KG: 2 g<br>60-120 min vor Hautschnitt<br>(ggf. Wiederholungsgabe intraop. nach 8 h)<br>wenn vertretbar:**PLUS Cefazolin**2 g i.v.*****<br>(≥ 150 kg KG: 3 g)<br>30-60 min vor Hautschnitt<br>(ggf. Wiederholungsgabe intraop. nach 4 h)|**PLUS Vancomycin**i.v. **<br>Dosierung:<br>≤ 80 kg: 1 g<br>81-90 kg KG: 1,5 g<br>> 90 kg KG: 2 g<br>60-120 min vor Hautschnitt<br>(ggf. Wiederholungsgabe intraop. nach 8 h)|
+|**Transfemorale Eingriffe**|**Ampicillin/Sulbactam**3 g i.v. ***
+30-60 min vor Hautschnitt
+(ggf. Wiederholungsgabe intraop. nach 2 h)|**Vancomycin**1i.v.   **
+Dosierung:
+≤ 80 kg: 1 g
+81-90 kg KG: 1,5 g
+> 90 kg KG: 2 g
+60-120 min vor Hautschnitt
+(ggf. Wiederholungsgabe intraop. nach 8 h)
+wenn vertretbar:**PLUS Cefazolin**2 g i.v.*****
+(≥ 150 kg KG: 3 g)
+30-60 min vor Hautschnitt
+(ggf. Wiederholungsgabe intraop. nach 4 h)|**PLUS Vancomycin**i.v. **
+Dosierung:
+≤ 80 kg: 1 g
+81-90 kg KG: 1,5 g
+> 90 kg KG: 2 g
+60-120 min vor Hautschnitt
+(ggf. Wiederholungsgabe intraop. nach 8 h)|
 |||||
 |**Einmaldosis**||||
 |||||
-|**Interventionelle**|**Cefazolin**2 g i.v. *<br>30-60 min vor Hautschnitt<br>(ggf. Wiederholungsgabe intraop. nach 4 h)|**Vancomycin**i.v.  **<br>Dosierung:<br>≤ 80 kg: 1 g<br>81-90 kg KG: 1,5 g<br>> 90 kg KG: 2 g<br>60-120 min vor Hautschnitt<br>(ggf. Wiederholungsgabe intraop. nach 8 h)|**PLUS Vancomycin**i.v. **<br>Dosierung:<br>≤ 80 kg: 1 g<br>81-90 kg KG: 1,5 g<br>> 90 kg KG: 2 g<br>60-120 min vor Hautschnitt<br>(ggf. Wiederholungsgabe intraop. nach 8 h)|
+|**Interventionelle**|**Cefazolin**2 g i.v. *
+30-60 min vor Hautschnitt
+(ggf. Wiederholungsgabe intraop. nach 4 h)|**Vancomycin**i.v.  **
+Dosierung:
+≤ 80 kg: 1 g
+81-90 kg KG: 1,5 g
+> 90 kg KG: 2 g
+60-120 min vor Hautschnitt
+(ggf. Wiederholungsgabe intraop. nach 8 h)|**PLUS Vancomycin**i.v. **
+Dosierung:
+≤ 80 kg: 1 g
+81-90 kg KG: 1,5 g
+> 90 kg KG: 2 g
+60-120 min vor Hautschnitt
+(ggf. Wiederholungsgabe intraop. nach 8 h)|
 |**Klappeneingriffe, anderer**||||
 |**Zugangsweg;**||||
 |||||

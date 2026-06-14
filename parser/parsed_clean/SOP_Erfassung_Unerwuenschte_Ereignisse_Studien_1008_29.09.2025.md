@@ -13,9 +13,12 @@ Geltungsbereich: **Erfassung von unerwünschten Ereignissen im** Forschung und k
 |4|Begriffsdefinitionen .......................................................................................................................... 3|
 |5|Prozessbeschreibung ...................................................................................................................... 3|
 |5.1|Erfassung von AEs ........................................................................................................................... 4|
-||5.1.1<br>während der Indexhospitalisierung .......................................................................... 4|
-||5.1.2<br>bei (Re-)Hospitalisierungen ..................................................................................... 4|
-||5.1.3<br>bei geplanten Follow-up Visiten............................................................................... 4|
+||5.1.1
+während der Indexhospitalisierung .......................................................................... 4|
+||5.1.2
+bei (Re-)Hospitalisierungen ..................................................................................... 4|
+||5.1.3
+bei geplanten Follow-up Visiten............................................................................... 4|
 |5.2|Dokumentation und Meldung von AEs .............................................................................................. 5|
 |6|Mitgeltende Dokumente ................................................................................................................... 5|
 |7|Anlagen zur SOP ............................................................................................................................. 5|
@@ -56,7 +59,8 @@ Diese SOP richtet sich an alle an den Studien beteiligten Ärzte/innen, Studienk
 
 Die umgehende und lückenlose Erfassung von unerwünschten Ereignissen, bedarf der Kooperation, Mitarbeit und Aufmerksamkeit aller Mitarbeitenden der an klinischen Studien beteiligten Kliniken des Deutschen Herzzentrums der Charité (DHZC). Sie setzt im ersten Schritt voraus, dass unerwünschte Ereignisse bei Studienteilnehmenden konsequent an das studiendurchführende Personal gemeldet werden. Hierzu sind alle ärztlichen Mitarbeitenden des DHZC aufgerufen. 
 
-|Version:|SOP-Nr.: 1008|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite<br>3 von 5||
+|Version:|SOP-Nr.: 1008|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite
+3 von 5||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |||||||||||||||
 
@@ -82,7 +86,8 @@ Grundsätzlich werden Studienteilnehmende gebeten, aufgetretene außerplanmäßi
 
 Bei ambulanten oder telefonischen Follow-up Visiten erfolgt durch den/die Prüfarzt/ärztin und/oder den/die Studienkoordinator/in zusätzlich immer eine gezielte Befragung hinsichtlich möglicher zwischenzeitlich aufgetretener unerwünschter Ereignisse. Die Studienteilnehmenden werden bei der Terminvereinbarung gebeten, alle zwischenzeitlich erhaltenen Befunde bei der Studienvisite zur Verfügung zu stellen. Diese werden auf mögliche weitere unerwünschte Ereignisse überprüft. Liegen den Studienteilnehmenden keine Befunde zu stattgefundenen unerwünschten Ereignissen vor, werden diese bei den behandelnden Kliniken oder Praxen angefordert. 
 
-|Version:|SOP-Nr.: 1008|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite<br>4 von 5||
+|Version:|SOP-Nr.: 1008|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite
+4 von 5||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |||||||||||||||
 
@@ -110,7 +115,8 @@ AE Adverse Event / unerwünschtes Ereignis SAE Serious Adverse Event / schwerwie
 
 |Version|Änderungsgrund bzw. Kurzbeschreibung (Abschnitt) der Änderungen|
 |---|---|
-|V1.0|<br>Ersterstellung|
+|V1.0|
+Ersterstellung|
 
 Alle Anpassungen an dieser SOP werden lückenlos im Excel-Änderungsprotokoll (Formblatt FATP-QM-02) dokumentiert. 
 

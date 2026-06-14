@@ -28,27 +28,58 @@ Zielsetzung dieser SOP ist die Definition der Qualitätsmerkmale der Inhouse-Sch
 
 ## **3. Basic Life Support (BLS)** 
 
-|**Lehrinhalte**|Theoretische und praktische Unterweisung in den BLS-<br>Algorithmus nach aktuellen ERC-Leitlinien und SOPs<br>Hands-On-Workshops (ideal: in den Abteilungen)<br>Schulung nicht technischer Skills (Human Factors)<br>Simulationstraining mithilfe eines Trainings-Manikins mit<br>integriertem Feedback-System<br>Training mit Debriefing<br>Verwendung von Merkhilfen, Ausgabe von Handouts<br>(BLS-Algorithmus)|
+|**Lehrinhalte**|Theoretische und praktische Unterweisung in den BLS-
+Algorithmus nach aktuellen ERC-Leitlinien und SOPs
+Hands-On-Workshops (ideal: in den Abteilungen)
+Schulung nicht technischer Skills (Human Factors)
+Simulationstraining mithilfe eines Trainings-Manikins mit
+integriertem Feedback-System
+Training mit Debriefing
+Verwendung von Merkhilfen, Ausgabe von Handouts
+(BLS-Algorithmus)|
 |---|---|
 |||
 |**Zeitumfang**|Je nach Umfang der Teilnehmergruppen 30–60 Minuten|
 |**(Nach-)Schulungsintervall**|24 Monate|
-|**Trainerqualifikation**|BLS-Provider oder höhere Qualifikation mit aktuell gültiger ERC- oder<br>AHA-Zertifizierung|
+|**Trainerqualifikation**|BLS-Provider oder höhere Qualifikation mit aktuell gültiger ERC- oder
+AHA-Zertifizierung|
 |||
-|**Mitarbeiterzielgruppen**|Nicht ärztliche Gesundheitsberufe der klinischen Praxis sowie<br>fakultativ Angestellte im Verwaltungsbereich<br>(ausgenommen Pflegedienst der Intensivstationen, Anästhesie,<br>Herzkatherlabor)|
+|**Mitarbeiterzielgruppen**|Nicht ärztliche Gesundheitsberufe der klinischen Praxis sowie
+fakultativ Angestellte im Verwaltungsbereich
+(ausgenommen Pflegedienst der Intensivstationen, Anästhesie,
+Herzkatherlabor)|
 |||
 
 Mit Abschluss der BLS-Schulung erhält jede:r Mitarbeitende ein Zertifikat über die Teilnahme. 
 
 ## **4. Advanced Life Support (ALS)** 
 
-|**Lehrinhalte**|Theoretische und praktische Unterweisung in den BLS- und ALS-<br>Algorithmus nach aktuellen ERC-Reanimationsleitlinien und<br>klinikinternen SOPs mit Berücksichtigung spezieller<br>Fragestellungen (Pat. nach kardiochirurgischer Versorgung sowie<br>VAD-Implantation) und der kontextbezogenen, besonderen Rolle<br>der POCUS-Diagnostik<br>Schulung nicht technischer Skills (Human Factors)<br>Praktisches ALS-Gruppentraining an einem High-Fidelity-Manikin<br>auf Grundlage kliniktypischer Fallszenarien mit Briefing und<br>Debriefing<br>Verwendung von Merkhilfen, Ausgabe von Handouts<br>(BLS-/ALS-Algorithmus)|
+|**Lehrinhalte**|Theoretische und praktische Unterweisung in den BLS- und ALS-
+Algorithmus nach aktuellen ERC-Reanimationsleitlinien und
+klinikinternen SOPs mit Berücksichtigung spezieller
+Fragestellungen (Pat. nach kardiochirurgischer Versorgung sowie
+VAD-Implantation) und der kontextbezogenen, besonderen Rolle
+der POCUS-Diagnostik
+Schulung nicht technischer Skills (Human Factors)
+Praktisches ALS-Gruppentraining an einem High-Fidelity-Manikin
+auf Grundlage kliniktypischer Fallszenarien mit Briefing und
+Debriefing
+Verwendung von Merkhilfen, Ausgabe von Handouts
+(BLS-/ALS-Algorithmus)|
 |---|---|
 |||
 |**Zeitumfang**|120 Minuten|
 |**(Nach-)Schulungsintervall**|24 Monate|
 |**Trainerqualifikation**|ALS-Instruktor:in (ERC) mit aktuell gültiger Zertifizierung|
-|**Mitarbeiterzielgruppen am**|Ärztinnen und Ärzte sowie Physician Assistants der klinischen<br>Praxis<br>Nicht ärztliche Mitarbeitende der Intensiv- und IMC-Stationen, der<br>Kardio-Anästhesieabteilung, der Herzkatheter-Labore<br>(Pflegekräfte, ATAs, MFAs)<br>Pflegekräfte in zertifizierten Bereichen (z.B. CPU), für die sich<br>aufgrund des Anforderungskatalogs des Zertifikats die<br>Anforderung einer regelmäßigen Teilnahme an einem ALS-Kurs<br>ergibt|
+|**Mitarbeiterzielgruppen am**|Ärztinnen und Ärzte sowie Physician Assistants der klinischen
+Praxis
+Nicht ärztliche Mitarbeitende der Intensiv- und IMC-Stationen, der
+Kardio-Anästhesieabteilung, der Herzkatheter-Labore
+(Pflegekräfte, ATAs, MFAs)
+Pflegekräfte in zertifizierten Bereichen (z.B. CPU), für die sich
+aufgrund des Anforderungskatalogs des Zertifikats die
+Anforderung einer regelmäßigen Teilnahme an einem ALS-Kurs
+ergibt|
 |**DHZC-Standort CVK**||
 |||
 

@@ -60,20 +60,38 @@ Bei Patienten mit einer chronischen biventrikulären Herzinsuffizienz oder bei P
 
 ## **2. Evaluationsdiagnostik bei Erstvorstellung** 
 
-|**2.**<br>**Evaluationsdiagnostik bei**|**Erstvorstellung**|
+|**2.**
+**Evaluationsdiagnostik bei**|**Erstvorstellung**|
 |---|---|
-|**Allgemeine und spezielle Anamnese**|Diagnose, Krankheitsverlauf, Komorbiditäten<br>Medikation<br>Hämorrhagische Diathese<br>Nikotinabusus<br>Vorherige kardiale Eingriffe|
+|**Allgemeine und spezielle Anamnese**|Diagnose, Krankheitsverlauf, Komorbiditäten
+Medikation
+Hämorrhagische Diathese
+Nikotinabusus
+Vorherige kardiale Eingriffe|
 |||
-|**Status**|Größe/Gewicht<br>Blutdruck<br>Zahnstatus<br>Frailty|
+|**Status**|Größe/Gewicht
+Blutdruck
+Zahnstatus
+Frailty|
 |||
 |**Lungenfunktion**|Bodyplethysmographie|
-|**Belastungstest**|6-MWT mit Spo2-Messung<br>ggf. Spiroergometrie|
+|**Belastungstest**|6-MWT mit Spo2-Messung
+ggf. Spiroergometrie|
 |||
 |**Basislabor**|Blutbild,Gerinnung,klinische Chemie,NT-pro-BNP|
 |**EKG**||
-|**Echokardiographie**|LV-Funktion, SV, CI<br>Beurteilung von rechtem Ventrikel und RV-Funktion (RVEDD,<br>systolischer rechtsventrikulärer Druck)<br>Klappenvitien|
+|**Echokardiographie**|LV-Funktion, SV, CI
+Beurteilung von rechtem Ventrikel und RV-Funktion (RVEDD,
+systolischer rechtsventrikulärer Druck)
+Klappenvitien|
 |||
-|**Psychosoziale Evaluation**|Soziales<br>Umfeld,<br>Therapieadhärenz,<br>Nikotin-<br>und<br>anderer<br>Drogenkonsum sowie erste Aufklärung|
+|**Psychosoziale Evaluation**|Soziales
+Umfeld,
+Therapieadhärenz,
+Nikotin-
+und
+anderer
+Drogenkonsum sowie erste Aufklärung|
 |||
 
 Basierend auf extern erhobenen Untersuchungsergebnissen wird des Weiteren das Vorliegen absoluter Kontraindikationen für eine Implantation überprüft. Das Vorliegen absoluter Kontraindikationen führt zur Einstellung weiterer Evaluationsschritte. 
@@ -88,7 +106,9 @@ Die in der Transplantations-/Herzinsuffizienzkonferenz und im MCS-Board getroffe
 
 ## **2.1 Erweiterte Evaluationsdiagnostik bei stabilen Patienten (INTERMACS Level 4 und 5)** 
 
-|**Spezielle Laboruntersuchungen**|Blutgruppe, Hepatitis A-, B-, C,<br>Beta-HCG, PSA, Alpha-Fetoprotein, Urinstix<br>Urinzytologie, Hba1C, Eisenstatus|
+|**Spezielle Laboruntersuchungen**|Blutgruppe, Hepatitis A-, B-, C,
+Beta-HCG, PSA, Alpha-Fetoprotein, Urinstix
+Urinzytologie, Hba1C, Eisenstatus|
 |---|---|
 |||
 |**HNO-ärztliche Vorstellung (zuvor CT**|Fokusausschluss|
@@ -101,7 +121,9 @@ Die in der Transplantations-/Herzinsuffizienzkonferenz und im MCS-Board getroffe
 |**Duplexsonographie der**|> 40 Jahre oder bei Risikofaktoren|
 |**extrakraniellen und peripheren**||
 |**Arterien**||
-|**Gynäkologische (mit**|<br>Unabhängig vom Alter, möglichst ambulant vor Aufnahme<br>durchzuführen|
+|**Gynäkologische (mit**|
+Unabhängig vom Alter, möglichst ambulant vor Aufnahme
+durchzuführen|
 |**Mammographie), urologische und**||
 |**zahnärztliche Vorsorgeuntersuchung**||
 |**Psychosomatische Evaluation**|Unabhängig vom Alter|

@@ -630,10 +630,34 @@ Anforderungen an eine EDV-Befundsoftware auf Basis des Datensatzes
 
 ## **8.2 Notwendige Informationen im Befund einer transthorakalen Echokardiographie** 
 
-|Name des Untersuchers<br>Name der Institution<br>Name des Patienten<br>Geburtsdatum des Patienten<br>Größe, Gewicht<br>Herzfrequenz, Blutdruck<br>Anamnestische Angaben<br>Indikation und Fragestellung<br>Bezeichnung des Ultraschallgeräts|Angabe spezieller<br>Zusatzuntersuchungen<br>|Schallqualität<br>Messparameter<br>˗Direkte Messwerte<br>˗Kalkulierte Messwerte<br>Deskriptive Beschreibung<br>Bewertende Befundung<br>Beantwortung der Fragestellung<br>Hinweise auf Folgeuntersuchungen|
+|Name des Untersuchers
+Name der Institution
+Name des Patienten
+Geburtsdatum des Patienten
+Größe, Gewicht
+Herzfrequenz, Blutdruck
+Anamnestische Angaben
+Indikation und Fragestellung
+Bezeichnung des Ultraschallgeräts|Angabe spezieller
+Zusatzuntersuchungen
+|Schallqualität
+Messparameter
+˗Direkte Messwerte
+˗Kalkulierte Messwerte
+Deskriptive Beschreibung
+Bewertende Befundung
+Beantwortung der Fragestellung
+Hinweise auf Folgeuntersuchungen|
 |---|---|---|
-||˗Kontrastechokardiographie<br>hl||
-||˗Transösopageae<br>Echokardiographie<br>˗Stressechokardiographie<br>Komplikationen<br>Medikamentenapplikationen<br>˗u.a. Sedativa, Analgetika,<br>Antiallergika||
+||˗Kontrastechokardiographie
+hl||
+||˗Transösopageae
+Echokardiographie
+˗Stressechokardiographie
+Komplikationen
+Medikamentenapplikationen
+˗u.a. Sedativa, Analgetika,
+Antiallergika||
 
 ## **9. Archivierung** 
 

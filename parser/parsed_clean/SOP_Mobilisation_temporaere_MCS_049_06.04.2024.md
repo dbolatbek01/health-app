@@ -84,7 +84,8 @@ Die unterschiedlichen temporären mechanischen Unterstützungssysteme und deren 
 |---|---|---|
 |**Typ**|**Zugang**|**Mobilisierbarkeit**|
 |Impella 5.5 und CP|axillar|uneingeschränkt|
-|Impella CP|femoral|Die Patienten sind nicht zu mobilisieren. Maximal nur angepasste<br>Sesselposition, da der Katheter sehr starr und dick ist.|
+|Impella CP|femoral|Die Patienten sind nicht zu mobilisieren. Maximal nur angepasste
+Sesselposition, da der Katheter sehr starr und dick ist.|
 
 **Tabelle 2** . Mobilisation bei ECMELLA-Systemen 
 
@@ -92,9 +93,18 @@ Die unterschiedlichen temporären mechanischen Unterstützungssysteme und deren 
 |---|---|---|
 |**Typ**|**Zugang**|**Mobilisierbarkeit**|
 |ECMELLA 1.0|Impella und beide ECMO-Kanülen über die Leiste|möglich im Bett bis max. 30-45°|
-|ECMELLA 1.5|Impella 5.5-Katheter axillar, beide ECMO-Kanülen<br>über die Leiste|möglich im Bett bis max. 30-45°|
-|ECMELLA 2.0|Impella + arterielle ECMO-Kanüle über Axillararterie,<br>venöse Kanüle über die Leiste|bis<br>zum<br>Stand<br>und<br>Laufen<br>möglich, da in der Leiste nur eine<br>venöse Kanüle liegt|
-|ECMELLA 2.1|Impella + arterielle Kanüle über Axillararterie, venöse<br>Kanüle über v. jugularis am Hals|uneingeschränkt|
+|ECMELLA 1.5|Impella 5.5-Katheter axillar, beide ECMO-Kanülen
+über die Leiste|möglich im Bett bis max. 30-45°|
+|ECMELLA 2.0|Impella + arterielle ECMO-Kanüle über Axillararterie,
+venöse Kanüle über die Leiste|bis
+zum
+Stand
+und
+Laufen
+möglich, da in der Leiste nur eine
+venöse Kanüle liegt|
+|ECMELLA 2.1|Impella + arterielle Kanüle über Axillararterie, venöse
+Kanüle über v. jugularis am Hals|uneingeschränkt|
 
 ## **7. Mobilisation bei temporärem RVAD** 
 

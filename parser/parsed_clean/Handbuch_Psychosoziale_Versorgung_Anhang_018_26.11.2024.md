@@ -204,22 +204,88 @@ Legende: Basis-Kriterien sind die Inhalte der S3-Leitlinie DGPM/DKPM. Inhalte de
 |**Tabelle 1. Beurteilungskriterien einer psychosozialen Evaluation**||
 |---|---|
 |**Kriterium**|**Kritisches Ergebnis**|
-|Soziale Anamnese inkl. familiäre und Wohnsituation, soziales Netzwerk, soziale Unterstützung<br>-<br>_Soziodemographische Angaben inkl. religöser/ kultureller Besonderheiten_<br>-<br>_Soziale Beziehungen (bspw. Familienstand, wichtige soziale Beziehungen, Stabilität sozialer Beziehungen)_<br>-<br>_Wohnsituation_<br>-<br>_Anzahl zu versorgende Personen_<br>-<br>_Verfügbarkeit, Stabilität und Kapazität von Familienmitgliedern und anderen sozialen Beziehungen,_<br>_Unterstützung anzubieten_<br>-<br>_Verständnis und Kenntnisse seitens der sozialen Kontakte über Behandlungsoptionen und Pflegebedürfnisse_<br>-<br>_Erwartungen von sozialen Kontakten hinsichtlich Pflegebedürfnisse nach TX_|Instabile/problematische Beziehungen, fehlende<br>soziale Unterstützung|
-|Berufliche, schulische und finanzielle Situation<br>- _Bildungshintergrund, Lesekompetenz/Schreibfähigkeit_<br>-<br>_Berufshintergrund und Berufserfahrung/Berufstätigkeit_<br>-<br>_Finanzieller Status_<br>-<br>_Versicherungsstatus_<br>-<br>**(EU-) Berentung, Krankschreibung, Pflegegrad, Grad der Behinderung**|Schwere berufliche/schulische/finanzielle<br>Probleme, unrealistische berufliche Ziele|
-|Psychosoziale Stressoren<br>-<br>_Aktuellepsychosoziale Stressoren_|Hohe psychosoziale Belastung|
+|Soziale Anamnese inkl. familiäre und Wohnsituation, soziales Netzwerk, soziale Unterstützung
+-
+_Soziodemographische Angaben inkl. religöser/ kultureller Besonderheiten_
+-
+_Soziale Beziehungen (bspw. Familienstand, wichtige soziale Beziehungen, Stabilität sozialer Beziehungen)_
+-
+_Wohnsituation_
+-
+_Anzahl zu versorgende Personen_
+-
+_Verfügbarkeit, Stabilität und Kapazität von Familienmitgliedern und anderen sozialen Beziehungen,_
+_Unterstützung anzubieten_
+-
+_Verständnis und Kenntnisse seitens der sozialen Kontakte über Behandlungsoptionen und Pflegebedürfnisse_
+-
+_Erwartungen von sozialen Kontakten hinsichtlich Pflegebedürfnisse nach TX_|Instabile/problematische Beziehungen, fehlende
+soziale Unterstützung|
+|Berufliche, schulische und finanzielle Situation
+- _Bildungshintergrund, Lesekompetenz/Schreibfähigkeit_
+-
+_Berufshintergrund und Berufserfahrung/Berufstätigkeit_
+-
+_Finanzieller Status_
+-
+_Versicherungsstatus_
+-
+**(EU-) Berentung, Krankschreibung, Pflegegrad, Grad der Behinderung**|Schwere berufliche/schulische/finanzielle
+Probleme, unrealistische berufliche Ziele|
+|Psychosoziale Stressoren
+-
+_Aktuellepsychosoziale Stressoren_|Hohe psychosoziale Belastung|
 
 Anhang 2. Beurteilungskriterien für die psychosoziale Evaluation nach DGPM/DKPM und Empfehlungen internationaler Fachgesellschaften 
 
 |**Tabelle 1. Beurteilungskriterien einer psychosozialen Evaluation**||
 |---|---|
 |**Kriterium**|**Kritisches Ergebnis**|
-|Aktuelles und früheres Copingverhalten inkl. Krankheitsverarbeitung<br>-<br>_Copingstrategien um mit der Erkrankung und den Konsequenzen im täglichen Leben umzugehen_<br>_(Problemlösestrategien, Unterstützung bei anderen suchen, Vermeidungscoping etc.)_<br>-<br>_Emotionale Reaktionen auf die Erkrankung, Akzeptanz der Erkrankungsschwere, der Prognose und der_<br>_Behandlungsoptionen_|Dysfunktionales Copingverhalten,<br>dysfunktionale Krankheitsbewältigung|
-|Aktuelle Angst- und depressive Symptomatik<br>-<br>_Emotionale Reaktionen auf die Erkrankung_|Hohe Angst- und depressive Belastung|
+|Aktuelles und früheres Copingverhalten inkl. Krankheitsverarbeitung
+-
+_Copingstrategien um mit der Erkrankung und den Konsequenzen im täglichen Leben umzugehen_
+_(Problemlösestrategien, Unterstützung bei anderen suchen, Vermeidungscoping etc.)_
+-
+_Emotionale Reaktionen auf die Erkrankung, Akzeptanz der Erkrankungsschwere, der Prognose und der_
+_Behandlungsoptionen_|Dysfunktionales Copingverhalten,
+dysfunktionale Krankheitsbewältigung|
+|Aktuelle Angst- und depressive Symptomatik
+-
+_Emotionale Reaktionen auf die Erkrankung_|Hohe Angst- und depressive Belastung|
 |Präoperative Angst|Hohepräoperative Angst|
-|Subjektive Krankheitstheorie<br>-<br>_Gesundheitskompetenz_|Fehlende Krankheitsakzeptanz/-einsicht,<br>fehlerhafte Krankheitsursachenzuschreibung<br>(Attribution), geringe<br>Selbstwirksamkeitserwartung|
-|Wissen bzgl. Krankheit und Transplantation<br>-<br>_Kenntnisse und Verständnis bezüglich Ursachen und Verlauf der somatischen Erkrankung und Einfluss auf_<br>_tägliche Funktionsfähigkeit und Outcomes_<br>-<br>_Verständnis der Behandlungsrationale, Limitationen bisheriger Behandlungsansätze in Bezug auf_<br>_Krankheitsfortschritt/Symptommanagement_<br>-<br>_Verständnis der Gründe für die Notwendigkeit TX_<br>-<br>_Kenntnisse über und Verständnis der Rationale aktueller medizinischer Behandlungen (bspw._<br>_Medikamentendosierungen, Anforderungen an Selbstmanagement, Untersuchungstermine, Tests)_<br>-<br>_Verständnis zu Risiken und Chancen der geplanten TX_<br>-<br>_Verständnis der postoperativen medizinischen Behandlung, Selbstversorgung und Anforderungen an den_<br>_Lebensstil_|Mangelndes Wissen|
-|Risikoeinschätzung bzgl. Transplantation|Inadäquate Risikoeinschätzung, insbes.<br>**Verharmlosung**bzw. Ausblenden der Risiken|
-|Entscheidungsfindung bzgl. Transplantation<br>-<br>_Fähigkeiten, selbstständig eine Einschätzung zur eigenen Gesundheit und Entscheidungen zu treffen_<br>-<br>_Haltungen zur geplanten TX (Offenheit, Erwartungen, Ängste und Sorgen, Vorbehalte, Werte, Präferenzen)_<br>-<br>_Vorstellungen/Wünsche/(positive) Zielintentionen nach TX_|Impulsive/unreflektierte Entscheidung, äußerer<br>Druck, überwiegend extrinsische Motivation|
+|Subjektive Krankheitstheorie
+-
+_Gesundheitskompetenz_|Fehlende Krankheitsakzeptanz/-einsicht,
+fehlerhafte Krankheitsursachenzuschreibung
+(Attribution), geringe
+Selbstwirksamkeitserwartung|
+|Wissen bzgl. Krankheit und Transplantation
+-
+_Kenntnisse und Verständnis bezüglich Ursachen und Verlauf der somatischen Erkrankung und Einfluss auf_
+_tägliche Funktionsfähigkeit und Outcomes_
+-
+_Verständnis der Behandlungsrationale, Limitationen bisheriger Behandlungsansätze in Bezug auf_
+_Krankheitsfortschritt/Symptommanagement_
+-
+_Verständnis der Gründe für die Notwendigkeit TX_
+-
+_Kenntnisse über und Verständnis der Rationale aktueller medizinischer Behandlungen (bspw._
+_Medikamentendosierungen, Anforderungen an Selbstmanagement, Untersuchungstermine, Tests)_
+-
+_Verständnis zu Risiken und Chancen der geplanten TX_
+-
+_Verständnis der postoperativen medizinischen Behandlung, Selbstversorgung und Anforderungen an den_
+_Lebensstil_|Mangelndes Wissen|
+|Risikoeinschätzung bzgl. Transplantation|Inadäquate Risikoeinschätzung, insbes.
+**Verharmlosung**bzw. Ausblenden der Risiken|
+|Entscheidungsfindung bzgl. Transplantation
+-
+_Fähigkeiten, selbstständig eine Einschätzung zur eigenen Gesundheit und Entscheidungen zu treffen_
+-
+_Haltungen zur geplanten TX (Offenheit, Erwartungen, Ängste und Sorgen, Vorbehalte, Werte, Präferenzen)_
+-
+_Vorstellungen/Wünsche/(positive) Zielintentionen nach TX_|Impulsive/unreflektierte Entscheidung, äußerer
+Druck, überwiegend extrinsische Motivation|
 |Erwartungen bzgl. Outcome|Unrealistische Erwartungen|
 
 Anhang 2. Beurteilungskriterien für die psychosoziale Evaluation nach DGPM/DKPM und Empfehlungen internationaler Fachgesellschaften 
@@ -227,12 +293,56 @@ Anhang 2. Beurteilungskriterien für die psychosoziale Evaluation nach DGPM/DKPM
 |**Tabelle 2. Beurteilungskriterien einer psychosozialen Evaluation mit besonderer Relevanz**||
 |---|---|
 |**Kriterium**|**Kritisches Ergebnis**|
-|Transplantationsmotivation<br>-<br>_Bereitschaft, Lebensstil und Selbstmanagement an sich ändernde Behandlungsbedingungen anzupassen;_<br>-<br>**Motivationale Faktoren**|Fehlende Motivation/Zustimmung|
-|Aktuelle und frühere Adhärenz bzgl. Inanspruchnahme medizinischer Behandlungen, Medikamenteneinnahme<br>etc.<br>-<br>_Bisherige und aktuelle Adhärenz bezüglich medizinischer Behandlung_|Aktuelle Non-Adhärenz|
-|Substanzgebrauch (Alkohol, Tabak, andere Suchtmittel) inkl. Suchtanamnese und -behandlungen<br>-<br>_Substanz, Frequenz, Dauer, Menge, ggf. Dauer der Abstinenz_<br>-<br>_Ggf. diagnostizierbares Störungsbild, Maß der Beeinträchtigung (Gesundheit, Arbeit, soziale Beziehungen),_<br>_rechtliche Probleme_<br>-<br>_Einsicht, Abstinenzmotivation, bisherige Abstinenzversuche und Abstinenzphasen_<br>-<br>_Bisherige und aktuelle Behandlungen, Behandlungsmotivation, Fähigkeiten und Ressourcen für Abstinenz_<br>-<br>_Substanzgebrauch direkter Familienmitglieder/ Bezugspersonen_|Aktuelle(r) Substanzabhängigkeit/-missbrauch<br>[evidenzbasierte Bewertung der Relevanz, ggf.<br>entsprechend organspezifischer Richtlinien]|
-|Aktuelle und frühere psychische Störungen und deren Behandlung<br>-<br>_Psychische Störungen_ **und Symptome**<br>-<br>_Verlauf, Schwere, Chronizität der Symptome_<br>-<br>_Behandlung, Effektivität und_ _Adhärenz bzgl._**psychotherapeutischer**/_psychiatrischer Behandlung, bzw._<br>_Behandlungsbereitschaft_<br>-<br>_Traumatische Ereignisse in der Vergangenheit (mit Relevanz für aktuelles psych. Befinden)_<br>-<br>_Mentale Gesundheit direkter Familienmitglieder/ Bezugspersonen_|Instabile psychische Störung(en), insbes.<br>anhaltende wahnhafte Störungen, schwere<br>Persönlichkeitsstörungen, insbes. mit<br>Impulsivität, schwere depressive Störungen,<br>Essstörungen, schwere Angsterkrankungen,<br>posttraumatische Belastungsstörung|
-|Aktuelle und frühere Suizidalität und Suizidversuche<br>-<br>_Suizidgedanken oder selbstverletzendes Verhalten aktuell oder in der Vergangenheit_|Akute Suizidalität|
-|Kognitiver Status inkl. Einwilligungsfähigkeit<br>-<br>_Hinweise auf kognitive Einschränkungen, die zu eingeschränktem Krankheitsverständnis, eingeschränkter_<br>_Entscheidungsfähigkeit führen können_|Irreversibel fehlende kognitive Voraussetzungen<br>zur Einwilligung/Adhärenz (z.B. Demenz,<br>schwere/schwerste Intelligenzminderung) ohne<br>ausreichende Unterstützung|
+|Transplantationsmotivation
+-
+_Bereitschaft, Lebensstil und Selbstmanagement an sich ändernde Behandlungsbedingungen anzupassen;_
+-
+**Motivationale Faktoren**|Fehlende Motivation/Zustimmung|
+|Aktuelle und frühere Adhärenz bzgl. Inanspruchnahme medizinischer Behandlungen, Medikamenteneinnahme
+etc.
+-
+_Bisherige und aktuelle Adhärenz bezüglich medizinischer Behandlung_|Aktuelle Non-Adhärenz|
+|Substanzgebrauch (Alkohol, Tabak, andere Suchtmittel) inkl. Suchtanamnese und -behandlungen
+-
+_Substanz, Frequenz, Dauer, Menge, ggf. Dauer der Abstinenz_
+-
+_Ggf. diagnostizierbares Störungsbild, Maß der Beeinträchtigung (Gesundheit, Arbeit, soziale Beziehungen),_
+_rechtliche Probleme_
+-
+_Einsicht, Abstinenzmotivation, bisherige Abstinenzversuche und Abstinenzphasen_
+-
+_Bisherige und aktuelle Behandlungen, Behandlungsmotivation, Fähigkeiten und Ressourcen für Abstinenz_
+-
+_Substanzgebrauch direkter Familienmitglieder/ Bezugspersonen_|Aktuelle(r) Substanzabhängigkeit/-missbrauch
+[evidenzbasierte Bewertung der Relevanz, ggf.
+entsprechend organspezifischer Richtlinien]|
+|Aktuelle und frühere psychische Störungen und deren Behandlung
+-
+_Psychische Störungen_ **und Symptome**
+-
+_Verlauf, Schwere, Chronizität der Symptome_
+-
+_Behandlung, Effektivität und_ _Adhärenz bzgl._**psychotherapeutischer**/_psychiatrischer Behandlung, bzw._
+_Behandlungsbereitschaft_
+-
+_Traumatische Ereignisse in der Vergangenheit (mit Relevanz für aktuelles psych. Befinden)_
+-
+_Mentale Gesundheit direkter Familienmitglieder/ Bezugspersonen_|Instabile psychische Störung(en), insbes.
+anhaltende wahnhafte Störungen, schwere
+Persönlichkeitsstörungen, insbes. mit
+Impulsivität, schwere depressive Störungen,
+Essstörungen, schwere Angsterkrankungen,
+posttraumatische Belastungsstörung|
+|Aktuelle und frühere Suizidalität und Suizidversuche
+-
+_Suizidgedanken oder selbstverletzendes Verhalten aktuell oder in der Vergangenheit_|Akute Suizidalität|
+|Kognitiver Status inkl. Einwilligungsfähigkeit
+-
+_Hinweise auf kognitive Einschränkungen, die zu eingeschränktem Krankheitsverständnis, eingeschränkter_
+_Entscheidungsfähigkeit führen können_|Irreversibel fehlende kognitive Voraussetzungen
+zur Einwilligung/Adhärenz (z.B. Demenz,
+schwere/schwerste Intelligenzminderung) ohne
+ausreichende Unterstützung|
 
 Anhang 2. Beurteilungskriterien für die psychosoziale Evaluation nach DGPM/DKPM und Empfehlungen internationaler Fachgesellschaften 
 
@@ -520,7 +630,38 @@ Anhang 4. Berichtvorlage mit Satzbausteinen
 
 |Als Aufzählung|Als Fließtext|
 |---|---|
-|•Art des Konsums: (Zigaretten, Zigarillo,<br>Pfeife, Shisha, E-Zigaretten, Heat-not-Burn-<br>Produkte)<br>•Lebensjahr Konsumbeginn: xxx<br>•Anzahl Konsumjahre: xxx<br>•Letzter Konsum: xxx<br>•Konsumverlauf: xxx<br>•Packungsjahre: xxx<br>•Durchschnittliche Konsummenge pro Tag<br>aktuell: xxx<br>•Setting: (zu Hause, im Betrieb)<br>•Abstinent seit xxx, bzw. Abstinenzversuche<br>(Anzahl, Jahr, Dauer)<br>•Unterstützende Maßnahmen (Nikotinersatz,<br>Bupropion, Vareniclin, Verhaltenstherapie<br>ohne Hilfen, sonstige Hilfen: xxx)<br>•Er/Sie verneint vegetative<br>Entzugserscheinungen / Er/Sie erlebe<br>folgende vegetative Entzugserscheinungen:<br>xxx|Herr/Frau xx berichtete, von seinem/ihrem xx. LJ bis<br>heute/xxx unregelmäßig/regelmäßig/an xx Tagen pro<br>Woche/Monat/Jahr xx Zigaretten je Konsumtag<br>geraucht zu haben (xx Konsumjahre; xx<br>Packungsjahre).<br>Er/Sie habe im Jahr xxx im Rahmen von xx mit dem<br>Rauchen aufgehört und lebe seither stabil<br>nikotinabstinent.<br>Es habe die folgenden Abstinenzphasen gegeben:<br>Anzahl, Jahr, Dauer.<br>Er/Sie verneint vegetative Entzugserscheinungen /<br>er/sie erlebe folgende vegetative<br>Entzugserscheinungen: xxx|
+|•Art des Konsums: (Zigaretten, Zigarillo,
+Pfeife, Shisha, E-Zigaretten, Heat-not-Burn-
+Produkte)
+•Lebensjahr Konsumbeginn: xxx
+•Anzahl Konsumjahre: xxx
+•Letzter Konsum: xxx
+•Konsumverlauf: xxx
+•Packungsjahre: xxx
+•Durchschnittliche Konsummenge pro Tag
+aktuell: xxx
+•Setting: (zu Hause, im Betrieb)
+•Abstinent seit xxx, bzw. Abstinenzversuche
+(Anzahl, Jahr, Dauer)
+•Unterstützende Maßnahmen (Nikotinersatz,
+Bupropion, Vareniclin, Verhaltenstherapie
+ohne Hilfen, sonstige Hilfen: xxx)
+•Er/Sie verneint vegetative
+Entzugserscheinungen / Er/Sie erlebe
+folgende vegetative Entzugserscheinungen:
+xxx|Herr/Frau xx berichtete, von seinem/ihrem xx. LJ bis
+heute/xxx unregelmäßig/regelmäßig/an xx Tagen pro
+Woche/Monat/Jahr xx Zigaretten je Konsumtag
+geraucht zu haben (xx Konsumjahre; xx
+Packungsjahre).
+Er/Sie habe im Jahr xxx im Rahmen von xx mit dem
+Rauchen aufgehört und lebe seither stabil
+nikotinabstinent.
+Es habe die folgenden Abstinenzphasen gegeben:
+Anzahl, Jahr, Dauer.
+Er/Sie verneint vegetative Entzugserscheinungen /
+er/sie erlebe folgende vegetative
+Entzugserscheinungen: xxx|
 
 Behandlungsmotivation bei aktuellem schädlichem Gebrauch / Abhängigkeit von Nikotin 
 
@@ -538,7 +679,21 @@ Alkoholkonsumanamnese: Herr/Frau xx beschreibt einen risikoarmen/riskanten/schä
 
 |Als Aufzählung|Als Fließtext|
 |---|---|
-|•Art des Konsums: (Trinken, IV, …)<br>•Lebensjahr Konsumbeginn: xxx<br>•Anzahl Konsumjahre: xxx<br>•Letzter Konsum: xxx<br>•Konsumverlauf: xxx. Herr/Frau xx<br>beschreibt eine/keine Toleranzentwicklung.<br>•Durchschnittliche Konsummenge pro Tag<br>aktuell: Getränke/ Menge(l)und xxxg/Tag|Herr/Frau xx berichtet, seit seinem/ihrem xx.<br>Lebensjahr regelmäßig Alkohol zu trinken. Seit<br>(spätestens) xx habe ein riskantes/abhängiges<br>Konsummuster / schädlicher Gebrauch vorgelegen.<br>Der letzte Konsum sei am TT.MM.JJJJ erfolgt. Ab<br>(spätestens) xxxx habe er/sie (mind.) xxl xxx (Sorte)<br>und etwa xxl xxx (Sorte) täglich getrunken. Herr/Frau<br>xx beschreibt (k)eine Toleranzentwicklung. Aktuell|
+|•Art des Konsums: (Trinken, IV, …)
+•Lebensjahr Konsumbeginn: xxx
+•Anzahl Konsumjahre: xxx
+•Letzter Konsum: xxx
+•Konsumverlauf: xxx. Herr/Frau xx
+beschreibt eine/keine Toleranzentwicklung.
+•Durchschnittliche Konsummenge pro Tag
+aktuell: Getränke/ Menge(l)und xxxg/Tag|Herr/Frau xx berichtet, seit seinem/ihrem xx.
+Lebensjahr regelmäßig Alkohol zu trinken. Seit
+(spätestens) xx habe ein riskantes/abhängiges
+Konsummuster / schädlicher Gebrauch vorgelegen.
+Der letzte Konsum sei am TT.MM.JJJJ erfolgt. Ab
+(spätestens) xxxx habe er/sie (mind.) xxl xxx (Sorte)
+und etwa xxl xxx (Sorte) täglich getrunken. Herr/Frau
+xx beschreibt (k)eine Toleranzentwicklung. Aktuell|
 
 Anhang 4. Berichtvorlage mit Satzbausteinen 
 
@@ -572,11 +727,51 @@ Riskanter/schädlicher/abhängiger Konsum anderweitiger Substanzen/Medikamente
 
 |Als Aufzählung|Als Fließtext|
 |---|---|
-|•Art des Konsums (Substanz und Form<br>spezifizieren): xxx<br>•Lebensjahr Konsumbeginn: xxx<br>•Anzahl Konsumjahre: xxx<br>•Letzter Konsum: xxx<br>•Konsumverlauf: xxx. Herr/Frau xx<br>beschreibt eine/keine Toleranzentwicklung.<br>•Durchschnittliche Konsummenge pro Tag:<br>xxxg/Tag|Herr/Frau xx berichtet, seit seinem xx. Lebensjahr<br>regelmäßig xx in Form von xx zu konsumieren. Seit<br>spätestens xxx habe ein riskantes/abhängiges<br>Konsummuster / ein schädlicher Gebrauch<br>vorgelegen. Der letzte Konsum sei am xx erfolgt. Ab<br>(spätestens) xx habe er/sie mind. xx (Mengenangabe)<br>in Form von xxx und etwa xxx (Mengenangabe) in<br>Form von xxx täglich konsumiert. Herr/Frau xx<br>beschreibt eine Toleranzentwicklung. Aktuell|
+|•Art des Konsums (Substanz und Form
+spezifizieren): xxx
+•Lebensjahr Konsumbeginn: xxx
+•Anzahl Konsumjahre: xxx
+•Letzter Konsum: xxx
+•Konsumverlauf: xxx. Herr/Frau xx
+beschreibt eine/keine Toleranzentwicklung.
+•Durchschnittliche Konsummenge pro Tag:
+xxxg/Tag|Herr/Frau xx berichtet, seit seinem xx. Lebensjahr
+regelmäßig xx in Form von xx zu konsumieren. Seit
+spätestens xxx habe ein riskantes/abhängiges
+Konsummuster / ein schädlicher Gebrauch
+vorgelegen. Der letzte Konsum sei am xx erfolgt. Ab
+(spätestens) xx habe er/sie mind. xx (Mengenangabe)
+in Form von xxx und etwa xxx (Mengenangabe) in
+Form von xxx täglich konsumiert. Herr/Frau xx
+beschreibt eine Toleranzentwicklung. Aktuell|
 
 Anhang 4. Berichtvorlage mit Satzbausteinen 
 
-||•Durchschnittliche Konsummenge pro Tag<br>heute: xxx g/Tag<br>•Setting: (zu Hause, im Betrieb)<br>•Abstinent seit xxx, bzw. Abstinenzversuche<br>(Anzahl, Jahr, Dauer)<br>•Unterstützende Maßnahmen (spezifizieren)<br>•Herr/Frau xx erlebe kein/deutliches<br>Verlangen. Er verneint vegetative<br>Entzugserscheinungen / erlebe folgende<br>vegetative Entzugserscheinungen: xxx.<br>_Optional (wenn relevant für die spezifische_<br>_Substanz):_Anamnestisch (kein)<br>Krampfanfall/Delir im Rahmen des Entzugs<br>(nur, wenn für Substanz relevant) / Es sei<br>xxx (Zeitpunkt spezifizieren) zu einem<br>entzugsbedingten Krampfanfall/ Delir<br>gekommen. Herr/Frau xx sei daraufhin xxx<br>(Maßnahmen spezifizieren).|konsumiere Herr/Frau xx etwa xx (Mengenangabe) in<br>Form von xxx täglich. Dies entspricht einer Menge von<br>xxx (Mengenangabe) reinem xxx pro Konsumtag.<br>Herr/Frau xx konsumiere meist zu Hause. Die längste<br>Abstinenzphase habe xxx (Jahr) xxx<br>Tage/Wochen/Monate/Jahre betragen. Er/Sie sei<br>jedoch, zunächst mit xxx, rückfällig geworden. Danach<br>habe sich der Konsum wieder langsam gesteigert.|
+||•Durchschnittliche Konsummenge pro Tag
+heute: xxx g/Tag
+•Setting: (zu Hause, im Betrieb)
+•Abstinent seit xxx, bzw. Abstinenzversuche
+(Anzahl, Jahr, Dauer)
+•Unterstützende Maßnahmen (spezifizieren)
+•Herr/Frau xx erlebe kein/deutliches
+Verlangen. Er verneint vegetative
+Entzugserscheinungen / erlebe folgende
+vegetative Entzugserscheinungen: xxx.
+_Optional (wenn relevant für die spezifische_
+_Substanz):_Anamnestisch (kein)
+Krampfanfall/Delir im Rahmen des Entzugs
+(nur, wenn für Substanz relevant) / Es sei
+xxx (Zeitpunkt spezifizieren) zu einem
+entzugsbedingten Krampfanfall/ Delir
+gekommen. Herr/Frau xx sei daraufhin xxx
+(Maßnahmen spezifizieren).|konsumiere Herr/Frau xx etwa xx (Mengenangabe) in
+Form von xxx täglich. Dies entspricht einer Menge von
+xxx (Mengenangabe) reinem xxx pro Konsumtag.
+Herr/Frau xx konsumiere meist zu Hause. Die längste
+Abstinenzphase habe xxx (Jahr) xxx
+Tage/Wochen/Monate/Jahre betragen. Er/Sie sei
+jedoch, zunächst mit xxx, rückfällig geworden. Danach
+habe sich der Konsum wieder langsam gesteigert.|
 |---|---|---|
 
 ## Behandlungsmotivation bei aktuellem riskantem/schädlichen Gebrauch / Abhängigkeit anderer Substanzen 
@@ -865,7 +1060,74 @@ Anhang 4. Berichtvorlage mit Satzbausteinen
 |---|---|---|---|---|
 |S3-Leitlinie DGPM1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
 |**ADIPOSITAS**|||||
-|**5.1**<br>Die perioperative Komplikationsrate<br>(Narbenhernien, Wunddehiszenz,<br>Wundheilungsstörung), die Rate an<br>verzögerter Funktionsaufnahme des<br>Transplantats (Delayed Graft<br>Function nach Nierentransplantation)<br>sind bei Patient:innen mit Adipositas<br>(BMI ≥ 30 kg/m2) vor der<br>Transplantation erhöht. […]<br>Bei Patient:innen nach Herz- und<br>nach Lungentransplantation liegt<br>jeweils nur eine qualitativ gute<br>Metaanalyse vor. Bei beiden<br>Organen kann ein signifikanter<br>Zusammenhang zwischen<br>Adipositas vor der Transplantation<br>und Mortalität, bei Lunge auch<br>Transplantatversagen, festgestellt<br>werden.<br>**_Evidenzgrad 1-, starker Konsens_**<br>**5.2**<br>Bei Patient:innen vor und nach der<br>Transplantation sollte das Gewicht<br>mindestens vierteljährlich kontrolliert<br>werden, um eine (Verschlechterung|---|**Risk factors with high or**<br>**substantially increased risk:**<br>7. BMI > 35 kg/m2<br>8. BMI < 16 kg/m2<br>**Risk Factors:**<br>13. BMI 30-34.9 kg/m2<br>14. BMI 16-17 kg/m2|**Task Force 1: Perioperative care**<br>**of the heart transplant recipient**<br>**Topic 1 Pretransplant**<br>**Optimization**Multidimensional<br>nutritional assessment tools should<br>be used to evaluate heart transplant<br>candidates for malnutrition or for<br>being at risk for malnutrition.<br>**_Class I, Level of Evidence C_**<br>Long-term MCS should be<br>considered in patients: (a) When<br>ventricular function is unlikely to<br>recover soon or has been deemed<br>unrecoverable. (b) Who are inotrope<br>dependent and therefore at high risk<br>for death with ongoing medical<br>management. (c) Who are potential<br>HT candidates, with elevated<br>pulmonary vascular resistance that is<br>considered reversible with left<br>ventricular (LV) decompression, (d)<br>Who are potential HT candidates,<br>with contraindications requiring<br>substantial time to reverse, i.e.,<br>cancer, obesity, drug and/or alcohol<br>dependence. (e) With a reversible|**1.4.1. Age, obesity, and cancer**<br>[…]<br>Pre-transplant body mass index<br>(BMI) > 35 kg/m2 is associated with<br>a worse outcome after cardiac<br>transplantation. For such obese<br>patients, it is reasonable to<br>recommend weight loss to achieve a<br>BMI of < 35 kg/m2 before listing for<br>cardiac transplantation**_._**<br>**_Class IIa, Level of Evidence: C_**<br>[…]|
+|**5.1**
+Die perioperative Komplikationsrate
+(Narbenhernien, Wunddehiszenz,
+Wundheilungsstörung), die Rate an
+verzögerter Funktionsaufnahme des
+Transplantats (Delayed Graft
+Function nach Nierentransplantation)
+sind bei Patient:innen mit Adipositas
+(BMI ≥ 30 kg/m2) vor der
+Transplantation erhöht. […]
+Bei Patient:innen nach Herz- und
+nach Lungentransplantation liegt
+jeweils nur eine qualitativ gute
+Metaanalyse vor. Bei beiden
+Organen kann ein signifikanter
+Zusammenhang zwischen
+Adipositas vor der Transplantation
+und Mortalität, bei Lunge auch
+Transplantatversagen, festgestellt
+werden.
+**_Evidenzgrad 1-, starker Konsens_**
+**5.2**
+Bei Patient:innen vor und nach der
+Transplantation sollte das Gewicht
+mindestens vierteljährlich kontrolliert
+werden, um eine (Verschlechterung|---|**Risk factors with high or**
+**substantially increased risk:**
+7. BMI > 35 kg/m2
+8. BMI < 16 kg/m2
+**Risk Factors:**
+13. BMI 30-34.9 kg/m2
+14. BMI 16-17 kg/m2|**Task Force 1: Perioperative care**
+**of the heart transplant recipient**
+**Topic 1 Pretransplant**
+**Optimization**Multidimensional
+nutritional assessment tools should
+be used to evaluate heart transplant
+candidates for malnutrition or for
+being at risk for malnutrition.
+**_Class I, Level of Evidence C_**
+Long-term MCS should be
+considered in patients: (a) When
+ventricular function is unlikely to
+recover soon or has been deemed
+unrecoverable. (b) Who are inotrope
+dependent and therefore at high risk
+for death with ongoing medical
+management. (c) Who are potential
+HT candidates, with elevated
+pulmonary vascular resistance that is
+considered reversible with left
+ventricular (LV) decompression, (d)
+Who are potential HT candidates,
+with contraindications requiring
+substantial time to reverse, i.e.,
+cancer, obesity, drug and/or alcohol
+dependence. (e) With a reversible|**1.4.1. Age, obesity, and cancer**
+[…]
+Pre-transplant body mass index
+(BMI) > 35 kg/m2 is associated with
+a worse outcome after cardiac
+transplantation. For such obese
+patients, it is reasonable to
+recommend weight loss to achieve a
+BMI of < 35 kg/m2 before listing for
+cardiac transplantation**_._**
+**_Class IIa, Level of Evidence: C_**
+[…]|
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
@@ -874,7 +1136,65 @@ Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosozi
 |**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|
 |---|---|---|---|---|
 |S3-Leitlinie DGPM1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
-|der) Adipositas rechtzeitig zu<br>erkennen, und ggf.<br>gewichtsstabilisierende bzw.<br>gewichtsreduzierende Maßnahmen<br>(nach Leitlinie) einzuleiten.<br>**_Empfehlungsgrad B, Evidenzgrad_**<br>**_3, starker Konsens_**<br>**5.3**<br>Patient:innen mit Adipositas (BMI ≥<br>30 kg/m2) sollten nicht von der<br>Listung für eine Transplantation<br>ausgeschlossen werden. Auch<br>Patient:innen mit Adipositas zeigen<br>einen Überlebensvorteil nach<br>Transplantation.<br>**_Empfehlungsgrad B, Evidenzgrad_**<br>**_1-, starker Konsens_**|||cardiac disease process that<br>requires substantial time for<br>ventricular recovery. (f) Who are<br>ineligible for HT and where long-term<br>MCS is an option.<br>**_Class I, Level of Evidence C_**<br>**Topic 2 Prophylaxis for**<br>**Corticosteroid-Induced Bone**<br>**Disease**<br>Lifestyle modifications should include<br>maintaining healthy weight<br>balanced diet, smoking abstinence<br>and limiting alcohol intake<br>to 1-2 drinks a day.<br>**_Class I, Level of Evidence C_**<br>**Topic 3: Exercise, Nutrition, and**<br>**Physical Rehabilitation After Heart**<br>**Transplantation**<br>The routine use of cardiac<br>rehabilitation with performance of<br>aerobic exercise training is<br>recommended after HT for adult and<br>pediatric patients (2-18 years) when<br>physically and medically able to<br>exercise. The short-term benefits of<br>this approach include improvement<br>in exercise capacity and possible<br>modification of cardiovascular risk<br>factors such as obesity,<br>hypertension, and glucose<br>intolerance. There is currently no<br>information on potential long-term<br>benefits.<br>**_Class I, Level of Evidence: B_**<br>Exercise based cardiac rehabilitation<br>is also shown to reduce readmission<br>rates at one year.<br>**_Class I, Level of Evidence: B_**<br>150 minutes per week of moderate-<br>intensity exercise or 75 minutes per<br>week of vigorous-intensity aerobic<br>exercise to be encouraged for long-<br>term cardiovascular health.||
+|der) Adipositas rechtzeitig zu
+erkennen, und ggf.
+gewichtsstabilisierende bzw.
+gewichtsreduzierende Maßnahmen
+(nach Leitlinie) einzuleiten.
+**_Empfehlungsgrad B, Evidenzgrad_**
+**_3, starker Konsens_**
+**5.3**
+Patient:innen mit Adipositas (BMI ≥
+30 kg/m2) sollten nicht von der
+Listung für eine Transplantation
+ausgeschlossen werden. Auch
+Patient:innen mit Adipositas zeigen
+einen Überlebensvorteil nach
+Transplantation.
+**_Empfehlungsgrad B, Evidenzgrad_**
+**_1-, starker Konsens_**|||cardiac disease process that
+requires substantial time for
+ventricular recovery. (f) Who are
+ineligible for HT and where long-term
+MCS is an option.
+**_Class I, Level of Evidence C_**
+**Topic 2 Prophylaxis for**
+**Corticosteroid-Induced Bone**
+**Disease**
+Lifestyle modifications should include
+maintaining healthy weight
+balanced diet, smoking abstinence
+and limiting alcohol intake
+to 1-2 drinks a day.
+**_Class I, Level of Evidence C_**
+**Topic 3: Exercise, Nutrition, and**
+**Physical Rehabilitation After Heart**
+**Transplantation**
+The routine use of cardiac
+rehabilitation with performance of
+aerobic exercise training is
+recommended after HT for adult and
+pediatric patients (2-18 years) when
+physically and medically able to
+exercise. The short-term benefits of
+this approach include improvement
+in exercise capacity and possible
+modification of cardiovascular risk
+factors such as obesity,
+hypertension, and glucose
+intolerance. There is currently no
+information on potential long-term
+benefits.
+**_Class I, Level of Evidence: B_**
+Exercise based cardiac rehabilitation
+is also shown to reduce readmission
+rates at one year.
+**_Class I, Level of Evidence: B_**
+150 minutes per week of moderate-
+intensity exercise or 75 minutes per
+week of vigorous-intensity aerobic
+exercise to be encouraged for long-
+term cardiovascular health.||
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
@@ -883,9 +1203,94 @@ Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosozi
 |**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|
 |---|---|---|---|---|
 |S3-Leitlinie DGPM1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
-||||Additionally, high intensity interval<br>training (HIIT) can increase peak<br>heart rate and aerobic power and<br>can be considered for some<br>posttransplant patients.<br>**_Class I, Level of Evidence: B_**<br>Weight management strategies<br>should be employed to ensure<br>healthy weight and avoid cachexia<br>and obesity. Cachexia and morbid<br>obesity are associated with<br>increased post-transplant mortality.<br>Morbidly obese patients were also at<br>higher risk of rejection. Risk of post-<br>transplant infection is higher in the<br>underweight patients and need for<br>dialysis is greater in those with<br>morbid obesity. Obesity is also<br>associated with increased risk of<br>hyperlipidemia and hypertension<br>after transplant. Obesity could also<br>affect eligibility for re-transplantation<br>if it should become necessary.<br>**_Class IIa, Level of Evidence B_**<br>Nutrition and exercise programs to<br>encourage maintenance of healthy<br>weight pre- and post-transplant may<br>be instituted.<br>**_Class IIa, Level of Evidence C_**||
+||||Additionally, high intensity interval
+training (HIIT) can increase peak
+heart rate and aerobic power and
+can be considered for some
+posttransplant patients.
+**_Class I, Level of Evidence: B_**
+Weight management strategies
+should be employed to ensure
+healthy weight and avoid cachexia
+and obesity. Cachexia and morbid
+obesity are associated with
+increased post-transplant mortality.
+Morbidly obese patients were also at
+higher risk of rejection. Risk of post-
+transplant infection is higher in the
+underweight patients and need for
+dialysis is greater in those with
+morbid obesity. Obesity is also
+associated with increased risk of
+hyperlipidemia and hypertension
+after transplant. Obesity could also
+affect eligibility for re-transplantation
+if it should become necessary.
+**_Class IIa, Level of Evidence B_**
+Nutrition and exercise programs to
+encourage maintenance of healthy
+weight pre- and post-transplant may
+be instituted.
+**_Class IIa, Level of Evidence C_**||
 |**ANGST UND DEPRESSION**|||||
-|**5.4**<br>Bei Transplantationspatient:innen<br>kommen unabhängig vom<br>betroffenen Organ depressive<br>Störungen, Angststörungen,<br>Anpassungsstörungen, akute<br>Belastungsreaktionen und<br>posttraumatische<br>Belastungsstörungen häufig vor.<br>**_EK, starker Konsens_**<br>**5.7**<br>Das Vorliegen von Depressivität bei<br>Transplantationspatient:innen ist mit<br>einer erhöhten Gesamtmortalität|**Empirical Evidence Supporting**<br>**the Inclusion of Each Domain of**<br>**the Psychosocial Evaluation**<br>**A. Risk factors for poor outcomes**<br>**after transplantation**<br>**2. Mental health history**<br>Depression and anxiety (both<br>diagnosable disorders and clinically<br>significant symptomatology) are the<br>most common psychiatric conditions<br>in transplant and MCS candidates<br>and recipients|**Risk factors with high or**<br>**substantially increased risk:**<br>10. Psychiatric, psychological or<br>cognitive conditions with potential to<br>interfere with medical adherence<br>without sufficient support systems<br>**In text:**<br>_Affective and anxiety disorders may_<br>_affect peri-operative outcomes and_<br>_quality of life. Depressive symptoms_<br>_prior to transplant have been linked_<br>_to poorer transplant outcomes._|**Task Force 1: Perioperative care**<br>**of the heart transplant recipient**<br>**Topic 1: Pretransplant**<br>**Optimization**<br>Based on psychosocial and<br>behavioral<br>evaluation at time of heart transplant<br>evaluation, interventions and<br>therapies should be initiated to<br>address psychosocial and behavioral<br>risk factors that may contribute to<br>poor outcomes post-transplant.<br>**_Class I Level of Evidence C._**|**1.5.3 Psychosocial evaluation**<br>Psychosocial assessment should be<br>performed before listing for<br>transplantation. Evaluation should<br>include an assessment of<br>the patient’s ability to give informed<br>consent and comply with instruction,<br>including drug therapy, as well as<br>assessment of the support systems<br>in place at home or in the community<br>**_Class I, Level of Evidence: C_**|
+|**5.4**
+Bei Transplantationspatient:innen
+kommen unabhängig vom
+betroffenen Organ depressive
+Störungen, Angststörungen,
+Anpassungsstörungen, akute
+Belastungsreaktionen und
+posttraumatische
+Belastungsstörungen häufig vor.
+**_EK, starker Konsens_**
+**5.7**
+Das Vorliegen von Depressivität bei
+Transplantationspatient:innen ist mit
+einer erhöhten Gesamtmortalität|**Empirical Evidence Supporting**
+**the Inclusion of Each Domain of**
+**the Psychosocial Evaluation**
+**A. Risk factors for poor outcomes**
+**after transplantation**
+**2. Mental health history**
+Depression and anxiety (both
+diagnosable disorders and clinically
+significant symptomatology) are the
+most common psychiatric conditions
+in transplant and MCS candidates
+and recipients|**Risk factors with high or**
+**substantially increased risk:**
+10. Psychiatric, psychological or
+cognitive conditions with potential to
+interfere with medical adherence
+without sufficient support systems
+**In text:**
+_Affective and anxiety disorders may_
+_affect peri-operative outcomes and_
+_quality of life. Depressive symptoms_
+_prior to transplant have been linked_
+_to poorer transplant outcomes._|**Task Force 1: Perioperative care**
+**of the heart transplant recipient**
+**Topic 1: Pretransplant**
+**Optimization**
+Based on psychosocial and
+behavioral
+evaluation at time of heart transplant
+evaluation, interventions and
+therapies should be initiated to
+address psychosocial and behavioral
+risk factors that may contribute to
+poor outcomes post-transplant.
+**_Class I Level of Evidence C._**|**1.5.3 Psychosocial evaluation**
+Psychosocial assessment should be
+performed before listing for
+transplantation. Evaluation should
+include an assessment of
+the patient’s ability to give informed
+consent and comply with instruction,
+including drug therapy, as well as
+assessment of the support systems
+in place at home or in the community
+**_Class I, Level of Evidence: C_**|
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
@@ -894,7 +1299,138 @@ Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosozi
 |**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|
 |---|---|---|---|---|
 |S3-Leitlinie DGPM1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
-|assoziiert. Der Zusammenhang ist<br>ausgeprägter bei Depressivität nach<br>Transplantation als bei Depressivität<br>vor Transplantation.<br>**_Evidenzgrad 1, starker Konsens_**<br>**5.8**<br>Angst ist eine natürliche Reaktion<br>auf die Belastung der Patient:innen<br>durch die Grunderkrankung oder die<br>Transplantation und ihre Folgen.<br>**_EK, starker Konsens_**<br>**5.9**<br>Eine stärkere Ausprägung von<br>Angstsymptomen bei<br>Transplantationspatient:innen ist<br>nicht mit einer erhöhten<br>Gesamtmortalität assoziiert.<br>**_Evidenzgrad 1, starker Konsens_**<br>**5.10**<br>Depressive Störungen sollen in jeder<br>Transplantationsbehandlungsphase<br>entsprechend der S3-Leitlinie für<br>diese Störung behandelt werden.<br>**_EK, starker Konsens_**<br>**5.11**<br>Angststörungen sollen in jeder<br>Phase der<br>Transplantationsbehandlung<br>entsprechend der S3-Leitlinie<br>behandelt werden.<br>**_EK, starker Konsens_**<br>**5.12.**<br>Falls eine Indikation für eine<br>psychopharmakologische<br>Behandlung besteht soll die<br>somatische Komorbidität und die<br>Medikamenteninteraktionen<br>besonders beachtet werden.<br>**_EK, starker Konsens_**<br>**_In text:_**|Pre-transplant depression predicts<br>mortality after cardiothoracic<br>transplantation, as does post-<br>transplant depression; these effects<br>are seen in other types of solid organ<br>transplantation as well. Pre-<br>transplant depression is a strong<br>predictor of post- transplant<br>depression.<br>Anxiety may predict post-transplant<br>mortality, but the evidence base is<br>small and not definitive.<br>Depression likely affects mortality in<br>part through behavioral pathways.<br>In cardiothoracic transplant and<br>MCS patients: Depression is<br>associated with poorer medical<br>adherence, poorer coping strategies,<br>and higher risks for complications,<br>such as infections.<br>Such intermediate outcomes, in turn,<br>increase risks for rehospitalization,<br>graft rejection and loss, and<br>mortality.<br>A small literature on<br>epidemiologically rare psychiatric<br>disorders (psychosis, bipolar<br>disorder), including some reports on<br>cardiothoracic transplant recipients,<br>finds that these disorders do not<br>commonly have any impact on risk<br>for graft rejection, other morbidities,<br>or mortality. Such findings may be<br>due to careful screening of such<br>patients for transplantation, and<br>close management thereafter.<br>However, if management cannot be<br>optimized, transplant outcomes can<br>be adversely affected: risks for graft<br>loss and mortality were increased in<br>kidney recipients who required<br>hospitalization for psychosis.<br>A small literature suggests that<br>personality disorders do not directly|_The active use of psychotropic_<br>_medications among candidates_<br>_should not constitute a_<br>_contraindication,_<br>_but careful examination of potential_<br>_interactions between_<br>_psychotropic and transplant-specific_<br>_medications should be_<br>_conducted._|**Topic 6: Psychologic Issues**<br>**Particularly Related to Adherence**<br>**to Medical Therapy and**<br>**Management of Mood Disorders in**<br>**Heart Transplant**<br>**Recipients**<br>Given their impact on post-transplant<br>survival, depressive symptoms<br>should be regularly evaluated before<br>and during long-term follow-up of HT<br>recipients. This can best be done by<br>user friendly, validated screening<br>instruments (e.g., PHQ-9, PHQ-9<br>modified for teens).<br>**_Class I, Level of Evidence B_**<br>All patients with elevated screening<br>scores should be referred for<br>specialized evaluation, assessment,<br>and potential treatment. Each HT<br>team should include a<br>psychologist/psychiatrist who is<br>qualified to detect and treat mood<br>disorders. Patients with psychosocial<br>problems or difficulty coping could be<br>referred to appropriate mental and<br>behavioral health services.<br>**_Class I, Level of Evidence C_**<br>Serotonin reuptake inhibitors,<br>particularly citalopram, and new<br>generation antidepressants<br>(mirtazapine) may be the best choice<br>for HT recipients because they have<br>no significant impact on blood<br>pressure, heart rate, rhythm, or<br>conduction intervals.<br>**_Class I, Level of Evidence B._**<br>Agents that interact with the<br>metabolism of CYA and TAC via the<br>CYP450 system (e.g., fluvoxamine,<br>nefazodone) should be avoided<br>because they may alter CNI levels.<br>**_Class I, Level of Evidence B._**||
+|assoziiert. Der Zusammenhang ist
+ausgeprägter bei Depressivität nach
+Transplantation als bei Depressivität
+vor Transplantation.
+**_Evidenzgrad 1, starker Konsens_**
+**5.8**
+Angst ist eine natürliche Reaktion
+auf die Belastung der Patient:innen
+durch die Grunderkrankung oder die
+Transplantation und ihre Folgen.
+**_EK, starker Konsens_**
+**5.9**
+Eine stärkere Ausprägung von
+Angstsymptomen bei
+Transplantationspatient:innen ist
+nicht mit einer erhöhten
+Gesamtmortalität assoziiert.
+**_Evidenzgrad 1, starker Konsens_**
+**5.10**
+Depressive Störungen sollen in jeder
+Transplantationsbehandlungsphase
+entsprechend der S3-Leitlinie für
+diese Störung behandelt werden.
+**_EK, starker Konsens_**
+**5.11**
+Angststörungen sollen in jeder
+Phase der
+Transplantationsbehandlung
+entsprechend der S3-Leitlinie
+behandelt werden.
+**_EK, starker Konsens_**
+**5.12.**
+Falls eine Indikation für eine
+psychopharmakologische
+Behandlung besteht soll die
+somatische Komorbidität und die
+Medikamenteninteraktionen
+besonders beachtet werden.
+**_EK, starker Konsens_**
+**_In text:_**|Pre-transplant depression predicts
+mortality after cardiothoracic
+transplantation, as does post-
+transplant depression; these effects
+are seen in other types of solid organ
+transplantation as well. Pre-
+transplant depression is a strong
+predictor of post- transplant
+depression.
+Anxiety may predict post-transplant
+mortality, but the evidence base is
+small and not definitive.
+Depression likely affects mortality in
+part through behavioral pathways.
+In cardiothoracic transplant and
+MCS patients: Depression is
+associated with poorer medical
+adherence, poorer coping strategies,
+and higher risks for complications,
+such as infections.
+Such intermediate outcomes, in turn,
+increase risks for rehospitalization,
+graft rejection and loss, and
+mortality.
+A small literature on
+epidemiologically rare psychiatric
+disorders (psychosis, bipolar
+disorder), including some reports on
+cardiothoracic transplant recipients,
+finds that these disorders do not
+commonly have any impact on risk
+for graft rejection, other morbidities,
+or mortality. Such findings may be
+due to careful screening of such
+patients for transplantation, and
+close management thereafter.
+However, if management cannot be
+optimized, transplant outcomes can
+be adversely affected: risks for graft
+loss and mortality were increased in
+kidney recipients who required
+hospitalization for psychosis.
+A small literature suggests that
+personality disorders do not directly|_The active use of psychotropic_
+_medications among candidates_
+_should not constitute a_
+_contraindication,_
+_but careful examination of potential_
+_interactions between_
+_psychotropic and transplant-specific_
+_medications should be_
+_conducted._|**Topic 6: Psychologic Issues**
+**Particularly Related to Adherence**
+**to Medical Therapy and**
+**Management of Mood Disorders in**
+**Heart Transplant**
+**Recipients**
+Given their impact on post-transplant
+survival, depressive symptoms
+should be regularly evaluated before
+and during long-term follow-up of HT
+recipients. This can best be done by
+user friendly, validated screening
+instruments (e.g., PHQ-9, PHQ-9
+modified for teens).
+**_Class I, Level of Evidence B_**
+All patients with elevated screening
+scores should be referred for
+specialized evaluation, assessment,
+and potential treatment. Each HT
+team should include a
+psychologist/psychiatrist who is
+qualified to detect and treat mood
+disorders. Patients with psychosocial
+problems or difficulty coping could be
+referred to appropriate mental and
+behavioral health services.
+**_Class I, Level of Evidence C_**
+Serotonin reuptake inhibitors,
+particularly citalopram, and new
+generation antidepressants
+(mirtazapine) may be the best choice
+for HT recipients because they have
+no significant impact on blood
+pressure, heart rate, rhythm, or
+conduction intervals.
+**_Class I, Level of Evidence B._**
+Agents that interact with the
+metabolism of CYA and TAC via the
+CYP450 system (e.g., fluvoxamine,
+nefazodone) should be avoided
+because they may alter CNI levels.
+**_Class I, Level of Evidence B._**||
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
@@ -903,7 +1439,107 @@ Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosozi
 |**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|
 |---|---|---|---|---|
 |S3-Leitlinie DGPM1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
-|_In einer systematischen Übersicht_<br>_von Belaiche et al. wurden prädiktive_<br>_Faktoren für immunsuppressive Non-_<br>_Adhärenz bei Nierentransplantierten_<br>_untersucht. Hierbei wurden 37_<br>_Studien eingeschlossen, welche_<br>_Non-Adhärenz mit Hilfe von_<br>_elektronischem Monitoring,_<br>_Medikamentenspiegel im Blut,_<br>_Patienteninterviews,_<br>_Fremdbeurteilungen durch Ärzte_<br>_oder Krankenpfleger,_<br>_Calcineurininhibitoren-Messung_<br>_sowie einer Kombination aus_<br>_Messmethoden erfassten. Hiervon_<br>_untersuchten neun Studien_<br>_Depression und Angst als potentielle_<br>_Risikofaktoren für Non-Adhärenz. In_<br>_sieben Studien erwiesen sich Angst_<br>_und Depression als signifikante_<br>_Prädiktoren medikamentöser Non-_<br>_Adhärenz, wobei starke_<br>_selbstberichtete Depression mit einer_<br>_höheren Non-Adhärenz assoziiert_<br>_war als bei Patient:innen mit milder_<br>_Depression. Die zwei verbleibenden_<br>_Studien konnten hingegen keinen_<br>_Zusammenhang feststellen._<br>_Zu Auswirkungen von Depression_<br>_und Angst auf Non-Adhärenz nach_<br>_Herz-, Lungen-, und_<br>_Lebertransplantation liegt keine_<br>_ausreichende Evidenz vor._<br>_Hauptsächlich beziehen sich_<br>_Forschungsarbeiten auf_<br>_Risikofaktoren für einen ungünstigen_<br>_klinischen Verlauf. Trotz nicht_<br>_ausreichend vorhandener Evidenz ist_<br>_davon auszugehen, dass die_<br>_Zusammenhänge, die für_<br>_nierentransplantierte Patient:innen_<br>_nachgewiesen wurden, auch_<br>_organübergreifend für Herz-,_<br>_Lungen- und Lebertransplantierte_<br>_gelten können._<br>_Ungeachtet der Heterogenität der_<br>_Studienlage, zeigt sich in der_|increase risk for post-transplant<br>mortality, but may have indirect<br>effects. Personality disorders can<br>increase the likelihood of<br>maladaptive coping patterns and<br>non-adherence, including return to<br>substance use, in organ recipients.<br>Transplant recipients with personality<br>disorders can have poor<br>interpersonal relationships, thus<br>decreasing the likelihood that they<br>will have stable social support.<br>Family mental health history is rarely<br>studied in transplant populations but<br>is an established risk factor for many<br>psychiatric disorders. Family history<br>can predict disorder course and what<br>treatment is likely to be most<br>effective. Mental health problems<br>and distress among family members<br>may impair their ability to provide<br>care and social support to the<br>patient.||Tricyclic antidepressants (e.g.,<br>imipramine, desipramine,<br>amitriptyline, and clomipramine) are<br>associated with cardiovascular<br>toxicity (conduction delay, orthostatic<br>hypotension, and anticholinergic<br>effects) and may lower seizure<br>thresholds, and therefore, their use<br>should be restricted to HT recipients<br>with severe depression refractory to<br>other therapies. Monoamine oxidase<br>inhibitors (MAOIs) should be avoided<br>because of their hypotensive effects,<br>interactions with anesthetic and<br>pressor agents, and need for dietary<br>restrictions. Herbal medicines such<br>as St. John’s wort (Hypericum<br>perforatum) can be harmful because<br>it lowers CYA levels.<br>**_Class I, Level of Evidence B_**<br>**Topic 13: Principles of Shared**<br>**Care After Heart Transplantation**<br>The HT team should have periodic<br>conference calls with the local<br>centers to discuss the care of these<br>patients, to enable ongoing<br>discussions and review appropriate<br>management of complications,<br>should they arise. These might<br>include medical complications, but<br>also psychological, social, or health<br>behavior problems.<br>**_Class I, Level of Evidence: C_**||
+|_In einer systematischen Übersicht_
+_von Belaiche et al. wurden prädiktive_
+_Faktoren für immunsuppressive Non-_
+_Adhärenz bei Nierentransplantierten_
+_untersucht. Hierbei wurden 37_
+_Studien eingeschlossen, welche_
+_Non-Adhärenz mit Hilfe von_
+_elektronischem Monitoring,_
+_Medikamentenspiegel im Blut,_
+_Patienteninterviews,_
+_Fremdbeurteilungen durch Ärzte_
+_oder Krankenpfleger,_
+_Calcineurininhibitoren-Messung_
+_sowie einer Kombination aus_
+_Messmethoden erfassten. Hiervon_
+_untersuchten neun Studien_
+_Depression und Angst als potentielle_
+_Risikofaktoren für Non-Adhärenz. In_
+_sieben Studien erwiesen sich Angst_
+_und Depression als signifikante_
+_Prädiktoren medikamentöser Non-_
+_Adhärenz, wobei starke_
+_selbstberichtete Depression mit einer_
+_höheren Non-Adhärenz assoziiert_
+_war als bei Patient:innen mit milder_
+_Depression. Die zwei verbleibenden_
+_Studien konnten hingegen keinen_
+_Zusammenhang feststellen._
+_Zu Auswirkungen von Depression_
+_und Angst auf Non-Adhärenz nach_
+_Herz-, Lungen-, und_
+_Lebertransplantation liegt keine_
+_ausreichende Evidenz vor._
+_Hauptsächlich beziehen sich_
+_Forschungsarbeiten auf_
+_Risikofaktoren für einen ungünstigen_
+_klinischen Verlauf. Trotz nicht_
+_ausreichend vorhandener Evidenz ist_
+_davon auszugehen, dass die_
+_Zusammenhänge, die für_
+_nierentransplantierte Patient:innen_
+_nachgewiesen wurden, auch_
+_organübergreifend für Herz-,_
+_Lungen- und Lebertransplantierte_
+_gelten können._
+_Ungeachtet der Heterogenität der_
+_Studienlage, zeigt sich in der_|increase risk for post-transplant
+mortality, but may have indirect
+effects. Personality disorders can
+increase the likelihood of
+maladaptive coping patterns and
+non-adherence, including return to
+substance use, in organ recipients.
+Transplant recipients with personality
+disorders can have poor
+interpersonal relationships, thus
+decreasing the likelihood that they
+will have stable social support.
+Family mental health history is rarely
+studied in transplant populations but
+is an established risk factor for many
+psychiatric disorders. Family history
+can predict disorder course and what
+treatment is likely to be most
+effective. Mental health problems
+and distress among family members
+may impair their ability to provide
+care and social support to the
+patient.||Tricyclic antidepressants (e.g.,
+imipramine, desipramine,
+amitriptyline, and clomipramine) are
+associated with cardiovascular
+toxicity (conduction delay, orthostatic
+hypotension, and anticholinergic
+effects) and may lower seizure
+thresholds, and therefore, their use
+should be restricted to HT recipients
+with severe depression refractory to
+other therapies. Monoamine oxidase
+inhibitors (MAOIs) should be avoided
+because of their hypotensive effects,
+interactions with anesthetic and
+pressor agents, and need for dietary
+restrictions. Herbal medicines such
+as St. John’s wort (Hypericum
+perforatum) can be harmful because
+it lowers CYA levels.
+**_Class I, Level of Evidence B_**
+**Topic 13: Principles of Shared**
+**Care After Heart Transplantation**
+The HT team should have periodic
+conference calls with the local
+centers to discuss the care of these
+patients, to enable ongoing
+discussions and review appropriate
+management of complications,
+should they arise. These might
+include medical complications, but
+also psychological, social, or health
+behavior problems.
+**_Class I, Level of Evidence: C_**||
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
@@ -912,9 +1548,150 @@ Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosozi
 |**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|
 |---|---|---|---|---|
 |S3-Leitlinie DGPM1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
-|_Mehrheit der Studien ein_<br>_Zusammenhang zwischen_<br>_Depressivität und Non-Adhärenz_<br>_sowie Angst und Non-Adhärenz,_<br>_womit diese beiden Faktoren als_<br>_mögliche Risikofaktoren angesehen_<br>_werden können._|||||
+|_Mehrheit der Studien ein_
+_Zusammenhang zwischen_
+_Depressivität und Non-Adhärenz_
+_sowie Angst und Non-Adhärenz,_
+_womit diese beiden Faktoren als_
+_mögliche Risikofaktoren angesehen_
+_werden können._|||||
 |**ALKOHOL**|||||
-|**5.13**<br>Die alkoholische Leberzirrhose ist<br>eine der häufigsten Indikationen zur<br>Aufnahme auf die<br>Lebertransplantationswarteliste<br>(DSO, Eurotransplant). Bei<br>Lebertransplantationspatient:innen<br>mit äthyltoxischer Leberzirrhose<br>gehen Rückfälle nach<br>Lebertransplantation mit einem<br>erhöhten Mortalitätsrisiko einher.<br>Auswirkungen des Alkoholkonsums<br>bei Transplantationspatient:innen<br>anderer Organe wurden bislang<br>unzureichend untersucht.<br>**_Evidenzgrad 1, starker Konsens_**<br>**5.14**<br>Bei Transplantationspatient:innen<br>soll während des gesamten<br>Transplantationsprozesses ein<br>eventueller Alkoholkonsum erfasst<br>und dokumentiert werden.<br>**_EK, starker Konsens_**<br>**5.15**<br>Im Falle eines riskanten, schädlichen<br>oder abhängigen Alkoholkonsums<br>soll Transplantationspatient:innen<br>eine leitliniengerechte Intervention<br>angeboten werden.<br>**_EK, starker Konsens_**<br>**5.16**<br>Transplantationspatient:innen mit<br>einer alkoholassoziierten<br>Lebererkrankung sollen vor und<br>nach der Transplantation durch<br>einen Mental Health Professional|**Empirical Evidence Supporting**<br>**the Inclusion of Each Domain of**<br>**the Psychosocial Evaluation**<br>**A. Risk factors for poor outcomes**<br>**after transplantation**<br>**2. Substance use history**<br>Tobacco use and alcohol/drug abuse<br>before cardiothoracic transplantation<br>or MCS implantation increases the<br>risk for use of these substances after<br>transplantation/implantation.<br>Alcohol abuse and drug abuse<br>increase the risks for post-<br>transplant/post-implantation<br>morbidities and mortality, including:<br>Drive-line infections and hospital<br>readmissions in MCS recipients<br>And mortality in transplant and MCS<br>recipients.<br>Some studies did not find substance<br>use/ abuse to be associated with<br>clinical outcomes after<br>transplantation/ implantation. This<br>may reflect programs’ selection<br>criteria and requirements regarding<br>abstinence from use.<br>Abstinence affects risks: The shorter<br>the period of abstinence from<br>tobacco use before heart, lung or<br>other types of transplantation, the<br>higher the risk of relapse post-<br>transplant. While duration of<br>abstinence from alcohol/drug use<br>has received little empirical attention<br>in cardiothoracic transplantation or|**Absolute contraindications:**<br>16. Active substance use or<br>dependence including current<br>tobacco use,<br>vaping, marijuana smoking, or IV<br>drug use<br>**In text:**<br>_Patients should be assessed for_<br>_active substance use disorders and_<br>_where indicated engage in treatment_<br>_prior to lung transplantation. Based_<br>_on medical stability, this may_<br>_constitute a provision of transplant_<br>_listing._<br>_At the time of evaluation and then_<br>_serially during the pre-transplant_<br>_period, blood and urine testing may_<br>_be used to verify abstinence from_<br>_substances._|**Task Force 1: Perioperative care**<br>**of the heart transplant recipient**<br>**Topic 1 Pretransplant**<br>**Optimization**<br>Long-term MCS should be<br>considered in patients: (a) When<br>ventricular function is unlikely to<br>recover soon or has been deemed<br>unrecoverable. (b) Who are inotrope<br>dependent and therefore at high risk<br>for death with ongoing medical<br>management. (c) Who are potential<br>HT candidates, with elevated<br>pulmonary vascular resistance that is<br>considered reversible with left<br>ventricular (LV) decompression, (d)<br>Who are potential HT candidates,<br>with contraindications requiring<br>substantial time to reverse, i.e.,<br>cancer, obesity, drug and/or alcohol<br>dependence. (e)<br>With a reversible cardiac disease<br>process that requires substantial<br>time for ventricular recovery. (f)<br>Who are ineligible for HT and where<br>long-term MCS is an option.<br>**_Class I, Level of Evidence C_**<br>**Topic 2: Prophylaxis for**<br>**Corticosteroid-Induced Bone**<br>**Disease**<br>Lifestyle modifications should include<br>maintaining healthy weight<br>balanced diet, smoking abstinence<br>and limiting alcohol intake to 1-2<br>drinks a day.<br>**Class I, Level of Evidence C**<br>**Topic 7: Substance use and abuse**|**1.5.2. Substance abuse**<br>A structured rehabilitative program<br>may be considered for<br>patients with a recent (24-month)<br>history of alcohol abuse if<br>transplantation is being considered<br>**_Class IIb, Level of Evidence: C_**<br>Patients who remain active<br>substance abusers (including<br>alcohol)<br>should not receive heart<br>transplantation**_Class III, Level of_**<br>**_Evidence: C_**|
+|**5.13**
+Die alkoholische Leberzirrhose ist
+eine der häufigsten Indikationen zur
+Aufnahme auf die
+Lebertransplantationswarteliste
+(DSO, Eurotransplant). Bei
+Lebertransplantationspatient:innen
+mit äthyltoxischer Leberzirrhose
+gehen Rückfälle nach
+Lebertransplantation mit einem
+erhöhten Mortalitätsrisiko einher.
+Auswirkungen des Alkoholkonsums
+bei Transplantationspatient:innen
+anderer Organe wurden bislang
+unzureichend untersucht.
+**_Evidenzgrad 1, starker Konsens_**
+**5.14**
+Bei Transplantationspatient:innen
+soll während des gesamten
+Transplantationsprozesses ein
+eventueller Alkoholkonsum erfasst
+und dokumentiert werden.
+**_EK, starker Konsens_**
+**5.15**
+Im Falle eines riskanten, schädlichen
+oder abhängigen Alkoholkonsums
+soll Transplantationspatient:innen
+eine leitliniengerechte Intervention
+angeboten werden.
+**_EK, starker Konsens_**
+**5.16**
+Transplantationspatient:innen mit
+einer alkoholassoziierten
+Lebererkrankung sollen vor und
+nach der Transplantation durch
+einen Mental Health Professional|**Empirical Evidence Supporting**
+**the Inclusion of Each Domain of**
+**the Psychosocial Evaluation**
+**A. Risk factors for poor outcomes**
+**after transplantation**
+**2. Substance use history**
+Tobacco use and alcohol/drug abuse
+before cardiothoracic transplantation
+or MCS implantation increases the
+risk for use of these substances after
+transplantation/implantation.
+Alcohol abuse and drug abuse
+increase the risks for post-
+transplant/post-implantation
+morbidities and mortality, including:
+Drive-line infections and hospital
+readmissions in MCS recipients
+And mortality in transplant and MCS
+recipients.
+Some studies did not find substance
+use/ abuse to be associated with
+clinical outcomes after
+transplantation/ implantation. This
+may reflect programs’ selection
+criteria and requirements regarding
+abstinence from use.
+Abstinence affects risks: The shorter
+the period of abstinence from
+tobacco use before heart, lung or
+other types of transplantation, the
+higher the risk of relapse post-
+transplant. While duration of
+abstinence from alcohol/drug use
+has received little empirical attention
+in cardiothoracic transplantation or|**Absolute contraindications:**
+16. Active substance use or
+dependence including current
+tobacco use,
+vaping, marijuana smoking, or IV
+drug use
+**In text:**
+_Patients should be assessed for_
+_active substance use disorders and_
+_where indicated engage in treatment_
+_prior to lung transplantation. Based_
+_on medical stability, this may_
+_constitute a provision of transplant_
+_listing._
+_At the time of evaluation and then_
+_serially during the pre-transplant_
+_period, blood and urine testing may_
+_be used to verify abstinence from_
+_substances._|**Task Force 1: Perioperative care**
+**of the heart transplant recipient**
+**Topic 1 Pretransplant**
+**Optimization**
+Long-term MCS should be
+considered in patients: (a) When
+ventricular function is unlikely to
+recover soon or has been deemed
+unrecoverable. (b) Who are inotrope
+dependent and therefore at high risk
+for death with ongoing medical
+management. (c) Who are potential
+HT candidates, with elevated
+pulmonary vascular resistance that is
+considered reversible with left
+ventricular (LV) decompression, (d)
+Who are potential HT candidates,
+with contraindications requiring
+substantial time to reverse, i.e.,
+cancer, obesity, drug and/or alcohol
+dependence. (e)
+With a reversible cardiac disease
+process that requires substantial
+time for ventricular recovery. (f)
+Who are ineligible for HT and where
+long-term MCS is an option.
+**_Class I, Level of Evidence C_**
+**Topic 2: Prophylaxis for**
+**Corticosteroid-Induced Bone**
+**Disease**
+Lifestyle modifications should include
+maintaining healthy weight
+balanced diet, smoking abstinence
+and limiting alcohol intake to 1-2
+drinks a day.
+**Class I, Level of Evidence C**
+**Topic 7: Substance use and abuse**|**1.5.2. Substance abuse**
+A structured rehabilitative program
+may be considered for
+patients with a recent (24-month)
+history of alcohol abuse if
+transplantation is being considered
+**_Class IIb, Level of Evidence: C_**
+Patients who remain active
+substance abusers (including
+alcohol)
+should not receive heart
+transplantation**_Class III, Level of_**
+**_Evidence: C_**|
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
@@ -923,9 +1700,130 @@ Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosozi
 |**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|
 |---|---|---|---|---|
 |S3-Leitlinie DGPM1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
-|versorgt und zur Beibehaltung einer<br>absoluten Alkoholabstinenz motiviert<br>werden.<br>**_Empfehlungsgrad A, Evidenzgrad_**<br>**_2, starker Konsens_**<br>**5.28**<br>Bei Hinweisen auf Konsumrückfälle<br>sollte Patient:innen von einem MHP<br>eine spezifische therapeutische<br>Behandlungsoption angeboten bzw.<br>vermittelt werden.<br>**_EK, starker Konsens_**|MCS, it is a strong predictor of<br>relapse to use in other types of solid-<br>organ transplantation. Alcohol and<br>drug abuse run in families, and<br>increase the risk for relapse to<br>substance use in transplant<br>populations.<br>**In text:**<br>Active alcohol abuse and drug abuse<br>are contraindications to<br>cardiothoracic<br>Transplantation and MCS<br>implantation.<br>The psychosocial evaluation should<br>assess history of use of all<br>substances, current status, any<br>treatments received, periods of<br>abstinence, and insight and<br>willingness to receive treatment.||All patients should be routinely<br>assessed and questioned on alcohol<br>use.<br>**_Class I, level of Evidence C_**<br>Patients that exceed national<br>recommendations for “safe drinking”<br>should be counselled on the<br>harmful effects of alcohol.<br>**_Class I, Level of Evidence C_**<br>If screening identifies misuse or<br>dependency, then prompt referral to<br>local specialty services for treatment<br>and support is recommended.<br>**_Class I, Level of Evidence C_**<br>**Topic 13: Principles of Shared**<br>**Care After Heart Transplantation**<br>The HT team should have periodic<br>conference calls with the local<br>centers to discuss the care of these<br>patients, to enable ongoing<br>discussions and review appropriate<br>management of complications,<br>should they arise. These might<br>include medical complications, but<br>also psychological, social, or health<br>behavior problems.<br>**_Class I, Level of Evidence: C_**||
+|versorgt und zur Beibehaltung einer
+absoluten Alkoholabstinenz motiviert
+werden.
+**_Empfehlungsgrad A, Evidenzgrad_**
+**_2, starker Konsens_**
+**5.28**
+Bei Hinweisen auf Konsumrückfälle
+sollte Patient:innen von einem MHP
+eine spezifische therapeutische
+Behandlungsoption angeboten bzw.
+vermittelt werden.
+**_EK, starker Konsens_**|MCS, it is a strong predictor of
+relapse to use in other types of solid-
+organ transplantation. Alcohol and
+drug abuse run in families, and
+increase the risk for relapse to
+substance use in transplant
+populations.
+**In text:**
+Active alcohol abuse and drug abuse
+are contraindications to
+cardiothoracic
+Transplantation and MCS
+implantation.
+The psychosocial evaluation should
+assess history of use of all
+substances, current status, any
+treatments received, periods of
+abstinence, and insight and
+willingness to receive treatment.||All patients should be routinely
+assessed and questioned on alcohol
+use.
+**_Class I, level of Evidence C_**
+Patients that exceed national
+recommendations for “safe drinking”
+should be counselled on the
+harmful effects of alcohol.
+**_Class I, Level of Evidence C_**
+If screening identifies misuse or
+dependency, then prompt referral to
+local specialty services for treatment
+and support is recommended.
+**_Class I, Level of Evidence C_**
+**Topic 13: Principles of Shared**
+**Care After Heart Transplantation**
+The HT team should have periodic
+conference calls with the local
+centers to discuss the care of these
+patients, to enable ongoing
+discussions and review appropriate
+management of complications,
+should they arise. These might
+include medical complications, but
+also psychological, social, or health
+behavior problems.
+**_Class I, Level of Evidence: C_**||
 |**TABAK/ NIKOTIN**|||||
-|**5.17**<br>Fortgesetzter Tabakkonsum nach<br>Transplantation geht mit erhöhter<br>Morbidität und Mortalität einher. Ein<br>Rauchstopp ist daher ein sinnvolles<br>Behandlungsziel.<br>**_Evidenzgrad 1-, starker Konsens_**<br>**5.18**<br>Bei Transplantationspatient:innen<br>soll während des gesamten<br>Transplantationsprozesses ein<br>eventueller Tabakkonsum erfasst<br>und dokumentiert werden.<br>**_EK, starker Konsens_**|**Empirical Evidence Supporting**<br>**the Inclusion of Each Domain of**<br>**the Psychosocial Evaluation**<br>**A. Risk factors for poor outcomes**<br>**after transplantation**<br>**2. Substance use history**<br>Tobacco use and alcohol/drug abuse<br>before cardiothoracic transplantation<br>or MCS implantation increases the<br>risk for use of these substances after<br>transplantation/implantation<br>Smoking tobacco increases the risks<br>for post-transplant/ post-implantation<br>morbidities and mortality, including:|**Absolute contraindications:**<br>16. Active substance use or<br>dependence including current<br>tobacco use,<br>vaping, marijuana smoking, or IV<br>drug use<br>**In text:**<br>_Lung transplant candidates must_<br>_demonstrate abstinence from use of_<br>_all tobacco and nicotine products_<br>_(including nicotine replacement_<br>_therapy) prior to transplant_<br>_(e.g., with serial nicotine and cotinine_<br>_screening).111 A short duration of_|**Task Force 1: Perioperative care**<br>**of the heart transplant recipient**<br>**Topic 1 Pretransplant**<br>**Optimization**<br>Long-term MCS should be<br>considered in patients: (a) When<br>ventricular function is unlikely to<br>recover soon or has been deemed<br>unrecoverable. (b) Who are inotrope<br>dependent and therefore at high risk<br>for death with ongoing medical<br>management. (c) Who are potential<br>HT candidates, with elevated<br>pulmonary vascular resistance that is<br>considered reversible with left<br>ventricular (LV) decompression, (d)|**1.5.1 Tobacco use**<br>Education on the importance of<br>tobacco cessation and reduction in<br>environmental or second-hand<br>exposure should be performed<br>before the transplant and continue<br>throughout the pre- and post-<br>transplant periods<br>**_Class I, Level of Evidence: C_**<br>It is reasonable to consider active<br>tobacco smoking as a relative<br>contraindication to transplantation.<br>Active tobacco smoking during the|
+|**5.17**
+Fortgesetzter Tabakkonsum nach
+Transplantation geht mit erhöhter
+Morbidität und Mortalität einher. Ein
+Rauchstopp ist daher ein sinnvolles
+Behandlungsziel.
+**_Evidenzgrad 1-, starker Konsens_**
+**5.18**
+Bei Transplantationspatient:innen
+soll während des gesamten
+Transplantationsprozesses ein
+eventueller Tabakkonsum erfasst
+und dokumentiert werden.
+**_EK, starker Konsens_**|**Empirical Evidence Supporting**
+**the Inclusion of Each Domain of**
+**the Psychosocial Evaluation**
+**A. Risk factors for poor outcomes**
+**after transplantation**
+**2. Substance use history**
+Tobacco use and alcohol/drug abuse
+before cardiothoracic transplantation
+or MCS implantation increases the
+risk for use of these substances after
+transplantation/implantation
+Smoking tobacco increases the risks
+for post-transplant/ post-implantation
+morbidities and mortality, including:|**Absolute contraindications:**
+16. Active substance use or
+dependence including current
+tobacco use,
+vaping, marijuana smoking, or IV
+drug use
+**In text:**
+_Lung transplant candidates must_
+_demonstrate abstinence from use of_
+_all tobacco and nicotine products_
+_(including nicotine replacement_
+_therapy) prior to transplant_
+_(e.g., with serial nicotine and cotinine_
+_screening).111 A short duration of_|**Task Force 1: Perioperative care**
+**of the heart transplant recipient**
+**Topic 1 Pretransplant**
+**Optimization**
+Long-term MCS should be
+considered in patients: (a) When
+ventricular function is unlikely to
+recover soon or has been deemed
+unrecoverable. (b) Who are inotrope
+dependent and therefore at high risk
+for death with ongoing medical
+management. (c) Who are potential
+HT candidates, with elevated
+pulmonary vascular resistance that is
+considered reversible with left
+ventricular (LV) decompression, (d)|**1.5.1 Tobacco use**
+Education on the importance of
+tobacco cessation and reduction in
+environmental or second-hand
+exposure should be performed
+before the transplant and continue
+throughout the pre- and post-
+transplant periods
+**_Class I, Level of Evidence: C_**
+It is reasonable to consider active
+tobacco smoking as a relative
+contraindication to transplantation.
+Active tobacco smoking during the|
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
@@ -934,7 +1832,134 @@ Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosozi
 |**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|
 |---|---|---|---|---|
 |S3-Leitlinie DGPM1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
-|**5.19**<br>Rauchenden<br>Transplantationspatient:innen soll<br>eine leitliniengerechte<br>Tabakentwöhnung mit<br>psychosozialer und medikamentöser<br>Unterstützung angeboten werden.<br>**_Empfehlungsgrad A, Evidenzgrad_**<br>**_1-, starker Konsens_**<br>**5.28**<br>Bei Hinweisen auf Konsumrückfälle<br>sollte Patient:innen von einem MHP<br>eine spezifische therapeutische<br>Behandlungsoption angeboten bzw.<br>vermittelt werden.<br>**_EK, starker Konsens_**|cardiac allograft disease, cancers,<br>hypertension, and acute kidney<br>injury in heart recipients; cancers<br>and kidney disease in lung<br>recipients; pump thrombosis and<br>gastrointestinal bleeding in MCS<br>recipients; Mortality in transplant and<br>MCS recipients.<br>Some studies did not find substance<br>use/ abuse to be associated with<br>clinical outcomes after<br>transplantation/ implantation. This<br>may reflect programs’ selection<br>criteria and requirements regarding<br>abstinence from use.<br>Abstinence affects risks: The shorter<br>the period of abstinence from<br>tobacco use before heart, lung or<br>other types of transplantation, the<br>higher the risk of relapse post-<br>transplant. While duration of<br>abstinence from alcohol/drug use<br>has received little empirical attention<br>in cardiothoracic transplantation or<br>MCS, it is a strong predictor of<br>relapse to use in other types of solid-<br>organ transplantation. Alcohol and<br>drug abuse run in families, and<br>increase the risk for relapse to<br>substance use in transplant<br>populations.<br>**In text:**<br>Active tobacco smoking is a<br>contraindication to cardiothoracic<br>transplantation. While smoking<br>cessation before MCS implantation<br>is recommended, guidelines state<br>that if this cannot be accomplished<br>before implantation due to patients’<br>medical urgency, abstinence is<br>required afterward if patients are to<br>be considered for transplantation.<br>The psychosocial evaluation should<br>assess history of use of all|_abstinence (e.g., ≤ 6 months) and_<br>_exposure to second-hand smoke_<br>_confer a higher risk for relapse;_<br>_duration_<br>_of cessation should take into account_<br>_the patient’s medical acuity and_<br>_stability. Education on the_<br>_importance_<br>_of abstinence from all nicotine_<br>_products (e.g., vaping), as well as_<br>_limiting environmental or passive_<br>_exposure to these products, should_<br>_occur before referral for transplant_<br>_and_<br>_continue after transplant._<br>_Patients should be assessed for_<br>_active substance use disorders and_<br>_where indicated engage in treatment_<br>_prior to lung transplantation. Based_<br>_on medical stability, this may_<br>_constitute a provision of transplant_<br>_listing._<br>_At the time of evaluation and then_<br>_serially during the pre-transplant_<br>_period, blood and urine testing may_<br>_be used to verify abstinence from_<br>_substances._|Who are potential HT candidates,<br>with contraindications requiring<br>substantial time to reverse, i.e.,<br>cancer, obesity, drug and/or alcohol<br>dependence. (e)<br>With a reversible cardiac disease<br>process that requires substantial<br>time for ventricular recovery. (f)<br>Who are ineligible for HT and where<br>long-term MCS is an option.<br>**_Class I, Level of Evidence C_**<br>**Topic 2: Prophylaxis for**<br>**Corticosteroid-Induced Bone**<br>**Disease**<br>Lifestyle modifications should include<br>maintaining healthy weight<br>balanced diet, smoking abstinence<br>and limiting alcohol intake to 1-2<br>drinks a day.<br>**Class I, Level of Evidence C**<br>**Topic 7: Substance use and abuse**<br>Active tobacco use (smoking,<br>chewing) is a risk factor for poor<br>outcomes after transplantation and<br>should be considered an absolute<br>contraindication for transplantation.<br>**_Class IIa, Level of Evidence B_**<br>Education on the importance of<br>tobacco cessation and reduction in<br>environment or second-hand<br>exposure should be performed<br>throughout the post-transplant period<br>**_Class I, Level of Evidence: C_**<br>Patients with a smoking history<br>(either pre- or post-transplant)<br>should be regularly screened for<br>smoking resumption, using reliable,<br>objective measures.<br>**_Class IIb, Level of Evidence B_**<br>All patients who resume tobacco<br>smoking should be referred to an<br>appropriate specialist for evaluation|previous 6months is a risk factor for<br>poor outcomes after transplantation<br>**_Class IIa, Level of Evidence: C_**|
+|**5.19**
+Rauchenden
+Transplantationspatient:innen soll
+eine leitliniengerechte
+Tabakentwöhnung mit
+psychosozialer und medikamentöser
+Unterstützung angeboten werden.
+**_Empfehlungsgrad A, Evidenzgrad_**
+**_1-, starker Konsens_**
+**5.28**
+Bei Hinweisen auf Konsumrückfälle
+sollte Patient:innen von einem MHP
+eine spezifische therapeutische
+Behandlungsoption angeboten bzw.
+vermittelt werden.
+**_EK, starker Konsens_**|cardiac allograft disease, cancers,
+hypertension, and acute kidney
+injury in heart recipients; cancers
+and kidney disease in lung
+recipients; pump thrombosis and
+gastrointestinal bleeding in MCS
+recipients; Mortality in transplant and
+MCS recipients.
+Some studies did not find substance
+use/ abuse to be associated with
+clinical outcomes after
+transplantation/ implantation. This
+may reflect programs’ selection
+criteria and requirements regarding
+abstinence from use.
+Abstinence affects risks: The shorter
+the period of abstinence from
+tobacco use before heart, lung or
+other types of transplantation, the
+higher the risk of relapse post-
+transplant. While duration of
+abstinence from alcohol/drug use
+has received little empirical attention
+in cardiothoracic transplantation or
+MCS, it is a strong predictor of
+relapse to use in other types of solid-
+organ transplantation. Alcohol and
+drug abuse run in families, and
+increase the risk for relapse to
+substance use in transplant
+populations.
+**In text:**
+Active tobacco smoking is a
+contraindication to cardiothoracic
+transplantation. While smoking
+cessation before MCS implantation
+is recommended, guidelines state
+that if this cannot be accomplished
+before implantation due to patients’
+medical urgency, abstinence is
+required afterward if patients are to
+be considered for transplantation.
+The psychosocial evaluation should
+assess history of use of all|_abstinence (e.g., ≤ 6 months) and_
+_exposure to second-hand smoke_
+_confer a higher risk for relapse;_
+_duration_
+_of cessation should take into account_
+_the patient’s medical acuity and_
+_stability. Education on the_
+_importance_
+_of abstinence from all nicotine_
+_products (e.g., vaping), as well as_
+_limiting environmental or passive_
+_exposure to these products, should_
+_occur before referral for transplant_
+_and_
+_continue after transplant._
+_Patients should be assessed for_
+_active substance use disorders and_
+_where indicated engage in treatment_
+_prior to lung transplantation. Based_
+_on medical stability, this may_
+_constitute a provision of transplant_
+_listing._
+_At the time of evaluation and then_
+_serially during the pre-transplant_
+_period, blood and urine testing may_
+_be used to verify abstinence from_
+_substances._|Who are potential HT candidates,
+with contraindications requiring
+substantial time to reverse, i.e.,
+cancer, obesity, drug and/or alcohol
+dependence. (e)
+With a reversible cardiac disease
+process that requires substantial
+time for ventricular recovery. (f)
+Who are ineligible for HT and where
+long-term MCS is an option.
+**_Class I, Level of Evidence C_**
+**Topic 2: Prophylaxis for**
+**Corticosteroid-Induced Bone**
+**Disease**
+Lifestyle modifications should include
+maintaining healthy weight
+balanced diet, smoking abstinence
+and limiting alcohol intake to 1-2
+drinks a day.
+**Class I, Level of Evidence C**
+**Topic 7: Substance use and abuse**
+Active tobacco use (smoking,
+chewing) is a risk factor for poor
+outcomes after transplantation and
+should be considered an absolute
+contraindication for transplantation.
+**_Class IIa, Level of Evidence B_**
+Education on the importance of
+tobacco cessation and reduction in
+environment or second-hand
+exposure should be performed
+throughout the post-transplant period
+**_Class I, Level of Evidence: C_**
+Patients with a smoking history
+(either pre- or post-transplant)
+should be regularly screened for
+smoking resumption, using reliable,
+objective measures.
+**_Class IIb, Level of Evidence B_**
+All patients who resume tobacco
+smoking should be referred to an
+appropriate specialist for evaluation|previous 6months is a risk factor for
+poor outcomes after transplantation
+**_Class IIa, Level of Evidence: C_**|
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
@@ -943,9 +1968,114 @@ Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosozi
 |**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|
 |---|---|---|---|---|
 |S3-Leitlinie DGPM1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
-||substances, current status, any<br>treatments received, periods of<br>abstinence, and insight and<br>willingness to receive treatment.||and possible cessation therapies that<br>may include pharmaceutical and<br>non-pharmaceutical<br>aids.<br>**_Class IIb, Level of Evidence B_**<br>E-cigarettes should be avoided as a<br>tobacco cessation aid, as there is<br>limited data to support either efficacy<br>as a smoking cessation aid or safety<br>of long-term use. Vaping is also<br>associated with cardiovascular<br>and respiratory disease.<br>**_Class III, Level of Evidence: C_**<br>**Topic 13: Principles of Shared**<br>**Care After Heart Transplantation**<br>The HT team should have periodic<br>conference calls with the local<br>centers to discuss the care of these<br>patients, to enable ongoing<br>discussions and review appropriate<br>management of complications,<br>should they arise. These might<br>include medical complications, but<br>also psychological, social, or health<br>behavior problems.<br>**_Class I, Level of Evidence: C_**||
+||substances, current status, any
+treatments received, periods of
+abstinence, and insight and
+willingness to receive treatment.||and possible cessation therapies that
+may include pharmaceutical and
+non-pharmaceutical
+aids.
+**_Class IIb, Level of Evidence B_**
+E-cigarettes should be avoided as a
+tobacco cessation aid, as there is
+limited data to support either efficacy
+as a smoking cessation aid or safety
+of long-term use. Vaping is also
+associated with cardiovascular
+and respiratory disease.
+**_Class III, Level of Evidence: C_**
+**Topic 13: Principles of Shared**
+**Care After Heart Transplantation**
+The HT team should have periodic
+conference calls with the local
+centers to discuss the care of these
+patients, to enable ongoing
+discussions and review appropriate
+management of complications,
+should they arise. These might
+include medical complications, but
+also psychological, social, or health
+behavior problems.
+**_Class I, Level of Evidence: C_**||
 |**CANNABIS**|||||
-|**5.20**<br>Ein eventueller Cannabiskonsum<br>sollte bei<br>Transplantationspatient:innen<br>während des gesamten<br>Transplantationsprozesses erfasst<br>und dokumentiert werden. Über<br>transplantationsspezifische Risiken<br>des Cannabiskonsums sollte<br>aufgeklärt werden.<br>**_EK, starker Konsens_**<br>**5.21**<br>Bei fortgesetztem Cannabiskonsum<br>sollte den Patient:innen von einem<br>Mental Health Professional eine<br>spezifische therapeutische|**Empirical Evidence Supporting**<br>**the Inclusion of Each Domain of**<br>**the Psychosocial Evaluation**<br>**A. Risk factors for poor outcomes**<br>**after transplantation**<br>**2. Substance use history**<br>Heavy inhaled cannabis use in organ<br>transplant recipients has been linked<br>to increased post-transplant infection<br>risks in case Reports.<br>Inhaled/vaporized marijuana may be<br>the source of fungal lung infections.<br>Cannabis may alter the metabolism<br>of immune suppressive medications<br>but insufficient in vivo data exist to<br>confirm this effect. Cohort studies in<br>kidney recipients and liver recipients|**Absolute contraindications:**<br>16. Active substance use or<br>dependence including current<br>tobacco use,<br>vaping, marijuana smoking, or IV<br>drug use<br>**Risk factors:**<br>18. Edible marijuana use<br>**In text:**<br>_Patients should be assessed for_<br>_active substance use disorders and_<br>_where indicated engage in treatment_<br>_prior to lung transplantation. Based_<br>_on medical stability, this may_|**Task Force 1: Perioperative care**<br>**of the heart transplant recipient**<br>**Topic 1 Pretransplant**<br>**Optimization**<br>Long-term MCS should be<br>considered in patients: (a) When<br>ventricular function is unlikely to<br>recover soon or has been deemed<br>unrecoverable. (b) Who are inotrope<br>dependent and therefore at high risk<br>for death with ongoing medical<br>management. (c) Who are potential<br>HT candidates, with elevated<br>pulmonary vascular resistance that is<br>considered reversible with left<br>ventricular (LV) decompression, (d)<br>Who are potential HT candidates,<br>with contraindications requiring|**In text:**<br>_Whether candidates on medical_<br>_marijuana or those that obtain it_<br>_through other legal means should_<br>_receive organ transplantation is at_<br>_best an issue for which no clear_<br>_direction exists, just as access to_<br>_alcohol is legal, yet abuse renders a_<br>_potential candidate unsuitable for_<br>_transplantation. We similarly advise_<br>_caution for centers in listing_<br>_candidates unable to give up use of_<br>_cannabis or those with such heavy_<br>_use that cognitive ability is impaired,_<br>_which could lead to medication non-_<br>_adherence. At this time, each center_<br>_will need to develop its own specific_|
+|**5.20**
+Ein eventueller Cannabiskonsum
+sollte bei
+Transplantationspatient:innen
+während des gesamten
+Transplantationsprozesses erfasst
+und dokumentiert werden. Über
+transplantationsspezifische Risiken
+des Cannabiskonsums sollte
+aufgeklärt werden.
+**_EK, starker Konsens_**
+**5.21**
+Bei fortgesetztem Cannabiskonsum
+sollte den Patient:innen von einem
+Mental Health Professional eine
+spezifische therapeutische|**Empirical Evidence Supporting**
+**the Inclusion of Each Domain of**
+**the Psychosocial Evaluation**
+**A. Risk factors for poor outcomes**
+**after transplantation**
+**2. Substance use history**
+Heavy inhaled cannabis use in organ
+transplant recipients has been linked
+to increased post-transplant infection
+risks in case Reports.
+Inhaled/vaporized marijuana may be
+the source of fungal lung infections.
+Cannabis may alter the metabolism
+of immune suppressive medications
+but insufficient in vivo data exist to
+confirm this effect. Cohort studies in
+kidney recipients and liver recipients|**Absolute contraindications:**
+16. Active substance use or
+dependence including current
+tobacco use,
+vaping, marijuana smoking, or IV
+drug use
+**Risk factors:**
+18. Edible marijuana use
+**In text:**
+_Patients should be assessed for_
+_active substance use disorders and_
+_where indicated engage in treatment_
+_prior to lung transplantation. Based_
+_on medical stability, this may_|**Task Force 1: Perioperative care**
+**of the heart transplant recipient**
+**Topic 1 Pretransplant**
+**Optimization**
+Long-term MCS should be
+considered in patients: (a) When
+ventricular function is unlikely to
+recover soon or has been deemed
+unrecoverable. (b) Who are inotrope
+dependent and therefore at high risk
+for death with ongoing medical
+management. (c) Who are potential
+HT candidates, with elevated
+pulmonary vascular resistance that is
+considered reversible with left
+ventricular (LV) decompression, (d)
+Who are potential HT candidates,
+with contraindications requiring|**In text:**
+_Whether candidates on medical_
+_marijuana or those that obtain it_
+_through other legal means should_
+_receive organ transplantation is at_
+_best an issue for which no clear_
+_direction exists, just as access to_
+_alcohol is legal, yet abuse renders a_
+_potential candidate unsuitable for_
+_transplantation. We similarly advise_
+_caution for centers in listing_
+_candidates unable to give up use of_
+_cannabis or those with such heavy_
+_use that cognitive ability is impaired,_
+_which could lead to medication non-_
+_adherence. At this time, each center_
+_will need to develop its own specific_|
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
@@ -954,7 +2084,106 @@ Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosozi
 |**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|
 |---|---|---|---|---|
 |S3-Leitlinie DGPM1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
-|Behandlungsoption angeboten bzw.<br>vermittelt werden.<br>**_EK, starker Konsens_**<br>**5.28**<br>Bei Hinweisen auf Konsumrückfälle<br>sollte Patient:innen von einem MHP<br>eine spezifische therapeutische<br>Behandlungsoption angeboten bzw.<br>vermittelt werden.<br>**_EK, starker Konsens_**|have not demonstrated associations<br>between marijuana use pre- or post-<br>transplant and survival rates or (in<br>kidney recipients) indices of graft<br>function.<br>Alcohol abuse and drug abuse<br>increase the risks for post-<br>transplant/post-implantation<br>morbidities and mortality, including:<br>Drive-line infections and hospital<br>readmissions in MCS recipients;<br>Mortality in transplant and MCS<br>recipients.<br>Some studies did not find substance<br>use/ abuse to be associated with<br>clinical outcomes after<br>transplantation/ implantation. This<br>may reflect programs’ selection<br>criteria and requirements regarding<br>abstinence from use.<br>Abstinence affects risks: The shorter<br>the period of abstinence from<br>tobacco use before heart, lung or<br>other types of transplantation, the<br>higher the risk of relapse post-<br>transplant. While duration of<br>abstinence from alcohol/drug use<br>has received little empirical attention<br>in cardiothoracic transplantation or<br>MCS, it is a strong predictor of<br>relapse to use in other types of solid-<br>organ transplantation. Alcohol and<br>drug abuse run in families, and<br>increase the risk for relapse to<br>substance use in transplant<br>populations.<br>**In text:**<br>Active alcohol abuse and drug abuse<br>are contraindications to<br>cardiothoracic<br>Transplantation and MCS<br>implantation.|_constitute a provision of transplant_<br>_listing._<br>_At the time of evaluation and then_<br>_serially during the pre-transplant_<br>_period, blood and urine testing may_<br>_be used to verify abstinence from_<br>_substances._|substantial time to reverse, i.e.,<br>cancer, obesity, drug and/or alcohol<br>dependence. (e)<br>With a reversible cardiac disease<br>process that requires substantial<br>time for ventricular recovery. (f)<br>Who are ineligible for HT and where<br>long-term MCS is an option.<br>**_Class I, Level of Evidence C_**<br>**Topic 7: Substance use and abuse**<br>Patients screened as at-risk for<br>substance use should be tested for<br>evidence of illicit substances.<br>Positive testing for illicit substances<br>requires prompt referral to local<br>specialty services for treatment and<br>support.<br>**_Class I, Level of Evidence C_**<br>While cannabis or cannabinoids for<br>medicinal purposes are commercially<br>available in some areas, HT<br>recipients should be advised to avoid<br>these products, as recent findings<br>suggest potentially dangerous<br>interactions with immunosuppressive<br>medications. Cannabis dependence<br>is also associated with an elevated<br>risk for non-adherence or other<br>negative health behaviors, (e.g.,<br>alcohol use, medication taking), and<br>might also negatively affect long-<br>term graft function.<br>**_Class I, Level of Evidence C_**<br>**Topic 13: Principles of Shared**<br>**Care After Heart Transplantation**<br>The HT team should have periodic<br>conference calls with the local<br>centers to discuss the care of these<br>patients, to enable ongoing<br>discussions and review appropriate<br>management of complications,<br>should they arise. These might<br>include medical complications, but|_criteria for adjudicating candidacy for_<br>_marijuana users._|
+|Behandlungsoption angeboten bzw.
+vermittelt werden.
+**_EK, starker Konsens_**
+**5.28**
+Bei Hinweisen auf Konsumrückfälle
+sollte Patient:innen von einem MHP
+eine spezifische therapeutische
+Behandlungsoption angeboten bzw.
+vermittelt werden.
+**_EK, starker Konsens_**|have not demonstrated associations
+between marijuana use pre- or post-
+transplant and survival rates or (in
+kidney recipients) indices of graft
+function.
+Alcohol abuse and drug abuse
+increase the risks for post-
+transplant/post-implantation
+morbidities and mortality, including:
+Drive-line infections and hospital
+readmissions in MCS recipients;
+Mortality in transplant and MCS
+recipients.
+Some studies did not find substance
+use/ abuse to be associated with
+clinical outcomes after
+transplantation/ implantation. This
+may reflect programs’ selection
+criteria and requirements regarding
+abstinence from use.
+Abstinence affects risks: The shorter
+the period of abstinence from
+tobacco use before heart, lung or
+other types of transplantation, the
+higher the risk of relapse post-
+transplant. While duration of
+abstinence from alcohol/drug use
+has received little empirical attention
+in cardiothoracic transplantation or
+MCS, it is a strong predictor of
+relapse to use in other types of solid-
+organ transplantation. Alcohol and
+drug abuse run in families, and
+increase the risk for relapse to
+substance use in transplant
+populations.
+**In text:**
+Active alcohol abuse and drug abuse
+are contraindications to
+cardiothoracic
+Transplantation and MCS
+implantation.|_constitute a provision of transplant_
+_listing._
+_At the time of evaluation and then_
+_serially during the pre-transplant_
+_period, blood and urine testing may_
+_be used to verify abstinence from_
+_substances._|substantial time to reverse, i.e.,
+cancer, obesity, drug and/or alcohol
+dependence. (e)
+With a reversible cardiac disease
+process that requires substantial
+time for ventricular recovery. (f)
+Who are ineligible for HT and where
+long-term MCS is an option.
+**_Class I, Level of Evidence C_**
+**Topic 7: Substance use and abuse**
+Patients screened as at-risk for
+substance use should be tested for
+evidence of illicit substances.
+Positive testing for illicit substances
+requires prompt referral to local
+specialty services for treatment and
+support.
+**_Class I, Level of Evidence C_**
+While cannabis or cannabinoids for
+medicinal purposes are commercially
+available in some areas, HT
+recipients should be advised to avoid
+these products, as recent findings
+suggest potentially dangerous
+interactions with immunosuppressive
+medications. Cannabis dependence
+is also associated with an elevated
+risk for non-adherence or other
+negative health behaviors, (e.g.,
+alcohol use, medication taking), and
+might also negatively affect long-
+term graft function.
+**_Class I, Level of Evidence C_**
+**Topic 13: Principles of Shared**
+**Care After Heart Transplantation**
+The HT team should have periodic
+conference calls with the local
+centers to discuss the care of these
+patients, to enable ongoing
+discussions and review appropriate
+management of complications,
+should they arise. These might
+include medical complications, but|_criteria for adjudicating candidacy for_
+_marijuana users._|
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
@@ -963,11 +2192,75 @@ Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosozi
 |**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|
 |---|---|---|---|---|
 |S3-Leitlinie DGPM1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
-||ISHLT Guidelines and consensus<br>statements address some aspects of<br>marijuana use, which is now legal for<br>medical and/or recreational purposes<br>in some regions but remains<br>controversial for patient selection.<br>However, as for any substance,<br>abuse is a contraindication for<br>transplantation/implantation.<br>The psychosocial evaluation should<br>assess history of use of all<br>substances, current status, any<br>treatments received, periods of<br>abstinence, and insight and<br>willingness to receive treatment.||also psychological, social, or health<br>behavior problems.<br>**_Class I, Level of Evidence: C_**||
+||ISHLT Guidelines and consensus
+statements address some aspects of
+marijuana use, which is now legal for
+medical and/or recreational purposes
+in some regions but remains
+controversial for patient selection.
+However, as for any substance,
+abuse is a contraindication for
+transplantation/implantation.
+The psychosocial evaluation should
+assess history of use of all
+substances, current status, any
+treatments received, periods of
+abstinence, and insight and
+willingness to receive treatment.||also psychological, social, or health
+behavior problems.
+**_Class I, Level of Evidence: C_**||
 |**OPIATE**|||||
-|**5.22**<br>Opiatabhängige Patient:innen, die<br>sich in kontrollierter Substitutions-<br>behandlung befinden, sollten nicht<br>aufgrund der Substitution von einer<br>Evaluation für eine Transplantation<br>ausgeschlossen werden.<br>**_EK, starker Konsens_**<br>**5.23**<br>Die Transplantationsevaluation und<br>Wartelistenaufnahme sollte nicht von<br>einer Reduktion oder einem<br>Ausschleichen der<br>Substitutionsdosis abhängig sein.<br>**_EK, starker Konsens_**<br>**5.28**<br>Bei Hinweisen auf Konsumrückfälle<br>sollte Patient:innen von einem MHP<br>eine spezifische therapeutische<br>Behandlungsoption angeboten bzw.<br>vermittelt werden.<br>**_EK, starker Konsens_**|**In text:**<br>The psychosocial evaluation should<br>assess history of use of all<br>substances, current status, any<br>treatments received, periods of<br>abstinence, and insight and<br>willingness to receive treatment.|**In text:**<br>_Medication assisted treatment (e.g.,_<br>_buprenorphine, naltrexone,_<br>_methadone) for opioid use disorder_<br>_has not been studied in advanced_<br>_lung disease patients, and_<br>_consultation with a psychiatrist or_<br>_addictions specialist may be_<br>_indicated in such cases._|---|---|
+|**5.22**
+Opiatabhängige Patient:innen, die
+sich in kontrollierter Substitutions-
+behandlung befinden, sollten nicht
+aufgrund der Substitution von einer
+Evaluation für eine Transplantation
+ausgeschlossen werden.
+**_EK, starker Konsens_**
+**5.23**
+Die Transplantationsevaluation und
+Wartelistenaufnahme sollte nicht von
+einer Reduktion oder einem
+Ausschleichen der
+Substitutionsdosis abhängig sein.
+**_EK, starker Konsens_**
+**5.28**
+Bei Hinweisen auf Konsumrückfälle
+sollte Patient:innen von einem MHP
+eine spezifische therapeutische
+Behandlungsoption angeboten bzw.
+vermittelt werden.
+**_EK, starker Konsens_**|**In text:**
+The psychosocial evaluation should
+assess history of use of all
+substances, current status, any
+treatments received, periods of
+abstinence, and insight and
+willingness to receive treatment.|**In text:**
+_Medication assisted treatment (e.g.,_
+_buprenorphine, naltrexone,_
+_methadone) for opioid use disorder_
+_has not been studied in advanced_
+_lung disease patients, and_
+_consultation with a psychiatrist or_
+_addictions specialist may be_
+_indicated in such cases._|---|---|
 |**MEDIKAMENTENBEZOGENE STÖRUNGEN**|||||
-|**5.24**<br>Bei Transplantationspatient:innen mit<br>positiver Anamnese für<br>medikamentenbezogene Störungen|**Empirical Evidence Supporting**<br>**the Inclusion of Each Domain of**<br>**the Psychosocial Evaluation**|**In text:**<br>_Patients should be assessed for_<br>_active substance use disorders and_<br>_where indicated engage in treatment_|**Task Force 1: Perioperative care**<br>**of the heart transplant recipient**<br>**Topic 1 Pretransplant**<br>**Optimization**|**1.5.2. Substance abuse**<br>Patients who remain active<br>substance abusers (including|
+|**5.24**
+Bei Transplantationspatient:innen mit
+positiver Anamnese für
+medikamentenbezogene Störungen|**Empirical Evidence Supporting**
+**the Inclusion of Each Domain of**
+**the Psychosocial Evaluation**|**In text:**
+_Patients should be assessed for_
+_active substance use disorders and_
+_where indicated engage in treatment_|**Task Force 1: Perioperative care**
+**of the heart transplant recipient**
+**Topic 1 Pretransplant**
+**Optimization**|**1.5.2. Substance abuse**
+Patients who remain active
+substance abusers (including|
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
@@ -976,7 +2269,138 @@ Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosozi
 |**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|
 |---|---|---|---|---|
 |S3-Leitlinie DGPM1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
-|in der psychosozialen Evaluation soll<br>ein eventueller<br>Medikamentenkonsum (z.B.<br>Benzodiazepine und verwandte<br>Substanzen) während des gesamten<br>Transplantationsprozesses erfasst<br>und dokumentiert werden.<br>**_EK, starker Konsens_**<br>**5.25**<br>Bei Hinweisen auf eine<br>medikamentenbezogene Störung<br>soll Transplantationspatient:innen<br>eine leitliniengerechte Behandlung<br>angeboten werden.<br>**_EK, starker Konsens_**<br>**5.26**<br>Dauerhaft mit Opiaten therapierte<br>Patient:innen sollten aufgrund ihres<br>erhöhten Mortalitäts- und<br>Morbiditätsrisikos regelmäßig<br>hinsichtlich der Indikation zur<br>Opiattherapie re-evaluiert werden.<br>**_EK, starker Konsens_**<br>**5.28**<br>Bei Hinweisen auf Konsumrückfälle<br>sollte Patient:innen von einem MHP<br>eine spezifische therapeutische<br>Behandlungsoption angeboten bzw.<br>vermittelt werden.<br>**_EK, starker Konsens_**|**A. Risk factors for poor outcomes**<br>**after transplantation**<br>**2. Substance use history**<br>Tobacco use and alcohol/drug abuse<br>before cardiothoracic transplantation<br>or MCS implantation increases the<br>risk for use of these substances after<br>transplantation/implantation.<br>Alcohol abuse and drug abuse<br>increase the risks for post-<br>transplant/post-implantation<br>morbidities and mortality, including:<br>Drive-line infections and hospital<br>readmissions in MCS recipients<br>And mortality in transplant and MCS<br>recipients.<br>Some studies did not find substance<br>use/ abuse to be associated with<br>clinical outcomes after<br>transplantation/ implantation. This<br>may reflect programs’ selection<br>criteria and requirements regarding<br>abstinence from use.<br>Abstinence affects risks: The shorter<br>the period of abstinence from<br>tobacco use before heart, lung or<br>other types of transplantation, the<br>higher the risk of relapse post-<br>transplant. While duration of<br>abstinence from alcohol/drug use<br>has received little empirical attention<br>in cardiothoracic transplantation or<br>MCS, it is a strong predictor of<br>relapse to use in other types of solid-<br>organ transplantation. Alcohol and<br>drug abuse run in families, and<br>increase the risk for relapse to<br>substance use in transplant<br>populations.<br>**In text:**<br>Active alcohol abuse and drug abuse<br>are contraindications to|_prior to lung transplantation. Based_<br>_on medical stability, this may_<br>_constitute a provision of transplant_<br>_listing._<br>_At the time of evaluation and then_<br>_serially during the pre-transplant_<br>_period, blood and urine testing may_<br>_be used_<br>_to verify abstinence from_<br>_substances. […] The safety of pre-_<br>_lung transplant opioid use on_<br>_transplant outcomes has not been_<br>_widely studied. The risk and benefit_<br>_of opioids prescribed to lung_<br>_transplant candidates to palliate_<br>_symptoms of pain or dyspnea should_<br>_be considered on an individual basis._|Long-term MCS should be<br>considered in patients: (a) When<br>ventricular function is unlikely to<br>recover soon or has been deemed<br>unrecoverable. (b) Who are inotrope<br>dependent and therefore at high risk<br>for death with ongoing medical<br>management. (c) Who are potential<br>HT candidates, with elevated<br>pulmonary vascular resistance that is<br>considered reversible with left<br>ventricular (LV) decompression, (d)<br>Who are potential HT candidates,<br>with contraindications requiring<br>substantial time to reverse, i.e.,<br>cancer, obesity, drug and/or alcohol<br>dependence. (e)<br>With a reversible cardiac disease<br>process that requires substantial<br>time for ventricular recovery. (f)<br>Who are ineligible for HT and where<br>long-term MCS is an option.<br>**_Class I, Level of Evidence C_**<br>**Task Force 4: Long-term care**<br>**of heart transplant recipients:**<br>**Prevention and prophylaxis**<br>**Topic 7: Substance use and abuse**<br>All patients should be routinely<br>assessed and questioned regarding<br>substance use (opioids,<br>methamphetamine, and cocaine).<br>**_Class I, level of Evidence C_**<br>Patients screened as at-risk for<br>substance use should be tested for<br>evidence of illicit substances.<br>Positive testing for illicit substances<br>requires prompt referral to local<br>specialty services for treatment and<br>support.<br>**_Class I, Level of Evidence C_**<br>**Topic 13: Principles of Shared**<br>**Care After Heart Transplantation**<br>The HT team should have periodic<br>conference calls with the local|alcohol) should not receive heart<br>transplantation**_Class III, Level of_**<br>**_Evidence: C_**|
+|in der psychosozialen Evaluation soll
+ein eventueller
+Medikamentenkonsum (z.B.
+Benzodiazepine und verwandte
+Substanzen) während des gesamten
+Transplantationsprozesses erfasst
+und dokumentiert werden.
+**_EK, starker Konsens_**
+**5.25**
+Bei Hinweisen auf eine
+medikamentenbezogene Störung
+soll Transplantationspatient:innen
+eine leitliniengerechte Behandlung
+angeboten werden.
+**_EK, starker Konsens_**
+**5.26**
+Dauerhaft mit Opiaten therapierte
+Patient:innen sollten aufgrund ihres
+erhöhten Mortalitäts- und
+Morbiditätsrisikos regelmäßig
+hinsichtlich der Indikation zur
+Opiattherapie re-evaluiert werden.
+**_EK, starker Konsens_**
+**5.28**
+Bei Hinweisen auf Konsumrückfälle
+sollte Patient:innen von einem MHP
+eine spezifische therapeutische
+Behandlungsoption angeboten bzw.
+vermittelt werden.
+**_EK, starker Konsens_**|**A. Risk factors for poor outcomes**
+**after transplantation**
+**2. Substance use history**
+Tobacco use and alcohol/drug abuse
+before cardiothoracic transplantation
+or MCS implantation increases the
+risk for use of these substances after
+transplantation/implantation.
+Alcohol abuse and drug abuse
+increase the risks for post-
+transplant/post-implantation
+morbidities and mortality, including:
+Drive-line infections and hospital
+readmissions in MCS recipients
+And mortality in transplant and MCS
+recipients.
+Some studies did not find substance
+use/ abuse to be associated with
+clinical outcomes after
+transplantation/ implantation. This
+may reflect programs’ selection
+criteria and requirements regarding
+abstinence from use.
+Abstinence affects risks: The shorter
+the period of abstinence from
+tobacco use before heart, lung or
+other types of transplantation, the
+higher the risk of relapse post-
+transplant. While duration of
+abstinence from alcohol/drug use
+has received little empirical attention
+in cardiothoracic transplantation or
+MCS, it is a strong predictor of
+relapse to use in other types of solid-
+organ transplantation. Alcohol and
+drug abuse run in families, and
+increase the risk for relapse to
+substance use in transplant
+populations.
+**In text:**
+Active alcohol abuse and drug abuse
+are contraindications to|_prior to lung transplantation. Based_
+_on medical stability, this may_
+_constitute a provision of transplant_
+_listing._
+_At the time of evaluation and then_
+_serially during the pre-transplant_
+_period, blood and urine testing may_
+_be used_
+_to verify abstinence from_
+_substances. […] The safety of pre-_
+_lung transplant opioid use on_
+_transplant outcomes has not been_
+_widely studied. The risk and benefit_
+_of opioids prescribed to lung_
+_transplant candidates to palliate_
+_symptoms of pain or dyspnea should_
+_be considered on an individual basis._|Long-term MCS should be
+considered in patients: (a) When
+ventricular function is unlikely to
+recover soon or has been deemed
+unrecoverable. (b) Who are inotrope
+dependent and therefore at high risk
+for death with ongoing medical
+management. (c) Who are potential
+HT candidates, with elevated
+pulmonary vascular resistance that is
+considered reversible with left
+ventricular (LV) decompression, (d)
+Who are potential HT candidates,
+with contraindications requiring
+substantial time to reverse, i.e.,
+cancer, obesity, drug and/or alcohol
+dependence. (e)
+With a reversible cardiac disease
+process that requires substantial
+time for ventricular recovery. (f)
+Who are ineligible for HT and where
+long-term MCS is an option.
+**_Class I, Level of Evidence C_**
+**Task Force 4: Long-term care**
+**of heart transplant recipients:**
+**Prevention and prophylaxis**
+**Topic 7: Substance use and abuse**
+All patients should be routinely
+assessed and questioned regarding
+substance use (opioids,
+methamphetamine, and cocaine).
+**_Class I, level of Evidence C_**
+Patients screened as at-risk for
+substance use should be tested for
+evidence of illicit substances.
+Positive testing for illicit substances
+requires prompt referral to local
+specialty services for treatment and
+support.
+**_Class I, Level of Evidence C_**
+**Topic 13: Principles of Shared**
+**Care After Heart Transplantation**
+The HT team should have periodic
+conference calls with the local|alcohol) should not receive heart
+transplantation**_Class III, Level of_**
+**_Evidence: C_**|
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
@@ -985,9 +2409,137 @@ Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosozi
 |**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|
 |---|---|---|---|---|
 |S3-Leitlinie DGPM1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
-||cardiothoracic transplantation and<br>MCS implantation.<br>The psychosocial evaluation should<br>assess history of use of all<br>substances, current status, any<br>treatments received, periods of<br>abstinence, and insight and<br>willingness to receive treatment.||centers to discuss the care of these<br>patients, to enable ongoing<br>discussions and review appropriate<br>management of complications,<br>should they arise. These might<br>include medical complications, but<br>also psychological, social, or health<br>behavior problems.<br>**_Class I, Level of Evidence: C_**||
+||cardiothoracic transplantation and
+MCS implantation.
+The psychosocial evaluation should
+assess history of use of all
+substances, current status, any
+treatments received, periods of
+abstinence, and insight and
+willingness to receive treatment.||centers to discuss the care of these
+patients, to enable ongoing
+discussions and review appropriate
+management of complications,
+should they arise. These might
+include medical complications, but
+also psychological, social, or health
+behavior problems.
+**_Class I, Level of Evidence: C_**||
 |**SONSTIGE ILLEGALE SUBSTANZEN**|||||
-|**5.27**<br>Bei Transplantationspatient:innen mit<br>positiver Anamnese für sonstige<br>illegale Substanzen in der<br>psychosozialen Evaluation sollen<br>Konsumrückfälle von illegalen<br>Substanzen während des gesamten<br>Transplantationsprozesses erfasst<br>und dokumentiert werden.<br>**_EK, starker Konsens_**<br>**5.28**<br>Bei Hinweisen auf Konsumrückfälle<br>sollte Patient:innen von einem MHP<br>eine spezifische therapeutische<br>Behandlungsoption angeboten bzw.<br>vermittelt werden.<br>**_EK, starker Konsens_**|**Empirical Evidence Supporting**<br>**the Inclusion of Each Domain of**<br>**the Psychosocial Evaluation**<br>**A. Risk factors for poor outcomes**<br>**after transplantation**<br>**2. Substance use history**<br>Tobacco use and alcohol/drug abuse<br>before cardiothoracic transplantation<br>or MCS implantation increases the<br>risk for use of these substances after<br>transplantation/implantation.<br>Alcohol abuse and drug abuse<br>increase the risks for post-<br>transplant/post-implantation<br>morbidities and mortality, including:<br>Drive-line infections and hospital<br>readmissions in MCS recipients<br>And mortality in transplant and MCS<br>recipients.<br>Some studies did not find substance<br>use/ abuse to be associated with<br>clinical outcomes after<br>transplantation/ implantation. This<br>may reflect programs’ selection<br>criteria and requirements regarding<br>abstinence from use.<br>Abstinence affects risks: The shorter<br>the period of abstinence from<br>tobacco use before heart, lung or<br>other types of transplantation, the<br>higher the risk of relapse post-<br>transplant. While duration of<br>abstinence from alcohol/drug use|**Absolute contraindications:**<br>16. Active substance use or<br>dependence including current<br>tobacco use,<br>vaping, marijuana smoking, or IV<br>drug use<br>**In text:**<br>_Patients should be assessed for_<br>_active substance use disorders and_<br>_where indicated engage in treatment_<br>_prior to lung transplantation. Based_<br>_on medical stability, this may_<br>_constitute a provision of transplant_<br>_listing._<br>_At the time of evaluation and then_<br>_serially during the pre-transplant_<br>_period, blood and urine testing may_<br>_be used_<br>_to verify abstinence from_<br>_substances. […] The safety of pre-_<br>_lung transplant opioid use on_<br>_transplant outcomes has not been_<br>_widely studied. The risk and benefit_<br>_of opioids prescribed to lung_<br>_transplant candidates to palliate_<br>_symptoms of pain or dyspnea should_<br>_be considered on an individual basis._|**Task Force 1: Perioperative care**<br>**of the heart transplant recipient**<br>**Topic 1 Pretransplant**<br>**Optimization**<br>Long-term MCS should be<br>considered in patients: (a) When<br>ventricular function is unlikely to<br>recover soon or has been deemed<br>unrecoverable. (b) Who are inotrope<br>dependent and therefore at high risk<br>for death with ongoing medical<br>management. (c) Who are potential<br>HT candidates, with elevated<br>pulmonary vascular resistance that is<br>considered reversible with left<br>ventricular (LV) decompression, (d)<br>Who are potential HT candidates,<br>with contraindications requiring<br>substantial time to reverse, i.e.,<br>cancer, obesity, drug and/or alcohol<br>dependence. (e)<br>With a reversible cardiac disease<br>process that requires substantial<br>time for ventricular recovery. (f)<br>Who are ineligible for HT and where<br>long-term MCS is an option.<br>**_Class I, Level of Evidence C_**<br>**Task Force 4: Long-term care**<br>**of heart transplant recipients:**<br>**Prevention and prophylaxis**<br>**Topic 7: Substance use and abuse**<br>All patients should be routinely<br>assessed and questioned regarding<br>substance use (opioids,<br>methamphetamine, and cocaine).|**1.5.2. Substance abuse**<br>Patients who remain active<br>substance abusers (including<br>alcohol) should not receive heart<br>transplantation**_Class III, Level of_**<br>**_Evidence: C_**|
+|**5.27**
+Bei Transplantationspatient:innen mit
+positiver Anamnese für sonstige
+illegale Substanzen in der
+psychosozialen Evaluation sollen
+Konsumrückfälle von illegalen
+Substanzen während des gesamten
+Transplantationsprozesses erfasst
+und dokumentiert werden.
+**_EK, starker Konsens_**
+**5.28**
+Bei Hinweisen auf Konsumrückfälle
+sollte Patient:innen von einem MHP
+eine spezifische therapeutische
+Behandlungsoption angeboten bzw.
+vermittelt werden.
+**_EK, starker Konsens_**|**Empirical Evidence Supporting**
+**the Inclusion of Each Domain of**
+**the Psychosocial Evaluation**
+**A. Risk factors for poor outcomes**
+**after transplantation**
+**2. Substance use history**
+Tobacco use and alcohol/drug abuse
+before cardiothoracic transplantation
+or MCS implantation increases the
+risk for use of these substances after
+transplantation/implantation.
+Alcohol abuse and drug abuse
+increase the risks for post-
+transplant/post-implantation
+morbidities and mortality, including:
+Drive-line infections and hospital
+readmissions in MCS recipients
+And mortality in transplant and MCS
+recipients.
+Some studies did not find substance
+use/ abuse to be associated with
+clinical outcomes after
+transplantation/ implantation. This
+may reflect programs’ selection
+criteria and requirements regarding
+abstinence from use.
+Abstinence affects risks: The shorter
+the period of abstinence from
+tobacco use before heart, lung or
+other types of transplantation, the
+higher the risk of relapse post-
+transplant. While duration of
+abstinence from alcohol/drug use|**Absolute contraindications:**
+16. Active substance use or
+dependence including current
+tobacco use,
+vaping, marijuana smoking, or IV
+drug use
+**In text:**
+_Patients should be assessed for_
+_active substance use disorders and_
+_where indicated engage in treatment_
+_prior to lung transplantation. Based_
+_on medical stability, this may_
+_constitute a provision of transplant_
+_listing._
+_At the time of evaluation and then_
+_serially during the pre-transplant_
+_period, blood and urine testing may_
+_be used_
+_to verify abstinence from_
+_substances. […] The safety of pre-_
+_lung transplant opioid use on_
+_transplant outcomes has not been_
+_widely studied. The risk and benefit_
+_of opioids prescribed to lung_
+_transplant candidates to palliate_
+_symptoms of pain or dyspnea should_
+_be considered on an individual basis._|**Task Force 1: Perioperative care**
+**of the heart transplant recipient**
+**Topic 1 Pretransplant**
+**Optimization**
+Long-term MCS should be
+considered in patients: (a) When
+ventricular function is unlikely to
+recover soon or has been deemed
+unrecoverable. (b) Who are inotrope
+dependent and therefore at high risk
+for death with ongoing medical
+management. (c) Who are potential
+HT candidates, with elevated
+pulmonary vascular resistance that is
+considered reversible with left
+ventricular (LV) decompression, (d)
+Who are potential HT candidates,
+with contraindications requiring
+substantial time to reverse, i.e.,
+cancer, obesity, drug and/or alcohol
+dependence. (e)
+With a reversible cardiac disease
+process that requires substantial
+time for ventricular recovery. (f)
+Who are ineligible for HT and where
+long-term MCS is an option.
+**_Class I, Level of Evidence C_**
+**Task Force 4: Long-term care**
+**of heart transplant recipients:**
+**Prevention and prophylaxis**
+**Topic 7: Substance use and abuse**
+All patients should be routinely
+assessed and questioned regarding
+substance use (opioids,
+methamphetamine, and cocaine).|**1.5.2. Substance abuse**
+Patients who remain active
+substance abusers (including
+alcohol) should not receive heart
+transplantation**_Class III, Level of_**
+**_Evidence: C_**|
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
@@ -996,9 +2548,104 @@ Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosozi
 |**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|
 |---|---|---|---|---|
 |S3-Leitlinie DGPM1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
-||has received little empirical attention<br>in cardiothoracic transplantation or<br>MCS, it is a strong predictor of<br>relapse to use in other types of solid-<br>organ transplantation. Alcohol and<br>drug abuse run in families, and<br>increase the risk for relapse to<br>substance use in transplant<br>populations.<br>**In text:**<br>Active alcohol abuse<br>And drug abuse are<br>contraindications to cardiothoracic<br>Transplantation and MCS<br>implantation.<br>The psychosocial evaluation should<br>assess history of use of all<br>substances, current status, any<br>treatments received, periods of<br>abstinence, and insight and<br>willingness to receive treatment.||**_Class I, level of Evidence C_**<br>Patients screened as at-risk for<br>substance use should be tested for<br>evidence of illicit substances.<br>Positive testing for illicit substances<br>requires prompt referral to local<br>specialty services for treatment and<br>support.<br>**_Class I, Level of Evidence C_**<br>**Topic 13: Principles of Shared**<br>**Care After Heart Transplantation**<br>The HT team should have periodic<br>conference calls with the local<br>centers to discuss the care of these<br>patients, to enable ongoing<br>discussions and review appropriate<br>management of complications,<br>should they arise. These might<br>include medical complications, but<br>also psychological, social, or health<br>behavior problems.<br>**_Class I, Level of Evidence: C_**||
+||has received little empirical attention
+in cardiothoracic transplantation or
+MCS, it is a strong predictor of
+relapse to use in other types of solid-
+organ transplantation. Alcohol and
+drug abuse run in families, and
+increase the risk for relapse to
+substance use in transplant
+populations.
+**In text:**
+Active alcohol abuse
+And drug abuse are
+contraindications to cardiothoracic
+Transplantation and MCS
+implantation.
+The psychosocial evaluation should
+assess history of use of all
+substances, current status, any
+treatments received, periods of
+abstinence, and insight and
+willingness to receive treatment.||**_Class I, level of Evidence C_**
+Patients screened as at-risk for
+substance use should be tested for
+evidence of illicit substances.
+Positive testing for illicit substances
+requires prompt referral to local
+specialty services for treatment and
+support.
+**_Class I, Level of Evidence C_**
+**Topic 13: Principles of Shared**
+**Care After Heart Transplantation**
+The HT team should have periodic
+conference calls with the local
+centers to discuss the care of these
+patients, to enable ongoing
+discussions and review appropriate
+management of complications,
+should they arise. These might
+include medical complications, but
+also psychological, social, or health
+behavior problems.
+**_Class I, Level of Evidence: C_**||
 |**DELIR**|||||
-|**5.29**<br>Transplantationspatient:innen haben<br>ein erhöhtes oder hohes Delirrisiko.<br>**_Evidenzgrad 2-, starker Konsens_**<br>**5.30**<br>Transplantationspatient:innen sollen<br>während stationärer Behandlungen,<br>insbesondere im Rahmen der<br>Transplantation, regelmäßig und<br>gezielt auf delirante Symptome hin<br>untersucht werden.<br>**_EK, starker Konsens_**<br>**5.31**<br>Beim Auftreten eines Delirs sollen<br>Transplantationspatient:innen<br>gemäß existierender Leitlinien<br>behandelt werden.<br>**_EK, starker Konsens_**|**Empirical Evidence Supporting**<br>**the Inclusion of Each Domain of**<br>**the Psychosocial Evaluation**<br>**B. Factors related to patients’**<br>**knowledge, understanding, and**<br>**capacity to engage in decision-**<br>**making**<br>**4. Cognitive status and capacity to**<br>**give informed consent**<br>At least some cognitive impairment<br>is common in patients being<br>evaluated for cardio thoracic<br>transplant and/or MCS. However,<br>absent moderate or severe<br>dementia, other conditions including<br>milder cognitive impairment and<br>transient conditions (e.g., delirium/<br>encephalopathy) that resolve do not<br>necessarily preclude capacity to give<br>informed consent.|**---**|**Task Force 4: Long-term care**<br>**of heart transplant recipients:**<br>**Prevention and prophylaxis**<br>**Topic 6: Psychologic Issues**<br>**Particularly Related to Adherence**<br>**to Medical Therapy and**<br>**Management of Mood Disorders in**<br>**Heart Transplant**<br>**Recipients**<br>Patients at risk should be monitored<br>closely for presence of delirium<br>immediately post-transplant by<br>means of validated screening tools.<br>**Class I, Level of Evidence C**<br>Management for acute delirium<br>should include treatment with<br>antipsychotic medications, as per<br>program protocol.<br>Nonpharmaceutical interventions can|---|
+|**5.29**
+Transplantationspatient:innen haben
+ein erhöhtes oder hohes Delirrisiko.
+**_Evidenzgrad 2-, starker Konsens_**
+**5.30**
+Transplantationspatient:innen sollen
+während stationärer Behandlungen,
+insbesondere im Rahmen der
+Transplantation, regelmäßig und
+gezielt auf delirante Symptome hin
+untersucht werden.
+**_EK, starker Konsens_**
+**5.31**
+Beim Auftreten eines Delirs sollen
+Transplantationspatient:innen
+gemäß existierender Leitlinien
+behandelt werden.
+**_EK, starker Konsens_**|**Empirical Evidence Supporting**
+**the Inclusion of Each Domain of**
+**the Psychosocial Evaluation**
+**B. Factors related to patients’**
+**knowledge, understanding, and**
+**capacity to engage in decision-**
+**making**
+**4. Cognitive status and capacity to**
+**give informed consent**
+At least some cognitive impairment
+is common in patients being
+evaluated for cardio thoracic
+transplant and/or MCS. However,
+absent moderate or severe
+dementia, other conditions including
+milder cognitive impairment and
+transient conditions (e.g., delirium/
+encephalopathy) that resolve do not
+necessarily preclude capacity to give
+informed consent.|**---**|**Task Force 4: Long-term care**
+**of heart transplant recipients:**
+**Prevention and prophylaxis**
+**Topic 6: Psychologic Issues**
+**Particularly Related to Adherence**
+**to Medical Therapy and**
+**Management of Mood Disorders in**
+**Heart Transplant**
+**Recipients**
+Patients at risk should be monitored
+closely for presence of delirium
+immediately post-transplant by
+means of validated screening tools.
+**Class I, Level of Evidence C**
+Management for acute delirium
+should include treatment with
+antipsychotic medications, as per
+program protocol.
+Nonpharmaceutical interventions can|---|
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
@@ -1007,7 +2654,48 @@ Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosozi
 |**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|**Tabelle 1. RISIKOFAKTOREN FÜR MORTALITÄT UND MORBIDITÄT**|
 |---|---|---|---|---|
 |S3-Leitlinie DGPM1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
-||||include sleep protocols, mobilization,<br>and cognition stimulation.<br>**Class I, Level of Evidence C**<br>**In text:**<br>The spectrum of neurologic<br>complications occurring after<br>heart transplantation is broad,<br>including postoperative delirium,<br>stroke, drug side effects, central<br>nervous system<br>(CNS) infections, neuropathies,<br>seizures, neurodevelopmental<br>disabilities, encephalopathy, and<br>post transplantation<br>CNS lymphomas. […]<br>HT recipients universally share<br>multiple risk factors for ICU delirium.<br>This includes hemodynamic<br>instability,<br>preexisting stroke, use of<br>benzodiazepines, and administration<br>of CS and CNIs.483 Additional<br>research is needed to understand<br>how HT recipients are affected in the<br>longer term by ICU delirium. […]<br>Screening and management of<br>delirium and posttraumatic stress<br>disorder early post-transplant is<br>indicated.<br>**Topic 13: Principles of Shared**<br>**Care After Heart Transplantation**<br>The HT team should have periodic<br>conference calls with the local<br>centers to discuss the care of these<br>patients, to enable ongoing<br>discussions and review appropriate<br>management of complications,<br>should they arise. These might<br>include medical complications, but<br>also psychological, social, or health<br>behavior problems.<br>**_Class I, Level of Evidence: C_**||
+||||include sleep protocols, mobilization,
+and cognition stimulation.
+**Class I, Level of Evidence C**
+**In text:**
+The spectrum of neurologic
+complications occurring after
+heart transplantation is broad,
+including postoperative delirium,
+stroke, drug side effects, central
+nervous system
+(CNS) infections, neuropathies,
+seizures, neurodevelopmental
+disabilities, encephalopathy, and
+post transplantation
+CNS lymphomas. […]
+HT recipients universally share
+multiple risk factors for ICU delirium.
+This includes hemodynamic
+instability,
+preexisting stroke, use of
+benzodiazepines, and administration
+of CS and CNIs.483 Additional
+research is needed to understand
+how HT recipients are affected in the
+longer term by ICU delirium. […]
+Screening and management of
+delirium and posttraumatic stress
+disorder early post-transplant is
+indicated.
+**Topic 13: Principles of Shared**
+**Care After Heart Transplantation**
+The HT team should have periodic
+conference calls with the local
+centers to discuss the care of these
+patients, to enable ongoing
+discussions and review appropriate
+management of complications,
+should they arise. These might
+include medical complications, but
+also psychological, social, or health
+behavior problems.
+**_Class I, Level of Evidence: C_**||
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
@@ -1015,7 +2703,145 @@ Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosozi
 |---|---|---|---|---|
 |S3-Leitlinie1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
 |**BEHANDLUNGSADHÄRENZ**|||||
-|**7.1**<br>Die Non-Adhärenz bezüglich der<br>Einnahme von Immunsuppressiva ist<br>ein relevanter Aspekt in der<br>Behandlung organtransplantierter<br>Patient:innen.<br>**_Evidenzgrad 1, starker Konsens_**<br>**7.2**<br>Die Adhärenz mit Immunsuppressiva<br>bei Patient:innen nach<br>Organtransplantation soll in<br>regelmäßigen Abständen erfasst<br>werden.<br>**_EK, starker Konsens_**<br>**7.3**<br>Nicht-medikamentöse Adhärenz ist<br>definiert als die Umsetzung der mit<br>den Patient:innen vereinbarten<br>Gesundheitsempfehlungen (zum<br>Beispiel hinsichtlich Ernährung,<br>Sonnenschutzmaßnahmen,<br>körperliche Aktivität, Sexualität,<br>Hygiene, Infektionsprävention,<br>Substanzkonsum, Termineinhaltung,<br>Überwachen eigener Vitalfunktionen<br>und Durchführung diagnostischer<br>Tests).<br>**_EK, starker Konsens_**<br>**7.4**<br>Die nicht-medikamentöse Adhärenz<br>bei Patient:innen nach<br>Organtransplantation soll in<br>regelmäßigen Abständen erfasst<br>werden.<br>**_EK, starker Konsens_**<br>**7.5**<br>Non-Adhärenz mit<br>Immunsuppressiva ist mit einem<br>erhöhten Risiko von<br>Abstoßungsreaktionen und erhöhter<br>Mortalität verbunden.<br>**_Evidenzgrad 3, starker Konsens_**|**Empirical Evidence Supporting**<br>**the Inclusion of Each Domain of**<br>**the Psychosocial Evaluation**<br>**A. Risk factors for poor outcomes**<br>**after transplantation**<br>**1. Treatment adherence and**<br>**health behaviors**<br>Medication non-adherence before<br>cardiothoracic and other solid organ<br>transplantation increases risk for<br>post-transplant medication non-<br>adherence, which, in turn, increases<br>risks for acute and chronic graft<br>rejection, and mortality.<br>Non-adherence to other components<br>of the pre-or post-transplant regimen<br>affects health outcomes. Heart<br>candidates with a history of general<br>non-adherence to medical<br>management have poorer survival<br>post-transplant. Heart recipients less<br>adherent to clinical follow-up or to<br>the general medical regimen post-<br>transplant are at elevated risk for<br>graft rejection and mortality. Lung<br>recipients less adherent to home<br>spirometry requirements are at<br>higher risk for bronchiolitis obliterans<br>syndrome. MCS patients with a<br>history of non-adherence to medical<br>directives are at higher risk for<br>complications such as pump<br>thrombosis. Poorer adherence to<br>care requirements after MCS<br>implantation is associated with<br>poorer QOL.|**Absolute contraindications**:<br>15. Repeated episodes of non-<br>adherence without evidence of<br>improvement<br>**In text:**<br>_Repeated episodes of non-_<br>_adherence without evidence of_<br>_improvement are considered a_<br>_contraindication for adult patients._<br>_For pediatric and young adult_<br>_patients, ongoing assessment of_<br>_non-adherence should occur as they_<br>_progress through different_<br>_developmental stages._|**Topic 6: Recommendation for the**<br>**Management of Late Acute**<br>**Rejection**<br>Repeated education on the critical<br>importance of adherence to<br>treatment and early reporting of<br>symptoms contribute to the<br>prevention and early recognition of<br>late acute rejection.<br>**Class IIa, Level of Evidence: C**<br>Careful assessment of adherence to<br>medications, co-medications or<br>supplements interfering with IS and<br>triggering events (infections, GI<br>disorders) is recommended in any<br>case of late rejection in adult and<br>pediatric patients, but especially in<br>high-risk groups for non-adherence<br>such as adolescents, young adults,<br>and patients with a history of mental<br>illness or non-adherence.<br>**Class** **IIa, Level of Evidence: B**<br>**Task Force 4: Long-term care of**<br>**heart transplant recipients:**<br>**Prevention and prophylaxis**<br>**Topic 6: Psychologic Issues**<br>**Particularly Related to Adherence**<br>**to Medical Therapy and**<br>**Management of Mood Disorders in**<br>**Heart Transplant**<br>**Recipients**<br>Given its high prevalence and<br>negative impact on graft function and<br>survival both in pediatric and adult<br>heart transplantation, adherence with<br>the prescribed regimen should be<br>routinely assessed at every HT<br>outpatient clinic visit.<br>**_Class IIa, Level of evidence: B_**<br>Electronic monitoring may be<br>considered the gold standard for|**1.5 Tobacco use, substance abuse**<br>**and psychosocial evaluation in**<br>**candidate**<br>Any patient for whom social supports<br>are deemed insufficient to achieve<br>compliant care in the outpatient<br>setting may be regarded as having a<br>relative contraindication to<br>transplant. […]<br>**_Class IIa, Level of Evidence: C._**|
+|**7.1**
+Die Non-Adhärenz bezüglich der
+Einnahme von Immunsuppressiva ist
+ein relevanter Aspekt in der
+Behandlung organtransplantierter
+Patient:innen.
+**_Evidenzgrad 1, starker Konsens_**
+**7.2**
+Die Adhärenz mit Immunsuppressiva
+bei Patient:innen nach
+Organtransplantation soll in
+regelmäßigen Abständen erfasst
+werden.
+**_EK, starker Konsens_**
+**7.3**
+Nicht-medikamentöse Adhärenz ist
+definiert als die Umsetzung der mit
+den Patient:innen vereinbarten
+Gesundheitsempfehlungen (zum
+Beispiel hinsichtlich Ernährung,
+Sonnenschutzmaßnahmen,
+körperliche Aktivität, Sexualität,
+Hygiene, Infektionsprävention,
+Substanzkonsum, Termineinhaltung,
+Überwachen eigener Vitalfunktionen
+und Durchführung diagnostischer
+Tests).
+**_EK, starker Konsens_**
+**7.4**
+Die nicht-medikamentöse Adhärenz
+bei Patient:innen nach
+Organtransplantation soll in
+regelmäßigen Abständen erfasst
+werden.
+**_EK, starker Konsens_**
+**7.5**
+Non-Adhärenz mit
+Immunsuppressiva ist mit einem
+erhöhten Risiko von
+Abstoßungsreaktionen und erhöhter
+Mortalität verbunden.
+**_Evidenzgrad 3, starker Konsens_**|**Empirical Evidence Supporting**
+**the Inclusion of Each Domain of**
+**the Psychosocial Evaluation**
+**A. Risk factors for poor outcomes**
+**after transplantation**
+**1. Treatment adherence and**
+**health behaviors**
+Medication non-adherence before
+cardiothoracic and other solid organ
+transplantation increases risk for
+post-transplant medication non-
+adherence, which, in turn, increases
+risks for acute and chronic graft
+rejection, and mortality.
+Non-adherence to other components
+of the pre-or post-transplant regimen
+affects health outcomes. Heart
+candidates with a history of general
+non-adherence to medical
+management have poorer survival
+post-transplant. Heart recipients less
+adherent to clinical follow-up or to
+the general medical regimen post-
+transplant are at elevated risk for
+graft rejection and mortality. Lung
+recipients less adherent to home
+spirometry requirements are at
+higher risk for bronchiolitis obliterans
+syndrome. MCS patients with a
+history of non-adherence to medical
+directives are at higher risk for
+complications such as pump
+thrombosis. Poorer adherence to
+care requirements after MCS
+implantation is associated with
+poorer QOL.|**Absolute contraindications**:
+15. Repeated episodes of non-
+adherence without evidence of
+improvement
+**In text:**
+_Repeated episodes of non-_
+_adherence without evidence of_
+_improvement are considered a_
+_contraindication for adult patients._
+_For pediatric and young adult_
+_patients, ongoing assessment of_
+_non-adherence should occur as they_
+_progress through different_
+_developmental stages._|**Topic 6: Recommendation for the**
+**Management of Late Acute**
+**Rejection**
+Repeated education on the critical
+importance of adherence to
+treatment and early reporting of
+symptoms contribute to the
+prevention and early recognition of
+late acute rejection.
+**Class IIa, Level of Evidence: C**
+Careful assessment of adherence to
+medications, co-medications or
+supplements interfering with IS and
+triggering events (infections, GI
+disorders) is recommended in any
+case of late rejection in adult and
+pediatric patients, but especially in
+high-risk groups for non-adherence
+such as adolescents, young adults,
+and patients with a history of mental
+illness or non-adherence.
+**Class** **IIa, Level of Evidence: B**
+**Task Force 4: Long-term care of**
+**heart transplant recipients:**
+**Prevention and prophylaxis**
+**Topic 6: Psychologic Issues**
+**Particularly Related to Adherence**
+**to Medical Therapy and**
+**Management of Mood Disorders in**
+**Heart Transplant**
+**Recipients**
+Given its high prevalence and
+negative impact on graft function and
+survival both in pediatric and adult
+heart transplantation, adherence with
+the prescribed regimen should be
+routinely assessed at every HT
+outpatient clinic visit.
+**_Class IIa, Level of evidence: B_**
+Electronic monitoring may be
+considered the gold standard for|**1.5 Tobacco use, substance abuse**
+**and psychosocial evaluation in**
+**candidate**
+Any patient for whom social supports
+are deemed insufficient to achieve
+compliant care in the outpatient
+setting may be regarded as having a
+relative contraindication to
+transplant. […]
+**_Class IIa, Level of Evidence: C._**|
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
@@ -1024,23 +2850,241 @@ Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosozi
 |**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|
 |---|---|---|---|---|
 |S3-Leitlinie1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
-|**_7.6_**<br>Bei Non-Adhärenz soll den<br>Patient:innen eine Intervention<br>empfohlen werden. Multimodale<br>Interventionen sollen bevorzugt<br>eingesetzt werden.<br>**_Empfehlungsgrad A, Evidenzgrad_**<br>**_1, starker Konsens_**<br>**7.7**<br>Im klinischen Alltag sollten validierte<br>Selbstbeobachtungsinstrumente zur<br>Erfassung der Adhärenz verwendet<br>werden. Zur Erhöhung der<br>Zuverlässigkeit sollte eine<br>Kombination von verschiedenen<br>Messmethoden (s. Tabelle 14)<br>angewendet werden.<br>**_EK, starker Konsens_**|||adherence assessment, as it allows<br>capturing day-to-day variation in<br>medication intake habits. However,<br>electronic monitoring may not be<br>feasible for all patients. Assessment<br>methods should be combined to<br>increase accuracy of adherence<br>evaluation, e.g., by calculating the<br>variability in trough values over time<br>and using a validated self-report<br>instrument (e.g., BAASIS).<br>**_Class IIa, Level of Evidence C_**<br>Factors hindering adherence should<br>be discussed in an open,<br>nonthreatening way during visits with<br>HT recipients. Patient-related factors<br>most consistently associated with<br>medication non-adherence which<br>require ongoing assessment and<br>attention are knowledge and skill<br>levels, intention and/or motivation,<br>and potential barriers (defined as<br>personal or environmental constrains<br>preventing people from acting upon<br>their intentions).<br>**_Class IIa, Level of Evidence C_**<br>Interventions should be discussed in<br>close collaboration with the patient<br>and his or her family and be tailored<br>to the modifiable risk factors.<br>Strategies that seem most effective<br>include offering education and skills<br>training, reducing the complexity of<br>the medication regimen, providing<br>feedback on a patient’s behavior,<br>motivational interviewing, and<br>combining strategies aiming to<br>overcome barriers.<br>Investment in long-term interventions<br>is needed.<br>**_Class IIa, Level of Evidence: C_**<br>Because adherence to medical<br>recommendations is a complex<br>issue, health care teams would<br>benefitfromtrainingin measuring||
+|**_7.6_**
+Bei Non-Adhärenz soll den
+Patient:innen eine Intervention
+empfohlen werden. Multimodale
+Interventionen sollen bevorzugt
+eingesetzt werden.
+**_Empfehlungsgrad A, Evidenzgrad_**
+**_1, starker Konsens_**
+**7.7**
+Im klinischen Alltag sollten validierte
+Selbstbeobachtungsinstrumente zur
+Erfassung der Adhärenz verwendet
+werden. Zur Erhöhung der
+Zuverlässigkeit sollte eine
+Kombination von verschiedenen
+Messmethoden (s. Tabelle 14)
+angewendet werden.
+**_EK, starker Konsens_**|||adherence assessment, as it allows
+capturing day-to-day variation in
+medication intake habits. However,
+electronic monitoring may not be
+feasible for all patients. Assessment
+methods should be combined to
+increase accuracy of adherence
+evaluation, e.g., by calculating the
+variability in trough values over time
+and using a validated self-report
+instrument (e.g., BAASIS).
+**_Class IIa, Level of Evidence C_**
+Factors hindering adherence should
+be discussed in an open,
+nonthreatening way during visits with
+HT recipients. Patient-related factors
+most consistently associated with
+medication non-adherence which
+require ongoing assessment and
+attention are knowledge and skill
+levels, intention and/or motivation,
+and potential barriers (defined as
+personal or environmental constrains
+preventing people from acting upon
+their intentions).
+**_Class IIa, Level of Evidence C_**
+Interventions should be discussed in
+close collaboration with the patient
+and his or her family and be tailored
+to the modifiable risk factors.
+Strategies that seem most effective
+include offering education and skills
+training, reducing the complexity of
+the medication regimen, providing
+feedback on a patient’s behavior,
+motivational interviewing, and
+combining strategies aiming to
+overcome barriers.
+Investment in long-term interventions
+is needed.
+**_Class IIa, Level of Evidence: C_**
+Because adherence to medical
+recommendations is a complex
+issue, health care teams would
+benefitfromtrainingin measuring||
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
 |**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|||
 |---|---|---|---|---|
 |S3-Leitlinie1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
-||||adherence, discussing its barriers,<br>and implementing adherence-<br>enhancing interventions for HT<br>recipients.<br>**_Class IIa, Level of Evidence C._**<br>Attention should be given not only to<br>adherence to the<br>immunosuppressive<br>regimen but also to adherence to<br>other medications, as well as to all<br>other health recommendations<br>appropriate for HT recipients,<br>because problems are prevalent and<br>negatively impact post-transplant<br>outcome.<br>**_Class IIa, Level of Evidence B._**<br>Each HT center should closely<br>collaborate with a specialized nurse<br>or liaison psychiatry who can screen<br>and monitor all HT recipients at risk<br>for non-adherence. Investing in<br>specialized staff may result in better<br>transplant outcomes in the long-<br>term, although further studies testing<br>the efficacy of adherence-enhancing<br>interventions are warranted.<br>**_Class IIa, Level of Evidence C._**<br>**_In text:_**<br>_Because of its high prevalence and_<br>_negative impact on clinical_<br>_outcomes, non-adherence to all_<br>_medications (including, but not_<br>_limited to immunosuppressants) and_<br>_its influencing factors should be_<br>_routinely assessed in all adult and_<br>_pediatric patients at every outpatient_<br>_clinic visit. Interventions should be_<br>_tailored to individual risk-factors and_<br>_discussed openly with patients and_<br>_their caregivers. Strategies to_<br>_enhance maturity and independence_<br>_are important to optimize long-term_<br>_outcomes in the adolescent HT_<br>_recipients. Because of their high_<br>_prevalence and association with _||
+||||adherence, discussing its barriers,
+and implementing adherence-
+enhancing interventions for HT
+recipients.
+**_Class IIa, Level of Evidence C._**
+Attention should be given not only to
+adherence to the
+immunosuppressive
+regimen but also to adherence to
+other medications, as well as to all
+other health recommendations
+appropriate for HT recipients,
+because problems are prevalent and
+negatively impact post-transplant
+outcome.
+**_Class IIa, Level of Evidence B._**
+Each HT center should closely
+collaborate with a specialized nurse
+or liaison psychiatry who can screen
+and monitor all HT recipients at risk
+for non-adherence. Investing in
+specialized staff may result in better
+transplant outcomes in the long-
+term, although further studies testing
+the efficacy of adherence-enhancing
+interventions are warranted.
+**_Class IIa, Level of Evidence C._**
+**_In text:_**
+_Because of its high prevalence and_
+_negative impact on clinical_
+_outcomes, non-adherence to all_
+_medications (including, but not_
+_limited to immunosuppressants) and_
+_its influencing factors should be_
+_routinely assessed in all adult and_
+_pediatric patients at every outpatient_
+_clinic visit. Interventions should be_
+_tailored to individual risk-factors and_
+_discussed openly with patients and_
+_their caregivers. Strategies to_
+_enhance maturity and independence_
+_are important to optimize long-term_
+_outcomes in the adolescent HT_
+_recipients. Because of their high_
+_prevalence and association with _||
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
 |**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**||
 |---|---|---|---|---|
 |S3-Leitlinie1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
-||||_long-term outcomes, regular_<br>_screening of adherence to other_<br>_lifestyle recommendations is also_<br>_recommended. Because adherence_<br>_to medical recommendations is a_<br>_complex issue, health care teams_<br>_would benefit from training in_<br>_measuring adherence, discussing its_<br>_barriers, and implementing_<br>_adherence-enhancing interventions_<br>_for HT recipients._<br>**Topic 13: Principles of Shared**<br>**Care After Heart Transplantation**<br>The HT team should have periodic<br>conference calls with the local<br>centers to discuss the care of these<br>patients, to enable ongoing<br>discussions and review appropriate<br>management of complications,<br>should they arise. These might<br>include medical complications, but<br>also psychological, social, or health<br>behavior problems.<br>**_Class I, Level of Evidence: C_**||
+||||_long-term outcomes, regular_
+_screening of adherence to other_
+_lifestyle recommendations is also_
+_recommended. Because adherence_
+_to medical recommendations is a_
+_complex issue, health care teams_
+_would benefit from training in_
+_measuring adherence, discussing its_
+_barriers, and implementing_
+_adherence-enhancing interventions_
+_for HT recipients._
+**Topic 13: Principles of Shared**
+**Care After Heart Transplantation**
+The HT team should have periodic
+conference calls with the local
+centers to discuss the care of these
+patients, to enable ongoing
+discussions and review appropriate
+management of complications,
+should they arise. These might
+include medical complications, but
+also psychological, social, or health
+behavior problems.
+**_Class I, Level of Evidence: C_**||
 |**FAMILIENSTAND UND SOZIALE UNTERSTÜTZUNG (KEINE AUSREICHENDE EVIDENZ VORHANDEN)**|||||
-|**3.5**<br>Transplantationspatient:innen<br>wünschen sich psychosoziale<br>Unterstützung. Diese Wünsche<br>sollen in der Versorgung<br>berücksichtigt werden. Dazu sollte<br>die Unterstützung bzw. Versorgung<br>der Patient:innen durch<br>Psycholog:innen,<br>Psychotherapeut:innen, Ärzt:innen,<br>Pflegende, Sozialarbeiter:innen und<br>Seelsorger:innen sowie die<br>Unterstützung durch die Selbsthilfe<br>zählen.<br>**_EK, starker Konsens_**<br>**6.1**<br>Die psychosoziale Evaluation auf<br>Grundlage des bio-psycho-sozialen<br>Modells soll insbesondere Auskunft|**Empirical Evidence Supporting**<br>**the Inclusion of Each Domain of**<br>**the Psychosocial Evaluation**<br>**C. Factors specific to patients’**<br>**personal, social, and**<br>**environmental resources and**<br>**circumstances**<br>**8. Social support**<br>No matter whether social support is<br>defined in terms of social network<br>size and availability, or by quality of<br>practical and emotional support<br>provided, large literatures in<br>cardiothoracic and other solid-organ<br>transplant recipients show that<br>patients with poorer support are at<br>increased risk for post-transplant<br>medication non-adherence and<br>relapse to substance use.|**Risk factors with high or**<br>**substantially increased risk:**<br>11. Unreliable support system or<br>caregiving plan<br>**In text:**<br>_Adequate support and caregiving in_<br>_both the pre- and post-operative_<br>_period are critical for success with_<br>_lung transplant, and lack of support_<br>_may increase risk of non-adherence_<br>_and post-transplant mortality._<br>_Transplant centers are encouraged_<br>_to consider socioeconomic status_<br>_within the broader context of the_<br>_patient’s support system and_<br>_psychological resources in order to_<br>_identify patients requiring enhanced_<br>_surveillance and support. However,_|**In text:**<br>_Pre-transplant psychosocial factors,_<br>_including patients’ history of medical_<br>_adherence, mental health, substance_<br>_use, and social support, can predict_<br>_outcomes following heart_<br>_transplantation. Certain factors, such_<br>_as noncompliance to medical_<br>_regimen, smoking and alcohol_<br>_abuse, psychiatric conditions such_<br>_as depression, and minimal or no_<br>_social support, have been shown to_<br>_lead to behaviors of continued or_<br>_relapse of non-adherence to medical_<br>_regimen, relapse of substance use,_<br>_poor self-care, and poor coping._<br>_These behaviors lead to poor health-_<br>_related quality of life with increased_<br>_morbidity and mortality post-_<br>_transplant. To maximize outcomes,_|**1.5 Tobacco use, substance abuse**<br>**and psychosocial evaluation in**<br>**candidate**<br>1.5.3 Psychosocial Evaluation<br>Any patient for whom social supports<br>are deemed insufficient to achieve<br>compliant care in the outpatient<br>Setting may be regarded as having a<br>relative contraindication to<br>transplant. The benefit of heart<br>transplantation in patients with<br>severe cognitive-behavioral<br>disabilities or dementia (e.g., self-<br>injurious behavior, inability to ever<br>understand and cooperate with<br>medical care) has not been<br>established, has the potential for<br>harm, and therefore, heart<br>transplantation cannot be|
+|**3.5**
+Transplantationspatient:innen
+wünschen sich psychosoziale
+Unterstützung. Diese Wünsche
+sollen in der Versorgung
+berücksichtigt werden. Dazu sollte
+die Unterstützung bzw. Versorgung
+der Patient:innen durch
+Psycholog:innen,
+Psychotherapeut:innen, Ärzt:innen,
+Pflegende, Sozialarbeiter:innen und
+Seelsorger:innen sowie die
+Unterstützung durch die Selbsthilfe
+zählen.
+**_EK, starker Konsens_**
+**6.1**
+Die psychosoziale Evaluation auf
+Grundlage des bio-psycho-sozialen
+Modells soll insbesondere Auskunft|**Empirical Evidence Supporting**
+**the Inclusion of Each Domain of**
+**the Psychosocial Evaluation**
+**C. Factors specific to patients’**
+**personal, social, and**
+**environmental resources and**
+**circumstances**
+**8. Social support**
+No matter whether social support is
+defined in terms of social network
+size and availability, or by quality of
+practical and emotional support
+provided, large literatures in
+cardiothoracic and other solid-organ
+transplant recipients show that
+patients with poorer support are at
+increased risk for post-transplant
+medication non-adherence and
+relapse to substance use.|**Risk factors with high or**
+**substantially increased risk:**
+11. Unreliable support system or
+caregiving plan
+**In text:**
+_Adequate support and caregiving in_
+_both the pre- and post-operative_
+_period are critical for success with_
+_lung transplant, and lack of support_
+_may increase risk of non-adherence_
+_and post-transplant mortality._
+_Transplant centers are encouraged_
+_to consider socioeconomic status_
+_within the broader context of the_
+_patient’s support system and_
+_psychological resources in order to_
+_identify patients requiring enhanced_
+_surveillance and support. However,_|**In text:**
+_Pre-transplant psychosocial factors,_
+_including patients’ history of medical_
+_adherence, mental health, substance_
+_use, and social support, can predict_
+_outcomes following heart_
+_transplantation. Certain factors, such_
+_as noncompliance to medical_
+_regimen, smoking and alcohol_
+_abuse, psychiatric conditions such_
+_as depression, and minimal or no_
+_social support, have been shown to_
+_lead to behaviors of continued or_
+_relapse of non-adherence to medical_
+_regimen, relapse of substance use,_
+_poor self-care, and poor coping._
+_These behaviors lead to poor health-_
+_related quality of life with increased_
+_morbidity and mortality post-_
+_transplant. To maximize outcomes,_|**1.5 Tobacco use, substance abuse**
+**and psychosocial evaluation in**
+**candidate**
+1.5.3 Psychosocial Evaluation
+Any patient for whom social supports
+are deemed insufficient to achieve
+compliant care in the outpatient
+Setting may be regarded as having a
+relative contraindication to
+transplant. The benefit of heart
+transplantation in patients with
+severe cognitive-behavioral
+disabilities or dementia (e.g., self-
+injurious behavior, inability to ever
+understand and cooperate with
+medical care) has not been
+established, has the potential for
+harm, and therefore, heart
+transplantation cannot be|
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
@@ -1049,7 +3093,156 @@ Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosozi
 |**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|
 |---|---|---|---|---|
 |S3-Leitlinie1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
-|geben über frühere und aktuelle<br>psychische Störungen und<br>psychosoziale Belastungen, Konsum<br>psychoaktiver Substanzen, sowie die<br>individuellen und sozialen<br>Ressourcen des Patienten, vor allem<br>die soziale Unterstützung,<br>Bewältigungskompetenzen und<br>Adhärenz.<br>**_EK, starker Konsens_**<br>**_In text:_**<br>_[…] Die Studienlage zum_<br>_Zusammenhang von sozialer_<br>_Unterstützung und Non-Adhärenz_<br>_erweist sich bislang noch als_<br>_heterogen, was jedoch durch die_<br>_unterschiedliche Operationalisierung_<br>_von sozialer Unterstützung bedingt_<br>_sein könnte. Sowohl die Art der_<br>_sozialen Unterstützung (emotional,_<br>_informativ, praktisch) als auch die_<br>_Qualität der sozialen Beziehung_<br>_könnten unterschiedliche_<br>_Auswirkungen auf das_<br>_Adhärenzverhalten nach sich ziehen._<br>_Zudem könnte auch der Unterschied_<br>_zwischen wahrgenommener und_<br>_tatsächlicher sozialer Unterstützung_<br>_einen relevanten Aspekt in Bezug_<br>_auf Non-Adhärenz darstellen,_<br>_welcher weiterer Forschung bedarf._<br>_Insgesamt kann bei aktuellem_<br>_Forschungsstand keine eindeutige_<br>_Aussage getroffen werden._|Organ recipients themselves<br>describe social support to be critical<br>for their adherence and well-being.<br>In cardio thoracic transplantation:<br>Stronger support is associated with<br>better outcomes during the waiting<br>period before heart transplantation,<br>including longer survival time, lower<br>likelihood of requiring MCS, and<br>greater likelihood of stable or<br>improving clinical status. Stronger<br>social support before or shortly after<br>heart or lung transplantation—<br>particularly from the primary family<br>support person—is associated with<br>better adherence to and perceived<br>ability to manage the medical<br>regimen; lower risk of substance use<br>relapse; lower risk of graft failure;<br>longer survival time , lower risk of<br>mental health problems47, and<br>increased satisfaction and QOL.<br>Mortality risk after MCS implantation<br>is lower among patients with<br>stronger social support before MCS.<br>MCS recipients whose primary family<br>support person exited the caregiver<br>role have a higher 30-day hospital<br>readmission rate.<br>Social support can mitigate the<br>impact of other risk factors for poor<br>outcomes, including cognitive<br>impairments and intellectual<br>disability, and mental health<br>problems. For example, depression<br>symptoms have been found to<br>increase both mortality risk on the<br>waitlist and delisting due to clinical<br>deterioration in heart transplant<br>candidates with low social support.<br>In contrast, depressive symptoms<br>did not affect these risks in patients<br>with higher support.|_socioeconomic factors should not_<br>_warrant exclusion from candidacy._<br>_[…] Early referral may allow time for_<br>_candidates to address modifiable_<br>_barriers to transplant, such as_<br>_obesity, malnutrition, medical_<br>_comorbidities, or inadequate social_<br>_support._<br>_[…] Adequate support and_<br>_caregiving in both the pre- and post-_<br>_operative period are critical for_<br>_success with lung transplant, and_<br>_lack of support may increase risk of_<br>_non-adherence and post-transplant_<br>_mortality. Transplant centers are_<br>_encouraged to consider_<br>_socioeconomic status within the_<br>_broader context of the patient’s_<br>_support system and psychological_<br>_resources in order to identify patients_<br>_requiring enhanced surveillance and_<br>_support. However,_ _socioeconomic_<br>_factors should not warrant exclusion_<br>_from candidacy._|_efforts should be made, before_<br>_transplant, to optimize factors that_<br>_are modifiable, based on_<br>_pretransplant psychosocial_<br>_evaluation. Interventions may include_<br>_support groups for substance use,_<br>_ongoing counseling or therapy,_<br>_optimization of medical therapy for_<br>_psychiatric illnesses, and utilization_<br>_of community resources._<br>**Topic 13: Principles of Shared**<br>**Care After Heart Transplantation**<br>The HT team should have periodic<br>conference calls with the local<br>centers to discuss the care of these<br>patients, to enable ongoing<br>discussions and review appropriate<br>management of complications,<br>should they arise. These might<br>include medical complications, but<br>also psychological, social, or health<br>behavior problems.<br>**_Class I, Level of Evidence: C_**|recommended for this sub-group of<br>patients.<br>**_Class IIa, Level of Evidence: C_**<br>**_In text:_**<br>_The suggested revision places_<br>_importance on being able to achieve_<br>_adequate compliance and adherence_<br>_with the comprehensive plan for_<br>_medical management after trans-_<br>_plantation rather than a focus on_<br>_purely the intellectual status. It has_<br>_been argued that patients with_<br>_intellectual disability who have_<br>_adequate social support may be_<br>_deemed reasonable transplant_<br>_candidates provided there are not_<br>_any other contraindications after the_<br>_full candidate evaluation._<br>**1.5.3. Psychosocial evaluation**<br>**1.5.3. Psychosocial evaluation**<br>Psychosocial assessment should be<br>performed before listing for<br>transplantation. Evaluation should<br>include an assessment of<br>the patient’s ability to give informed<br>consent and comply with instruction,<br>including drug therapy, as well as<br>assessment of the support systems<br>in place at home or in the community<br>**_Class I, Level of Evidence: C_**|
+|geben über frühere und aktuelle
+psychische Störungen und
+psychosoziale Belastungen, Konsum
+psychoaktiver Substanzen, sowie die
+individuellen und sozialen
+Ressourcen des Patienten, vor allem
+die soziale Unterstützung,
+Bewältigungskompetenzen und
+Adhärenz.
+**_EK, starker Konsens_**
+**_In text:_**
+_[…] Die Studienlage zum_
+_Zusammenhang von sozialer_
+_Unterstützung und Non-Adhärenz_
+_erweist sich bislang noch als_
+_heterogen, was jedoch durch die_
+_unterschiedliche Operationalisierung_
+_von sozialer Unterstützung bedingt_
+_sein könnte. Sowohl die Art der_
+_sozialen Unterstützung (emotional,_
+_informativ, praktisch) als auch die_
+_Qualität der sozialen Beziehung_
+_könnten unterschiedliche_
+_Auswirkungen auf das_
+_Adhärenzverhalten nach sich ziehen._
+_Zudem könnte auch der Unterschied_
+_zwischen wahrgenommener und_
+_tatsächlicher sozialer Unterstützung_
+_einen relevanten Aspekt in Bezug_
+_auf Non-Adhärenz darstellen,_
+_welcher weiterer Forschung bedarf._
+_Insgesamt kann bei aktuellem_
+_Forschungsstand keine eindeutige_
+_Aussage getroffen werden._|Organ recipients themselves
+describe social support to be critical
+for their adherence and well-being.
+In cardio thoracic transplantation:
+Stronger support is associated with
+better outcomes during the waiting
+period before heart transplantation,
+including longer survival time, lower
+likelihood of requiring MCS, and
+greater likelihood of stable or
+improving clinical status. Stronger
+social support before or shortly after
+heart or lung transplantation—
+particularly from the primary family
+support person—is associated with
+better adherence to and perceived
+ability to manage the medical
+regimen; lower risk of substance use
+relapse; lower risk of graft failure;
+longer survival time , lower risk of
+mental health problems47, and
+increased satisfaction and QOL.
+Mortality risk after MCS implantation
+is lower among patients with
+stronger social support before MCS.
+MCS recipients whose primary family
+support person exited the caregiver
+role have a higher 30-day hospital
+readmission rate.
+Social support can mitigate the
+impact of other risk factors for poor
+outcomes, including cognitive
+impairments and intellectual
+disability, and mental health
+problems. For example, depression
+symptoms have been found to
+increase both mortality risk on the
+waitlist and delisting due to clinical
+deterioration in heart transplant
+candidates with low social support.
+In contrast, depressive symptoms
+did not affect these risks in patients
+with higher support.|_socioeconomic factors should not_
+_warrant exclusion from candidacy._
+_[…] Early referral may allow time for_
+_candidates to address modifiable_
+_barriers to transplant, such as_
+_obesity, malnutrition, medical_
+_comorbidities, or inadequate social_
+_support._
+_[…] Adequate support and_
+_caregiving in both the pre- and post-_
+_operative period are critical for_
+_success with lung transplant, and_
+_lack of support may increase risk of_
+_non-adherence and post-transplant_
+_mortality. Transplant centers are_
+_encouraged to consider_
+_socioeconomic status within the_
+_broader context of the patient’s_
+_support system and psychological_
+_resources in order to identify patients_
+_requiring enhanced surveillance and_
+_support. However,_ _socioeconomic_
+_factors should not warrant exclusion_
+_from candidacy._|_efforts should be made, before_
+_transplant, to optimize factors that_
+_are modifiable, based on_
+_pretransplant psychosocial_
+_evaluation. Interventions may include_
+_support groups for substance use,_
+_ongoing counseling or therapy,_
+_optimization of medical therapy for_
+_psychiatric illnesses, and utilization_
+_of community resources._
+**Topic 13: Principles of Shared**
+**Care After Heart Transplantation**
+The HT team should have periodic
+conference calls with the local
+centers to discuss the care of these
+patients, to enable ongoing
+discussions and review appropriate
+management of complications,
+should they arise. These might
+include medical complications, but
+also psychological, social, or health
+behavior problems.
+**_Class I, Level of Evidence: C_**|recommended for this sub-group of
+patients.
+**_Class IIa, Level of Evidence: C_**
+**_In text:_**
+_The suggested revision places_
+_importance on being able to achieve_
+_adequate compliance and adherence_
+_with the comprehensive plan for_
+_medical management after trans-_
+_plantation rather than a focus on_
+_purely the intellectual status. It has_
+_been argued that patients with_
+_intellectual disability who have_
+_adequate social support may be_
+_deemed reasonable transplant_
+_candidates provided there are not_
+_any other contraindications after the_
+_full candidate evaluation._
+**1.5.3. Psychosocial evaluation**
+**1.5.3. Psychosocial evaluation**
+Psychosocial assessment should be
+performed before listing for
+transplantation. Evaluation should
+include an assessment of
+the patient’s ability to give informed
+consent and comply with instruction,
+including drug therapy, as well as
+assessment of the support systems
+in place at home or in the community
+**_Class I, Level of Evidence: C_**|
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
@@ -1057,39 +3250,385 @@ Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosozi
 |---|---|---|---|---|
 |S3-Leitlinie1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
 |**SOZIO-ÖKONOMISCHE ASPEKTE (EINSCHLIESSLICH BILDUNGSSTAND, KEINE AUSREICHENDE EVIDENZ VORHANDEN) **|||||
-|**_In text:_**<br>_Insgesamt zeigt sich somit ein sehr_<br>_heterogenes Bild zum_<br>_Zusammenhang von Bildung und_<br>_Non-Adhärenz und folglich eine noch_<br>_nicht hinreichende Evidenz für eine_<br>_eindeutige Empfehlung. Jedoch_<br>_muss zwischen Studien_<br>_unterschieden werden die den reinen_<br>_Bildungsgrad einbeziehen und_<br>_Studien die sich auf die jeweilige_<br>_Alphabetisierung der Patient:innen_<br>_stützen, wodurch es zu_<br>_unterschiedlichen Ergebnissen_<br>_kommen kann. Zudem kann der_<br>_Bildungsgrad auf unterschiedliche_<br>_Weise definiert und erhoben worden_<br>_sein wodurch ebenfalls Differenzen_<br>_resultieren könnten._<br>_Insgesamt zeigt sich also ein_<br>_durchaus heterogenes Bild in Bezug_<br>_auf den Zusammenhang von_<br>_sozioökonomischen Status und Non-_<br>_Adhärenz, wobei der Großteil der_<br>_Studien sowohl bei_<br>_Nierentransplantierten, also auch bei_<br>_anderen Organen, keine oder sehr_<br>_geringe Zusammenhänge_<br>_bekundeten._|**Empirical Evidence Supporting**<br>**the Inclusion of Each Domain of**<br>**the Psychosocial Evaluation**<br>**C. Factors specific to patients’**<br>**personal, social, and**<br>**environmental resources and**<br>**circumstances**<br>**9. Social history**<br>Lower educational attainment, and<br>poor literacy and health literacy (i.e.,<br>the capacity obtain, process, and<br>understand health information):<br>Affect patients’ degree of<br>understanding of their current illness<br>and treatment options; May, but do<br>not always, predict poorer outcomes<br>after cardiothoracic and other types<br>of organ transplantation, as well as<br>MCS implantation. Such outcomes<br>include reduced QOL, general health<br>behaviors and medical adherence,<br>and increased morbidity and<br>mortality risks; May show variable<br>impact on outcomes due to<br>differences between programs in the<br>nature and degree of education and<br>other care services provided to<br>patients. Lower SES and reliance on<br>public (rather than private) health<br>insurance: Predict poorer outcomes<br>after cardiothoracic transplantation in<br>the United States, including medical<br>non-adherence, hospital<br>readmissions, morbidity, and<br>mortality. Show inconsistent effects<br>on outcomes during MCS; After<br>transplantation, the impact of SES,<br>particularly insurance status on<br>outcomes has been attributed in part<br>to limitations in the organization and<br>financing of health-care services in<br>the United States, where health-care<br>costs may not be reimbursed to<br>patients and may be beyond their<br>means. However, even under the<br>universal health care coverage in|**In text:**<br>_Therefore, measuring an individual’s_<br>_“value” in society has no place in_<br>_evaluation of transplant candidacy_<br>_and this includes their contribution to_<br>_society, social rank, or occupation._<br>_Similarly, group characteristics such_<br>_as race, gender, or socioeconomic_<br>_position should not be used to_<br>_disadvantage access to transplant_<br>_even if these subgroups are shown_<br>_to have inferior transplant outcomes._<br>_Transplant centers are encouraged_<br>_to consider socioeconomic status_<br>_within the broader context of the_<br>_patient’s support system and_<br>_psychological resources in order to_<br>_identify patients requiring enhanced_<br>_surveillance and support. However,_<br>_socioeconomic factors should not_<br>_warrant exclusion from candidacy._|**Topic 13: Principles of Shared**<br>**Care After Heart Transplantation**<br>The HT team should have periodic<br>conference calls with the local<br>centers to discuss the care of these<br>patients, to enable ongoing<br>discussions and review appropriate<br>management of complications,<br>should they arise. These might<br>include medical complications, but<br>also psychological, social, or health<br>behavior problems.<br>**_Class I, Level of Evidence: C_**|---|
+|**_In text:_**
+_Insgesamt zeigt sich somit ein sehr_
+_heterogenes Bild zum_
+_Zusammenhang von Bildung und_
+_Non-Adhärenz und folglich eine noch_
+_nicht hinreichende Evidenz für eine_
+_eindeutige Empfehlung. Jedoch_
+_muss zwischen Studien_
+_unterschieden werden die den reinen_
+_Bildungsgrad einbeziehen und_
+_Studien die sich auf die jeweilige_
+_Alphabetisierung der Patient:innen_
+_stützen, wodurch es zu_
+_unterschiedlichen Ergebnissen_
+_kommen kann. Zudem kann der_
+_Bildungsgrad auf unterschiedliche_
+_Weise definiert und erhoben worden_
+_sein wodurch ebenfalls Differenzen_
+_resultieren könnten._
+_Insgesamt zeigt sich also ein_
+_durchaus heterogenes Bild in Bezug_
+_auf den Zusammenhang von_
+_sozioökonomischen Status und Non-_
+_Adhärenz, wobei der Großteil der_
+_Studien sowohl bei_
+_Nierentransplantierten, also auch bei_
+_anderen Organen, keine oder sehr_
+_geringe Zusammenhänge_
+_bekundeten._|**Empirical Evidence Supporting**
+**the Inclusion of Each Domain of**
+**the Psychosocial Evaluation**
+**C. Factors specific to patients’**
+**personal, social, and**
+**environmental resources and**
+**circumstances**
+**9. Social history**
+Lower educational attainment, and
+poor literacy and health literacy (i.e.,
+the capacity obtain, process, and
+understand health information):
+Affect patients’ degree of
+understanding of their current illness
+and treatment options; May, but do
+not always, predict poorer outcomes
+after cardiothoracic and other types
+of organ transplantation, as well as
+MCS implantation. Such outcomes
+include reduced QOL, general health
+behaviors and medical adherence,
+and increased morbidity and
+mortality risks; May show variable
+impact on outcomes due to
+differences between programs in the
+nature and degree of education and
+other care services provided to
+patients. Lower SES and reliance on
+public (rather than private) health
+insurance: Predict poorer outcomes
+after cardiothoracic transplantation in
+the United States, including medical
+non-adherence, hospital
+readmissions, morbidity, and
+mortality. Show inconsistent effects
+on outcomes during MCS; After
+transplantation, the impact of SES,
+particularly insurance status on
+outcomes has been attributed in part
+to limitations in the organization and
+financing of health-care services in
+the United States, where health-care
+costs may not be reimbursed to
+patients and may be beyond their
+means. However, even under the
+universal health care coverage in|**In text:**
+_Therefore, measuring an individual’s_
+_“value” in society has no place in_
+_evaluation of transplant candidacy_
+_and this includes their contribution to_
+_society, social rank, or occupation._
+_Similarly, group characteristics such_
+_as race, gender, or socioeconomic_
+_position should not be used to_
+_disadvantage access to transplant_
+_even if these subgroups are shown_
+_to have inferior transplant outcomes._
+_Transplant centers are encouraged_
+_to consider socioeconomic status_
+_within the broader context of the_
+_patient’s support system and_
+_psychological resources in order to_
+_identify patients requiring enhanced_
+_surveillance and support. However,_
+_socioeconomic factors should not_
+_warrant exclusion from candidacy._|**Topic 13: Principles of Shared**
+**Care After Heart Transplantation**
+The HT team should have periodic
+conference calls with the local
+centers to discuss the care of these
+patients, to enable ongoing
+discussions and review appropriate
+management of complications,
+should they arise. These might
+include medical complications, but
+also psychological, social, or health
+behavior problems.
+**_Class I, Level of Evidence: C_**|---|
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
 |**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|||
 |---|---|---|---|---|
 |S3-Leitlinie1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
-||many other countries, patients with<br>lower SES and fewer financial<br>resources may be at risk for poorer<br>outcomes. Lifetime exposure to<br>traumatic events, including adverse<br>childhood experiences: Is a known<br>risk factor in the general population<br>for physical morbidity and mortality,<br>due in part to impact on risk for<br>mental and substance use disorders;<br>Increases mortality risk in lung<br>recipients.||||
+||many other countries, patients with
+lower SES and fewer financial
+resources may be at risk for poorer
+outcomes. Lifetime exposure to
+traumatic events, including adverse
+childhood experiences: Is a known
+risk factor in the general population
+for physical morbidity and mortality,
+due in part to impact on risk for
+mental and substance use disorders;
+Increases mortality risk in lung
+recipients.||||
 |**EINSTELLUNGEN, ERWARTUNGEN, WAHRNEHMUNG**|||||
-|**In text:**<br>_Es zeigt sich ein relativ klares Bild_<br>_bezüglich des Zusammenhangs von_<br>_Einstellungen bzw. Wahrnehmungen_<br>_und non-adhärentem Verhalten,_<br>_wobei negative Einstellungen sowie_<br>_negativ konnotierte Wahrnehmung_<br>_der eigenen Gesundheit mit_<br>_geringerer Adhärenz assoziiert zu_<br>_sein scheinen. Obwohl es sich in_<br>_diesen zuvor genannten Studien um_<br>_unterschiedlich definierte Konstrukte_<br>_handelt und es weiterer Forschung_<br>_bedarf, deutet die bislang_<br>_vorhandene Evidenz bereits in eine_<br>_deutliche Richtung._|**C. Factors specific to patients’**<br>**personal, social, and**<br>**environmental resources and**<br>**circumstances**<br>**5. Knowledge and understanding**<br>**of current illness**<br>Level of knowledge in patients with<br>advanced heart or lung disease<br>(some of whom are considering<br>transplantation) has frequently been<br>found to be deficient. Patients often<br>report uncertainty about disease<br>course and prognosis. Inadequate<br>knowledge and understanding is<br>associated with poorer self-care and<br>medical adherence. Higher levels of<br>knowledge in advanced heart or lung<br>disease patients, including MCS<br>candidates, can lead to improved<br>self-care and thereby to fewer<br>hospital readmissions, reduced<br>mortality, and better psycho social<br>and QOL outcomes.<br>**6. Knowledge and understanding**<br>**of current treatment options**<br>Patients report gaps in<br>understanding the range of treatment<br>options and associated risks and<br>benefits, as well as required self-<br>care responsibilities after<br>cardiothoracic transplantation/MCS<br>implantation. Understanding and<br>decision-making about<br>transplantation and/or MCS|**Absolute contraindications:**<br>1. Lack of patient willingness or<br>acceptance of transplant|**_---_**||
+|**In text:**
+_Es zeigt sich ein relativ klares Bild_
+_bezüglich des Zusammenhangs von_
+_Einstellungen bzw. Wahrnehmungen_
+_und non-adhärentem Verhalten,_
+_wobei negative Einstellungen sowie_
+_negativ konnotierte Wahrnehmung_
+_der eigenen Gesundheit mit_
+_geringerer Adhärenz assoziiert zu_
+_sein scheinen. Obwohl es sich in_
+_diesen zuvor genannten Studien um_
+_unterschiedlich definierte Konstrukte_
+_handelt und es weiterer Forschung_
+_bedarf, deutet die bislang_
+_vorhandene Evidenz bereits in eine_
+_deutliche Richtung._|**C. Factors specific to patients’**
+**personal, social, and**
+**environmental resources and**
+**circumstances**
+**5. Knowledge and understanding**
+**of current illness**
+Level of knowledge in patients with
+advanced heart or lung disease
+(some of whom are considering
+transplantation) has frequently been
+found to be deficient. Patients often
+report uncertainty about disease
+course and prognosis. Inadequate
+knowledge and understanding is
+associated with poorer self-care and
+medical adherence. Higher levels of
+knowledge in advanced heart or lung
+disease patients, including MCS
+candidates, can lead to improved
+self-care and thereby to fewer
+hospital readmissions, reduced
+mortality, and better psycho social
+and QOL outcomes.
+**6. Knowledge and understanding**
+**of current treatment options**
+Patients report gaps in
+understanding the range of treatment
+options and associated risks and
+benefits, as well as required self-
+care responsibilities after
+cardiothoracic transplantation/MCS
+implantation. Understanding and
+decision-making about
+transplantation and/or MCS|**Absolute contraindications:**
+1. Lack of patient willingness or
+acceptance of transplant|**_---_**||
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
 |**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|||
 |---|---|---|---|---|
 |S3-Leitlinie1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
-||implantation can be driven more by<br>attitudes and emotional factors<br>(fears, expectations, and hopes)<br>than by a systematic weighing of<br>risks and benefits. Patients may feel<br>substantial decisional conflict (i.e.,<br>uncertainty about how to choose or<br>what choice to make) when faced<br>with transplantation, MCS, or other<br>medical options. Similar to other<br>patient populations choosing among<br>treatment options, when patients<br>considering cardiothoracic<br>transplantation and/ or MCS<br>understand their treatment options<br>and have their decisional conflict<br>reduced (e.g., through use of<br>decision aids), they feel more<br>prepared to make treatment choices,<br>and more involved and satisfied with<br>the decision- making process.<br>Although not examined in<br>cardiothoracic transplant or MCS<br>patients, studies in heart and lung<br>disease populations show that<br>greater understanding and lower<br>decisional conflict can lead to<br>improved medication adherence and<br>health outcomes.<br>**7. Coping with illness**<br>Patients’ coping strategies are<br>associated with outcomes before<br>and after cardiothoracic<br>transplantation: Positive<br>expectations, an optimistic outlook<br>before transplant, feelings of self-<br>efficacy, and a sense of control<br>predict better subsequent mood,<br>medical adherence, health status,<br>and QOL in transplant recipients;<br>Use of passive or avoidant coping<br>strategies to manage health<br>problems, having a low sense of<br>mastery or personal control, and<br>focusing on and expressing negative<br>emotions are associated with<br>increasedrisk for mental health||||
+||implantation can be driven more by
+attitudes and emotional factors
+(fears, expectations, and hopes)
+than by a systematic weighing of
+risks and benefits. Patients may feel
+substantial decisional conflict (i.e.,
+uncertainty about how to choose or
+what choice to make) when faced
+with transplantation, MCS, or other
+medical options. Similar to other
+patient populations choosing among
+treatment options, when patients
+considering cardiothoracic
+transplantation and/ or MCS
+understand their treatment options
+and have their decisional conflict
+reduced (e.g., through use of
+decision aids), they feel more
+prepared to make treatment choices,
+and more involved and satisfied with
+the decision- making process.
+Although not examined in
+cardiothoracic transplant or MCS
+patients, studies in heart and lung
+disease populations show that
+greater understanding and lower
+decisional conflict can lead to
+improved medication adherence and
+health outcomes.
+**7. Coping with illness**
+Patients’ coping strategies are
+associated with outcomes before
+and after cardiothoracic
+transplantation: Positive
+expectations, an optimistic outlook
+before transplant, feelings of self-
+efficacy, and a sense of control
+predict better subsequent mood,
+medical adherence, health status,
+and QOL in transplant recipients;
+Use of passive or avoidant coping
+strategies to manage health
+problems, having a low sense of
+mastery or personal control, and
+focusing on and expressing negative
+emotions are associated with
+increasedrisk for mental health||||
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
 |**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|||
 |---|---|---|---|---|
 |S3-Leitlinie1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
-||problems and impaired QOL after<br>transplantation. Denial, avoidant<br>coping, and emotion-venting<br>strategies are linked to higher<br>fatigue, pain, anxiety, depression,<br>difficulties in daily activities, and<br>impaired QOL during the wait for<br>transplant; Engaging in denial, failure<br>to use available resources (medical,<br>financial, family supports) to manage<br>one’s illness before transplantation,<br>and feelings of little personal control<br>over one’s health increase post-<br>transplant mortality risks; Patients<br>themselves describe optimism as an<br>important resource for coping and<br>recovery.||||
+||problems and impaired QOL after
+transplantation. Denial, avoidant
+coping, and emotion-venting
+strategies are linked to higher
+fatigue, pain, anxiety, depression,
+difficulties in daily activities, and
+impaired QOL during the wait for
+transplant; Engaging in denial, failure
+to use available resources (medical,
+financial, family supports) to manage
+one’s illness before transplantation,
+and feelings of little personal control
+over one’s health increase post-
+transplant mortality risks; Patients
+themselves describe optimism as an
+important resource for coping and
+recovery.||||
 |**KOGNITIVE EINSCHRÄNKUNGEN**|||||
-||**Empirical Evidence Supporting**<br>**the Inclusion of Each Domain of**<br>**the Psychosocial Evaluation**<br>**B. Factors related to patients’**<br>**knowledge, understanding, and**<br>**capacity to engage in decision-**<br>**making**<br>**4. Cognitive status and capacity to**<br>**give informed consent**<br>At least some cognitive impairment<br>is common in patients being<br>evaluated for cardio thoracic<br>transplant and/or MCS. However,<br>absent moderate or severe<br>dementia, other conditions including<br>milder cognitive impairment and<br>transient conditions (e.g., delirium/<br>encephalopathy) that resolve do not<br>necessarily preclude capacity to give<br>informed consent.<br>A small literature suggests that<br>patients with intellectual disabilities<br>can achieve medical outcomes after<br>solid-organ transplantation similar to<br>other patients, provided they have<br>the social support necessary for<br>medical adherence. Aside from its<br>role in capacity to give consent,|**Absolute contraindications**:<br>14. Progressive cognitive impairment<br>**Risk factors with high or**<br>**substantially increased risk:**<br>10. Psychiatric, psychological or<br>cognitive conditions with potential to<br>interfere with medical adherence<br>without sufficient support systems<br>12. Lack of understanding of disease<br>and/or transplant despite<br>teaching<br>**In text:**<br>_Pre-transplant cognitive impairment_<br>_may impact medical decision-_<br>_making, consent, and self-_<br>_management capabilities. Dementia,_<br>_which has become more common as_<br>_candidate age has increased, is_<br>_considered a contraindication,_<br>_particularly progressive forms._<br>_Dementia has been associated with_<br>_adverse post-operative outcomes._<br>_Other forms of cognitive dysfunction_<br>_among individuals with advanced_<br>_pulmonary disease may be amplified_|**_---_**|**1.5 Tobacco use, substance abuse**<br>**and psychosocial evaluation in**<br>**candidate**<br>1.5.3 Psychosocial Evaluation<br>Any patient for whom social supports<br>are deemed insufficient to achieve<br>compliant care in the outpatient<br>Setting may be regarded as having a<br>relative contraindication to<br>transplant. The benefit of heart<br>transplantation in patients with<br>severe cognitive-behavioral<br>disabilities or dementia (e.g., self-<br>injurious behavior, inability to ever<br>understand and cooperate with<br>medical care) has not been<br>established, has the potential for<br>harm, and therefore, heart<br>transplantation cannot be<br>recommended for this sub-group of<br>patients.<br>**_Class IIa, Level of Evidence:C_**<br>**_In text:_**<br>_The suggested revision places_<br>_importance on being able to achieve_<br>_adequate compliance and adherence_<br>_with the comprehensive plan for_<br>_medical management after trans-_|
+||**Empirical Evidence Supporting**
+**the Inclusion of Each Domain of**
+**the Psychosocial Evaluation**
+**B. Factors related to patients’**
+**knowledge, understanding, and**
+**capacity to engage in decision-**
+**making**
+**4. Cognitive status and capacity to**
+**give informed consent**
+At least some cognitive impairment
+is common in patients being
+evaluated for cardio thoracic
+transplant and/or MCS. However,
+absent moderate or severe
+dementia, other conditions including
+milder cognitive impairment and
+transient conditions (e.g., delirium/
+encephalopathy) that resolve do not
+necessarily preclude capacity to give
+informed consent.
+A small literature suggests that
+patients with intellectual disabilities
+can achieve medical outcomes after
+solid-organ transplantation similar to
+other patients, provided they have
+the social support necessary for
+medical adherence. Aside from its
+role in capacity to give consent,|**Absolute contraindications**:
+14. Progressive cognitive impairment
+**Risk factors with high or**
+**substantially increased risk:**
+10. Psychiatric, psychological or
+cognitive conditions with potential to
+interfere with medical adherence
+without sufficient support systems
+12. Lack of understanding of disease
+and/or transplant despite
+teaching
+**In text:**
+_Pre-transplant cognitive impairment_
+_may impact medical decision-_
+_making, consent, and self-_
+_management capabilities. Dementia,_
+_which has become more common as_
+_candidate age has increased, is_
+_considered a contraindication,_
+_particularly progressive forms._
+_Dementia has been associated with_
+_adverse post-operative outcomes._
+_Other forms of cognitive dysfunction_
+_among individuals with advanced_
+_pulmonary disease may be amplified_|**_---_**|**1.5 Tobacco use, substance abuse**
+**and psychosocial evaluation in**
+**candidate**
+1.5.3 Psychosocial Evaluation
+Any patient for whom social supports
+are deemed insufficient to achieve
+compliant care in the outpatient
+Setting may be regarded as having a
+relative contraindication to
+transplant. The benefit of heart
+transplantation in patients with
+severe cognitive-behavioral
+disabilities or dementia (e.g., self-
+injurious behavior, inability to ever
+understand and cooperate with
+medical care) has not been
+established, has the potential for
+harm, and therefore, heart
+transplantation cannot be
+recommended for this sub-group of
+patients.
+**_Class IIa, Level of Evidence:C_**
+**_In text:_**
+_The suggested revision places_
+_importance on being able to achieve_
+_adequate compliance and adherence_
+_with the comprehensive plan for_
+_medical management after trans-_|
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
 |**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|**Tabelle 2. NON-ADHÄRENZ UND RISIKOFAKTOREN FÜR NON-ADHÄRENZ**|||
 |---|---|---|---|---|
 |S3-Leitlinie1|Dew et al. 20182|Leard et al. 20213|Velleca et al. 20234|Mehra et al. 20165|
-||cognitive status can affect<br>cardiothoracic transplant and MCS<br>patient outcomes. Cognitive<br>functioning can improve with<br>transplantation/implantation and<br>show continued gains over time.<br>However, some impairments may<br>remain and/or worsen in the long<br>term. Greater cognitive impairment<br>increases mortality risk both before<br>and after cardiothoracic<br>transplantation. Cognitive<br>impairment increases risk for<br>medication non-adherence in<br>community samples; and in patients<br>undergoing evaluation for<br>cardiothoracic transplantation, it is<br>associated with impairments in<br>activities of daily living, including<br>medication management and<br>treatment regimen adherence. In<br>MCS patients, poorer cognitive<br>function has been associated with<br>reduced confidence in ability to<br>manage the regimen and poorer<br>QOL, but not with poorer medical<br>adherence. The latter result may<br>have been due to related findings<br>that more cognitively impaired<br>patients relied more heavily on<br>others for their care.|_by hypoxemia or polypharmacy, and_<br>_may improve post-transplant in some_<br>_cases._||_plantation rather than a focus on_<br>_purely the intellectual status. It has_<br>_been argued that patients with_<br>_intellectual disability who have_<br>_adequate social support may be_<br>_deemed reasonable transplant_<br>_candidates provided there are not_<br>_any other contraindications after the_<br>_full candidate evaluation._|
+||cognitive status can affect
+cardiothoracic transplant and MCS
+patient outcomes. Cognitive
+functioning can improve with
+transplantation/implantation and
+show continued gains over time.
+However, some impairments may
+remain and/or worsen in the long
+term. Greater cognitive impairment
+increases mortality risk both before
+and after cardiothoracic
+transplantation. Cognitive
+impairment increases risk for
+medication non-adherence in
+community samples; and in patients
+undergoing evaluation for
+cardiothoracic transplantation, it is
+associated with impairments in
+activities of daily living, including
+medication management and
+treatment regimen adherence. In
+MCS patients, poorer cognitive
+function has been associated with
+reduced confidence in ability to
+manage the regimen and poorer
+QOL, but not with poorer medical
+adherence. The latter result may
+have been due to related findings
+that more cognitively impaired
+patients relied more heavily on
+others for their care.|_by hypoxemia or polypharmacy, and_
+_may improve post-transplant in some_
+_cases._||_plantation rather than a focus on_
+_purely the intellectual status. It has_
+_been argued that patients with_
+_intellectual disability who have_
+_adequate social support may be_
+_deemed reasonable transplant_
+_candidates provided there are not_
+_any other contraindications after the_
+_full candidate evaluation._|
 
 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche 
 
@@ -1126,7 +3665,8 @@ Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosozi
 |**Gesundheits-**||(absolute KI)|Unfähigkeit gezeigt haben,||||der Adhärenz (einschließlich multimodaler|
 |**verhalten**|||sich an die medikamentöse||||Interventionen):|
 |||Wiederholte Episoden|Therapie zu halten**_Klasse_**||||vorrübergehende Kontraindikation, Re-|
-|||<br>von non-Adhärenz ohne|**_III, Level: C_**||||Evaluation je nach medizinischer Dringlichkeit,|
+|||
+von non-Adhärenz ohne|**_III, Level: C_**||||Evaluation je nach medizinischer Dringlichkeit,|
 |||Hinweise auf|||||spätestens jedoch nach 6 Monaten|
 |||Verbesserung (absolute||||||
 |||KI)||||||
@@ -1147,21 +3687,45 @@ Anhang 6. Kontraindikationen nach Richtlinien, Leitlinien und Empfehlungen: Vorg
 ||abgemildert werden (soziale|ausreichende|schlechtes Ergebnis nach|Regel vorübergehender||therapierte|jedoch nach 6 Monaten|
 ||Unterstützung)|Unterstützungssysteme|HTX|Natur. Sollte ein||psychotische Störung|Nicht ausreichend therapierte psychotische|
 |||(relative KI)|**_Klasse IIa, Level: C_**|anamnestisch||Alkoholabhängigkeit|Störung:|
-||Aktiver Alkohol, Drogen- und|||festgestellter||<br>und sonstige|vorrübergehende Kontraindikation, Re-|
-||Nikotinmissbrauch|Aktiver|Patienten, die weiterhin|schädlicher<br>||<br>Substanzabhängigkeiten|Evaluation je nach medizinischer Dringlichkeit,|
-|||Substanzgebrauch oder<br>|aktiv eine Substanz<br>|Substanzgebrauch bzw.<br>ein|||bzw. nach Symptomstabilisierung, spätestens<br>|
-|||–Abhängigkeit inklusive<br>aktueller|missbrauchen (inclusive<br>Alkohol) sollten keine HTX|<br>Abhängigkeitssyndrom|||jedoch nach 6 Monaten|
-|||Tabakgebrauch, Vaping,|<br>erhalten|(z. B. Rauchen, Alkohol,|||Schädlicher Gebrauch von Alkohol bzw.|
-|||das Rauchen von|**_Klasse III, Level: C_**|andere schädliche<br>|||<br>Alkoholabhängigkeitssyndrom:|
-|||Marihuana, oder<br>||Substanzen) vorliegen,<br>erfolgt die Aufnahme in|||vorrübergehende Kontraindikation, Re-<br>|
-|||intravenöser<br>Drogengebrauch||<br>die Warteliste erst<br>|||Evaluation je nach medizinischer Dringlichkeit,<br>bzw. nach erfolgreicher, leitliniengerechter|
-|||(absolute KI)||dann, wenn der Patient<br>|||<br>Behandlung, spätestens jedoch nach 6|
-|||||für mindestens 6|||<br>Monaten.|
+||Aktiver Alkohol, Drogen- und|||festgestellter||
+und sonstige|vorrübergehende Kontraindikation, Re-|
+||Nikotinmissbrauch|Aktiver|Patienten, die weiterhin|schädlicher
+||
+Substanzabhängigkeiten|Evaluation je nach medizinischer Dringlichkeit,|
+|||Substanzgebrauch oder
+|aktiv eine Substanz
+|Substanzgebrauch bzw.
+ein|||bzw. nach Symptomstabilisierung, spätestens
+|
+|||–Abhängigkeit inklusive
+aktueller|missbrauchen (inclusive
+Alkohol) sollten keine HTX|
+Abhängigkeitssyndrom|||jedoch nach 6 Monaten|
+|||Tabakgebrauch, Vaping,|
+erhalten|(z. B. Rauchen, Alkohol,|||Schädlicher Gebrauch von Alkohol bzw.|
+|||das Rauchen von|**_Klasse III, Level: C_**|andere schädliche
+|||
+Alkoholabhängigkeitssyndrom:|
+|||Marihuana, oder
+||Substanzen) vorliegen,
+erfolgt die Aufnahme in|||vorrübergehende Kontraindikation, Re-
+|
+|||intravenöser
+Drogengebrauch||
+die Warteliste erst
+|||Evaluation je nach medizinischer Dringlichkeit,
+bzw. nach erfolgreicher, leitliniengerechter|
+|||(absolute KI)||dann, wenn der Patient
+|||
+Behandlung, spätestens jedoch nach 6|
+|||||für mindestens 6|||
+Monaten.|
 |||||Monate Abstinenz||||
 ||||||||Schädlicher Gebrauch von Tabak, bzw.|
 |||||eingehalten hat.||||
 ||||||||Abhängigkeitssyndrom:vorrübergehende|
-||||||||<br>Kontraindikation, Re-Evaluation je nach|
+||||||||
+Kontraindikation, Re-Evaluation je nach|
 ||||||||medizinischer Dringlichkeit, bzw. nach|
 ||||||||erfolgreicher, leitliniengerechter Behandlung,|
 ||||||||spätestens jedoch nach 6 Monaten|
@@ -1209,10 +3773,13 @@ Anhang 6. Kontraindikationen nach Richtlinien, Leitlinien und Empfehlungen: Vorg
 |||(relative KI);|oder zu kooperieren)|||||
 ||||konnte bisher nicht etabliert|||||
 |||Mangelndes|werden, hat das Potential,|||||
-|||<br>Verständnis für die|Schaden mit sich zu ziehen|||||
+|||
+Verständnis für die|Schaden mit sich zu ziehen|||||
 |||Erkrankung und/oder|und eine HTX kann daher|||||
-|||<br>Transplantation trotz|nicht für diese Subgruppe|||||
-|||<br>Edukation (relative KI).|von Patienten empfohlen|||||
+|||
+Transplantation trotz|nicht für diese Subgruppe|||||
+|||
+Edukation (relative KI).|von Patienten empfohlen|||||
 ||||werden.|||||
 ||||**_Klasse IIa, Level: C_**|||||
 |**Soziale**|Fehlen von sozialer|Unzuverlässiges|Alle Patienten, für die die|---|---|---|---|

@@ -9,7 +9,11 @@ Verpflegungskatalog und Diätkatalog
 
 Arztdienst und Pflegedienst, Diätassistenz 
 
-Änderungshistorie<br>Version  Freigabe am<br>1.1  04.06.2025  Aktualisierung S. 51  01.03.2027<br>**----- End of picture text -----**<br>
+Änderungshistorie
+Version  Freigabe am
+1.1  04.06.2025  Aktualisierung S. 51  01.03.2027
+**----- End of picture text -----**
+
 
 ## **Inhaltsverzeichnis** 
 
@@ -110,28 +114,75 @@ Im Deutschen Herzzentrum Berlin gibt es die Möglichkeit, eine Bioelektrische Im
 ||**Übergewicht**|**Diabetes**|**Dyslipo-**|**Hyperurikämie**|**Herz-**|**Arterielle**|
 ||**und**|**mellitus**|**proteinämien**|**und Gicht**|**Kreislauf-**|**Hypertonie**|
 ||**Adipositas**||||**Krankheiten**||
-|**Kostform**|VK|VK|VK|VK, bes. ovo-<br>lacto-vegetarisch|VK, bes.<br>mediterrane<br>Kost|VK|
+|**Kostform**|VK|VK|VK|VK, bes. ovo-
+lacto-vegetarisch|VK, bes.
+mediterrane
+Kost|VK|
 ||||||||
-|**Energiezufuhr**|Defizit von<br>500–600<br>kcal/Tag<br>↓ Lebensmittel<br>mit hoher<br>Energiedichte||||||
+|**Energiezufuhr**|Defizit von
+500–600
+kcal/Tag
+↓ Lebensmittel
+mit hoher
+Energiedichte||||||
 ||||||||
-|**Proteinzufuhr**|wie VK oder↑|wie VK<br>oder↑|wie VK|wie VK|wie VK|wie VK|
+|**Proteinzufuhr**|wie VK oder↑|wie VK
+oder↑|wie VK|wie VK|wie VK|wie VK|
 ||||||||
-|**Fettzufuhr**|↓, Fettsäure-<br>muster<br>beachten|wie VK|wie VK ,<br>Fettsäuremuster<br>beachten|wie VK|wie VK,<br>Fettsäure-<br>muster<br>beachten|wie VK|
+|**Fettzufuhr**|↓, Fettsäure-
+muster
+beachten|wie VK|wie VK ,
+Fettsäuremuster
+beachten|wie VK|wie VK,
+Fettsäure-
+muster
+beachten|wie VK|
 ||||||||
 |**Gesättigte**|wie VK|wie VK|↓ < 7 En%|wie VK|< 10 En%|wie VK|
-|<br>**Fettsäuren**|||||||
+|
+**Fettsäuren**|||||||
 |**Mehrfach**|wie VK|wie VK|↑10 En%|wie VK|↑|wie VK|
 |**ungesättigte**|||||||
-|<br>**Fettsäuren**|||||||
-|**Kohlenhydrat-**|40–55 En%|40–55<br>En% mit<br>niedrigem<br>GI|< 50 En% bei<br>endogener<br>Hypertriglyceridämie<br>(v. a. Mono- und<br>Disaccharide)|<br>wie VK|wie VK|wie VK|
+|
+**Fettsäuren**|||||||
+|**Kohlenhydrat-**|40–55 En%|40–55
+En% mit
+niedrigem
+GI|< 50 En% bei
+endogener
+Hypertriglyceridämie
+(v. a. Mono- und
+Disaccharide)|
+wie VK|wie VK|wie VK|
 |**zufuhr**|||||||
 ||||||||
-|**Flüssigkeit-**|2 l/Tag:<br>energiearm,<br>ohne Zucker|wie VK|wie VK|Bis zu 3 l/Tag,<br>energiearm, ohne<br>Zucker|wie VK|wie VK|
+|**Flüssigkeit-**|2 l/Tag:
+energiearm,
+ohne Zucker|wie VK|wie VK|Bis zu 3 l/Tag,
+energiearm, ohne
+Zucker|wie VK|wie VK|
 |**zufuhr**|||||||
 ||||||||
 |**Ballaststoff-**|wie VK|wie VK|Lösliche BS↑|wie VK|wie VK|wie VK|
 |**zufuhr**|||||||
-|**Besonderheit**|Mahlzeiten-<br>ersatz durch<br>Formula-<br>produkte<br>möglich|niedriger<br>GI|MCT-Fette statt LCT<br>bei exogener Hyper-<br>triglyceridämie<br>Cholesterinzufuhr<br>bei Respondern↓|<br>purinreiche LM<br>meiden;<br>Fructosezufuhr<br>< 50 g/Tag||Kochsalz-<br>zufuhr:<br>< 5 g/Tag;<br>(2,0 g Nat-<br>rium/Tag)|
+|**Besonderheit**|Mahlzeiten-
+ersatz durch
+Formula-
+produkte
+möglich|niedriger
+GI|MCT-Fette statt LCT
+bei exogener Hyper-
+triglyceridämie
+Cholesterinzufuhr
+bei Respondern↓|
+purinreiche LM
+meiden;
+Fructosezufuhr
+< 50 g/Tag||Kochsalz-
+zufuhr:
+< 5 g/Tag;
+(2,0 g Nat-
+rium/Tag)|
 ||||||||
 
 BS: Ballaststoffe, GI: glykämischer Index; KG: Körpergewicht; MCT: Mittelkettige Fettsäuren; VK: Vollkost; ↑ : mehr im Vergleich zu den Vollkostformen; ↓: weniger im Vergleich zu den Vollkostformen 
@@ -160,7 +211,12 @@ In begründeten Fällen können Diätkostformen mit spezifischer Indikation vero
 
 |**Vollkost**|**Vollkost**|**Vollkost**||||
 |---|---|---|---|---|---|
-||**Vollkost**||**Angepasste Vollkost bei unspezifischen**<br>**Unverträglichkeiten und gastrointestinalen**<br>**Erkrankungen**<br>(frühere Bezeichnung: leichte Vollkost)||**Vegetarische Kost**<br>(Im Sinne von ovo-<br>lacto-vegetabil)|
+||**Vollkost**||**Angepasste Vollkost bei unspezifischen**
+**Unverträglichkeiten und gastrointestinalen**
+**Erkrankungen**
+(frühere Bezeichnung: leichte Vollkost)||**Vegetarische Kost**
+(Im Sinne von ovo-
+lacto-vegetabil)|
 
 Unter den Begriffen Vollkost, Angepasste Vollkost und Ovo-lacto-vegetabile Kost werden alle Kostformen zur Behandlung von Übergewicht, Kohlenhydrat-, und Fettstoffwechselstörungen wie Diabetes mellitus Typ 1 und 2 sowie Hypertriglyceridämie, kombinierte Hypertriglyceridämie, Hypercholesterinämie und Hyperurikämie einschließlich des Metabolischen Syndroms zusammengefasst. 
 
@@ -200,16 +256,34 @@ Die Speisenplangestaltung ermöglicht die bedarfsgerechte Nährstoffzufuhr. Durc
 |**Tabelle 3. Nahrungsmittelmengenpro Tag bei vollwertiger Ernährung**|**Tabelle 3. Nahrungsmittelmengenpro Tag bei vollwertiger Ernährung**|**Tabelle 3. Nahrungsmittelmengenpro Tag bei vollwertiger Ernährung**||
 |---|---|---|---|
 |**Lebensmittel**|**7.500 kJ / 1.800 kcal**|**9.000 kJ / 2.200 kcal**|**10.500 kJ / 2.500 kcal**|
-|Getreideerzeugnisse<br>z. B. Brot|250 g|300g|350 g|
-|Nudeln/Reis|200 g gekocht,<br>statt Kartoffeln|250 g gekocht,<br>statt Kartoffeln|350 g gekocht,<br>statt Kartoffeln|
+|Getreideerzeugnisse
+z. B. Brot|250 g|300g|350 g|
+|Nudeln/Reis|200 g gekocht,
+statt Kartoffeln|250 g gekocht,
+statt Kartoffeln|350 g gekocht,
+statt Kartoffeln|
 |Kartoffeln|300 g|350 g|400 g|
 |Gemüse|300-400 g|300-400 g|300-400 g|
-|Obst/Obstsaft<br>inclusive Honig,Zucker|200-300 g|300-400 g|400-500 g|
-|Milch u. Milchprodukte z.<br>B. Käse<br>Käse fettarm|250 g<br>60g|250 g<br>60g|250 g<br>60g|
-|Fleisch/Geflügel/ Fisch<br>fettarm|100 g|100 g|100 g|
-|Wurst<br>fettarm|30 g|60 g|60 g|
-|Sichtbares Fett:<br>Margarine, Butter,<br>Öl|25 g<br>10g|40 g<br>10g|40 g<br>10g|
-|Getränke<br>(keine Energy-Drinks)|1500 ml|1500-1800 ml|1500-1800 ml|
+|Obst/Obstsaft
+inclusive Honig,Zucker|200-300 g|300-400 g|400-500 g|
+|Milch u. Milchprodukte z.
+B. Käse
+Käse fettarm|250 g
+60g|250 g
+60g|250 g
+60g|
+|Fleisch/Geflügel/ Fisch
+fettarm|100 g|100 g|100 g|
+|Wurst
+fettarm|30 g|60 g|60 g|
+|Sichtbares Fett:
+Margarine, Butter,
+Öl|25 g
+10g|40 g
+10g|40 g
+10g|
+|Getränke
+(keine Energy-Drinks)|1500 ml|1500-1800 ml|1500-1800 ml|
 
 Bei Bedarf mehr. 
 
@@ -233,13 +307,19 @@ Verordnungsdauer: Unbegrenzt
 |---|---|---|---|
 |**Definition**|**Wahlmöglichkeiten**|||
 ||**kleine Portion**|**normale Portion**|**große Portion**|
-|Nährstoffe<br>ca.|7.500 kJ / 1.800 kcal|9.000 kJ / 2.200 kcal|10.500 kJ / 2.500 kcal|
+|Nährstoffe
+ca.|7.500 kJ / 1.800 kcal|9.000 kJ / 2.200 kcal|10.500 kJ / 2.500 kcal|
 |||||
-|Eiweiß 15%<br>ca.|70 g|80 g|90 g|
-|Fett 35%<br>ca.|70 g|80 g|95 g|
-|Kohlenhydrate 50%<br>ca.|220 g|265 g|310 g|
-|Ballaststoffe<br>ca.|30 g|||
-|Flüssigkeit<br>ca.|30-35 ml kg KG|||
+|Eiweiß 15%
+ca.|70 g|80 g|90 g|
+|Fett 35%
+ca.|70 g|80 g|95 g|
+|Kohlenhydrate 50%
+ca.|220 g|265 g|310 g|
+|Ballaststoffe
+ca.|30 g|||
+|Flüssigkeit
+ca.|30-35 ml kg KG|||
 
 ## **Tagesbeispiel Vollkost** 
 
@@ -276,13 +356,19 @@ Verordnungsdauer: Unbegrenzt
 |---|---|---|---|
 |**Definition**|**Wahlmöglichkeiten**|||
 ||**kleine Portion**|**normale Portion**|**große Portion**|
-|Nährstoffe<br>ca.|7.500 kJ / 1.800 kcal|9.000 kJ / 2.200 kcal|10.500 kJ / 2.500 kcal|
+|Nährstoffe
+ca.|7.500 kJ / 1.800 kcal|9.000 kJ / 2.200 kcal|10.500 kJ / 2.500 kcal|
 |||||
-|Eiweiß 15%<br>ca.|70 g|80 g|90 g|
-|Fett 35%<br>ca.|70 g|80 g|95 g|
-|Kohlenhydrate 50%<br>ca.|220 g|265 g|310 g|
-|Ballaststoffe<br>ca.|30 g|||
-|Flüssigkeit<br>ca.|30-35 ml kg KG|||
+|Eiweiß 15%
+ca.|70 g|80 g|90 g|
+|Fett 35%
+ca.|70 g|80 g|95 g|
+|Kohlenhydrate 50%
+ca.|220 g|265 g|310 g|
+|Ballaststoffe
+ca.|30 g|||
+|Flüssigkeit
+ca.|30-35 ml kg KG|||
 
 **Tabelle 6. Lebensmittelauswahl Angepasste Vollkost Lebensmittelgruppe geeignete Lebensmittel weniger geeignete Lebensmittel Milch und** Milch, Buttermilch, Dickmilch, Crème fraîche, Creme double **Milcherzeugnisse** Kefir, Joghurt in allen Fettstufen, süße und saure Sahne, Kondensmilch **Käse** Speisequark, Frischkäse, Edelpilzkäse, sonstige stark Hart- und Schnittkäse, riechende und scharf Schmelzkäse usw. schmeckende Käse wie z. B. Tilsiter, Weißlacker, Limburger und Romadour 
 
@@ -290,15 +376,175 @@ Verordnungsdauer: Unbegrenzt
 
 |**Tabelle 6. Lebensmittelauswahl Angepasste Vollkost**|**Tabelle 6. Lebensmittelauswahl Angepasste Vollkost**|**Tabelle 6. Lebensmittelauswahl Angepasste Vollkost**|
 |---|---|---|
-|**Lebensmittelgruppe**|**geeignete Lebensmittel**|**weniger geeignete**<br>**Lebensmittel**|
-|**Fleisch und**<br>**Fleischwaren**<br>**Wurstwaren**<br>**Innereien**<br>**Geflügel**<br>**Geflügelerzeugnisse**<br>**Wild**<br>**Fisch**<br>**Fischerzeugnisse**<br>**Schalen- und Krustentiere**<br>**Eier**<br>**Fette**<br>**Getreide und**<br>**Getreideerzeugnisse**<br>**Brot und Backwaren**<br>**Kartoffeln**|alle Sorten, mager:<br>Rind, Kalb, Schwein, Lamm,<br>Schinken roh und gekocht<br>Brühwurst wie Wiener, Mor-<br>tadella, Bierschinken, Jagd-<br>wurst, Teewurst, feine Leber-<br>wurst, u. alle fettreduzierten<br>Würste<br>Leber, Herz, Niere, Zunge<br>usw.<br>Huhn, Hähnchen, Pute<br>Geflügelwurst, Aspikware, als<br>Bratenaufschnitt (Putenbrust)<br>Hase, Reh, Wildschwein,<br>Hirsch, Wildgeflügel<br>Alle mageren See- und Süß-<br>wasserfische<br>Marinaden, Fisch in Aspik, im<br>eigenen Saft<br>Krabben, Krebse, Hummer,<br>Muscheln, Schnecken usw.<br>alle Sorten, fettarm gegart<br>Butter, Margarine, Öl<br>alle Sorten wie Wei<br>Hafer,<br>Gerste, Reis, Hirse,<br>und<br>alle daraus hergest<br>Mehle,<br>Grieß, Grützen, Graupen,<br>Flocken, Stärke;<br>Popcorn, Puffreis, Nudeln<br>alle handelsüblichen Brote aus<br>Mehlen mit feiner Körnung und<br>fettarme<br>Gebäcke,<br>einschl.<br>Kuchen, Kekse, Pizza u. Ä.<br>in fettarmen Garungsarten:<br>Pell-, Folien-, Salzkartoffeln,<br>Kartoffelknödel, Kartoffelbrei|fette und panierte Sorten,<br>fette Soßen<br>alle Wurstsorten mit hohem<br>Fettgehalt wie Rohwurst,<br>Kochwurst, Sülz- u. Grütz-<br>wurst<br>paniert, in fettreicher Soße<br>Gans, Ente; paniert,<br>in fettreichen Soßen<br>Fertigsalate, paniert usw.<br>gespickt, in fettreicher Soße<br>paniert, in fettreichen Soßen<br>geräuchert, Brathering,<br>Zubereitungen in fettreichen und<br>scharfen Soßen, Fertigsalate<br>tafelfertige Erzeugnisse in<br>fettreichen Soßen<br>Eiergerichte in Fett gebraten,<br>harte Eier, Eiersalat etc.<br>stark erhitzte Fette, gehärtete<br>Fette, Schmalz, Speck,<br>Mayonnaise<br>Produkte aus Roggen, evtl.<br>Grünkern, Buchweizen,<br>Zubereitungen aus rohem,<br>geschrotetem Korn<br>Sauerteigbrote (Roggen-,<br>Kommissbrot u.a.), fettreiche<br>Gebäcke wie Torten,<br>Rührkuchen, Bienenstich,<br>Krapfen, Streuselkuchen u. Ä.,<br>Pizza in fettreicher Zubereitung<br>(z. B. Salamipizza)<br>Bratkartoffeln, Pommes frites,<br>Kroketten, Chips, Puffer|
+|**Lebensmittelgruppe**|**geeignete Lebensmittel**|**weniger geeignete**
+**Lebensmittel**|
+|**Fleisch und**
+**Fleischwaren**
+**Wurstwaren**
+**Innereien**
+**Geflügel**
+**Geflügelerzeugnisse**
+**Wild**
+**Fisch**
+**Fischerzeugnisse**
+**Schalen- und Krustentiere**
+**Eier**
+**Fette**
+**Getreide und**
+**Getreideerzeugnisse**
+**Brot und Backwaren**
+**Kartoffeln**|alle Sorten, mager:
+Rind, Kalb, Schwein, Lamm,
+Schinken roh und gekocht
+Brühwurst wie Wiener, Mor-
+tadella, Bierschinken, Jagd-
+wurst, Teewurst, feine Leber-
+wurst, u. alle fettreduzierten
+Würste
+Leber, Herz, Niere, Zunge
+usw.
+Huhn, Hähnchen, Pute
+Geflügelwurst, Aspikware, als
+Bratenaufschnitt (Putenbrust)
+Hase, Reh, Wildschwein,
+Hirsch, Wildgeflügel
+Alle mageren See- und Süß-
+wasserfische
+Marinaden, Fisch in Aspik, im
+eigenen Saft
+Krabben, Krebse, Hummer,
+Muscheln, Schnecken usw.
+alle Sorten, fettarm gegart
+Butter, Margarine, Öl
+alle Sorten wie Wei
+Hafer,
+Gerste, Reis, Hirse,
+und
+alle daraus hergest
+Mehle,
+Grieß, Grützen, Graupen,
+Flocken, Stärke;
+Popcorn, Puffreis, Nudeln
+alle handelsüblichen Brote aus
+Mehlen mit feiner Körnung und
+fettarme
+Gebäcke,
+einschl.
+Kuchen, Kekse, Pizza u. Ä.
+in fettarmen Garungsarten:
+Pell-, Folien-, Salzkartoffeln,
+Kartoffelknödel, Kartoffelbrei|fette und panierte Sorten,
+fette Soßen
+alle Wurstsorten mit hohem
+Fettgehalt wie Rohwurst,
+Kochwurst, Sülz- u. Grütz-
+wurst
+paniert, in fettreicher Soße
+Gans, Ente; paniert,
+in fettreichen Soßen
+Fertigsalate, paniert usw.
+gespickt, in fettreicher Soße
+paniert, in fettreichen Soßen
+geräuchert, Brathering,
+Zubereitungen in fettreichen und
+scharfen Soßen, Fertigsalate
+tafelfertige Erzeugnisse in
+fettreichen Soßen
+Eiergerichte in Fett gebraten,
+harte Eier, Eiersalat etc.
+stark erhitzte Fette, gehärtete
+Fette, Schmalz, Speck,
+Mayonnaise
+Produkte aus Roggen, evtl.
+Grünkern, Buchweizen,
+Zubereitungen aus rohem,
+geschrotetem Korn
+Sauerteigbrote (Roggen-,
+Kommissbrot u.a.), fettreiche
+Gebäcke wie Torten,
+Rührkuchen, Bienenstich,
+Krapfen, Streuselkuchen u. Ä.,
+Pizza in fettreicher Zubereitung
+(z. B. Salamipizza)
+Bratkartoffeln, Pommes frites,
+Kroketten, Chips, Puffer|
 
 **Tabelle 6. Lebensmittelauswahl Angepasste Vollkost** 
 
 |**Tabelle 6. Lebensmittelauswahl Angepasste Vollkost**|**Tabelle 6. Lebensmittelauswahl Angepasste Vollkost**|**Tabelle 6. Lebensmittelauswahl Angepasste Vollkost**|
 |---|---|---|
-|**Lebensmittelgruppe**|**geeignete Lebensmittel**|**weniger geeignete**<br>**Lebensmittel**|
-|**Gemüse und Salate**<br>**Hülsenfrüchte**<br>**Obst**<br>**Nüsse / Samen**<br>**Getränke**<br>**Süßungsmittel und Süßwaren**<br>**Kräuter und Gewürze**|roh: alle Blattsalate wie z. B.<br>Kopfsalat, Endivie, Feldsalat,<br>Chicorée, Radicchio;<br>Möhren, Sellerie, Tomaten;<br>gegart:Möhren, Spinat, Spargel,<br>Chinakohl, Schmorgurken,<br>Blumenkohl, Kohlrabi, Broccoli,<br>Tomaten, Sellerie, grüne<br>Bohnen, Schwarzwurzeln, Rote<br>Beete, Zucchini, Aubergine,<br>is, Bleichsellerie, Fenchel,<br>, Sojakeime<br>Zuckerschoten,<br>feine<br>Erbsen<br>(TK)<br>roh: Banane, Orange, Melone,<br>Mandarine, Grapefruit, reife<br>Erdbeeren, Apfel, Birnen<br>Himbeeren, Brombeeren,<br>Heidelbeeren, Aprikosen,<br>Kompott: Apfel, Pfirsich,<br>Aprikosen, Ananas, Kirschen,<br>Pflaumen, Mirabellen,<br>Reineclauden<br>in kleinen Mengen: Leinsamen,<br>Mohn, Sesam,<br>Sonnenblumenkerne<br>Malzkaffee, Tee, stilles Wasser,<br>verdünnte Fruchtsäfte, Kakao,<br>ggf. Bohnenkaffee<br>Zucker, Traubenzucker,<br>Bonbons u. Ä.<br>Honig, Konfitüre, Gelee u. Ä.<br>Fruchtbonbons, Kaugummi,<br>Eiscreme, Fruchteis<br>alle frisch, TK und getrocknet,<br>alle nicht scharfen Sorten, Essig,<br>Zitrone, Salz|roh:grüne Gurke, Paprika,<br>Rettich, Radieschen;<br>gegart:Weißkohl, Rotkohl,<br>Wirsingkohl, Sauerkraut,<br>Rosenkohl, Grünkohl, Zwiebeln,<br>Pilze<br>Erbsen, Linsen, Bohnen, Mungo,<br>Erdnüsse<br>roh:Kirschen, Pflaumen,<br>Pfirsiche, Johannisbeeren,<br>Stachelbeeren<br>Kompott: Stachelbeeren,<br>Rhabarber<br>alle Sorten: Walnüsse,<br>Haselnüsse, Paranüsse,<br>Cashew-Nüsse u. Ä.<br>Alkoholische Getränke wie Wein,<br>Bier, Sekt, Spirituosen;<br>Malzbier,<br>Limonade<br>Schokolade (mit und ohne<br>Nüsse), Pralinen, Nougat,<br>Marzipan<br>Senf, Pfeffer, Cayennepfeffer,<br>Tabasco, Curry, Knoblauch,<br>(rohe) Zwiebeln|
+|**Lebensmittelgruppe**|**geeignete Lebensmittel**|**weniger geeignete**
+**Lebensmittel**|
+|**Gemüse und Salate**
+**Hülsenfrüchte**
+**Obst**
+**Nüsse / Samen**
+**Getränke**
+**Süßungsmittel und Süßwaren**
+**Kräuter und Gewürze**|roh: alle Blattsalate wie z. B.
+Kopfsalat, Endivie, Feldsalat,
+Chicorée, Radicchio;
+Möhren, Sellerie, Tomaten;
+gegart:Möhren, Spinat, Spargel,
+Chinakohl, Schmorgurken,
+Blumenkohl, Kohlrabi, Broccoli,
+Tomaten, Sellerie, grüne
+Bohnen, Schwarzwurzeln, Rote
+Beete, Zucchini, Aubergine,
+is, Bleichsellerie, Fenchel,
+, Sojakeime
+Zuckerschoten,
+feine
+Erbsen
+(TK)
+roh: Banane, Orange, Melone,
+Mandarine, Grapefruit, reife
+Erdbeeren, Apfel, Birnen
+Himbeeren, Brombeeren,
+Heidelbeeren, Aprikosen,
+Kompott: Apfel, Pfirsich,
+Aprikosen, Ananas, Kirschen,
+Pflaumen, Mirabellen,
+Reineclauden
+in kleinen Mengen: Leinsamen,
+Mohn, Sesam,
+Sonnenblumenkerne
+Malzkaffee, Tee, stilles Wasser,
+verdünnte Fruchtsäfte, Kakao,
+ggf. Bohnenkaffee
+Zucker, Traubenzucker,
+Bonbons u. Ä.
+Honig, Konfitüre, Gelee u. Ä.
+Fruchtbonbons, Kaugummi,
+Eiscreme, Fruchteis
+alle frisch, TK und getrocknet,
+alle nicht scharfen Sorten, Essig,
+Zitrone, Salz|roh:grüne Gurke, Paprika,
+Rettich, Radieschen;
+gegart:Weißkohl, Rotkohl,
+Wirsingkohl, Sauerkraut,
+Rosenkohl, Grünkohl, Zwiebeln,
+Pilze
+Erbsen, Linsen, Bohnen, Mungo,
+Erdnüsse
+roh:Kirschen, Pflaumen,
+Pfirsiche, Johannisbeeren,
+Stachelbeeren
+Kompott: Stachelbeeren,
+Rhabarber
+alle Sorten: Walnüsse,
+Haselnüsse, Paranüsse,
+Cashew-Nüsse u. Ä.
+Alkoholische Getränke wie Wein,
+Bier, Sekt, Spirituosen;
+Malzbier,
+Limonade
+Schokolade (mit und ohne
+Nüsse), Pralinen, Nougat,
+Marzipan
+Senf, Pfeffer, Cayennepfeffer,
+Tabasco, Curry, Knoblauch,
+(rohe) Zwiebeln|
 
 ## **2.3 Ovo-lacto-vegetabile Kost** 
 
@@ -316,13 +562,19 @@ Verordnungsdauer: Unbegrenzt
 |---|---|---|---|
 |**Definition**|**Wahlmöglichkeiten**|||
 ||**kleine Portion**|**normale Portion**|**große Portion**|
-|Nährstoffe<br>ca.|7.500 kJ / 1.800 kcal|9.000 kJ / 2.200 kcal|10.500 kJ / 2.500 kcal|
+|Nährstoffe
+ca.|7.500 kJ / 1.800 kcal|9.000 kJ / 2.200 kcal|10.500 kJ / 2.500 kcal|
 |||||
-|Eiweiß 15%<br>ca.|70 g|80 g|90 g|
-|Fett 35%<br>ca.|70 g|80 g|95 g|
-|Kohlenhydrate 50%<br>ca.|220 g|265 g|310 g|
-|Ballaststoffe<br>ca.|30 g|||
-|Flüssigkeit<br>ca.|30-35 ml kg KG|||
+|Eiweiß 15%
+ca.|70 g|80 g|90 g|
+|Fett 35%
+ca.|70 g|80 g|95 g|
+|Kohlenhydrate 50%
+ca.|220 g|265 g|310 g|
+|Ballaststoffe
+ca.|30 g|||
+|Flüssigkeit
+ca.|30-35 ml kg KG|||
 
 ## **3. Energiedefinierte Diät** 
 
@@ -346,7 +598,8 @@ Broca-Index: Körpergröße in cm minus 100 = Gewicht Body-Mass-Index: Körpergr
 ||BMI  22|BMI  24||kJ|||kcal|
 |1,55 m|53|58|**6 500**|6 800||**1 600**|1 700|
 |1,60 m|56|61|6 800|7 500||1 700|1 800|
-|1,65 m|59|65|**7 500**|<br>8 000||**1 800**|2 000|
+|1,65 m|59|65|**7 500**|
+8 000||**1 800**|2 000|
 |1,70 m|64|70|7 600|8 400||1 900|2 100|
 |1,75 m|67|74|8 000|**9 000**||2 000|**2 200**|
 |1,80 m|71|78|8 400|9 200||2 100|2 300|
@@ -387,7 +640,13 @@ Mahlzeiten: Frühstück: Büffet oder Fertigteller (Je nach Energiemenge) Mittag
 
 |**Tabelle 10. KE/BE-Standard-Aufteilung** auf 3 Haupt- und 3 Zwischenmahlzeiten**|**Tabelle 10. KE/BE-Standard-Aufteilung** auf 3 Haupt- und 3 Zwischenmahlzeiten**|**Tabelle 10. KE/BE-Standard-Aufteilung** auf 3 Haupt- und 3 Zwischenmahlzeiten**|**Tabelle 10. KE/BE-Standard-Aufteilung** auf 3 Haupt- und 3 Zwischenmahlzeiten**|**Tabelle 10. KE/BE-Standard-Aufteilung** auf 3 Haupt- und 3 Zwischenmahlzeiten**|**Tabelle 10. KE/BE-Standard-Aufteilung** auf 3 Haupt- und 3 Zwischenmahlzeiten**|**Tabelle 10. KE/BE-Standard-Aufteilung** auf 3 Haupt- und 3 Zwischenmahlzeiten**|**Tabelle 10. KE/BE-Standard-Aufteilung** auf 3 Haupt- und 3 Zwischenmahlzeiten**||
 |---|---|---|---|---|---|---|---|---|
-|Energie||Gesamt-|Erstes<br>Frühstück|Zweites<br>Frühstück|Mittag-<br>essen|Nach-<br>mittag|Abend-<br>essen|Spät-<br>mahlzeit|
+|Energie||Gesamt-|Erstes
+Frühstück|Zweites
+Frühstück|Mittag-
+essen|Nach-
+mittag|Abend-
+essen|Spät-
+mahlzeit|
 |kJ|kcal|KE/BE|BE/KE|BE/KE|BE/KE|BE/KE|BE/KE|BE/KE|
 |5.500|1.300|13|3|2|3|1|3|1|
 |6.500|1.600|17|4|2|4|2|3|2|
@@ -402,64 +661,305 @@ Mahlzeiten: Frühstück: Büffet oder Fertigteller (Je nach Energiemenge) Mittag
 
 |**Tabelle 11. Rahmenplan Küche / Lebensmittelübersicht / Energiedefinierte Diät**|**Tabelle 11. Rahmenplan Küche / Lebensmittelübersicht / Energiedefinierte Diät**|**Tabelle 11. Rahmenplan Küche / Lebensmittelübersicht / Energiedefinierte Diät**|**Tabelle 11. Rahmenplan Küche / Lebensmittelübersicht / Energiedefinierte Diät**|**Tabelle 11. Rahmenplan Küche / Lebensmittelübersicht / Energiedefinierte Diät**|**Tabelle 11. Rahmenplan Küche / Lebensmittelübersicht / Energiedefinierte Diät**|||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Mahlzeiten|Lebensmittel|5.500kJ<br>1.300kcal<br>**13 BE/KE**||6.500kJ<br>1.600kcal<br>**17 BE/KE**||7.500kJ<br>1.800kcal<br>**20 BE/KE**||9.000kJ<br>2.200kcal<br>**24 BE/KE**||10.500kJ<br>2.500kcal<br>**28 BE/KE**||12.000kJ<br>2.900kcal<br>**32 BE/KE**||bzw.<br>laut<br>Absprache||
+|Mahlzeiten|Lebensmittel|5.500kJ
+1.300kcal
+**13 BE/KE**||6.500kJ
+1.600kcal
+**17 BE/KE**||7.500kJ
+1.800kcal
+**20 BE/KE**||9.000kJ
+2.200kcal
+**24 BE/KE**||10.500kJ
+2.500kcal
+**28 BE/KE**||12.000kJ
+2.900kcal
+**32 BE/KE**||bzw.
+laut
+Absprache||
 |||g|BE|g|BE|g|BE|g|BE|g|BE|g|BE|g|BE|
-|I. Frühstück|Brot<br>Diätmargarine<br>Käse, 30% F. i.Tr.<br>Magerquark<br>Wurst, fettarm<br>Konfitüre<br>Gemüse||3||4||4||4||5||6|||
+|I. Frühstück|Brot
+Diätmargarine
+Käse, 30% F. i.Tr.
+Magerquark
+Wurst, fettarm
+Konfitüre
+Gemüse||3||4||4||4||5||6|||
 |||10||20||20||20||20||30||||
 |||30||30||30||30||30||30||||
 |||||||||||||50||||
 |||||||||||||||||
 ||||||||1||1||1||1|||
 |||50||50||50||50||50||50||||
-|II. Frühstück|Obst<br>Brot<br>Milch,1,5% F||2||1/2||1/2||1||1||1|||
+|II. Frühstück|Obst
+Brot
+Milch,1,5% F||2||1/2||1/2||1||1||1|||
 ||||||1||1||1||2||2|||
 ||||||1/2||1/2||1||1||1|||
-|Mittagessen|Fleisch, mager<br>Gemüse<br>Öl<br>Beilagen / Kartoffeln<br>Obst oder Kompott|100||100||100||100||100||100||||
+|Mittagessen|Fleisch, mager
+Gemüse
+Öl
+Beilagen / Kartoffeln
+Obst oder Kompott|100||100||100||100||100||100||||
 |||200||200||200||200||200||200||||
 |||5||5||5||10||10||10||||
 ||||2||3||4||4||4||5|||
 ||||1||1||1||1||2||2|||
-|Nachmittag|Fruchtjoghurt, 1,5% F<br>Brot / Knäckebrot<br>Diätmargarine<br>Konfitüre||1|||||||||||||
+|Nachmittag|Fruchtjoghurt, 1,5% F
+Brot / Knäckebrot
+Diätmargarine
+Konfitüre||1|||||||||||||
 ||||||1||1||2||2||3|||
 |||||10||10||10||10||10||||
 ||||||1||1||1||1||1|||
-|Abendessen|Brot<br>Diätmargarine<br>Wurst, fettarm<br>Käse, fettarm<br>Gemüse||3||3||4||5||6||6|||
+|Abendessen|Brot
+Diätmargarine
+Wurst, fettarm
+Käse, fettarm
+Gemüse||3||3||4||5||6||6|||
 |||10||10||20||20||20||30||||
 |||30||30||30||30||30||30||||
 |||||||||||30||30||||
 |||200||200||200||200||200||200||||
-|Spätmahlzeit|Obst<br>Magerquark<br>Brot<br>Diätmargarine||1||1||1||1||1||2|||
+|Spätmahlzeit|Obst
+Magerquark
+Brot
+Diätmargarine||1||1||1||1||1||2|||
 |||50||||||||||||||
 ||||||1||1||2||2||2|||
 |||||10 Halbfett||10 Halbfett||10||10||10||||
 
 **Tabelle 12. Lebensmittelauswahl energiedefinierte Kost** 
 
-|**Lebensmittelgruppe**|**geeignete Lebensmittel**|**weniger geeignete**<br>**Lebensmittel**|
+|**Lebensmittelgruppe**|**geeignete Lebensmittel**|**weniger geeignete**
+**Lebensmittel**|
 |---|---|---|
 |Lebensmittel mit*****werden für Diabetiker nach BE/KE berechnet|||
-|*****<br>**Milch und**<br>**Milcherzeugnisse**<br>fettarme bis 1,5% F:<br>Milch,<br>Buttermilch, Dickmilch,<br>Kefir, Joghurt,<br>Kondensmilch, 4% F<br>**Käse**<br>bis 20% F i.Tr.:<br>Quark, Frischkäse<br>Sauermilchkäse (Harzer etc.)<br>bis 30% F i.Tr.:<br>Hart-, Schnitt-, Weichkäse,<br>Schmelzkäse;<br>**Fleisch und**<br>**Fleischwaren**<br> **alle** **Fleischsorten** **fettarm**<br>Schinken roh und gekocht,<br>Bratenaufschnitt, Corned Beef,<br>Fleisch in Aspik<br>**Innereien**<br>Zunge, Bries<br>**Wurstwaren**<br>bis max. 20% F:<br>**Geflügel**<br>**alle Geflügelsorten fettarm**<br>(ohne Haut) Huhn, Hähnchen,<br>Pute<br>**Geflügelerzeugnisse**<br>Geflügelwurst, Aspikware,<br>Bratenaufschnitt<br>**Wild**<br>alle Sorten, ungespickt<br>**Fisch**<br> **fettarm**alle Sorten See- und<br>Süßwasserfische<br>**Fischerzeugnisse**<br>im eigenen Saft, Aspikware<br>Räucherlachs, Hering, Makrele<br>**Eier**<br>Eiklar ist fettfrei und<br>cholesterinarm<br>**Fette**<br>alle Sorten mit hohem Gehalt an<br>mehrfach ungesättigten<br>Fettsäuren, Diätmargarine, Öle||fettreichere ab 3,5% F:<br>Kondensmilch ab 7,5% F,<br>süße und saure Sahne,<br>Joghurt- und<br>Quarkzubereitungen ohne<br>definierte Nährstoffangabe<br>über 20% F i.Tr.:<br>über 30% F i.Tr.:<br>fettreiche, fettdurchzogene<br>Fleischsorten und Zubereitungen<br>cholesterinreich: Leber, Niere,<br>Herz, Hirn<br>alle fettreicheren Sorten<br>Gans, Ente und fettreiche<br>Zubereitungen<br>gespickt, fettreich zubereitet<br>gespickt, fettreiche<br>Zubereitungen, fettreiche Sorten<br>(Aal, Lachs, Hering, Makrele)<br>Räucherfische, Brathering, in Öl<br>eingelegt, Zubereitungen in<br>Soßen usw., cholesterinreich:<br>Rogen, Kaviar, Hummer,<br>Krabben, Krebse, Muscheln,<br>Tintenfisch<br>Eigelb / Vollei ist fett- und<br>cholesterinreich<br>Butter, Schmalz, Plattenfette<br>(Erdnuss-, Kokos- u. ähnliche<br>Fette)|
+|*****
+**Milch und**
+**Milcherzeugnisse**
+fettarme bis 1,5% F:
+Milch,
+Buttermilch, Dickmilch,
+Kefir, Joghurt,
+Kondensmilch, 4% F
+**Käse**
+bis 20% F i.Tr.:
+Quark, Frischkäse
+Sauermilchkäse (Harzer etc.)
+bis 30% F i.Tr.:
+Hart-, Schnitt-, Weichkäse,
+Schmelzkäse;
+**Fleisch und**
+**Fleischwaren**
+ **alle** **Fleischsorten** **fettarm**
+Schinken roh und gekocht,
+Bratenaufschnitt, Corned Beef,
+Fleisch in Aspik
+**Innereien**
+Zunge, Bries
+**Wurstwaren**
+bis max. 20% F:
+**Geflügel**
+**alle Geflügelsorten fettarm**
+(ohne Haut) Huhn, Hähnchen,
+Pute
+**Geflügelerzeugnisse**
+Geflügelwurst, Aspikware,
+Bratenaufschnitt
+**Wild**
+alle Sorten, ungespickt
+**Fisch**
+ **fettarm**alle Sorten See- und
+Süßwasserfische
+**Fischerzeugnisse**
+im eigenen Saft, Aspikware
+Räucherlachs, Hering, Makrele
+**Eier**
+Eiklar ist fettfrei und
+cholesterinarm
+**Fette**
+alle Sorten mit hohem Gehalt an
+mehrfach ungesättigten
+Fettsäuren, Diätmargarine, Öle||fettreichere ab 3,5% F:
+Kondensmilch ab 7,5% F,
+süße und saure Sahne,
+Joghurt- und
+Quarkzubereitungen ohne
+definierte Nährstoffangabe
+über 20% F i.Tr.:
+über 30% F i.Tr.:
+fettreiche, fettdurchzogene
+Fleischsorten und Zubereitungen
+cholesterinreich: Leber, Niere,
+Herz, Hirn
+alle fettreicheren Sorten
+Gans, Ente und fettreiche
+Zubereitungen
+gespickt, fettreich zubereitet
+gespickt, fettreiche
+Zubereitungen, fettreiche Sorten
+(Aal, Lachs, Hering, Makrele)
+Räucherfische, Brathering, in Öl
+eingelegt, Zubereitungen in
+Soßen usw., cholesterinreich:
+Rogen, Kaviar, Hummer,
+Krabben, Krebse, Muscheln,
+Tintenfisch
+Eigelb / Vollei ist fett- und
+cholesterinreich
+Butter, Schmalz, Plattenfette
+(Erdnuss-, Kokos- u. ähnliche
+Fette)|
 
 **Tabelle 12. Lebensmittelauswahl energiedefinierte Kost** 
 
-|**Lebensmittelgruppe**|**geeignete Lebensmittel**|**weniger geeignete**<br>**Lebensmittel**|
+|**Lebensmittelgruppe**|**geeignete Lebensmittel**|**weniger geeignete**
+**Lebensmittel**|
 |---|---|---|
 |Lebensmittel mit*****werden für Diabetiker nach BE/KE berechnet|||
-|*** Getreide und**<br>**Getreideerzeugnisse**<br>alle Sorten und Produkte<br> **bevorzugt Vollkorn**, Nu-<br>deln ohne Ei<br>*** Brot und**<br>**Backwaren**<br>alle handelsüblichen Brote,<br>Brötchen, Knäckebrot etc.,<br>möglichst Vollkornerzeugnisse<br>*** Kartoffeln**<br> **in fettarmer Zubereitung**<br>(Pell-, Folien- und Salzkartoffeln,<br>Kartoffelbrei ohne Fett)<br>**Gemüse und**<br>**Salate**<br> **alle S**<br>* Gemüs<br>, * Rote Beete,<br>* Schoten<br>*** Hülsenfrüchte**<br>Erbsen, Linsen, Bohnen<br>Nach individ. Glykämiefaktor<br>*** Obst**<br> **alle Sorten**<br>*** Nüsse und Samen**<br>Kastanien<br>**Getränke**<br> **energiefrei**<br>alle Sorten Tee, Mineralwasser,<br>Malzkaffee („Getreide-<br>kaffee“), Bohnenkaffee<br>**Süßungsmittel**<br>Zuckerersatzstoffe (Süßstoffe)<br>*** Süßwaren**<br>* Diätkonfitüre,<br>* Diäterzeugnisse (mit<br>Vorbehalt)<br>**Gewürze und**<br>**Kräuter**<br>frisch, tiefgekühlt und<br>getrocknet alle||Sorten und Produkte, die<br>geschält, poliert o.ä. aufbereitet<br>wurden<br>Produkte aus hellen Mehlen,<br>handelsübliche Kuchen und<br>Gebäcke ohne<br>Nährstoffangaben<br>Kartoffelzubereitungen mit Fett<br>und/oder schwer<br>einschätzbarem Energiegehalt<br>(Pommes frites, Puffer,<br>Kroketten, Chips, Kartoffelsalat<br>mit Mayonnaise)<br>Fertiggerichte, fettreiche<br>Zubereitungen<br>Frisch-, Tiefkühl- oder<br>Dosenware gezuckert<br>Nüsse sind sehr fettreich!<br>Sonnenblumenkerne, Sesam,<br>Mohn<br>Alkoholische Getränke (Wein,<br>Bier, Sekt, Spirituosen usw.),<br>Limonaden, Säfte, Malzbier<br>Zucker, Traubenzucker,<br>Fruchtzucker, Streusüßen,<br>Sorbit, Honig, Konfitüre, Gelee<br>u. Ä.<br>Eis, Schokolade und<br>Erzeugnisse mit nicht<br>definiertem Energiegehalt,<br>Nougat, Marzipan<br>Würz- und Grillsoßen, Ketchup,<br>u.a. zuckerhaltige<br>Gewürzzubereitungen,<br>Fertigsalatsoßen|
+|*** Getreide und**
+**Getreideerzeugnisse**
+alle Sorten und Produkte
+ **bevorzugt Vollkorn**, Nu-
+deln ohne Ei
+*** Brot und**
+**Backwaren**
+alle handelsüblichen Brote,
+Brötchen, Knäckebrot etc.,
+möglichst Vollkornerzeugnisse
+*** Kartoffeln**
+ **in fettarmer Zubereitung**
+(Pell-, Folien- und Salzkartoffeln,
+Kartoffelbrei ohne Fett)
+**Gemüse und**
+**Salate**
+ **alle S**
+* Gemüs
+, * Rote Beete,
+* Schoten
+*** Hülsenfrüchte**
+Erbsen, Linsen, Bohnen
+Nach individ. Glykämiefaktor
+*** Obst**
+ **alle Sorten**
+*** Nüsse und Samen**
+Kastanien
+**Getränke**
+ **energiefrei**
+alle Sorten Tee, Mineralwasser,
+Malzkaffee („Getreide-
+kaffee“), Bohnenkaffee
+**Süßungsmittel**
+Zuckerersatzstoffe (Süßstoffe)
+*** Süßwaren**
+* Diätkonfitüre,
+* Diäterzeugnisse (mit
+Vorbehalt)
+**Gewürze und**
+**Kräuter**
+frisch, tiefgekühlt und
+getrocknet alle||Sorten und Produkte, die
+geschält, poliert o.ä. aufbereitet
+wurden
+Produkte aus hellen Mehlen,
+handelsübliche Kuchen und
+Gebäcke ohne
+Nährstoffangaben
+Kartoffelzubereitungen mit Fett
+und/oder schwer
+einschätzbarem Energiegehalt
+(Pommes frites, Puffer,
+Kroketten, Chips, Kartoffelsalat
+mit Mayonnaise)
+Fertiggerichte, fettreiche
+Zubereitungen
+Frisch-, Tiefkühl- oder
+Dosenware gezuckert
+Nüsse sind sehr fettreich!
+Sonnenblumenkerne, Sesam,
+Mohn
+Alkoholische Getränke (Wein,
+Bier, Sekt, Spirituosen usw.),
+Limonaden, Säfte, Malzbier
+Zucker, Traubenzucker,
+Fruchtzucker, Streusüßen,
+Sorbit, Honig, Konfitüre, Gelee
+u. Ä.
+Eis, Schokolade und
+Erzeugnisse mit nicht
+definiertem Energiegehalt,
+Nougat, Marzipan
+Würz- und Grillsoßen, Ketchup,
+u.a. zuckerhaltige
+Gewürzzubereitungen,
+Fertigsalatsoßen|
 
 **Wichtig ist, die Lebensmittel zu wiegen.** Bei längerem Umgang mit Lebensmitteln entsteht Augenmaß. (In Intervallen sollten Augenmaß-Mengen durch Nachwiegen kontrolliert werden). 
 
-|**Tabelle 13. Kohlenhydrataustauschtabelle**<br>1 BE/KE = 10–12gKohlenhydrate(angelehnt an Diabetes-Forschungs-Instituts Düsseldorf)|**Tabelle 13. Kohlenhydrataustauschtabelle**<br>1 BE/KE = 10–12gKohlenhydrate(angelehnt an Diabetes-Forschungs-Instituts Düsseldorf)|
+|**Tabelle 13. Kohlenhydrataustauschtabelle**
+1 BE/KE = 10–12gKohlenhydrate(angelehnt an Diabetes-Forschungs-Instituts Düsseldorf)|**Tabelle 13. Kohlenhydrataustauschtabelle**
+1 BE/KE = 10–12gKohlenhydrate(angelehnt an Diabetes-Forschungs-Instituts Düsseldorf)|
 |---|---|
 |**1 BE/KE des Lebensmittels**|**entspricht in**|
 ||**Gramm**|
 |||
 |**Brot**||
-|**Dunkle Sorten:**Vollkornbrot, Graubrot, Mischbrot, Leinsamenbrot,<br>Grahambrot, Roggenbrot, Kommissbrot, Vollkornbrötchen, Schusterjungen u. Ä.<br>**Helle Sorten:**Weißbrot, Brötchen, Toastbrot<br>Knäckebrot<br>Zwieback|**30**<br>**25**<br>**20**<br>**15**|
+|**Dunkle Sorten:**Vollkornbrot, Graubrot, Mischbrot, Leinsamenbrot,
+Grahambrot, Roggenbrot, Kommissbrot, Vollkornbrötchen, Schusterjungen u. Ä.
+**Helle Sorten:**Weißbrot, Brötchen, Toastbrot
+Knäckebrot
+Zwieback|**30**
+**25**
+**20**
+**15**|
 |**Getreideerzeugnisse** (Körner,Mehl,Flocken...)||
-|**Vollkorn:**Reis,<br>, Roggen, Weizen, Dinkel, Grünkern (roh), Buchweizen, Hirse<br>**20**<br>(gegart x 3 = 60)<br>**Vollkorn:**Mehl, Grütze, Graupen, Flocken<br>Vollkornnudeln<br>**20**<br>**20**<br>(gegart x 3 = 60)<br>**Helle Produkte**(ohne Schalen und Keim): Weizengrütze (Bulgur/Couscous), Mehl<br>(Type 405/550),<br>Reis (Milch-, Patna-, Parboiled)<br>Stärke (Weizen-,<br>, Reis- u.a.), Puddingpulver, Sago, Glasnudeln<br>Teigwaren (Nude<br>**15**<br>**15**<br>(gegart x 3 = 45)<br>**15**<br>**15**<br>(gegart x 3 = 45)<br>Paniermehl/Semmelmehl<br>**15**<br>**Teig ohne Zuckerzusatz, roh:**Blätterteig, Hefeteig (Pizzateig)<br>**30**<br>Kräcker, Salzletten, Salzbrezeln<br>**15**<br>bis zu 20g am Tag ohne Berechnung der KH:<br>Kakaopulver (entölt); Leinsamen, Weizenkleie, Vollsoja-Mehl||
+|**Vollkorn:**Reis,
+, Roggen, Weizen, Dinkel, Grünkern (roh), Buchweizen, Hirse
+**20**
+(gegart x 3 = 60)
+**Vollkorn:**Mehl, Grütze, Graupen, Flocken
+Vollkornnudeln
+**20**
+**20**
+(gegart x 3 = 60)
+**Helle Produkte**(ohne Schalen und Keim): Weizengrütze (Bulgur/Couscous), Mehl
+(Type 405/550),
+Reis (Milch-, Patna-, Parboiled)
+Stärke (Weizen-,
+, Reis- u.a.), Puddingpulver, Sago, Glasnudeln
+Teigwaren (Nude
+**15**
+**15**
+(gegart x 3 = 45)
+**15**
+**15**
+(gegart x 3 = 45)
+Paniermehl/Semmelmehl
+**15**
+**Teig ohne Zuckerzusatz, roh:**Blätterteig, Hefeteig (Pizzateig)
+**30**
+Kräcker, Salzletten, Salzbrezeln
+**15**
+bis zu 20g am Tag ohne Berechnung der KH:
+Kakaopulver (entölt); Leinsamen, Weizenkleie, Vollsoja-Mehl||
 |**Kartoffeln**||
-|roh, gekocht, Salzkartoffeln, Pellkartoffeln<br>Kartoffelbrei (mit Wasser ohne Fett zubereitet)<br>**Instant-Kartoffeln**(Pulver/Flocken für Brei, Knödel, Puffer )<br>nach Anweisung zubereitet: Püree,<br>Knödel,<br>Kroketten,<br>Puffer.<br>Pommes frites<br>Kartoffelchips(u. Ä.)|**80**<br>**100**<br>**15**<br>**100**<br>**50**<br>**40**<br>**50**<br>**40**<br>**30**|
+|roh, gekocht, Salzkartoffeln, Pellkartoffeln
+Kartoffelbrei (mit Wasser ohne Fett zubereitet)
+**Instant-Kartoffeln**(Pulver/Flocken für Brei, Knödel, Puffer )
+nach Anweisung zubereitet: Püree,
+Knödel,
+Kroketten,
+Puffer.
+Pommes frites
+Kartoffelchips(u. Ä.)|**80**
+**100**
+**15**
+**100**
+**50**
+**40**
+**50**
+**40**
+**30**|
 |**Gemüse**||
 
 **Tabelle 13. Kohlenhydrataustauschtabelle** 1 BE/KE = 10–12 g Kohlenhydrate (angelehnt an Diabetes-Forschungs-Instituts Düsseldorf) **1 BE/KE des Lebensmittels entspricht in Gramm** 
@@ -508,15 +1008,35 @@ Frisch, tiefgekühlt oder gegart ohne Zuckerzusatz – essbarer Anteil, d.h. ohn
 |Erdbeere, Himbeere, Holunderbeere|**160**||
 |**Milch und Milcherzeugnisse**|||
 
-|**Tabelle 13. Kohlenhydrataustauschtabelle**<br>1 BE/KE = 10–12gKohlenhydrate(angelehnt an Diabetes-Forschungs-Instituts Düsseldorf)|**Tabelle 13. Kohlenhydrataustauschtabelle**<br>1 BE/KE = 10–12gKohlenhydrate(angelehnt an Diabetes-Forschungs-Instituts Düsseldorf)|
+|**Tabelle 13. Kohlenhydrataustauschtabelle**
+1 BE/KE = 10–12gKohlenhydrate(angelehnt an Diabetes-Forschungs-Instituts Düsseldorf)|**Tabelle 13. Kohlenhydrataustauschtabelle**
+1 BE/KE = 10–12gKohlenhydrate(angelehnt an Diabetes-Forschungs-Instituts Düsseldorf)|
 |---|---|
 |**1 BE/KE des Lebensmittels**|**entspricht in**|
 ||**Gramm**|
-|Vollmilch und Vollmilcherzeugnisse: 3,5–3,9% Fett:<br>Milch, Joghurt, Dickmilch, Sauermilch, Kefir<br>Fettarme Milch und Milcherzeugnisse: 1,5% Fett:<br>Milch, Joghurt, Dickmilch, Sauermilch, Kefir<br>Magermilch und Magermilcherzeugnisse: max. 0,5% Fett:<br>Magermilch, Buttermilch, Magerjoghurt, Magerdickmilch|**250**<br>**250**<br>**250**|
+|Vollmilch und Vollmilcherzeugnisse: 3,5–3,9% Fett:
+Milch, Joghurt, Dickmilch, Sauermilch, Kefir
+Fettarme Milch und Milcherzeugnisse: 1,5% Fett:
+Milch, Joghurt, Dickmilch, Sauermilch, Kefir
+Magermilch und Magermilcherzeugnisse: max. 0,5% Fett:
+Magermilch, Buttermilch, Magerjoghurt, Magerdickmilch|**250**
+**250**
+**250**|
 |**Molke**|**250**|
-|Kondensmilch, 4% Fett<br>Kondensmilch, 7% Fett<br>Kondensmilch, 10% Fett|**100**<br>**120**<br>**90**|
+|Kondensmilch, 4% Fett
+Kondensmilch, 7% Fett
+Kondensmilch, 10% Fett|**100**
+**120**
+**90**|
 |**Nüsse**(im Durchschnitt)|**40-60**|
-|Edelkastanien (Esskastanien), Maronen<br>Cashew-Kerne<br>Erdnüsse, Haselnüsse, Kokosnüsse, Kokosflocken, Kürbiskerne, Leinsamen,<br>Mandeln, Mohn, Paranüsse, Pinienkerne, Pistazien, Sesamsamen, Walnüsse,<br>Sonnenblumenkerne<br>bis zu**50 g**am Tag können**ohne BE/KE**-Anrechnung verzehrt werden|**30**<br>**40**<br>**60**|
+|Edelkastanien (Esskastanien), Maronen
+Cashew-Kerne
+Erdnüsse, Haselnüsse, Kokosnüsse, Kokosflocken, Kürbiskerne, Leinsamen,
+Mandeln, Mohn, Paranüsse, Pinienkerne, Pistazien, Sesamsamen, Walnüsse,
+Sonnenblumenkerne
+bis zu**50 g**am Tag können**ohne BE/KE**-Anrechnung verzehrt werden|**30**
+**40**
+**60**|
 
 **Quark und Käse werden nicht nach BE/KE berechnet!** Der Kohlenhydratgehalt ist so gering, dass bei den üblichen Verzehrmengen keine Berechnung des Kohlenhydratgehaltes nötig ist. 
 
@@ -569,21 +1089,59 @@ Es wird deshalb dringend empfohlen, für diese Kostverordnungen die Diätassiste
 |**Tabelle 14. Eiweißdefinierte Diät**|**Tabelle 14. Eiweißdefinierte Diät**|**Tabelle 14. Eiweißdefinierte Diät**|**Tabelle 14. Eiweißdefinierte Diät**|**Tabelle 14. Eiweißdefinierte Diät**|**Tabelle 14. Eiweißdefinierte Diät**|**Tabelle 14. Eiweißdefinierte Diät**|**Tabelle 14. Eiweißdefinierte Diät**|**Tabelle 14. Eiweißdefinierte Diät**|**Tabelle 14. Eiweißdefinierte Diät**|**Tabelle 14. Eiweißdefinierte Diät**|**Tabelle 14. Eiweißdefinierte Diät**|**Tabelle 14. Eiweißdefinierte Diät**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 ||||||||||||||
-|Eiweißdefinierte Diät:<br>Eiweißdefinierte Diät: Diabetes mellitus||||Sollgewicht, Energie-und Eiweißmenge<br>Sollgewicht, Energie-und Eiweißmenge;||||||BE-/KE-Menge|||
+|Eiweißdefinierte Diät:
+Eiweißdefinierte Diät: Diabetes mellitus||||Sollgewicht, Energie-und Eiweißmenge
+Sollgewicht, Energie-und Eiweißmenge;||||||BE-/KE-Menge|||
 ||||||||||||||
-|Körpergröße<br>Sollgewicht<br>cm<br>kg||Energiebedarf<br>**30 kcal**<br>**35 kcal**<br>(130 kJ) (150 kJ)||**Eiweiß**<br>**0,6 g**|<br>BE/KE<br>30<br>kcal<br>35<br>kcal||**Eiweiß**<br>**0,8 g**|<br>BE/KE<br>30<br>kcal<br>35<br>kcal||**Eiweiß**<br>**1,3g**|<br>BE/KE<br>30<br>kcal<br>35<br>kcal||
+|Körpergröße
+Sollgewicht
+cm
+kg||Energiebedarf
+**30 kcal**
+**35 kcal**
+(130 kJ) (150 kJ)||**Eiweiß**
+**0,6 g**|
+BE/KE
+30
+kcal
+35
+kcal||**Eiweiß**
+**0,8 g**|
+BE/KE
+30
+kcal
+35
+kcal||**Eiweiß**
+**1,3g**|
+BE/KE
+30
+kcal
+35
+kcal||
 |**150**|**50**|**1500**|**1.800**|**30**|19|**23**|**40**|18|**22**|**65**|16|**19**|
 ||48-52 kg|(6.300)|(7.500)||||||||||
-|155|55<br>53-58 kg|1700<br>(7.200)|2.000<br>(8.500)|30|||40|||70|||
+|155|55
+53-58 kg|1700
+(7.200)|2.000
+(8.500)|30|||40|||70|||
 |**160**|**60**|**1900**|**2.200**|**40**|23|**27**|**50**|22|**26**|**80**|19|**23**|
 ||56-61 kg|(7.800)|(9.000)||||||||||
-|165|65<br>59-65 kg|2000<br>(8500)|2.400<br>(9.800)|40|||50|||80|||
+|165|65
+59-65 kg|2000
+(8500)|2.400
+(9.800)|40|||50|||80|||
 |**170**|**70**|**2200**|**2.500**|**40**|27|**30**|**60**|26|**29**|**90**|23|**27**|
 ||64-70 kg|(9.100)|(10.000)||||||||||
-|175|75<br>67-74 kg|2400<br>(9.800)|2.600<br>(11.000)|50|||60|||100|||
+|175|75
+67-74 kg|2400
+(9.800)|2.600
+(11.000)|50|||60|||100|||
 |**180**|**80**|**2500**|**2.900**|**50**|30|**35**|**60**|30|**35**|**110**|27|**31**|
 ||71-78 kg|(10.400)|(12.000)||||||||||
-|185|85<br>75-82 kg|2700<br>(11.100)|3.000<br>(12.700)|50|||70|||110|||
+|185|85
+75-82 kg|2700
+(11.100)|3.000
+(12.700)|50|||70|||110|||
 |**190**|**90**|**2800**|**3.200**|**50**|35|**39**|**70**|34|**38**|**120**|31|**36**|
 ||80-87 kg|(11.700)|(13.500)||||||||||
 
@@ -634,31 +1192,102 @@ Flüssigkeit nach Bedarf, ggf. Trinkmenge definiert
 
 |**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|Mahlzeiten|Lebensmittel|6.500kJ<br>1.600kcal<br>20 BE/KE<br>**30g Eiweiß**||7.500kJ<br>1.800kcal<br>23 BE/KE<br>**40g Eiweiß**||9.000kJ<br>2.200kcal<br>27 BE/KE<br>**40g Eiweiß**||10.000kJ<br>2.500kcal<br>30 BE/KE<br>**50g Eiweiß**||12.000kJ<br>2.900kcal<br>37 BE/KE<br>**50g Eiweiß**||
+|Mahlzeiten|Lebensmittel|6.500kJ
+1.600kcal
+20 BE/KE
+**30g Eiweiß**||7.500kJ
+1.800kcal
+23 BE/KE
+**40g Eiweiß**||9.000kJ
+2.200kcal
+27 BE/KE
+**40g Eiweiß**||10.000kJ
+2.500kcal
+30 BE/KE
+**50g Eiweiß**||12.000kJ
+2.900kcal
+37 BE/KE
+**50g Eiweiß**||
 |||g|BE/KE|g|BE/KE|g|BE/KE|g|BE/KE|g|BE/KE|
-|1. Frühstück|Weizenmischbrot<br>E-armes Brot<br>Diätmargarine<br>Gemüse<br>Konfitüre|20<br>50|4|20<br>50|4|20<br>50|4|20<br>50|5|30<br>100||
+|1. Frühstück|Weizenmischbrot
+E-armes Brot
+Diätmargarine
+Gemüse
+Konfitüre|20
+50|4|20
+50|4|20
+50|4|20
+50|5|30
+100||
 ||||||||||||4|
 ||||||||||||2|
 |||||||||||||
 ||||1||1||2||2||2|
-|2. Frühstück|Obst / Dunstkompott<br>Maltodextrin 19<br>Waffeln, E-arm<br>Diätmargarine|10|1|10|1|10|1|10|1|10|2|
+|2. Frühstück|Obst / Dunstkompott
+Maltodextrin 19
+Waffeln, E-arm
+Diätmargarine|10|1|10|1|10|1|10|1|10|2|
 ||||||1||1||1||1|
 ||||1||1||1||1||1|
 |||||||||||||
-|Mittag|Saft (z.B. Orangensaft)<br>Hühnerei (Vollei)<br>Gemüse<br>Pflanzenöl (zum Kochen)<br>Stärke (zum Kochen)<br>Kartoffeln<br>Obst / Dunstkompott<br>Stärke (für Nachspeise)<br>Sahne, 30%Fett|40<br>200<br>5||45<br>200<br>10||45<br>200<br>15||45<br>200<br>10<br>10||40<br>200<br>10<br>10|2|
+|Mittag|Saft (z.B. Orangensaft)
+Hühnerei (Vollei)
+Gemüse
+Pflanzenöl (zum Kochen)
+Stärke (zum Kochen)
+Kartoffeln
+Obst / Dunstkompott
+Stärke (für Nachspeise)
+Sahne, 30%Fett|40
+200
+5||45
+200
+10||45
+200
+15||45
+200
+10
+10||40
+200
+10
+10|2|
 |||||||||||||
 ||||||||||1/2||1/2|
 ||||4||4||4||4||4|
 ||||1||1||1||1||1|
 ||||||||||1/2||1/2|
 |||||||||||||
-|Nachmittag|E-armes Brot<br>Brötchen<br>Diätmargarine<br>Konfitüre<br>Obst / Dunstkompott|10<br>g|1|10<br>g||10<br>g||10<br>g||10<br>g||
+|Nachmittag|E-armes Brot
+Brötchen
+Diätmargarine
+Konfitüre
+Obst / Dunstkompott|10
+g|1|10
+g||10
+g||10
+g||10
+g||
 ||||||2||2||2||2|
 |||||||||||||
 ||||1||1||1||1||1|
 ||||||||1||1||2|
 ||||BE/KE||BE/KE||BE/KE||BE/KE||BE/KE|
-|Abend|E-armes Brot<br>Vollkornbrot<br>Diät-Halbfettmargarine<br>Käse, 50% Fett (z.B. Brie)<br>Käse, 45% F (z.B. Emmentaler)<br>Gemüse|20<br>25<br>100|5|20<br>35<br>100|5|20<br>35<br>150|6|30<br>35<br>150|3|40<br>35<br>200|4|
+|Abend|E-armes Brot
+Vollkornbrot
+Diät-Halbfettmargarine
+Käse, 50% Fett (z.B. Brie)
+Käse, 45% F (z.B. Emmentaler)
+Gemüse|20
+25
+100|5|20
+35
+100|5|20
+35
+150|6|30
+35
+150|3|40
+35
+200|4|
 ||||||||||3||3|
 |||||||||||||
 
@@ -666,9 +1295,28 @@ Flüssigkeit nach Bedarf, ggf. Trinkmenge definiert
 
 |**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|**Tabelle 15. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG (einschl. Diabetes-Diät)**|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|Mahlzeiten|Lebensmittel|6.500kJ<br>1.600kcal<br>20 BE/KE<br>**30g Eiweiß**||7.500kJ<br>1.800kcal<br>23 BE/KE<br>**40g Eiweiß**||9.000kJ<br>2.200kcal<br>27 BE/KE<br>**40g Eiweiß**||10.000kJ<br>2.500kcal<br>30 BE/KE<br>**50g Eiweiß**||12.000kJ<br>2.900kcal<br>37 BE/KE<br>**50g Eiweiß**||
+|Mahlzeiten|Lebensmittel|6.500kJ
+1.600kcal
+20 BE/KE
+**30g Eiweiß**||7.500kJ
+1.800kcal
+23 BE/KE
+**40g Eiweiß**||9.000kJ
+2.200kcal
+27 BE/KE
+**40g Eiweiß**||10.000kJ
+2.500kcal
+30 BE/KE
+**50g Eiweiß**||12.000kJ
+2.900kcal
+37 BE/KE
+**50g Eiweiß**||
 |||g|BE/KE|g|BE/KE|g|BE/KE|g|BE/KE|g|BE/KE|
-|Spätmahlzeit|Obst / Dunstkompott<br>Waffeln, eiweißarm<br>Sahne, 30% Fett<br>Getreideerzeugnis (z.B.<br>Milchreis)||1||1||2|40|1 1/2|40|1 1/2|
+|Spätmahlzeit|Obst / Dunstkompott
+Waffeln, eiweißarm
+Sahne, 30% Fett
+Getreideerzeugnis (z.B.
+Milchreis)||1||1||2|40|1 1/2|40|1 1/2|
 ||||||1||1||1||1|
 |||||||||||||
 ||||||||||1 1/2||1 1/2|
@@ -682,23 +1330,154 @@ Die Diätetik muss sich an den besonderen Bedürfnissen der Patienten orientiere
 
 |**Tabelle 16. Lebensmittelübersicht für eiweißdefinierte Diät 0,6g Eiweißpro kg KG**|**Tabelle 16. Lebensmittelübersicht für eiweißdefinierte Diät 0,6g Eiweißpro kg KG**|**Tabelle 16. Lebensmittelübersicht für eiweißdefinierte Diät 0,6g Eiweißpro kg KG**|**Tabelle 16. Lebensmittelübersicht für eiweißdefinierte Diät 0,6g Eiweißpro kg KG**|**Tabelle 16. Lebensmittelübersicht für eiweißdefinierte Diät 0,6g Eiweißpro kg KG**|**Tabelle 16. Lebensmittelübersicht für eiweißdefinierte Diät 0,6g Eiweißpro kg KG**||
 |---|---|---|---|---|---|---|
-|Mahlzeiten|Lebensmittel|6.500kJ<br>1.600kcal<br>**30g Eiweiß**|7.500kJ<br>1.800kcal<br>**40g Eiweiß**|9.000kJ<br>2.200kcal<br>**40g Eiweiß**|10.000kJ<br>2.500kcal<br>**50g Eiweiß**|12.000kJ<br>2.900kcal<br>**50g Eiweiß**|
+|Mahlzeiten|Lebensmittel|6.500kJ
+1.600kcal
+**30g Eiweiß**|7.500kJ
+1.800kcal
+**40g Eiweiß**|9.000kJ
+2.200kcal
+**40g Eiweiß**|10.000kJ
+2.500kcal
+**50g Eiweiß**|12.000kJ
+2.900kcal
+**50g Eiweiß**|
 |||g|g|g|g|g|
-|1. Frühstück|Weizenmischbrot<br>E-armes Brot<br>Diätmargarine<br>Gemüse<br>Konfitüre (Portiona25g)|100<br>20<br>50<br>25|100<br>20<br>50<br>25|100<br>20<br>50<br>50|125<br>20<br>50<br>50|100<br>20<br>100<br>50|
-|2. Frühstück|Obst / Kompott<br>Maltodextrin 19<br>Waffeln, E-arm<br>Diätmargarine|150|150<br>10|150<br>10<br>10<br>10|150<br>10|150<br>10|
+|1. Frühstück|Weizenmischbrot
+E-armes Brot
+Diätmargarine
+Gemüse
+Konfitüre (Portiona25g)|100
+20
+50
+25|100
+20
+50
+25|100
+20
+50
+50|125
+20
+50
+50|100
+20
+100
+50|
+|2. Frühstück|Obst / Kompott
+Maltodextrin 19
+Waffeln, E-arm
+Diätmargarine|150|150
+10|150
+10
+10
+10|150
+10|150
+10|
 ||||||||
-|Mittag|Saft (z.B. Orangensaft)<br>Hühnerei (Vollei)|40|45|45|45|200<br>40|
+|Mittag|Saft (z.B. Orangensaft)
+Hühnerei (Vollei)|40|45|45|45|200
+40|
 
 **Tabelle 16. Lebensmittelübersicht für eiweißdefinierte Diät 0,6 g Eiweiß pro kg KG** 
 
 |**Tabelle 16. Lebensmittelübersicht für eiweißdefinierte Diät 0,6g Eiweißpro kg KG**|**Tabelle 16. Lebensmittelübersicht für eiweißdefinierte Diät 0,6g Eiweißpro kg KG**|**Tabelle 16. Lebensmittelübersicht für eiweißdefinierte Diät 0,6g Eiweißpro kg KG**|**Tabelle 16. Lebensmittelübersicht für eiweißdefinierte Diät 0,6g Eiweißpro kg KG**|**Tabelle 16. Lebensmittelübersicht für eiweißdefinierte Diät 0,6g Eiweißpro kg KG**|**Tabelle 16. Lebensmittelübersicht für eiweißdefinierte Diät 0,6g Eiweißpro kg KG**|**Tabelle 16. Lebensmittelübersicht für eiweißdefinierte Diät 0,6g Eiweißpro kg KG**|
 |---|---|---|---|---|---|---|
-|Mahlzeiten|Lebensmittel|6.500kJ<br>1.600kcal<br>**30g Eiweiß**|7.500kJ<br>1.800kcal<br>**40g Eiweiß**|9.000kJ<br>2.200kcal<br>**40g Eiweiß**|10.000kJ<br>2.500kcal<br>**50g Eiweiß**|12.000kJ<br>2.900kcal<br>**50g Eiweiß**|
+|Mahlzeiten|Lebensmittel|6.500kJ
+1.600kcal
+**30g Eiweiß**|7.500kJ
+1.800kcal
+**40g Eiweiß**|9.000kJ
+2.200kcal
+**40g Eiweiß**|10.000kJ
+2.500kcal
+**50g Eiweiß**|12.000kJ
+2.900kcal
+**50g Eiweiß**|
 |||g|g|g|g|g|
-|Nachmittag|Gemüse<br>Pflanzenöl (zum Kochen)<br>Stärke (zum Kochen)<br>Kartoffeln<br>Obst / Kompott<br>Maltodextrin 19<br>Stärke (für Nachspeise)<br>Sahne, 30% Fett<br>Zucker<br>E-armes Brot<br>Brötchen<br>Diät-Halbfettmargarine<br>Konfitüre (Portion a 25g)<br>Obst /Kompott|200<br>10<br>300<br>100|200<br>15<br>300<br>100|200<br>15<br>300<br>100|200<br>15<br>5<br>300<br>125|200<br>20<br>5<br>300<br>125<br>5<br>10<br>10<br>5|
-|||20<br>10<br>25|50<br>10<br>25|50<br>10<br>25<br>100|50<br>10<br>25<br>125|50<br>10<br>25<br>200|
-|Abend|E-armes Brot<br>Vollkornbrot<br>Diätmargarine<br>Käse, 50%F (z.B. Brie)<br>Käse, 45%F (z.B. Emmentaler)<br>Gemüse|100<br>20<br>25<br>100|100<br>20<br>35<br>100|120<br>20<br>35<br>150|60<br>90<br>30<br>35<br>150|80<br>90<br>40<br>35<br>200|
-|Spätmahlzeit|Obst / Kompott<br>Sahne, 30% Fett<br>Getreideerzeugnis (z.B.<br>Milchreis)<br>Maltodextrin 19<br>Zucker|100|100|200|150<br>40<br>25<br>5|150<br>40<br>25<br>10<br>5|
+|Nachmittag|Gemüse
+Pflanzenöl (zum Kochen)
+Stärke (zum Kochen)
+Kartoffeln
+Obst / Kompott
+Maltodextrin 19
+Stärke (für Nachspeise)
+Sahne, 30% Fett
+Zucker
+E-armes Brot
+Brötchen
+Diät-Halbfettmargarine
+Konfitüre (Portion a 25g)
+Obst /Kompott|200
+10
+300
+100|200
+15
+300
+100|200
+15
+300
+100|200
+15
+5
+300
+125|200
+20
+5
+300
+125
+5
+10
+10
+5|
+|||20
+10
+25|50
+10
+25|50
+10
+25
+100|50
+10
+25
+125|50
+10
+25
+200|
+|Abend|E-armes Brot
+Vollkornbrot
+Diätmargarine
+Käse, 50%F (z.B. Brie)
+Käse, 45%F (z.B. Emmentaler)
+Gemüse|100
+20
+25
+100|100
+20
+35
+100|120
+20
+35
+150|60
+90
+30
+35
+150|80
+90
+40
+35
+200|
+|Spätmahlzeit|Obst / Kompott
+Sahne, 30% Fett
+Getreideerzeugnis (z.B.
+Milchreis)
+Maltodextrin 19
+Zucker|100|100|200|150
+40
+25
+5|150
+40
+25
+10
+5|
 
 **Anmerkung** : Die tierischen Eiweißträger können nur in Absprache mit der Diätassistenz ausgetauscht werden. Die bedarfsdeckende Zufuhr der essentiellen Aminosäuren muss gewährleistet sein. Das Speisenangebot der Küche sollte aus einem Speisenplan über mind. 14 Tage ersichtlich sein. Die Diätetik muss sich an den besonderen Bedürfnissen der Patienten orientieren (Schwerstkranke sind oft appetitlos). 
 
@@ -712,7 +1491,8 @@ Die Diätetik muss sich an den besonderen Bedürfnissen der Patienten orientiere
 
 |Energiemenge|Energiemenge|Eiweiß|Eiweiß|Fett|Kohlenhydrate *|Kohlenhydrate *|
 |---|---|---|---|---|---|---|
-|**kcal**|kJ|je kg KG|gesamt||nur bei Diab. mell<br>|BE/KE|
+|**kcal**|kJ|je kg KG|gesamt||nur bei Diab. mell
+|BE/KE|
 |**1.600**|6.500|**0,8g**|35g|60g|210g|19|
 |**1.800**|7.500|**0,8g**|40g|70g|240g|22|
 |**2.200**|9.000|**0,8g**|50g|80g|290g|26|
@@ -730,37 +1510,146 @@ Bei dieser Kostverordnung sollte immer die Diätassistenz hinzugezogen werden.
 
 |**Tabelle 17. Lebensmittelübersicht bei Diabetes-Diät / eiweißdefinierte Diät 0,8 g Eiweiß pro kg KG**|**Tabelle 17. Lebensmittelübersicht bei Diabetes-Diät / eiweißdefinierte Diät 0,8 g Eiweiß pro kg KG**|**Tabelle 17. Lebensmittelübersicht bei Diabetes-Diät / eiweißdefinierte Diät 0,8 g Eiweiß pro kg KG**|**Tabelle 17. Lebensmittelübersicht bei Diabetes-Diät / eiweißdefinierte Diät 0,8 g Eiweiß pro kg KG**|**Tabelle 17. Lebensmittelübersicht bei Diabetes-Diät / eiweißdefinierte Diät 0,8 g Eiweiß pro kg KG**|**Tabelle 17. Lebensmittelübersicht bei Diabetes-Diät / eiweißdefinierte Diät 0,8 g Eiweiß pro kg KG**|**Tabelle 17. Lebensmittelübersicht bei Diabetes-Diät / eiweißdefinierte Diät 0,8 g Eiweiß pro kg KG**|**Tabelle 17. Lebensmittelübersicht bei Diabetes-Diät / eiweißdefinierte Diät 0,8 g Eiweiß pro kg KG**|**Tabelle 17. Lebensmittelübersicht bei Diabetes-Diät / eiweißdefinierte Diät 0,8 g Eiweiß pro kg KG**|**Tabelle 17. Lebensmittelübersicht bei Diabetes-Diät / eiweißdefinierte Diät 0,8 g Eiweiß pro kg KG**|**Tabelle 17. Lebensmittelübersicht bei Diabetes-Diät / eiweißdefinierte Diät 0,8 g Eiweiß pro kg KG**|**Tabelle 17. Lebensmittelübersicht bei Diabetes-Diät / eiweißdefinierte Diät 0,8 g Eiweiß pro kg KG**|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|Mahlzeiten|Lebensmittel|6.500kJ<br>1.600kcal<br>19 BE/KE<br>**40g Eiweiß**||7.500kJ<br>1.800kcal<br>22 BE/KE<br>**50g Eiweiß**||9.000kJ<br>2.200kcal<br>26 BE/KE<br>**60g Eiweiß**||10.000kJ<br>2.500kcal<br>29 BE/KE<br>**60g Eiweiß**||12.000kJ<br>2.900kcal<br>35 BE/KE<br>**70g Eiweiß**||
+|Mahlzeiten|Lebensmittel|6.500kJ
+1.600kcal
+19 BE/KE
+**40g Eiweiß**||7.500kJ
+1.800kcal
+22 BE/KE
+**50g Eiweiß**||9.000kJ
+2.200kcal
+26 BE/KE
+**60g Eiweiß**||10.000kJ
+2.500kcal
+29 BE/KE
+**60g Eiweiß**||12.000kJ
+2.900kcal
+35 BE/KE
+**70g Eiweiß**||
 |||g|BE/KE|g|BE/KE|g|BE/KE|g|BE/KE|g|BE/KE|
-|1. Frühstück|Weizenmischbrot<br>Diätmargarine<br>Speisequark, 40% Fett<br>Gemüse<br>Konfitüre|20<br>50|4|20<br>50|4|20<br>50<br>50|4|20<br>50<br>50|5|30<br>50<br>100|6|
+|1. Frühstück|Weizenmischbrot
+Diätmargarine
+Speisequark, 40% Fett
+Gemüse
+Konfitüre|20
+50|4|20
+50|4|20
+50
+50|4|20
+50
+50|5|30
+50
+100|6|
 |||||||||||||
 ||||1||1||2||2||2|
-|2. Frühstück|Obst / Dunstkompott<br>Maltodextrin 19<br>Weißbrot<br>Diätmargarine<br>Diät-Halbfettmargarine||1||1|10|1|10|1|10|2|
+|2. Frühstück|Obst / Dunstkompott
+Maltodextrin 19
+Weißbrot
+Diätmargarine
+Diät-Halbfettmargarine||1||1|10|1|10|1|10|2|
 ||||||1||1||1||1|
 ||||||||1||1||1|
 |||||||||||||
-|Mittag|Saft (z.B. Orangensaft)<br>Hühnerei (Vollei)<br>Gemüse<br>Pflanzenöl (zum Kochen)<br>Stärke (zum Kochen)<br>Kartoffeln<br>Obst / Dunstkompott<br>Stärke (für Nachspeise)<br>Sahne, 30%Fett|40<br>200<br>10||45<br>200<br>15||50<br>200<br>10||50<br>200<br>10<br>10||50<br>200<br>10<br>10|2|
+|Mittag|Saft (z.B. Orangensaft)
+Hühnerei (Vollei)
+Gemüse
+Pflanzenöl (zum Kochen)
+Stärke (zum Kochen)
+Kartoffeln
+Obst / Dunstkompott
+Stärke (für Nachspeise)
+Sahne, 30%Fett|40
+200
+10||45
+200
+15||50
+200
+10||50
+200
+10
+10||50
+200
+10
+10|2|
 |||||||||||||
 ||||||||||1/2||1/2|
 ||||4||4||4||4||4|
 ||||1||1||1||1||1|
 ||||||||||1/2||1/2|
 |||||||||||||
-|Nachmittag|Weißbrot<br>Brötchen<br>Diätmargarine<br>Konfitüre<br>Obst /Dunstkompott|10|1|10||10||10||10||
+|Nachmittag|Weißbrot
+Brötchen
+Diätmargarine
+Konfitüre
+Obst /Dunstkompott|10|1|10||10||10||10||
 ||||||2||2||2||2|
 |||||||||||||
 ||||1||1||1||1||1|
 ||||||||1||1||1|
-|Abend|Weizenmischbrot<br>Vollkornbrot<br>Weißbrot<br>E-armes Brot<br>Diät-Halbfettmargarine<br>Käse, 50% Fett (z.B. Brie)<br>Käse, 45% F (z.B. Emmentaler)<br>Gemüse|20<br>30<br>100|4|20<br>40<br>100|5|20<br>35<br>150|5|20<br>35<br>150||30<br>35<br>200||
+|Abend|Weizenmischbrot
+Vollkornbrot
+Weißbrot
+E-armes Brot
+Diät-Halbfettmargarine
+Käse, 50% Fett (z.B. Brie)
+Käse, 45% F (z.B. Emmentaler)
+Gemüse|20
+30
+100|4|20
+40
+100|5|20
+35
+150|5|20
+35
+150||30
+35
+200||
 ||||||||||3||3|
 ||||||||||||3|
 ||||||||||2|||
 |||||||||||||
 
-|Mahlzeiten|Lebensmittel|6.500kJ<br>1.600kcal<br>19 BE/KE<br>**40g Eiweiß**|6.500kJ<br>1.600kcal<br>19 BE/KE<br>**40g Eiweiß**|7.500kJ<br>1.800kcal<br>22 BE/KE<br>**50g Eiweiß**|7.500kJ<br>1.800kcal<br>22 BE/KE<br>**50g Eiweiß**|9.000kJ<br>2.200kcal<br>26 BE/KE<br>**60g Eiweiß**|9.000kJ<br>2.200kcal<br>26 BE/KE<br>**60g Eiweiß**|10.000kJ<br>2.500kcal<br>29 BE/KE<br>**60g Eiweiß**|10.000kJ<br>2.500kcal<br>29 BE/KE<br>**60g Eiweiß**|12.000kJ<br>2.900kcal<br>35 BE/KE<br>**70g Eiweiß**|12.000kJ<br>2.900kcal<br>35 BE/KE<br>**70g Eiweiß**|
+|Mahlzeiten|Lebensmittel|6.500kJ
+1.600kcal
+19 BE/KE
+**40g Eiweiß**|6.500kJ
+1.600kcal
+19 BE/KE
+**40g Eiweiß**|7.500kJ
+1.800kcal
+22 BE/KE
+**50g Eiweiß**|7.500kJ
+1.800kcal
+22 BE/KE
+**50g Eiweiß**|9.000kJ
+2.200kcal
+26 BE/KE
+**60g Eiweiß**|9.000kJ
+2.200kcal
+26 BE/KE
+**60g Eiweiß**|10.000kJ
+2.500kcal
+29 BE/KE
+**60g Eiweiß**|10.000kJ
+2.500kcal
+29 BE/KE
+**60g Eiweiß**|12.000kJ
+2.900kcal
+35 BE/KE
+**70g Eiweiß**|12.000kJ
+2.900kcal
+35 BE/KE
+**70g Eiweiß**|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |||g|BE/KE|g|BE/KE|g|BE/KE|g|BE/KE|g|BE/KE|
-|Spätmahlzeit|Obst / Dunstkompott<br>Weißbrot<br>Zwieback<br>Sahne, 30% Fett<br>Diät-Halbfettmargarine<br>Getreideerzeugnis (z.B. Milchreis)<br>Maltodextrin 19||2||2|10|2|40|1 1/2|40<br>10|1 1/2|
+|Spätmahlzeit|Obst / Dunstkompott
+Weißbrot
+Zwieback
+Sahne, 30% Fett
+Diät-Halbfettmargarine
+Getreideerzeugnis (z.B. Milchreis)
+Maltodextrin 19||2||2|10|2|40|1 1/2|40
+10|1 1/2|
 ||||||||1|||||
 ||||||||||1||1|
 |||||||||||||
@@ -783,7 +1672,8 @@ Verordnungsdauer: nach Bedarf oder zeitlich begrenzt
 
 |Energiemenge|Energiemenge|Eiweiß|Eiweiß|Fett|Kohlenhydrate*|Kohlenhydrate*|
 |---|---|---|---|---|---|---|
-|**kcal**|kJ|je kg KG|gesamt||nur bei Diab. mell<br>|BE/KE|
+|**kcal**|kJ|je kg KG|gesamt||nur bei Diab. mell
+|BE/KE|
 |**1.600**|6.500|**1,3g**|65g|60 g|200 g|17|
 |**1.800**|7.500|**1,3g**|80g|70 g|220 g|19|
 |**2.200**|9.000|**1,3g**|90g|80 g|260 g|23|
@@ -800,29 +1690,118 @@ Verordnungsdauer: nach Bedarf oder zeitlich begrenzt
 |**Tabelle 18. Lebensmittelübersicht / Diabetes-Diät, eiweißdefinierte Diät 1,3 g Eiweiß pro kg KG**|**Tabelle 18. Lebensmittelübersicht / Diabetes-Diät, eiweißdefinierte Diät 1,3 g Eiweiß pro kg KG**|**Tabelle 18. Lebensmittelübersicht / Diabetes-Diät, eiweißdefinierte Diät 1,3 g Eiweiß pro kg KG**|**Tabelle 18. Lebensmittelübersicht / Diabetes-Diät, eiweißdefinierte Diät 1,3 g Eiweiß pro kg KG**|**Tabelle 18. Lebensmittelübersicht / Diabetes-Diät, eiweißdefinierte Diät 1,3 g Eiweiß pro kg KG**|**Tabelle 18. Lebensmittelübersicht / Diabetes-Diät, eiweißdefinierte Diät 1,3 g Eiweiß pro kg KG**|**Tabelle 18. Lebensmittelübersicht / Diabetes-Diät, eiweißdefinierte Diät 1,3 g Eiweiß pro kg KG**|**Tabelle 18. Lebensmittelübersicht / Diabetes-Diät, eiweißdefinierte Diät 1,3 g Eiweiß pro kg KG**|**Tabelle 18. Lebensmittelübersicht / Diabetes-Diät, eiweißdefinierte Diät 1,3 g Eiweiß pro kg KG**|**Tabelle 18. Lebensmittelübersicht / Diabetes-Diät, eiweißdefinierte Diät 1,3 g Eiweiß pro kg KG**|**Tabelle 18. Lebensmittelübersicht / Diabetes-Diät, eiweißdefinierte Diät 1,3 g Eiweiß pro kg KG**|**Tabelle 18. Lebensmittelübersicht / Diabetes-Diät, eiweißdefinierte Diät 1,3 g Eiweiß pro kg KG**|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |||||||||||||
-|Mahlzeiten|Lebensmittel|6.500kJ<br>1.600kcal<br>17 BE/KE<br>**70g Eiweiß**||7.500kJ<br>1.800kcal<br>19 BE/KE<br>**80g Eiweiß**||9.000kJ<br>2.200kcal<br>23 BE/KE<br>**90g Eiweiß**||10.000kJ<br>2.500kcal<br>25 BE/KE<br>**100g Eiweiß**||12.000kJ<br>2.900kcal<br>31 BE/KE<br>**120g Eiweiß**||
+|Mahlzeiten|Lebensmittel|6.500kJ
+1.600kcal
+17 BE/KE
+**70g Eiweiß**||7.500kJ
+1.800kcal
+19 BE/KE
+**80g Eiweiß**||9.000kJ
+2.200kcal
+23 BE/KE
+**90g Eiweiß**||10.000kJ
+2.500kcal
+25 BE/KE
+**100g Eiweiß**||12.000kJ
+2.900kcal
+31 BE/KE
+**120g Eiweiß**||
 |||g|BE/KE|g|BE/KE|g|BE/KE|g|BE/KE|g|BE/KE|
-|1. Frühstück|Weizenmischbrot<br>Diätmargarine<br>Speisequark, mager<br>Käse, 30% Fett (z.B. Gouda)<br>Gemüse<br>Konfitüre|20<br>50<br>50|3|20<br>50<br>30<br>50|3|20<br>50<br>30<br>50|5|20<br>50<br>40<br>50|5|20<br>100<br>40<br>50|6|
+|1. Frühstück|Weizenmischbrot
+Diätmargarine
+Speisequark, mager
+Käse, 30% Fett (z.B. Gouda)
+Gemüse
+Konfitüre|20
+50
+50|3|20
+50
+30
+50|3|20
+50
+30
+50|5|20
+50
+40
+50|5|20
+100
+40
+50|6|
 |||||||||||||
 ||||1||1||1||1||1|
-|2. Frühstück|Obst / Dunstkompott<br>Zwieback<br>Diät-Halbfettmargarine||1||1|10|1|10|1|10|1|
+|2. Frühstück|Obst / Dunstkompott
+Zwieback
+Diät-Halbfettmargarine||1||1|10|1|10|1|10|1|
 ||||1||1||1||1||2|
 |||||||||||||
-|Mittag|Pflanzenöl (zum Kochen)<br>Fleisch, mager<br>Gemüse<br>Stärke (zum Kochen)<br>Reis<br>Obst / Dunstkompott<br>Sahne, 30% Fett<br>Stärke (für Nachspeise)<br>Maltodextrin 19|10<br>100<br>200||10<br>100<br>200||15<br>100<br>200||15<br>100<br>200||15<br>130<br>200<br>30||
+|Mittag|Pflanzenöl (zum Kochen)
+Fleisch, mager
+Gemüse
+Stärke (zum Kochen)
+Reis
+Obst / Dunstkompott
+Sahne, 30% Fett
+Stärke (für Nachspeise)
+Maltodextrin 19|10
+100
+200||10
+100
+200||15
+100
+200||15
+100
+200||15
+130
+200
+30||
 ||||||||||||1/2|
 ||||3||4||4||5||5|
 ||||1||1||1||1||1|
 |||||||||||||
 ||||||||||||1/2|
 ||||||||||||1|
-|Nachmittag<br>Abend|Weißbrot<br>Brötchen<br>Diät-Halbfettmargarine<br>Konfitüre<br>Weizenmischbrot<br>Diät-Halbfettmargarine<br>Diätmargarine<br>Käse, 30% F (z.B. Emmentaler)<br>Schinken (z.B. Kochschinken)<br>Gemüse<br>Obst /Dunstkompott|10<br>20<br>30<br>40<br>50|1|10<br>20<br>30<br>40<br>50|1|10<br>20<br>30<br>40<br>50||10<br>20<br>40<br>40<br>50||10<br>20<br>40<br>40<br>50||
+|Nachmittag
+Abend|Weißbrot
+Brötchen
+Diät-Halbfettmargarine
+Konfitüre
+Weizenmischbrot
+Diät-Halbfettmargarine
+Diätmargarine
+Käse, 30% F (z.B. Emmentaler)
+Schinken (z.B. Kochschinken)
+Gemüse
+Obst /Dunstkompott|10
+20
+30
+40
+50|1|10
+20
+30
+40
+50|1|10
+20
+30
+40
+50||10
+20
+40
+40
+50||10
+20
+40
+40
+50||
 ||||||||2||2||2|
 |||||||||||||
 ||||1||1||1||1||1|
 ||||4||5||5||6||6|
 |||||||||||||
 ||||||||||||1|
-|Spätmahlzeit|Gebäck<br>Fruchtjoghurt<br>Weizenmischbrot<br>Diät-Halbfettmargarine||1||1||1||1|10||
+|Spätmahlzeit|Gebäck
+Fruchtjoghurt
+Weizenmischbrot
+Diät-Halbfettmargarine||1||1||1||1|10||
 ||||||||1||1||1|
 ||||||||||||2|
 |||||||||||||
@@ -1002,9 +1981,27 @@ Verordnungsdauer: nach Bedarf, keimarm ggf. als Dauerkost
 
 |Energiemenge|Energiemenge|Eiweiß|Eiweiß|Fett|Fett|Kohlenhydrate|Kohlenhydrate|
 |---|---|---|---|---|---|---|---|
-|<br>kJ|<br>kcal|Energie%|g|Energie%|g|<br>Energie%|<br>g|
-|individuell, z.B.<br>9.000<br>2.200||15|80|30|70|55|300|
-|Prinzip:<br>Energie:<br>Eiweiß:<br>Fett:<br>KH:<br>Individuell bedarfsgerecht<br>bedarfsgerecht<br>fettarm, DGE<br>bedarfsgerecht, Ballaststoffe: bedarfsgerecht<br>Besondere Hygienevorschriften für<br>Lebensmittel und Zubereitungsformen<br>Flüssigkeit:<br>nach Bedarf, ggf. erhöht||||||||
+|
+kJ|
+kcal|Energie%|g|Energie%|g|
+Energie%|
+g|
+|individuell, z.B.
+9.000
+2.200||15|80|30|70|55|300|
+|Prinzip:
+Energie:
+Eiweiß:
+Fett:
+KH:
+Individuell bedarfsgerecht
+bedarfsgerecht
+fettarm, DGE
+bedarfsgerecht, Ballaststoffe: bedarfsgerecht
+Besondere Hygienevorschriften für
+Lebensmittel und Zubereitungsformen
+Flüssigkeit:
+nach Bedarf, ggf. erhöht||||||||
 
 **Hinweis** : Für diese Kostverordnung sollte immer die Diätassistenz hinzugezogen werden. 
 
@@ -1105,37 +2102,152 @@ Diese Produkte rasch verbrauchen, stets geschlossen und gekühlt aufbewahren.
 |**Tabelle 19. Lebensmittelauswahl nach Transplantation**|**Tabelle 19. Lebensmittelauswahl nach Transplantation**||
 |---|---|---|
 |**geeignete Lebensmittel**|**mitgeringem Risiko**|**mit hohem Risiko**|
-|Milch und Milchprodukte<br>möglichst fettarm 1,5%|pasteurisierte Frischmilch, H-Milch,<br>Sahne (süß, sauer),<br>H-Milcherzeugnisse (mit und ohne<br>Frucht), Kondensmilch, Frisch- und<br>Sauermilcherzeugnisse mit maximaler<br>Haltbarkeit|<br>Rohmilch<br>Sprühsahne (nur am Tag der Öffnung<br>zu verwenden)|
-|Käse möglichst fettarm<br>bis 30% Fett i.Tr.|<br>Schmelzkäse, Schnitt- und Hartkäse,<br>Frischkäse, Quark (verpackt), Feta,<br>Mozzarella,<br>Backcamembert und Ofenkäse nach<br>Erhitzen|alle Edelpilz- u. Blauschimmelkäse, z.<br>B. Camembert, Briekäse, Roquefort,<br>Gorgonzola usw., Rohmilchkäse z. B.<br>Schweizer Emmentaler, Käse mit<br>Nüssen|
-|Fleisch und Fleischwaren|ohne sichtbares Fett, durchgegart alle<br>Sorten: Hammel, Lamm, Kalb, Rind,<br>Schwein, gekochter Schinken und<br>durchgegarter Bratenauf-schnitt|rohes und nicht durchgegartes<br>Fleisch, z. B. Tartar, Hackepeter,<br>Roastbeef, Fleischsalat, Roher<br>Schinken (luftgetrocknet oder<br>geräuchert)|
-|Wurstwaren|fettarme Sorten bevorzugen: Brüh-<br>und Kochwurst, wie Mortadella,<br>Bierschinken, Jagdwurst,<br>Kochschinken usw.|Rohwurst wie Hart- (Salami, Cervelat-<br>Wurst), Mettwurst und Teewurst,<br>Wurstwaren mit Nüssen, Pistazien...|
-|Innereien<br>(Cholesteringehalt hoch!)|durchgegart alle Sorten||
-|Geflügel|fettarme Sorten bevorzugen,<br>durchgegart alle Sorten||
-|Geflügelerzeugnisse|Geflügelwurst, Geflügel in Aspik,<br>Putenbrust als Bratenaufschnitt|Fertigsalate (Mayonnaise)|
-|Wild|durchgegart alle Sorten Reh, Hirsch,<br>Hase,Wildschwein,Wildgeflügel||
-|Fisch|durchgegart alle Sorten See- und<br>Süßwasserfische, alle<br>Fischkonserven, heiß geräucherter<br>Fisch vakuumverpackt,Brathering|roher Fisch z. B. Matjes, gebeizter<br>Lachs, loser Räucherfisch, kalt<br>geräucherter Fisch, Sushi und u. Ä.|
-|Schalen- und Krustentiere<br>Cholesteringehalt hoch|<br>frisch zubereitete, durchgegarte<br>Krabben, Krebse, Hummer,<br>Schnecken|rohe Austern, Muscheln, Fertigsalate<br>(Mayonnaise), Cocktailsauce u. Ä.|
-|Eier|durchgegart alle Sorten mind. 8<br>Minuten garen!|rohe und weiche Eier, Rührei,<br>Spiegelei, Eiersalat, Süßspeisen (mit<br>rohem Ei hergestellt), Cremespeisen,<br>Mayonnaisen...|
-|Fette und Öle|Öle: Sorten mit hohem Anteil an<br>einfach- und mehrfach ungesättigten<br>Fettsäuren wie Raps-,<br>Sonnenblumen-, Keim-, Leinöl frisch<br>verbrauchen,im Kühlschrank lagern|Fettzubereitungen wie Mayonnaise,<br>Remoulade, Kräuter-,<br>Knoblauchbutter (verwendete Kräuter<br>wurden nicht erhitzt) u. Ä.,<br>Erdnussbutter|
+|Milch und Milchprodukte
+möglichst fettarm 1,5%|pasteurisierte Frischmilch, H-Milch,
+Sahne (süß, sauer),
+H-Milcherzeugnisse (mit und ohne
+Frucht), Kondensmilch, Frisch- und
+Sauermilcherzeugnisse mit maximaler
+Haltbarkeit|
+Rohmilch
+Sprühsahne (nur am Tag der Öffnung
+zu verwenden)|
+|Käse möglichst fettarm
+bis 30% Fett i.Tr.|
+Schmelzkäse, Schnitt- und Hartkäse,
+Frischkäse, Quark (verpackt), Feta,
+Mozzarella,
+Backcamembert und Ofenkäse nach
+Erhitzen|alle Edelpilz- u. Blauschimmelkäse, z.
+B. Camembert, Briekäse, Roquefort,
+Gorgonzola usw., Rohmilchkäse z. B.
+Schweizer Emmentaler, Käse mit
+Nüssen|
+|Fleisch und Fleischwaren|ohne sichtbares Fett, durchgegart alle
+Sorten: Hammel, Lamm, Kalb, Rind,
+Schwein, gekochter Schinken und
+durchgegarter Bratenauf-schnitt|rohes und nicht durchgegartes
+Fleisch, z. B. Tartar, Hackepeter,
+Roastbeef, Fleischsalat, Roher
+Schinken (luftgetrocknet oder
+geräuchert)|
+|Wurstwaren|fettarme Sorten bevorzugen: Brüh-
+und Kochwurst, wie Mortadella,
+Bierschinken, Jagdwurst,
+Kochschinken usw.|Rohwurst wie Hart- (Salami, Cervelat-
+Wurst), Mettwurst und Teewurst,
+Wurstwaren mit Nüssen, Pistazien...|
+|Innereien
+(Cholesteringehalt hoch!)|durchgegart alle Sorten||
+|Geflügel|fettarme Sorten bevorzugen,
+durchgegart alle Sorten||
+|Geflügelerzeugnisse|Geflügelwurst, Geflügel in Aspik,
+Putenbrust als Bratenaufschnitt|Fertigsalate (Mayonnaise)|
+|Wild|durchgegart alle Sorten Reh, Hirsch,
+Hase,Wildschwein,Wildgeflügel||
+|Fisch|durchgegart alle Sorten See- und
+Süßwasserfische, alle
+Fischkonserven, heiß geräucherter
+Fisch vakuumverpackt,Brathering|roher Fisch z. B. Matjes, gebeizter
+Lachs, loser Räucherfisch, kalt
+geräucherter Fisch, Sushi und u. Ä.|
+|Schalen- und Krustentiere
+Cholesteringehalt hoch|
+frisch zubereitete, durchgegarte
+Krabben, Krebse, Hummer,
+Schnecken|rohe Austern, Muscheln, Fertigsalate
+(Mayonnaise), Cocktailsauce u. Ä.|
+|Eier|durchgegart alle Sorten mind. 8
+Minuten garen!|rohe und weiche Eier, Rührei,
+Spiegelei, Eiersalat, Süßspeisen (mit
+rohem Ei hergestellt), Cremespeisen,
+Mayonnaisen...|
+|Fette und Öle|Öle: Sorten mit hohem Anteil an
+einfach- und mehrfach ungesättigten
+Fettsäuren wie Raps-,
+Sonnenblumen-, Keim-, Leinöl frisch
+verbrauchen,im Kühlschrank lagern|Fettzubereitungen wie Mayonnaise,
+Remoulade, Kräuter-,
+Knoblauchbutter (verwendete Kräuter
+wurden nicht erhitzt) u. Ä.,
+Erdnussbutter|
 
 ## **Tabelle 19. Lebensmittelauswahl nach Transplantation** 
 
 |**Tabelle 19. Lebensmittelauswahl nach Transplantation**|**Tabelle 19. Lebensmittelauswahl nach Transplantation**|**Tabelle 19. Lebensmittelauswahl nach Transplantation**|
 |---|---|---|
 |**geeignete Lebensmittel**|**mitgeringem Risiko**|**mit hohem Risiko**|
-|immer mit einem<br>sauberen Besteck<br>entnehmen|Fette: Margarine ungehärtet mit<br>Omega-3/6-Fettsäuren,<br>Butter = cholesterinhaltig<br>Schmalz = cholesterinhaltig||
-|Getreide und<br>Getreideerzeugnisse|gegart alle Getreidesorten Cornflakes,<br>Teigwaren, Reis etc.|<br>rohe, unbehandelte Getreidekörner<br>(auch „Bio" od. direkt vom Erzeuger)<br>und daraus hergestellte<br>Frischkornbreie,Müsli u. Ä.|
-|Brot|alle Brotsorten, frisch gebacken,<br>Zwieback,Knäckebrot|Brot mit Nüssen, Kernen, Samen für<br>6 Monate|
-|Backwaren|alle nussfreien Gebäcke und Kuchen<br>aus Hefe-, Rühr-, Mürbe- und<br>Blätterteig,Biskuit|Sahne- und Cremetorten,<br>Nusskuchen, Makronen, Kuchen mit<br>Nussfüllungen|
-|Knabbereien|Salzstangen, Kräcker, Salzgebäck,<br>Chips natur|Erdnussflips, Chips (die mit<br>Paprikapulver o.ä. bestreut sind)|
+|immer mit einem
+sauberen Besteck
+entnehmen|Fette: Margarine ungehärtet mit
+Omega-3/6-Fettsäuren,
+Butter = cholesterinhaltig
+Schmalz = cholesterinhaltig||
+|Getreide und
+Getreideerzeugnisse|gegart alle Getreidesorten Cornflakes,
+Teigwaren, Reis etc.|
+rohe, unbehandelte Getreidekörner
+(auch „Bio" od. direkt vom Erzeuger)
+und daraus hergestellte
+Frischkornbreie,Müsli u. Ä.|
+|Brot|alle Brotsorten, frisch gebacken,
+Zwieback,Knäckebrot|Brot mit Nüssen, Kernen, Samen für
+6 Monate|
+|Backwaren|alle nussfreien Gebäcke und Kuchen
+aus Hefe-, Rühr-, Mürbe- und
+Blätterteig,Biskuit|Sahne- und Cremetorten,
+Nusskuchen, Makronen, Kuchen mit
+Nussfüllungen|
+|Knabbereien|Salzstangen, Kräcker, Salzgebäck,
+Chips natur|Erdnussflips, Chips (die mit
+Paprikapulver o.ä. bestreut sind)|
 |Kartoffeln|in allen Zubereitungsarten|Kartoffelsalat mit Mayonnaise|
-|Gemüse und Salate|alle Sorten gegart, schälbares<br>Gemüse wie Gurken, Möhren u. Ä.<br>Paprika und Tomaten (unter<br>fließendem Wasser abgewaschen)<br>Eisbergsalat sehr gut gewaschen<br>Eingekochtes Gemüse: Mixed Pickles,<br>Weißkrautsalat, Gewürzgurken, Rote<br>Bete|<br>rohes Gemüse (Rohkost) grobe<br>Blattsalate, rohe Keimlinge,<br>Sprossen, Pilze|
-|Hülsenfrüchte|gegarte Erbsen, Bohnen, Linsen,<br>sterilisierte Sojaerzeugnisse|Sojaprodukte, z.B. Tofu, Keime|
-|Obst|alle Sorten gekocht als Kompott oder<br>Konserve schälbares, rohes Obst wie<br>Banane, Orange, Kiwi, Melone usw.<br>Äpfel, Birnen unter fließendem<br>Wasser gewaschen|Grapefruit, Pomelo (lebenslang)<br>für 6 Monate:<br>rohes Trockenobst,<br>nicht schälbares rohes Obst : alle<br>Beerensorten, Weintrauben,<br>Kirschen,Pflaumen,Mirabellen|
-|Nüsse/Samen/ Kerne<br>(wegen Schimmelpilze)||alle Sorten, wie Erd-, Hasel-, Wal-,<br>Para- u. Pekannüsse, Mandeln,<br>Kokosflocken, Pistazien Sesam,<br>Sonnenblumen-, Kürbis- u.<br>Cashewkerne|
+|Gemüse und Salate|alle Sorten gegart, schälbares
+Gemüse wie Gurken, Möhren u. Ä.
+Paprika und Tomaten (unter
+fließendem Wasser abgewaschen)
+Eisbergsalat sehr gut gewaschen
+Eingekochtes Gemüse: Mixed Pickles,
+Weißkrautsalat, Gewürzgurken, Rote
+Bete|
+rohes Gemüse (Rohkost) grobe
+Blattsalate, rohe Keimlinge,
+Sprossen, Pilze|
+|Hülsenfrüchte|gegarte Erbsen, Bohnen, Linsen,
+sterilisierte Sojaerzeugnisse|Sojaprodukte, z.B. Tofu, Keime|
+|Obst|alle Sorten gekocht als Kompott oder
+Konserve schälbares, rohes Obst wie
+Banane, Orange, Kiwi, Melone usw.
+Äpfel, Birnen unter fließendem
+Wasser gewaschen|Grapefruit, Pomelo (lebenslang)
+für 6 Monate:
+rohes Trockenobst,
+nicht schälbares rohes Obst : alle
+Beerensorten, Weintrauben,
+Kirschen,Pflaumen,Mirabellen|
+|Nüsse/Samen/ Kerne
+(wegen Schimmelpilze)||alle Sorten, wie Erd-, Hasel-, Wal-,
+Para- u. Pekannüsse, Mandeln,
+Kokosflocken, Pistazien Sesam,
+Sonnenblumen-, Kürbis- u.
+Cashewkerne|
 |Kräuter|Nurgekocht(für 6 Monate)|Frisch|
-|Süßwaren|Zucker,<br>Honig nur in Portionsp. für 6 Monate,<br>Konfitüre, Gelee immer mit sauberem<br>Löffel entnehmen,<br>Fondant, Fruchtgummi, Bonbon,<br>Fruchteis (Wassereis), abgepackte<br>Portionseiscreme ohne Schokolade<br>ohne Nüsse|Süßigkeiten mit Nüssen, Marzipan,<br>Nougat, Krokant, *Nuss-Nougatcreme<br>Schokolade, Kinderschokolade für 6<br>Monate nach TX,|
-|Getränke|Malz- und Bohnenkaffee, alle<br>Teesorten, Mineralwasser,<br>Fruchtsäfte,Limonade|*alkoholhaltige Getränke, wie:<br>Spirituosen, Bier, Malzbier, Wein,<br>Sekt,Likör|
+|Süßwaren|Zucker,
+Honig nur in Portionsp. für 6 Monate,
+Konfitüre, Gelee immer mit sauberem
+Löffel entnehmen,
+Fondant, Fruchtgummi, Bonbon,
+Fruchteis (Wassereis), abgepackte
+Portionseiscreme ohne Schokolade
+ohne Nüsse|Süßigkeiten mit Nüssen, Marzipan,
+Nougat, Krokant, *Nuss-Nougatcreme
+Schokolade, Kinderschokolade für 6
+Monate nach TX,|
+|Getränke|Malz- und Bohnenkaffee, alle
+Teesorten, Mineralwasser,
+Fruchtsäfte,Limonade|*alkoholhaltige Getränke, wie:
+Spirituosen, Bier, Malzbier, Wein,
+Sekt,Likör|
 
 * nach Rücksprache und mit **ausdrücklicher** Erlaubnis des behandelnden Arztes 
 
@@ -1147,9 +2259,31 @@ Bestellwort: **Glutenfrei** Indikation: Zoeliakie, Sprue (ohne Malabsorptionssyn
 
 |**Definition der Kost:**|||||||
 |---|---|---|---|---|---|---|
-|Energiemenge<br>kJ<br>kcal|Eiweiß<br>Energie%<br>g||Fett<br>Energie%<br>g||Kohlenhydrate<br>Energie%<br>g||
-|individuell, z.B.<br>9.000<br>2.200|15|80|35|80|50|265|
-|Prinzip:<br>Energie:<br>Eiweiß:<br>Fett:<br>KH:<br>Individuell bedarfsgerecht<br>bedarfsgerecht<br>fettarm, DGE<br>bedarfsgerecht, Ballaststoff: bedarfsgerecht<br>Mahlzeiten:<br>Flüssigkeit:<br>strikte Vermeidung von Gluten in allen Nahrungsmitteln<br>nach Bedarf|||||||
+|Energiemenge
+kJ
+kcal|Eiweiß
+Energie%
+g||Fett
+Energie%
+g||Kohlenhydrate
+Energie%
+g||
+|individuell, z.B.
+9.000
+2.200|15|80|35|80|50|265|
+|Prinzip:
+Energie:
+Eiweiß:
+Fett:
+KH:
+Individuell bedarfsgerecht
+bedarfsgerecht
+fettarm, DGE
+bedarfsgerecht, Ballaststoff: bedarfsgerecht
+Mahlzeiten:
+Flüssigkeit:
+strikte Vermeidung von Gluten in allen Nahrungsmitteln
+nach Bedarf|||||||
 
 **Hinweis** : Für diese Kostverordnung sollte immer die Diätassistenz hinzugezogen werden. 
 
@@ -1159,60 +2293,130 @@ Bestellwort: **Glutenfrei** Indikation: Zoeliakie, Sprue (ohne Malabsorptionssyn
 |---|---|---|
 |**Lebensmittelgruppe**|**geeignete Lebensmittel**|**ungeeignete Lebensmittel**|
 ||||
-|Milch und<br>Milcherzeugnisse|Milch, Buttermilch, Dickmilch<br>Kefir, Joghurt in allen Fett-<br>stufen, süße und saure Sahne,<br>Kondensmilch, alle<br>Säuglingsmilchnahrungen|Joghurt- und<br>Quarkzubereitungen mit<br>Getreideflocken,<br>Körnern, Stärke o.Ä., z. B.<br>Birscher Müsli|
+|Milch und
+Milcherzeugnisse|Milch, Buttermilch, Dickmilch
+Kefir, Joghurt in allen Fett-
+stufen, süße und saure Sahne,
+Kondensmilch, alle
+Säuglingsmilchnahrungen|Joghurt- und
+Quarkzubereitungen mit
+Getreideflocken,
+Körnern, Stärke o.Ä., z. B.
+Birscher Müsli|
 ||||
-|Käse|Speisequark, Frischkäse, Hart-<br>und Schnittkäse, Schmelzkäse<br>usw.|Edelpilzkäse, z. B. Roquefort-<br>Käse|
+|Käse|Speisequark, Frischkäse, Hart-
+und Schnittkäse, Schmelzkäse
+usw.|Edelpilzkäse, z. B. Roquefort-
+Käse|
 ||||
-|Fleisch und<br>Fleischwaren|alle Sorten: Rind, Kalb, Lamm,<br>Schwein;<br>Schinken roh und gekocht,<br>Bratenaufschnitt, Corned beef|alle panierten Sorten/Gerichte,<br>Hackfleischzubereitungen mit<br>Brot, Mehl o.Ä. (Klopse,<br>Bouletten etc.), Pasteten, mit<br>Mehlsoßen|
+|Fleisch und
+Fleischwaren|alle Sorten: Rind, Kalb, Lamm,
+Schwein;
+Schinken roh und gekocht,
+Bratenaufschnitt, Corned beef|alle panierten Sorten/Gerichte,
+Hackfleischzubereitungen mit
+Brot, Mehl o.Ä. (Klopse,
+Bouletten etc.), Pasteten, mit
+Mehlsoßen|
 
 **Tabelle 20. Lebensmittelauswahl für glutenfreie Ernährung** 
 
 |**Tabelle 20. Lebensmittelauswahl fürglutenfreie Ernährung**|**Tabelle 20. Lebensmittelauswahl fürglutenfreie Ernährung**|**Tabelle 20. Lebensmittelauswahl fürglutenfreie Ernährung**|
 |---|---|---|
 |**Lebensmittelgruppe**|**geeignete Lebensmittel**|**ungeeignete Lebensmittel**|
-|Wurstwaren|Rohwurst wie Salami,<br>Cervelatwurst, Teewurst etc.,<br>Brühwurst wie Wiener,<br>Mortadella, Jagdwurst,<br>Bierschinken|Kochwurst wie Blut- und<br>Leberwurst, Grützwurst,<br>Sülzwurst|
+|Wurstwaren|Rohwurst wie Salami,
+Cervelatwurst, Teewurst etc.,
+Brühwurst wie Wiener,
+Mortadella, Jagdwurst,
+Bierschinken|Kochwurst wie Blut- und
+Leberwurst, Grützwurst,
+Sülzwurst|
 ||||
-|Innereien|Leber, Herz, Niere, Zunge usw.|paniert, in Klößen, mit Soßen,<br>Pasteten|
+|Innereien|Leber, Herz, Niere, Zunge usw.|paniert, in Klößen, mit Soßen,
+Pasteten|
 ||||
-|Geflügel|alle Sorten: Huhn, Pute, Gans,<br>Ente u. Ä.|paniert, in Soßen, mit Brot<br>gefüllt, Pasteten|
+|Geflügel|alle Sorten: Huhn, Pute, Gans,
+Ente u. Ä.|paniert, in Soßen, mit Brot
+gefüllt, Pasteten|
 ||||
-|Geflügelerzeugnisse|Geflügelwurst, in Aspik,<br>Putenbrust|Fertigsalate, Bouletten, Klöße,<br>paniert|
+|Geflügelerzeugnisse|Geflügelwurst, in Aspik,
+Putenbrust|Fertigsalate, Bouletten, Klöße,
+paniert|
 ||||
-|Wild|alle Sorten: Reh, Hase, Hirsch,<br>Wildschwein usw.|paniert, in Mehlsoßen, Pasteten,<br>Klößchen usw.|
+|Wild|alle Sorten: Reh, Hase, Hirsch,
+Wildschwein usw.|paniert, in Mehlsoßen, Pasteten,
+Klößchen usw.|
 ||||
-|Fisch|alle See- und Süßwasserfische|paniert, in Mehlsoßen, Pasteten,<br>Klößchen usw.|
+|Fisch|alle See- und Süßwasserfische|paniert, in Mehlsoßen, Pasteten,
+Klößchen usw.|
 ||||
-|Fischerzeugnisse|geräuchert, Marinaden wie z.B.<br>Bismarckhering, in Aspik,<br>in Öl, in eigenem Saft eingelegt|Brathering, Bratmops,<br>Zubereitung in Soßen|
+|Fischerzeugnisse|geräuchert, Marinaden wie z.B.
+Bismarckhering, in Aspik,
+in Öl, in eigenem Saft eingelegt|Brathering, Bratmops,
+Zubereitung in Soßen|
 ||||
-|Schalen- und Krustentiere|alle Sorten: Krabben, Krebse,<br>Muscheln usw.|Erzeugnisse in Soßen, mit<br>Dressing usw.|
+|Schalen- und Krustentiere|alle Sorten: Krabben, Krebse,
+Muscheln usw.|Erzeugnisse in Soßen, mit
+Dressing usw.|
 ||||
-|Eier|alle Sorten, alle Garungsarten<br>(nicht in der Gemeinschafts-<br>verpflegung!)|Eiergerichte mit Mehl<br>(Eierkuchen, Crêpes)|
+|Eier|alle Sorten, alle Garungsarten
+(nicht in der Gemeinschafts-
+verpflegung!)|Eiergerichte mit Mehl
+(Eierkuchen, Crêpes)|
 ||||
-|Fette|alle Sorten: Butter Margarine,<br>Öle||
+|Fette|alle Sorten: Butter Margarine,
+Öle||
 ||||
-|Brot und Backwaren|**glutenfreie**Brote, Brötchen,<br>Kuchen, Kekse, Pizza,<br>Zwieback, Waffeln|alle handelsüblichen Brote und<br>Gebäcke, Zwieback,<br>Knäckebrot, Kuchen, Torten,<br>Knabbergebäck wie<br>Salzstangen, Kräcker etc.|
+|Brot und Backwaren|**glutenfreie**Brote, Brötchen,
+Kuchen, Kekse, Pizza,
+Zwieback, Waffeln|alle handelsüblichen Brote und
+Gebäcke, Zwieback,
+Knäckebrot, Kuchen, Torten,
+Knabbergebäck wie
+Salzstangen, Kräcker etc.|
 ||||
-|Kartoffeln|alle Garungsarten, Püree-Pulver,<br>Chips|Kartoffelklöße mit Mehl oder<br>Grieß, Semmelknödel|
+|Kartoffeln|alle Garungsarten, Püree-Pulver,
+Chips|Kartoffelklöße mit Mehl oder
+Grieß, Semmelknödel|
 ||||
-|Gemüse und Salate|alle Sorten: frisch, Tiefkühlware,<br>Konservendose|mit Mehlzubereitungen,<br>vorgefertigte Gerichte mit Mehl<br>und Paniermehl|
+|Gemüse und Salate|alle Sorten: frisch, Tiefkühlware,
+Konservendose|mit Mehlzubereitungen,
+vorgefertigte Gerichte mit Mehl
+und Paniermehl|
 ||||
 |Hülsenfrüchte|alle Sorten|vorgefertigte Gerichte|
 ||||
-|Obst|alle Sorten: frisch, Tiefkühlware,<br>Konservendose||
+|Obst|alle Sorten: frisch, Tiefkühlware,
+Konservendose||
 ||||
 |Nüsse/Samen|alle Sorten|einige Sorten Erdnussflips|
 ||||
-|Getränke|Tee, alle Sorten, Mineralwasser,<br>Fruchtsäfte, Limonaden,|Malzkaffee (z.B. Caro-Kaffee),<br>Malzbier, Malzgetränke, alle|
+|Getränke|Tee, alle Sorten, Mineralwasser,
+Fruchtsäfte, Limonaden,|Malzkaffee (z.B. Caro-Kaffee),
+Malzbier, Malzgetränke, alle|
 
 |**Tabelle 20. Lebensmittelauswahl fürglutenfreie Ernährung**|**Tabelle 20. Lebensmittelauswahl fürglutenfreie Ernährung**||
 |---|---|---|
 |**Lebensmittelgruppe**|**geeignete Lebensmittel**|**ungeeignete Lebensmittel**|
 ||Kakao, Bohnenkaffee|Sorten Bier|
 ||||
-|Süßungsmittel und Süßwaren|Zucker, Traubenzucker, Honig,<br>Konfitüre, Gelee, Fruchtbonbon,<br>Kaugummi, Geleefrüchte,<br>Fruchtgummi, Frucht- und<br>Wassereis|Malzzucker, Malzbonbons, Eis<br>mit Waffel/Keks, Eistorte,<br>Schokoladenerzeugnisse mit<br>Getreidebeimengungen (z.B.<br>Müsliriegel, Crispies), Lakritze,<br>Pralinen, einige Marzipansorten|
+|Süßungsmittel und Süßwaren|Zucker, Traubenzucker, Honig,
+Konfitüre, Gelee, Fruchtbonbon,
+Kaugummi, Geleefrüchte,
+Fruchtgummi, Frucht- und
+Wassereis|Malzzucker, Malzbonbons, Eis
+mit Waffel/Keks, Eistorte,
+Schokoladenerzeugnisse mit
+Getreidebeimengungen (z.B.
+Müsliriegel, Crispies), Lakritze,
+Pralinen, einige Marzipansorten|
 ||||
-|Kräuter und Gewürze|alle Sorten, Essig und Senf|Würzsoßen, Ketchup,<br>Gewürzzubereitungen (z.B. Chi-<br>li con carne,<br>Hackfleischmischung etc.)|
-|Sonstiges|Hefe, Weinsteinbackpulver,<br>Backaroma|Backpulver, Tortenguss|
+|Kräuter und Gewürze|alle Sorten, Essig und Senf|Würzsoßen, Ketchup,
+Gewürzzubereitungen (z.B. Chi-
+li con carne,
+Hackfleischmischung etc.)|
+|Sonstiges|Hefe, Weinsteinbackpulver,
+Backaroma|Backpulver, Tortenguss|
 
 ## **Glutengehalt in Lebensmitteln** 
 
@@ -1242,16 +2446,41 @@ Verordnungsdauer: nach Bedarf
 
 ## **Definition der Kost:** 
 
-|Energiemenge<br>kJ<br>kcal|Eiweiß<br>Energie%<br>g|Eiweiß<br>Energie%<br>g|Fett<br>Energie%<br>g|Fett<br>Energie%<br>g|Kohlenhydrate<br>Energie%<br>g|Kohlenhydrate<br>Energie%<br>g|
+|Energiemenge
+kJ
+kcal|Eiweiß
+Energie%
+g|Eiweiß
+Energie%
+g|Fett
+Energie%
+g|Fett
+Energie%
+g|Kohlenhydrate
+Energie%
+g|Kohlenhydrate
+Energie%
+g|
 |---|---|---|---|---|---|---|
 |individuell|15||30-35||50-55||
-|Flüssigkeit:<br>nach Bedarf|||||||
+|Flüssigkeit:
+nach Bedarf|||||||
 
 **Hinweis** : Für diese Kostverordnung sollte immer die Diätassistenz hinzugezogen werden. 
 
 ## **Standards zur Anreicherung:** 
 
-|**Lebensmittel**|**Größe**<br>**in**<br>**Gramm**|**Butter**<br>**in**<br>**Gramm**|**Sahne**<br>**in**<br>**Gramm**|**MD19**<br>**in**<br>**Gramm**|**Rapsöl**<br>**in**<br>**Gramm**|**kcal**|**E**|**F**|**KH**|
+|**Lebensmittel**|**Größe**
+**in**
+**Gramm**|**Butter**
+**in**
+**Gramm**|**Sahne**
+**in**
+**Gramm**|**MD19**
+**in**
+**Gramm**|**Rapsöl**
+**in**
+**Gramm**|**kcal**|**E**|**F**|**KH**|
 |---|---|---|---|---|---|---|---|---|---|
 |Gemüse|150|5||||96|4,1|5,0|9,0|
 |Soße|70||10|5||100|1,0|7,0|9,0|
@@ -1269,9 +2498,37 @@ Bestellwort: **Dumping** Indikation: totale und subtotale Gastrektomie nach - Bi
 
 |**Definition der Kost:**|||||||
 |---|---|---|---|---|---|---|
-|Energiemenge<br>kJ<br>kcal|Eiweiß<br>Energie%<br>g||Fett<br>Energie%<br>g||Kohlenhydrate<br>Energie%<br>g||
-|individuell, z.B.<br>10.000<br>2.500|20|120|40|105|40|235|
-|Prinzip:<br>Energie<br>Eiweiß<br>Fett<br>KH<br>:<br>:<br>:<br>:<br>individuell<br>eiweißreich<br>fettreich<br>relativ kohlenhydratarm, frei von Mono- und<br>Disacchariden in reiner Form, lactosearm,<br>relativ ballaststoffreich<br>Trinkmenge:<br>kleines Volumen, hohe Energiedichte, kompakte, flüssigkeitsarme<br>Gerichte<br>max. 1500ml   zwischen den Mahlzeiten, schluckweise|||||||
+|Energiemenge
+kJ
+kcal|Eiweiß
+Energie%
+g||Fett
+Energie%
+g||Kohlenhydrate
+Energie%
+g||
+|individuell, z.B.
+10.000
+2.500|20|120|40|105|40|235|
+|Prinzip:
+Energie
+Eiweiß
+Fett
+KH
+:
+:
+:
+:
+individuell
+eiweißreich
+fettreich
+relativ kohlenhydratarm, frei von Mono- und
+Disacchariden in reiner Form, lactosearm,
+relativ ballaststoffreich
+Trinkmenge:
+kleines Volumen, hohe Energiedichte, kompakte, flüssigkeitsarme
+Gerichte
+max. 1500ml   zwischen den Mahlzeiten, schluckweise|||||||
 
 **Hinweis** : Für diese Kostverordnung sollte immer die Diätassistenz hinzugezogen werden. 
 
@@ -1281,49 +2538,99 @@ Bestellwort: **Dumping** Indikation: totale und subtotale Gastrektomie nach - Bi
 |---|---|---|
 |**Lebensmittelgruppe **|**geeignete Lebensmittel**|**ungeeignete Lebensmittel**|
 ||||
-|Milch und<br>Milcherzeugnisse|Sauermilcherzeugnisse in kleinen<br>Mengen<br>können ausprobiert werden:<br>Buttermilch, Dickmilch, Kefir, Joghurt<br>in allen Fettstufen,<br>süße und saure Sahne|Milch, Kondensmilch,<br>handelsübliche Milcherzeugnisse<br>(z.B. Fruchtjoghurt, Fruchtquark,<br>Diätfruchtjoghurt etc.)|
+|Milch und
+Milcherzeugnisse|Sauermilcherzeugnisse in kleinen
+Mengen
+können ausprobiert werden:
+Buttermilch, Dickmilch, Kefir, Joghurt
+in allen Fettstufen,
+süße und saure Sahne|Milch, Kondensmilch,
+handelsübliche Milcherzeugnisse
+(z.B. Fruchtjoghurt, Fruchtquark,
+Diätfruchtjoghurt etc.)|
 ||||
-|Käse|Speisequark, Frischkäse, Hart-,<br>Weich-, Schmelzkäse usw.|alle stark riechenden und scharf<br>schmeckenden Sorten (z.B.<br>Harzer,Tilsiter, Roquefort)|
-|Fleisch und<br>Fleischwaren|alle mageren Sorten,<br>Schinken roh undgekocht,|fette Gerichte, Soßen (mehr als 2<br>Esslöffel)|
+|Käse|Speisequark, Frischkäse, Hart-,
+Weich-, Schmelzkäse usw.|alle stark riechenden und scharf
+schmeckenden Sorten (z.B.
+Harzer,Tilsiter, Roquefort)|
+|Fleisch und
+Fleischwaren|alle mageren Sorten,
+Schinken roh undgekocht,|fette Gerichte, Soßen (mehr als 2
+Esslöffel)|
 
 **Tabelle 21. Lebensmittelauswahl bei Dumping-Diät** 
 
 |**Tabelle 21. Lebensmittelauswahl bei Dumping-Diät**|**Tabelle 21. Lebensmittelauswahl bei Dumping-Diät**|**Tabelle 21. Lebensmittelauswahl bei Dumping-Diät**|
 |---|---|---|
 |**Lebensmittelgruppe **|**geeignete Lebensmittel**|**ungeeignete Lebensmittel**|
-||Bratenaufschnitt, Corned Beef,<br>Fleisch in Aspik usw.||
+||Bratenaufschnitt, Corned Beef,
+Fleisch in Aspik usw.||
 ||||
-|Wurstwaren|alle Wurstsorten mit feinem Brät (z.B.<br>Wiener, Mortadella,<br>Bierschinken,<br>Kalbsleberwurst, Jagdwurst usw.)|Wurstsorten mit großen<br>Fettstückchen (grobe Mettwurst,<br>grobe Blut- und Leberwurst,<br>Grützwurst usw.)|
+|Wurstwaren|alle Wurstsorten mit feinem Brät (z.B.
+Wiener, Mortadella,
+Bierschinken,
+Kalbsleberwurst, Jagdwurst usw.)|Wurstsorten mit großen
+Fettstückchen (grobe Mettwurst,
+grobe Blut- und Leberwurst,
+Grützwurst usw.)|
 ||||
 |Innereien|Leber, Herz, Niere, Zunge usw.||
 ||||
-|Geflügel|alle fettarmen Sorten (z.B. Huhn,<br>Pute usw.)|Gans, Ente|
+|Geflügel|alle fettarmen Sorten (z.B. Huhn,
+Pute usw.)|Gans, Ente|
 ||||
-|Geflügelerzeugnisse|Geflügelwurst, Geflügel in Aspik, als<br>Bratenaufschnitt<br>(Putenbrust)||
+|Geflügelerzeugnisse|Geflügelwurst, Geflügel in Aspik, als
+Bratenaufschnitt
+(Putenbrust)||
 ||||
 |Wild|alle Sorten , ungespickt|gespickte Sorten|
 ||||
-|Fisch|alle mageren Sorten|fettere Sorten (z.B. Aal, Hering,<br>Lachs, Makrele)|
+|Fisch|alle mageren Sorten|fettere Sorten (z.B. Aal, Hering,
+Lachs, Makrele)|
 ||||
-|Fischerzeugnisse||Marinaden wie Brathering,<br>Zubereitungen in fetten, scharfen<br>Soßen|
+|Fischerzeugnisse||Marinaden wie Brathering,
+Zubereitungen in fetten, scharfen
+Soßen|
 ||||
-|Schalen- und Krustentiere|Krabben, Krebse, Hummer,<br>Muscheln etc.|tafelfertige Erzeugnisse in<br>Mayonnaise-Soßen|
+|Schalen- und Krustentiere|Krabben, Krebse, Hummer,
+Muscheln etc.|tafelfertige Erzeugnisse in
+Mayonnaise-Soßen|
 ||||
-|Eier|alle Sorten, leicht bekömmliche<br>Garungsarten (nicht in der<br>Gemeinschaftsverpflegung!)|hartgekochte Eier, Eiersalat|
+|Eier|alle Sorten, leicht bekömmliche
+Garungsarten (nicht in der
+Gemeinschaftsverpflegung!)|hartgekochte Eier, Eiersalat|
 ||||
 |Fette|alle Sorten(Butter, Margarine, Öle)|Schmalz, Speck, Plattenfette|
 ||||
-|Getreide und<br>Getreideerzeugnisse|alle Vollkorn-Produkte aus Weizen<br>(Dinkel, Grü<br>n), Gerste, Hafer,<br>Reis, Hirse,<br>, evtl. Buchweizen,<br>Nudeln|Roggen, helle Mehle, Stärkemehle,<br>Zubereitungen wie Suppen, Breie,<br>Flammeri|
+|Getreide und
+Getreideerzeugnisse|alle Vollkorn-Produkte aus Weizen
+(Dinkel, Grü
+n), Gerste, Hafer,
+Reis, Hirse,
+, evtl. Buchweizen,
+Nudeln|Roggen, helle Mehle, Stärkemehle,
+Zubereitungen wie Suppen, Breie,
+Flammeri|
 ||||
-|Brot und Backwaren|handelsübliche dunkle Brote,<br>Brötchen, Knäckebrot, Kräcker,<br>Zwieback ohne Zucker|Weißbrot, frische Brote, gesäuerte<br>(Roggen) Brote, Pumpernickel, mit<br>Zucker hergestellte Kuchen, Kekse,<br>Makronen, Lebkuchen usw.|
+|Brot und Backwaren|handelsübliche dunkle Brote,
+Brötchen, Knäckebrot, Kräcker,
+Zwieback ohne Zucker|Weißbrot, frische Brote, gesäuerte
+(Roggen) Brote, Pumpernickel, mit
+Zucker hergestellte Kuchen, Kekse,
+Makronen, Lebkuchen usw.|
 ||||
-|Kartoffeln|frisch zubereitet, z.B. Pell-,<br>Salzkartoffeln, Klöße, Püree|fette Zubereitungen wie Pommes<br>frites, Bratkartoffeln, Chips|
+|Kartoffeln|frisch zubereitet, z.B. Pell-,
+Salzkartoffeln, Klöße, Püree|fette Zubereitungen wie Pommes
+frites, Bratkartoffeln, Chips|
 ||||
-|Gemüse und Salate|leicht bekömmliche Sorten roh<br>und gegart (siehe LVK)|siehe LVK|
+|Gemüse und Salate|leicht bekömmliche Sorten roh
+und gegart (siehe LVK)|siehe LVK|
 ||||
 |Hülsenfrüchte|Zuckerschoten, Sojasprossen|Erbsen, Linsen, Bohnen etc.|
 ||||
-|Obst|leicht bekömmliche Sorten, frisch,<br>Kompott ohne Zucker, tiefgekühlt<br>(siehe LVK)|siehe LVK|
+|Obst|leicht bekömmliche Sorten, frisch,
+Kompott ohne Zucker, tiefgekühlt
+(siehe LVK)|siehe LVK|
 ||||
 
 **Tabelle 21. Lebensmittelauswahl bei Dumping-Diät** 
@@ -1333,11 +2640,23 @@ Bestellwort: **Dumping** Indikation: totale und subtotale Gastrektomie nach - Bi
 |**Lebensmittelgruppe **|**geeignete Lebensmittel**|**ungeeignete Lebensmittel**|
 |Nüsse/Samen|siehe Leichte Vollkost|siehe Leichte Vollkost|
 ||||
-|Getränke|Tee, alle Sorten, Mineralwasser,<br>Malzkaffee<br>kleine Mengen (max.150ml)<br>zwischen den Mahlzeiten|süße Getränke, Fruchtsäfte,<br>Limonaden, Kakao, Bohnenkaffee,<br>Wein, Sekt, Bier, etc.|
+|Getränke|Tee, alle Sorten, Mineralwasser,
+Malzkaffee
+kleine Mengen (max.150ml)
+zwischen den Mahlzeiten|süße Getränke, Fruchtsäfte,
+Limonaden, Kakao, Bohnenkaffee,
+Wein, Sekt, Bier, etc.|
 ||||
-|Süßungsmittel und<br>Süßwaren|Zuckerersatzstoffe (Süßstoffe)|Zucker, Traubenzucker,<br>Fruchtzucker, Sorbit u. Ä., Bonbons,<br>Geleefrüchte, Honig, Gelee,<br>Konfitüre, Eis, Schokolade,<br>Pralinen, Marzipan usw.|
+|Süßungsmittel und
+Süßwaren|Zuckerersatzstoffe (Süßstoffe)|Zucker, Traubenzucker,
+Fruchtzucker, Sorbit u. Ä., Bonbons,
+Geleefrüchte, Honig, Gelee,
+Konfitüre, Eis, Schokolade,
+Pralinen, Marzipan usw.|
 ||||
-|Kräuter und Gewürze|siehe Leichte Vollkost|zuckerhaltige Würzsoßen wie<br>Ketchup etc.<br>(siehe Leichte Vollkost)|
+|Kräuter und Gewürze|siehe Leichte Vollkost|zuckerhaltige Würzsoßen wie
+Ketchup etc.
+(siehe Leichte Vollkost)|
 
 ## **5.5 Flüssige Kost** 
 
@@ -1352,8 +2671,28 @@ Verordnungsdauer: nach Bedarf
 |**Definition der Kost:**|||||||
 |---|---|---|---|---|---|---|
 |Energiemenge|Eiweiß||Fett||Kohlenhydrate||
-|kJ<br>kcal<br>individuell, z.B.<br>9.000<br>2.200|Energie%<br>15|g<br>80|Energie%<br>35|g<br>80|Energie%<br>50|g<br>265|
-|Prinzip:<br>Energie: bedarfsgerecht } Vollwertige Ernährung (DGE)<br>Eiweiß:<br>Fett:<br>KH:<br>Mahlzeiten:<br>Flüssigkeit:<br>Suppen, süß und pikant, Milchmixgetränke<br>feinst püriert, bei Bedarf in Kombination mit diätetischen Anforderungen<br>Speisenvolumen: 2500 ml<br>nach Bedarf|||||||
+|kJ
+kcal
+individuell, z.B.
+9.000
+2.200|Energie%
+15|g
+80|Energie%
+35|g
+80|Energie%
+50|g
+265|
+|Prinzip:
+Energie: bedarfsgerecht } Vollwertige Ernährung (DGE)
+Eiweiß:
+Fett:
+KH:
+Mahlzeiten:
+Flüssigkeit:
+Suppen, süß und pikant, Milchmixgetränke
+feinst püriert, bei Bedarf in Kombination mit diätetischen Anforderungen
+Speisenvolumen: 2500 ml
+nach Bedarf|||||||
 
 6 Mahlzeiten pro Tag, die sich in Farbe und Grundgeschmack deutlich unterscheiden sollen. 
 
@@ -1379,18 +2718,51 @@ Pseudoallergische Reaktionen können auf Farb-, Aroma-, Konservierungsstoffe, be
 
 **Hinweis** : In jedem Fall sollte **die Diätassistenz hinzugezogen** werden. 
 
-|Bestellwort:<br>Indikation:<br>Prinzip:<br>Mahlzeiten:<br>Verordnungsdauer:|**Lebensmittelallergien**<br>**IgE-vermittelte Lebensmittelunverträglichkeit**|
+|Bestellwort:
+Indikation:
+Prinzip:
+Mahlzeiten:
+Verordnungsdauer:|**Lebensmittelallergien**
+**IgE-vermittelte Lebensmittelunverträglichkeit**|
 |---|---|
-||**Mit Patienten individuell abgestimmte Ernährung,**<br>**strikte Vermeidung der relevanten Lebensmittel mit den fraglichen**<br>**Allergenen**|
-||Frühstück: Fertigteller<br>Mittag: Fertigteller<br>Abendessen: Fertigteller<br>Zwischenmahlzeiten: 2. Frühstück = Fertigteller; Nachmittag = Fertigteller<br>nach Bedarf|
+||**Mit Patienten individuell abgestimmte Ernährung,**
+**strikte Vermeidung der relevanten Lebensmittel mit den fraglichen**
+**Allergenen**|
+||Frühstück: Fertigteller
+Mittag: Fertigteller
+Abendessen: Fertigteller
+Zwischenmahlzeiten: 2. Frühstück = Fertigteller; Nachmittag = Fertigteller
+nach Bedarf|
 
 ## **Definition der Kost:** 
 
 |**Definition der Kost:**|||||||
 |---|---|---|---|---|---|---|
-|Energiemenge<br>kJ<br>kcal|Eiweiß<br>Energie%<br>g||Fett<br>Energie%<br>g||Kohlenhydrate<br>Energie%<br>g||
-|Individuell, z.B.<br>9000<br>2200|15|80|30-35|70-80|55-50|265-300|
-|Prinzip:<br>Energie<br>Eiweiß<br>Fett<br>KH<br>:<br>:<br>:<br>:<br>Individuell bedarfsgerecht<br>bedarfsgerecht<br>fettarm, DGE<br>bedarfsgerecht, Ballaststoffe: bedarfsgerecht|||||||
+|Energiemenge
+kJ
+kcal|Eiweiß
+Energie%
+g||Fett
+Energie%
+g||Kohlenhydrate
+Energie%
+g||
+|Individuell, z.B.
+9000
+2200|15|80|30-35|70-80|55-50|265-300|
+|Prinzip:
+Energie
+Eiweiß
+Fett
+KH
+:
+:
+:
+:
+Individuell bedarfsgerecht
+bedarfsgerecht
+fettarm, DGE
+bedarfsgerecht, Ballaststoffe: bedarfsgerecht|||||||
 
 Vermeidung der fraglichen Allergene in allen Nahrungsmitteln und Zubereitungsformen Flüssigkeit: nach Bedarf 
 

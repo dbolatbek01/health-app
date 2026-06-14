@@ -5,7 +5,13 @@ Algorithmen zur kardiopulmonalen Reanimation beim Erwachsenen (CPR Erwachsene)
 
 **Geltungsbereich** Arztdienst und Pflegedienst 
 
-Änderungshistorie<br>Version  Erstellt<br>Aktualisierung,<br>Überführung in SOP<br>2.0  01.05.2022  Aktualisierung  01.05.2024<br>**----- End of picture text -----**<br>
+Änderungshistorie
+Version  Erstellt
+Aktualisierung,
+Überführung in SOP
+2.0  01.05.2022  Aktualisierung  01.05.2024
+**----- End of picture text -----**
+
 
 ## **Inhaltsverzeichnis** 
 

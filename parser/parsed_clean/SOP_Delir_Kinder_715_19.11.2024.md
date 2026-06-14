@@ -123,11 +123,13 @@ Nach Diagnosestellung muss umgehend nach reversiblen Auslösern eines Delirs ges
 |**Entzug**|z. B. Benzodiazepine(Sedierungsweaning?)|
 |**Metabolisch**|z. B. Blutzucker-/Elektrolytentgleisung, schwere Leber- oder|
 ||Nierenfunktionsstörung|
-|**ZNS-Pathologie**|z. B. Stroke, Status non convulsivus, Hypertensive Enzephalopathie,<br>Reperfusionsödem|
+|**ZNS-Pathologie**|z. B. Stroke, Status non convulsivus, Hypertensive Enzephalopathie,
+Reperfusionsödem|
 |**Hypoxie**||
 |**Mangelernährung **|z. B. Vitamin B12-,Folsäure-,Thiamin-Mangel|
 |**Endokrinopathie**|z. B. Hypo-/Hyperthyreose,Nebenniereninsuffizienz|
-|**Medikamente**|z. B. Nebenwirkung von Neuroleptika, Immunsuppressiva (auch Kortikosteroide),<br>Antibiotika(Fluorchinolone!)|
+|**Medikamente**|z. B. Nebenwirkung von Neuroleptika, Immunsuppressiva (auch Kortikosteroide),
+Antibiotika(Fluorchinolone!)|
 
 ## **4. Therapie** 
 

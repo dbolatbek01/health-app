@@ -52,36 +52,51 @@ Ein praxisorientierter Übersichtsartikel findet sich unter: Murray JM et al. Le
 
 |**Bivalirudin**||
 |---|---|
-||EXCOR: alle Patienten im ersten Behandlungsmonat<br>HM III: bis orale Nahrung vertragen wird|
+||EXCOR: alle Patienten im ersten Behandlungsmonat
+HM III: bis orale Nahrung vertragen wird|
 |**Wer?**||
 |||
-||(12–) 24 h post-OP, wenn<br>INR < 1,3, Fibrinogen > 100 mg/dl, Plt > 80 K/µl, aPTT nicht > 20 sec<br>verlängert, Drainagen trocken bzw. ausschließlich serös|
+||(12–) 24 h post-OP, wenn
+INR < 1,3, Fibrinogen > 100 mg/dl, Plt > 80 K/µl, aPTT nicht > 20 sec
+verlängert, Drainagen trocken bzw. ausschließlich serös|
 |**Wann?**||
 |||
-||Dosisanpassung bei Niereninsuffizienz<br>Halbwertszeit 26 min, bei Niereninsuffizienz bis zu 4 h|
+||Dosisanpassung bei Niereninsuffizienz
+Halbwertszeit 26 min, bei Niereninsuffizienz bis zu 4 h|
 |**Besonderheiten**||
 |||
-||aPTT: 60–80 s (2–3-fach der Basis-aPTT)<br>Säuglinge im oberen Zielbereich, Jugendliche im unteren; ggfs.<br>Anpassung, wenn Blutungsrisiko (aPTT 50–60 s) oder Thromboserisiko<br>(aPTT 70–90 s) erhöht ist<br>NB: verlängert INR-Messung|
+||aPTT: 60–80 s (2–3-fach der Basis-aPTT)
+Säuglinge im oberen Zielbereich, Jugendliche im unteren; ggfs.
+Anpassung, wenn Blutungsrisiko (aPTT 50–60 s) oder Thromboserisiko
+(aPTT 70–90 s) erhöht ist
+NB: verlängert INR-Messung|
 |**aPTT Ziel**||
 |||
-||GFR > 60 ml/min/1,73 m²: 0,35 mg/kg/h iv<br>GFR 30–60 ml/min/1,73 m²: 0,2 mg/kg/h iv<br>GFR < 30 ml/min/1,73 m²: 0,1 mg/kg/h iv|
+||GFR > 60 ml/min/1,73 m²: 0,35 mg/kg/h iv
+GFR 30–60 ml/min/1,73 m²: 0,2 mg/kg/h iv
+GFR < 30 ml/min/1,73 m²: 0,1 mg/kg/h iv|
 |**Startdosis**||
 |||
-||2–3 h nach Initiierung oder Dosisänderung<br>Im steady state einmal pro Tag|
+||2–3 h nach Initiierung oder Dosisänderung
+Im steady state einmal pro Tag|
 |**Monitoring**||
 |||
-||< 40.000/µl: Reduktion auf Start-Dosis<br>< 20.000/µl: Stopp Bivalirudin|
+||< 40.000/µl: Reduktion auf Start-Dosis
+< 20.000/µl: Stopp Bivalirudin|
 |**Bei Thrombozytopenie**||
 |||
 |||
 |**LMWH**||
 |**Medikament**|**Enoxaparin**|
-||Patienten < 6 Monate<br>Ältere: Falls VKA kontraindiziert|
+||Patienten < 6 Monate
+Ältere: Falls VKA kontraindiziert|
 |**Wer?**||
 |||
 |**Wann?**|Nach 4 Wochen post-OP zum Wechsel von Bivalirudin & Kreatinin normal|
 |**AntXa Ziel**|0,8–1,0|
-||< 12 Monate: 2 mg/kg alle 12 h sc<br>1–5 Jahre: 1,3 mg/kg alle 12 h sc<br>> 5 Jahre: 1,1 mg/kg alle 12 h sc|
+||< 12 Monate: 2 mg/kg alle 12 h sc
+1–5 Jahre: 1,3 mg/kg alle 12 h sc
+> 5 Jahre: 1,1 mg/kg alle 12 h sc|
 |**Startdosis**||
 |||
 |**Monitoring**|4 h nach 2. Gabe, danach einmal täglich bis stabil im Zielbereich|
@@ -90,13 +105,18 @@ Ein praxisorientierter Übersichtsartikel findet sich unter: Murray JM et al. Le
 |**VKA**||
 |**Medikament**|Phenprocoumon (Marcumar)|
 |**Wer?**|Patienten > 6 Monate|
-||Wenn Patient stabil und Nahrungsaufnahme gut möglich ist.<br>EXCOR: frühestens nach 4 Wochen post-OP|
+||Wenn Patient stabil und Nahrungsaufnahme gut möglich ist.
+EXCOR: frühestens nach 4 Wochen post-OP|
 |**Wann?**||
 |||
-||EXCOR: 3,0–4,0<br>Bei Blutungsneigung INR Ziel 2,7–3,5<br>Bei Pumpenthrombosen ggfs. 3,5 4,5<br>HM III: 2, –3,5|
+||EXCOR: 3,0–4,0
+Bei Blutungsneigung INR Ziel 2,7–3,5
+Bei Pumpenthrombosen ggfs. 3,5 4,5
+HM III: 2, –3,5|
 |**INR Ziel**||
 |||
-||0,1 mg/kg/d po sofern Basis-INR < 1,8<br>Für Patienten, die von Bivalirudin umgestellt werden, s. 1.1|
+||0,1 mg/kg/d po sofern Basis-INR < 1,8
+Für Patienten, die von Bivalirudin umgestellt werden, s. 1.1|
 |**Startdosis**||
 |||
 |**Monitoring**|i.d.R. täglich|
@@ -115,8 +135,15 @@ Kontrollen im weiteren Verlauf
 |---|---|---|
 |aPTT 5–15 sec zu niedrig/zu hoch|+ 15 % / - 15 %|2–3 h nach Dosisänderung|
 |aPTT im Ziel|-||
-|aPTT > 15–30 sec zu niedrig/zu hoch|<br>+ 25 % / - 25 %|2–3 h nach Dosisänderung|
-|aPTT > 3x baseline (~120 sec)<br>GFR > 60 ml/min/1,73 m²<br>GFR 3–60 ml/min/1,73 m²<br>GFR < 30 ml/min/1,73 m²|Pause für 15 min und – 30 %<br>Pause für 45 min und – 40 %<br>Pause für 120 min und Re-Start<br>erst nach aPTT-Ergebnis|2–3 h nach Dosisänderung|
+|aPTT > 15–30 sec zu niedrig/zu hoch|
++ 25 % / - 25 %|2–3 h nach Dosisänderung|
+|aPTT > 3x baseline (~120 sec)
+GFR > 60 ml/min/1,73 m²
+GFR 3–60 ml/min/1,73 m²
+GFR < 30 ml/min/1,73 m²|Pause für 15 min und – 30 %
+Pause für 45 min und – 40 %
+Pause für 120 min und Re-Start
+erst nach aPTT-Ergebnis|2–3 h nach Dosisänderung|
 
 * Bei hohem Thromboserisiko 70–90 s 
 
@@ -135,10 +162,15 @@ Daumenregel: Differenz der aktuellen aPTT zum Zielwert = Dosisänderung in %
 |**< 0,35**||+ 25 %|4 h nach nächster Dosis*|
 |**0,35–0,45**||+ 15 %|4 h nach nächster Dosis*|
 |**0,46–0,79**||+ 10 %|4 h nach nächster Dosis*|
-|**0,8–1,0**||–|4 h nach nächster Dosis in erster<br>Therapiewoche,<br>Dann, falls stabil 1 – 2x pro Woche|
+|**0,8–1,0**||–|4 h nach nächster Dosis in erster
+Therapiewoche,
+Dann, falls stabil 1 – 2x pro Woche|
 |**1,1–1,25**||- 10 %|4 h nach nächster Dosis|
 |**1,26–1,5**||- 30 %|4 h nach nächster Dosis|
-|**1,6–2,0**|Nächste Injektion<br>3 h verschieben|- 40 %|4 h nach nächster Dosis,<br>Nierenfunktion normal? Ggfs. eGFR<br>bestimmen|
+|**1,6–2,0**|Nächste Injektion
+3 h verschieben|- 40 %|4 h nach nächster Dosis,
+Nierenfunktion normal? Ggfs. eGFR
+bestimmen|
 |**> 2,0**|Bis anti-Xa < 1.0|- 50 %|Vor nächster Dosis, alle 12 h wiederholen|
 
 * Bei suffizienter Antikoagulation durch Bivalirudin reicht Kontrolle 4 h nach nächster Morgendosis, sonst Entscheidung im klinischen Kontext, ob die Laborkontrolle auf den nächsten Tag geschoben werden kann. 
@@ -160,8 +192,11 @@ Daumenregel: Differenz der aktuellen aPTT zum Zielwert = Dosisänderung in %
 ||> 4,0|Stopp bis < 4,0, dann Re-Start mit 50 % der letzten Dosis|
 |**Ab Tag 5**|1,1–1,9|Erhöhe Dosis um 50 %|
 ||2–2,6|Erhöhe Dosis um 10 %|
-||2,7–3,0|Falls INR in letzten Tagen steigt: keine Änderung<br>Falls INR über einige Tage stabil: Erhöhe Dosis um 10 %|
-||3,0–4,0|Keine Änderung<br>Ggfs. Dosisreduktion um etwa 10 %, falls INR in letzten<br>Tagen gestiegen ist|
+||2,7–3,0|Falls INR in letzten Tagen steigt: keine Änderung
+Falls INR über einige Tage stabil: Erhöhe Dosis um 10 %|
+||3,0–4,0|Keine Änderung
+Ggfs. Dosisreduktion um etwa 10 %, falls INR in letzten
+Tagen gestiegen ist|
 ||4,1–5,0|Stopp, Re-sSart mit 20 % reduzierter Dosis|
 
 * Wenn Basis-INR bereits über 1,8 Einzelfallentscheidung. Grund für erhöhte INR (Vitamin K-Mangel, Leberinsuffizienz, Faktorenmangel) evaluieren. 
@@ -188,8 +223,13 @@ Vorgehen:
 
 |**INR-Ziel**|**INR**|**Enoxaparin**|**antiXa Ziel***|
 |---|---|---|---|
-|3,0–4,0|< 2,7<br>2,7–2,9|100 % der Startdosis<br>50 % der Startdosis|0,8–1,0|
-|3,5–4,5|< 3,0<br>3,1–3,4|100 % der Startdosis<br>50 % der Startdosis|0,8–1,0<br>0,3–0,7|
+|3,0–4,0|< 2,7
+2,7–2,9|100 % der Startdosis
+50 % der Startdosis|0,8–1,0|
+|3,5–4,5|< 3,0
+3,1–3,4|100 % der Startdosis
+50 % der Startdosis|0,8–1,0
+0,3–0,7|
 
 * Kontrolle der anti-Xa-Aktivität empfohlen, wenn INR deutlich unter Zielbereich oder wenn mehrere Tage INR-Ziel unterschritten wird. 
 
@@ -197,17 +237,40 @@ Vorgehen:
 
 |**Monitoring**|**Ziel**|
 |---|---|
-|Multiplate und TAT:<br>Am Ende der Eindosierungsphase, danach alle 14<br>Tage<br>Bei Blutungsneigung oder Ablagerungen in den<br>Pumpen|TAT: 20–30 % Restaktivität<br>Multiplate: Nachweis der ASS- bzw.<br>Clopidogrelwirkung durch Abfall der<br>Messparameter unter altersabhängigen<br>Normbereich*|
+|Multiplate und TAT:
+Am Ende der Eindosierungsphase, danach alle 14
+Tage
+Bei Blutungsneigung oder Ablagerungen in den
+Pumpen|TAT: 20–30 % Restaktivität
+Multiplate: Nachweis der ASS- bzw.
+Clopidogrelwirkung durch Abfall der
+Messparameter unter altersabhängigen
+Normbereich*|
 
 *Halimeh S et al. Multiplate whole blood impedance point of care aggregometry: preliminary reference values in healthy infants, children and adolescents. Klin Padiatr. 2010 May;222(3):158-63 
 
 ||**ASS**|**Clopidogrel**|
 |---|---|---|
 |**Wer?**|Alle Patienten|Patienten am EXCOR|
-||keine Blutung, hämodynamisch stabil,<br>aPTT/antiXa Werte nicht höher als<br>Zielbereich, SM-Kabel gezogen und<br>EXCOR: ab 48 h post-OP, Plt > 40.000/µl<br>HM 3: ab 5 dpost-OP,Plt > 100.000/µl|Sobald Start LMWH oder VKA<br>Solange Bivalirudin verwendet wird:<br>Einzelfallentscheidung|
+||keine Blutung, hämodynamisch stabil,
+aPTT/antiXa Werte nicht höher als
+Zielbereich, SM-Kabel gezogen und
+EXCOR: ab 48 h post-OP, Plt > 40.000/µl
+HM 3: ab 5 dpost-OP,Plt > 100.000/µl|Sobald Start LMWH oder VKA
+Solange Bivalirudin verwendet wird:
+Einzelfallentscheidung|
 |**Wann?**|||
 ||||
-||Startdosis: 1 mg/kg/d po<br>EXCOR: Steigerung auf mind. 3 mg/kg/d<br>innerhalb von 1 Woche; Zieldosis: 3–5<br>mg/kg/d po<br>HM 3: 100 mg/d|0,2 mg/kg/d po<br>Steigerung auf mind. 0,3 mg/kg/d innerhalb von 1<br>Woche<br>Zieldosis: 0,5 (–1) mg/kg/d po, max. 75 mg/d<br>Bei HTPR (high on-treatment platelet reactivity) bis<br>zu 2 mg/kg/dpo|
+||Startdosis: 1 mg/kg/d po
+EXCOR: Steigerung auf mind. 3 mg/kg/d
+innerhalb von 1 Woche; Zieldosis: 3–5
+mg/kg/d po
+HM 3: 100 mg/d|0,2 mg/kg/d po
+Steigerung auf mind. 0,3 mg/kg/d innerhalb von 1
+Woche
+Zieldosis: 0,5 (–1) mg/kg/d po, max. 75 mg/d
+Bei HTPR (high on-treatment platelet reactivity) bis
+zu 2 mg/kg/dpo|
 |**Dosis**|||
 ||||
 

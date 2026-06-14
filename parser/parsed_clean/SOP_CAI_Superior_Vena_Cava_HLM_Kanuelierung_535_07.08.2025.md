@@ -52,7 +52,8 @@ Saal-Ultraschallgerät mit bezogener TEE-Sonde in der Einleitung, zusätzlich gg
 |---|---|---|---|
 |VJID⌀|≥ 0,8 cm|≥ 1,0 cm|≥ 1,2 cm|
 |||||
-|HLS+ZVK/Schleuse<br>VJID⌀|||keine Doppelpunktion|
+|HLS+ZVK/Schleuse
+VJID⌀|||keine Doppelpunktion|
 ||≥ 2,0 cm|≥ 2,2 cm||
 |||||
 

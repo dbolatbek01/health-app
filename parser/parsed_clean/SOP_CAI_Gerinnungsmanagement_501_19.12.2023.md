@@ -65,9 +65,14 @@ Die nachfolgend empfohlenen Intervalle sind in Abhängigkeit von Diagnosen, Inte
 
 |**Wirkstoff**|**Kreatinin Clearance**|**Kreatinin Clearance**|**Kreatinin Clearance**|**Kreatinin Clearance**|
 |---|---|---|---|---|
-||**> 80**<br>[ml/min]|**50 - 80**<br>[ml/min]|**30 - 50**<br>[ml/min]|**15 - 30**<br>[ml/min]|
+||**> 80**
+[ml/min]|**50 - 80**
+[ml/min]|**30 - 50**
+[ml/min]|**15 - 30**
+[ml/min]|
 |Dabigatran|48 h|72 h|96 h|kontraindiziert|
-|Rivaroxaban|> 48 h<br>(für große Eingriffe mit hohem Blutungsrisiko)||||
+|Rivaroxaban|> 48 h
+(für große Eingriffe mit hohem Blutungsrisiko)||||
 |Apixaban|||||
 |Edoxaban|||||
 ||||||
@@ -89,14 +94,53 @@ Patienten, die bereits mit ASS behandelt werden, sollten dies unverändert fortf
 
 ||**Medikament**|**HWZ**|**Elimination**|**Labor**|**Antagonisierung**|
 |---|---|---|---|---|---|
-|COX1-Ant.|ASS<br>(_Aspirin_)|2 h|> 90% renal|Multiplate®<br>ASPItest,<br>PFA-100 Test|TK frühestens 2 h nach Einnahme,<br>alternativ:<br>- DDAVP 0,3 µg/kg über mind. 30 Min.<br>(max. 24 µg;**Cave**: Blutdruck-Abfall)|
-|ADP-Hemmer / P2Y12-Antagonisten|Clopidogrel<br>(_Iscover_,<br>_Plavix_)|8 h|50% renal|Multiplate®<br>ADPtest|TK frühestens 8 h nach Einnahme,<br>alternativ:<br>- DDAVP 0,3 µg/kg über mind. 30 Min.<br>(max. 24 µg;**Cave**: Blutdruck-Abfall)|
-||Prasugrel<br>(_Efient_)|7 h|70% renal||TK frühestens 8 h nach Einnahme,<br>alternativ:<br>- DDAVP 0,3 µg/kg über mind. 30 Min.<br>(max. 24 µg;**Cave**:Blutdruck-Abfall)|
-||Ticagrelor<br>(_Brilique_)|7-8,5 h|Primär biliär||- Tranexamsäure<br>- Cytosorb® (zugelassen)<br>- TK + DDAVP wahrscheinlich<br>wirkungslos<br>- perspektivisch ggf. Zulassung von<br>spezif. Antidot Bentracimab|
-|GP IIb/IIIa-Ant.|Tirofiban<br>(_Aggrastat_)1|2 h|70% renal|Multiplate®<br>TRAPtest|- forcierte Diurese<br>- bei KreaCl < 30 ml/min: UF an HLM<br>- TK-Substitution (innerhalb der HWZ<br>wenig sinnvoll)|
-||Eptifibatid<br>(_Integrilin_)|2,5 h|50% renal|||
-||Abciximab<br>(_ReoPro_)|(0,5 h)2|Abbau mit<br>Thrombozyt<br>en|||
-|DTI|Argatroban<br>(_Argatra_)1|60 min|22% renal|PTT, ACT,<br>Spiegelbestim-<br>mung (über<br>modifizierte<br>Thrombinzeit<br>möglich)|- wenn möglich 2-4 h prä-OP absetzen<br>- evtl. FFP, PPSB (bei kurzer HWZ<br>meist nicht erforderlich)|
+|COX1-Ant.|ASS
+(_Aspirin_)|2 h|> 90% renal|Multiplate®
+ASPItest,
+PFA-100 Test|TK frühestens 2 h nach Einnahme,
+alternativ:
+- DDAVP 0,3 µg/kg über mind. 30 Min.
+(max. 24 µg;**Cave**: Blutdruck-Abfall)|
+|ADP-Hemmer / P2Y12-Antagonisten|Clopidogrel
+(_Iscover_,
+_Plavix_)|8 h|50% renal|Multiplate®
+ADPtest|TK frühestens 8 h nach Einnahme,
+alternativ:
+- DDAVP 0,3 µg/kg über mind. 30 Min.
+(max. 24 µg;**Cave**: Blutdruck-Abfall)|
+||Prasugrel
+(_Efient_)|7 h|70% renal||TK frühestens 8 h nach Einnahme,
+alternativ:
+- DDAVP 0,3 µg/kg über mind. 30 Min.
+(max. 24 µg;**Cave**:Blutdruck-Abfall)|
+||Ticagrelor
+(_Brilique_)|7-8,5 h|Primär biliär||- Tranexamsäure
+- Cytosorb® (zugelassen)
+- TK + DDAVP wahrscheinlich
+wirkungslos
+- perspektivisch ggf. Zulassung von
+spezif. Antidot Bentracimab|
+|GP IIb/IIIa-Ant.|Tirofiban
+(_Aggrastat_)1|2 h|70% renal|Multiplate®
+TRAPtest|- forcierte Diurese
+- bei KreaCl < 30 ml/min: UF an HLM
+- TK-Substitution (innerhalb der HWZ
+wenig sinnvoll)|
+||Eptifibatid
+(_Integrilin_)|2,5 h|50% renal|||
+||Abciximab
+(_ReoPro_)|(0,5 h)2|Abbau mit
+Thrombozyt
+en|||
+|DTI|Argatroban
+(_Argatra_)1|60 min|22% renal|PTT, ACT,
+Spiegelbestim-
+mung (über
+modifizierte
+Thrombinzeit
+möglich)|- wenn möglich 2-4 h prä-OP absetzen
+- evtl. FFP, PPSB (bei kurzer HWZ
+meist nicht erforderlich)|
 
 > 1 **Cave** : Die Handelsnamen von Tirofiban ( _Aggrastat_ ) und Argatroban ( _Argatra_ ) ähneln sich stark. Hier ist erhöhte Vigilanz gefordert, da beide Substanzen für sehr unterschiedliche Indikationen im Rahmen des Managements von Patienten mit HIT II zum Einsatz kommen! 
 
@@ -104,12 +148,61 @@ Patienten, die bereits mit ASS behandelt werden, sollten dies unverändert fortf
 
 ||**Medikament**|**HWZ**|**Elimination**|**Labor**||**Antagonisierung**|
 |---|---|---|---|---|---|---|
-|VKA|Phen-<br>procoumon<br>(_Marcumar_,<br>_Falithrom_)|6,5 d|hepatische<br>Metaboli-<br>sation, renale<br>Elimination|INR / Quick||1. PPSB nach Ziel-Quick (**Cave**:<br>mechanische Klappenprothese / MCS)<br>vor OP-Beginn bzw. nach HLM-Ende<br>2. Vitamin K maximal 5 mg langsam i.v.<br>**Cave**:<br>- anaphylaktoide Reaktionen<br>- bei höheren Vit. K Dosierungen im<br>Verlauf sehr schwierige Re-Einstellung<br>auf VKA|
-|DOAK|Dabigatran<br>(_Pradaxa_)|11-14 h|80% renal|TZ / aPTT<br>(neg. prädiktiv,<br>d. h. kein<br>relevanter<br>Plasmaspiegel<br>falls normw.),<br>Spiegel-<br>bestimmung||1. Idarucizumab (_Praxbind_)<br>2. PPSB 40 IE/kg<br>alternativ:<br>- Ultrafiltration an HLM (gut dialysierbar)<br>- Cytosorb® (off label, in vitro wirksam)|
-||Apixaban<br>(_Eliquis_)|8-15 h|75% biliär|TPZ (unspez.<br>Nachweis),<br>Anti-Xa NMH,<br>Spiegel-<br>bestimmung<br>(Apixaban und<br>Rivaroxaban)3||1. Andexanet alfa* (_Ondexxya_) für<br>Apixaban, Rivaroxaban; off-label bei<br>Edoxaban<br>alternativ:<br>- PPSB-Gabe 50 IE/kg<br>- Cytosorb® (für Rivaroxaban<br>zugelassen, wenig klinische Erfahrung<br>mit Apixaban, in vitro wirksam bei<br>Edoxaban)|
-||Rivaroxaban<br>(_Xarelto_)|7-13 h|67% renal||||
-||Edoxaban<br>(_Lixiana_)|10-14 h|50% renal,<br>50% biliär||||
-|Heparinoid|Fondaparinux<br>(_Arixtra_)|17-21 h|70% renal|Anti-Xa<br>Fondaparinux||- kein Antidot<br>- allgemeine Maßnahmen zur<br>Behandlung der Blutung<br>- möglicherweise rFVIIa (_NovoSeven_)|
+|VKA|Phen-
+procoumon
+(_Marcumar_,
+_Falithrom_)|6,5 d|hepatische
+Metaboli-
+sation, renale
+Elimination|INR / Quick||1. PPSB nach Ziel-Quick (**Cave**:
+mechanische Klappenprothese / MCS)
+vor OP-Beginn bzw. nach HLM-Ende
+2. Vitamin K maximal 5 mg langsam i.v.
+**Cave**:
+- anaphylaktoide Reaktionen
+- bei höheren Vit. K Dosierungen im
+Verlauf sehr schwierige Re-Einstellung
+auf VKA|
+|DOAK|Dabigatran
+(_Pradaxa_)|11-14 h|80% renal|TZ / aPTT
+(neg. prädiktiv,
+d. h. kein
+relevanter
+Plasmaspiegel
+falls normw.),
+Spiegel-
+bestimmung||1. Idarucizumab (_Praxbind_)
+2. PPSB 40 IE/kg
+alternativ:
+- Ultrafiltration an HLM (gut dialysierbar)
+- Cytosorb® (off label, in vitro wirksam)|
+||Apixaban
+(_Eliquis_)|8-15 h|75% biliär|TPZ (unspez.
+Nachweis),
+Anti-Xa NMH,
+Spiegel-
+bestimmung
+(Apixaban und
+Rivaroxaban)3||1. Andexanet alfa* (_Ondexxya_) für
+Apixaban, Rivaroxaban; off-label bei
+Edoxaban
+alternativ:
+- PPSB-Gabe 50 IE/kg
+- Cytosorb® (für Rivaroxaban
+zugelassen, wenig klinische Erfahrung
+mit Apixaban, in vitro wirksam bei
+Edoxaban)|
+||Rivaroxaban
+(_Xarelto_)|7-13 h|67% renal||||
+||Edoxaban
+(_Lixiana_)|10-14 h|50% renal,
+50% biliär||||
+|Heparinoid|Fondaparinux
+(_Arixtra_)|17-21 h|70% renal|Anti-Xa
+Fondaparinux||- kein Antidot
+- allgemeine Maßnahmen zur
+Behandlung der Blutung
+- möglicherweise rFVIIa (_NovoSeven_)|
 
 * **Cave** : Andexanet alfa verursacht eine Aufhebung der, sowie Unempfindlichkeit für die antikoagulatorischen Effekte von Heparin und sollte daher keinesfalls bei Patienten die eine Vollantikoagulation mit Heparin für beispielsweise einen Eingriff an der HLM benötigen verwendet werden (s. a. Rote-Hand-Brief)![4] Im Zweifelsfalle ist hier eine Hämoadsoprtionstherapie mit Cytosorb® zu präferieren. In Einzelfallberichten konnte eine Supplementation von AT III die Heparinresistenz von Andexanet alfa aufheben.[5] 
 
@@ -149,16 +242,34 @@ Für HIT-II-Patienten steht heparinfreies PPSB/4F-PCC ( _Cofact_ ) zur Verfügun
 
 Eine jeweils aktuelle Version der charitéweiten Notfalldepots inkl. Gerinnungsfaktoren findet sich im Intranet. Der Apothekennotdienst ist unter der Notfall-Nr. 0174 / 904 18 24 durchgehend erreichbar. 
 
-|**Wirkstoff /**<br>**Wirkstoff-**<br>**klasse**|**Handelsname**|**Stärke**|**W 1i**|**chir.**<br>**RST**|**Kinder-**<br>**RST**|**W 51**|**Labor**<br>**AP**|**W 47i**|
+|**Wirkstoff /**
+**Wirkstoff-**
+**klasse**|**Handelsname**|**Stärke**|**W 1i**|**chir.**
+**RST**|**Kinder-**
+**RST**|**W 51**|**Labor**
+**AP**|**W 47i**|
 |---|---|---|---|---|---|---|---|---|
 ||||**651 141**|**552 000**|**566 128**|**553 065**|**2446**|**665 111**|
-|Andexanet<br>alfa|_Ondexxya_|200 mg||X|||||
-|Antithrombin<br>(AT III)|_Kybernin P_/<br>_Atenativ_|500 IE|X|||X|X|X|
+|Andexanet
+alfa|_Ondexxya_|200 mg||X|||||
+|Antithrombin
+(AT III)|_Kybernin P_/
+_Atenativ_|500 IE|X|||X|X|X|
 |||1000 IE|X|||X|X|X|
-|Fibrinogen|_Haemo-_<br>_complettan_/<br>Alternativ-<br>produkte|1 g|X|||X|X|X|
+|Fibrinogen|_Haemo-_
+_complettan_/
+Alternativ-
+produkte|1 g|X|||X|X|X|
 |||2 g|X|||X|X||
-|Prothrombin-<br>komplex<br>(PPSB /<br>4F-PCC)|_Beriplex_/<br>_Octaplex_/<br>_Prothromplex_|500 IE /<br>600 IE|X||||X|X|
-|PPSB<br>heparinfrei|_Cofact_|500 IE|X||||X|X|
+|Prothrombin-
+komplex
+(PPSB /
+4F-PCC)|_Beriplex_/
+_Octaplex_/
+_Prothromplex_|500 IE /
+600 IE|X||||X|X|
+|PPSB
+heparinfrei|_Cofact_|500 IE|X||||X|X|
 |FVII|_NovoSeven_|1 g|X||X||||
 |||2 g|X||X||||
 |||5 g|X||||||
@@ -169,11 +280,18 @@ Eine jeweils aktuelle Version der charitéweiten Notfalldepots inkl. Gerinnungsf
 
 > 6 O’Donnell C et al. The Use of Factor Eight Inhibitor Bypass Activity (FEIBA) for the Treatment of Perioperative Hemorrhage in Left Ventricular Assist Device Implantation. J Cardiothorac Vasc Anesth 2021; 35: 2651-58 7 Rao VK. Factor VIII Inhibitor Bypass Activity and Recombinant Activated Factor VII in Cardiac Surgery. J Cardiothorac Vasc Anesth 2014; 28(5):1221-6 
 
-|**Wirkstoff /**<br>**Wirkstoff-**<br>**klasse**|**Handelsname**|**Stärke**|**W 1i**|**chir.**<br>**RST**|**Kinder-**<br>**RST**|**W 51**|**Labor**<br>**AP**|**W 47i**|
+|**Wirkstoff /**
+**Wirkstoff-**
+**klasse**|**Handelsname**|**Stärke**|**W 1i**|**chir.**
+**RST**|**Kinder-**
+**RST**|**W 51**|**Labor**
+**AP**|**W 47i**|
 |---|---|---|---|---|---|---|---|---|
 ||||**651 141**|**552 000**|**566 128**|**553 065**|**2446**|**665 111**|
-|FVIII + vWF|_Haemate_|1000 IE /<br>2400 IE||||X|||
-||_Wilate_|1000 IE /<br>2400 IE|||X|X|||
+|FVIII + vWF|_Haemate_|1000 IE /
+2400 IE||||X|||
+||_Wilate_|1000 IE /
+2400 IE|||X|X|||
 |FIX|_Idelvion_|1000 IE|||X||||
 |FXIII|_Fibrogammin_|1250 IE|X8||||||
 |Idarucizumab|_Praxbind_|||X|||||
@@ -185,10 +303,26 @@ Multiplate®-Analytik und ROTEM®-Diagnostik sind über das Akutlabor AP bzw. am
 
 |**Indikation**|**Labor**|**Zeitpunkt**|
 |---|---|---|
-|zeitkritische Einnahme ADP-<br>Rezeptorantagonisten oder<br>GP IIb/IIIa-Anatgonisten<br>(Aspirin mono explizit nicht)|Multiplate®***<br>(Hirudin-Monovette,<br>PLT > 40.000)|vor HLM / vor Protamin-<br>applikation|
-|Eingriffe in DHCA,<br>Aortendissektionen,<br>Aortenbogenchirurgie|ROTEM® / ClotPro®<br>(Citrat-Monovette)|vor HLM-Abgang|
-|Massivtransfusion: Retransfusions-<br>Volumen via MAT > 50 ml/kg oder<br>Transfusion von > 30 ml/kg<br>Erythrozytenkonzentrat innerhalb<br>von 2 h|ROTEM® / ClotPro®<br>(Citrat-Monovette)|vor / nach HLM-Abgang|
-|hämorrhagische Diathese nach<br>Substitution|ROTEM® / ClotPro®<br>(Citrat-Monovette)|nach HLM-Abgang bei Bedarf|
+|zeitkritische Einnahme ADP-
+Rezeptorantagonisten oder
+GP IIb/IIIa-Anatgonisten
+(Aspirin mono explizit nicht)|Multiplate®***
+(Hirudin-Monovette,
+PLT > 40.000)|vor HLM / vor Protamin-
+applikation|
+|Eingriffe in DHCA,
+Aortendissektionen,
+Aortenbogenchirurgie|ROTEM® / ClotPro®
+(Citrat-Monovette)|vor HLM-Abgang|
+|Massivtransfusion: Retransfusions-
+Volumen via MAT > 50 ml/kg oder
+Transfusion von > 30 ml/kg
+Erythrozytenkonzentrat innerhalb
+von 2 h|ROTEM® / ClotPro®
+(Citrat-Monovette)|vor / nach HLM-Abgang|
+|hämorrhagische Diathese nach
+Substitution|ROTEM® / ClotPro®
+(Citrat-Monovette)|nach HLM-Abgang bei Bedarf|
 
 *** Die Impedanzaggregometrie mit dem Multiplate®-System offenbart insbesondere nach HLM eine protaminabhängige Thrombozytendysfunktion; so zeigt vor allem der ADP-induzierte Test eine signifikante Reduktion der Aggregation sobald das Protamin : Heparin-Verhältnis 1,3 : 1 übersteigt. Zwar unterstreicht diese Tatsache, dass Protaminüberdosierung einen prokoagulatorischen Effekt hat und vermieden werden sollte, die klinische Relevanz dieser Thrombozytendysfunktion wird aber in Frage gestellt, da es in der Regel nach 1–2 h zu einer spontanen Erholung der Thrombozytenaggregation kommt.[9] Im Zeitraum von 90 min. nach Protaminapplikation sollte idealerweise von Multiplate®-Analysen abgesehen werden. Von Heparingaben wir die Multiplate®-Analytik nicht beeinflusst.[ 10] 
 
@@ -202,16 +336,33 @@ Multiplate®-Analytik und ROTEM®-Diagnostik sind über das Akutlabor AP bzw. am
 
 ## **6.1 ROTEM®** 
 
-||**CT**<br>[s]|**CFT**<br>[s]|**A10**<br>[mm]|**A20**<br>[mm]|**MCF**<br>[mm]|**CLI30**<br>[%]|**CLI60**<br>[%]|
+||**CT**
+[s]|**CFT**
+[s]|**A10**
+[mm]|**A20**
+[mm]|**MCF**
+[mm]|**CLI30**
+[%]|**CLI60**
+[%]|
 |---|---|---|---|---|---|---|---|
-|**INTEM**<br>(INT)|100 - 240|30 - 110|44 - 66|55 - 71|5 - 27|85 - 100|85 - 100|
-|**EXTEM**<br>(EXT)|38 - 79|34 - 159|43 - 65|55 - 71|5 - 27|85 - 100|85 - 100|
-|**APTEM**<br>(APT)|38 - 79|34 - 159|||5 - 27|||
-|**FIBTEM**<br>(FIB)|||7 - 23|8 - 24|9 - 25|||
+|**INTEM**
+(INT)|100 - 240|30 - 110|44 - 66|55 - 71|5 - 27|85 - 100|85 - 100|
+|**EXTEM**
+(EXT)|38 - 79|34 - 159|43 - 65|55 - 71|5 - 27|85 - 100|85 - 100|
+|**APTEM**
+(APT)|38 - 79|34 - 159|||5 - 27|||
+|**FIBTEM**
+(FIB)|||7 - 23|8 - 24|9 - 25|||
 
 ## **6.2 ClotPro®** 
 
-||**CT**<br>[s]|**CFT**<br>[s]|**A5**<br>[mm]|**A10**<br>[mm]|**A20**<br>[mm]|**MCF**<br>[mm]|
+||**CT**
+[s]|**CFT**
+[s]|**A5**
+[mm]|**A10**
+[mm]|**A20**
+[mm]|**MCF**
+[mm]|
 |---|---|---|---|---|---|---|
 |**IN-test**|139 - 187|52 - 139|32 - 53|41 - 61|48 - 65|49 - 65|
 |**EX-test**|38 - 65|42 - 93|39 - 58|47 - 64|52 - 67|53 - 68|
@@ -237,20 +388,69 @@ Dokumentation der Indikation für die Substitution von Gerinnungsfaktoren und Bl
 
 ## **7.1 Perioperativ bereits antizipierte Blutungsneigung** 
 
-30 min. vor HLM-Weaning:<br>kleines BB und ROTEM®-Analyse (EXTEM, FIBTEM, HEPTEM)<br>Fibrinogen 50 mg/kg  vor<br>MCFFIB ≈ 0 mm  <br>Protamin<br>A10EXT [12]  < 40 mm  und A10FIB<br>> 8 mm<br>oder   2 Apherese-TK  vor bestellen<br>MCFEXT [12]  < 50 mm  und MCFFIB<br>> 12 mm<br>CTEXT [12]  > 90 s   ggf. PPSB 10 IE/kg bestellen<br>**----- End of picture text -----**<br>
+30 min. vor HLM-Weaning:
+kleines BB und ROTEM®-Analyse (EXTEM, FIBTEM, HEPTEM)
+Fibrinogen 50 mg/kg  vor
+MCFFIB ≈ 0 mm  
+Protamin
+A10EXT [12]  < 40 mm  und A10FIB
+> 8 mm
+oder   2 Apherese-TK  vor bestellen
+MCFEXT [12]  < 50 mm  und MCFFIB
+> 12 mm
+CTEXT [12]  > 90 s   ggf. PPSB 10 IE/kg bestellen
+**----- End of picture text -----**
+
 
 > 12 Bei hohen Heparinspiegeln ≥ 4 - 5 IE/ml während der extrakorporalen Zirkulation ist der Aktivator im EXTEMReagenz lt. Herstellerangaben nicht mehr zuverlässig, im Zweifel ROTEM-Analyse **nach** Protaminisierung reevaluieren! 
 
 ## **7.2 Diffus blutender Patient nach Heparin-Antagonisierung** 
 
-|Rahmenbedingungen optimieren:<br>Temp. ≥ 36°C<br>pH > 7,2<br>Ca2+≥ 1,2 mmol/l<br>Hb ≥ 8 g/dl|Rahmenbedingungen optimieren:<br>Temp. ≥ 36°C<br>pH > 7,2<br>Ca2+≥ 1,2 mmol/l<br>Hb ≥ 8 g/dl|Rahmenbedingungen optimieren:<br>Temp. ≥ 36°C<br>pH > 7,2<br>Ca2+≥ 1,2 mmol/l<br>Hb ≥ 8 g/dl|
+|Rahmenbedingungen optimieren:
+Temp. ≥ 36°C
+pH > 7,2
+Ca2+≥ 1,2 mmol/l
+Hb ≥ 8 g/dl|Rahmenbedingungen optimieren:
+Temp. ≥ 36°C
+pH > 7,2
+Ca2+≥ 1,2 mmol/l
+Hb ≥ 8 g/dl|Rahmenbedingungen optimieren:
+Temp. ≥ 36°C
+pH > 7,2
+Ca2+≥ 1,2 mmol/l
+Hb ≥ 8 g/dl|
 |---|---|---|
 ||||
 |kleines BB und ROTEM®-Analyse(INTEM, EXTEM, FIBTEM, HEPTEM)|||
-|CTINT> 240 s**und**CTHEP< 240 s<br>oder<br>CTINT> 240 s**und**CTHEP÷ CTINT<br>< 0,8<br><br>CTEXT> 80 s<br>oder<br>CTHEP> 260 s<br><br>A10EXT< 40 mm**und** A10FIB<br>< 10 mm<br>oder<br>MCFEXT< 50 mm**und** MCFFIB<br>< 12 mm<br><br>A10FIB< 4 mm<br><br>A10EXT< 40 mm**und** A10FIB<br>> 8 mm<br>resp.<br>MCFEXT< 50 mm**und** MCFFIB<br>> 12 mm<br><br>CLIEXT< 85%<br>|||
+|CTINT> 240 s**und**CTHEP< 240 s
+oder
+CTINT> 240 s**und**CTHEP÷ CTINT
+< 0,8
+
+CTEXT> 80 s
+oder
+CTHEP> 260 s
+
+A10EXT< 40 mm**und** A10FIB
+< 10 mm
+oder
+MCFEXT< 50 mm**und** MCFFIB
+< 12 mm
+
+A10FIB< 4 mm
+
+A10EXT< 40 mm**und** A10FIB
+> 8 mm
+resp.
+MCFEXT< 50 mm**und** MCFFIB
+> 12 mm
+
+CLIEXT< 85%
+|||
 |||Protamin 30 IE/kg|
 ||||
-|||PPSB 20 IE/kg, alternativ<br>FFP 30 ml/kg bei Hypovolämie|
+|||PPSB 20 IE/kg, alternativ
+FFP 30 ml/kg bei Hypovolämie|
 ||||
 |||Fibrinogen 25 mg/kg|
 ||||
@@ -262,18 +462,61 @@ Dokumentation der Indikation für die Substitution von Gerinnungsfaktoren und Bl
 
 ## **7.3 Prolongierte Blutstillung, diffuse Hämorrhagie** 
 
-|Rahmenbedingungen optimieren:<br>Temp. ≥ 36°C<br>pH > 7,2<br>Ca2+≥ 1,2 mmol/l<br>Hb ≥ 8 g/dl|Rahmenbedingungen optimieren:<br>Temp. ≥ 36°C<br>pH > 7,2<br>Ca2+≥ 1,2 mmol/l<br>Hb ≥ 8 g/dl|Rahmenbedingungen optimieren:<br>Temp. ≥ 36°C<br>pH > 7,2<br>Ca2+≥ 1,2 mmol/l<br>Hb ≥ 8 g/dl|
+|Rahmenbedingungen optimieren:
+Temp. ≥ 36°C
+pH > 7,2
+Ca2+≥ 1,2 mmol/l
+Hb ≥ 8 g/dl|Rahmenbedingungen optimieren:
+Temp. ≥ 36°C
+pH > 7,2
+Ca2+≥ 1,2 mmol/l
+Hb ≥ 8 g/dl|Rahmenbedingungen optimieren:
+Temp. ≥ 36°C
+pH > 7,2
+Ca2+≥ 1,2 mmol/l
+Hb ≥ 8 g/dl|
 |---|---|---|
 ||||
-|kleines BB, plasmat. Gerinnung und ROTEM®-Analyse (INTEM, EXTEM,<br>FIBTEM, HEPTEM, APTEM)|||
-|CTINT> 240 s**und**CTHEP< 240 s<br>oder<br>CTINT> 240 s**und**CTHEP÷ CTINT<br>< 0,8<br><br>CTINT> 240 s**und**CTHEP> 240 s<br>**und** CTHEP÷ CTINT> 1<br><br>CTEXT> 60 s oder INR > 1,5<br><br>CTEXT> 80 s oder INR > 2,0<br><br>A10FIB< 12 mm<br><br>A10FIB< 8 mm<br><br>A10FIB< 4 mm<br><br>PLT < 100.000<br><br>PLT ≥ 100.000<br><br>CLIEXT< 85%**und**CTAPT<< CTEX<br>oder MCFAPT÷ MCFHEP> 1.514<br><br>CTEXT< 80 s**und**A10FIB> 15 mm<br>**und** A10EXT> 50 mm<br>|||
+|kleines BB, plasmat. Gerinnung und ROTEM®-Analyse (INTEM, EXTEM,
+FIBTEM, HEPTEM, APTEM)|||
+|CTINT> 240 s**und**CTHEP< 240 s
+oder
+CTINT> 240 s**und**CTHEP÷ CTINT
+< 0,8
+
+CTINT> 240 s**und**CTHEP> 240 s
+**und** CTHEP÷ CTINT> 1
+
+CTEXT> 60 s oder INR > 1,5
+
+CTEXT> 80 s oder INR > 2,0
+
+A10FIB< 12 mm
+
+A10FIB< 8 mm
+
+A10FIB< 4 mm
+
+PLT < 100.000
+
+PLT ≥ 100.000
+
+CLIEXT< 85%**und**CTAPT<< CTEX
+oder MCFAPT÷ MCFHEP> 1.514
+
+CTEXT< 80 s**und**A10FIB> 15 mm
+**und** A10EXT> 50 mm
+|||
 |||Protamin 30 IE/kg|
 ||||
-|||**Cave!** Ggf.<br>Protaminüberdosierung13|
+|||**Cave!** Ggf.
+Protaminüberdosierung13|
 ||||
-|||PPSB 10 IE/kg, alternativ<br>FFP 15 ml/kgbei Hypovolämie|
+|||PPSB 10 IE/kg, alternativ
+FFP 15 ml/kgbei Hypovolämie|
 ||||
-|||PPSB 20 IE/kg, alternativ<br>FFP 30 ml/kgbei Hypovolämie|
+|||PPSB 20 IE/kg, alternativ
+FFP 30 ml/kgbei Hypovolämie|
 ||||
 |||Fibrinogen 10 mg/kg|
 ||||
@@ -283,11 +526,16 @@ Dokumentation der Indikation für die Substitution von Gerinnungsfaktoren und Bl
 ||||
 |||2 Apherese-TK|
 ||||
-|||Multiplate® / ClotPro®<br>veranlassen|
+|||Multiplate® / ClotPro®
+veranlassen|
 ||||
-|||Tranexam-Bolus 10 mg/kg und<br>kontinuierliche Gabe mit<br>5 mg/kg/h|
+|||Tranexam-Bolus 10 mg/kg und
+kontinuierliche Gabe mit
+5 mg/kg/h|
 ||||
-|CTEXT< 80 s**und**A10FIB> 15 mm<br>**und** A10EXT> 50 mm||Rescue-Therapien erwägen<br>(s. u.)|
+|CTEXT< 80 s**und**A10FIB> 15 mm
+**und** A10EXT> 50 mm||Rescue-Therapien erwägen
+(s. u.)|
 
 > 13Meester MI et al. The value of the thromboelastometry heparinase assay (HEPTEM) in cardiac surgery. Thromb Haemost 2015; 114(05): 1058-63 
 

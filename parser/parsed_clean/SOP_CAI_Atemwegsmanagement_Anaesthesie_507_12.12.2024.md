@@ -286,7 +286,9 @@ Eine Information bzgl. des Atemwegsmanagements an die weiterbehandelnde Station 
 |HNO CVK|99 655 333|
 |MKG CVK|99 655 444|
 |Kinderchirurgie CVK|99 666410|
-|Kinderanästhesie Saalaufsicht CC7<br>Kinderanästhesie Hausdienst CC7|99 651 444 (Mo-Fr 7-16Uhr)<br>99 651 160 (außerhalb Kernbetriebszeit)|
+|Kinderanästhesie Saalaufsicht CC7
+Kinderanästhesie Hausdienst CC7|99 651 444 (Mo-Fr 7-16Uhr)
+99 651 160 (außerhalb Kernbetriebszeit)|
 |Anästhesie Oberarzt CC7|99 651 222 (außerhalb Kernbetriebszeit)|
 |Neonatologie Rea-Ruf|99 566 555|
 
@@ -306,19 +308,52 @@ Eine Information bzgl. des Atemwegsmanagements an die weiterbehandelnde Station 
 
 Gewichts- und Größenangaben sind Richtwerte. Bitte Sinnhaftigkeit für den spezifischen Patienten und Kompatibilität der Devices vor Verwendung überprüfen. 
 
-|**Gewicht / Alter**|**FG**<br>**<0,7kg**|**FG**<br>**<1,5kg**|**FG/NG**<br>**1,5-3,0kg**|**NG/SG 3,0kg**<br>**- <8 Mon.**|**8 Mon.-**<br>**2 Jahre**|**2- <4**<br>**Jahre**|**4- <6**<br>**Jahre**|**6- <8**<br>**Jahre**|**8 -<10**<br>**Jahre**|**10- <12**<br>**Jahre**|**12 - <14**<br>**Jahre**|**14- <16**<br>**Jahre**|**>16**<br>**Jahre**|
+|**Gewicht / Alter**|**FG**
+**<0,7kg**|**FG**
+**<1,5kg**|**FG/NG**
+**1,5-3,0kg**|**NG/SG 3,0kg**
+**- <8 Mon.**|**8 Mon.-**
+**2 Jahre**|**2- <4**
+**Jahre**|**4- <6**
+**Jahre**|**6- <8**
+**Jahre**|**8 -<10**
+**Jahre**|**10- <12**
+**Jahre**|**12 - <14**
+**Jahre**|**14- <16**
+**Jahre**|**>16**
+**Jahre**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**Ungef. Gewicht**||||**3-10kg**|**7-15kg**|**9-21kg**|**14-28kg**|**16-35kg**|**19-48kg**|**22-62kg**|**28-73kg**|**36-86kg**|**>40kg**|
 |**Tubus Vygon ID**|2.0|2.5|3.0|3.5|4.0|4.5|5.0|||||||
 |**Tubus Microcuff ID**||||3.0|3.5|4.0|4.5|5.0|5.5|6.0|6.5|7.0|7.5|
 |**Führungsstab**||2.5-4.5|||||4-6||||5-10|||
-|**Larynxmaske**<br>**Ambu Aura Once***|||1.0<br>(2-5kg)|1.5<br>(5-10kg)||2.0<br>(10-20kg)||2.5<br>(20-30kg)||||||
+|**Larynxmaske**
+**Ambu Aura Once***|||1.0
+(2-5kg)|1.5
+(5-10kg)||2.0
+(10-20kg)||2.5
+(20-30kg)||||||
 |**Larynxmaske i-gel**||||||||3.0 (30-50kg)|||4.0 (50-70kg)|||
-|**Fiberoptik**|||Olympus 2.2 (ab Vygon 2.5, Microcuff 3.0)<br>Pentax 2.4 (ab Vygon 3.0/ Microcuff 3.5)<br>Pentax 2.8 (ab Microcuff 4.0)<br>Pentax 3.5(ab Microcuff 4.5)|||||4.1||5.2||||
+|**Fiberoptik**|||Olympus 2.2 (ab Vygon 2.5, Microcuff 3.0)
+Pentax 2.4 (ab Vygon 3.0/ Microcuff 3.5)
+Pentax 2.8 (ab Microcuff 4.0)
+Pentax 3.5(ab Microcuff 4.5)|||||4.1||5.2||||
 |**Frova Katheter**|||8F 35cm(mit Stylet)|||||||14F 70cm||||
-|**Airway Exchange**<br>**Catheter (AEC)**<br>**Cook**|||8F 45cm<br>(ohne Draht) (gelb)|||11F 100cm Soft-<br>Tipped (lila-grün)||14F 100cm Soft-Tipped<br>(lila-grün)||||19F 83cm (gelb)||
-|**Doppellumentubus**|||||||||26 CH<br>2.4/2.8 FO|28 CH<br>2.8 FO|32 CH<br>2.8 FO|35 CH<br>3.5 FO|s. u.******|
-|**Bronchialblocker**|||||||Arndt 5F (ggf. extraluminal)<br>2.4 FO;ab TT 4.5|||Arndt 7F<br>2.8 FO;ab TT 6.0||Fuji Uniblocker 9F<br>3.5 FO;ab TT 7.5||
+|**Airway Exchange**
+**Catheter (AEC)**
+**Cook**|||8F 45cm
+(ohne Draht) (gelb)|||11F 100cm Soft-
+Tipped (lila-grün)||14F 100cm Soft-Tipped
+(lila-grün)||||19F 83cm (gelb)||
+|**Doppellumentubus**|||||||||26 CH
+2.4/2.8 FO|28 CH
+2.8 FO|32 CH
+2.8 FO|35 CH
+3.5 FO|s. u.******|
+|**Bronchialblocker**|||||||Arndt 5F (ggf. extraluminal)
+2.4 FO;ab TT 4.5|||Arndt 7F
+2.8 FO;ab TT 6.0||Fuji Uniblocker 9F
+3.5 FO;ab TT 7.5||
 
 ID: Innendurchmesser; TT: Tracheal Tube; FO: Fiberoptik 
 

@@ -16,16 +16,23 @@
 |5|Prozessbeschreibung ...................................................................................................................... 4|
 |5.1|Identifikation potentieller Studienteilnehmer (Screening) ................................................................... 4|
 |5.2|Patientenansprache und Durchführung der Patientenaufklärung ....................................................... 5|
-||5.2.1<br>Vorbedingungen und Vorbereitung .......................................................................... 5|
-||5.2.2<br>Zu verwendende Aufklärungsunterlagen.................................................................. 6|
-||5.2.3<br>Das Aufklärungsgespräch ....................................................................................... 7|
+||5.2.1
+Vorbedingungen und Vorbereitung .......................................................................... 5|
+||5.2.2
+Zu verwendende Aufklärungsunterlagen.................................................................. 6|
+||5.2.3
+Das Aufklärungsgespräch ....................................................................................... 7|
 |5.3|Einholung der Patienteneinwilligung .................................................................................................. 8|
 |5.4|Formaler Patienteneinschluss (Patientenregistrierung) .................................................................... 10|
 |5.5|Dokumentationen ........................................................................................................................... 11|
-||5.5.1<br>Dokumentation des Aufklärungs- und Einwilligungsprozesses ................................ 11|
-||5.5.2<br>Dokumentation in der Patientenakte ...................................................................... 11|
-||5.5.3<br>Dokumentation in den Studiendokumenten ............................................................ 11|
-||5.5.4<br>Markierung des Studienpatienten im KIS ............................................................... 12|
+||5.5.1
+Dokumentation des Aufklärungs- und Einwilligungsprozesses ................................ 11|
+||5.5.2
+Dokumentation in der Patientenakte ...................................................................... 11|
+||5.5.3
+Dokumentation in den Studiendokumenten ............................................................ 11|
+||5.5.4
+Markierung des Studienpatienten im KIS ............................................................... 12|
 |5.6|Randomisierung ............................................................................................................................. 12|
 |5.7|Umgang mit Einwilligungserklärungen im Rahmen von Studien des DZHK...................................... 12|
 |6|Mitgeltende Dokumente ................................................................................................................. 12|
@@ -49,11 +56,19 @@ Die lokale Leitung der studiendurchführenden Abteilung sowie der Hauptprüfer d
 
 ## **2.2 Verantwortlichkeiten:** 
 
-|**2.2**<br>**Verantwortlichkeiten:**||
+|**2.2**
+**Verantwortlichkeiten:**||
 |---|---|
-|Hauptprüfer|Gesamtverantwortung für die Einhaltung dieser SOP, einschließlich<br>der Überwachung der Durchführung des Screenings sowie der Auf-<br>klärungs-und Einwilligungsprozesse.|
-|Aufklärende Person|<br>Durchführung der Aufklärungsgespräche mit den potenziellen Stu-<br>dienteilnehmern und Sicherstellung der ordnungsgemäßen Doku-<br>mentation der Einwilligung.|
-|Studienkoordination,<br>Study Nurses|Unterstützung der aufklärenden Person im Rahmen der Dokumen-<br>tation des Aufklärungs-und Einwilligungsprozesses.|
+|Hauptprüfer|Gesamtverantwortung für die Einhaltung dieser SOP, einschließlich
+der Überwachung der Durchführung des Screenings sowie der Auf-
+klärungs-und Einwilligungsprozesse.|
+|Aufklärende Person|
+Durchführung der Aufklärungsgespräche mit den potenziellen Stu-
+dienteilnehmern und Sicherstellung der ordnungsgemäßen Doku-
+mentation der Einwilligung.|
+|Studienkoordination,
+Study Nurses|Unterstützung der aufklärenden Person im Rahmen der Dokumen-
+tation des Aufklärungs-und Einwilligungsprozesses.|
 
 ## **3 Geltungsbereich / Zielgruppe** 
 
@@ -61,14 +76,28 @@ Diese SOP ist standortübergreifend für alle Mitarbeiter des DHZC verbindlich, 
 
 ## **4 Definitionen** 
 
-|**4**<br>**Definitionen**||
+|**4**
+**Definitionen**||
 |---|---|
-|Patientenaufklärung|Die Information des Patienten über die Studienziele, den Studien-<br>ablauf, potenzielle Risiken und Vorteile sowie die Möglichkeit, Fra-<br>gen zu stellen.|
-|Patienteneinwilligung|<br>Die schriftliche Einwilligung des Patienten zur Teilnahme an einer<br>Studie, nachdem er vollständig über die Studie durch ein ärztliches<br>Mitglied der Prüfgruppe aufgeklärt wurde.|
-|Randomisierung|Ein Prozess, bei dem Teilnehmer einer klinischen Studie zufällig<br>(also ohne systematische Auswahl oder Vorhersagbarkeit) be-<br>stimmten Behandlungsgruppen oder Interventionsarmen zugeord-<br>net werden.|
-|Screening|Der Prozess, durch den potenzielle Teilnehmer anhand von Ein-<br>schluss- und Ausschlusskriterien überprüft werden, um festzustel-<br>len, ob sie für die Teilnahme an der klinischen Studie geeignet<br>sind.|
+|Patientenaufklärung|Die Information des Patienten über die Studienziele, den Studien-
+ablauf, potenzielle Risiken und Vorteile sowie die Möglichkeit, Fra-
+gen zu stellen.|
+|Patienteneinwilligung|
+Die schriftliche Einwilligung des Patienten zur Teilnahme an einer
+Studie, nachdem er vollständig über die Studie durch ein ärztliches
+Mitglied der Prüfgruppe aufgeklärt wurde.|
+|Randomisierung|Ein Prozess, bei dem Teilnehmer einer klinischen Studie zufällig
+(also ohne systematische Auswahl oder Vorhersagbarkeit) be-
+stimmten Behandlungsgruppen oder Interventionsarmen zugeord-
+net werden.|
+|Screening|Der Prozess, durch den potenzielle Teilnehmer anhand von Ein-
+schluss- und Ausschlusskriterien überprüft werden, um festzustel-
+len, ob sie für die Teilnahme an der klinischen Studie geeignet
+sind.|
 
-|Version:<br>2.0|SOP-Nr.: 1006|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite<br>3 von 13||
+|Version:
+2.0|SOP-Nr.: 1006|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite
+3 von 13||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |||||||||||||||
 
@@ -110,9 +139,18 @@ Sind im Rahmen der Überprüfung der Ein- und Ausschlusskriterien BeÄrztliche M
 
 - Geschlecht 
 
-|•<br> <br>•<br>|Geburtsjahr<br>Abfrage Einschluss/Nicht-Einschluss|Geburtsjahr<br>Abfrage Einschluss/Nicht-Einschluss|Geburtsjahr<br>Abfrage Einschluss/Nicht-Einschluss|Geburtsjahr<br>Abfrage Einschluss/Nicht-Einschluss|Geburtsjahr<br>Abfrage Einschluss/Nicht-Einschluss||||||||
+|•
+ 
+•
+|Geburtsjahr
+Abfrage Einschluss/Nicht-Einschluss|Geburtsjahr
+Abfrage Einschluss/Nicht-Einschluss|Geburtsjahr
+Abfrage Einschluss/Nicht-Einschluss|Geburtsjahr
+Abfrage Einschluss/Nicht-Einschluss|Geburtsjahr
+Abfrage Einschluss/Nicht-Einschluss||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Version:|SOP-Nr.: 1006|Letzte Überprüfung||||||||||Seite<br>4 von 13|
+|Version:|SOP-Nr.: 1006|Letzte Überprüfung||||||||||Seite
+4 von 13|
 ||||||||||||||
 
 **Screening, Aufklärung, Einwilligung und** Geltungsbereich: **Einschluss von volljährigen Patienten im Rahmen** Klinische Studien, alle **klinischer Studien (PS-SOP-PI-01)** Standorte 
@@ -139,7 +177,8 @@ Die Übernahme von Annahmen bzw. erfolgreich geprüft einen späteren Zeitpunkt 
 
 Die Ansprache potentieller Studienpatienten und die entsprechende Aufklärung ist ein äußerst sensibler Bereich. Die Einwilligung zur Teilnahme an einer klinischen Studie setzt eine umfassende Aufklärung über mögliche Nebenwirkungen, unsichere Ergebnisse und unvorhergesehene Komplikationen voraus, die den potentiellen Patienten vorab in verständlicher Form mitgeteilt werden müssen. 
 
-|Version:|SOP-Nr.: 1006|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite<br>5 von 13|
+|Version:|SOP-Nr.: 1006|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite
+5 von 13|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 ||||||||||||||
 
@@ -221,7 +260,8 @@ Im Anschluss an die Vorstellung der Studie ist der Patient auf die Freiwilligkei
 
 Ärztliche Mitglieder der Prüfgruppe (aufklärende Person) 
 
-|Version:|SOP-Nr.: 1006|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite<br>7 von 13||
+|Version:|SOP-Nr.: 1006|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite
+7 von 13||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |||||||||||||||
 
@@ -263,7 +303,8 @@ Von einer Einholung der Patienteneinwilligung ist zwingend abzusehen, wenn der P
 
 - d. Mangelnden Deutschkenntnissen vorhanden sind 
 
-|Version:|SOP-Nr.: 1006|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite<br>8 von 13||
+|Version:|SOP-Nr.: 1006|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite
+8 von 13||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |||||||||||||||
 
@@ -303,7 +344,8 @@ Dem Patienten ist eine Kopie der Patienteninformation sowie der Einwilligungserk
 
 Ärztliche Mitglieder der Prüfgruppe (aufklärende Person) 
 
-|Version:|SOP-Nr.: 1006|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite<br>9 von 13||
+|Version:|SOP-Nr.: 1006|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite
+9 von 13||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |||||||||||||||
 
@@ -430,10 +472,12 @@ Anlage 1 Dokumentation des Aufklärungs- und Einwilligungsprozesses (PS-TP-PT-01
 |AMG|Arzneimittelgesetz|
 |---|---|
 |DHZC|Deutsches Herzzentrum der Charité–Universitätsmedizin Berlin|
-|eCRF|electronic Case Report Form – elektronisches Fallberichts-/Datenerfassungsfor-<br>mular|
+|eCRF|electronic Case Report Form – elektronisches Fallberichts-/Datenerfassungsfor-
+mular|
 |ISF|_Investigator Site File_|
 |KIS|Krankenhaus-Informationssystem|
-|NTF|<br>_Note to File_|
+|NTF|
+_Note to File_|
 |SOP|_Standard Operating Procedure_|
 |ZVA|Zentrale Verwaltungsanweisung|
 
@@ -441,15 +485,19 @@ Anlage 1 Dokumentation des Aufklärungs- und Einwilligungsprozesses (PS-TP-PT-01
 
 |Version|Änderungsgrund bzw. Kurzbeschreibung (Abschnitt) der Änderungen|
 |---|---|
-|V1.0|<br>Ersterstellung|
-|V2.0|<br>Anpassung an Richtlinien und generelle Überarbeitung aller Abschnitte|
+|V1.0|
+Ersterstellung|
+|V2.0|
+Anpassung an Richtlinien und generelle Überarbeitung aller Abschnitte|
 |||
 
 Alle Anpassungen an dieser SOP werden lückenlos im Excel-Änderungsprotokoll (Formblatt FATP-QM-02) dokumentiert. 
 
 Die aktuelle Version des Änderungsprotokolls ist gemeinsam mit dieser SOP im zentralen QMRepository (\DHZC\FO\Studien\Studienzentrale\0-FS-QMS) abgelegt. Bei jeder Überarbeitung ist das Protokoll vor Freigabe zu aktualisieren und zusammen mit der neuen SOP-Version einzureichen. Vorherige Versionen des Änderungsprotokolls bleiben archiviert und sind für Audits mindestens 10 Jahre elektronisch verfügbar. 
 
-|Version:<br>2.0|SOP-Nr.: 1006|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite<br>13 von 13|
+|Version:
+2.0|SOP-Nr.: 1006|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite
+13 von 13|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 ||||||||||||||
 
@@ -487,7 +535,8 @@ Datum: _____:_____:_______
 
 Unterschrift des aufklärenden Studienarztes:  __________________________________________ 
 
-|Version:|SOP-Nr. 1006|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite<br>1 von 1|
+|Version:|SOP-Nr. 1006|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite
+1 von 1|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 ||||||||||||||
 

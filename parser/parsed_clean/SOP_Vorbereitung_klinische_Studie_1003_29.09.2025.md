@@ -43,11 +43,34 @@ Als prozessverantwortliche Personen fungiert der Prüfer der zugrunde liegenden 
 
 ## **2.2 Verantwortlichkeiten** 
 
-|Hauptprüfer|Gesamtverantwortung für die Durchführung der klinischen Studie,<br>einschließlich der Koordination der Vorbereitungsaktivitäten.|
+|Hauptprüfer|Gesamtverantwortung für die Durchführung der klinischen Studie,
+einschließlich der Koordination der Vorbereitungsaktivitäten.|
 |---|---|
-|Studienkoordination/Study<br>Nurse|<br>Unterstützung des Hauptprüfers/des lokalen Prüfers bei der<br>organisatorischen und administrativen Vorbereitung der Studie.|
-|Sponsor/Monitoring|<br>Der Sponsor der klinischen Studie bzw. das von ihm beauftragte<br>Monitoring sorgt dafür, dass alle Vorbereitungsmaßnahmen<br>abgeschlossen sind und die Studie reibungslos und unter Einhaltung<br>aller Vorgaben gestartet werden kann. Sie überprüfen auch, dass<br>alle<br>infrastrukturellen,<br>personellen<br>und<br>organisatorischen<br>Voraussetzungen erfüllt sind, bevor die Rekrutierung von<br>Studienteilnehmern beginnt.|
-|DHZC Studienzentrale|<br>Verantwortlich für die administrative Startup-Phase im Rahmen<br>einer<br>klinischen<br>Studie<br>gemäß<br>ihrem<br>jeweiligen<br>Verantwortungsbereich.|
+|Studienkoordination/Study
+Nurse|
+Unterstützung des Hauptprüfers/des lokalen Prüfers bei der
+organisatorischen und administrativen Vorbereitung der Studie.|
+|Sponsor/Monitoring|
+Der Sponsor der klinischen Studie bzw. das von ihm beauftragte
+Monitoring sorgt dafür, dass alle Vorbereitungsmaßnahmen
+abgeschlossen sind und die Studie reibungslos und unter Einhaltung
+aller Vorgaben gestartet werden kann. Sie überprüfen auch, dass
+alle
+infrastrukturellen,
+personellen
+und
+organisatorischen
+Voraussetzungen erfüllt sind, bevor die Rekrutierung von
+Studienteilnehmern beginnt.|
+|DHZC Studienzentrale|
+Verantwortlich für die administrative Startup-Phase im Rahmen
+einer
+klinischen
+Studie
+gemäß
+ihrem
+jeweiligen
+Verantwortungsbereich.|
 
 ## **3 Geltungsbereich / Zielgruppe** 
 
@@ -207,15 +230,20 @@ DHZC Deutsches Herzzentrum der Charité FDF Financial Disclosure Form (Formblatt
 
 |Version|Änderungsgrund bzw. Kurzbeschreibung (Abschnitt) der Änderungen|
 |---|---|
-|V1.0|<br>Ersterstellung|
-|V2.0|<br>Generelle Überarbeitung und Anpassung an Dokumentenlenkung und GCP<br>Vorgaben|
+|V1.0|
+Ersterstellung|
+|V2.0|
+Generelle Überarbeitung und Anpassung an Dokumentenlenkung und GCP
+Vorgaben|
 |||
 
 Alle Anpassungen an dieser SOP werden lückenlos im Excel-Änderungsprotokoll (Formblatt FATP-QM-02) dokumentiert. 
 
 Die aktuelle Version des Änderungsprotokolls ist gemeinsam mit dieser SOP im zentralen QMRepository (\DHZC\FO\Studien\Studienzentrale\0-FS-QMS) abgelegt. Bei jeder Überarbeitung ist das Protokoll vor Freigabe zu aktualisieren und zusammen mit der neuen SOP-Version einzureichen. Vorherige Versionen des Änderungsprotokolls bleiben archiviert und sind für Audits mindestens 10 Jahre elektronisch verfügbar. 
 
-|Version:<br>2.0|SOP-Nr.: 1003<br>PS-SOP-SV-01|Letzte Überprüfung|Letzte Überprüfung|||||||||
+|Version:
+2.0|SOP-Nr.: 1003
+PS-SOP-SV-01|Letzte Überprüfung|Letzte Überprüfung|||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |||||||||||||
 

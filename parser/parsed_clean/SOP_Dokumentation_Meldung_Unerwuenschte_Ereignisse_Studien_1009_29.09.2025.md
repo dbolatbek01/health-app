@@ -2,7 +2,11 @@
 
 ## **Dokumentation und Meldung von unerwünschten Ereignissen im Rahmen von klinischen Studien PS-SOP-SV-04** 
 
-|**Dokumentation und Meldung von unerwünschten**<br>**Ereignissen im Rahmen von klinischen Studien**<br>**(PS-SOP-SV-04)**|Geltungsbereich:<br>Forschung und klinische<br>Studien, alle Standorte||
+|**Dokumentation und Meldung von unerwünschten**
+**Ereignissen im Rahmen von klinischen Studien**
+**(PS-SOP-SV-04)**|Geltungsbereich:
+Forschung und klinische
+Studien, alle Standorte||
 |---|---|---|
 
 ## **Inhaltsverzeichnis** 
@@ -154,7 +158,9 @@ Eine Zusammenfassung von unerwünschten Ereignissen in einer Meldung ist zwingen
 
 SAEs unterliegen einer gesetzlich vorgegebenen Meldepflicht. Der Prüfer unterrichtet den Sponsor unverzüglich, spätestens innerhalb von 24 Stunden nach Bekanntwerden zunächst über das Auftreten eines schwerwiegenden unerwünschten Ereignisses. Im Anschluss wird ein 
 
-|Version:<br>1.0|SOP-Nr.: 1009<br>PS-SOP-SV-04|Letzte Überprüfung|Letzte Überprüfung|||||||||
+|Version:
+1.0|SOP-Nr.: 1009
+PS-SOP-SV-04|Letzte Überprüfung|Letzte Überprüfung|||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |||||||||||||
 

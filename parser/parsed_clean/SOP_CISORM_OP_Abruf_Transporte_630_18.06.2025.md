@@ -20,7 +20,9 @@ Der Zeitpunkt des Transports in den OP ergibt sich aus dem Schleusenzeitpunkt de
 
 Die Ziel-OE des Fahrauftrags ist wie folgt definiert: 
 
-|<br>Die Ziel-OE des|<br>Fahrauftrags ist wie folgt definiert|
+|
+Die Ziel-OE des|
+Fahrauftrags ist wie folgt definiert|
 |---|---|
 |WDZOP|OP-Säle 1-8 AP|
 |WHC-OP|OP-Säle 17 + 18 MA|

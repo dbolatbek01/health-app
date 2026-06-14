@@ -19,7 +19,8 @@ Structural Heart Interventions Program (SHIP) Klinik für Herz-, Thorax- und Gef
 |3.2|Interdisziplinäres DHZC-Herzteam .................................................................................................. 4|
 |3.3|Ärztliche Präsenz ............................................................................................................................. 4|
 |3.4|Qualifikation Pflegepersonal der Intensivstation (WD1iA) ............................................................... 4|
-|3.5|Qualifikation/Präsenz Mitarbeitende Herzkatheterlabor, Operationsdienst,<br>............. 4|
+|3.5|Qualifikation/Präsenz Mitarbeitende Herzkatheterlabor, Operationsdienst,
+............. 4|
 |3.6|Weitere Dienstleistungen ................................................................................................................. 5|
 |4.|Sicherung der Prozessqualität ......................................................................................................... 5|
 |4.1|Indikationsstellung ........................................................................................................................... 5|

@@ -9,7 +9,11 @@ Klinische Ernährungstherapie bei Kindern
 
 Klinik für Angeborene Herzfehler – Kinderkardiologie: Arztdienst, Pflegedienst 
 
-Änderungshistorie<br>Version  Erstellt<br>1.1  01.02.2022  Layout Kap. 6  31.12.2023<br>**----- End of picture text -----**<br>
+Änderungshistorie
+Version  Erstellt
+1.1  01.02.2022  Layout Kap. 6  31.12.2023
+**----- End of picture text -----**
+
 
 ## **Inhaltsverzeichnis** 
 
@@ -163,11 +167,21 @@ Diese SOP spiegelt die aktuelle Studienlage wider und fasst die Empfehlungen ver
 |**Alter **|**Akute Phase**|**Akute Phase**|**Stabile Phase**|**Postakutphase (Rekonvalseszenz/chronisch)**|**Postakutphase (Rekonvalseszenz/chronisch)**|**Postakutphase (Rekonvalseszenz/chronisch)**|**Postakutphase (Rekonvalseszenz/chronisch)**|
 |---|---|---|---|---|---|---|---|
 ||Energie|KH (g/kg/d)|Energie|Energie|KH (g/kg/d)|EW|Lipide|
-||||<br>(kcal/kg/d)|<br>(kcal/kg/d)||(g/kg/d)|<br>(g/kg/d)|
-|FG ab 10.<br>LT|45–50|**5,5**–11<br>(+ EW 1,5<br>g/kg/d)|–|90–120|8,5–14<br>(max. 17,5)|2,5–3,5|3–4|
-|RG ab 7. LT|45–50|**3,5**–7|60–65|75–80|7–14,5<br>(max. 17,5)|1,5–3|3–4|
-|1 Mo – 1 J.|45–-50|**3**–6|60–65|75–80|8,5–14<br>(max. 17)|1–2,5|3–4|
-|1–7 J.|40–45|**2**–3,5|55–60|65–75|4,5–8,5|1–2<br>(max. 2,5)|2–3|
+||||
+(kcal/kg/d)|
+(kcal/kg/d)||(g/kg/d)|
+(g/kg/d)|
+|FG ab 10.
+LT|45–50|**5,5**–11
+(+ EW 1,5
+g/kg/d)|–|90–120|8,5–14
+(max. 17,5)|2,5–3,5|3–4|
+|RG ab 7. LT|45–50|**3,5**–7|60–65|75–80|7–14,5
+(max. 17,5)|1,5–3|3–4|
+|1 Mo – 1 J.|45–-50|**3**–6|60–65|75–80|8,5–14
+(max. 17)|1–2,5|3–4|
+|1–7 J.|40–45|**2**–3,5|55–60|65–75|4,5–8,5|1–2
+(max. 2,5)|2–3|
 |7–12 J.|30–40|**1,5**–2|40–55|55–65|4–5,5|1–2|2–3|
 |12–18 J.|20–30|**0,7**–1,5|25–40|30–55|3–4,5|1–2|1–2,5|
 
@@ -329,7 +343,8 @@ Diese SOP spiegelt die aktuelle Studienlage wider und fasst die Empfehlungen ver
 |Peptamen Junior|ab 1. J.,Oligopeptiddiät,MCT-reich|102|13,8|3,0|3,9|
 |Nutrini Multifibre|1-6 Jahre /8-20 kg|101|12,5|2,5|4,4|
 |Nutrini Energy|hochkalorisch,1-6 J./8-20 kg|150|18,5|4|6,7|
-|Fresubin Original<br>Fibre|ab 6 J.|100|13|3,8|3,4|
+|Fresubin Original
+Fibre|ab 6 J.|100|13|3,8|3,4|
 |Nutrison Protein Plus|ab 6 J.,eiweißreich|125|14,2|6,3|4,9|
 
 ## **4.3 Gängige Nahrungsergänzungsmittel** 
@@ -650,15 +665,21 @@ Nüchternzeiten vor OP: 6-4-1-Regel
 |-|Magenrest|||||||||
 ||`o`|≤ 4 ml/kg gilt als vertragen -> MZ normal geben||||||||
 ||`o`|bei > 4 ml/kg Magenrest Rest zurückgeben und überschüssige ml von nächster MZ||||||abziehen||
-|||<br>unter Umständen daher gar keine frische Nahrung, wenn überschüssiger||||||Rest in ml > MZ-Menge||
+|||
+unter Umständen daher gar keine frische Nahrung, wenn überschüssiger||||||Rest in ml > MZ-Menge||
 |-|zurOrientierung (ggf. mehr möglich)|||||||||
-||Gewicht<br>Tag 0||Tag 1||Tag 2|Tag 3|Tag 4|Tag 5||
+||Gewicht
+Tag 0||Tag 1||Tag 2|Tag 3|Tag 4|Tag 5||
 ||3 kg|10 ml/MZ|20 ml/MZ||30 ml/MZ|40 ml/MZ|50 ml/MZ|60  ml/MZ||
 ||5 kg|15 ml/MZ|30 ml/MZ||45 ml/MZ|60 ml/MZ|75 ml/MZ|90 ml/MZ||
-||10 kg|<br>25 ml/MZ|50 ml/MZ||75 ml/MZ|100 ml/MZ|130 ml/MZ|160 ml/MZ||
-||15 kg|<br>30 ml/MZ|60 ml/MZ||100 ml/MZ|130 ml/MZ|160 ml/MZ|200 ml/MZ||
-||20 kg|<br>40 ml/MZ|70 ml/MZ||110 ml/MZ|150 ml/MZ|200 ml/MZ|250 ml/MZ||
-||> 40 kg<br>50 ml/MZ||90 ml/MZ||140 ml/MZ|190 ml/MZ|250 ml/MZ|300 ml/MZ||
+||10 kg|
+25 ml/MZ|50 ml/MZ||75 ml/MZ|100 ml/MZ|130 ml/MZ|160 ml/MZ||
+||15 kg|
+30 ml/MZ|60 ml/MZ||100 ml/MZ|130 ml/MZ|160 ml/MZ|200 ml/MZ||
+||20 kg|
+40 ml/MZ|70 ml/MZ||110 ml/MZ|150 ml/MZ|200 ml/MZ|250 ml/MZ||
+||> 40 kg
+50 ml/MZ||90 ml/MZ||140 ml/MZ|190 ml/MZ|250 ml/MZ|300 ml/MZ||
 |||||||||||
 
 **Parenteraler Nahrungsaufbau (enterale Nahrung immer mitbedenken!):** - Start mit Glukose 40% und E’lyt-Substitution (Na, K, ggf. Ca, Ph, Mg) am 0. -1. POT KH - Zufuhrmin `o` ab 1. POT KH-Zufuhrmin  sicher stellen (minimale endogene Produktion) (enteral+parenteral) `o` Insulin 0,02-0,05 IE/kg/h zeigt Homöosthasestörung (noch akute Phase) Alter/kg g/kg/d `o` bei Insulin ≥ 0,1 IE/kg/h, ggf. doch Glukosereduktion < KH-Zufuhrmin FG 5,5 - Start Mix (AS-Zufuhr für positive Stickstoffbilanz) RG- 10kg 4 `o` falls KH-Zufuhr vertragen und Insulin ≤ 0,02 IE/kg/h  postoperativ frühestens am 2. POT (Ausnahme: FG) spätestens ab 6. POT, wenn enterale Ernährung nicht ausreichend 10-20 k20-30 kgg 3 2  bei Mangelernährung bzw. wenn enteraler Kostaufbau unmöglich ggf. früher 30-45 kg 1,5 `o` KH (im Kindermix mit Glukose 70%) > 45 kg 0,7  Start mit bisher vertragener Menge +0,5 g/kg/d  Steigerung tgl. um 0,5-2 g/kg/d je nach Alter/Insulinbedarf  Ziel 4 – 14 g/kg/d je nach Alter  sollten im Verlauf ca. 55% der Gesamtkalorien ausmachen `o` AS (nie AS ohne KH, im Mix 10%)  Beginn mit 1,5 g/kg/d bei RG/FG, ab 1 Mo. Beginn mit 1 g/kg/d  Steigerung tgl. um 0,5 – 1 g/kg/d auf Zielwert von 1-3,5 g/kg/d  ggf. Reduktion bei Cholestase, beachte Eiweißverluste via Chylus, Aszites, etc. `o` Lipide (SMOF 20%)  frühestens am 3. POT Beginn mit 0,5-1 g/kg/d  Steigerung tgl. um 0,5-1 g/kg/d auf Ziel von 1-4 g/kg/d  sollten ca. 20- 35 % der Energie ausmachen `o` Sonstiges  Vitamine, fett- und wasserlöslich, zu Lipiden mit je 1 ml/kg, max. 10 ml/d (Frekavit)  Spurenelemente in Mix mit 1 ml/kg, max. 10 ml/d (Tracitrans) 

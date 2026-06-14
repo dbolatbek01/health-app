@@ -55,9 +55,13 @@ Die Finanzierung erfolgt präferentiell über die LOM-Mittel der Abteilung. Die 
 ||Anmeldung muss zwingend zum**Frühbucherrabatt**erfolgen.|
 |**Kongressgebühr**||
 |||
-|**An-/Abreise**|**Bahn:**2. Klasse (Nutzung von Sparpreisen/BahnCard).<br>**Flug:**Nur bei Zeitersparnis oder Wirtschaftlichkeit.<br>**Privat-PKW:**ist nach Wegstreckenentschädigung (BRKG) nur abrechnungsfähig, wenn<br>eine andere Anreise nicht möglich ist.|
+|**An-/Abreise**|**Bahn:**2. Klasse (Nutzung von Sparpreisen/BahnCard).
+**Flug:**Nur bei Zeitersparnis oder Wirtschaftlichkeit.
+**Privat-PKW:**ist nach Wegstreckenentschädigung (BRKG) nur abrechnungsfähig, wenn
+eine andere Anreise nicht möglich ist.|
 |||
-||Übernahme bis max.**130 € pro Nacht**(inkl. Frühstück). Höhere Kosten bedürfen einer<br>gesonderten Begründung.|
+||Übernahme bis max.**130 € pro Nacht**(inkl. Frühstück). Höhere Kosten bedürfen einer
+gesonderten Begründung.|
 |**Unterkunft**||
 |||
 

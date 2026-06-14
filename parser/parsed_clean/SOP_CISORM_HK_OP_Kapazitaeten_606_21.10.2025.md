@@ -26,7 +26,8 @@ Folgende HK-Betriebszeiten existieren im DHZC:
 
 ## **1.2 HK-Kapazitätsverteilung Standort CBF** 
 
-|||Minuten||<br>Minuten||Minuten||Minuten|**Freitag**|Minuten|**Bemerkung**|
+|||Minuten||
+Minuten||Minuten||Minuten|**Freitag**|Minuten|**Bemerkung**|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 ||**Montag**||**Dienstag**||**Mittwoch**||**Donnerstag**|||||
 |||||||||||||
@@ -47,12 +48,21 @@ Folgende HK-Betriebszeiten existieren im DHZC:
 |---|---|---|---|---|---|---|---|---|---|---|---|
 ||**Montag**||**Dienstag**||**Mittwoch**||**Donnerstag**||**Freitag**|||
 |||||||||||||
-|HK 3|||Coro/<br>Angio|**450**|||Coro/ Angio|**450**|||Freitags Kapazität<br>geteilt (erst HK 3,<br>anschließend HK 6)|
-||Radiologie|<br>**0**|||Radiologie|**0**|||Radiologie|**0**||
+|HK 3|||Coro/
+Angio|**450**|||Coro/ Angio|**450**|||Freitags Kapazität
+geteilt (erst HK 3,
+anschließend HK 6)|
+||Radiologie|
+**0**|||Radiologie|**0**|||Radiologie|**0**||
 |||||||||||||
 |HK 4|EPU|**450**|EPU|**450**|EPU|**450**|EPU|**450**|EPU|**450**||
 |HK 5*|||||||||||Temp. geschlossen|
-|HK 6|Devices +<br>Coro|**630**|AV-<br>Klappen|**630**|Devices +<br>LAA|**630**|EPU + Coro|**630**|Loops/Coro<br>+ EPU|<br>**630**|M++ Saal statt HK 5|
+|HK 6|Devices +
+Coro|**630**|AV-
+Klappen|**630**|Devices +
+LAA|**630**|EPU + Coro|**630**|Loops/Coro
++ EPU|
+**630**|M++ Saal statt HK 5|
 |**Summe**||**1080**||**1530**||**1080**||**1530**||**1080**||
 
 *Temporäre Schließung, die bei Leistungssteigerung und Personalverfügbarkeit wieder auszuweiten ist. 
@@ -63,14 +73,25 @@ Geltungsbereich: HK-OPs, Hybrid-OPS, OPBereiche und alle daran beteiligten Abt.
 
 ## **1.4 HK-Kapazitätsverteilung Standort CVK** 
 
-|||<br>Minuten||Minuten||<br>Minuten||Minuten||Minuten|**Bemerkungen**|
+|||
+Minuten||Minuten||
+Minuten||Minuten||Minuten|**Bemerkungen**|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 ||**Montag**||**Dienstag**||**Mittwoch**||**Donnerstag**||**Freitag**|||
 |||||||||||||
 |HK 1 MA|Coro|**450****|Coro|**450****|Coro|**690**|Coro|**450****|Coro|**450****||
-|HK 2 MA|EPU|**420**|EPU<br>Coro|**420**<br>**180**|EPU|**420**|EPU|**600**|EPU|**600**||
+|HK 2 MA|EPU|**420**|EPU
+Coro|**420**
+**180**|EPU|**420**|EPU|**600**|EPU|**600**||
 |HK 3 MA|Device|**420**|Device|**420**|Device|**420**|Device|**600**|Device|**600**||
-|HK 4 MA|Kinder|**600**|EPU|**420**|EPU|**420**|Kinder|**480**|Kinder|**480**|*vereinbart wird am<br>Dienstag eine<br>flexible Kapazität<br>für dringliche<br>Eingriffe der<br>Kinderkardiologie<br>in Abstimmung mit<br>der EPU|
+|HK 4 MA|Kinder|**600**|EPU|**420**|EPU|**420**|Kinder|**480**|Kinder|**480**|*vereinbart wird am
+Dienstag eine
+flexible Kapazität
+für dringliche
+Eingriffe der
+Kinderkardiologie
+in Abstimmung mit
+der EPU|
 ||||Kinder*|||||||||
 |HK 1 AP|Coro|**600**|Coro|**600**|Coro|**600**|Coro|**600**|Coro|**600**||
 |HK 2 AP|Kinder|**600**|Kinder|**600**|Kinder|**600**|Kinder|**480**|Kinder|**480**||
@@ -100,7 +121,9 @@ In Anlehnung an die Charité-OPM-Nomenklatur existieren folgende Saal-Betriebsze
 
 |||**Gerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte AP & MA)**|**Gerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte AP & MA)**|**Gerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte AP & MA)**|**Gerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte AP & MA)**|**Gerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte AP & MA)**|**Gerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte AP & MA)**|**Gerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte AP & MA)**|**Gerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte AP & MA)**|**Gerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte AP & MA)**|**Gerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte AP & MA)**|**Gerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte AP & MA)**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||Minuten||Minuten||<br>Minuten||<br>Minuten||Minuten|**Samstag**|Minuten|
+|||Minuten||Minuten||
+Minuten||
+Minuten||Minuten|**Samstag**|Minuten|
 |**OP**|**Montag**||**Dienstag**||**Mittwoch**||**Donnerstag**||**Freitag**||||
 ||||||||||||||
 ||HTG|**420**|HTG|**420**|HTG|**420**|HTG|**420**|HTG|**420**|HTG|**720**|
@@ -124,7 +147,8 @@ In Anlehnung an die Charité-OPM-Nomenklatur existieren folgende Saal-Betriebsze
 ||CAH|**420**|CAH|**420**|CAH|**420**|CAH|**420**|CAH|**420**|||
 |**7 AP**|||||||||||||
 ||||||||||||||
-||SHIP|**585**|SHIP|**585**|HTG1|**420**|SHIP|**585**|HTG2|**420**|1: 1x/Monat AHF 180min<br>2:1x/Monat SHIP 180min||
+||SHIP|**585**|SHIP|**585**|HTG1|**420**|SHIP|**585**|HTG2|**420**|1: 1x/Monat AHF 180min
+2:1x/Monat SHIP 180min||
 |**8 AP**|||||||||||||
 ||||||||||||||
 ||||HTG|**585***|||HTG|**585***|HTG|**585***|||
@@ -152,7 +176,11 @@ Geltungsbereich: HK-OPs, Hybrid-OPS, OPBereiche und alle daran beteiligten Abt.
 
 ||**Ungerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte**|**Ungerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte**|**Ungerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte**|**Ungerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte**|**Ungerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte**|**Ungerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte**|**Ungerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte**|**Ungerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte**|**Ungerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte**|**Ungerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte**|**AP & MA)**|**AP & MA)**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||Minuten||<br>Minuten||<br>Minuten||<br>Minuten||<br>Minuten|**Samstag**|Minuten|
+|||Minuten||
+Minuten||
+Minuten||
+Minuten||
+Minuten|**Samstag**|Minuten|
 |**OP**|**Montag**||**Dienstag**||**Mittwoch**||**Donnerstag**||**Freitag**||||
 ||||||||||||||
 ||HTG|**420**|HTG|**420**|HTG|**420**|HTG|**420**|HTG|**420**|HTG|**720**|
@@ -176,7 +204,8 @@ Geltungsbereich: HK-OPs, Hybrid-OPS, OPBereiche und alle daran beteiligten Abt.
 ||CAH|**420**|CAH|**420**|CAH|**420**|CAH|**420**|CAH|**420**|||
 |**7 AP**|||||||||||||
 ||||||||||||||
-||SHIP|**585**|SHIP|**585**|HTG*|**720**|SHIP|**585**|HTG|**420**|*: 1x/Monat AHF 180min<br>1x/Monat SHIP 180 Minuten||
+||SHIP|**585**|SHIP|**585**|HTG*|**720**|SHIP|**585**|HTG|**420**|*: 1x/Monat AHF 180min
+1x/Monat SHIP 180 Minuten||
 |**8 AP**|||||||||||||
 ||||||||||||||
 ||||HTG|**420**|||HTG|**420**|HTG|**420**|||

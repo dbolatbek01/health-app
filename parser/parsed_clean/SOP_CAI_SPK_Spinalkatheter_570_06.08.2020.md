@@ -175,7 +175,10 @@ Mögliche Komplikationen mit Hinweis auf sofortige Wiedervorstellung zur neurolo
 
 - Liquor frei rückläufig? Farbe? Konsistenz?  Luer-Lock-Adapter am Ende des SPK fixieren und steril verschließen (hierzu transparenten und weißen Teil des Adapters zunächst vollständig auseinanderschrauben, dann Katheter durch den transparenten Teil fädeln, dann Katheterende bis zum Anschlag auf den metallischen Stift im weißen Teil des Adapters aufschieben, dann transparenten und weißen Teil zusammenschrauben) 
 
-  <br>Konnektion des Luer-Lock-Adapters<br>**----- End of picture text -----**<br>
+  
+Konnektion des Luer-Lock-Adapters
+**----- End of picture text -----**
+
 
 - Fixierung des SPK mit Steri-strips und durchsichtigem Pflaster über Punktionsstelle, außen weißes Pflaster (Fixomull) 
 

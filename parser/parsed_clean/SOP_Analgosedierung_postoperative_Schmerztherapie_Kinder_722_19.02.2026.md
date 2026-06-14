@@ -32,19 +32,37 @@ Die vorliegende SOP dient in der Klinik für Angeborene Herzfehler und Kinderkar
 
 ## **3. Postoperative Schmerztherapie und Sedierung** 
 
-||**Extubiert**|**Frühe Extubation geplant**|**Beatmung > 48 h**<br>**wahrscheinlich**|
+||**Extubiert**|**Frühe Extubation geplant**|**Beatmung > 48 h**
+**wahrscheinlich**|
 |---|---|---|---|
-|**Opiat DTI**|Morphin 15 µg/kg/h<br>oder Einzeldosen|Morphin 15 µg/kg/h|Morphin 15 µg/kg/h; alternativ<br>Sufentanil:  0,2 µg/kg/h|
-|**Opiat ED**<br>**(falls keine DTI)**|Morphin 50-100 µg/kg über 10 min.<br>> 1 mo alternativ Piritramid 50–100 µg/kg über 10 min.<br>Falls keine Schmerzkontrolle nach 2. Bolus, DTI starten|||
-|**Paracetamol**|Loading: 20 mg/kg einmalig<br>Danach: < 1 mo 10 mg/kg alle 6 h<br>> 1 mo 15 mg/kg alle 6 h; max. 1g/Dosis, bzw. 4g/Tag<br>**Cave**: kein PCM bei Ductusabhängigkeit|||
+|**Opiat DTI**|Morphin 15 µg/kg/h
+oder Einzeldosen|Morphin 15 µg/kg/h|Morphin 15 µg/kg/h; alternativ
+Sufentanil:  0,2 µg/kg/h|
+|**Opiat ED**
+**(falls keine DTI)**|Morphin 50-100 µg/kg über 10 min.
+> 1 mo alternativ Piritramid 50–100 µg/kg über 10 min.
+Falls keine Schmerzkontrolle nach 2. Bolus, DTI starten|||
+|**Paracetamol**|Loading: 20 mg/kg einmalig
+Danach: < 1 mo 10 mg/kg alle 6 h
+> 1 mo 15 mg/kg alle 6 h; max. 1g/Dosis, bzw. 4g/Tag
+**Cave**: kein PCM bei Ductusabhängigkeit|||
 |**Metamizol**|>3 mo: 4 x 10 mg/kg|||
-|**Dexmedetomidin**|0,25 µg/kg/h (optional,<br>first line falls Sedierung<br>erforderlich)|0,25 µg/kg/h (optional, indiziert bei höheren Opiatdosen, z.B.<br>Morphin >45 µg/kg/h)||
-|**Propofol**|Bei Neugeborenen keine DTI; >1 mo: 0,3–4 mg/kg/h; kurzfristig (<48 h, ab 16 Jahre bis zu 7 Tagen).<br>Cave: Propofolinfusionssyndrom|||
+|**Dexmedetomidin**|0,25 µg/kg/h (optional,
+first line falls Sedierung
+erforderlich)|0,25 µg/kg/h (optional, indiziert bei höheren Opiatdosen, z.B.
+Morphin >45 µg/kg/h)||
+|**Propofol**|Bei Neugeborenen keine DTI; >1 mo: 0,3–4 mg/kg/h; kurzfristig (<48 h, ab 16 Jahre bis zu 7 Tagen).
+Cave: Propofolinfusionssyndrom|||
 |**Chloralhydrat**|<6 Jahre: 4 x 15 mg/kg po oder rektal (bei zusätzlichem Sedierungsbedarf)|||
-|**Midazolam**|||0,05 mg/kg/h<br>(nicht first line)|
-|**Esketamin**|||0,15 mg/kg/h (bei<br>unzureichender<br>Standardanalgesie)|
-|**Natriumoxybat**|||>1 mo: Bolus 30-50 mg/kg über 10<br>min, dann DTI 10-20 mg/kg/h|
-|**Relaxierung**|||Rocuronium<br>0,6 mg/kg/h (bei instabilem Pat.)|
+|**Midazolam**|||0,05 mg/kg/h
+(nicht first line)|
+|**Esketamin**|||0,15 mg/kg/h (bei
+unzureichender
+Standardanalgesie)|
+|**Natriumoxybat**|||>1 mo: Bolus 30-50 mg/kg über 10
+min, dann DTI 10-20 mg/kg/h|
+|**Relaxierung**|||Rocuronium
+0,6 mg/kg/h (bei instabilem Pat.)|
 
 Alle Angaben beziehen sich auf intravenöse Applikation sofern nicht anders angegeben. Angegeben sind die üblichen Startdosierungen. 
 
@@ -79,10 +97,33 @@ Prinzipiell sind ED oder DTI möglich. Insbesondere in den ersten 3 Lebensjahren
 |**2. Frühe Extubation (< 48 Stunden) geplant; keine Kontraindikation für Aufwachversuch**|**2. Frühe Extubation (< 48 Stunden) geplant; keine Kontraindikation für Aufwachversuch**|
 |---|---|
 |a. Patient wird aus OP übernommen mit||
-|Remifentanil +<br>Propofol|Sofern in letzten 2 Stunden kein anderes Opiat gegeben wurde: Bolus Opiat (Morphin oder<br>Piritramid 0,1–0,2 mg/kg) und Gabe NOPA (sofern nicht in den letzten 4 Stunden erhalten).<br>Remifentanil 15 min. nach Morphinbolus oder 5 min. nach Piritramidbolus beenden sowie Propofol<br>beenden. Aufwachen erfolgt i.d.R. abrupt, daher muss alles für die Extubation vorbereitet sein und<br>Pflege- oder Arztdienst am Bett sein bis zur Extubation. Fortführung der Analgesie mit Piritramid ED<br>(0,1 mg/kg) oder Morphin DTI (15 µg/kg/h).|
-|Sufentanil +<br>Propofol|Gabe NOPA (sofern nicht in den letzten 4 Stunden erhalten). Sufentanil wird in der Dosierung von<br>0,2 – max. 0,35 µg/kg/h fortgeführt und Propofol beendet. Falls erforderlich, können Boli von 5 µg<br>(absolut, nicht pro kg) Sufentanil zur Schmerztherapie gegeben werden. Sobald Patient<br>ausreichende Wachreaktion zeigt, wird Sufentanil beendet und der Patient extubiert. Fortführung<br>der Analgesie initial mit Piritramid ED. Wenn der Patient innerhalb von 2 Stunden nicht aufwacht,<br>Beendigung der Sufentanil DTI. Statt der niedrig dosierten Sufentanil-DTI kann auch vor Extubation<br>auf Piritramid ED umgestellt werden. Alternativ Morphin (initialer Bolus plus DTI wie oben).|
-|Morphin +<br>Propofol (±<br>Dexmedetomidin)|Gabe NOPA (sofern nicht in den letzten 4 Stunden erhalten). Morphin wird in der Dosierung von<br>15 µg/kg/h fortgeführt und Propofol beendet. Falls erforderlich, können Stundenboli zur<br>Schmerztherapie gegeben werden. Sobald Patient ausreichende Wachreaktion zeigt, wird der<br>Patient extubiert. Extubation unter Morphin DTI von 15 µg/kg/h ist i.d.R. möglich. Fortführung der<br>Analgesie Morphin DTI.<br>Wenn der Patient innerhalb von 2 Stunden nicht aufwacht, Beendigung der Morphin DTI. Bei<br>Neugeboren nach Herz-OP ohne HLM (z.B. Korrektur Isthmusstenose) kann die Morphin DTI i.d.R.<br>nach Übernahme vorübergehend angehalten werden, da der Comfort B häufig lange < 11 ist.|
-|b. Ab 1. post-OP-Tag kann – sofern Tabletten eingenommen werden können – auf Oxycodon oral umgestellt<br>werden (s.u., etwa ab 6. Lebensjahr).||
+|Remifentanil +
+Propofol|Sofern in letzten 2 Stunden kein anderes Opiat gegeben wurde: Bolus Opiat (Morphin oder
+Piritramid 0,1–0,2 mg/kg) und Gabe NOPA (sofern nicht in den letzten 4 Stunden erhalten).
+Remifentanil 15 min. nach Morphinbolus oder 5 min. nach Piritramidbolus beenden sowie Propofol
+beenden. Aufwachen erfolgt i.d.R. abrupt, daher muss alles für die Extubation vorbereitet sein und
+Pflege- oder Arztdienst am Bett sein bis zur Extubation. Fortführung der Analgesie mit Piritramid ED
+(0,1 mg/kg) oder Morphin DTI (15 µg/kg/h).|
+|Sufentanil +
+Propofol|Gabe NOPA (sofern nicht in den letzten 4 Stunden erhalten). Sufentanil wird in der Dosierung von
+0,2 – max. 0,35 µg/kg/h fortgeführt und Propofol beendet. Falls erforderlich, können Boli von 5 µg
+(absolut, nicht pro kg) Sufentanil zur Schmerztherapie gegeben werden. Sobald Patient
+ausreichende Wachreaktion zeigt, wird Sufentanil beendet und der Patient extubiert. Fortführung
+der Analgesie initial mit Piritramid ED. Wenn der Patient innerhalb von 2 Stunden nicht aufwacht,
+Beendigung der Sufentanil DTI. Statt der niedrig dosierten Sufentanil-DTI kann auch vor Extubation
+auf Piritramid ED umgestellt werden. Alternativ Morphin (initialer Bolus plus DTI wie oben).|
+|Morphin +
+Propofol (±
+Dexmedetomidin)|Gabe NOPA (sofern nicht in den letzten 4 Stunden erhalten). Morphin wird in der Dosierung von
+15 µg/kg/h fortgeführt und Propofol beendet. Falls erforderlich, können Stundenboli zur
+Schmerztherapie gegeben werden. Sobald Patient ausreichende Wachreaktion zeigt, wird der
+Patient extubiert. Extubation unter Morphin DTI von 15 µg/kg/h ist i.d.R. möglich. Fortführung der
+Analgesie Morphin DTI.
+Wenn der Patient innerhalb von 2 Stunden nicht aufwacht, Beendigung der Morphin DTI. Bei
+Neugeboren nach Herz-OP ohne HLM (z.B. Korrektur Isthmusstenose) kann die Morphin DTI i.d.R.
+nach Übernahme vorübergehend angehalten werden, da der Comfort B häufig lange < 11 ist.|
+|b. Ab 1. post-OP-Tag kann – sofern Tabletten eingenommen werden können – auf Oxycodon oral umgestellt
+werden (s.u., etwa ab 6. Lebensjahr).||
 
 **SOP Analgosedierung und postoperative Schmerztherapie bei Kindern** 
 
@@ -140,15 +181,49 @@ Die Anpassung bei nicht ausreichender Analgesie erfolgt mit einer schnell freise
 
 (Vgl. auch: kinderformularium.de) 
 
-|**Morphin**<br>(als Morphin-<br>sulfat oder -<br>hydrochlorid| DTI bis 40 µg/kg/h in der Regel ausreichend. Bei unzureichender Schmerzkontrolle<br>spätestens >45 µg/kg/h mit Dexmedetomdin kombinieren. Bei hohen Dosen<br>(60–100 µg/kg/h) Esketamin erwägen.<br> Bei reduzierter Nierenfunktion kumuliert der aktive Metabolit Morphin-6-Glucuronid. Dies<br>ist vor allem von Bedeutung bei Verabreichung von hohen Dosen und/oder Verabreichung<br>über einen längeren Zeitraum.<br>GFR > 50 ml/min/1.73m2: Dosisanpassung nicht erforderlich.<br>GFR 10-50 ml/min/1.73m2: 75 % der Standarddosis, nach Effekt titrieren.<br>GFR <  10 ml/min/1.73m2: 50 % der Standarddosis, nach Effekt titrieren.|
+|**Morphin**
+(als Morphin-
+sulfat oder -
+hydrochlorid| DTI bis 40 µg/kg/h in der Regel ausreichend. Bei unzureichender Schmerzkontrolle
+spätestens >45 µg/kg/h mit Dexmedetomdin kombinieren. Bei hohen Dosen
+(60–100 µg/kg/h) Esketamin erwägen.
+ Bei reduzierter Nierenfunktion kumuliert der aktive Metabolit Morphin-6-Glucuronid. Dies
+ist vor allem von Bedeutung bei Verabreichung von hohen Dosen und/oder Verabreichung
+über einen längeren Zeitraum.
+GFR > 50 ml/min/1.73m2: Dosisanpassung nicht erforderlich.
+GFR 10-50 ml/min/1.73m2: 75 % der Standarddosis, nach Effekt titrieren.
+GFR <  10 ml/min/1.73m2: 50 % der Standarddosis, nach Effekt titrieren.|
 |---|---|
-|**Sufentanil**| Typische Erhaltungsdosen bei postoperativen beatmeten Patienten: Reife Neugeborene in<br>erster Lebenswoche 0,02–0,1 µg/kg/h, 2.–4. Lebenswoche 0,05–0,4 µg/kg/h, ab 1 Monat:<br>Start mit 0,2–0,35 µg/kg/h. Dosis wird letztlich nach Effekt titriert, Dosen über 1 µg/kg/h<br>selten erforderlich (bis 4 µg/kg/h sind beschrieben).<br> Keine Anpassung bei Nierenfunktionsstörung (für GFR< 10 existieren keine Empfehlungen)|
-|**Opiatzirkulation**| Bei Konversion wird eine Dosisreduktion mitberechnet wegen inkompletter Kreuztoleranz.<br>Umrechnungsfaktoren sind grobe Richtwerte zur Umstellung<br> Umstellung von Sufentanil zu Morphin: Faktor 55<br> Umstellung von Morphin zu Sufentanil: Faktor 0,018<br> Die Rotation zu Fentanyl wird wegen Tachyphylaxie NICHT empfohlen.|
-|**Dexmedetomidin**| Neugeborene: Loading 0,25 µg/kg über 10 min, DTI 0,25 µg/kg/h (Startdosis) – max.<br>1,5 µg/kg/h.<br> > 1 Monat: Loading 0,5–1 µg/kg über 10 min, DTI 0,25 µg/kg/h (Startdosis) – 1,5 µg/kg/h<br>(Dosen bis 2,5 µg/kg/h im Einzelfall möglich sofern hämodynamisch vertragen).<br> Kontraindiziert bei AV-Block III.|
-|**Clonidin**| Neugeborene: Loading 0,5 – max. 1 µg/kg über 15 min; DTI 0,5–3 µg/kg/h.<br> 1 Monat: Loading 2 – max. 5 µg/kg über 15 min (max. 150 µg); DTI 0,5–3 µg/kg/h.<br> Kontraindiziert bei AV-Block III.|
-|**Midazolam**| Neugeborene: Loading 0,05–0,1 mg/kg, DTI 0,02–0,3 mg/kg/h. Vor Laufratenerhöhung<br>Bolus wiederholen.<br> > 1 Monat und < 40 kg KG: Loading 0,05–0,1 mg/kg, DTI 0,02–0,3 mg/kg/h. Vor<br>Laufratenerhöhung Bolus wiederholen. Höhere Dosierungen sind beschrieben, eine<br>Dosiserhöhung über 0,4 mg/kg/h ist in aller Regel ineffektiv.<br> > 40 kg KG: DTI max. 0,2 mg/kg/h. Ansonsten wie <4 0 kg.<br> 0,1 mg/kg/h entspricht 1,67 µg/kg/min.|
-|**Esketamin**| Neugeborene – 18 Jahre: Loading 0,25 mg/kg, DTI 0,15–0,5 mg/kg/h (maximal 1,5 mg/kg/h).<br>In der Regel Anwendung als zusätzliches Analgetikum zu Opiat.|
-|**Chloralhydrat**| Applikation po oder rektal.<br> GFR < 50 ml/min/1.73 m2: verlängerte Halbwertszeit zu erwarten. Laut Fachinformation<br>bei schwerer Einschränkung der Nierenfunktion kontraindiziert.|
+|**Sufentanil**| Typische Erhaltungsdosen bei postoperativen beatmeten Patienten: Reife Neugeborene in
+erster Lebenswoche 0,02–0,1 µg/kg/h, 2.–4. Lebenswoche 0,05–0,4 µg/kg/h, ab 1 Monat:
+Start mit 0,2–0,35 µg/kg/h. Dosis wird letztlich nach Effekt titriert, Dosen über 1 µg/kg/h
+selten erforderlich (bis 4 µg/kg/h sind beschrieben).
+ Keine Anpassung bei Nierenfunktionsstörung (für GFR< 10 existieren keine Empfehlungen)|
+|**Opiatzirkulation**| Bei Konversion wird eine Dosisreduktion mitberechnet wegen inkompletter Kreuztoleranz.
+Umrechnungsfaktoren sind grobe Richtwerte zur Umstellung
+ Umstellung von Sufentanil zu Morphin: Faktor 55
+ Umstellung von Morphin zu Sufentanil: Faktor 0,018
+ Die Rotation zu Fentanyl wird wegen Tachyphylaxie NICHT empfohlen.|
+|**Dexmedetomidin**| Neugeborene: Loading 0,25 µg/kg über 10 min, DTI 0,25 µg/kg/h (Startdosis) – max.
+1,5 µg/kg/h.
+ > 1 Monat: Loading 0,5–1 µg/kg über 10 min, DTI 0,25 µg/kg/h (Startdosis) – 1,5 µg/kg/h
+(Dosen bis 2,5 µg/kg/h im Einzelfall möglich sofern hämodynamisch vertragen).
+ Kontraindiziert bei AV-Block III.|
+|**Clonidin**| Neugeborene: Loading 0,5 – max. 1 µg/kg über 15 min; DTI 0,5–3 µg/kg/h.
+ 1 Monat: Loading 2 – max. 5 µg/kg über 15 min (max. 150 µg); DTI 0,5–3 µg/kg/h.
+ Kontraindiziert bei AV-Block III.|
+|**Midazolam**| Neugeborene: Loading 0,05–0,1 mg/kg, DTI 0,02–0,3 mg/kg/h. Vor Laufratenerhöhung
+Bolus wiederholen.
+ > 1 Monat und < 40 kg KG: Loading 0,05–0,1 mg/kg, DTI 0,02–0,3 mg/kg/h. Vor
+Laufratenerhöhung Bolus wiederholen. Höhere Dosierungen sind beschrieben, eine
+Dosiserhöhung über 0,4 mg/kg/h ist in aller Regel ineffektiv.
+ > 40 kg KG: DTI max. 0,2 mg/kg/h. Ansonsten wie <4 0 kg.
+ 0,1 mg/kg/h entspricht 1,67 µg/kg/min.|
+|**Esketamin**| Neugeborene – 18 Jahre: Loading 0,25 mg/kg, DTI 0,15–0,5 mg/kg/h (maximal 1,5 mg/kg/h).
+In der Regel Anwendung als zusätzliches Analgetikum zu Opiat.|
+|**Chloralhydrat**| Applikation po oder rektal.
+ GFR < 50 ml/min/1.73 m2: verlängerte Halbwertszeit zu erwarten. Laut Fachinformation
+bei schwerer Einschränkung der Nierenfunktion kontraindiziert.|
 
 **SOP Analgosedierung und postoperative Schmerztherapie bei Kindern** 
 
@@ -204,9 +279,32 @@ Die Umstellung erfolgt **frühestens unterhalb einer maximalen Laufrate** . Dies
 
 ||**Berechnung enterale Äquivalenzdosis**|**Umstellung**|
 |---|---|---|
-|**Morphin**| Morphin in**mg**/kg/h x KG(kg) x 12 =<br>Morphineinzeldosis in**mg**. Diese<br>Morphineinzeldosis wird**alle 4 h oral**<br>gegeben.<br> 16 Tropfen der Morphinlösung sind 1 ml. 1 mL<br>der 0,5%-ige Lösung enthält 5 mg, 1 ml der 2%-<br>igen Lösung enthält20mgMorphin.| Start mit erster Morphin po Gabe,<br>Fortführung der iv-Therapie<br> Reduziere 30 Minuten nach zweiter po-<br>Gabe die Infusionsgeschwindigkeit um 50%<br> Beende 30 Minuten nach dritter po-Gabe<br>die Morphininfusion|
-|**Levomethadon**|Wegen sehr unterschiedlicher Halbwertszeiten mit der Gefahr der Kumulation schwieriger<br>umzustellenund solldaher nichtmehr verwendetwerden.||
-|**Midazolam**|Midazolam mit Infusionsrate ≤1,5 mg/kg/h:<br>Midazolam in mg/kg/h x KG(kg) x 1,8 =<br>Diazepameinzeldosis in mg. Diese wird alle 6 h<br>gegeben (Höchstdosis 10 mg/Gabe) oder<br>Midazolam in mg/kg/h x KG(kg) x 1,2 =<br>Lorazepameinzeldosis in mg (Höchstdosis 5<br>mg/Gabe).Diesewird alle4 hgegeben.| Start mit erster po Gabe, Fortführung der<br>iv-Therapie<br> Reduziere 30 Minuten nach erster po-Gabe<br>die Infusionsgeschwindigkeit um 50%<br> Beende 30 Minuten nach zweiter po-Gabe<br>die Midazolaminfusion|
+|**Morphin**| Morphin in**mg**/kg/h x KG(kg) x 12 =
+Morphineinzeldosis in**mg**. Diese
+Morphineinzeldosis wird**alle 4 h oral**
+gegeben.
+ 16 Tropfen der Morphinlösung sind 1 ml. 1 mL
+der 0,5%-ige Lösung enthält 5 mg, 1 ml der 2%-
+igen Lösung enthält20mgMorphin.| Start mit erster Morphin po Gabe,
+Fortführung der iv-Therapie
+ Reduziere 30 Minuten nach zweiter po-
+Gabe die Infusionsgeschwindigkeit um 50%
+ Beende 30 Minuten nach dritter po-Gabe
+die Morphininfusion|
+|**Levomethadon**|Wegen sehr unterschiedlicher Halbwertszeiten mit der Gefahr der Kumulation schwieriger
+umzustellenund solldaher nichtmehr verwendetwerden.||
+|**Midazolam**|Midazolam mit Infusionsrate ≤1,5 mg/kg/h:
+Midazolam in mg/kg/h x KG(kg) x 1,8 =
+Diazepameinzeldosis in mg. Diese wird alle 6 h
+gegeben (Höchstdosis 10 mg/Gabe) oder
+Midazolam in mg/kg/h x KG(kg) x 1,2 =
+Lorazepameinzeldosis in mg (Höchstdosis 5
+mg/Gabe).Diesewird alle4 hgegeben.| Start mit erster po Gabe, Fortführung der
+iv-Therapie
+ Reduziere 30 Minuten nach erster po-Gabe
+die Infusionsgeschwindigkeit um 50%
+ Beende 30 Minuten nach zweiter po-Gabe
+die Midazolaminfusion|
 
 ## **4.1.2 Entwöhnung von oraler Therapie** 
 
@@ -397,7 +495,8 @@ Die Behavioral Pain Scale (BPS) (Verhaltensbezogene Schmerzskala) ist ein Instru
 ||1|Keine Bewegung|
 ||2|Leichtes Beugen|
 ||3|Komplexes Beugen mit Flexion der Finger|
-||4|Angezogene Extremitäten, wehrt sich gegen therapeutische und<br>pflegerische Maßnahmen|
+||4|Angezogene Extremitäten, wehrt sich gegen therapeutische und
+pflegerische Maßnahmen|
 |**Adaption an Beatmungsgerät**|||
 ||1|Toleriert Beatmung|
 ||2|Hustet, aber toleriert Beatmung die meiste Zeit|
@@ -412,7 +511,8 @@ Diese Skala wird wie die BPS angewendet, ist jedoch für nicht intubierte Patien
 |---|---|---|
 ||1|Keine Schmerzäußerungen|
 ||2|Stöhnen ≤ 3x/min und ≤ 3 sec.|
-||3|Stöhnen > 3x/min oder > 3 sec.<br>|
+||3|Stöhnen > 3x/min oder > 3 sec.
+|
 ||4|Weinen oder verbale Äußerungen, inkl. „Au“, „Autsch“ oder Atemanhalten > 3 sec.|
 
 ## **RASS: Richmond Agitation and Sedation Scale** 

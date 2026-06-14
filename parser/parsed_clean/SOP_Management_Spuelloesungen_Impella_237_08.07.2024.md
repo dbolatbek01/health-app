@@ -39,9 +39,16 @@ Der Controller der Impella-Pumpe (Automatic Impella Controller, AIC) überwacht 
 
 Normalwerte für Purge-Fluss und -Druck: 
 
-|**Impella-Typ**<br>**Purge-Fluss**<br>(mL/h)|**Purge-Druck**<br>(mmHg)|
+|**Impella-Typ**
+**Purge-Fluss**
+(mL/h)|**Purge-Druck**
+(mmHg)|
 |---|---|
-|CP<br>5–30<br>5.5<br>5–30|300–1100<br>300–1100|
+|CP
+5–30
+5.5
+5–30|300–1100
+300–1100|
 
 Flussrate und Druck werden auf der Standardseite des AIC angezeigt (Abb. 1, gelber Kasten). 
 

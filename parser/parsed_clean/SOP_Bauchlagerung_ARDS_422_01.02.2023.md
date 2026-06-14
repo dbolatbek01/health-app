@@ -203,60 +203,110 @@ Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft.
 
 |**Indikation**|**Kontraindikation**|
 |---|---|
-|Schweres Akutes Atemnotsyndrom (ARDS) mit einem|<br>Instabilität der Wirbelsäule|
-|Oxygenierungsindex (paO2/FiO2) ≤ 100 mmHg|<br>instabile Beckenfraktur|
-||<br>nicht versorgtes Gesichtstrauma|
-||<br>intrakranieller Druckanstieg|
-||<br>Schädel-Hirn-Trauma|
-||<br>schwere Herzrhythmusstörungen|
-||<br>„offener Thorax“, instabiles Sternum|
-||<br>„offenes Abdomen“|
-||<br>schwere hämodynamische Instabilität|
+|Schweres Akutes Atemnotsyndrom (ARDS) mit einem|
+Instabilität der Wirbelsäule|
+|Oxygenierungsindex (paO2/FiO2) ≤ 100 mmHg|
+instabile Beckenfraktur|
+||
+nicht versorgtes Gesichtstrauma|
+||
+intrakranieller Druckanstieg|
+||
+Schädel-Hirn-Trauma|
+||
+schwere Herzrhythmusstörungen|
+||
+„offener Thorax“, instabiles Sternum|
+||
+„offenes Abdomen“|
+||
+schwere hämodynamische Instabilität|
 |**Material und Vorbereitung**||
-|<br>dreiteiliges Bauchlagerungsset|<br>Allevyn Life für die Mamillen|
-|<br>alternative Kopflagerung mit GentleTouch®-|<br>Gänsegurgel|
-|Kopfstützkissen|<br>Tubuslage rechter Mundwinkel: mit Pflasterfixierung|
-|<br>Tibiarolle|sichern|
-|<br>2 Kissen zur Armlagerung|<br>Magensonde, zum Drehen, auf Ablauf -> Ernährung|
-|<br>1 Laken|kann in Bauchlage fortgeführt werden|
-|<br>viskoelastischer Lagerungsring für den Kopf|<br>SedLine|
-|<br>Ligasano-Auflage für das Bauchlagerungsset|<br>Analgosedierung (Anordnung durch den Arzt)|
-|<br>Augenschutzbrille: Optiguard oder NoPress|<br>Notfallmedikamente|
+|
+dreiteiliges Bauchlagerungsset|
+Allevyn Life für die Mamillen|
+|
+alternative Kopflagerung mit GentleTouch®-|
+Gänsegurgel|
+|Kopfstützkissen|
+Tubuslage rechter Mundwinkel: mit Pflasterfixierung|
+|
+Tibiarolle|sichern|
+|
+2 Kissen zur Armlagerung|
+Magensonde, zum Drehen, auf Ablauf -> Ernährung|
+|
+1 Laken|kann in Bauchlage fortgeführt werden|
+|
+viskoelastischer Lagerungsring für den Kopf|
+SedLine|
+|
+Ligasano-Auflage für das Bauchlagerungsset|
+Analgosedierung (Anordnung durch den Arzt)|
+|
+Augenschutzbrille: Optiguard oder NoPress|
+Notfallmedikamente|
 |**Durchführung**||
-|<br>benötigtes Personal: 4x Pflege, 1x Arzt||
-||<br>Arme und Kissen seitlich am Körper lagern|
-|<br>Arzt sichert TubusTrachealkanüle und ZVK||
-||<br>Keile der Bauchlagerungskissen anbringen|
-|<br>Drehung erfolgt zum Respirator||
-||<br>Kontrolle: Augen, Nase, Tubus/Trachealkanüle,|
-|<br>Patient zur gegenüberliegenden Bettseite ziehen||
+|
+benötigtes Personal: 4x Pflege, 1x Arzt||
+||
+Arme und Kissen seitlich am Körper lagern|
+|
+Arzt sichert TubusTrachealkanüle und ZVK||
+||
+Keile der Bauchlagerungskissen anbringen|
+|
+Drehung erfolgt zum Respirator||
+||
+Kontrolle: Augen, Nase, Tubus/Trachealkanüle,|
+|
+Patient zur gegenüberliegenden Bettseite ziehen||
 ||Drainagen, Katheter|
-|<br>neues Laken zu einem Drittel einspannen||
-||<br>Abdomen muss freiliegen|
-|<br>Bauchlagerungskissen am Patienten platzieren||
-||<br>Unterpolsterung der Schienbeine|
+|
+neues Laken zu einem Drittel einspannen||
+||
+Abdomen muss freiliegen|
+|
+Bauchlagerungskissen am Patienten platzieren||
+||
+Unterpolsterung der Schienbeine|
 |(ohne Keile!)||
-||<br>Bett in Anti-Trendelenburg-Lage (ca. 15° beintief)|
-|<br>Patient in 90° Seitenlage bringen||
+||
+Bett in Anti-Trendelenburg-Lage (ca. 15° beintief)|
+|
+Patient in 90° Seitenlage bringen||
 ||bringen|
-|<br>durch vorsichtiges Ziehen am Laken den Patienten||
-||<br>erneute Kontrolle der anatomiegerechten Lagerung|
+|
+durch vorsichtiges Ziehen am Laken den Patienten||
+||
+erneute Kontrolle der anatomiegerechten Lagerung|
 |auf die Lagerungskissen drehen||
 ||(durch Arzt und Pflegekraft)|
-|<br>Kopfschale positionieren||
+|
+Kopfschale positionieren||
 |||
 |**Kontrolle und Dokumentation**||
-|<br>Lagerungsdauer mindestens 16 h (alle 2 h Mikrolagerung)Dokumentation durch Pflege in||
+|
+Lagerungsdauer mindestens 16 h (alle 2 h Mikrolagerung)Dokumentation durch Pflege in||
 |„Bewegungsmobilisationsplan“ unter „ Maßnahmen Lagerung“||
-|<br>Dekubituskontrolle 1x pro SchichtDokumentation durch Pflege in „Pflegedokumentation“ unter||
+|
+Dekubituskontrolle 1x pro SchichtDokumentation durch Pflege in „Pflegedokumentation“ unter||
 |„Hautinspektion“||
-|<br>nach einer Lagerungspause Indikation zur erneuten Bauchlagerung prüfen||
-|<br>Beendigung der Therapie bei anhaltender Verbesserung des Oxygenierungsindex paO2/FiO2 > 150 mmHg||
+|
+nach einer Lagerungspause Indikation zur erneuten Bauchlagerung prüfen||
+|
+Beendigung der Therapie bei anhaltender Verbesserung des Oxygenierungsindex paO2/FiO2 > 150 mmHg||
 |**Risiken und Komplikationen**||
-|<br>hämodynamische Instabilität||
-|<br>Druckschäden an: Gesicht, Augen, Becken, Knie, Mamillen, Tibia||
-|<br>Beatmungsprobleme||
-|<br>Herzrhythmusstörungen||
-|<br>Tubus-, Trachealkanülen-  oder Katheterdislokation||
-|<br>Nervenschäden (Pl. brachialis und N. ulnaris)||
+|
+hämodynamische Instabilität||
+|
+Druckschäden an: Gesicht, Augen, Becken, Knie, Mamillen, Tibia||
+|
+Beatmungsprobleme||
+|
+Herzrhythmusstörungen||
+|
+Tubus-, Trachealkanülen-  oder Katheterdislokation||
+|
+Nervenschäden (Pl. brachialis und N. ulnaris)||
 

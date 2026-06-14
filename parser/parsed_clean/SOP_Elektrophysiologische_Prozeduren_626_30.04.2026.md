@@ -180,7 +180,16 @@ Geltungsbereich: Herzkatheter
 
 |||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|
-||**REA-**<br>**Wagen**|**Absaugung**|**ACT**|**O2**<br>**Anschluss**<br>**Ambu-**<br>**Beutel**|**Pericard-**<br>**punktions-**<br>**set**|**Defi +**<br>**Kabel**|**SM**|**Beatmungsgerät**<br>**+ O2 Flasche**|**BGA-**<br>**Gerät**|**BTM**|**Kühlschrank**|
+||**REA-**
+**Wagen**|**Absaugung**|**ACT**|**O2**
+**Anschluss**
+**Ambu-**
+**Beutel**|**Pericard-**
+**punktions-**
+**set**|**Defi +**
+**Kabel**|**SM**|**Beatmungsgerät**
+**+ O2 Flasche**|**BGA-**
+**Gerät**|**BTM**|**Kühlschrank**|
 |1||||||||||||
 |2||||||||||||
 |3||||||||||||

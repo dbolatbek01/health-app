@@ -192,13 +192,36 @@ Die Länge des Untersuchungsbereiches ergibt sich aus den anatomischen Merkmalen
 
 ## **11. Diagnostische Referenzwerte für CT-Untersuchungen an Erwachsenen** 
 
-|pro Scan-Serie CT-<br>Untersuchungsart|CTDIvol [mGy]<br>zur Orientierung|DLP [mGy x cm]<br>pro Scanserie|
+|pro Scan-Serie CT-
+Untersuchungsart|CTDIvol [mGy]
+zur Orientierung|DLP [mGy x cm]
+pro Scanserie|
 |---|---|---|
 |Thorax|10|350|
 
 ## **12. Untersuchungsablauf: Verantwortlichkeiten** 
 
-Verantwortlichkeiten<br>Arzt mit Mitarbeiter<br>Fachkunde CT Röntgen<br>Rechtfertigende Indikation X<br>Patientenaufklärung X<br>ja Schwangerschaft nein X<br>Vorerst keine Untersuchung<br>Voraufnahmen heraussuchen und sichten X X<br>Untersuchungsplanung (z. B. Flash Ja/Nein) X<br>Untersuchungsvorbereitung (X) X<br>Patientenlagerung und Vorbereitung  (X) X<br>der Kontrastmittelspritze<br>Einstellparameter (ggf. anpassen) (X) X<br>Untersuchungsdurchführung X X<br>Versorgung des Patienten (X) X<br>Bilderstellung X X<br>Bilddaten ins PACS, JiveX u. an syngo.via senden X X<br>Befundung im RIS X<br>Dokumentation und Leistungserfassung X X<br>**----- End of picture text -----**<br>
+Verantwortlichkeiten
+Arzt mit Mitarbeiter
+Fachkunde CT Röntgen
+Rechtfertigende Indikation X
+Patientenaufklärung X
+ja Schwangerschaft nein X
+Vorerst keine Untersuchung
+Voraufnahmen heraussuchen und sichten X X
+Untersuchungsplanung (z. B. Flash Ja/Nein) X
+Untersuchungsvorbereitung (X) X
+Patientenlagerung und Vorbereitung  (X) X
+der Kontrastmittelspritze
+Einstellparameter (ggf. anpassen) (X) X
+Untersuchungsdurchführung X X
+Versorgung des Patienten (X) X
+Bilderstellung X X
+Bilddaten ins PACS, JiveX u. an syngo.via senden X X
+Befundung im RIS X
+Dokumentation und Leistungserfassung X X
+**----- End of picture text -----**
+
 
 ## **13. Bildbearbeitung, Bildbeurteilung, Befundung** 
 

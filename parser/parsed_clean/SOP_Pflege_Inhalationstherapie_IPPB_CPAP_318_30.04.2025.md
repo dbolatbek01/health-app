@@ -38,7 +38,8 @@ Patienten mit chronischen Lungenerkrankungen haben häufig eine ineffiziente Atm
 
 Bei allen aufgeführten Maßnahmen ist auf die Anwendung der Gerätschaften nach den Funktionsbeschreibungen der Medizinprodukteverordnung (siehe Geräteunterweisung) zu achten und durchzuführen. Idealerweise wird der Patient in eine atemunterstützende Position gebracht (evtl. Sitzposition, A-, V-, T-, Drainagelagerung). Eine hygienische Händedesinfektion wird vor, zwischen und nach jeder Tätigkeit gemäß Leitfaden der Krankenhaushygiene durchgeführt. 
 
-|Version 4.0|Letzte Überprüfung|Letzte Überprüfung||||||||Seite<br>1  2|
+|Version 4.0|Letzte Überprüfung|Letzte Überprüfung||||||||Seite
+1  2|
 |---|---|---|---|---|---|---|---|---|---|---|
 |SO 318|Nächste Überprüfung|||||||||von|
 
@@ -118,7 +119,8 @@ Die Dokumentation erfolgt in den Patientendokumentationssystemen m.life, SAP und
 
 Abweichungen oder Beobachtungen: Pflegenotizen oder Maske Physiotherapie 
 
-|Version 4.0|Letzte Überprüfung|Letzte Überprüfung||||||||Seite<br>2  2|
+|Version 4.0|Letzte Überprüfung|Letzte Überprüfung||||||||Seite
+2  2|
 |---|---|---|---|---|---|---|---|---|---|---|
 |SO 318|Nächste Überprüfung|||||||||von|
 

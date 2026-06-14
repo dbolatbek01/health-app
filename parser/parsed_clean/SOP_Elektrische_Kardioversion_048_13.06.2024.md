@@ -173,7 +173,8 @@ https://doi.org/10.1093/eurheartj/ehz585
 |---|---|
 |**Vorbereitende Maßnahme**|**erfolgt**|
 |||
-|Aufklärung und Einverständniserklärung für die Sedierung und für die elektrische<br>Kardioversion liegen vor||
+|Aufklärung und Einverständniserklärung für die Sedierung und für die elektrische
+Kardioversion liegen vor||
 |Indikationen überprüfen||
 |Klinische Untersuchung (z.B. Zeichen einer Hypovolämie, Fieber)||
 |Peripherer venöser oder zentralvenöser Zugang vorhanden||
@@ -181,10 +182,20 @@ https://doi.org/10.1093/eurheartj/ehz585
 |Entnehmbare Zahnprothesen entfernt||
 |Überprüfung auf das Vorhandensein implantierter Devices (ICD, CRT, Schrittmacher)||
 |Kontrolle der Laborparameter (Elektrolytenstatus, K-Spiegel, Anämie, Infekt)||
-|Überprüfung der anästhesiologischen Dokumentationen (Hinweise auf schwierigen<br>Atemweg, Medikamentenunverträglichkeiten, Allergien)||
-|Patient an kontinuierliches Monitoring angeschlossen: 12-Kanal-EKG, nichtinvasive<br>Blutdruckmessung (Messintervall 2-minütlich, alternativ invasive Blutdruckmessung),<br>periphere Sauerstoffsättigung mit eingeschaltetem Signalton;||
-|Defibrillator-Elektroden angelegt:<br>primär in anterior-posteriorer Position,<br>alternativ: rechts parasternal unter der Clavicula und über der Herzspitze.<br>**CAVE!**bei Schrittmacher- oder ICD-Patienten mindestens 8 cm Abstand zum Aggregat<br>einhalten||
-|EKG-Check:<br>1. vor der Sedierung,<br>2. vor der TEE,<br>3. vor der Kardioversion.||
+|Überprüfung der anästhesiologischen Dokumentationen (Hinweise auf schwierigen
+Atemweg, Medikamentenunverträglichkeiten, Allergien)||
+|Patient an kontinuierliches Monitoring angeschlossen: 12-Kanal-EKG, nichtinvasive
+Blutdruckmessung (Messintervall 2-minütlich, alternativ invasive Blutdruckmessung),
+periphere Sauerstoffsättigung mit eingeschaltetem Signalton;||
+|Defibrillator-Elektroden angelegt:
+primär in anterior-posteriorer Position,
+alternativ: rechts parasternal unter der Clavicula und über der Herzspitze.
+**CAVE!**bei Schrittmacher- oder ICD-Patienten mindestens 8 cm Abstand zum Aggregat
+einhalten||
+|EKG-Check:
+1. vor der Sedierung,
+2. vor der TEE,
+3. vor der Kardioversion.||
 
 ## **Besonderheiten** : 
 

@@ -63,7 +63,9 @@ Folgende Unterlagen und Materialien werden angelegt, vorbereitet und bereitgeste
 
 - Laborpaket in Lauris (TX-Vorbereitung Herz, Herz-Lunge oder TX-Vorbereitung Lunge), MRSA - Screening und Covid-Schnelltest (AG-Test) 
 
-g<br>**----- End of picture text -----**<br>
+g
+**----- End of picture text -----**
+
 
 ## Pflege: Präoperative Vorbereitung von Transplantationspatienten
 
@@ -127,7 +129,8 @@ g<br>**----- End of picture text -----**<br>
 
 Eintrag in m.life unter: Pflege/OP-Vorbereitung, Team Time Out Verlegung über SAP. 
 
-|Version 5.0|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite<br>2  2|
+|Version 5.0|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite
+2  2|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |P 2|Freigabe am|||||||||||
 |SO 34|Nächste Überprüfung||||||||||von|

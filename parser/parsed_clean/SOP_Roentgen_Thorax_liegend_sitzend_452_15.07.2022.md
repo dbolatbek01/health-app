@@ -9,11 +9,29 @@ Funktionsbereich Röntgen
 
 |**Änderungshistorie**|**Änderungshistorie**|**Änderungshistorie**|
 |---|---|---|
-|**Version**<br>**gültig ab**<br>**Verfasser**<br>**Freigabe**<br>**Änderungsgrund**<br>**Wiedervorlage**|||
-|4.0<br>01.02.2014<br>Noll, T.<br>Höhn, T.|||
-|5.0<br>15.11.2018<br>Dentzer, J.<br>Polle, M.<br>Aktualisierung<br>15.11.2020|||
+|**Version**
+**gültig ab**
+**Verfasser**
+**Freigabe**
+**Änderungsgrund**
+**Wiedervorlage**|||
+|4.0
+01.02.2014
+Noll, T.
+Höhn, T.|||
+|5.0
+15.11.2018
+Dentzer, J.
+Polle, M.
+Aktualisierung
+15.11.2020|||
 ||||
-|6.0<br>15.06.2019<br>Dentzer, J.<br>Polle, M.<br>Aktualisierung<br>15.06.2021|||
+|6.0
+15.06.2019
+Dentzer, J.
+Polle, M.
+Aktualisierung
+15.06.2021|||
 
 ## **Inhaltsverzeichnis** 
 
@@ -142,7 +160,11 @@ Falls notwendig kann die Aufnahme auch sitzend a.p. angefertigt werden (stark lu
 
 ## **Aufnahmetechnik** 
 
-|**Bett-**<br>**Thorax**|**Format**|**Fokus**|**Raster**|**Abstand**<br>**cm**|**kV**|**mAs**|**DRW**<br>**(µGy*m² bzw.**<br>**cGy*cm²)**|
+|**Bett-**
+**Thorax**|**Format**|**Fokus**|**Raster**|**Abstand**
+**cm**|**kV**|**mAs**|**DRW**
+**(µGy*m² bzw.**
+**cGy*cm²)**|
 |---|---|---|---|---|---|---|---|
 |**a.p.**|35 x 43||digital|130|105 - 113|1,0 – 1,25|15|
 |**sitzend**|35 x 43||digital|150-180|105 - 113|1,25|15|

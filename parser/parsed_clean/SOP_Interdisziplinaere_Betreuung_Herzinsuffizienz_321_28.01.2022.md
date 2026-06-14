@@ -15,14 +15,27 @@ Flowchart Interdisziplinäre Betreuung von Patienten mit schwerer Herzinsuffizie
 
 |**Änderungshistorie**|**Änderungshistorie**|**Änderungshistorie**|
 |---|---|---|
-|**Version**<br>**gültig ab**<br>**Verfasser**<br>**Freigabe**<br>**Änderungsgrund**<br>**Wiedervorlage**|||
+|**Version**
+**gültig ab**
+**Verfasser**
+**Freigabe**
+**Änderungsgrund**
+**Wiedervorlage**|||
 ||||
 ||||
 ||||
-|2.0<br>06.04.2018||Aktualisierung<br>01.04.2020|
+|2.0
+06.04.2018||Aktualisierung
+01.04.2020|
 ||||
-|3.0<br>01.03.2019<br>Aktualisierung<br>01.03.2021|||
-|4.0<br>16.12.2021<br>Aktualisierung<br>31.12.2023|||
+|3.0
+01.03.2019
+Aktualisierung
+01.03.2021|||
+|4.0
+16.12.2021
+Aktualisierung
+31.12.2023|||
 
 ## **Inhaltsverzeichnis** 
 

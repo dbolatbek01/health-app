@@ -33,9 +33,40 @@ In Abgrenzung zur medizinischen Therapie am Lebensende bezieht sich Best Support
 |**Tabelle 1. Begriffsdefinitionen**|**Tabelle 1. Begriffsdefinitionen**|**Tabelle 1. Begriffsdefinitionen**|
 |---|---|---|
 |**Begriff**|**Bedeutung**|**Rechtliche Bewertung**|
-|Tötung auf Verlangen<br>(aktive Sterbehilfe)|Gezielte Tötung auf Verlangen von Patient:in<br>(z. B. durch Verabreichung von<br>Medikamenten). Das Verkürzen des Lebens ist<br>beabsichtigt undprimäres Ziel der Intervention|Verboten nach § 216 StGB|
-|Sterben zulassen<br>(passive Sterbehilfe)|Unterlassung oder Beendigung<br>lebenserhaltender Therapien, die nicht (mehr)<br>indiziert sind oder für die keine Einwilligung<br>(mehr) besteht; eingeschlossen sind auch<br>„aktive“ Handlungen des Therapieabbruchs<br>(z.B. Extubation, Dekanülierung, Beendigung<br>der Sondenernährung, Abstellen von Geräten)|Im Einzelfall zulässig, wenn der (mutmaßliche)<br>Patientenwille auf den Behandlungsabbruch<br>gerichtet ist.<br>Hinweis:Bei Betreuten ist grundsätzlich die<br>Genehmigung des Betreuungsgerichts<br>einzuholen, es sei denn, behandelnde:r<br>Ärztin/Arzt und Betreuer:in sind sich**einig**, dass<br>das Unterlassen oder die Beendigung der<br>Therapie dem Patientenwillen entspricht oder<br>es liegt eine wirksame Patientenverfügungvor.|
-|Therapien am Lebensende<br>(indirekte oder indirekt<br>aktive Sterbehilfe)|<br>Palliativtherapie durch Handlungen (z.B.<br>schmerzlindernde oder sedierende<br>Medikamente) unter Inkaufnahme einer<br>möglichen Verkürzung des Sterbeprozesses<br>und damit auch des Lebens|Im Einzelfall zulässig, wenn die<br>Lebensverkürzung nicht Ziel, sondern in Kauf zu<br>nehmende Nebenwirkung der palliativen<br>Therapie ist, die Therapie dem Patientenwillen<br>entspricht sowie medizinisch indiziert ist.|
+|Tötung auf Verlangen
+(aktive Sterbehilfe)|Gezielte Tötung auf Verlangen von Patient:in
+(z. B. durch Verabreichung von
+Medikamenten). Das Verkürzen des Lebens ist
+beabsichtigt undprimäres Ziel der Intervention|Verboten nach § 216 StGB|
+|Sterben zulassen
+(passive Sterbehilfe)|Unterlassung oder Beendigung
+lebenserhaltender Therapien, die nicht (mehr)
+indiziert sind oder für die keine Einwilligung
+(mehr) besteht; eingeschlossen sind auch
+„aktive“ Handlungen des Therapieabbruchs
+(z.B. Extubation, Dekanülierung, Beendigung
+der Sondenernährung, Abstellen von Geräten)|Im Einzelfall zulässig, wenn der (mutmaßliche)
+Patientenwille auf den Behandlungsabbruch
+gerichtet ist.
+Hinweis:Bei Betreuten ist grundsätzlich die
+Genehmigung des Betreuungsgerichts
+einzuholen, es sei denn, behandelnde:r
+Ärztin/Arzt und Betreuer:in sind sich**einig**, dass
+das Unterlassen oder die Beendigung der
+Therapie dem Patientenwillen entspricht oder
+es liegt eine wirksame Patientenverfügungvor.|
+|Therapien am Lebensende
+(indirekte oder indirekt
+aktive Sterbehilfe)|
+Palliativtherapie durch Handlungen (z.B.
+schmerzlindernde oder sedierende
+Medikamente) unter Inkaufnahme einer
+möglichen Verkürzung des Sterbeprozesses
+und damit auch des Lebens|Im Einzelfall zulässig, wenn die
+Lebensverkürzung nicht Ziel, sondern in Kauf zu
+nehmende Nebenwirkung der palliativen
+Therapie ist, die Therapie dem Patientenwillen
+entspricht sowie medizinisch indiziert ist.|
 
 Modifiziert nach [2] 
 
@@ -70,12 +101,53 @@ Die Ermittlung des Patientenwillens erfolgt je nach Bewusstseinszustand (Tab. 2)
 |**Tabelle 2. Ermittlung des Patientenwillens**|**Tabelle 2. Ermittlung des Patientenwillens**|
 |---|---|
 |**Bewusstseinszustand**|**Ermittlung des Willens**|
-|Einwilligungsfähige Patient:innen|Einwilligungsfähige Patient:innen entscheiden nach einem ärztlichen<br>Aufklärungsgespräch, welches Wesen, Bedeutung und Tragweite von angebotenen<br>Behandlungsoptionen zum Inhalt hat, selbst über die Zustimmung oder Ablehnung<br>der Behandlung.|
-|Aktuell nicht einwilligungsfähige<br>Patient:innen**mit**wirksamer<br>Patientenverfügung und/oder**mit**<br>Betreuer:in/Bevollmächtigter Person|Bei aktuell nicht einwilligungsfähigen Patient:innen kommt einer Patientenverfügung<br>Bedeutung als im Voraus geäußertem Patientenwille zu.<br>Liegen eine Vorsorgevollmacht oder eine gültige gesetzliche Betreuung vor, sind<br>Betreuer:in/Bevollmächtigte Person zu konsultieren. Diese haben die<br>Patientenverfügung daraufhin zu prüfen, ob die Festlegungen auf die aktuelle<br>Lebens- und Behandlungssituation der Patient:innen zutreffen.|
-|Aktuell nicht einwilligungsfähige<br>Patient:innen**ohne**wirksame<br>Patientenverfügung**mit**<br>Betreuer:in/Bevollmächtigter Person|Sind Patient:innen aktuell nicht einwilligungsfähig und liegt keine wirksame<br>Patientenverfügung vor, muss Betreuer:in oder Bevollmächtigte Person den<br>mutmaßlichen Patientenwillen ermitteln und für den/die Patient:in einwilligen bzw. die<br>Einwilligungverweigern.|
-|Aktuell nicht einwilligungsfähige<br>Patient:innen**ohne**wirksame<br>Patientenverfügung und**ohne**<br>Betreuer:in/Bevollmächtigte Person|Sind Patient:innen aktuell nicht einwilligungsfähig, liegt keine wirksame<br>Patientenverfügung vor und sind weder Betreuer:in oder Bevollmächtigte  Person<br>bekannt, den mutmaßlichen Patientenwillen ermitteln und für den oder die Patient:in<br>einwilligen bzw. die Einwilligung verweigern.<br>Hinweis:Siehe Tab. 1 (oben) zur Einholung der Genehmigung durch das<br>Betreuungsgericht.|
-|Aktuell nicht einwilligungsfähige<br>Patient:innen**ohne**wirksame<br>Patientenverfügung und**ohne**<br>Betreuer:in/Bevollmächtigte Person|Sind Patient:innen nicht einwilligungsfähig, liegt keine wirksame Patientenverfügung<br>vor und sind weder Betreuer:in noch Bevollmächtigte Person bekannt, muss<br>umgehend eine Betreuung beantragt werden. (§1827 BGB).<br>Ehegattennotvertretungsrecht §1358 BGB: Ehegatt:innen oder eingetragene<br>Lebenspartner:innen sind ab dem 01.01.2023 dazu berechtigt, sich im Fall der<br>Einwilligungsunfähigkeit des jeweils anderen gegenseitig in Angelegenheiten der<br>Gesundheitssorge zu vertreten, wenn keine Ausschlussgründe vorliegen.<br>(gilt nur für 6 Monate und nur für Notfallbehandlungen)<br>Betreuung beantragen: gibt es keine(n) Ehepartner:in oder eingetragene(n)<br>Lebenspartner:in, so ist eine Betreuungbeim Betreuungsgericht zu beantragen.|
-|In**Notfallsituationen**und bis zur Bestellung einer betreuenden Person trifft das ärztliche Behandlungsteam stellvertretend<br>die Entscheidung im Sinn von Patientin oder Patient. In diesem Fall sind – soweit möglich – Behandlungswünsche oder der<br>mutmaßliche Patientenwille zu ermitteln. Dabei kann den behandelnden Ärztinnen und Ärzten nichts Unmögliches<br>abverlangt werden; entsprechende Ermittlungen des mutmaßlichen Patientenwillens richten sich in ihrem Umfang danach,<br>was im Einzelfall realistischerweise möglich ist. Im Übrigengilt der Grundsatz in dubiopro vita – im Zweifel für das Leben.||
+|Einwilligungsfähige Patient:innen|Einwilligungsfähige Patient:innen entscheiden nach einem ärztlichen
+Aufklärungsgespräch, welches Wesen, Bedeutung und Tragweite von angebotenen
+Behandlungsoptionen zum Inhalt hat, selbst über die Zustimmung oder Ablehnung
+der Behandlung.|
+|Aktuell nicht einwilligungsfähige
+Patient:innen**mit**wirksamer
+Patientenverfügung und/oder**mit**
+Betreuer:in/Bevollmächtigter Person|Bei aktuell nicht einwilligungsfähigen Patient:innen kommt einer Patientenverfügung
+Bedeutung als im Voraus geäußertem Patientenwille zu.
+Liegen eine Vorsorgevollmacht oder eine gültige gesetzliche Betreuung vor, sind
+Betreuer:in/Bevollmächtigte Person zu konsultieren. Diese haben die
+Patientenverfügung daraufhin zu prüfen, ob die Festlegungen auf die aktuelle
+Lebens- und Behandlungssituation der Patient:innen zutreffen.|
+|Aktuell nicht einwilligungsfähige
+Patient:innen**ohne**wirksame
+Patientenverfügung**mit**
+Betreuer:in/Bevollmächtigter Person|Sind Patient:innen aktuell nicht einwilligungsfähig und liegt keine wirksame
+Patientenverfügung vor, muss Betreuer:in oder Bevollmächtigte Person den
+mutmaßlichen Patientenwillen ermitteln und für den/die Patient:in einwilligen bzw. die
+Einwilligungverweigern.|
+|Aktuell nicht einwilligungsfähige
+Patient:innen**ohne**wirksame
+Patientenverfügung und**ohne**
+Betreuer:in/Bevollmächtigte Person|Sind Patient:innen aktuell nicht einwilligungsfähig, liegt keine wirksame
+Patientenverfügung vor und sind weder Betreuer:in oder Bevollmächtigte  Person
+bekannt, den mutmaßlichen Patientenwillen ermitteln und für den oder die Patient:in
+einwilligen bzw. die Einwilligung verweigern.
+Hinweis:Siehe Tab. 1 (oben) zur Einholung der Genehmigung durch das
+Betreuungsgericht.|
+|Aktuell nicht einwilligungsfähige
+Patient:innen**ohne**wirksame
+Patientenverfügung und**ohne**
+Betreuer:in/Bevollmächtigte Person|Sind Patient:innen nicht einwilligungsfähig, liegt keine wirksame Patientenverfügung
+vor und sind weder Betreuer:in noch Bevollmächtigte Person bekannt, muss
+umgehend eine Betreuung beantragt werden. (§1827 BGB).
+Ehegattennotvertretungsrecht §1358 BGB: Ehegatt:innen oder eingetragene
+Lebenspartner:innen sind ab dem 01.01.2023 dazu berechtigt, sich im Fall der
+Einwilligungsunfähigkeit des jeweils anderen gegenseitig in Angelegenheiten der
+Gesundheitssorge zu vertreten, wenn keine Ausschlussgründe vorliegen.
+(gilt nur für 6 Monate und nur für Notfallbehandlungen)
+Betreuung beantragen: gibt es keine(n) Ehepartner:in oder eingetragene(n)
+Lebenspartner:in, so ist eine Betreuungbeim Betreuungsgericht zu beantragen.|
+|In**Notfallsituationen**und bis zur Bestellung einer betreuenden Person trifft das ärztliche Behandlungsteam stellvertretend
+die Entscheidung im Sinn von Patientin oder Patient. In diesem Fall sind – soweit möglich – Behandlungswünsche oder der
+mutmaßliche Patientenwille zu ermitteln. Dabei kann den behandelnden Ärztinnen und Ärzten nichts Unmögliches
+abverlangt werden; entsprechende Ermittlungen des mutmaßlichen Patientenwillens richten sich in ihrem Umfang danach,
+was im Einzelfall realistischerweise möglich ist. Im Übrigengilt der Grundsatz in dubiopro vita – im Zweifel für das Leben.||
 
 Modifiziert nach [2] 
 
@@ -163,11 +235,20 @@ Begründungen für Dosisänderungen, z.B. bei unzureichender Symptomkontrolle, s
 |**Tabelle 3. Messung und Behandlung von Schmerz**|**Tabelle 3. Messung und Behandlung von Schmerz**|**Tabelle 3. Messung und Behandlung von Schmerz**|
 |---|---|---|
 |**Nicht medikamentöse Maßnahmen**|||
-|Schmerz ernstnehmen<br>Schmerz identifizieren (Lokalisation, Qualität, Quantität)<br>Schmerz mittels Selbst- oder Fremdeinschätzung skalieren (NAS, BPS)<br>Beruhigende/lindernde Pflegemaßnahmen|||
+|Schmerz ernstnehmen
+Schmerz identifizieren (Lokalisation, Qualität, Quantität)
+Schmerz mittels Selbst- oder Fremdeinschätzung skalieren (NAS, BPS)
+Beruhigende/lindernde Pflegemaßnahmen|||
 |**Medikamentöse Maßnahmen**|||
 |**Substanz**|**Typische Dosierungen**|**Bemerkungen**|
-|Morphin|Bolus: 2-5 mg i.v.<br>Kontinuierlich: 0,5mg/h (beginnend)|Wirkeintritt bis Maximum:<br>i.v. nach wenigen min<br>s.c nach ca. 20-30 min<br>Wirkdauer: ca. 3-4 h|
-|Es ist nicht notwendig eine bestehende Therapie mit Opioiden (Fentanyl, Sufentanil, Hydromophon) auf Morphin zu<br>wechseln. Gerade für Morphin werden ausgeprägte Halluzinationen berichtet.<br>Eine Versorgungmit transdermalen Opioid-Pflaster ist nichtgeeignet.|||
+|Morphin|Bolus: 2-5 mg i.v.
+Kontinuierlich: 0,5mg/h (beginnend)|Wirkeintritt bis Maximum:
+i.v. nach wenigen min
+s.c nach ca. 20-30 min
+Wirkdauer: ca. 3-4 h|
+|Es ist nicht notwendig eine bestehende Therapie mit Opioiden (Fentanyl, Sufentanil, Hydromophon) auf Morphin zu
+wechseln. Gerade für Morphin werden ausgeprägte Halluzinationen berichtet.
+Eine Versorgungmit transdermalen Opioid-Pflaster ist nichtgeeignet.|||
 
 Die konkrete Dosierung einer Opioid-Therapie richtet sich nach der Symptomausprägung, Vormedikation (wie etwa OpioidDauermedikation) und ggf. Organinsuffizienzen und kann von den oben angegebenen Dosierungen deutlich abweichen. Ergänzend zu einer Opioid-Therapie können NSAR oder entlastende Pflegmaßnahmen (z.B. Kühlung, entlastende Lagerungsmaßnahmen) durchgeführt werden. 
 
@@ -182,20 +263,42 @@ Geltungsbereich: Intensivmedizin Erwachsene
 |**Tabelle 4. Messung und Behandlung von Atemnot[2]**|**Tabelle 4. Messung und Behandlung von Atemnot[2]**|
 |---|---|
 |**Klinische Anzeichen von Dyspnoe(falls Selbsteinschätzung nicht möglich)**||
-|Subjektive Einschätzung von Patient:in (gering (0) - Atemnot in Ruhe (4))<br>Schwitzen<br>Schnelle, flache Atemzüge<br>Körperliche Unruhe<br>Zyanose<br>Mimische Ausdrucksformen von Unwohlsein und Anstrengung<br>Nasenflügeln, Einziehungen, erschwerte Atemarbeit||
+|Subjektive Einschätzung von Patient:in (gering (0) - Atemnot in Ruhe (4))
+Schwitzen
+Schnelle, flache Atemzüge
+Körperliche Unruhe
+Zyanose
+Mimische Ausdrucksformen von Unwohlsein und Anstrengung
+Nasenflügeln, Einziehungen, erschwerte Atemarbeit||
 |**Therapeutische Maßnahmen**||
 |**Nicht medikamentös**|**Medikamentös**|
-|Lagerungsoptimierung (OK erhöht, Herzbett)<br>Luftzufuhr (Ventilator, Fenster öffnen)<br>Patient:in nicht allein lassen<br>Verbale Beruhigung|Opioide (s. Abschnitt Schmerz und Tab. 3)<br>Bei Angst (siehe Tab. 5) ggf. intravenöse Benzodiazepine, z.B.<br>Lorazepam 0,5-1mg s.l./i.v.<br>Lormetazepam 0,5 – 2 mg i.v.<br>Die Dosierungerfolgt titriert.|
+|Lagerungsoptimierung (OK erhöht, Herzbett)
+Luftzufuhr (Ventilator, Fenster öffnen)
+Patient:in nicht allein lassen
+Verbale Beruhigung|Opioide (s. Abschnitt Schmerz und Tab. 3)
+Bei Angst (siehe Tab. 5) ggf. intravenöse Benzodiazepine, z.B.
+Lorazepam 0,5-1mg s.l./i.v.
+Lormetazepam 0,5 – 2 mg i.v.
+Die Dosierungerfolgt titriert.|
 
 ## **Tabelle 5. Kontrolle von Angst [2]** 
 
 |**Tabelle 5. Kontrolle von Angst[2]**|**Tabelle 5. Kontrolle von Angst[2]**|
 |---|---|
 |**Klinische Anzeichen von Angst(falls Selbsteinschätzung nicht möglich)**||
-|Unruhe, Nesteln, Tachypnoe<br>Abwehr, Festhalten<br>Weit geöffnete Augen, Tränenfluss<br>Zittern||
+|Unruhe, Nesteln, Tachypnoe
+Abwehr, Festhalten
+Weit geöffnete Augen, Tränenfluss
+Zittern||
 |**Therapeutische Maßnahmen**||
 |**Nicht medikamentös**|**Medikamentös**|
-|Verbale Beruhigung<br>Patient:in nicht allein lassen<br>Beruhigende Umgebung<br>Angebot von Gespräch und Nähe|Benzodiazepine,<br>z.B. Lorazepam 0,5-1 mg s.l./i.v.<br>unterstützend ggf. Risperidon, Amitriptylin, Levopromethazin<br>Titrieren bis Symptomlinderung.|
+|Verbale Beruhigung
+Patient:in nicht allein lassen
+Beruhigende Umgebung
+Angebot von Gespräch und Nähe|Benzodiazepine,
+z.B. Lorazepam 0,5-1 mg s.l./i.v.
+unterstützend ggf. Risperidon, Amitriptylin, Levopromethazin
+Titrieren bis Symptomlinderung.|
 
 ## **Behandlung von Mundtrockenheit** 
 
@@ -210,7 +313,9 @@ Die Kontrolle von Delir in der Sterbephase erfolgt analog zur SOP Analgosedierun
 |**Therapeutische Maßnahmen**||
 |---|---|
 |**Nicht medikamentös**|**Medikamentös**|
-|Wenig absaugen<br>Keine Flüssigkeitszufuhr<br>Lagerungsmethoden zur Sekretentlastung|Scopolamin s.c., transdermal|
+|Wenig absaugen
+Keine Flüssigkeitszufuhr
+Lagerungsmethoden zur Sekretentlastung|Scopolamin s.c., transdermal|
 
 **Cave** : Bei Eintrübung der Patient:innen nehmen diese selbst die Rasselatmung nicht mehr wahr und leiden nicht darunter. **Wichtig ist es, das Team und die Angehörigen erklärend zu begleiten!** 
 

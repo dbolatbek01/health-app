@@ -40,7 +40,8 @@ Bei Dialysepatienten wird der Volumenumsatz bei Hämodialyse und Hämofiltration
 
 Die Dokumentation erfolgt entweder in IT-gestützten Patientendokumentationssystemen (m.life, COPRA) oder in der Patientenkurve mittels Ein- und Ausfuhrprotokoll. 
 
-|Version 4.0|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite<br>1  1|
+|Version 4.0|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite
+1  1|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |SO 306|Nächste Überprüfung||||||||||von|
 

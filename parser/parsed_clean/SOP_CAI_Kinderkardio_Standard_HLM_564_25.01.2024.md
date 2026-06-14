@@ -220,32 +220,49 @@ Siehe SOP520 „CAI Anästhesieaufklärung und Prämedikation“
 
 ||||||||||
 |---|---|---|---|---|---|---|---|---|
-|||||**ZVK**|**Schleuse**|**Arterie**|**Magensonde**<br>**[CH]**|**DK**<br>**[CH]**|
+|||||**ZVK**|**Schleuse**|**Arterie**|**Magensonde**
+**[CH]**|**DK**
+**[CH]**|
 ||||||||||
 ||||||||||
-|||||4,5 F Vygon 6 cm<br>4 F Arrow 8 cm<br>5,5 F Arrow 5 cm|keine|24G 2,5 cm|5|6|
-||||FG/NG<br>**< 3 kg**||||||
+|||||4,5 F Vygon 6 cm
+4 F Arrow 8 cm
+5,5 F Arrow 5 cm|keine|24G 2,5 cm|5|6|
+||||FG/NG
+**< 3 kg**||||||
 ||||||||||
 ||||||||||
 ||||||||||
 |||||5,5 F Arrow 5 cm|keine|24 G 5 cm|5-6|6|
-||||NG<br>**> 3 kg**||||||
+||||NG
+**> 3 kg**||||||
 ||||||||||
 ||||||||||
-|||||5,5 F Arrow 8 cm|4 F Cook 5,5 cm|24-22 G<br>5 cm|5-8|6-8|
-|||Säugling<br>**5-10 kg**|||||||
+|||||5,5 F Arrow 8 cm|4 F Cook 5,5 cm|24-22 G
+5 cm|5-8|6-8|
+|||Säugling
+**5-10 kg**|||||||
 ||||||||||
 ||||||||||
-|||||5,5 F Arrow 8 cm/<br>13 cm|4 F Cook 5,5 cm/<br>5 F Arrow 7,5 cm|22 G 5 cm|1-2 Jahre 8-10<br>2-6 Jahre 10-12|8|
-|||Kleinkind<br>**10-18 kg**|||||||
+|||||5,5 F Arrow 8 cm/
+13 cm|4 F Cook 5,5 cm/
+5 F Arrow 7,5 cm|22 G 5 cm|1-2 Jahre 8-10
+2-6 Jahre 10-12|8|
+|||Kleinkind
+**10-18 kg**|||||||
 ||||||||||
 ||||||||||
-|||||5,5 F Arrow 13 cm<br>7 F Arrow 16 cm|5 F Arrow 7,5 cm/<br>8,5 F Arrow 7 cm|22-20 G|12-14|10-12|
-|||Schulkind<br>**18-40 kg**|||||||
+|||||5,5 F Arrow 13 cm
+7 F Arrow 16 cm|5 F Arrow 7,5 cm/
+8,5 F Arrow 7 cm|22-20 G|12-14|10-12|
+|||Schulkind
+**18-40 kg**|||||||
 ||||||||||
 ||||||||||
 ||||||||||
-||Adoleszent<br>**> 40 kg**|||7 F Arrow 30 cm/<br>Erwachsenen-ZVK|9 F Arrow 10 cm|20 G|14-18|12-18|
+||Adoleszent
+**> 40 kg**|||7 F Arrow 30 cm/
+Erwachsenen-ZVK|9 F Arrow 10 cm|20 G|14-18|12-18|
 
 ## **7. Mitgeltende Dokumente** 
 

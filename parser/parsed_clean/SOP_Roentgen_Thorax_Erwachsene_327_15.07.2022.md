@@ -122,10 +122,18 @@ Bei Abweichung vom Standard: Kennzeichnung (z. B. Exspiration) Alle Aufnahmen we
 
 ## **8. Aufnahmetechnik** 
 
-|**Aufnahme**|**Detektor**|**Fokus**|<br>**Raster**|**Abstand cm**|<br>**kV**|**Filter**|**EI_T /**<br>**Empfindlichkeits-**<br>**stufe**|**Kammer**|**DRW**|
+|**Aufnahme**|**Detektor**|**Fokus**|
+**Raster**|**Abstand cm**|
+**kV**|**Filter**|**EI_T /**
+**Empfindlichkeits-**
+**stufe**|**Kammer**|**DRW**|
 |---|---|---|---|---|---|---|---|---|---|
-|**p.a.**|43 x 35|||200|125|1 mm<br>Al|250|<br>|15|
-|**seitlich**|43 x 35|||200|125|1 mm<br>Al|250|<br>|40|
+|**p.a.**|43 x 35|||200|125|1 mm
+Al|250|
+|15|
+|**seitlich**|43 x 35|||200|125|1 mm
+Al|250|
+|40|
 
 ## **9. Strahlenschutz** 
 

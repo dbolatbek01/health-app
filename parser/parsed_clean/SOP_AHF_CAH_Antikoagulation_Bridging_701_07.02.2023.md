@@ -9,7 +9,12 @@ AHF/CAH – Antikoagulation und präoperatives Bridging vor elektiven herzchirur
 
 Klinik für Angeborene Herzfehler – Kinderkardiologie Klinik für Chirurgie Angeborener Herzfehler – Kinderherzchirurgie 
 
-Änderungshistorie<br>Version  gültig ab  Verfasser  Freigabe  Änderungsgrund  Wiedervorlage<br>1.0  05.10.2016  Ersterstellung<br>2.0  30.03.2020  Aktualisierung  30.03.2022<br>**----- End of picture text -----**<br>
+Änderungshistorie
+Version  gültig ab  Verfasser  Freigabe  Änderungsgrund  Wiedervorlage
+1.0  05.10.2016  Ersterstellung
+2.0  30.03.2020  Aktualisierung  30.03.2022
+**----- End of picture text -----**
+
 
 ## **Inhaltsverzeichnis** 
 
@@ -53,7 +58,8 @@ Die Umstellung und ggf. Antagonisierung der Antikoagulation bei dringlichen Oper
 |---|---|---|
 |||**kardiochirurgischen Operationen**|
 |**Thrombozytenaggregationshemmer**|||
-|ASS (Aspirin)<br>Clopidogrel (Plavix)|2–30 h||
+|ASS (Aspirin)
+Clopidogrel (Plavix)|2–30 h||
 ||6 h||
 |||7 d|
 ||(Wirkdauer entspricht||
@@ -62,54 +68,121 @@ Die Umstellung und ggf. Antagonisierung der Antikoagulation bei dringlichen Oper
 ||||
 ||Lebensdauer 7–10 d)||
 |**Niedermolekulares Heparin (NMH)**|||
-|Nadroparin (Fraxiparine)<br>Enoxaparin (Clexane)|3,5 h||
+|Nadroparin (Fraxiparine)
+Enoxaparin (Clexane)|3,5 h||
 |||24 h[3]|
 ||5–7 h||
 ||||
 |**Vitamin K-Antagonisten (VKA)**|||
-|Phenprocoumon (Marcumar)<br>Coumadin (Warfarin)|96–104 h|variabel (~7 d)|
+|Phenprocoumon (Marcumar)
+Coumadin (Warfarin)|96–104 h|variabel (~7 d)|
 ||36–42 h|INR-Ziel < 1.5[1,2]|
 |**Direkte orale Antikoagulantien (DOAC)**|||
-|Rivaroxaban (Xarelto)<br>Dabigatran (Pradaxa)<br>Apixaban (Eliquis)|5–13 h||
+|Rivaroxaban (Xarelto)
+Dabigatran (Pradaxa)
+Apixaban (Eliquis)|5–13 h||
 ||~ 13 h|7 d|
 ||~ 12 h||
 
 ## **2.2 Verfahrensweisen gruppiert nach Indikationsgebiet** 
 
-|**Indikation**|**Übliche**|**Verfahrensweise vor elektiven kardiochirurgischen**<br>**Operationen**|
+|**Indikation**|**Übliche**|**Verfahrensweise vor elektiven kardiochirurgischen**
+**Operationen**|
 |---|---|---|
 ||**Antikoagulation**||
 |**Mechanischer Klappenersatz**|||
-|Aortenklappe|VKA (+/- ASS)|Beendigung Antikoagulation gemäß 2.1.<br>Standardvorgehen ist Bridging mit NMH in prophylaktischer<br>Dosierung (z.B. Clexane 1 x 1 mg/kg s.c., Fraxiparine<br>1 x 100IE/kg s.c.).<br>Bei weiteren thromboembolischen Risikofaktoren sollte<br>Bridging mit mit NMH in therapeutischer Dosierung oder<br>Bridging mit UFH als Dauerinfusion erwogen werden[1,3]. Bei<br>niedrigem thromboembolischen Risikoprofil kann laut<br>aktuellen Leitlinien ein Verzicht auf präoperatives Bridging<br>erwogen werden[1,2].|
+|Aortenklappe|VKA (+/- ASS)|Beendigung Antikoagulation gemäß 2.1.
+Standardvorgehen ist Bridging mit NMH in prophylaktischer
+Dosierung (z.B. Clexane 1 x 1 mg/kg s.c., Fraxiparine
+1 x 100IE/kg s.c.).
+Bei weiteren thromboembolischen Risikofaktoren sollte
+Bridging mit mit NMH in therapeutischer Dosierung oder
+Bridging mit UFH als Dauerinfusion erwogen werden[1,3]. Bei
+niedrigem thromboembolischen Risikoprofil kann laut
+aktuellen Leitlinien ein Verzicht auf präoperatives Bridging
+erwogen werden[1,2].|
 ||||
 ||||
-|Mitralklappe,<br>Trikuspidalklappe|VKA (+/- ASS)|Beendigung Antikoagulation gemäß 2.1.<br>Bridging erforderlich. Standardvorgehen ist Bridging mit UFH<br>als Dauerinfusion sobald INR unterhalb des Zielbereiches<br>liegt[1,2,3,7]. PTT-Ziel ist 1,5-2 x Normalbereich ≈ 60-80 sec.<br>Dabei ist auf einen ausreichend hohen AT3 Spiegel > 80 %<br>zu achten, ggf. eine Substitution durchzuführen (Kybernin ®)<br>Bridging mit NMH in therapeutischer Dosierung (z.B.<br>Clexane 2 x 1 mg/kg s.c., Fraxiparine 2 x 100IE/kg s.c.) bis<br>24 h vor OP kann laut aktuellen AHA bzw. ESC Leitlinien<br>erwogen werden, die Datengrundlage für diese<br>Empfehlungen ist jedoch dürftig und spezifiziert nicht<br>zwischen den verschiedenen Positionen der mechanischen<br>Klappenprothesen[1,2]. Das bridging mit NMH für<br>mechanische AV-Klappenprothesen sollte daher nur in<br>Ausnahmefällen bei Patienten mit niedrigem<br>thromboembolischen Risikoprofil erwogen werden|
+|Mitralklappe,
+Trikuspidalklappe|VKA (+/- ASS)|Beendigung Antikoagulation gemäß 2.1.
+Bridging erforderlich. Standardvorgehen ist Bridging mit UFH
+als Dauerinfusion sobald INR unterhalb des Zielbereiches
+liegt[1,2,3,7]. PTT-Ziel ist 1,5-2 x Normalbereich ≈ 60-80 sec.
+Dabei ist auf einen ausreichend hohen AT3 Spiegel > 80 %
+zu achten, ggf. eine Substitution durchzuführen (Kybernin ®)
+Bridging mit NMH in therapeutischer Dosierung (z.B.
+Clexane 2 x 1 mg/kg s.c., Fraxiparine 2 x 100IE/kg s.c.) bis
+24 h vor OP kann laut aktuellen AHA bzw. ESC Leitlinien
+erwogen werden, die Datengrundlage für diese
+Empfehlungen ist jedoch dürftig und spezifiziert nicht
+zwischen den verschiedenen Positionen der mechanischen
+Klappenprothesen[1,2]. Das bridging mit NMH für
+mechanische AV-Klappenprothesen sollte daher nur in
+Ausnahmefällen bei Patienten mit niedrigem
+thromboembolischen Risikoprofil erwogen werden|
 ||||
 |**Biologischer Klappenersatz**|||
-|Aortenklappe,<br>Pulmonalklappe||Beendigung Antikoagulation gemäß 2.1.<br>Kein Bridging bis OP erforderlich sofern keine weiteren<br>Indikationen zur Antikoagulation bzw. thromboembolische<br>Risikofaktoren vorliegen[1,2].|
+|Aortenklappe,
+Pulmonalklappe||Beendigung Antikoagulation gemäß 2.1.
+Kein Bridging bis OP erforderlich sofern keine weiteren
+Indikationen zur Antikoagulation bzw. thromboembolische
+Risikofaktoren vorliegen[1,2].|
 ||ASS||
 ||(seltener VKA, dann||
-|Mitralklappe,<br>Trikuspidalklappe|zumeist zeitlich|Beendigung Antikoagulation gemäß 2.1.<br>Wenn Klappenersatz vor weniger als 6 Monaten erfolgt:<br>Bridging mit NMH in prophylaktischer Dosis (z.B. Clexane<br>1 x 1 mg/kg s.c., Fraxiparine 1 x 100 IE/kg s.c.) bis 24 h vor<br>Eingriff, dann keine Antikoagulation bis OP sofern keine<br>weiteren Indikationen zur Antikoagulation bzw.<br>thromboembolische Risikofaktoren vorliegen.|
+|Mitralklappe,
+Trikuspidalklappe|zumeist zeitlich|Beendigung Antikoagulation gemäß 2.1.
+Wenn Klappenersatz vor weniger als 6 Monaten erfolgt:
+Bridging mit NMH in prophylaktischer Dosis (z.B. Clexane
+1 x 1 mg/kg s.c., Fraxiparine 1 x 100 IE/kg s.c.) bis 24 h vor
+Eingriff, dann keine Antikoagulation bis OP sofern keine
+weiteren Indikationen zur Antikoagulation bzw.
+thromboembolische Risikofaktoren vorliegen.|
 ||begrenzt)||
 ||||
 ||||
 ||||
 ||||
 
-|**Indikation**|**Übliche**|**Verfahrensweise vor elektiven kardiochirurgischen**<br>**Operationen**|
+|**Indikation**|**Übliche**|**Verfahrensweise vor elektiven kardiochirurgischen**
+**Operationen**|
 |---|---|---|
 ||**Antikoagulation**||
-|**Vorhofflimmern**|variabel|Beendigung Antikoagulation gemäß 2.1.<br>Standardvorgehen ist das Bridging mit NMH in<br>prophylaktischer Dosierung (z. B. Clexane 1 x 1 mg/kg s.c.,<br>Fraxiparine 1 x 100 IE/kg s.c.) bis 24 h vor Eingriff.<br>Bei Patienten ohne zusätzliche thromoboembolische<br>Risikofaktoren kann auf das Bridging bei nur kurzzeitiger<br>Unterbrechung der Antikoagulation verzichtet werden[7,8].<br>Bei Absetzen von DOAC bereits 7d vor Operation sollte<br>daher ein bridging erfolgen.<br>Bei Patienten mit hohem thromboembolischen Risikoprofil<br>sollte ein Bridging mit NMH in therapeutischer Dosierung bis<br>24 h vor Eingriff und dann ggf. UFH als Dauerinfusion<br>erwogen werden.|
+|**Vorhofflimmern**|variabel|Beendigung Antikoagulation gemäß 2.1.
+Standardvorgehen ist das Bridging mit NMH in
+prophylaktischer Dosierung (z. B. Clexane 1 x 1 mg/kg s.c.,
+Fraxiparine 1 x 100 IE/kg s.c.) bis 24 h vor Eingriff.
+Bei Patienten ohne zusätzliche thromoboembolische
+Risikofaktoren kann auf das Bridging bei nur kurzzeitiger
+Unterbrechung der Antikoagulation verzichtet werden[7,8].
+Bei Absetzen von DOAC bereits 7d vor Operation sollte
+daher ein bridging erfolgen.
+Bei Patienten mit hohem thromboembolischen Risikoprofil
+sollte ein Bridging mit NMH in therapeutischer Dosierung bis
+24 h vor Eingriff und dann ggf. UFH als Dauerinfusion
+erwogen werden.|
 ||(DOAC, VKA)||
 ||||
 |**Univentrikuläre Herzfehler**|||
-|Aortopulmonaler<br>Shunt|ASS|Beendigung Antikoagulation gemäß 2.1.<br>Bridging mit NMH in therapeutischer Dosis (Clexane<br>2 x 1 mg/kg s.c.) bis 24 h vor Eingriff, dann UFH 200 IE/kg/d<br>als Dauerinfusion bis zur OP.|
+|Aortopulmonaler
+Shunt|ASS|Beendigung Antikoagulation gemäß 2.1.
+Bridging mit NMH in therapeutischer Dosis (Clexane
+2 x 1 mg/kg s.c.) bis 24 h vor Eingriff, dann UFH 200 IE/kg/d
+als Dauerinfusion bis zur OP.|
 ||||
 ||||
-|Glenn-<br>Anastomose|ASS|Beendigung Antikoagulation gemäß 2.1.<br>Kein Bridging bis OP sofern keine weiteren Indikationen zur<br>Antikoagulation bzw. thromboembolische Risikofaktoren<br>vorliegen.|
+|Glenn-
+Anastomose|ASS|Beendigung Antikoagulation gemäß 2.1.
+Kein Bridging bis OP sofern keine weiteren Indikationen zur
+Antikoagulation bzw. thromboembolische Risikofaktoren
+vorliegen.|
 ||||
 ||||
-|TCPC („Fontan“)|variabel|Beendigung Antikoagulation gemäß 2.1.<br>Bridging mit NMH in prophylaktischer Dosis (z.B. Clexane<br>1 x 1 mg/kg s.c., Fraxiparine 1 x 100 IE/kg s.c.) bis 24 h vor<br>Eingriff, dann keine Antikoagulation bis OP sofern keine<br>weiteren Indikationen zur Antikoagulation bzw.<br>thromboembolische Risikofaktoren vorliegen.|
+|TCPC („Fontan“)|variabel|Beendigung Antikoagulation gemäß 2.1.
+Bridging mit NMH in prophylaktischer Dosis (z.B. Clexane
+1 x 1 mg/kg s.c., Fraxiparine 1 x 100 IE/kg s.c.) bis 24 h vor
+Eingriff, dann keine Antikoagulation bis OP sofern keine
+weiteren Indikationen zur Antikoagulation bzw.
+thromboembolische Risikofaktoren vorliegen.|
 ||(VKA, ASS)||
 ||||
 ||||

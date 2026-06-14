@@ -74,22 +74,91 @@ ETB-BISLIFE , PO Box 3092300 AH Leiden, The Netherlands tel:  +31 71 4083910    
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Physician||||Contact to|||||||||
 |RECIPIENT|||||||||||||
-|Name<br>Initials||||||Date of<br>birth|||||M/F||
-|STRUCTURE AFFECTED<br>PREVIOUS REPLACEMENT|||||||||||||
-| Aortic valve<br> Pulmonary<br>valve<br> Aorto-iliac<br>bifurcation<br> Aorta arch<br> Pulmonary<br>artery<br> Arteries|||||||| None<br> Allograft<br> Artificial<br>graft<br> Xenograft|||||
+|Name
+Initials||||||Date of
+birth|||||M/F||
+|STRUCTURE AFFECTED
+PREVIOUS REPLACEMENT|||||||||||||
+| Aortic valve
+ Pulmonary
+valve
+ Aorto-iliac
+bifurcation
+ Aorta arch
+ Pulmonary
+artery
+ Arteries|||||||| None
+ Allograft
+ Artificial
+graft
+ Xenograft|||||
 | Other:|||||||||||||
-|NYHA Class||□ I<br>□ IIA<br>□ IIB<br>□ III<br>□ IV|||||||||||
+|NYHA Class||□ I
+□ IIA
+□ IIB
+□ III
+□ IV|||||||||||
 |TYPE OF DYSFUNCTION|||||||||||||
-| Atresia<br> Defect<br> Hypoplasia<br> Insufficiency<br> Paravalvular<br>leakage<br> Aneurysm<br> Degeneration<br> Infection<br> Stenosis|||||||||||||
+| Atresia
+ Defect
+ Hypoplasia
+ Insufficiency
+ Paravalvular
+leakage
+ Aneurysm
+ Degeneration
+ Infection
+ Stenosis|||||||||||||
 | Other:|||||||||||||
 |UNDERLYING DISEASE|||||||||||||
-| Active<br>endocarditis<br> s/p<br>endocarditis<br> hypoplastic<br>left heart<br> hypoplastic<br>right heart<br> Truncus<br>arteriosus<br>communis<br> Tetralogy of Fallot<br> valve<br>anomalia<br> Non valvular<br>anomalia<br> Coarctatio<br>interruptio<br>aortae<br> Transposition<br>greater<br>arteries|||||||||||||
+| Active
+endocarditis
+ s/p
+endocarditis
+ hypoplastic
+left heart
+ hypoplastic
+right heart
+ Truncus
+arteriosus
+communis
+ Tetralogy of Fallot
+ valve
+anomalia
+ Non valvular
+anomalia
+ Coarctatio
+interruptio
+aortae
+ Transposition
+greater
+arteries|||||||||||||
 | Other|||||||||||||
 |REQUIRED GRAFT|||||||||||||
-| Aortic   valve<br> Pulmonary<br>valve<br> Aortic_or_<br>Pulmonary valve<br> Aortoiliac<br>bifurcation<br> Thoracic<br>Aorta<br> Aortic patch<br> Pulmonary<br>patch<br> Aortic_and_<br>Pulmonary valve<br> Iliac femoral artery|||||||||||||
-|Diameter<br>range (_mm_)|||Minimal<br>length (_mm_)||||Bifurcation/Arch|||YES||NO|
+| Aortic   valve
+ Pulmonary
+valve
+ Aortic_or_
+Pulmonary valve
+ Aortoiliac
+bifurcation
+ Thoracic
+Aorta
+ Aortic patch
+ Pulmonary
+patch
+ Aortic_and_
+Pulmonary valve
+ Iliac femoral artery|||||||||||||
+|Diameter
+range (_mm_)|||Minimal
+length (_mm_)||||Bifurcation/Arch|||YES||NO|
 |Operation date|||_Remarks:_||||||||||
-|_The undersigned (Medical Doctor), declares that the above-mentioned patient agrees to provide the requested_<br>_data to ETB-BISLIFE for the purpose of registration as a possible graft recipient and to match these data against_<br>_the data of available grafts. Furthermore, the undersigned declares that the patient has given permission for use_<br>_of transplantation data, as far as necessary to optimize the mediation services of ETB-BISLIFE_<br>**_Date:                                   Name of MD:                                     Signature:_**|||||||||||||
+|_The undersigned (Medical Doctor), declares that the above-mentioned patient agrees to provide the requested_
+_data to ETB-BISLIFE for the purpose of registration as a possible graft recipient and to match these data against_
+_the data of available grafts. Furthermore, the undersigned declares that the patient has given permission for use_
+_of transplantation data, as far as necessary to optimize the mediation services of ETB-BISLIFE_
+**_Date:                                   Name of MD:                                     Signature:_**|||||||||||||
 
 **ALL.CV.FOR.001 Heart valve recipient registration form** 
 

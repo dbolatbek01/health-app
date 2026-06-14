@@ -400,12 +400,18 @@ Sämtliche Untersuchungen, die nur initial erfolgen, richten sich in ihrem Wiede
 |**Untersuchung**|**Untersuchung**|**Untersuchung**|**Wiederholungsintervall**|
 |---|---|---|---|
 |Gewicht/BMI/Anamnese/körperliche Untersuchung|||alle 3 Monate|
-|Labor ((Differenzial-Blutbild, Quick, INR, pTT, Na, K, Ca, Mg, Ph,<br>(proBNP), Harnstoff, Kreatinin, Blutzucker, CK, GGT, GOT, GPT,<br>alkalische Phosphatase, Albumin, Lipase, TSH, CRP, Bilirubin gesamt,<br>direkt,Urinstatus,Proteinausscheidung)|||alle 3 Monate|
-|Bestimmung HLÄ-Antikörper:||– falls<br>immunisiert|monatlich|
+|Labor ((Differenzial-Blutbild, Quick, INR, pTT, Na, K, Ca, Mg, Ph,
+(proBNP), Harnstoff, Kreatinin, Blutzucker, CK, GGT, GOT, GPT,
+alkalische Phosphatase, Albumin, Lipase, TSH, CRP, Bilirubin gesamt,
+direkt,Urinstatus,Proteinausscheidung)|||alle 3 Monate|
+|Bestimmung HLÄ-Antikörper:||– falls
+immunisiert|monatlich|
 |||– VAD|alle 6-12 Monate|
 |||– Transfusion|nach 2 Wo, 3, 6 Monaten|
 |HLA-Klassifikation|||nur Baseline + vor TX|
-|Infektserologie (HSV-, Varicella-, CMV-, EBV-IgG, Toxoplasmose (IgG,<br>IgM), Hepatitisserologi Lues-Serologie, Quantiferon-Test, MRSA-<br>Screening,HIV-Serologie|||nur Baseline|
+|Infektserologie (HSV-, Varicella-, CMV-, EBV-IgG, Toxoplasmose (IgG,
+IgM), Hepatitisserologi Lues-Serologie, Quantiferon-Test, MRSA-
+Screening,HIV-Serologie|||nur Baseline|
 |Blutgruppenbestimmung|||nur Baseline (mind. 2x bestimmen)|
 |EKG|||alle 3 Monate|
 |Transthorakale Echokardiographie|||alle 6 Monate|
@@ -413,18 +419,21 @@ Sämtliche Untersuchungen, die nur initial erfolgen, richten sich in ihrem Wiede
 |Lungenfunktionsprüfung mit arterieller Blutgasuntersuchung|||jährlich|
 |Röntgenthorax, 2 Ebenen|||jährlich|
 |Linksherzkatheter|||nur Baseline|
-|Rechtsherzkatheter|||alle 6 Monate (ggf.<br>Vasodilatantientest)|
+|Rechtsherzkatheter|||alle 6 Monate (ggf.
+Vasodilatantientest)|
 |Duplexsonographie der hirnversorgenden Arterien (> 50 Jahre)|||nur Baseline|
 |Duplexsonographie der Beinarterien oder ABI (> 50 Jahre)|||nur Baseline|
 |CT-Thorax, CT-Abdomen, CT- Schädel|||nur Baseline|
 |CT-/Rö-Nasennebenhöhlen (nur bei Verdacht auf Sinusitis) DEXA-Scan|||nur Baseline, bei V.a. Osteoporose|
 |Zahnärztliches Konsil|||jährlich|
 |Gynäkologisches Konsil (falls indiziert)|||jährlich|
-|Augenärztliches Konsil<br>falls indiziert)|(rein prognostisch, bei Diabetes mellitus oder||jährlich (bei Diabetes mellitus)|
+|Augenärztliches Konsil
+falls indiziert)|(rein prognostisch, bei Diabetes mellitus oder||jährlich (bei Diabetes mellitus)|
 |Leberbiopsie (nur bei höhergradiger, unklarer Leberfunktionsstörung)|||nur Baseline|
 |Mammographie (falls indiziert und Alter > 40 Jahre|||jährlich|
 |Gastroskopie|||nur Baseline (ab 30. LJ)|
-|Koloskopie|||nur Baseline (ab 40. LJ oder<br>positiver Fx für kolorektale Tumore)|
+|Koloskopie|||nur Baseline (ab 40. LJ oder
+positiver Fx für kolorektale Tumore)|
 |PSA (Männer > 50 Jahre)|||jährlich|
 |Beurteilung durch Sozialdienst|||nur Baseline|
 |Psychosomatische Beurteilung|||nur Baseline|
@@ -937,7 +946,22 @@ Multivariate Analysen der Cardiac Transplant Research Database (CTRD) und des Re
 
 ## **Adult Heart Transplants (2000-6/2017)** 
 
-Statistically Significant Risk Factors For 1-Year Mortality with 95% Confidence Limits<br>Donor age (years)<br>2,5<br>p < 0.0001<br>2,0<br>1,5<br>1,0<br>0,5<br>0,0<br>15 20 25 30 35 40 45 50 55 60<br>Donor age (years)<br>2021 (N = 67,223)<br>JHLT. 2021 Oct; 40(10): 1023-1072<br>Hazard Ratio of 1-Year Mortality<br>**----- End of picture text -----**<br>
+Statistically Significant Risk Factors For 1-Year Mortality with 95% Confidence Limits
+Donor age (years)
+2,5
+p < 0.0001
+2,0
+1,5
+1,0
+0,5
+0,0
+15 20 25 30 35 40 45 50 55 60
+Donor age (years)
+2021 (N = 67,223)
+JHLT. 2021 Oct; 40(10): 1023-1072
+Hazard Ratio of 1-Year Mortality
+**----- End of picture text -----**
+
 
 **Abbildung 1.** Abhängigkeit des Transplantationserfolges vom Spenderalter (ISHLT-Register) 
 
@@ -961,7 +985,20 @@ eine stabile Hämodynamik aufrechterhalten kann und die zu erwartende Ischämiez
 
 **Adult Heart Transplants (2000-6/2017) Statistically Significant Risk Factors For 1 Year Mortality with 95% Confidence Limits Ischemic time (hours)** 
 
-2,5<br>p < 0.0001<br>2,0<br>1,5<br>1,0<br>0,5<br>0,0<br>1 2 3 4 5 6<br>Ischemic time (hours)<br>2021 (N = 67,223)<br>JHLT. 2021 Oct; 40(10): 1023-1072<br>Hazard Ratio of 1-Year Mortality<br>**----- End of picture text -----**<br>
+2,5
+p < 0.0001
+2,0
+1,5
+1,0
+0,5
+0,0
+1 2 3 4 5 6
+Ischemic time (hours)
+2021 (N = 67,223)
+JHLT. 2021 Oct; 40(10): 1023-1072
+Hazard Ratio of 1-Year Mortality
+**----- End of picture text -----**
+
 
 **Abbildung 2** . Abhängigkeit des Transplantationserfolges von der Ischämiezeit (CTR-Database). 
 
@@ -1885,29 +1922,193 @@ Im Zweifelsfall ist ein frühzeitiges Hinzuziehen infektiologischer Expertise (K
 
 |**Organismus**|**Behandlung**|**Loading**|**Erhaltungsdosis**|**Empfehlungsgrad (A-C)**|
 |---|---|---|---|---|
-|Alle|**Fokussuche**<br>**aggressive Kontrolle der Infektionsquellen**<br>**frühzeitige Miteinbeziehung von Infektiologen nach TX**||||
-|ESBL-bildende_Enterobacteriaceae_<br>(nach [6])|**Meropenem**(oder Imipenem)<br>ggfs. (bei Pneumonie oder Sepsis) + Fosfomycin<br>alternativ (intraabdominelle Infektion):<br>Tigecyclin oder<br>Ceftolozan/Tazobactam<br>alternativ (komplizierte Harnwegsinfektion):<br>Piperacillin/Tazobactam oder<br>Ceftolozan/Tazobactam|200 mg|**2 x 1 g**<br>3 x 4-8 g<br>2 x 100 mg<br>3 x 1,5-3 g<br>4 x 4,5 g<br>3 x 1,5 g|A<br>A<br>A<br>B<br>B<br>B|
-|Carbapenem-resistente<br>_Enterobacteriaceae_<br>(nach [6])|**Meropenem (bei MHK ≤ 8 mg/l!)**<br>**plus Colistin**<br>alternativ (Pneumonie):<br>Colistin<br>plusTigecyclin<br>ggfs.plusFosfomycin<br>ggfs. Colistin inhalativ<br>alternativ (Sepsis):<br>Colistin<br>plusFosfomycin<br>ggfs.plusAminoglykosid|**9-12 Mio IE**<br>9-12 Mio IE<br>200 mg<br>9-12 Mio IE|**3 x 2 g**<br>**2 x 4,5 Mio IE**<br>2 x 4,5 Mio IE<br>2 x 100 mg<br>3 x 8 g<br>2 x 4,5 Mio IE<br>3 x 8 g<br>hochdosiert als<br>Einmalgabe|A<br>B<br>B|
-|Carbapenem-resistenter_Acinetobacter_<br>_baumannii_<br>(nach [6])|**Colistin**<br>plusSulbactam<br>alternativ (Pneumonie, Wundinfektion, Harnwegsinfekt):<br>plusTigecyclin<br>alternativ (Harnwegsinfekt):<br>Cotrimoxazol<br>alternativ (Pneumonie):<br>Colistin inhalativ|**9-12 Mio IE**<br>2-4 g<br>200 mg|**2 x 4,5 Mio IE**<br>4 x 2-3 g über je 4 h<br>2 x 100 mg<br>2-3 x 800/160 mg<br>3 x 1-2 Mio IE/Tag|A<br>B<br>B<br>C<br>C|
+|Alle|**Fokussuche**
+**aggressive Kontrolle der Infektionsquellen**
+**frühzeitige Miteinbeziehung von Infektiologen nach TX**||||
+|ESBL-bildende_Enterobacteriaceae_
+(nach [6])|**Meropenem**(oder Imipenem)
+ggfs. (bei Pneumonie oder Sepsis) + Fosfomycin
+alternativ (intraabdominelle Infektion):
+Tigecyclin oder
+Ceftolozan/Tazobactam
+alternativ (komplizierte Harnwegsinfektion):
+Piperacillin/Tazobactam oder
+Ceftolozan/Tazobactam|200 mg|**2 x 1 g**
+3 x 4-8 g
+2 x 100 mg
+3 x 1,5-3 g
+4 x 4,5 g
+3 x 1,5 g|A
+A
+A
+B
+B
+B|
+|Carbapenem-resistente
+_Enterobacteriaceae_
+(nach [6])|**Meropenem (bei MHK ≤ 8 mg/l!)**
+**plus Colistin**
+alternativ (Pneumonie):
+Colistin
+plusTigecyclin
+ggfs.plusFosfomycin
+ggfs. Colistin inhalativ
+alternativ (Sepsis):
+Colistin
+plusFosfomycin
+ggfs.plusAminoglykosid|**9-12 Mio IE**
+9-12 Mio IE
+200 mg
+9-12 Mio IE|**3 x 2 g**
+**2 x 4,5 Mio IE**
+2 x 4,5 Mio IE
+2 x 100 mg
+3 x 8 g
+2 x 4,5 Mio IE
+3 x 8 g
+hochdosiert als
+Einmalgabe|A
+B
+B|
+|Carbapenem-resistenter_Acinetobacter_
+_baumannii_
+(nach [6])|**Colistin**
+plusSulbactam
+alternativ (Pneumonie, Wundinfektion, Harnwegsinfekt):
+plusTigecyclin
+alternativ (Harnwegsinfekt):
+Cotrimoxazol
+alternativ (Pneumonie):
+Colistin inhalativ|**9-12 Mio IE**
+2-4 g
+200 mg|**2 x 4,5 Mio IE**
+4 x 2-3 g über je 4 h
+2 x 100 mg
+2-3 x 800/160 mg
+3 x 1-2 Mio IE/Tag|A
+B
+B
+C
+C|
 
 |**Organismus**|**Behandlung**|**Loading**|**Erhaltungsdosis**|**Empfehlungsgrad (A-C)**|
 |---|---|---|---|---|
-||alternativ:<br>Colistin plus Carbapenem<br>Colistin plus Aminoglycosid<br>Erwäge: Infektiologisches Konsil||||
-|MDR/4MRGN<br>_P. aeruginosa_<br>(nach [7], Fachinformation Aztreonam)|Ceftozolan/Tazobactam (+ Colistin), wenn<br>Ceftozolan/Tazobactam-sensibel<br>Ceftazidim/Avibactam (+ Colistin), wenn Ceftazidim/Avibactam-<br>sensibel<br>Colistin<br>plus Meropenem<br>Aztreonoam, wenn Aztreonam-sensibel<br>Ceftazidim/Avibactam<br>plus Aztreonam, wenn Ceftazidim/Avibactam und Aztreonam-<br>sensibel<br>ggfs. + Colistin inh. oder Tobramycin inhalativ|9-12 Mio IE|3 x 1/0,5 g (evtl. 2/1 g)<br>3 x 2/0,5 g<br>2 x 4,5 Mio IE<br>3 x 1-2 g<br>2-4 x 1-2 g<br>3 x 2/0,5 g<br>2-4 x 1-2 g||
-|_B. cepacia_Komplex<br>(nach [7,8])|TMP/SMX<br>Ceftazidim<br>Meropenem<br>Doxycylcin<br>Minocyclin<br>Chloramphenicol<br>Ciprofloxacin<br>Piperacillin/Tazobactam<br>Ticarcillin/Clavulansäure<br>ggfs. in Kombination, wenig Daten<br>ggfs.plusTobramycin inh.||15 mg/kg TMP verteilt<br>auf 3-4 x/Tag<br>Dosierungen s.<br>Fachinformation||
-|_A. xylosoxidans_<br>(nach [8])|Piperacillin/Tazobactam<br>Meropenem<br>TMP/SMX<br>Ceftazidim<br>Minocyclin<br>Colistin<br>Chloramphenicol<br>Meropenem plus Ciprofloxacin oder Levofloxacin<br>ggfs. plus Colistin inh.||15 mg/kg TMP verteilt<br>auf 3-4 x/Tag<br>Dosierungen s.<br>Fachinformation||
+||alternativ:
+Colistin plus Carbapenem
+Colistin plus Aminoglycosid
+Erwäge: Infektiologisches Konsil||||
+|MDR/4MRGN
+_P. aeruginosa_
+(nach [7], Fachinformation Aztreonam)|Ceftozolan/Tazobactam (+ Colistin), wenn
+Ceftozolan/Tazobactam-sensibel
+Ceftazidim/Avibactam (+ Colistin), wenn Ceftazidim/Avibactam-
+sensibel
+Colistin
+plus Meropenem
+Aztreonoam, wenn Aztreonam-sensibel
+Ceftazidim/Avibactam
+plus Aztreonam, wenn Ceftazidim/Avibactam und Aztreonam-
+sensibel
+ggfs. + Colistin inh. oder Tobramycin inhalativ|9-12 Mio IE|3 x 1/0,5 g (evtl. 2/1 g)
+3 x 2/0,5 g
+2 x 4,5 Mio IE
+3 x 1-2 g
+2-4 x 1-2 g
+3 x 2/0,5 g
+2-4 x 1-2 g||
+|_B. cepacia_Komplex
+(nach [7,8])|TMP/SMX
+Ceftazidim
+Meropenem
+Doxycylcin
+Minocyclin
+Chloramphenicol
+Ciprofloxacin
+Piperacillin/Tazobactam
+Ticarcillin/Clavulansäure
+ggfs. in Kombination, wenig Daten
+ggfs.plusTobramycin inh.||15 mg/kg TMP verteilt
+auf 3-4 x/Tag
+Dosierungen s.
+Fachinformation||
+|_A. xylosoxidans_
+(nach [8])|Piperacillin/Tazobactam
+Meropenem
+TMP/SMX
+Ceftazidim
+Minocyclin
+Colistin
+Chloramphenicol
+Meropenem plus Ciprofloxacin oder Levofloxacin
+ggfs. plus Colistin inh.||15 mg/kg TMP verteilt
+auf 3-4 x/Tag
+Dosierungen s.
+Fachinformation||
 
 |**Organismus**|**Organismus**|**Organismus**|**Behandlung**|**Behandlung**|**Behandlung**|**Behandlung**|**Loading**|**Loading**|**Erhaltungsdosis**|**Erhaltungsdosis**|**Empfehlungsgrad (A-C)**|**Empfehlungsgrad (A-C)**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-|MDR_S. maltophilia_<br>(nach [8])|||TMP/SMX<br>Moxifloxacin oder Levofloxacin<br>Ticarcillin/Clavulansäure<br>Minocyclin oder Tigecyclin<br>Colistin<br>ggfs. Kombination TMP/SMX plus 1 o.g. oder Ceftazidim||||||15 mg/kg TMP verteilt<br>auf 3-4 x/Tag<br>Dosierungen s.<br>Fachinformation||||
-|**16.1.4 Behandlung von Infektionen mit MRSA**<br>(nach[6])|||||||||||||
+|MDR_S. maltophilia_
+(nach [8])|||TMP/SMX
+Moxifloxacin oder Levofloxacin
+Ticarcillin/Clavulansäure
+Minocyclin oder Tigecyclin
+Colistin
+ggfs. Kombination TMP/SMX plus 1 o.g. oder Ceftazidim||||||15 mg/kg TMP verteilt
+auf 3-4 x/Tag
+Dosierungen s.
+Fachinformation||||
+|**16.1.4 Behandlung von Infektionen mit MRSA**
+(nach[6])|||||||||||||
 |**Art der Infektion**|**Substanz**|**Loading**||**Erhaltungsdosis**|**Bemerkung**|**Alternative**||**Loading**||**Erhaltungsdosis**||**Bemerkung**|
-|Pneumonie|Linezolid|||2 x 600 mg||Vancomycin<br>Clindamycin||||nach Spiegel<br>3 x 600 mg i.v. oder<br>p.o.||Zieltalspiegel 15-20 µg/ml<br>Schlecht lungengängig<br>Nur bei nachgewiesener<br>Empfindlichkeit|
-||Daptomycin bei Pneumonie nicht geeignet (wird durch Surfactant deaktiviert)<br>MonotherapiemitLinezolid oder Vancomycin nur,wenn Infektion mit gramnegativem Erregersicherausgeschlossen||||||||||||
-|Intraabdominell|Tigecyclin<br>Linezolid<br>Vancomycin|100 mg||2 x 50 mg<br>2 x 600 mg<br>Ziel 15-20 µg/ml|Bei schwerer<br>Infektion doppelte<br>Dosis<br>Kombination mit AB<br>gg. gram-und Anaer.||||||||
-|Harnwege|Ceftobiprol<br>Daptomycin<br>Linezolid|||1 x 6-10 mg/kg<br>2 x 600 mg|||||||||
-|Haut/Weichteile|Linezolid<br>Daptomycin|||2 x 600 mg<br>1 x 10 mg/kg||Vancomycin<br>plus<br>Fosfomycin<br>Ceftobiprol<br>Ceftarolin<br>Tigecyclin<br>TMP/SMX<br>Doxycyclin||100 mg||nach Spiegel<br>3 x 4 g<br>3 x 500 mg<br>3 x 600 mg<br>2 x 50 mg<br>2 x 960 mg<br>2 x 100 mg||Zieltalspiegel 15-20 µg/ml<br>CAVE: Hypernatriämie<br>wenn sensibel<br>wenn sensibel|
-|Osteomyelitis, auch<br>Sternum/postoperativ|Linezolid<br>Teicoplanin<br>Daptomycin|12 mg/kg||2 x 600 mg<br>nach Spiegel<br>1 x 10 mg/kg|Ziel 40-60 mg/ml|Ceftobiprol<br>Ceftarolin||3 x 500 mg<br>3 x 600 mg|||||
+|Pneumonie|Linezolid|||2 x 600 mg||Vancomycin
+Clindamycin||||nach Spiegel
+3 x 600 mg i.v. oder
+p.o.||Zieltalspiegel 15-20 µg/ml
+Schlecht lungengängig
+Nur bei nachgewiesener
+Empfindlichkeit|
+||Daptomycin bei Pneumonie nicht geeignet (wird durch Surfactant deaktiviert)
+MonotherapiemitLinezolid oder Vancomycin nur,wenn Infektion mit gramnegativem Erregersicherausgeschlossen||||||||||||
+|Intraabdominell|Tigecyclin
+Linezolid
+Vancomycin|100 mg||2 x 50 mg
+2 x 600 mg
+Ziel 15-20 µg/ml|Bei schwerer
+Infektion doppelte
+Dosis
+Kombination mit AB
+gg. gram-und Anaer.||||||||
+|Harnwege|Ceftobiprol
+Daptomycin
+Linezolid|||1 x 6-10 mg/kg
+2 x 600 mg|||||||||
+|Haut/Weichteile|Linezolid
+Daptomycin|||2 x 600 mg
+1 x 10 mg/kg||Vancomycin
+plus
+Fosfomycin
+Ceftobiprol
+Ceftarolin
+Tigecyclin
+TMP/SMX
+Doxycyclin||100 mg||nach Spiegel
+3 x 4 g
+3 x 500 mg
+3 x 600 mg
+2 x 50 mg
+2 x 960 mg
+2 x 100 mg||Zieltalspiegel 15-20 µg/ml
+CAVE: Hypernatriämie
+wenn sensibel
+wenn sensibel|
+|Osteomyelitis, auch
+Sternum/postoperativ|Linezolid
+Teicoplanin
+Daptomycin|12 mg/kg||2 x 600 mg
+nach Spiegel
+1 x 10 mg/kg|Ziel 40-60 mg/ml|Ceftobiprol
+Ceftarolin||3 x 500 mg
+3 x 600 mg|||||
 
 Im Einzelfall s. Fachinformationen bezüglich Dosisanpassung bei Niereninsufffizienz und Kontrolle Blutbild/Transaminasen 
 
@@ -1917,9 +2118,13 @@ Problematische sind insbesondere E. faecium (VRE), während bei E. faecalis (VRE
 
 |**Substanz**|**Loading**|**Erhaltungsdosis**|**Kommentar**|
 |---|---|---|---|
-|Linezolid||2 x 600 mg|Bei intraabdominellem Fokus in Kombination mit einem<br>Antibiotikum zur Erfassung gramnegativer und anaerober<br>Spezies|
-|Tigecyclin|200 mg|2 x 100 mg|bei schwerer Infektion, sonst halbe Dosis<br>nur bei intraabdominellen Infektionen|
-|Daptomycin||1 x 10 mg/kg|nicht bei Pneumonie wegen Deaktivierung durch<br>Surfactant|
+|Linezolid||2 x 600 mg|Bei intraabdominellem Fokus in Kombination mit einem
+Antibiotikum zur Erfassung gramnegativer und anaerober
+Spezies|
+|Tigecyclin|200 mg|2 x 100 mg|bei schwerer Infektion, sonst halbe Dosis
+nur bei intraabdominellen Infektionen|
+|Daptomycin||1 x 10 mg/kg|nicht bei Pneumonie wegen Deaktivierung durch
+Surfactant|
 
 Gegen E. faecalis (VRE) bestehen noch weitere Therapieoptionen: 
 
@@ -2101,24 +2306,154 @@ Impfungen gegen CMV sind in Entwicklung, aber bisher noch nicht für den klinisc
 
 |**Substanz**|**Einsatz **|**Standarddosierung, Darreichung**|**Dauer **|**Nebenwirkungen **|
 |---|---|---|---|---|
-|Ganciclovir|Therapie und Prophylaxe<br>einer aktiven CMV-Infektion<br>und -Erkrankung<br>Präemptive Therapie einer<br>aktiven CMV-Infektion|Therapie:<br>-2 x 5 mg/kg/d i.v.<br>-dann Erhaltung: 5 mg/kg /d i.v.<br>Prophylaxe:<br>-1 x 5 mg/kg/d i.v.<br>Dosisanpassung bei<br>eingeschränkter Nierenfunktion<br>Resistenz: UL97- und UL54-<br>Mutationen|-(mindestens) 14 Tage<br>-bis keine CMV-<br>Replikation mehr<br>nachweisbar (PCR<br>1x/Woche)<br>-für 1-3 Monate<br>-3-6 Monate, je nach<br>Risikokonstellation|-reversible Neutrozytopenie (<1.000/μl) in 22% der<br>Fälle<br>-Thrombozytopenie (<50.000/ μl) in 4% der Fälle<br>-häufig: Diarrhoe, Übelkeit, Störung der Leberfunktion.|
-|Valganciclovir|Therapie (_off label_) und<br>Prophylaxe einer aktiven<br>CMV-Infektion|Therapie (_off label_):<br>-2x900 mg/d p.o.<br>-dann Erhaltung: 1x900 mg/d p.o.<br>Prophylaxe:<br>-1 x 900 mg/d oral<br>Einnahme mit der Nahrung<br>Dosisanpassung bei<br>eingeschränkter Nierenfunktion<br>Resistenz: UL97- und UL54-<br>Mutationen|-<br>mindestens 14 Tage<br>-<br>bis keine CMV-<br>Replikation mehr<br>nachweisbar (PCR<br>1x/Woche)<br>-<br>für 1-3 Monate<br>-<br>3-6 Monate, je nach<br>Risikokonstellation||
-|Foscarnet|Therapie einer CMV-<br>Erkrankung<br>besonders bei GCV-<br>resistentem CMV (wegen<br>UL97-Mutationen)|Therapie:<br>-<br>3 x 60 oder 2 x 90 mg/kg/d i.v.<br>-<br>dann Erhaltung: 90 mg/kg/d i.v.<br>Dosisanpassung bei<br>eingeschränkter Nierenfunktion<br>Resistenz: UL54-Mutationen|-<br>2 Wochen<br>3.<br>-<br>k.A.|Übelkeit (24-45%)<br>Erbrechen (14-25%)<br>Durchfall (5-32%)<br>Anorexie (15%)<br>Hypokaliämie (16-40%)<br>Hypomagnesämie (15-22 %) Hypokalzämie (14-24%)<br>Granulozytopenie (1-17%)<br>vermindertes Hämoglobin<br>erhöhtes Serumkreatinin (6-19%) intraglomeruläre<br>kristalline FOS-Präzipitationen|
+|Ganciclovir|Therapie und Prophylaxe
+einer aktiven CMV-Infektion
+und -Erkrankung
+Präemptive Therapie einer
+aktiven CMV-Infektion|Therapie:
+-2 x 5 mg/kg/d i.v.
+-dann Erhaltung: 5 mg/kg /d i.v.
+Prophylaxe:
+-1 x 5 mg/kg/d i.v.
+Dosisanpassung bei
+eingeschränkter Nierenfunktion
+Resistenz: UL97- und UL54-
+Mutationen|-(mindestens) 14 Tage
+-bis keine CMV-
+Replikation mehr
+nachweisbar (PCR
+1x/Woche)
+-für 1-3 Monate
+-3-6 Monate, je nach
+Risikokonstellation|-reversible Neutrozytopenie (<1.000/μl) in 22% der
+Fälle
+-Thrombozytopenie (<50.000/ μl) in 4% der Fälle
+-häufig: Diarrhoe, Übelkeit, Störung der Leberfunktion.|
+|Valganciclovir|Therapie (_off label_) und
+Prophylaxe einer aktiven
+CMV-Infektion|Therapie (_off label_):
+-2x900 mg/d p.o.
+-dann Erhaltung: 1x900 mg/d p.o.
+Prophylaxe:
+-1 x 900 mg/d oral
+Einnahme mit der Nahrung
+Dosisanpassung bei
+eingeschränkter Nierenfunktion
+Resistenz: UL97- und UL54-
+Mutationen|-
+mindestens 14 Tage
+-
+bis keine CMV-
+Replikation mehr
+nachweisbar (PCR
+1x/Woche)
+-
+für 1-3 Monate
+-
+3-6 Monate, je nach
+Risikokonstellation||
+|Foscarnet|Therapie einer CMV-
+Erkrankung
+besonders bei GCV-
+resistentem CMV (wegen
+UL97-Mutationen)|Therapie:
+-
+3 x 60 oder 2 x 90 mg/kg/d i.v.
+-
+dann Erhaltung: 90 mg/kg/d i.v.
+Dosisanpassung bei
+eingeschränkter Nierenfunktion
+Resistenz: UL54-Mutationen|-
+2 Wochen
+3.
+-
+k.A.|Übelkeit (24-45%)
+Erbrechen (14-25%)
+Durchfall (5-32%)
+Anorexie (15%)
+Hypokaliämie (16-40%)
+Hypomagnesämie (15-22 %) Hypokalzämie (14-24%)
+Granulozytopenie (1-17%)
+vermindertes Hämoglobin
+erhöhtes Serumkreatinin (6-19%) intraglomeruläre
+kristalline FOS-Präzipitationen|
 
 |**Substanz**|**Einsatz **||**Standarddosierung, Darreichung**|**Dauer **|**Nebenwirkungen **|
 |---|---|---|---|---|---|
-||||||Leukozytopenie<br>Thrombozytopenie<br>Schleimhauttoxizität|
-|Cidofovir|zugelassen für Therapie<br>einer CMV-Retinitis, v.a. bei<br>GCV-resistentem CMV<br>(wegen UL97-Mutationen)||Therapie:<br>-<br>5 mg/kg i.v. 1x/ Woche<br>-<br>dann Erhaltung: 5 mg/kg i.v. 1x<br>alle 14 d<br>immer:gleichzeitig Probenecid und<br>Hydratation!<br>Resistenz: UL54-Mutationen|-<br>2 Wochen<br>-<br>k.A.|Nephrotoxizität<br>toxische Wirkungen am Auge<br>Neutropenie<br>Unbedenklichkeit und Wirksamkeit bei anderen<br>Erkrankungen als der CMV-Retinitis von Erwachsenen<br>mit AIDS nicht belegt.|
-|Letermovir|zugelassen für die<br>Prophylaxe einer CMV-<br>Reaktivierung und -<br>Erkrankung bei erwachsenen<br>CMV-seropositiven Emp-<br>fängern nach allo-SZT||Prophylaxe:<br>-<br>480 mg/d oral oder i.v. über 1 h<br>Resistenz: UL56-Mutationen||Übelkeit<br>Durchfall<br>Erbrechen<br>Periphere Ödeme<br>Husten<br>Kopfschmerzen<br>Müdigkeit<br>Bauchschmerzen<br>Gabe nicht empfohlen bei schwerer Leber- und<br>mäßigerbis schwerer Nierenfunktionsstörung|
+||||||Leukozytopenie
+Thrombozytopenie
+Schleimhauttoxizität|
+|Cidofovir|zugelassen für Therapie
+einer CMV-Retinitis, v.a. bei
+GCV-resistentem CMV
+(wegen UL97-Mutationen)||Therapie:
+-
+5 mg/kg i.v. 1x/ Woche
+-
+dann Erhaltung: 5 mg/kg i.v. 1x
+alle 14 d
+immer:gleichzeitig Probenecid und
+Hydratation!
+Resistenz: UL54-Mutationen|-
+2 Wochen
+-
+k.A.|Nephrotoxizität
+toxische Wirkungen am Auge
+Neutropenie
+Unbedenklichkeit und Wirksamkeit bei anderen
+Erkrankungen als der CMV-Retinitis von Erwachsenen
+mit AIDS nicht belegt.|
+|Letermovir|zugelassen für die
+Prophylaxe einer CMV-
+Reaktivierung und -
+Erkrankung bei erwachsenen
+CMV-seropositiven Emp-
+fängern nach allo-SZT||Prophylaxe:
+-
+480 mg/d oral oder i.v. über 1 h
+Resistenz: UL56-Mutationen||Übelkeit
+Durchfall
+Erbrechen
+Periphere Ödeme
+Husten
+Kopfschmerzen
+Müdigkeit
+Bauchschmerzen
+Gabe nicht empfohlen bei schwerer Leber- und
+mäßigerbis schwerer Nierenfunktionsstörung|
 
 **Tabelle 2** . Dosisanpassung von Ganciclovir und Valganciclovir bei Niereninsuffizienz (nach [3]) 
 
 |**CrCl in ml/min(nach Cockgroft-Gault-Formel)**|**Behandlungsdosis**|**Erhaltungs-/prophylaktische Dosis**|
 |---|---|---|
 |_Ganciclovir i.v._|||
-|≥ 70<br>50-69<br>25-49<br>10-24<br><10|5,0 mg/kg alle 12 h<br>2,5 mg/kg alle 12 h<br>2,5 mg/kg alle 24 h<br>1,25 mg/kg alle 24 h<br>1,25 mg/kg 3x/Woche nach Hämodialyse|5,0 mg/kg alle 24 h<br>2,5 mg/kg alle 24 h<br>1,25 mg/kg alle 24 h<br>0,625 mg/kg alle 24 h<br>0,625 mg/kg 3x/Woche nach Hämodialyse|
+|≥ 70
+50-69
+25-49
+10-24
+<10|5,0 mg/kg alle 12 h
+2,5 mg/kg alle 12 h
+2,5 mg/kg alle 24 h
+1,25 mg/kg alle 24 h
+1,25 mg/kg 3x/Woche nach Hämodialyse|5,0 mg/kg alle 24 h
+2,5 mg/kg alle 24 h
+1,25 mg/kg alle 24 h
+0,625 mg/kg alle 24 h
+0,625 mg/kg 3x/Woche nach Hämodialyse|
 |_Valganciclovirp.o. _|||
-|≥ 60<br>51-75<br>26-50<br>10-25<br><10|900 mg alle 12 h<br>450 mg alle 12 h<br>450 mg alle 24 h<br>450 mg alle 48 h<br>200mg 3x/Wochenach Hämodialyse|900 mg alle 24 h<br>450 mg alle 24 h<br>450 mg alle 48 h<br>450 mg 2x/Woche<br>100mg 3x/Wochenach Hämodialyse|
+|≥ 60
+51-75
+26-50
+10-25
+<10|900 mg alle 12 h
+450 mg alle 12 h
+450 mg alle 24 h
+450 mg alle 48 h
+200mg 3x/Wochenach Hämodialyse|900 mg alle 24 h
+450 mg alle 24 h
+450 mg alle 48 h
+450 mg 2x/Woche
+100mg 3x/Wochenach Hämodialyse|
 
 _Resistenz gegen Virostatika (alle Empfehlungen nach [1])_ 
 
@@ -2484,10 +2819,17 @@ Prednison H. Im Weiteren erfolgt bei unkompliziertem Verlauf eine Abwärtstitrat
 
 **für erwachsene Patienten nach Herztransplantation** 
 
-|**POD **|**Dosierung**<br>**morgens        mittagsabends**|**Dosierung**<br>**morgens        mittagsabends**|**Dosierung**<br>**morgens        mittagsabends**|**Dosierung**<br>**morgens        mittagsabends**||||
+|**POD **|**Dosierung**
+**morgens        mittagsabends**|**Dosierung**
+**morgens        mittagsabends**|**Dosierung**
+**morgens        mittagsabends**|**Dosierung**
+**morgens        mittagsabends**||||
 |---|---|---|---|---|---|---|---|
-|**0**|125 mg|125 mg||125 mg|**POD**|**Dosierung (mg/kgKG)**<br>**morgens               abends**||
-||**Dosierung**<br>**morgens**||**(mg/kgKG)**<br>**abends**||**15**|0,150|0,150|
+|**0**|125 mg|125 mg||125 mg|**POD**|**Dosierung (mg/kgKG)**
+**morgens               abends**||
+||**Dosierung**
+**morgens**||**(mg/kgKG)**
+**abends**||**15**|0,150|0,150|
 |**1**|125 mg||1,000||**16**|0,150|0,125|
 |**2**|0,500||0,500||**17**|0,125|0,125|
 |**3**|0,500||0,500||**18**|0,125|0,125|
@@ -2577,42 +2919,61 @@ Die hyperakute Abstoßung Minuten bis Stunden nach der Transplantation stellt ei
 
 ## **17.4 Medikamentöse Interaktionen Immunsuppression und antimikrobielle Substanzen** 
 
-|**Antimikrobielle**<br>**Substanz**|**Immunsuppressivum1**|**Schwere der**<br>**Wechselwirkung2**|**Wechselwirkung**|**Vorgeschlagene Maßnahme**|**Evidenz3**|
+|**Antimikrobielle**
+**Substanz**|**Immunsuppressivum1**|**Schwere der**
+**Wechselwirkung2**|**Wechselwirkung**|**Vorgeschlagene Maßnahme**|**Evidenz3**|
 |---|---|---|---|---|---|
 |**_Fluoroquinolone_**||||||
 |_Ofloxacin_|CSA,TAC|++|Imm Spiegel|Alternative wählen|B|
-|_Ciprofloxacin_|CSA, TAC|+/-|kannImm Spiegel|Keine Anpassung, Kontrolle Imm Spiegel<br>erwägen|B|
-|_Levofloxacin_|CSA|+/-|kannCSA|Keine Anpassung, Kontrolle Imm Spiegel<br>erwägen|A|
+|_Ciprofloxacin_|CSA, TAC|+/-|kannImm Spiegel|Keine Anpassung, Kontrolle Imm Spiegel
+erwägen|B|
+|_Levofloxacin_|CSA|+/-|kannCSA|Keine Anpassung, Kontrolle Imm Spiegel
+erwägen|A|
 |_Moxifloxacin_|CSA, TAC, SRL, EVR|-|keine|Keine Anpassung|B|
 |**_Macrolide_**||||||
 |_Erythromycin_|CSA,TAC, **SRL**,EVR|+++|Imm Spiegel|Vermeiden|A|
 |_Clarithromycin_|CSA,TAC, **SRL, EVR**|+++|Imm Spiegel|Vermeiden/Imm um ½|A|
 |_Telithromycin_|CSA,TAC, **SRL, EVR**|+++|Imm Spiegel|Vermeiden|A|
-|_Azithromycin_|CSA, TAC, SRL, EVR|+/-|Imm Spiegel|Keine Anpassung, Kontrolle Imm Spiegel<br>erwägen|A|
+|_Azithromycin_|CSA, TAC, SRL, EVR|+/-|Imm Spiegel|Keine Anpassung, Kontrolle Imm Spiegel
+erwägen|A|
 |**_Rifamycine_**||||||
 |_Rifabutin_|CSA,TAC, **SRL, EVR**|++|Imm Spiegel|Kontrolle Imm Spiegel|A|
-|_Rifapentin5_|CSA, TAC, SRL, EVR,<br>Prednisolon|++|Imm Spiegel|Kontrolle Imm Spiegel|N/A|
-|_Rifampicin_|CSA, TAC, SRL, EVR,<br>MMF, ECMS|+++|Imm Spiegel|Vermeiden/ Kontrolle Imm Spiegel|A|
+|_Rifapentin5_|CSA, TAC, SRL, EVR,
+Prednisolon|++|Imm Spiegel|Kontrolle Imm Spiegel|N/A|
+|_Rifampicin_|CSA, TAC, SRL, EVR,
+MMF, ECMS|+++|Imm Spiegel|Vermeiden/ Kontrolle Imm Spiegel|A|
 |**_Aminoglycoside_**||||||
-|_Gentamycin_|CSA, TAC|+++|Erhöhte Nephrotoxizität|Vermeiden/ Kontrolle Imm Spiegel und<br>Nierenfunktion|A|
+|_Gentamycin_|CSA, TAC|+++|Erhöhte Nephrotoxizität|Vermeiden/ Kontrolle Imm Spiegel und
+Nierenfunktion|A|
 |_Tobramycin_||||||
 |_Amikacin_||||||
 |_Streptomycin_||||||
 |**_Andere Antibiotika_**||||||
 |_Nafcillin_|CSA,TAC,SRL,EVR|+|Imm Spiegel|Kontrolle Imm Spiegel|B|
-|_Quinupristin/_<br>_Dalfopristin_|CSA|+++|CSA|Kontrolle Imm Spiegel|B|
+|_Quinupristin/_
+_Dalfopristin_|CSA|+++|CSA|Kontrolle Imm Spiegel|B|
 |_Linezolid_|MMF, ECMS, AZA|++|Myelosuppression|Kontrolle WBC Thrombozyten|B|
-|_Sulfonamide_|MMF, ECMS, AZA, CSA,<br>TAC|++<br>++|Myelosuppression<br>Nephrotoxizität|Kontrolle WBC Hämatokrit, Thrombozyten<br>und Nierenfunktion|B|
+|_Sulfonamide_|MMF, ECMS, AZA, CSA,
+TAC|++
+++|Myelosuppression
+Nephrotoxizität|Kontrolle WBC Hämatokrit, Thrombozyten
+und Nierenfunktion|B|
 |_Tetracycline6_|CSA,TAC,SRL,EVR|+|Imm Spiegel|Kontrolle Imm Spiegel|B|
 |_Tigecyclin_|CSA|+|Imm Spiegel|Kontrolle Imm Spiegel||
-|_Metronidazol_|CSA, TAC, SRL, EVR|+/-|KannImm Spiegel|Keine Anpassung, Kontrolle Imm Spiegel<br>erwägen|B|
-|_Chloramphenicol_<br> _(i.v.)_|CSA, TAC, SRL EVR|++|Imm Spiegel|CSA oder TAC um 25 %|B|
-|_Clindamycin_|CSA, TAC, SRL, EVR|+/-|KannImm Spiegel|Keine Anpassung, Kontrolle Imm Spiegel<br>erwägen|C|
+|_Metronidazol_|CSA, TAC, SRL, EVR|+/-|KannImm Spiegel|Keine Anpassung, Kontrolle Imm Spiegel
+erwägen|B|
+|_Chloramphenicol_
+ _(i.v.)_|CSA, TAC, SRL EVR|++|Imm Spiegel|CSA oder TAC um 25 %|B|
+|_Clindamycin_|CSA, TAC, SRL, EVR|+/-|KannImm Spiegel|Keine Anpassung, Kontrolle Imm Spiegel
+erwägen|C|
 
-|**Antimikrobielle**<br>**Substanz**|**Immunsuppressivum1**|**Schwere der**<br>**Wechselwirkung2**|**Wechselwirkung**|**Vorgeschlagene Maßnahme**|**Evidenz3**|
+|**Antimikrobielle**
+**Substanz**|**Immunsuppressivum1**|**Schwere der**
+**Wechselwirkung2**|**Wechselwirkung**|**Vorgeschlagene Maßnahme**|**Evidenz3**|
 |---|---|---|---|---|---|
 |**_Malaria-Wirkstoffe_**||||||
-|_Artemether5/ _<br>_Lumefantrin_|CSA, TAC, SRL, EVR|++|Imm Spiegel|Kontrolle Imm Spiegel|N/A|
+|_Artemether5/ _
+_Lumefantrin_|CSA, TAC, SRL, EVR|++|Imm Spiegel|Kontrolle Imm Spiegel|N/A|
 |**_Antimykotika_**||||||
 |**_Azole_**||||||
 |_Ketoconazol_|CSA,TAC, **SRL, EVR**|+++|Imm Spiegel|Vermeiden/Imm um ½|A|
@@ -2624,15 +2985,23 @@ Die hyperakute Abstoßung Minuten bis Stunden nach der Transplantation stellt ei
 |**_Echinocandine_**||||||
 |_Caspofungin7_|TAC|+/-|KannTAC Spiegel|Keine|B|
 ||CSA|++|Caspofungin Spiegel|Kontrolle AS/ALT|B|
-||MMF (keine Daten für<br>ECMS)<br>KeineDaten fürSRL,EVR|-|Keine|Keine|N/A- Arzneimittel-<br>information|
-|_Micafungin_|TAC, MMF, Prednisolon<br>(keine Daten für ECMS)|-|Keine|Keine|N/A- Arzneimitte-<br>linformation|
+||MMF (keine Daten für
+ECMS)
+KeineDaten fürSRL,EVR|-|Keine|Keine|N/A- Arzneimittel-
+information|
+|_Micafungin_|TAC, MMF, Prednisolon
+(keine Daten für ECMS)|-|Keine|Keine|N/A- Arzneimitte-
+linformation|
 ||CSA|++|CSA Spiegel|Kontrolle Imm Spiegel|A|
-||SRL (keine Daten für EVR)|++|SRL Spiegel|Kontrolle Imm Spiegel|N/A- Arzneimitte-<br>linformation|
+||SRL (keine Daten für EVR)|++|SRL Spiegel|Kontrolle Imm Spiegel|N/A- Arzneimitte-
+linformation|
 |_Anidulafungin_|CSA|+|Anidulafungin Spiegel|Keine|A|
 ||TAC|-|Keine|Keine|A|
 ||Keine Daten für SRL,EVR|||||
 |**_Polyene_**||||||
-|_Amphothericin_<br>_Lipid-_<br>_formulierungen _|CSA, TAC|++|Nephrotoxizität|Kontrolle Imm Spiegel und Nierenfunktion|A|
+|_Amphothericin_
+_Lipid-_
+_formulierungen _|CSA, TAC|++|Nephrotoxizität|Kontrolle Imm Spiegel und Nierenfunktion|A|
 |**_Virostatika_**||||||
 |**_Virost. nicht HIV_**||||||
 |_Acyclovir_|**MMF, ECMS**|+/-|ACV,MPA|Keine|C|
@@ -2640,26 +3009,51 @@ Die hyperakute Abstoßung Minuten bis Stunden nach der Transplantation stellt ei
 |_Valacyclovir_|MMF,ECMS|+/-|MPA|Keine|C|
 |_Ganciclovir_|MMF,ECMS,AZA|++|Neutropenie|KontrolleWBC|B|
 |_Valganciclovir_|MMF, ECMS, AZA|++|Neutropenie|Kontrolle WBC|B|
-|_Foscarnet_|CSA, TAC|+++|Nephrotoxizität<br>Ca,Mg|Kontrolle Nierenfunktion, Ca, Mg, CNI<br>Spiegel,Reduktion Foscarnet|A|
+|_Foscarnet_|CSA, TAC|+++|Nephrotoxizität
+Ca,Mg|Kontrolle Nierenfunktion, Ca, Mg, CNI
+Spiegel,Reduktion Foscarnet|A|
 |_Cidofovir_|CSA,TAC|+++|Nephrotoxizität|KontrolleNierenfunktion|A|
 |_Boceprevir_|CSA,TAC,SRL,EVR|+++|Imm Spiegel|Imm Dosisreduktion(siehe Text)|A|
 
-|**Antimikrobielle**<br>**Substanz**|**Immunsuppressivum1**|**Schwere der**<br>**Wechselwirkung2**|**Wechselwirkung**|**Vorgeschlagene Maßnahme**|**Evidenz3**|
+|**Antimikrobielle**
+**Substanz**|**Immunsuppressivum1**|**Schwere der**
+**Wechselwirkung2**|**Wechselwirkung**|**Vorgeschlagene Maßnahme**|**Evidenz3**|
 |---|---|---|---|---|---|
-|_Telaprevir_|CSA, TAC, SRL, EVR,<br>systemisch<br>Prednison und<br>Methylprednisolon|+++|Imm Spiegel|Imm Dosisreduktion (siehe Text)|A|
-|_Leflunomid_|MMF, ECMS, AZA, SRL,<br>EVR|+++|Myelosuppression|Pausiere MMF, ECMS, AZA, Kontrolle WBC<br>Hämatokrit, Thrombozyten,|A|
+|_Telaprevir_|CSA, TAC, SRL, EVR,
+systemisch
+Prednison und
+Methylprednisolon|+++|Imm Spiegel|Imm Dosisreduktion (siehe Text)|A|
+|_Leflunomid_|MMF, ECMS, AZA, SRL,
+EVR|+++|Myelosuppression|Pausiere MMF, ECMS, AZA, Kontrolle WBC
+Hämatokrit, Thrombozyten,|A|
 |_Oseltamivir_|CSA, TAC, MMF|+/-|13 % TAC Anstieg|Kontrolle Imm Spiegel|A|
 ||SRL|-|Keine||C|
-||Keine Daten für ECMS,<br>EVR|||||
-|_Zanamivir4_|CSA, TAC, SRL, EVR|-|Keine|Keine|N/A- Arzneimittel-<br>information|
-|**_Antiretrovirale_**<br>**_Medikamente_**||||||
+||Keine Daten für ECMS,
+EVR|||||
+|_Zanamivir4_|CSA, TAC, SRL, EVR|-|Keine|Keine|N/A- Arzneimittel-
+information|
+|**_Antiretrovirale_**
+**_Medikamente_**||||||
 |_NNRTIs8_||||||
 |_EFV_|CSA,TAC,SRL,EVR|++|CSA,TAC|Kontrolle Imm Spiegel|A|
 |_NVP_|CSA,TAC,SRL,EVR|+/-|KannImm Spiegel|Kontrolle Imm Spiegel|N/A|
 |_ETR5_|CSA,TAC,SRL,EVR|+/-|KannImm Spiegel|Kontrolle Imm Spiegel|N/A|
 |_DLV5_|CSA,TAC,SRL,EVR|++|Imm Spiegel|Kontrolle Imm Spiegel|N/A|
 |_PIs9_||||||
-|_(ATV, DRV, FPV,_<br>_IDV, LPVr,_<br>_NFV10, RTV, SQV,_<br>_TPVr)_|CSA, TAC, SRL,<br>EVR nicht empfohlen für<br>RTV-Therapie|+++|CSA<br>TAC/SRL/EVR|CSA 25-50 mg/Tag<br>TAC 1 mg ein-zweimal/Woche<br>SRL 1 mg ein-zweimal/Woche<br>TPVr Wechselwirkungen sind mit RTV-PI<br>verstärkten Therapien nicht vorhersagbar|A<br>A<br>A<br>B|
+|_(ATV, DRV, FPV,_
+_IDV, LPVr,_
+_NFV10, RTV, SQV,_
+_TPVr)_|CSA, TAC, SRL,
+EVR nicht empfohlen für
+RTV-Therapie|+++|CSA
+TAC/SRL/EVR|CSA 25-50 mg/Tag
+TAC 1 mg ein-zweimal/Woche
+SRL 1 mg ein-zweimal/Woche
+TPVr Wechselwirkungen sind mit RTV-PI
+verstärkten Therapien nicht vorhersagbar|A
+A
+A
+B|
 |_NRTIs11_||||||
 |_AZT_|MMF/ECMS|+|_In vitro_Antagonist|Keine|C|
 |_D4T_|MMF/ECMS|+|_In vitro_Antagonist|Keine|C|
@@ -2774,7 +3168,13 @@ Die Messung der kardiopulmonalen Leistungsfähigkeit erfolgt durch eine Spiroerg
 
 Art und Häufigkeit der Überwachung (Tage pro Woche) während Rehabilitation: 
 
-|**Fachärztliche**<br>**Visite**|**Klinische**<br>**Untersuchung**|**Temp, HF,**<br>**RR, KG**|**Doku**<br>**EKG**|**Serum**<br>**Spiegel**|**Röntgen**|**Echo inkl.**<br>**2D-Strain, PW-TDI**|
+|**Fachärztliche**
+**Visite**|**Klinische**
+**Untersuchung**|**Temp, HF,**
+**RR, KG**|**Doku**
+**EKG**|**Serum**
+**Spiegel**|**Röntgen**|**Echo inkl.**
+**2D-Strain, PW-TDI**|
 |---|---|---|---|---|---|---|
 |**7**|**7**|**7**|**7**|**2(- 3)**|**0 - 1**|**1 - 2**|
 
@@ -2802,7 +3202,8 @@ Trainingsbeispiel (Dauer in Minuten):
 |---|---|---|---|---|---|---|
 |Ergometer|30|30|30|30|30|30|
 |Kraftausdauer|40|40|40|40|40||
-|Atemtherapie bei<br>Bedarf|40|||40|||
+|Atemtherapie bei
+Bedarf|40|||40|||
 
 ## **19.5.2 Patientenschulungen** 
 

@@ -110,7 +110,11 @@ Bei AB0i-HTx gibt es je nach Spender-Empfänger-Blutgruppenkonstellation Folgend
 
 **Grundsätzlich können im Notfall Erythrozyten Konzentrate der Blutgruppe 0 und FFP/TK der Blutgruppe AB transfundiert werden. Die Patienten müssen einen Notfallpass erhalten.** 
 
-|**Empfänger**<br>**Blutgruppe **|**Spender**<br>**Blutgruppe **|**Erythrozyten**<br>**Konzentrate**|**FFP**|**Thrombozyten**<br>**Konzentrate**|
+|**Empfänger**
+**Blutgruppe **|**Spender**
+**Blutgruppe **|**Erythrozyten**
+**Konzentrate**|**FFP**|**Thrombozyten**
+**Konzentrate**|
 |---|---|---|---|---|
 |0|A|0|A, AB|A, AB|
 |0|B|0|B, AB|B, AB|
@@ -170,12 +174,26 @@ Beispiel: Hier entspricht die Reaktionsstärke (+) einem Titer von 1:8.
 
 ||**Was**|**Kommentar**|
 |---|---|---|
-|Evaluation zur<br>Htx|Klärung Option AB0i – HTx (vgl.<br>Protokoll)||
-|Erstellung<br>individueller<br>Ablaufplan|Vorläufiger Zeitplan in RS<br>Chirurgie und Kardiotechnik,<br>Festlegung Transfusionsregime|Vermuteten Zeitaufwand für Präparation/Htx und<br>für Immunadsorption (IA) festlegen|
+|Evaluation zur
+Htx|Klärung Option AB0i – HTx (vgl.
+Protokoll)||
+|Erstellung
+individueller
+Ablaufplan|Vorläufiger Zeitplan in RS
+Chirurgie und Kardiotechnik,
+Festlegung Transfusionsregime|Vermuteten Zeitaufwand für Präparation/Htx und
+für Immunadsorption (IA) festlegen|
 |Tx-Konferenz|Konsens zur AB0i-Listung|Bewertung der Titer und des Ablaufplans|
-|Kardiotechnik|Bevorratung Glycosorb- und<br>Plasmapherese Säulen|Kardiotechnik gibt OK sofern alle technischen<br>Voraussetzungen gegeben|
-|Tx-Büro/ Kinder-<br>kardiologie|Listung|OK von Kardiotechnik muss vorliegen|
-|Wartezeit|4-wöchentliche Titer-Kontrollen<br>(vgl. Protokoll)|4-wöchentliche Info an Tx-Büro, Tx-Konferenz<br>und Kardiotechnik über Titer; ggfs. Anpassung<br>Zeitplan +<br>Dokument „Vorgehen bei Organangebot“|
+|Kardiotechnik|Bevorratung Glycosorb- und
+Plasmapherese Säulen|Kardiotechnik gibt OK sofern alle technischen
+Voraussetzungen gegeben|
+|Tx-Büro/ Kinder-
+kardiologie|Listung|OK von Kardiotechnik muss vorliegen|
+|Wartezeit|4-wöchentliche Titer-Kontrollen
+(vgl. Protokoll)|4-wöchentliche Info an Tx-Büro, Tx-Konferenz
+und Kardiotechnik über Titer; ggfs. Anpassung
+Zeitplan +
+Dokument „Vorgehen bei Organangebot“|
 
 **Zeitaufwand Titerkontrolle** bei Organangebot: Gelkarte (im DHZC) 20 min 
 

@@ -77,9 +77,36 @@ _**Cave**_ : Dämpfung/Ausfall des **ABP** in Relation zum **FAP** zeigt eine po
 
 ## **4. kontinuierliches Monitoring in der Klemmphase** 
 
-||**distale Migration**<br>- Druck A. radialis re. (**ABP**)**<**A. femoralis (**FAP**)<br>- und/oder NIRS rechts**<**links<br>- und/oder Ballon nicht mehr in der Ao. ascendens visualisierbar<br>V. a. distale Migration des Ballons mit Verlegung des Truncus<br>brachiocephalicus: umgehende Info Operateur<br>→<br>Konsequenz<br>für<br>die<br>Anästhesie:<br>ggf.<br>MAD<br>erhöhen<br>(Rücksprache weitere Maßnahmen mit Operateur)|
+||**distale Migration**
+- Druck A. radialis re. (**ABP**)**<**A. femoralis (**FAP**)
+- und/oder NIRS rechts**<**links
+- und/oder Ballon nicht mehr in der Ao. ascendens visualisierbar
+V. a. distale Migration des Ballons mit Verlegung des Truncus
+brachiocephalicus: umgehende Info Operateur
+→
+Konsequenz
+für
+die
+Anästhesie:
+ggf.
+MAD
+erhöhen
+(Rücksprache weitere Maßnahmen mit Operateur)|
 |---|---|
-||**proximale Migration**<br>- Anstieg des Aortenwurzeldrucks (**PAP**) ohne Kardioplegiegabe<br>- ggf. Wiedereinsetzen von EKG-Aktivität<br>- und/oder Ballon direkt an der Klappe visualisierbar<br>V. a. proximale Migration des Ballons: umgehende Info Operateur<br>→<br>Konsequenz<br>für<br>die<br>Anäshesie:<br>ggf.<br>MAD<br>senken<br>(Rücksprache weitere Maßnahmen mit Operateur)|
+||**proximale Migration**
+- Anstieg des Aortenwurzeldrucks (**PAP**) ohne Kardioplegiegabe
+- ggf. Wiedereinsetzen von EKG-Aktivität
+- und/oder Ballon direkt an der Klappe visualisierbar
+V. a. proximale Migration des Ballons: umgehende Info Operateur
+→
+Konsequenz
+für
+die
+Anäshesie:
+ggf.
+MAD
+senken
+(Rücksprache weitere Maßnahmen mit Operateur)|
 
 ## **5. Schulungsmaterial/TEE-Loops** 
 

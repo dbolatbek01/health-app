@@ -251,7 +251,11 @@ HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP
 
 ## 11. Breite und Länge vermessen 
 
-Bestätige mit<br>dem Button<br>„Fertig“<br>**----- End of picture text -----**<br>
+Bestätige mit
+dem Button
+„Fertig“
+**----- End of picture text -----**
+
 
 HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP 
 

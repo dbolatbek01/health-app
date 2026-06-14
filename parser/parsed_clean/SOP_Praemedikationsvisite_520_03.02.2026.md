@@ -324,9 +324,13 @@ Andere orale Medikamente und eine ggf. angeordnete Prämedikation können grunds
 
 Die Bestellung der Blutkonserven erfolgt durch die Station. Die hier hinterlegten Tabellen gelten als Richtschnur, detailliertere Angabe sind im Transfusionskalalog DHZC hinterlegt. 
 
-|Die Bestellung der Blutkonserven erfolgt durch die Station. Die hier hinterlegten Tabellen gelten als Richtschnur,<br>detailliertere Angabe sind imTransfusionskalalog DHZC hinterlegt.|Die Bestellung der Blutkonserven erfolgt durch die Station. Die hier hinterlegten Tabellen gelten als Richtschnur,<br>detailliertere Angabe sind imTransfusionskalalog DHZC hinterlegt.|Die Bestellung der Blutkonserven erfolgt durch die Station. Die hier hinterlegten Tabellen gelten als Richtschnur,<br>detailliertere Angabe sind imTransfusionskalalog DHZC hinterlegt.|
+|Die Bestellung der Blutkonserven erfolgt durch die Station. Die hier hinterlegten Tabellen gelten als Richtschnur,
+detailliertere Angabe sind imTransfusionskalalog DHZC hinterlegt.|Die Bestellung der Blutkonserven erfolgt durch die Station. Die hier hinterlegten Tabellen gelten als Richtschnur,
+detailliertere Angabe sind imTransfusionskalalog DHZC hinterlegt.|Die Bestellung der Blutkonserven erfolgt durch die Station. Die hier hinterlegten Tabellen gelten als Richtschnur,
+detailliertere Angabe sind imTransfusionskalalog DHZC hinterlegt.|
 |---|---|---|
-|**5.1**<br>**Erwachsene**|||
+|**5.1**
+**Erwachsene**|||
 ||**Erst-OP**|**Re-OP/VAD/+ LeTX, NTX**|
 |**Standard**|2 EK|6 EK|
 |**H/LuTX ***|6 EK|10 EK|
@@ -338,7 +342,8 @@ Die Bestellung der Blutkonserven erfolgt durch die Station. Die hier hinterlegte
 
 ||**Erst-OP**|**Re-OP/VAD/TX**|
 |---|---|---|
-|**< 10 kg**|3 Baby-EK; bei OP mit Shuntanlage 1 EK plus 3<br>Baby-EK|1 EK plus 3 Baby-EK|
+|**< 10 kg**|3 Baby-EK; bei OP mit Shuntanlage 1 EK plus 3
+Baby-EK|1 EK plus 3 Baby-EK|
 |**10 - 30 kg**|2 EK|4 EK|
 |**> 30 kg**|2 EK|6 EK|
 |bei Vorliegen irregulärer AK sollten aufgrund der Beschaffungsdauer zusätzliche EKgekreuzt werden|||

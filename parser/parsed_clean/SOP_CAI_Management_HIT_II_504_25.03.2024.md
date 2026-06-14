@@ -42,10 +42,44 @@ Zu unterscheiden sind Patienten mit einer **HIT-II-Anamnese** und Patienten mit 
 
 ||**2 Punkte**|**1 Punkt**|**0 Punkte**|
 |---|---|---|---|
-|**Thrombozytopenie**|Abfall > 50% (ohne OP in<br>den letzten 3 d)<br>_und_ Nadir > 20 x10³/µl|Abfall 30-50%<br>_oder_ > 50% Abfall als<br>Resultat stattgehabter OP<br>_oder_ Nadir ≥ 10 x10³ und<br>≤ 20 x10³/µl|Abfall < 30%<br>_oder_ Nadir < 10 x10³/µl|
-|**Zeitlicher Zusam-**<br>**menhang**zwischen<br>Beginn Heparin-<br>exposition bzw.<br>-reexposition und<br>Thrombozyten-abfall|Abfall zwischen Tag 5 und<br>10<br>_oder_an Tag 1 bei<br>Vorexposition innerhalb der<br>letzten 30 d|Zeitpunkt des Abfalls un-klar<br>aber konsistent mit<br>zwischen Tag 5 und 10<br>_oder_ Abfall nach Tag 10<br>_oder_ Abfall an Tag 1 nach<br>Vor-exposition vor 30-100 d|Abfall nach ≤ 4 d ohne<br>kürzliche Vorexposition|
-|**Thrombose**|bestätigte neue<br>Thrombembolie_oder_<br>Hautnekrose_oder_<br>systemische Reaktion nach<br>i.v. UFH-Bolus|progrediente_oder_<br>wiederholte_oder_ vermutete<br>Thrombembolie|keine Thrombembolie|
-|**Alternative Ursachen**|keine andere Ursache<br>ersichtlich|andere Ursache möglich:<br>Infektion, Beatmung,<br>Dialyse, typische Medikation|sichere andere Ursachen:<br>Chirurgie ≤ 72 h, Sepsis,<br>Chemotherapie / Radiatio,<br>HUS / TTP, non-HIT DIC|
+|**Thrombozytopenie**|Abfall > 50% (ohne OP in
+den letzten 3 d)
+_und_ Nadir > 20 x10³/µl|Abfall 30-50%
+_oder_ > 50% Abfall als
+Resultat stattgehabter OP
+_oder_ Nadir ≥ 10 x10³ und
+≤ 20 x10³/µl|Abfall < 30%
+_oder_ Nadir < 10 x10³/µl|
+|**Zeitlicher Zusam-**
+**menhang**zwischen
+Beginn Heparin-
+exposition bzw.
+-reexposition und
+Thrombozyten-abfall|Abfall zwischen Tag 5 und
+10
+_oder_an Tag 1 bei
+Vorexposition innerhalb der
+letzten 30 d|Zeitpunkt des Abfalls un-klar
+aber konsistent mit
+zwischen Tag 5 und 10
+_oder_ Abfall nach Tag 10
+_oder_ Abfall an Tag 1 nach
+Vor-exposition vor 30-100 d|Abfall nach ≤ 4 d ohne
+kürzliche Vorexposition|
+|**Thrombose**|bestätigte neue
+Thrombembolie_oder_
+Hautnekrose_oder_
+systemische Reaktion nach
+i.v. UFH-Bolus|progrediente_oder_
+wiederholte_oder_ vermutete
+Thrombembolie|keine Thrombembolie|
+|**Alternative Ursachen**|keine andere Ursache
+ersichtlich|andere Ursache möglich:
+Infektion, Beatmung,
+Dialyse, typische Medikation|sichere andere Ursachen:
+Chirurgie ≤ 72 h, Sepsis,
+Chemotherapie / Radiatio,
+HUS / TTP, non-HIT DIC|
 |Klinische Wahrscheinlichkeit für HIT II anhand des 4T-Scores:||||
 |**hoch**bei ≥ 6 Punkten  |**intermediate**bei 4-5 Punkten  |**niedrig**bei ≤ 3 Punkten||||
 
@@ -95,7 +129,19 @@ Je nach Dringlichkeit der OP-Indikation bzw. zeitlichem Vorlauf ist folgendes di
 
 Die erste Säule der Diagnostik ist der Schnelltest. Fällt dieser negativ aus, ist die Diagnostik beendet und der Patient kann Heparin-reexponiert werden. Bei einem positiven Schnelltest sollte – wenn der zeitliche Vorlauf dies zulässt – unbedingt versucht werden diesen zu bestätigen. Idealerweise bringt ein HIPA den definitiven Ausschluss oder die definitive Bestätigung, aufgrund des längeren Turnovers kann aber unter zeitlichem Druck oftmals nur ein ELISA nachgeschoben werden. Da die Spezifität des ELISA aber nicht vorteilhafter als jene des Schnelltests ist, wird dieser in der Regel ein vergleichbares Ergebnis hervorbringen.[6] 
 
- negativ<br>Tirofiban + Heparin  Tirofiban + Heparin<br> positiv<br>bzw.  bzw.<br> IgG-ELISA pos.<br>Argatroban Argatroban<br>oder grenzw.<br> <br>1. AK-Schnelltest   2. HIPA,  ggf.  ELISA   3. HIPA<br>  <br>Heparin  Heparin Heparin<br>**----- End of picture text -----**<br>
+ negativ
+Tirofiban + Heparin  Tirofiban + Heparin
+ positiv
+bzw.  bzw.
+ IgG-ELISA pos.
+Argatroban Argatroban
+oder grenzw.
+ 
+1. AK-Schnelltest   2. HIPA,  ggf.  ELISA   3. HIPA
+  
+Heparin  Heparin Heparin
+**----- End of picture text -----**
+
 
 ## **3. Standardmanagement** 
 

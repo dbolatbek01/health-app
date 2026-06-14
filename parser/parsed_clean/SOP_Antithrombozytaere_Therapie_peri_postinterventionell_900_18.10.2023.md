@@ -28,14 +28,24 @@ Vereinheitlichung der antithrombozytären Therapiestrategien auf dem Gebiet der 
 
 ## **1.1 Patienten ohne Indikation für eine orale Antikoagulation (AOK)** 
 
-|**Myokardinfarkt**|12 Monate ASS plus Ticagrelor oder Prasugrel (cave: KI),<br>ASS dauerhaft|
+|**Myokardinfarkt**|12 Monate ASS plus Ticagrelor oder Prasugrel (cave: KI),
+ASS dauerhaft|
 |---|---|
 |**Stent oder DEB bei stabiler KHK**|6 Monate ASS plus Clopidogrel, ASS dauerhaft|
-|**Stent stabile KHK/ACS und**<br>**erhöhtes Blutungsrisiko (z.B.**<br>**PRECISE-DAPT ≥ 25)**|DAPT nach Stenttyp ggf. verkürzbar auf 1-3 Monate<br>(individuelle Einzelfallentscheidung Blutungsrisiko vs.<br>Ischämierisiko nach Vorgabe Interventionalist:in)|
+|**Stent stabile KHK/ACS und**
+**erhöhtes Blutungsrisiko (z.B.**
+**PRECISE-DAPT ≥ 25)**|DAPT nach Stenttyp ggf. verkürzbar auf 1-3 Monate
+(individuelle Einzelfallentscheidung Blutungsrisiko vs.
+Ischämierisiko nach Vorgabe Interventionalist:in)|
 
 ## **1.2 PCI bei Patienten mit Indikation für eine AOK** 
 
-Entlassung 6 Monate 12 Monate<br>stabile<br>KHK Tripletherapie (N)OAK plus Clopidogrel (N)OAK<br>ACS Tripletherapie (N)OAK plus Clopidogrel (N)OAK<br>**----- End of picture text -----**<br>
+Entlassung 6 Monate 12 Monate
+stabile
+KHK Tripletherapie (N)OAK plus Clopidogrel (N)OAK
+ACS Tripletherapie (N)OAK plus Clopidogrel (N)OAK
+**----- End of picture text -----**
+
 
 **Tripletherapie mit (N)OAK* plus ASS und Clopidogrel**** für maximal einen Monat (Standard: bis zur Entlassung, max. eine Woche), dann duale Therapie mit (N)OAK plus Clopidogrel bis 12 Monate nach PCI (Standard: sechs Monate bei stabiler KHK, 12 Monate bei ACS), anschließend Monotherapie mit (N)OAK (bei stabilem Verlauf), ggf. Dosis des NOAK anpassen 
 

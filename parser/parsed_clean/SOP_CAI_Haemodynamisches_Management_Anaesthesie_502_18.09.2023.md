@@ -557,7 +557,8 @@ Dosierungsrichtlinien
 |Nitroprussidnatrium|keine|0,5–5 µg/kg/min (≙30–300 µg/kg/h)|
 |Esmolol|keine|50–200 µg/kg/min|
 |Iloprost inhalativ|5 µg/Inhalation|–|
-|*****Dopamin ist in jeder Indikation durch gleichwertige oder vorteilhaftere Medikamente ersetzbar und kommt<br>daherperioperativ nicht zum Einsatz|||
+|*****Dopamin ist in jeder Indikation durch gleichwertige oder vorteilhaftere Medikamente ersetzbar und kommt
+daherperioperativ nicht zum Einsatz|||
 
 ## **10.1 Anwendungshinweise Katecholamine** 
 

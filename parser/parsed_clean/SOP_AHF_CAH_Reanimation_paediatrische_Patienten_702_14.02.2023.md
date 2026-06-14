@@ -61,7 +61,10 @@ Grundlage der in dieser SOP festgelegten Handlungsanweisungen für die Reanimati
 
 Die kardiopulmonale Reanimation erfolgt nach den aktuellen Empfehlungen des ERC 2021 bzw. der AHA 2020. Das Reanimationsteam wird über den Rea-Ruf AHF/CAH, Tel. 1166, gerufen (Anlage 1). 
 
-Reanimationsteam-KIPS<br>1166<br>**----- End of picture text -----**<br>
+Reanimationsteam-KIPS
+1166
+**----- End of picture text -----**
+
 
 Während der kardiopulmonalen Reanimation soll geprüft 
 
@@ -291,7 +294,40 @@ DHZC I DGR002-01 I 2023-02
 
 **ECMO-ALARM AHF/CAH** 
 
-H4/IPS-Arzt<br>Telefonische Übermittlung<br>2836 / 2837<br>der Patientendaten<br>Beim Wählen der Rufnummer „1133“<br>(Größe und Gewicht)  muss der Ruf mit der<br> *-Taste bestätigt werden!<br>Station H4 Alarmkontakt Station IPS1-Kinder<br>Telefon 1133*<br>Stützpunkt Ansage: (nur intern möglich) Saal 1<br> „ECMO-Alarm<br>Taster Taster<br>Kinderherzchirurgie des  Alarmkontakt<br>Deutschen Herzzentrums der<br>Charité. Bitte begeben Sie sich  Ansage: Station IPS1-Kinder<br>auf die Station H4.“ „ECMO-Alarm<br>ECMO-Alarm Kinderherzchirurgie des  Saal 2<br>Deutschen Herzzentrums der<br>Charité. Bitte begeben Sie sich  Taster<br>Es wird immer die gleiche  auf die Kinder-IPS.“<br>Zielgruppe alarmiert Station IPS1-Kinder<br>Herzkatheter 2 Alarmkontakt<br>Flur vor Stützpunkt<br>Taster Ansage:<br>Taster<br>„ECMO-Alarm<br>Kinderherzchirurgie des<br>Herzkatheter 2  Deutschen Herzzentrums der<br>Charité. Bitte begeben Sie sich in<br>Telefon 1772 das HK2-Labor.“<br>Station IPS1-Kinder Kardiotechnik OP-Pflege Chirurgie 1 Chirurgie 2 CAH Tagdienst  OP-Manager<br>1854 2128 1129 externe Rufnummern externe Rufnummern 3422 2710<br>**----- End of picture text -----**<br>
+H4/IPS-Arzt
+Telefonische Übermittlung
+2836 / 2837
+der Patientendaten
+Beim Wählen der Rufnummer „1133“
+(Größe und Gewicht)  muss der Ruf mit der
+ *-Taste bestätigt werden!
+Station H4 Alarmkontakt Station IPS1-Kinder
+Telefon 1133*
+Stützpunkt Ansage: (nur intern möglich) Saal 1
+ „ECMO-Alarm
+Taster Taster
+Kinderherzchirurgie des  Alarmkontakt
+Deutschen Herzzentrums der
+Charité. Bitte begeben Sie sich  Ansage: Station IPS1-Kinder
+auf die Station H4.“ „ECMO-Alarm
+ECMO-Alarm Kinderherzchirurgie des  Saal 2
+Deutschen Herzzentrums der
+Charité. Bitte begeben Sie sich  Taster
+Es wird immer die gleiche  auf die Kinder-IPS.“
+Zielgruppe alarmiert Station IPS1-Kinder
+Herzkatheter 2 Alarmkontakt
+Flur vor Stützpunkt
+Taster Ansage:
+Taster
+„ECMO-Alarm
+Kinderherzchirurgie des
+Herzkatheter 2  Deutschen Herzzentrums der
+Charité. Bitte begeben Sie sich in
+Telefon 1772 das HK2-Labor.“
+Station IPS1-Kinder Kardiotechnik OP-Pflege Chirurgie 1 Chirurgie 2 CAH Tagdienst  OP-Manager
+1854 2128 1129 externe Rufnummern externe Rufnummern 3422 2710
+**----- End of picture text -----**
+
 
 Stand Februar 2023 
 

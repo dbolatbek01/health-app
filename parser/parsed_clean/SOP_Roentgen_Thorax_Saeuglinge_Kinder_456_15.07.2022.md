@@ -90,7 +90,32 @@ Die optimale Patientenvorbereitung ist sehr wichtig. So wird die Belastung für 
 
 ## **5. Untersuchungsablauf** 
 
-Verantwortlichkeiten<br>Arzt mit Mitarbeiter Pflege-<br>Fachkunde Röntgen personal<br>Patienteninformation,<br>rechtfertigende Indikation X X X<br>(Relevante) Voraufnahmen,<br>X<br>Belichtungswerte raussuchen<br>Kind optimal vorbereiten X X X<br>Einstellparameter X X<br>Lagerung (evtl. halten bei<br>X X X<br>mobilen Kindern)<br> Aufnahme durchführen X<br> Strahlenschutz auflegen X<br>Bildverarbeitung X<br> Bildbeurteilung,<br>X X<br>Befund (Arzt)<br>nein In Ordnung? X X<br>ja<br>Dokumentation<br>Leistungserfassung X X<br>und Befundung (Arzt)<br>**----- End of picture text -----**<br>
+Verantwortlichkeiten
+Arzt mit Mitarbeiter Pflege-
+Fachkunde Röntgen personal
+Patienteninformation,
+rechtfertigende Indikation X X X
+(Relevante) Voraufnahmen,
+X
+Belichtungswerte raussuchen
+Kind optimal vorbereiten X X X
+Einstellparameter X X
+Lagerung (evtl. halten bei
+X X X
+mobilen Kindern)
+ Aufnahme durchführen X
+ Strahlenschutz auflegen X
+Bildverarbeitung X
+ Bildbeurteilung,
+X X
+Befund (Arzt)
+nein In Ordnung? X X
+ja
+Dokumentation
+Leistungserfassung X X
+und Befundung (Arzt)
+**----- End of picture text -----**
+
 
 ## **6. Einstelltechnik, Lagerung** 
 
@@ -132,17 +157,22 @@ Die Werte der Tabelle sind Richtwerte. Konstitution sowie Wachstumsverhältnisse
 ||||||||||
 ||||||||||
 |**2000–2500 g**|**Frühgeburt**|24 x 30|digital|130|72|1,25|1mm Al + 0,1mm Cu|0,3|
-|**2500–3000 g**|**Neugeborene**<br>**˂ 1 Monat**|24 x 30|digital|130|72|1,4|1mm Al + 0,1mm Cu|0,5|
+|**2500–3000 g**|**Neugeborene**
+**˂ 1 Monat**|24 x 30|digital|130|72|1,4|1mm Al + 0,1mm Cu|0,5|
 |**3000–4000 g**|**Säugling**|24 x 30|digital|130|73|1,6|1mm Al + 0,1mm Cu|0,5|
 |**4000–5000 g**|**1–3 Monate**|24 x 30|digital|130|75|1,25|1mm Al + 0,1mm Cu|0,5|
 |**5000–6000 g**|**2–4 Monate**|24 x 30|digital|130|75|1,6|1mm Al + 0,1mm Cu|0,5|
 |**6000–8000 g**|**3–9 Monate**|24 x 30|digital|130|75|1,6|1mm Al + 0,1mm Cu|1,0|
 |**8000–10000 g**|**9–12 Monate**|24 x 30|digital|130|77|1,6|1mm Al + 0,1mm Cu|1,0|
 |**Monate – 1 a**|**Baby**|24 x 30|digital|130|73|1,25|1mm Al + 0,1mm Cu|1,0|
-|**1–5 a**|**Kleinkind**<br>**1 bis ˂ 5 Jahre**|24 x 30|digital|130|75|1,6|1mm Al + 0,1mm Cu|2,0|
-|**6–10 a**|**Grundschulkind**|24 x 30<br>35 x 43|digital|130|105|0,63|1mm Al + 0,1mm Cu|3,5|
-|**11–15 a**|**Jugendlicher**|35 x 43|digital|130|105|0,71|1mm Al + 0,1mm –<br>0,2 mm Cu|15|
-|**ab 16 a Thorax a.p.**<br>**liegend**||35 x 43|digital|130|105|1,0|keiner|15|
+|**1–5 a**|**Kleinkind**
+**1 bis ˂ 5 Jahre**|24 x 30|digital|130|75|1,6|1mm Al + 0,1mm Cu|2,0|
+|**6–10 a**|**Grundschulkind**|24 x 30
+35 x 43|digital|130|105|0,63|1mm Al + 0,1mm Cu|3,5|
+|**11–15 a**|**Jugendlicher**|35 x 43|digital|130|105|0,71|1mm Al + 0,1mm –
+0,2 mm Cu|15|
+|**ab 16 a Thorax a.p.**
+**liegend**||35 x 43|digital|130|105|1,0|keiner|15|
 
 ## **8. Aufnahmekriterien nach BÄK-Leitlinie** 
 

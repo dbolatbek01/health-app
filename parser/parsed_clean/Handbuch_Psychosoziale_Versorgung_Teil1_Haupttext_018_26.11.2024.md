@@ -264,25 +264,52 @@ Folgende organübergreifende Beurteilungskriterien werden in dieser Leitlinie de
 |**Tabelle 1. Beurteilungskriterien einer psychosozialen Evaluation**|**Tabelle 1. Beurteilungskriterien einer psychosozialen Evaluation**|
 |---|---|
 |**Beurteilungskriterien**|**Kritisches Ergebnis**|
-|Soziale Anamnese inkl. familiäre und<br>Wohnsituation, soziales Netzwerk, soziale<br>Unterstützung|Instabile / problematische Beziehungen, fehlende soziale<br>Unterstützung|
-|Berufliche, schulische und finanzielle<br>Situation|Schwere berufliche / schulische / finanzielle Probleme,<br>unrealistische berufliche Ziele|
+|Soziale Anamnese inkl. familiäre und
+Wohnsituation, soziales Netzwerk, soziale
+Unterstützung|Instabile / problematische Beziehungen, fehlende soziale
+Unterstützung|
+|Berufliche, schulische und finanzielle
+Situation|Schwere berufliche / schulische / finanzielle Probleme,
+unrealistische berufliche Ziele|
 |Psychosoziale Stressoren|Hohepsychosoziale Belastung|
-|Aktuelles und früheres Copingverhalten inkl.<br>Krankheitsverarbeitung|Dysfunktionales Copingverhalten, dysfunktionale<br>Krankheitsbewältigung|
+|Aktuelles und früheres Copingverhalten inkl.
+Krankheitsverarbeitung|Dysfunktionales Copingverhalten, dysfunktionale
+Krankheitsbewältigung|
 |Aktuelle Angst- und depressive Symptomatik|Hohe Angst- und depressive Belastung|
 |Präoperative Angst|Hohepräoperative Angst|
-|Subjektive Krankheitstheorie|Fehlende Krankheitsakzeptanz / -einsicht, fehlerhafte<br>Krankheitsursachenzuschreibung (Attribution), geringe<br>Selbstwirksamkeitserwartung|
+|Subjektive Krankheitstheorie|Fehlende Krankheitsakzeptanz / -einsicht, fehlerhafte
+Krankheitsursachenzuschreibung (Attribution), geringe
+Selbstwirksamkeitserwartung|
 |Wissen bzgl. Krankheit und Transplantation|Mangelndes Wissen|
-|Risikoeinschätzung bzgl. Transplantation|Inadäquate Risikoeinschätzung, insbes. Bagatellisierung<br>bzw. Ausblenden der Risiken|
-|Entscheidungsfindung bzgl. Transplantation|Impulsive / unreflektierte Entscheidung, äußerer Druck,<br>überwiegend extrinsische Motivation|
+|Risikoeinschätzung bzgl. Transplantation|Inadäquate Risikoeinschätzung, insbes. Bagatellisierung
+bzw. Ausblenden der Risiken|
+|Entscheidungsfindung bzgl. Transplantation|Impulsive / unreflektierte Entscheidung, äußerer Druck,
+überwiegend extrinsische Motivation|
 |Erwartungen bzgl. Outcome|Unrealistische Erwartungen|
-|Gesundheitsverhalten (Bewegung,<br>Gewichtskontrolle, Schlaf)<br>[Substanzgebrauch s.u.]|Ungünstiges Gesundheitsverhalten|
+|Gesundheitsverhalten (Bewegung,
+Gewichtskontrolle, Schlaf)
+[Substanzgebrauch s.u.]|Ungünstiges Gesundheitsverhalten|
 |**Beurteilungskriterien mit besonderer Relevanz**||
 |Transplantationsmotivation|Fehlende Motivation / Zustimmung|
-|Aktuelle und frühere Adhärenz bzgl.<br>Inanspruchnahme medizinischer<br>Behandlungen, Medikamenteneinnahme etc.|Aktuelle Non-Adhärenz|
-|Substanzgebrauch (Alkohol, Tabak, andere<br>Suchtmittel) inkl. Suchtanamnese und -<br>behandlungen|Aktuelle/r Substanzabhängigkeit / -missbrauch<br>[evidenzbasierte Bewertung der Relevanz, ggf.<br>entsprechend organspezifischer Richtlinien]|
-|Aktuelle und frühere psychische Störungen<br>und deren Behandlung|Instabile psychische Störung(en), insbes. anhaltende<br>wahnhafte Störungen, schwere Persönlichkeitsstörungen,<br>insbes. mit Impulsivität, schwere depressive Störungen,<br>Essstörungen, schwere Angsterkrankungen,<br>posttraumatische Belastungsstörung|
-|Aktuelle und frühere Suizidalität und<br>Suizidversuche|Akute Suizidalität|
-|Kognitiver Status inkl. Einwilligungsfähigkeit|Irreversibel fehlende kognitive Voraussetzungen zur<br>Einwilligung / Adhärenz (z.B. Demenz, schwere / schwerste<br>Intelligenzminderung)ohne ausreichende Unterstützung|
+|Aktuelle und frühere Adhärenz bzgl.
+Inanspruchnahme medizinischer
+Behandlungen, Medikamenteneinnahme etc.|Aktuelle Non-Adhärenz|
+|Substanzgebrauch (Alkohol, Tabak, andere
+Suchtmittel) inkl. Suchtanamnese und -
+behandlungen|Aktuelle/r Substanzabhängigkeit / -missbrauch
+[evidenzbasierte Bewertung der Relevanz, ggf.
+entsprechend organspezifischer Richtlinien]|
+|Aktuelle und frühere psychische Störungen
+und deren Behandlung|Instabile psychische Störung(en), insbes. anhaltende
+wahnhafte Störungen, schwere Persönlichkeitsstörungen,
+insbes. mit Impulsivität, schwere depressive Störungen,
+Essstörungen, schwere Angsterkrankungen,
+posttraumatische Belastungsstörung|
+|Aktuelle und frühere Suizidalität und
+Suizidversuche|Akute Suizidalität|
+|Kognitiver Status inkl. Einwilligungsfähigkeit|Irreversibel fehlende kognitive Voraussetzungen zur
+Einwilligung / Adhärenz (z.B. Demenz, schwere / schwerste
+Intelligenzminderung)ohne ausreichende Unterstützung|
 
 Quelle: S3-Leitlinie Psychosoziale Diagnostik und Behandlung von Patientinnen und Patienten vor und nach Organtransplantation, S. 72f. 
 

@@ -48,13 +48,26 @@ Diese SOP gilt standortübergreifend für alle Mitarbeitenden des Deutschen Herz
 
 ## **4 Verantwortlichkeiten gemäß der VO (EU) 536 / 2014** 
 
-|**Hauptprüfer**|Beim Hauptprüfer handelt es sich um den verantwortlichen Leiter<br>eines Prüferteams, das die klinische Prüfung an einer Prüfstelle<br>durchführt.|
+|**Hauptprüfer**|Beim Hauptprüfer handelt es sich um den verantwortlichen Leiter
+eines Prüferteams, das die klinische Prüfung an einer Prüfstelle
+durchführt.|
 |---|---|
-|**Monitor**|Eine Person, die für die Überwachung und Kontrolle der Studie<br>verantwortlich ist. Der Monitor soll sicherstellen, dass die Stu-<br>diendurchführung an einer Prüfstelle den festgelegten Studien-<br>protokollen, den regulatorischen Anforderungen und den ethi-<br>schen Standards entspricht.|
-|**Prüfer**|Eine für die Durchführung einer klinischen Prüfung an einer Prüf-<br>stelle verantwortliche Person.|
-|**Prüfstelle**|Der physische Standort, an dem die klinische Prüfung gemäß<br>Studienprotokoll tatsächlich durchgeführt wird und an dem die an<br>der Studie teilnehmenden Patienten betreut werden. Die Prüf-<br>stelle umfasst alle Einrichtungen und delegierten Personen, die<br>direkt mit der Durchführung der klinischen Prüfung beteiligt sind.|
+|**Monitor**|Eine Person, die für die Überwachung und Kontrolle der Studie
+verantwortlich ist. Der Monitor soll sicherstellen, dass die Stu-
+diendurchführung an einer Prüfstelle den festgelegten Studien-
+protokollen, den regulatorischen Anforderungen und den ethi-
+schen Standards entspricht.|
+|**Prüfer**|Eine für die Durchführung einer klinischen Prüfung an einer Prüf-
+stelle verantwortliche Person.|
+|**Prüfstelle**|Der physische Standort, an dem die klinische Prüfung gemäß
+Studienprotokoll tatsächlich durchgeführt wird und an dem die an
+der Studie teilnehmenden Patienten betreut werden. Die Prüf-
+stelle umfasst alle Einrichtungen und delegierten Personen, die
+direkt mit der Durchführung der klinischen Prüfung beteiligt sind.|
 
-|Version:<br>1.0|SOP-Nr.: 1007|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite<br>3 von 7||
+|Version:
+1.0|SOP-Nr.: 1007|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite
+3 von 7||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |||||||||||||||
 
@@ -64,12 +77,35 @@ Geltungsbereich: Klinische Studien, alle Standorte
 
 ## **5 Begriffsdefinition** 
 
-|**5**<br>**Begriffsdefinition**||
+|**5**
+**Begriffsdefinition**||
 |---|---|
-|**CAPA**|Eine CAPA (Corrective and Preventive Action) ist ein formalisier-<br>ter Prozess, um Abweichungen, Fehler oder Mängel zu identifi-<br>zieren, zu korrigieren und deren Wiederauftreten zu verhindern.<br>Der CAPA-Prozess ist ein wesentlicher Bestandteil des Qualitäts-<br>managementsystems und trägt zur kontinuierlichen Verbesse-<br>rung der Prozesse sowie zur Sicherstellung der Einhaltung regu-<br>latorischer Anforderungen bei.|
-|**Follow-Up Letter**|Ein formelles Schreiben, das nach dem Monitoring an das Prüf-<br>zentrum gesendet wird und das Monitoring zusammenfasst. Fer-<br>ner enthält er die spezifischen Anforderungen für Korrekturmaß-<br>nahmen und Fristen für deren Umsetzung.|
-|**Investigator Site File**<br>**(ISF)**|Der Investigator Site File (ISF) kann als eine zentrale Dokumen-<br>tensammlungan einer Prüfstelleverstanden werden, die alle we-<br>sentlichen Unterlagen einer klinischen Studie enthält. Er dient der<br>Dokumentation und dem Nachweis, dass die Studie gemäß den<br>regulatorischen Anforderungen, ethischen Richtlinien und dem<br>Studienprotokoll durchgeführt wird. Der ISF wird regelmäßig ak-<br>tualisiert und ist eine wichtige Grundlage für interne und externe<br>Audits sowie Inspektionen.|
-|**Serious Breach**|Gemäß CTR Art. 52 ist ein Verstoß gegen die Clinical Trials Re-<br>gulation oder gegen den zu dem betreffenden Zeitpunkt gelten-<br>den Prüfplan, durch den die Sicherheit und Rechte Prüfungsteil-<br>nehmender oder die Zuverlässigkeit und Belastbarkeit der im<br>Rahmen der klinischen Prüfung gewonnenen Daten wahrschein-<br>lich erheblich beeinträchtigt wird.|
+|**CAPA**|Eine CAPA (Corrective and Preventive Action) ist ein formalisier-
+ter Prozess, um Abweichungen, Fehler oder Mängel zu identifi-
+zieren, zu korrigieren und deren Wiederauftreten zu verhindern.
+Der CAPA-Prozess ist ein wesentlicher Bestandteil des Qualitäts-
+managementsystems und trägt zur kontinuierlichen Verbesse-
+rung der Prozesse sowie zur Sicherstellung der Einhaltung regu-
+latorischer Anforderungen bei.|
+|**Follow-Up Letter**|Ein formelles Schreiben, das nach dem Monitoring an das Prüf-
+zentrum gesendet wird und das Monitoring zusammenfasst. Fer-
+ner enthält er die spezifischen Anforderungen für Korrekturmaß-
+nahmen und Fristen für deren Umsetzung.|
+|**Investigator Site File**
+**(ISF)**|Der Investigator Site File (ISF) kann als eine zentrale Dokumen-
+tensammlungan einer Prüfstelleverstanden werden, die alle we-
+sentlichen Unterlagen einer klinischen Studie enthält. Er dient der
+Dokumentation und dem Nachweis, dass die Studie gemäß den
+regulatorischen Anforderungen, ethischen Richtlinien und dem
+Studienprotokoll durchgeführt wird. Der ISF wird regelmäßig ak-
+tualisiert und ist eine wichtige Grundlage für interne und externe
+Audits sowie Inspektionen.|
+|**Serious Breach**|Gemäß CTR Art. 52 ist ein Verstoß gegen die Clinical Trials Re-
+gulation oder gegen den zu dem betreffenden Zeitpunkt gelten-
+den Prüfplan, durch den die Sicherheit und Rechte Prüfungsteil-
+nehmender oder die Zuverlässigkeit und Belastbarkeit der im
+Rahmen der klinischen Prüfung gewonnenen Daten wahrschein-
+lich erheblich beeinträchtigt wird.|
 
 ## **6 Prozessbeschreibung** 
 
@@ -83,7 +119,9 @@ Verantwortliche Studienkoordination
 
 - Prüfgegenstände (z. B. Investigator Site File, Patientenakten, Medikation) 
 
-|Version:<br>1.0|SOP-Nr.: 1007|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite<br>4 von 7||
+|Version:
+1.0|SOP-Nr.: 1007|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite
+4 von 7||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |||||||||||||||
 
@@ -165,7 +203,8 @@ In Abhängigkeit der identifizierten Mängel und dessen Schwere ist innerhalb ei
 
 Studienteam 
 
-|Version:|SOP-Nr.: 1007|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite<br>6 von 7||
+|Version:|SOP-Nr.: 1007|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite
+6 von 7||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |||||||||||||||
 

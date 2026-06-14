@@ -55,9 +55,25 @@ Die Patienten erhalten am Vortag der Operation ein Dekolonisationsset und werden
 
 Die Durchführung erfolgt folgendermaßen: 
 
-|**Chlorhexidin**<br>**Waschhandschuhe**|**1x täglich**(am Abend vor und am Morgen des Operationstages)<br>Falls geduscht wird, die Waschhandschuhe erst nach dem Duschen<br>anwenden.<br>Anwendung der Waschhandschuhe nur auf trockener Haut. Das Präparat<br>sollte dann auf der Haut lufttrocknen.<br>Erwärmen der Packung in der Mikrowelle über 30 Sek. bei max. 600 Watt<br>möglich.|
+|**Chlorhexidin**
+**Waschhandschuhe**|**1x täglich**(am Abend vor und am Morgen des Operationstages)
+Falls geduscht wird, die Waschhandschuhe erst nach dem Duschen
+anwenden.
+Anwendung der Waschhandschuhe nur auf trockener Haut. Das Präparat
+sollte dann auf der Haut lufttrocknen.
+Erwärmen der Packung in der Mikrowelle über 30 Sek. bei max. 600 Watt
+möglich.|
 |---|---|
-|**octenisan® Nasengel**|**3x täglich**(morgens/mittags/abends vom Vortag der Operation bis zur<br>Operation)<br>Das Gel mittels Watteträger in den vorderen Bereich der Nase<br>einbringen.<br>Am Tag der Operation mindestens 1x (morgens) anwenden.<br>Wenn der OP-Termin erst mittags oder abends ist, sollte das Nasengel<br>auch noch mittags und/oder abends verwendet werden.<br> Bei nasalem Nachweis von Staph. aureus(inkl. MRSA):<br>Nasenabstrich prästationär, spätestens bei Aufnahme – Mupirocin-<br>Nasensalbe (Turixin®) anstelle von Octenisan®-Nasensalbe.|
+|**octenisan® Nasengel**|**3x täglich**(morgens/mittags/abends vom Vortag der Operation bis zur
+Operation)
+Das Gel mittels Watteträger in den vorderen Bereich der Nase
+einbringen.
+Am Tag der Operation mindestens 1x (morgens) anwenden.
+Wenn der OP-Termin erst mittags oder abends ist, sollte das Nasengel
+auch noch mittags und/oder abends verwendet werden.
+ Bei nasalem Nachweis von Staph. aureus(inkl. MRSA):
+Nasenabstrich prästationär, spätestens bei Aufnahme – Mupirocin-
+Nasensalbe (Turixin®) anstelle von Octenisan®-Nasensalbe.|
 
 ## **3.2 Dekolonisation bei bekannter MRSA-Anamnese** 
 

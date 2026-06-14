@@ -9,7 +9,10 @@ Klinik für Herz-, Thorax- und Gefäßchirurgie: Arztdienst, Pflegedienst Klinik
 
 ## **Änderungshistorie** 
 
-PL IPS 1  Dienst,<br> S.<br>**----- End of picture text -----**<br>
+PL IPS 1  Dienst,
+ S.
+**----- End of picture text -----**
+
 
 ## **Inhaltsverzeichnis** 
 

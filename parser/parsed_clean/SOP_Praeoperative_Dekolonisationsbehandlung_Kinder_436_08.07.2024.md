@@ -57,9 +57,18 @@ Benötigt wird: ein Dekolonisationsset bestehend aus
 
 - Informationsflyer für Patienten/Eltern 
 
-|Swash bathing Wipes antiseptic®|**1x täglich**(am Abend vor und am Morgen des Operationstages)<br>Swash bathing Wipes antiseptic®, entsprechende Körperpartien<br>einreiben (Kontaktzeit 1Minute) und trocknen lassen.|
+|Swash bathing Wipes antiseptic®|**1x täglich**(am Abend vor und am Morgen des Operationstages)
+Swash bathing Wipes antiseptic®, entsprechende Körperpartien
+einreiben (Kontaktzeit 1Minute) und trocknen lassen.|
 |---|---|
-|octenisan® Nasengel|**3x täglich**(morgens/mittags/abends vom Vortag der Operation bis<br>zur Operation)<br> Das Gel mittels Watteträger in den vorderen Bereich der Nase<br>einbringen.<br> Am Tag der Operation mindestens 1x (morgens) anwenden.<br> Wenn der OP-Termin erst mittags oder abends ist, sollte das<br>Nasengel auch noch mittags und/oder abends verwendet<br>werden.|
+|octenisan® Nasengel|**3x täglich**(morgens/mittags/abends vom Vortag der Operation bis
+zur Operation)
+ Das Gel mittels Watteträger in den vorderen Bereich der Nase
+einbringen.
+ Am Tag der Operation mindestens 1x (morgens) anwenden.
+ Wenn der OP-Termin erst mittags oder abends ist, sollte das
+Nasengel auch noch mittags und/oder abends verwendet
+werden.|
 
 ## **Eine detaillierte Waschanleitung kann dem Patienteninformationsflyer entnommen werden.** 
 

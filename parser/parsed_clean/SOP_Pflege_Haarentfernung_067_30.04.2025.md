@@ -58,7 +58,8 @@ Hinweis: Nach Möglichkeit sollte die Haarentfernung bei Männern durch männlic
 
 - Nachthemd 
 
-|Version 3.0|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite<br>1  3|
+|Version 3.0|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite
+1  3|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |SO 067|Nächste Überprüfung||||||||||von|
 
@@ -108,7 +109,8 @@ Stationär: OP-Checkliste (ZF OP-Checkliste)
 
 > 1 Prävention postoperativer Wundinfektionen. Empfehlung der Kommission für Krankenhaushygiene und Infektionsprävention (KRINKO) beim Robert Koch-Institut. Bundesgesundheitsbl 2018:61(3):448–73. https://doi.org/10.1007/s00103-018-2706-2 
 
-|Version 3.0|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite<br>2  3|
+|Version 3.0|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite
+2  3|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |SO 067|Nächste Überprüfung||||||||||von|
 
@@ -121,41 +123,71 @@ Stationär: OP-Checkliste (ZF OP-Checkliste)
 |**OP**|**Zugang**|**Haarentfernung**||
 |||immer mit Clipper!|→ nur wenn unbedingt nötig|
 ||||→ nur entlangder Schnittführung|
-|**CABG**|mediane<br>Sternotomie|Thorax**┴**<br>(analog zu Schnittführung und Anlage der Drainagen), Subclavia<br>rechts, beide Beine und Leisten analog der Schnittführung.**Cave**:<br>Pflasterbreite!||
+|**CABG**|mediane
+Sternotomie|Thorax**┴**
+(analog zu Schnittführung und Anlage der Drainagen), Subclavia
+rechts, beide Beine und Leisten analog der Schnittführung.**Cave**:
+Pflasterbreite!||
 |||||
 |**_mit Art. radialis_**||_Linker oder rechter Arm_||
-||Minithorakotomie<br>links|Thorax**┴**<br>Submammäre Falte links, beide Leisten bis zum Knie, linkes Bein<br>bis zum Knie.**Cave**: Pflasterbreite!||
+||Minithorakotomie
+links|Thorax**┴**
+Submammäre Falte links, beide Leisten bis zum Knie, linkes Bein
+bis zum Knie.**Cave**: Pflasterbreite!||
 |**MIDCAB**||||
 |||||
-|**MIC (MKR/E,**|Minithorakotomie<br>rechts|Submammäre Falte rechts, Axilla rechts, beide Leisten bis zum<br>Knie||
+|**MIC (MKR/E,**|Minithorakotomie
+rechts|Submammäre Falte rechts, Axilla rechts, beide Leisten bis zum
+Knie||
 |**TKR/E, ASD)**||||
-|**MIC AKE**|partielle obere<br>Sternotomie|Thorax**┴**<br>Subclavia rechts, beide Leisten bis zum Knie, linkes Bein bis zum<br>Knie.**Cave**: Pflasterbreite!||
+|**MIC AKE**|partielle obere
+Sternotomie|Thorax**┴**
+Subclavia rechts, beide Leisten bis zum Knie, linkes Bein bis zum
+Knie.**Cave**: Pflasterbreite!||
 |||||
-|**Re-OP**|mediane<br>Sternotomie|Thorax**┴**<br>Subclavia rechts,beide Leisten bis zum Knie.||
+|**Re-OP**|mediane
+Sternotomie|Thorax**┴**
+Subclavia rechts,beide Leisten bis zum Knie.||
 |||||
-|**_mit CABG_**||_Beide Beine analog der Schnittführung zur VE._<br>**Cave**: Pflasterbreite!||
+|**_mit CABG_**||_Beide Beine analog der Schnittführung zur VE._
+**Cave**: Pflasterbreite!||
 |||||
-|**Herzklappen-OP,**|mediane<br>Sternotomie|Thorax**┴**<br>Subclavia rechts, beide Leisten bis zum Knie.||
+|**Herzklappen-OP,**|mediane
+Sternotomie|Thorax**┴**
+Subclavia rechts, beide Leisten bis zum Knie.||
 |**LV-Aneurysma,**||||
-|<br>**Infarkt-VSD,**||||
+|
+**Infarkt-VSD,**||||
 |**A-Dissektion,**||||
 |**David-OP, HtX,**||||
 |**Assist**||||
-|**_mit CABG_**||_Beide Beine analog der Schnittführung zur VE._<br>**Cave**: Pflasterbreite!||
+|**_mit CABG_**||_Beide Beine analog der Schnittführung zur VE._
+**Cave**: Pflasterbreite!||
 |||||
-|**LTX**|anterolaterale<br>Thorakotomie li + re|Thorax**┴**<br>beide Leisten bis zum Knie,Rücken analogder Schnittführung||
+|**LTX**|anterolaterale
+Thorakotomie li + re|Thorax**┴**
+beide Leisten bis zum Knie,Rücken analogder Schnittführung||
 |||||
-|**Descendens-**|anterolaterale<br>Thorakotomie li|Thorax**┴**<br>Beide Leisten bis zum Knie,Rücken analogder Schnittführung||
+|**Descendens-**|anterolaterale
+Thorakotomie li|Thorax**┴**
+Beide Leisten bis zum Knie,Rücken analogder Schnittführung||
 |**Ersatz**||||
 |||||
-|**TAAE**|Thorako-Phreno-<br>Laparatomie|Thorax und Bauch**┴**<br>beide Leisten bis zum Knie,Rücken analogder Schnittführung||
+|**TAAE**|Thorako-Phreno-
+Laparatomie|Thorax und Bauch**┴**
+beide Leisten bis zum Knie,Rücken analogder Schnittführung||
 |||||
-|**TAVI**(femoral)|Femoral,<br>Minithorakotomie li|Thorax**┴**<br>Beide Leisten bis zum Knie||
+|**TAVI**(femoral)|Femoral,
+Minithorakotomie li|Thorax**┴**
+Beide Leisten bis zum Knie||
 |**TAVI**(apikal)||||
 |||||
-|**BAA/Laparotomie**|mediane<br>Laparotomie|Thorax und Abdomen beide Leisten bis zum Knie||
-|<br>**Stent**||||
-|**LHK/RHK,**|Arteria + Vena<br>femoralis|Beide Leisten großflächig ca. 15 cm radius||
+|**BAA/Laparotomie**|mediane
+Laparotomie|Thorax und Abdomen beide Leisten bis zum Knie||
+|
+**Stent**||||
+|**LHK/RHK,**|Arteria + Vena
+femoralis|Beide Leisten großflächig ca. 15 cm radius||
 |**LAA-Verschluss,**||||
 |**PFO-Verschluss,**||||
 |**Ablation**||||
@@ -163,5 +195,7 @@ Stationär: OP-Checkliste (ZF OP-Checkliste)
 |**Pacer/ICD/SM**|Subklavik. Inzision|rechter und linker Thorax(Schulter bis zu den Mamillen)||
 |**ER-Implantation**|Subklavik.  Inzision|links vom Sternum bis zur Mamille(Quadrat)||
 
-g<br>**----- End of picture text -----**<br>
+g
+**----- End of picture text -----**
+
 

@@ -45,7 +45,13 @@ Die vorliegende SOP gilt für alle Ärzte, Pflegekräfte, Atemtherapeuten, Physi
 
 |**Einschätzung der Entwöhnungsbereitschaft ( "Readiness to Wean")**|**Einschätzung der Entwöhnungsbereitschaft ( "Readiness to Wean")**|
 |---|---|
-|Verantwortlich|Oberarzt/Facharzt<br>täglich im Rahmen der Visite<br>Beurteilung Atemmechanik<br>Beurteilung "Readiness to Wean"<br>Plan zur Fortführung Weaning<br>NIV-Abhängigkeit<br>Oberarzt/Facharzt im Rahmen der Weaning-Teambesprechung|
+|Verantwortlich|Oberarzt/Facharzt
+täglich im Rahmen der Visite
+Beurteilung Atemmechanik
+Beurteilung "Readiness to Wean"
+Plan zur Fortführung Weaning
+NIV-Abhängigkeit
+Oberarzt/Facharzt im Rahmen der Weaning-Teambesprechung|
 |Zeitpunkt||
 |||
 |Umfang||
@@ -54,12 +60,19 @@ Die vorliegende SOP gilt für alle Ärzte, Pflegekräfte, Atemtherapeuten, Physi
 |||
 |Kontrolle||
 |**Weaning-Anordnung, Evaluation Weaning/Spontanatmungsversuch**||
-|Verantwortlich|Betreuender Arzt<br>täglich im Rahmen der Patientenuntersuchung<br>z.B. Spontanatmungsversuch; Weaning-Stufe<br>Oberarzt/Facharzt im Rahmen der Weaning-Teambesprechung|
+|Verantwortlich|Betreuender Arzt
+täglich im Rahmen der Patientenuntersuchung
+z.B. Spontanatmungsversuch; Weaning-Stufe
+Oberarzt/Facharzt im Rahmen der Weaning-Teambesprechung|
 |Zeitpunkt||
 |Umfang||
 |Kontrolle||
 |**Atmungstherapie**||
-|Verantwortlich|Atemtherapeuten<br>1 x täglich<br>Dauer (mindestens 30 Minuten)<br>Durchgeführte Maßnahmen<br>Atemtherapeut zum Termin der Weaning-Teambesprechung|
+|Verantwortlich|Atemtherapeuten
+1 x täglich
+Dauer (mindestens 30 Minuten)
+Durchgeführte Maßnahmen
+Atemtherapeut zum Termin der Weaning-Teambesprechung|
 |Zeitpunkt||
 |Umfang||
 |||
@@ -67,7 +80,11 @@ Die vorliegende SOP gilt für alle Ärzte, Pflegekräfte, Atemtherapeuten, Physi
 
 |**Physiotherapie**|**Physiotherapie**|
 |---|---|
-|Verantwortlich|Physiotherapeuten<br>1 x täglich<br>Dauer (mindestens 30 Minuten)<br>Durchgeführte Maßnahmen<br>Physiotherapeut zum Termin der Weaning-Teambesprechung|
+|Verantwortlich|Physiotherapeuten
+1 x täglich
+Dauer (mindestens 30 Minuten)
+Durchgeführte Maßnahmen
+Physiotherapeut zum Termin der Weaning-Teambesprechung|
 |Zeitpunkt||
 |Umfang||
 |||
@@ -75,7 +92,12 @@ Die vorliegende SOP gilt für alle Ärzte, Pflegekräfte, Atemtherapeuten, Physi
 |**Weitere Therapieeinheiten:**||
 |**Ergotherapie; Physikalische Therapie; Neuropsychologie/Psychologie; Logopädie, Fazioorale**||
 |**Therapie; Sprachtherapie; Dysphagietherapie**||
-|Verantwortlich|Jeweiliger Therapeut<br>Bei Behandlung<br>Dauer (mindestens 30 Minuten)<br>Durchgeführte Maßnahmen<br>Jeweiliger Therapeut/ggf. Oberarzt/Facharzt im Rahmen der Weaning-<br>Teambesprechung|
+|Verantwortlich|Jeweiliger Therapeut
+Bei Behandlung
+Dauer (mindestens 30 Minuten)
+Durchgeführte Maßnahmen
+Jeweiliger Therapeut/ggf. Oberarzt/Facharzt im Rahmen der Weaning-
+Teambesprechung|
 |Zeitpunkt||
 |Umfang||
 |||
@@ -83,14 +105,27 @@ Die vorliegende SOP gilt für alle Ärzte, Pflegekräfte, Atemtherapeuten, Physi
 |Kontrolle||
 |||
 |**Ersteinschätzung Weaning**||
-|Verantwortlich|Oberarzt/Facharzt<br>Innerhalb von 24 h nach Aufnahme bzw. Intubation<br>Beatmung; Sedierung; Hämodynamik; Prognose Grunderkrankung;<br>Regenerationspotential; Patientenwille; Compliance; Weanbarkeit<br>Oberarzt/Facharzt im Rahmen der Weaning-Teambesprechung|
+|Verantwortlich|Oberarzt/Facharzt
+Innerhalb von 24 h nach Aufnahme bzw. Intubation
+Beatmung; Sedierung; Hämodynamik; Prognose Grunderkrankung;
+Regenerationspotential; Patientenwille; Compliance; Weanbarkeit
+Oberarzt/Facharzt im Rahmen der Weaning-Teambesprechung|
 |Zeitpunkt||
 |||
 |Umfang||
 |||
 |Kontrolle||
 |**Weaning-Teambesprechung**||
-|Verantwortlich|Oberarzt/Facharzt<br>Behandlungsleitung (OA/FA) + weitere Berufsgruppe<br>(Pflegedienst, Atmungstherapie, Physiotherapie, Logopädie, Sozialdienst,<br>Psychologie)<br>1 x wöchentlich<br>Alle Patienten mit invasiver Beatmung/nicht invasiver Beatmung; Weaning-<br>Patienten<br>Aktuelle Situation: Behandlung/Weaning<br>Therapieplanung Folgewoche<br>KontrolleWeaning-Dokumentation|
+|Verantwortlich|Oberarzt/Facharzt
+Behandlungsleitung (OA/FA) + weitere Berufsgruppe
+(Pflegedienst, Atmungstherapie, Physiotherapie, Logopädie, Sozialdienst,
+Psychologie)
+1 x wöchentlich
+Alle Patienten mit invasiver Beatmung/nicht invasiver Beatmung; Weaning-
+Patienten
+Aktuelle Situation: Behandlung/Weaning
+Therapieplanung Folgewoche
+KontrolleWeaning-Dokumentation|
 |Teilnehmer||
 |||
 |||
@@ -145,24 +180,40 @@ Algorithmus zur protokollbasierten Beatmungsentwöhnung [1]
 
 |**Kriterien**||**Datenquelle**|
 |---|---|---|
-||Beatmung > 24 Stunden<br>Wegfall der Indikation zur Beatmung|Arzt|
+||Beatmung > 24 Stunden
+Wegfall der Indikation zur Beatmung|Arzt|
 |**Klinische Kriterien**|||
 ||||
-||FiO2≤ 0,4<br>Sauerstoffsättigung ≥ 90%<br>(≥ 85% bei chron. respir. Insuffizienz)<br>PEEP ≤ 8 cmH20/7,85 mbar (>1 h)<br>AMV < 15 l/min<br>AF < 35/min|PDMS|
+||FiO2≤ 0,4
+Sauerstoffsättigung ≥ 90%
+(≥ 85% bei chron. respir. Insuffizienz)
+PEEP ≤ 8 cmH20/7,85 mbar (>1 h)
+AMV < 15 l/min
+AF < 35/min|PDMS|
 |**Respiratorische Kriterien**|||
 ||||
-||RSBI = Atemfrequenz/Tidalvolumen in Litern<br>Ziel ist < 100–105 Atemzüge/min/l<br>Mittels RSBI kann mit einer Sensitivität von 97% und<br>Spezifität von 65% eine erfolgreiche SBT<br>vorausgesagt werden|PDMS|
+||RSBI = Atemfrequenz/Tidalvolumen in Litern
+Ziel ist < 100–105 Atemzüge/min/l
+Mittels RSBI kann mit einer Sensitivität von 97% und
+Spezifität von 65% eine erfolgreiche SBT
+vorausgesagt werden|PDMS|
 |**Rapid Shallow Breathing**|||
 |**Index (RSBI)**|||
 ||||
 ||||
-||Keine akute Myokardischämie, kein kardiogener<br>Schock|Arzt|
-||Keine exzessive Katecholamintherapie.<br>(erlaubt ist z.B. Noradrenalin/Adrenalin ≤ 0,2 µg/kg<br>KG/min, Dobutamin ≤ 5 µg/kg KG/min; PDE-III-Inhibitor<br>im Einzelfall) [2], ggf. RS OA/FA|PDMS|
+||Keine akute Myokardischämie, kein kardiogener
+Schock|Arzt|
+||Keine exzessive Katecholamintherapie.
+(erlaubt ist z.B. Noradrenalin/Adrenalin ≤ 0,2 µg/kg
+KG/min, Dobutamin ≤ 5 µg/kg KG/min; PDE-III-Inhibitor
+im Einzelfall) [2], ggf. RS OA/FA|PDMS|
 |**Hämodynamische Kriterien**|||
 ||||
-||Keine neu aufgetretene hämodynamisch relevante<br>Arrhythmie|Arzt|
+||Keine neu aufgetretene hämodynamisch relevante
+Arrhythmie|Arzt|
 ||RASS-Score 0 oder -1|PDMS|
-||ggf. GCS ≥ 8 bei neurochirurgischen/neurologischen<br>Patienten|PDMS|
+||ggf. GCS ≥ 8 bei neurochirurgischen/neurologischen
+Patienten|PDMS|
 |**Kriterium Wachheit**|||
 ||||
 ||Schutzreflexe(Husten und Schlucken)vorhanden|Arzt|
@@ -178,18 +229,36 @@ Algorithmus zur protokollbasierten Beatmungsentwöhnung [1]
 |**SBT durchführbar?**|||
 |**Spontanatmungsversuch 30**|Dokumentation nach 5,10,20 und 30 min|PDMS|
 |**min**|||
-||(Tubus/TK-ID ≥ 7 mm)<br>ASB: 5 cmH2O aktive Befeuchtung, kein ATC<br>bzw. 8 cmH2O (7,85 mbar) mit HME-Filter, kein<br>ATC<br>PEEP ≤ 8 cmH2O<br>Flowtrigger < 3 l/min<br>Alternativ: ASB auf 0 und ATC mit 100%|PDMS|
+||(Tubus/TK-ID ≥ 7 mm)
+ASB: 5 cmH2O aktive Befeuchtung, kein ATC
+bzw. 8 cmH2O (7,85 mbar) mit HME-Filter, kein
+ATC
+PEEP ≤ 8 cmH2O
+Flowtrigger < 3 l/min
+Alternativ: ASB auf 0 und ATC mit 100%|PDMS|
 |**Parameter für SBT**|||
 ||||
-||Klinische Beobachtung des Patienten durch Arzt in<br>Rücksprache mit Pflegekraft, ob Abbruchkriterien<br>erreicht.|Arzt/Pflege|
+||Klinische Beobachtung des Patienten durch Arzt in
+Rücksprache mit Pflegekraft, ob Abbruchkriterien
+erreicht.|Arzt/Pflege|
 |**Beurteilung des SBT**|||
 ||||
 
 |**Abbruchkriterien für SBT**|Wenn über mindestens 3 Minuten:||
 |---|---|---|
-||SpO2≥ 85% ≤ 90%<br>SpO2< 85%: Abbruch sofort<br>AF > 35/min oder < 7/min<br>RSBI (AF/Vt) > 105<br>HF ≥ 120/min, HF-Veränderung > 20%<br>syst. BD ≥ 180 mmHg oder BD-Veränderung ><br>20%|PDMS|
-||Vigilanzverminderung? RASS < -2<br>Stressreaktion? RASS ≥ +2|Arzt/Pflege|
-||SBT über 30 min erfolgreich<br>(= Abbruchkriterien nicht erfüllt)<br>BGA nach SBT: PaO2> 60 mmHg, pH > 7,32<br>Anstiegdes PaCO2< 15 mmHg|PDMS|
+||SpO2≥ 85% ≤ 90%
+SpO2< 85%: Abbruch sofort
+AF > 35/min oder < 7/min
+RSBI (AF/Vt) > 105
+HF ≥ 120/min, HF-Veränderung > 20%
+syst. BD ≥ 180 mmHg oder BD-Veränderung >
+20%|PDMS|
+||Vigilanzverminderung? RASS < -2
+Stressreaktion? RASS ≥ +2|Arzt/Pflege|
+||SBT über 30 min erfolgreich
+(= Abbruchkriterien nicht erfüllt)
+BGA nach SBT: PaO2> 60 mmHg, pH > 7,32
+Anstiegdes PaCO2< 15 mmHg|PDMS|
 |**Extubationskriterien**|||
 ||||
 
@@ -204,39 +273,65 @@ Nach einem gescheitertem SBT ist eine systematische Suche nach potenziell revers
 |**Respirator-Einstellung optimal?**||
 |Flow-Trigger-Einstellung|nicht > 2 l/min|
 |Druckanstiegszeit oder Rampe optimal?||
-|Auto-PEEP|Die Exspirationszeit reicht nicht für eine vollständige<br>Exspiration (Tidalvolumen oder Atemzeitverhältnis<br>anpassen?)|
+|Auto-PEEP|Die Exspirationszeit reicht nicht für eine vollständige
+Exspiration (Tidalvolumen oder Atemzeitverhältnis
+anpassen?)|
 |Bronchospasmus|Beta-2-Antagonisten|
 |**Respiratorische Insuffizienz?**||
 |(Die Compliance bei lungengesunden, beatmeten Patienten beträgt 40-60 ml/mbar)||
-|Pneumonie/Atelektase|Leitlinien zur Behandlung ambulant erworbener und<br>nosokomialer Pneumonie [3,4]|
+|Pneumonie/Atelektase|Leitlinien zur Behandlung ambulant erworbener und
+nosokomialer Pneumonie [3,4]|
 |Lungenfibrose|CT-Thorax, Röntgen-Thorax,Thoraxsonographie|
 |Lungenödem (kardial/nicht kardial)|Evaluation/Therapie|
 |Pleuraergüsse|Thoraxsonographie|
 |Pulmonale Hämorrhagie|Röntgen-Thorax, BAL|
 |Erhöhter intraabdomineller Druck|Parazentese/Darmstimulation/Laparotomie|
 |**Kardiale Überbelastung?**||
-|Ischämie kann erst während des Weaning<br>auftreten, weil die Spontanatmung zu<br>intrathorakal negativem Druck, damit<br>gesteigertem Cardiac Venous Return, und<br>linksventrikulärem Afterload führt|Nach Brustschmerzen fragen / ggf. Herzenzyme<br>messen / EKG schreiben|
-|Die kardiale Belastung kann durch Weaning<br>per se erhöht werden|Ziel SvO2> 70%; ScVO2≥ 65%;<br>Laktat ≤ 2 mmol/l (18 mg(dl)<br>(im Einzelfall abweichende Werte tolerabel) [5]|
+|Ischämie kann erst während des Weaning
+auftreten, weil die Spontanatmung zu
+intrathorakal negativem Druck, damit
+gesteigertem Cardiac Venous Return, und
+linksventrikulärem Afterload führt|Nach Brustschmerzen fragen / ggf. Herzenzyme
+messen / EKG schreiben|
+|Die kardiale Belastung kann durch Weaning
+per se erhöht werden|Ziel SvO2> 70%; ScVO2≥ 65%;
+Laktat ≤ 2 mmol/l (18 mg(dl)
+(im Einzelfall abweichende Werte tolerabel) [5]|
 
 |**Neuromuskuläre Aspekte, Insuffizienz der Atemmuskelpumpe?**|**Neuromuskuläre Aspekte, Insuffizienz der Atemmuskelpumpe?**|
 |---|---|
-|Gestörter zentraler Atemantrieb|Sedativa; zerebrale Pathologie:<br>Hirnstamminfarkt/-ischämie<br>Blutung<br>Meningitis/Enzephalitis<br>Metabolische Alkalose (Diuretika, Abführmittel,<br>Erbrechen,Durchfall)|
-|Delir|Leitlinie Analgesie, Sedierung und Delirmanagement in<br>der Intensivmedizin[6]|
+|Gestörter zentraler Atemantrieb|Sedativa; zerebrale Pathologie:
+Hirnstamminfarkt/-ischämie
+Blutung
+Meningitis/Enzephalitis
+Metabolische Alkalose (Diuretika, Abführmittel,
+Erbrechen,Durchfall)|
+|Delir|Leitlinie Analgesie, Sedierung und Delirmanagement in
+der Intensivmedizin[6]|
 |Angst/Depression|Involvierungder Stations-Psychologen anregen|
-|Myogen: z.B. Muskelatrophie,<br>ventilatorinduzierte diaphragmale<br>Dysfunktion (VIDD), Critical Illness<br>Polyneuropathy / Critical Illness Myopathy<br>(CiP/CiM)|Neurologische Mitbeurteilung; EMG +/-; Muskelbiopsie|
+|Myogen: z.B. Muskelatrophie,
+ventilatorinduzierte diaphragmale
+Dysfunktion (VIDD), Critical Illness
+Polyneuropathy / Critical Illness Myopathy
+(CiP/CiM)|Neurologische Mitbeurteilung; EMG +/-; Muskelbiopsie|
 |**Stoffwechsel?**||
 |Hypophosphatämie|Kaliumphosphat/Natriumphosphat|
 |Hypomagnesämie|Magnesiumsulfat|
 |Hypokalämie|Kalium|
 |Hypothyreose|Thyroxin|
 |Hypoalimentation (BMI < 20 kgKG/m2)|Leitlinie Klinische Ernährung in der Intensivmedizin [7]|
-|Anämie|Bei Patienten im prolongierten Weaning von der<br>Beatmung soll keine grundsätzliche Anhebung<br>des Hb-Werts auf > 10 g/dl vorgenommen werden, ein<br>Ziel-Hb zwischen 7 und 9 g/dl (4,34–5,59 mmol/l)<br>sollte angestrebt werden.(Einzelfallentscheidung) [8,9]|
+|Anämie|Bei Patienten im prolongierten Weaning von der
+Beatmung soll keine grundsätzliche Anhebung
+des Hb-Werts auf > 10 g/dl vorgenommen werden, ein
+Ziel-Hb zwischen 7 und 9 g/dl (4,34–5,59 mmol/l)
+sollte angestrebt werden.(Einzelfallentscheidung) [8,9]|
 
 **Tabelle 5** . Reevaluation nach 24 Stunden 
 
 |**Parameter**|**Anmerkung**|
 |---|---|
-|Erfolgreiche Extubation?|Keine Reintubation aufgrund respiratorischer<br>Erschöpfung innerhalb von 24 h|
+|Erfolgreiche Extubation?|Keine Reintubation aufgrund respiratorischer
+Erschöpfung innerhalb von 24 h|
 |Nicht invasive Beatmung erforderlich?|ja/nein|
 
 ## **5.2 Beatmungsentwöhnung** 
