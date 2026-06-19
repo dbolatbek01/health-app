@@ -6,42 +6,25 @@
 
 Geltungsbereich: Mitarbeiter in klinischen Studien des DHZC 
 
-## **Inhaltsverzeichnis** 
-
-|1|Ziel .................................................................................................................................................. 3|
 |---|---|
-|2|Prozessverantwortliche Person/Abteilung ........................................................................................ 3|
-|3|Geltungsbereich / Zielgruppe ........................................................................................................... 3|
-|4|Begriffsdefinitionen .......................................................................................................................... 3|
-|5|Prozessbeschreibung ...................................................................................................................... 4|
-|5.1|Erstellung von Systemzugängen ....................................................................................................... 4|
-|5.2|Verwaltung von Systemzugängen ..................................................................................................... 4|
-|5.3|Schulungen ...................................................................................................................................... 4|
-|5.4|Überwachung und Zugriffskontrolle ................................................................................................... 5|
-|5.5|Änderungen von Systemzugänge/-rechte.......................................................................................... 5|
-|5.6|Entzug von Zugangsrechten ............................................................................................................. 5|
-|5.7|Dokumentation ................................................................................................................................. 6|
-|6|Mitgeltende Dokumente ................................................................................................................... 6|
-|7|Anlagen ........................................................................................................................................... 6|
-|8|Änderungshistorie ............................................................................................................................ 6|
 
 **Verwaltung von eCRF und anderen Systemzugängen im Rahmen einer klinischen Studie aus der Perspektive eines Prüfzentrums (Verwaltung e- CRF-/Systemzugänge) - PS-SOP-DA-01** 
 
 Geltungsbereich: Mitarbeiter in klinischen Studien des DHZC 
 
-## **1 Ziel** 
+# **1 Ziel**
 
 Diese SOP beschreibt die Verfahren zur Verwaltung von personengebundenen Nutzerzugängen zu elektronischen Case Report Forms (eCRF) und anderen studienspezifischen Systemzugängen im Rahmen einer klinischen Studie aus der Perspektive eines Prüfzentrums. Ziel ist es, die Datensicherheit zu gewährleisten, den Zugang zu klinischen Studiensystemen zu regulieren und die Einhaltung regulatorischer Anforderungen sicherzustellen. 
 
-## **2 Prozessverantwortliche Person/Abteilung** 
+# **2 Prozessverantwortliche Person/Abteilung**
 
 Als prozessverantwortliche Person fungiert der lokal verantwortliche Hauptprüfer der klinischen Studie. 
 
-## **3 Geltungsbereich / Zielgruppe** 
+# **3 Geltungsbereich / Zielgruppe**
 
 Diese SOP gilt standortübergreifend für alle Mitarbeiter einer Prüfstelle, die an der Durchführung klinischer Studien beteiligt sind und Zugriff auf eCRF oder andere Studienverwaltungssysteme haben. 
 
-## **4 Begriffsdefinitionen** 
+# **4 Begriffsdefinitionen**
 
 |**Investigator-Initiated**
 **Trial (IIT)**|Eine Investigator-Initiated Trial (IIT) bezeichnet eine klinische Untersu-
@@ -88,9 +71,9 @@ durch Aufsichtsbehörden.|
 
 Geltungsbereich: Mitarbeiter in klinischen Studien des DHZC 
 
-## **5 Prozessbeschreibung** 
+# **5 Prozessbeschreibung**
 
-## **5.1 Erstellung von Systemzugängen** 
+## **5.1 Erstellung von Systemzugängen**
 
 Jeder Mitarbeiter, der Zugriff zu einem studienspezifischen System benötigt, muss diesen beim Sponsor der Studie beantragen und genehmigen lassen. 
 
@@ -104,7 +87,7 @@ Es ist sicherzustellen, dass die Systemzugänge in Übereinstimmung mit den im D
 
 Studienkoordination 
 
-## **5.2 Verwaltung von Systemzugängen** 
+## **5.2 Verwaltung von Systemzugängen**
 
 Alle aktiven und inaktiven Systemzugänge sind in einer studienspezifischen Übersicht zu dokumentieren. Die Übersicht zu den Systemzugängen ist dem ISF zuzuführen und dort zu verwalten. 
 
@@ -128,7 +111,7 @@ Studienkoordination
 
 - Datum Inaktivierung 
 
-## **5.3 Schulungen** 
+## **5.3 Schulungen**
 
 In der Regel werden die benötigten Studiensysteme vom Sponsor bereitgestellt. Die Verantwortung für die Organisation und Durchführung der Schulungsmaßnahmen liegt beim Sponsor, der die Gestaltung und Methodik der Schulung eigenständig festlegt (bspw. Schulung im Rahmen der Studieninitiierung, Selbsttraining, Onlineschulung). 
 
@@ -149,11 +132,11 @@ Studienkoordination
 
 **CAVE:** In Abhängigkeit des Sponsors kann ein erneutes und vollständiges Training zu den Studiensystemen trotzdem erforderlich sein. An dieser Stelle gelten die Vorgaben des Sponsors. 
 
-## **5.4 Überwachung und Zugriffskontrolle** 
+## **5.4 Überwachung und Zugriffskontrolle**
 
 Die Überwachung und Zugriffskontrolle wird über den Sponsor gesteuert. 
 
-## **5.5 Änderungen von Systemzugänge/-rechte** 
+## **5.5 Änderungen von Systemzugänge/-rechte**
 
 Änderungen der Zugangsrechte müssen grundsätzlich beantragt und genehmigt werden. 
 
@@ -165,7 +148,7 @@ Es wird darauf hingewiesen, dass Änderungen der Systemzugänge/rechte stets in 
 
 Studienkoordination Studienkoordination 
 
-## **5.6 Entzug von Zugangsrechten** 
+## **5.6 Entzug von Zugangsrechten**
 
 Beim Ausscheiden eines Mitarbeiters oder bei Beendigung der StudienStudienmitarbeit ist der Sponsor oder der zuständige Monitor unverzüglich zu bekoordination nachrichtigen, damit die Deaktivierung des Systemzugangs veranlasst werden kann. 
 
@@ -204,35 +187,17 @@ Eine Bestätigung zum Entzug der Zugangsrechte unter Angabe des letzStudienten S
 
 **CAVE:** Die Dringlichkeit ist gegenüber dem Sponsor nachdrücklich zu kommunizieren. Sollte innerhalb einer Frist von 7 Tagen keine Rückmeldung erfolgen, ist der Sponsor erneut an die Bestätigung zu erinnern. 
 
-## **5.7 Dokumentation** 
+## **5.7 Dokumentation**
 
 Alle Anträge auf Systemzugänge, Genehmigungen, Schulungsnachweise und Änderungen werden dokumentiert und im ISF aufbewahrt. Verantwortlich hierfür ist die Studienkoordination. 
 
-## **6 Mitgeltende Dokumente** 
+# **6 Mitgeltende Dokumente**
 
 Keine. 
 
-## **7 Anlagen** 
+# **7 Anlagen**
 
 Anlage 1: Log Systemzugänge (PS-TP-DA-01) 
-
-## **8 Änderungshistorie** 
-
-|Version|Änderungsgrund bzw. Kurzbeschreibung (Abschnitt) der Änderungen|
-|---|---|
-|V01|
-Ersterstellung|
-|V02|
-Änderung der SOP nur aus Sicht des Prüfzentrums, weitere Anpassungen an Do-
-kumentenlenkung und GCP Vorgaben, Anlage 1 neu hinzugefügt|
-
-Alle Anpassungen an dieser SOP werden lückenlos im Excel-Änderungsprotokoll (Formblatt FATP-QM-02) dokumentiert. 
-
-**Verwaltung von eCRF und anderen Systemzugängen im Rahmen einer klinischen Studie aus der Perspektive eines Prüfzentrums (Verwaltung e- CRF-/Systemzugänge) - PS-SOP-DA-01** 
-
-Geltungsbereich: Mitarbeiter in klinischen Studien des DHZC 
-
-Die aktuelle Version des Änderungsprotokolls ist gemeinsam mit dieser SOP im zentralen QMRepository (\DHZC\FO\Studien\Studienzentrale\0-FS-QMS) abgelegt. Bei jeder Überarbeitung ist das Protokoll vor Freigabe zu aktualisieren und zusammen mit der neuen SOP-Version einzureichen. Vorherige Versionen des Änderungsprotokolls bleiben archiviert und sind für Audits mindestens 10 Jahre elektronisch verfügbar. 
 
 ## **Log Systemzugänge** 
 

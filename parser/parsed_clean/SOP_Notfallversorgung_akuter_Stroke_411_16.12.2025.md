@@ -16,23 +16,23 @@ Die wichtigsten Änderungen:
 
 - Anpassung von Standorten und Inhalten der Notfalltasche „Stroke“ 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Die nachfolgende SOP regelt die zeitkritische Notfallversorgung von Schlaganfallpatient:innen. 
 
-## **2. Hintergrund** 
+# **2. Hintergrund**
 
 Ein akuter Schlaganfall stellt einen medizinischen Notfall dar, der eine sofortige diagnostische und therapeutische Intervention erfordert. Die Prognose der Patientin bzw. des Patienten hängt maßgeblich von der Zeit bis zur Reperfusion ab. Evidenzbasierte Therapien wie die intravenöse Thrombolyse und die mechanische Thrombektomie sind an enge Zeitfenster gebunden. Eine frühzeitige Detektion von Schlaganfallsymptomen, eine strukturierte Versorgungskette und die rasche Durchführung bildgebender Diagnostik sind daher essenziell, um neurologische Defizite zu minimieren und funktionelle Unabhängigkeit zu erhalten. 
 
 **Notfallversorgung bei akutem Stroke** 
 
-## **3. Versorgungsalgorithmus** 
+# **3. Versorgungsalgorithmus**
 
 **Notfallversorgung bei akutem Stroke** 
 
 Geltungsbereich: HTG, CAI, Kardiologie, ICM 
 
-## **3.1** 
+# **3.1**
 
 ## **Relevante Telefonnummern / Anmeldeprocedere** 
 
@@ -61,13 +61,13 @@ MTR am CT1||
 
 Die elektronische Anmeldung erfolgt im SAP-System. Für Anmeldungen am Standort Augustenburger Platz muss die elektronische Anforderung über „DHZC CVK Kardio-Bildgeb.-CT“. erfolgen und für den Standort Charité CVK „CVK Akut CT Neuroradiologie“. 
 
-## **3.2 SPI-Score („structured post-interventional assessment”)** 
+## **3.2 SPI-Score („structured post-interventional assessment”)**
 
 Der SPI-Score wurde von der Abteilung für Neurologie am CVK der Charité speziell für die postinterventionelle und postoperative Detektion von Schlaganfallsymptomen (sogenannter „Wake-up Stroke“ mit unklarem Onset) entwickelt. Im Gegensatz zu herkömmlichen Assessment-Tools erlaubt seine Struktur auch eine zuverlässige Beurteilung bei immobilen Patienten, bei solchen mit gesichertem Atemweg (Tubus/Trachealkanüle) und fehlender Sprachfähigkeit oder bestehendem Narkoseüberhang. Bei auffälligen Befunden in den Bereichen Pupillenreaktion, Augenbewegung, Sprache, Sehvermögen oder Motorik der Extremitäten (siehe Score-Abbildung) ist umgehend der neurologische Dienst telefonisch im Rahmen eines „Stroke-Alarms“ zu kontaktieren. 
 
 **Notfallversorgung bei akutem Stroke** 
 
-## **3.3 National Institutes of Health Stroke Scale (NIHSS)** 
+## **3.3 National Institutes of Health Stroke Scale (NIHSS)**
 
 Der NIHSS gilt als Goldstandard zur Beurteilung des Schweregrads eines akuten Schlaganfalls. Die Skala umfasst 11 standardisierte Tests zu neurologischen Funktionen wie Bewusstsein, Sprache, Motorik, Sensibilität und Koordination. Jeder Funktionsbereich wird mit Punkten bewertet, wobei die Gesamtsumme von 0 (kein Defizit) bis 42 (schwerste Ausfälle) reicht. 
 
@@ -75,7 +75,7 @@ Der NIHSS gilt als Goldstandard zur Beurteilung des Schweregrads eines akuten Sc
 
 Geltungsbereich: HTG, CAI, Kardiologie, ICM 
 
-## **3.4 Notfalltasche „Stroke“** 
+## **3.4 Notfalltasche „Stroke“**
 
 Standort für DHZC-Bereiche Augustenburger Platz: Station WD1i 
 
@@ -97,7 +97,7 @@ Standort für DHZC-Bereiche Mittelallee: Chirurgische Rettungsstelle am CVK
 
 - NaCl 0,9%ige Fertigspritzen (5ml): 2x 
 
-## **3.5 Applikation von TNK = Tenectplase (Metalyse®)** 
+## **3.5 Applikation von TNK = Tenectplase (Metalyse®)**
 
 - Zubereitung: 1 Ampulle mit 25mg (5000IE) mit 5ml Aqua dest. durch vorsichtiges Schwenken auflösen und erforderliches Volumen der Metalyse®-Lösung in 5ml-Spritze aufziehen 
 
@@ -125,7 +125,7 @@ Standort für DHZC-Bereiche Mittelallee: Chirurgische Rettungsstelle am CVK
 |≥90|5000
 25|5,0|
 
-## **4. Referenzen** 
+# **4. Referenzen**
 
 Berger, K., Weltermann, B., Kolominsky-Rabas, P., Meves, S., Heuschmann, P., Böhner, J., Neundörfer, B., Hense, H. W., & Büttner, T. (1999). Untersuchung zur Reliabilität von Schlanganfallskalen. Die deutschen Versionen von NIHSS, ESS und Rankin Scale [The reliability of stroke scales. The german version of NIHSS, ESS and Rankin scales]. Fortschritte der Neurologie-Psychiatrie, 67(2), 81–93. https://doi.org/10.1055/s-2007-993985 
 

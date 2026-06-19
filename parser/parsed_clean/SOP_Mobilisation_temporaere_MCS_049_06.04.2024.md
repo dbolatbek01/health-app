@@ -7,24 +7,13 @@ Mobilisation bei temporären mechanischen Kreislaufunterstützungssystemen (Mobi
 
 Intensivstationen Standort CVK Augustenburger Platz/Mittelallee 
 
-## **Inhaltsverzeichnis** 
-
-|Änderungen zu Version 1.0 .......................................................................................................................... 3|Änderungen zu Version 1.0 .......................................................................................................................... 3|
 |---|---|
-|1.|Hintergrund und Ziel ........................................................................................................................ 3|
-|2.|Geltungsbereich, Zielgruppe ........................................................................................................... 3|
-|3.|Durchführungsvorgaben .................................................................................................................. 3|
-|4.|Allgemeine Vorgaben ...................................................................................................................... 3|
-|5.|Kontraindikationen ........................................................................................................................... 3|
-|6.|Mobilisation bei ECMO .................................................................................................................... 4|
-|7.|Mobilisation bei temporärem RVAD ................................................................................................ 4|
-|8.|Mitgeltende Dokumente ................................................................................................................... 4|
 
 ## **Änderungen zu Version 1.0** 
 
 Titeländerung: Mobilisation bei temporären mechanischen Kreislaufunterstützungssystemen (tMCS) 
 
-## **1. Hintergrund und Ziel** 
+# **1. Hintergrund und Ziel**
 
 Bei Patienten mit extrakorporaler temporärer Kreislaufunterstützung (tMCS) sind Physiotherapie und Mobilisation wichtige Komponenten der Intensivtherapie. Eine gute körperliche Kondition erleichtert das Entwöhnen von der extrakorporalen Unterstützung und führt, insbesondere für herzchirurgische Patienten, zu einer Verkürzung des Intensiv- und Krankenhausaufenthalts (siehe S3-Leitlinie Einsatz der extrakorporalen Zirkulation (ECLS/ECMO) bei Herz- und Kreislaufversagen[1] ). 
 
@@ -32,11 +21,11 @@ Die vorliegende SOP dient der Vereinheitlichung und besseren Darstellung der Mob
 
 Für die Versorgung von Patienten mit dauerhaften Herzunterstützungssystemen gelten die Regelungen der SOP143 Postoperative Versorgung nach VAD-Implantation. 
 
-## **2. Geltungsbereich, Zielgruppe** 
+# **2. Geltungsbereich, Zielgruppe**
 
 Intensivstationen am DHZC Standort CVK AP/MA (WD1i, WD2i, WD3U und I (Impella-Patienten), W1i, W47i): Mitarbeitende Arztdienst, Pflegedienst, Physiotherapie. Für die Umsetzung sind die Oberärzte, Stationsärzte und Stationsleitungen verantwortlich. 
 
-## **3. Durchführungsvorgaben** 
+# **3. Durchführungsvorgaben**
 
 - Die Durchführung der physiotherapeutischen/pflegerischen Mobilisationsaktivität erfolgt nur bei vorheriger elektronischer Anmeldung durch den Arzt (Klinischer Auftrag). 
 
@@ -50,13 +39,13 @@ Intensivstationen am DHZC Standort CVK AP/MA (WD1i, WD2i, WD3U und I (Impella-Pa
 
 er dazu zu holen. 
 
-## **4. Allgemeine Vorgaben** 
+# **4. Allgemeine Vorgaben**
 
 - Beachtung der medikamentösen Therapie und Berücksichtigung vom Allgemeinzustand des Patienten. 
 
 - Beachtung der eigenen Grenzen der Durchführungsverantwortung. 
 
-## **5. Kontraindikationen** 
+# **5. Kontraindikationen**
 
 - Bei flottierenden Thromben in den Kanülen und/oder Konnektoren: keine Mobilisation. 
 
@@ -66,7 +55,7 @@ er dazu zu holen.
 
 > 1 https://register.awmf.org/de/leitlinien/detail/011-021 
 
-## **6. Mobilisation bei ECMO** 
+# **6. Mobilisation bei ECMO**
 
 Die Art der Mobilisation richtet sich nach Art und Lage der Kanülen. Alle Kanülen, welche sich thorakal oder jugular befinden, sind ohne Einschränkung mobilisierbar. Bei Kanülenlage in der Leiste werden zwei Dinge unterschieden: 
 
@@ -106,7 +95,7 @@ venöse Kanüle liegt|
 |ECMELLA 2.1|Impella + arterielle Kanüle über Axillararterie, venöse
 Kanüle über v. jugularis am Hals|uneingeschränkt|
 
-## **7. Mobilisation bei temporärem RVAD** 
+# **7. Mobilisation bei temporärem RVAD**
 
 Bei einem temporärem RVAD mit dualer Kanüle oder mit zwei Kanülen über die Pulmonalarterie mit Graft getunnelt und v. jugularis bezogen: 
 
@@ -118,7 +107,7 @@ er durchzuführen.
 
 - Bei einem temporärem RVAD mit zwei Kanülen über die Pulmonalarterie mit Graft getunnelt und v. jugularis: Mobilisation bis zum Stand und Laufen möglich, da in der Leiste nur eine venöse Kanüle liegt. 
 
-## **8. Mitgeltende Dokumente** 
+# **8. Mitgeltende Dokumente**
 
 SOP143 Postoperative Versorgung nach VAD-Implantation 
 

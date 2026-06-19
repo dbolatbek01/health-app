@@ -7,13 +7,13 @@ Prävention von Wundinfektionen nach herzchirurgischen Eingriffen
 
 Alle Standorte:  alle OP-Bereiche und alle Stationen, die Patienten in den OP verlegen 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Ziel dieser SOP ist eine strukturierte Darstellung der Maßnahmen zur Prävention von Wundinfektionen im Operationsgebiet, im englischsprachigen Schrifttum als Surgical Site Infections (SSI) bezeichnet, der wichtigsten nosokomialen Infektion nach herzchirurgischen Eingriffen. 
 
 Für das DHZC gelten die aktuellen krankenhaushygienischen Standards der Versorgung, die das Institut für Hygiene und Umweltmedizin der Charité im Leitfaden der Krankenhaushygiene festlegt. 
 
-## **2. Präoperative Maßnahmen** 
+# **2. Präoperative Maßnahmen**
 
 **Patientenaufklärung**  Verhalten nach Sternotomie ( z.B. Faltblatt) 
 
@@ -39,7 +39,7 @@ Bei bekannter MRSA-Anamnese:
 
 Chlorhexidin-Waschhandschuhe Turixin®-Nasensalbe Mundspülung mit Chlorhexidin 
 
-## **3. Intraoperative Maßnahmen** 
+# **3. Intraoperative Maßnahmen**
 
 **Perioperative**  siehe SOP533 Perioperative antimikrobielle Prophylaxe **Antibiotikaprophylaxe** 
 
@@ -121,7 +121,7 @@ Chlorhexidin-Waschhandschuhe Turixin®-Nasensalbe Mundspülung mit Chlorhexidin
 
    - Wickeln der Beine und belassen der Kompression bis zur Ankunft auf der Intensivstation außer bei ausgeprägter pAVK; hier besser lokaler Druckverband mit Kompressen 
 
-## **4. Postoperative Maßnahmen** 
+# **4. Postoperative Maßnahmen**
 
 **Ggf. zusätzlich** 
 
@@ -147,7 +147,7 @@ Chlorhexidin-Waschhandschuhe Turixin®-Nasensalbe Mundspülung mit Chlorhexidin
 
 - Verhalten nach Sternotomie 
 
-## **5. Prophylaktische Maßnahmen bei Risiko-Patienten für eine sternale Wundheilungsstörung/-infektion (BMI ≥ 30, Osteoporose des Sternums)** 
+# **5. Prophylaktische Maßnahmen bei Risiko-Patienten für eine sternale Wundheilungsstörung/-infektion (BMI ≥ 30, Osteoporose des Sternums)**
 
 ## **Intraoperativ** 
 
@@ -163,7 +163,7 @@ Chlorhexidin-Waschhandschuhe Turixin®-Nasensalbe Mundspülung mit Chlorhexidin
 
 - Stütz-BH 
 
-## **6. Literatur** 
+# **6. Literatur**
 
 Empfehlungen der Kommission für Krankenhaushygiene und Infektionsprävention (KRINKO) Prävention postoperativer Wundinfektionen (2018). Bundesgesundheitsbl 2018;61:448-73. https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/Tabelle_Wundinf.html 
 
@@ -179,7 +179,7 @@ AATS Expert Consensus (2016) Lazar HL et al. Prevention and Management of Sterna
 
 WHO Global guidelines for the prevention of surgical site infection. 2nd Ed. 2018. https://www.who.int/publications/i/item/9789241550475 
 
-## **7. Mitgeltende Dokumente** 
+# **7. Mitgeltende Dokumente**
 
 SOP533 Perioperative und periinterventionelle antimikrobielle Prophylaxe (PAP) SOP371 Präoperative Dekolonisationsbehandlung vor elektiver Herzchirurgie Leitfaden der Krankenhaushygiene 
 

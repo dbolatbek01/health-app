@@ -13,32 +13,9 @@ Arztdienst, Pflegedienst auf der Intensivstation
 
 Flussdiagramm Schwieriger Atemweg 
 
-Änderungshistorie
-Version  Erstellt
 5.0  15.12.2021  Überarbeitung  31.12.2022
-**----- End of picture text -----**
 
-
-## **Inhaltsverzeichnis** 
-
-|Änderungen zu Version 4.0 .......................................................................................................................... 3|Änderungen zu Version 4.0 .......................................................................................................................... 3|
 |---|---|
-|Mitgeltende Dokumente und Verweisungen................................................................................................. 4||
-|1.|Indikation und Kommunikation ........................................................................................................ 4|
-|2.|Vorbereitung .................................................................................................................................... 4|
-|2.1|Evaluation des Atemwegs vor Intubation ........................................................................................ 4|
-|2.2|Nüchternheit .................................................................................................................................... 5|
-|2.3|Präoxygenierung .............................................................................................................................. 5|
-|2.4|Lagerung .......................................................................................................................................... 5|
-|2.5|Personal ........................................................................................................................................... 5|
-|2.6|Materialien ....................................................................................................................................... 5|
-|2.7|Medikamente ................................................................................................................................... 6|
-|3.|Durchführung ................................................................................................................................... 6|
-|4.|Fehlschlagen eines Intubationsversuchs......................................................................................... 7|
-|5.|Weiterführende Literatur .................................................................................................................. 7|
-|6.|Quellen............................................................................................................................................. 7|
-|7.|Inkrafttreten ...................................................................................................................................... 7|
-|Flussdiagramm „Schwieriger Atemweg“ ....................................................................................................... 8||
 
 ## **Änderungen zu Version 4.0** 
 
@@ -50,7 +27,7 @@ Die Version 5.0 ersetzt vollständig die Version 4.0 vom 05.01.2021.
 
 S1 Leitlinie Atemwegsmanagement. AWMF-Register Nr. 001-028. 
 
-## **1. Indikation und Kommunikation** 
+# **1. Indikation und Kommunikation**
 
 Die Indikation zur Intubation wird gemeinsam mit dem zuständigen Oberarzt bzw. dem Schichtleiter gestellt. Hierzu zählen unter anderem die respiratorische Insuffizienz und der Verlust der Schutzreflexe mit dem Risiko einer Aspiration. 
 
@@ -58,11 +35,11 @@ Wurde die Entscheidung zu einer Intubation getroffen, muss diese mit der zustän
 
 Der Oberarzt bzw. die Schichtleitung organisiert, dass ein erfahrener Kollege im Management des schwierigen Atemwegs vorab informiert ist und möglichst jederzeit eingreifen kann. 
 
-## **2. Vorbereitung** 
+# **2. Vorbereitung**
 
 Sofern der Patient kontaktfähig ist, wird dieser über das Vorhaben und den Ablauf informiert und das mündliche Einverständnis eingeholt. Angehörige sollten zeitnah informiert werden. 
 
-## **2.1 Evaluation des Atemwegs vor Intubation** 
+## **2.1 Evaluation des Atemwegs vor Intubation**
 
 Vor jeder geplanten Sedierung muss der Atemweg nach Prädiktoren für Schwierigkeiten untersucht werden, hierzu zählen: 
 
@@ -90,27 +67,27 @@ Durch Schleimhautödeme und eingeschränkte Lagerungsmöglichkeiten kann die Sic
 
 Liegen zusätzliche Hinweise auf einen schwierigen Atemweg vor, muss der zuständige Oberarzt bzw. der Schichtleiter informiert werden und ein in der Sicherung der Atemwege erfahrener Kollege hinzugezogen und dem Flussdiagramm Schwieriger Atemweg (Anlage) gefolgt werden. 
 
-## **2.2 Nüchternheit** 
+## **2.2 Nüchternheit**
 
 In der Regel müssen kritisch kranke Patienten auf der Intensivstation als nicht nüchtern angesehen werden. Bei laufender enteraler Ernährung muss diese beendet, der Magen über eine Magensonde entleert werden. 
 
 Bei einer planbaren Intubation muss die Ernährung für 6 Stunden unterbrochen sein. Klare Flüssigkeit wie Wasser oder Tee können bis zu 2 Stunden vor der Intubation zu sich genommen werden. 
 
-## **2.3 Präoxygenierung** 
+## **2.3 Präoxygenierung**
 
 Eine Präoxygenierung mit einer FiO2 von 100 % ist bei jedem Patienten möglichst frühzeitig (also nach Indikationsstellung) zu beginnen und dient der Verlängerung der Apnoetoleranz. Es ist auf eine dicht sitzende Maske zu achten. 
 
-## **2.4 Lagerung** 
+## **2.4 Lagerung**
 
 Der optimale Zugang zum Patienten für Arzt und Pflegekraft muss vor Einleitung hergestellt werden. Für optimale Intubationsbedingungen sollte der Oberkörper leicht erhöht und der Kopf in JacksonPosition gelagert sein. Eine Flachlagerung des Kopfes ist regelhaft hinderlich! 
 
-## **2.5 Personal** 
+## **2.5 Personal**
 
 Die Intubation wird durch einen entsprechend ausgebildeten Arzt durchgeführt; die Entscheidung hierüber trifft der Oberarzt, bzw. der Schichtleiter. Sollte kein in der Intubation sowie der Anwendung alternativer Atemwegshilfen erfahrener Arzt anwesend sein, ist zur Unterstützung der anästhesiologische Hausdienst hinzuzurufen. Alternativ kann der intensivmedizinische HintergrundOberarzt hinzugezogen werden, wenn dies die zeitliche Planung zulässt. Zur Unterstützung sind die zuständige Pflegekraft und eine weitere Pflegekraft am Patientenbett, wobei mindestens eine Erfahrung in der Sicherung des Atemwegs aufweisen muss. 
 
 Bei Hinweisen auf einen schwierigen Atemweg ist die Anwesenheit eines Anästhesisten erforderlich. Eine Einweisung in den Wagen „schwieriger Atemweg“ mit Vorstellung der vorliegenden SOP und Übung ist für das Personal auf der Intensivstation zu Arbeitsbeginn und im Verlauf jährlich verpflichtend. 
 
-## **2.6 Materialien** 
+## **2.6 Materialien**
 
 Das hämodynamische Monitoring muss angeschlossen sein (Blutdruckmessung, Pulsoxymetrie, EKG, Kapnographie bereithalten). Ein sicherer Venenzugang muss etabliert, kontrolliert und ausreichend fixiert sein. 
 
@@ -140,7 +117,7 @@ Vor Einleitung muss die Zuteilung der Aufgaben (z.B. Auskultation, Einstellung d
 
 - Cuffdruckmesser 
 
-## **2.7 Medikamente** 
+## **2.7 Medikamente**
 
 - Propofol 1 % / Etomidate nach Rücksprache 
 
@@ -160,7 +137,7 @@ Notfallmedikamente:
 
 Die Aufrechterhaltung der Narkose muss geplant und dementsprechend vorbereitet werden (z. B. Sufentanil- und Propofolperfusor). 
 
-## **3. Durchführung** 
+# **3. Durchführung**
 
 Der primäre Intubationsversuch auf Intensivstation durch Nicht-Anästhesisten erfolgt immer mit Hilfe eines Videolaryngoskops mit Macintosh-Spatel. 
 
@@ -170,7 +147,7 @@ Im Anschluss wird ein Röntgenbild der Thoraxorgane veranlasst und die Position 
 
 **Die Verifikation der endotrachealen Tubuslage mittels Kapnographie ist bei jeder Intubation obligat!** 
 
-## **4. Fehlschlagen eines Intubationsversuchs** 
+# **4. Fehlschlagen eines Intubationsversuchs**
 
 ## **Oberstes Ziel ist die Oxygenierung!** 
 
@@ -186,11 +163,11 @@ Nach Sicherung des Atemwegs wird in m.life das Problem mit Lösung beschrieben u
 
 **CAVE** : Bei der Extubation eines Patienten mit schwierigem Atemweg muss mit einer Re-Intubation gerechnet werden. Daher werden vor Extubation entsprechende Vorbereitungen für einen schwierigen Atemweg getroffen. Eine gründliche Evaluation der Extubationskriterien und die Rücksprache mit dem Oberarzt bzw. Schichtleiter sind obligat. 
 
-## **5. Weiterführende Literatur** 
+# **5. Weiterführende Literatur**
 
 NAP4: Major Complications of Airway Management in the United Kingdom 
 
-## **6.      Quellen** 
+# **6.      Quellen**
 
 1. Piepho T et al. S1 Leitlinie Atemwegsmanagement. AWMF-Register Nr. 001-028. https://www.awmf.org/leitlinien/detail/ll/001-028.html 
 
@@ -200,7 +177,7 @@ NAP4: Major Complications of Airway Management in the United Kingdom
 
 4. Jaber S et al. An intervention to decrease complications related to endotracheal intubation in the intensive care unit: a prospective, multiple-center study. Intensive Care Med 2010;36(2):248-55. https://link.springer.com/article/10.1007%2Fs00134-009-1717-8 
 
-## **7. Inkrafttreten** 
+# **7. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

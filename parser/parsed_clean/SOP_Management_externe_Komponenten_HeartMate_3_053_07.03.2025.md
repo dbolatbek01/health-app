@@ -3,7 +3,7 @@
 
 Management der externen Komponenten von HeartMate 3 (Ladestation und Netzteil) (HM3 UBC/MPU Tracking) 
 
-## **1. Hintergrund und Ziel** 
+# **1. Hintergrund und Ziel**
 
 Für den unterbrechungsfreien Betrieb eines lebenserhaltenden Herzunterstützungssystems ist die sichere Stromversorgung wichtigstes und entscheidendes Kriterium. 
 
@@ -23,13 +23,13 @@ Sie dient als Grundlage für Mietzahlungen an die Firma Abbott und zum Nachweis,
 
 Durch kontinuierliche Überwachung und Aktualisierung der Geräteliste soll sichergestellt werden, dass ein Verlust bzw. eine fehlende Zuordnung und damit Unauffindbarkeit von Geräten verhindert wird. 
 
-## **2. Prozessverantwortliche Person** 
+# **2. Prozessverantwortliche Person**
 
 Die Liste der Geräte (UBC/MPU) wird durch das VAD-Team/Technik erstellt 
 
-## **3. Prozessbeschreibung** 
+# **3. Prozessbeschreibung**
 
-## **3.1 Aufnahme neuer Patienten in die Liste bei Implantation** 
+## **3.1 Aufnahme neuer Patienten in die Liste bei Implantation**
 
 Die Geräte werden bei der Implantation vom anwesenden er dem Patienten physisch zugeordnet. Wird der Patient aus dem OP auf die Intensivstation verlegt, geht die Verantwortung für die Geräteausstattung des Patienten auf das VAD-Team über. 
 
@@ -37,11 +37,11 @@ Am Tag nach Kenntnisgabe über die Implantation nimmt das VAD-Team sämtliche Se
 
 Die Geräte werden mit einem Patientenadressaufkleber versehen, um sie eindeutig dem jeweiligen Patienten zuzuordnen, außerdem mit einem Aufkleber „Eigentum DHZC“ und einem Aufkleber mit der Telefonnummer der VAD-Hotline. 
 
-## **3.2 Änderungen bei Gerätewechsel** 
+## **3.2 Änderungen bei Gerätewechsel**
 
 Werden Geräte bei Patienten wegen Defekt oder Beschädigung ausgetauscht, muss dies in der Liste angepasst werden. Vorzugsweise sind zum Austausch Neugeräte oder im KT-Lager angelieferte Geräte zu verwenden, um eine Mehrfachzuordnung zu verschiedenen Patienten in den Listen zu vermeiden. Ausgenommen sind Notfälle, bei denen kein Zugriff auf Neugeräte möglich ist, sich Geräte im Übergangslager des VAD-Teams befinden und unverzügliches Handeln zur Patientenversorgung und/oder Patientensicherheit notwendig ist. 
 
-## **3.3 Stellen von Interimsgeräten** 
+## **3.3 Stellen von Interimsgeräten**
 
 Bei stationärer Aufnahme von Patienten, die ohne ihre Ladestation (UBC) gekommen sind, muss der Patient mit einer UBC aus dem DHZC versorgt werden. Dies gilt auch für eine vorübergehende (über Nacht) Aufnahme in der Rettungsstelle. 
 
@@ -61,13 +61,13 @@ Werden Akkus und/oder Ladestation von der an den Patienten ausgegeben, so ist da
 
 Die Seriennummer der leihweise ausgegebenen Ladestation wird vom VAD-Team in der „Laufliste“ als Zusatzgerät eingetragen. 
 
-## **3.4 Rücklieferung von nicht mehr benötigten Geräten** 
+## **3.4 Rücklieferung von nicht mehr benötigten Geräten**
 
 Werden Geräte von Patienten oder Angehörigen zurückgegeben (defekt / beschädigt / Patient verstorben, transplantiert oder vom LVAD entwöhnt), wird der Hersteller (Abbott) umgehend zur Abholung dieser informiert. Dies erfolgt grundsätzlich auch bei Neugeräten, die nicht oder nur kurz zum Einsatz gekommen sind, aber bereits in der Liste erfasst wurden. 
 
-## **4. Kontrollen** 
+# **4. Kontrollen**
 
-## **4.1 Inventur (jährlich)** 
+## **4.1 Inventur (jährlich)**
 
 Der Hersteller (Abbott) führt jährlich eine Inventur aller Geräte auf seiner Bestandsliste für das DHZC durch. Neben der physischen Kontrolle der in der Klinik befindlichen Geräte erfolgt ein Abgleich der Bestandsliste (Abbott) mit den auf der Laufliste dokumentierten Geräten im Patientenbesitz. 
 
@@ -75,19 +75,19 @@ Lassen sich Geräte auf der Bestandsliste des Herstellers weder physisch in der 
 
 Ergibt die Überprüfung einen Verlust, gilt Pkt. 6. 
 
-## **4.2 Abgleich der Liste mit Serviceprotokoll des Servicetechnikers (halbjährlich)** 
+## **4.2 Abgleich der Liste mit Serviceprotokoll des Servicetechnikers (halbjährlich)**
 
 Jährlich findet ein Service durch einen Techniker des Herstellers (Abbott) beim Patienten vor Ort zu Hause statt. Dabei werden die Seriennummern der gewarteten Geräte mit Zuordnung zu den Patienten erfasst. Eine Aufstellung der überprüften Geräte wird jährlich im Halbjahreszwischenraum zwischen den regulären Inventuren des Herstellers angefordert und die Liste auf Unstimmigkeiten bei der Gerätezuordnung kontrolliert. 
 
 Somit besteht eine halbjährliche Überprüfungsmöglichkeit des Gerätebestandes. 
 
-## **5. Zusätzliche unterstützende Maßnahmen** 
+# **5. Zusätzliche unterstützende Maßnahmen**
 
 Bei der obligaten Schulung des Patienten in die Handhabung der Geräte ist explizit darauf hinzuweisen, dass die Geräte bei geplanten und ungeplanten (Notfall, Besuch der Rettungsstelle) stationären Aufenthalten immer mitzubringen sind. 
 
 Die nur bedingte Wirksamkeit dieser Maßnahme ist bekannt: wenn der Patient nicht handlungsfähig ist und unterstützendes Personal (Rettungssanitäter, Begleitpersonen etc.) keine Kenntnis von der Notwendigkeit haben, die Geräte mitzuführen oder der Vorgabe nicht Folge leisten. 
 
-## **6. Verlust von Geräten** 
+# **6. Verlust von Geräten**
 
 Durch die vorbeschriebenen Kontrollen werden Unstimmigkeiten festgestellt. Können trotz Nachforschungen und Nachfragen bei Patienten und Angehörigen mit einer Seriennummer erfasste Geräte nicht aufgefunden werden, müssen diese als Verlust geführt werden. Die irreparable Beschädigung eines Geräts wird wie ein Verlust geführt. 
 
@@ -95,7 +95,7 @@ Die Verlustmeldung wird dem Hersteller und der Kaufmännischen Direktion übermi
 
 Ziel ist die umgehende Regulierung, um eine Kumulation und damit finanzielle Belastungen in größerer Höhe zu vermeiden. 
 
-## **7. Sicherung der Liste** 
+# **7. Sicherung der Liste**
 
 Die Liste ist monatlich unter dem vergebenen Datei-Namen mit zusätzlicher Datumskennzeichnung zu sichern, um bei offenkundig werdenden Diskrepanzen den Zeitraum, in dem diese aufgetreten sind, eingrenzen zu können. 
 

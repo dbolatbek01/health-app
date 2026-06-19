@@ -7,25 +7,11 @@ Implantation und Explantation eines kurzzeitigen mechanischen Kreislaufunterstü
 
 Klinik für Herz-, Thorax- und Gefäßchirurgie 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Hintergrund ...................................................................................................................................... 3|
 |---|---|
-|2.|Ziel ................................................................................................................................................... 3|
-|3.|Verwendete Systeme ....................................................................................................................... 3|
-|4.|Richtwerte für den Zeitpunkt der Implantation ................................................................................. 4|
-|4.|Chirurgische Technik – Implantation und Explantation ................................................................... 4|
-|5.1|Impella 5.5 ....................................................................................................................................... 4|
-|5.2|Impella CP ....................................................................................................................................... 6|
-|5.3|Perkutanes RVAD ............................................................................................................................ 6|
-|5.4|Periphere ECLS ............................................................................................................................... 7|
-|5.5|Ecmella - Implantation ..................................................................................................................... 7|
-|6.|ECMO-Explantation bei Ecmella 1.0 oder 1.5.5 .............................................................................. 8|
-|7.|Mitgeltende Dokumente ................................................................................................................... 9|
 
 Änderungen zu Version 1.0: Vollständige Überarbeitung, insbes. Erweiterung der Explantationstechnik für alle Systeme, Ergänzung Kapitel 7 „Überschreiten der zugelassenen Anwendungsdauer“ 
 
-## **1. Hintergrund** 
+# **1. Hintergrund**
 
 Die Anwendung von kurzzeitiger (temporärer) mechanische Kreislaufunterstützung (tMCS-Systeme) soll bei Patienten im kardiogenen Schock berücksichtigt werden (IIa-Empfehlung)[1] . Die kurzzeitige mechanische Kreislaufunterstützung kann die Patienten bis zur myokardialen Erholung unterstützen, als auch zur Überbrückung bis zur Implantation einer permanenten mechanischen Kreislaufunterstützung oder bis zur Herztransplantation dienen. Entscheidend für den Therapieerfolg sind die zeitgerechte Diagnose eines kardiogenen Schocks und die zeitnahe Implantation einer kurzzeitigen mechanischen Kreislaufunterstützung in der benötigten Konfiguration. 
 
@@ -35,7 +21,7 @@ Zu berücksichtigen ist, dass bei Patienten, die ein Kurzzeit-MCS benötigen, di
 
 Die Behandlung von Patienten mit schwerem kardiogenen Schock **nach einem herzchirurgischen Eingriff** wird in der SOP057 Schwerer kardiogener Schock nach herzchirurgischem Eingriff: Behandlung mit Kurzzeit-MCS ausgeführt. 
 
-## **2. Ziel** 
+# **2. Ziel**
 
 Die vorliegende SOP legt die chirurgische Technik zur Implantation und Explantation der Mikroaxialflusspumpen (Impella, Johnson & Johnson) und Ecmella (eine Kombination aus Impella und ECMO) fest. Zur medizinisch notwendigen Anwendung über die zugelassene Dauer hinaus siehe 7. 
 
@@ -43,7 +29,7 @@ Für die Indikation zur Implantation der am DHZC verwendeten temporären MCS-Sys
 
 Zum Vorgehen bei Implantation und Explantation von extrakorporaler Membranoxygenation (ECMO) siehe SOP050 Handbuch extrakorporale Unterstützung. 
 
-## **3. Verwendete Systeme** 
+# **3. Verwendete Systeme**
 
 Als Kurzzeit-MCS-Systeme werden derzeit am DHZC verwendet: 
 
@@ -73,7 +59,7 @@ Ecmella 2.0: „single arterial access“ wobei Impella **und** arterielle Kanü
 
 Ecmella 2.1: wie 2.0, wobei venöse Kanüle über V. jugularis oder v. axillaris implantiert wird 
 
-## **4. Richtwerte für den Zeitpunkt der Implantation** 
+# **4. Richtwerte für den Zeitpunkt der Implantation**
 
 **INTERMACS-Level 1 (SCAI D und E):** Stabilisierung der Hämodynamik und der Organfunktion mittels Kurzzeit-MCS, ausgeführt in SOP234. Unter Reanimation erfolgt zuerst die Implantation einer ECLS als extrakorporale kardiopulmonale Reanimation (Extracorporeal cardiopulmonary resuscitation, eCPR) und anschließend zeitnah die Implantation des Impella-Systems. 
 
@@ -83,9 +69,9 @@ Ecmella 2.1: wie 2.0, wobei venöse Kanüle über V. jugularis oder v. axillaris
 
 **INTERMACS-Level 3 - 4 (SCAI A und B) und 5** erfolgt die primäre Implantation eines dauerhaften LVAD, wenn indiziert. 
 
-## **5. Chirurgische Technik für Implantation und Explantation** 
+# **5. Chirurgische Technik für Implantation und Explantation**
 
-## **5.1 Impella 5.5** 
+## **5.1 Impella 5.5**
 
 ## **Implantation** 
 
@@ -127,11 +113,11 @@ Aufgrund von unterschiedlichen Indikationen und Implantationswegen kommen für d
 
 Anschließend wird der Graft wie a) behandelt 
 
-## **5.1.2. Behandlung des Grafts** 
+### **5.1.2. Behandlung des Grafts**
 
 Bei deutlichen Zeichen einer Protheseninfektion oder eines Hämatoms sollte die Prothese komplett explantiert werden und die A. axillaris mittels Perikard-Patch rekonstruiert werden. Bei Patienten unter Immunsuppression (HTx oder Myokarditis) sollte die komplette Entfernung der  Prothese bei deutlich erhöhtem Risiko für eine Infektion geplant werden[3] . Die komplette Entfernung mit Rekonstruktion des Zielgefäßes (meistens a. axillaris) mittels Perikard-Patch erfolgt unmittelbar oder im Intervall von einigen Tagen nach der Stabilisierung des Patienten. 
 
-## **5.2 Impella CP** 
+## **5.2 Impella CP**
 
 ## **Implantation** 
 
@@ -153,7 +139,7 @@ Die Entwöhnung (Weaning) erfolgt wie in SOP234 beschrieben.
 
 Die Explantation erfolgt in der Regel in LA mit Manta-Verschlusssystem. Eine offene chirurgische Explantation ist bei Zugangsproblemen empfehlenswert. 
 
-## **5.3 Perkutanes RVAD** 
+## **5.3 Perkutanes RVAD**
 
 ## **Implantation** 
 
@@ -175,7 +161,7 @@ Das Weaning erfolgt wie in SOP234 beschrieben, dabei wird zuerst der Oxygenator 
 
 Die Explantation kann auf der Intensivstation erfolgen, dafür werden die Kanülierungsstellen manuell komprimiert und mit einer einengenden Naht abgedichtet. 
 
-## **5.4 Periphere ECMO** 
+## **5.4 Periphere ECMO**
 
 ## **Implantation** 
 
@@ -197,7 +183,7 @@ Weaning von ECMO gemäß SOP234.
 
 Die Explantation muss immer offen chirurgisch im Operationssaal durchgeführt werden. Dabei sollte eine indirekte Thrombektomie mit Fogartykatheter nach distal und proximal durchgeführt werden. Bei schwer veränderten oder verkalkten Gefäßen sollte die Kanülierungsstelle mittels Patch-Plastik verschlossen werden. 
 
-## **5.5 Ecmella: Implantation** 
+## **5.5 Ecmella: Implantation**
 
 ## **Ecmella 1** 
 
@@ -237,7 +223,7 @@ Die venöse Kanüle wird ebenso aus der Vene entfernt, die Punktionsstelle manue
 
 Im Fall einer Fehlfunktion der Impella sollte ein Rückzug in die Aorta ascendens erfolgen und der VADRufdienst umgehend informiert werden. 
 
-## **6. ECMO-Explantation bei Ecmella 1.0 oder 1.5.5** 
+# **6. ECMO-Explantation bei Ecmella 1.0 oder 1.5.5**
 
 Bei Patienten mit peripherer Kanülierung für ECMO erfolgt eine chirurgische ECMO-Explantation mit Darstellung der Leistengefäße, Thrombektomie mit Fogarty-Katheter der A. femoralis und Übernähung der Kanülierungsstellen ggf. mit Patchplastik. 
 
@@ -245,7 +231,7 @@ Sollte die Beinperfusionskanüle weit von der proximalen Kanüle eingebracht wor
 
 Ein engmaschiges klinisches Monitoring der Beinperfusion in den ersten 24 Stunden ist empfohlen. 
 
-## **7. Überschreiten der zugelassenen Anwendungsdauer** 
+# **7. Überschreiten der zugelassenen Anwendungsdauer**
 
 Bei Patienten, bei denen eine Behandlung mit tMCS über den zugelassenen Zeitraum hinaus medizinisch notwendig erscheint, gibt es zwei mögliche Vorgehensweisen: 
 
@@ -267,7 +253,7 @@ Ebenso rechtzeitig sind die Verlaufskontrollen vorzunehmen und ebenso ausführli
 
 Bei Hinweisen auf eine Gefährdung des Patienten durch das zulassungsüberschreitende Belassen des alten Systems ist die Behandlung unverzüglich abzubrechen und, falls medizinisch notwendig, eine zugelassene Alternative zu verwenden. 
 
-## **8. Mitgeltende Dokumente** 
+# **8. Mitgeltende Dokumente**
 
 SOP050 Extrakorporale Unterstützung / Extracorporeal Life Support (ECLS) SOP234 Schwerer kardiogener Schock: Therapie mit temporärer mechanischer Kreislaufunterstützung (tMCS) SOP531 CAI Anästhesiologisches Management zur Implantation von mechanischer Kreislaufunterstützung (MCS) bei Erwachsenen SOP504 CAI Management von Patienten mit HIT II 
 

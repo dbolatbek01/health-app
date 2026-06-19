@@ -27,19 +27,13 @@ Roggenbruck, S.
 10.02.2022||keine nderung
 01.03.2024|
 
-## **Inhaltsverzeichnis** 
-
-|1.|Indikationen ..................................................................................................................................... 3|
 |---|---|
-|2.|Maßnahmen ..................................................................................................................................... 3|
-|3.|Relative Kontraindikationen ............................................................................................................. 4|
-|4.|Inkrafttreten ...................................................................................................................................... 4|
 
 Aus Gründen der besseren Lesbarkeit wird auf die gleichzeitige Verwendung männlicher und weiblicher Sprachformen verzichtet. Sämtliche Personenbezeichnungen gelten für beiderlei Geschlecht. 
 
-## **1. Indikationen** 
+# **1. Indikationen**
 
-## **2. Maßnahmen** 
+# **2. Maßnahmen**
 
    - Insuffizienter Hustenstoß 
 
@@ -133,7 +127,9 @@ Abbildung A
 
 Abbildung B 
 
-## **3. Relative Kontraindikationen** 
+Abbildung C  Abbildung D
+
+# **3. Relative Kontraindikationen**
 
 ## **Intrapulmonale / Vermeidung thorakaler Druckerhöhung bei** 
 
@@ -173,7 +169,7 @@ Abbildung B
 
 - Rippenfrakturen 
 
-## **4. Inkrafttreten** 
+# **4. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

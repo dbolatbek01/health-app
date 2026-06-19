@@ -7,34 +7,11 @@ CAI Atemwegsmanagement Anästhesie
 
 Klinik für Kardioanästhesiologie und Intensivmedizin 
 
-## **Inhaltsverzeichnis** 
-
 ## Änderung zur Vorversion: Anhang 2 aktualisiert 
 
-|1.|Hintergrund und Ziel ........................................................................................................................ 3|
 |---|---|
-|1.1|Leitlinien ........................................................................................................................................... 3|
-|1.2|Schwerpunkte .................................................................................................................................. 3|
-|2.|Der erwartet schwierige Atemweg ................................................................................................... 4|
-|3.|Hypoxiegefährdete Patienten .......................................................................................................... 4|
-|4.|Der unerwartet schwierige Atemweg und Cannot Intubate, Cannot Ventilate ................................ 5|
-|5.|Material und Techniken ................................................................................................................... 5|
-|5.1|Perioxygenierung ............................................................................................................................. 5|
-|5.2|Flexible fiberoptische Intubation ...................................................................................................... 5|
-|5.3|Videolaryngoskopische Intubation ................................................................................................... 7|
-|5.4|Larynxmasken und fiberoptische Intubation über Larynxmasken ................................................... 7|
-|5.5|Starres Intubationsendoskop: Bonfils .............................................................................................. 7|
-|5.6|Emergency Front of Neck Access / Koniotomie .............................................................................. 7|
-|5.7|Einlungenventilation/Umintubation .................................................................................................. 8|
-|5.8|Weitere Airway-Hilfsmittel ................................................................................................................ 8|
-|6.|Schwieriger Atemweg beim Kind ................................................................................................... 10|
-|7.|Dokumentation und Aufklärung ..................................................................................................... 11|
-|8.|Telefonnummern ............................................................................................................................ 12|
-|9.|Literatur .......................................................................................................................................... 12|
-|Algorithmus Management unerwartet schwieriger Atemweg ..................................................................... 13||
-|Größentabelle Atemwegsdevices ............................................................................................................... 14||
 
-## **1. Hintergrund und Ziel** 
+# **1. Hintergrund und Ziel**
 
 Das Atemwegsmanagement ist eine anästhesiologische Kernkompetenz, welcher im gesamten perioperativen Prozess, beginnend mit der Prämedikationsvisite, eine hohe Priorität und Sorgfaltspflicht zukommt. 
 
@@ -42,7 +19,7 @@ Diese SOP regelt den Umgang mit dem erwartet und dem unerwartet schwierigen Atem
 
 Viele erstellt Morbid 
 
-## **1.1 Leitlinien** 
+## **1.1 Leitlinien**
 
 Am DHZC richten wir uns insbesondere nach den folgenden Leitlinien: 
 
@@ -54,7 +31,7 @@ Am DHZC richten wir uns insbesondere nach den folgenden Leitlinien:
 
 - Airway Management in Neonates and Infants: European Society of Anaesthesiology and Intensive Care and British Journal of Anaesthesia joint guidelines: DOI: 10.1097/EJA.0000000000001928 
 
-## **1.2 Schwerpunkte** 
+## **1.2 Schwerpunkte**
 
 Dabei sind die folgenden Punkte besonders essentiell für unser Patientenkollektiv: 
 
@@ -72,7 +49,7 @@ Dabei sind die folgenden Punkte besonders essentiell für unser Patientenkollekt
 
 Der DHZC-Atemwegsalgorithmus und eine Tabelle zur Kompatibilität von Atemwegsdevices finden sich im Anhang (Anhang 1+2). 
 
-## **2. Der erwartet schwierige Atemweg** 
+# **2. Der erwartet schwierige Atemweg**
 
 Grundsätzlich ist das Vorgehen bei einem erwartet schwierigen Atemweg mit dem aufsichtführenden Oberarzt abzustimmen und sollte leitliniengerecht erfolgen. Das exakte Vorgehen ist von vielen Faktoren abhängig wie z. B. den anatomischen Atemwegscharakteristika, der physiologischen (Sauerstoff)Reserve der Patienten, den verfügbaren oder mobilisierbaren personellen Ressourcen und der OPDringlichkeit. 
 
@@ -84,13 +61,13 @@ _**Material:**_ Die benötigten Materialen für die Atemwegssicherung sind vor N
 
 _**Teamkommunikation:**_ Der Ablauf und die Planung der Atemwegssicherung (Plan A/B/C) sind im Team vor Narkosebeginn klar zu kommunizieren. 
 
-## **3. Hypoxiegefährdete Patienten** 
+# **3. Hypoxiegefährdete Patienten**
 
 Hypoxiegefährdete Patienten (eingeschränkte Apnoetoleranz z. B. bei Pleuraergüssen, chronischen Lungenerkrankungen) haben einen „physiologisch schwierigen“ Atemweg. Hier eignet sich ggf. die nichtinvasive Ventilation (z. B. Druckunterstützung 8 cmH2O, PEEP 5 cmH2O) während der Präoxygenierung zur Verbesserung der Apnoetoleranz. 
 
 Die apnoeische Oxygenierung spielt eine besondere Rolle zur Verlängerung der Apnoetoleranz. Der primäre Einsatz eines Videolaryngoskops zur Intubation erhöht die „first attempt intubation success rate“ (1-3) und ist daher insbesondere bei Patienten mit physiologisch schwierigem Atemweg sinnvoll und zielführend. Idealerweise sollte hier primär ein Macintosh-style Spatel eingesetzt werden, nur bei schwieriger Intubation wird gewechselt auf einen hyperangulierten Spatel. 
 
-## **4. Der unerwartet schwierige Atemweg und Cannot Intubate, Cannot Ventilate** 
+# **4. Der unerwartet schwierige Atemweg und Cannot Intubate, Cannot Ventilate**
 
 Das oberste _**Ziel**_ beim Management des unerwartet schwierigen Atemwegs ist die durchgehend ausreichende Oxygenierung. 
 
@@ -118,17 +95,17 @@ Die unter 1.2 erwähnten _**„Essentials“**_ haben hier besondere Bedeutung:
 
 soll geprüft verabreicht 
 
-## **5. Material und Techniken** 
+# **5. Material und Techniken**
 
 Für alle Techniken sind die notwendigen Materialen vor Narkosebeginn/Einsatz auf Vollständigkeit, Funktionsfähigkeit und Größenkompatibilität zu überprüfen. 
 
-## **5.1 Perioxygenierung** 
+## **5.1 Perioxygenierung**
 
 Ausreichende Präoxygenierung (etO2 > 90%) vor Narkoseeinleitung 
 
 Apnoeische Oxygenierung: Die kontinuierliche Applikation von Sauerstoff in die oberen Atemwege während der Apnoe / des Atemwegsmanagements erhöht die Apnoetoleranz signifikant und kann so u. U. auch den Intubationserfolg erhöhen, wenn ein Intubationsversuch nicht aufgrund einer Entsättigung frühzeitig abgebrochen werden muss. Die einfachste Möglichkeit für die apnoeische Oxygenierung ist die Gabe von Sauerstoff (z. B. 2-8 l/min) über eine Standard-Nasenbrille. Diese sollte vor Narkoseeinleitung bereitgelegt werden und wird dann durch den Kollegen des Anästhesiefunktionsdienstes zwischen Maskenbeatmung und Laryngoskopie positioniert. 
 
-## **5.2 Flexible fiberoptische Intubation** 
+## **5.2 Flexible fiberoptische Intubation**
 
 Die fiberotische Intubation(FOI) des sedierten, spontan atmenden Patienten stellt weiterhin den Goldstandard der Atemwegssicherung bei erwartet schwierigem Atemweg dar. Die Spontanatmung sollte so lange erhalten bleiben, bis der Trachealtubus sicher in der Trachea platziert ist. Eine topische Anästhesie der Atemwege kann mittels Lidocain-Spray erreicht werden. Eine medikamentöse Sedierung sollte titriert erfolgen und auf Bolusgaben verzichtet werden, um Apnoen und/oder Atemwegsverlegungen zu verhindern. 
 
@@ -150,7 +127,7 @@ Die fiberotische Intubation(FOI) des sedierten, spontan atmenden Patienten stell
 
 ## • Lubrifikation 
 
-## **5.3 Videolaryngoskopische Intubation** 
+## **5.3 Videolaryngoskopische Intubation**
 
 - Der primäre Einsatz eines Videolaryngoskops erhöht nach aktueller Studienlage die „first attempt intubation success rate“ im Vergleich zur direkten Laryngoskopie. (1-3). 
 
@@ -162,7 +139,7 @@ Die fiberotische Intubation(FOI) des sedierten, spontan atmenden Patienten stell
 
 - Bei „you see that you fail“-Situation (gute Sicht auf die Glottis auf dem Monitor, Tubus aber nicht Richtung Trachea dirigierbar: Krümmung des Führungsstabs überprüfen, Frova Katheter als Option erwägen. 
 
-## **5.4 Larynxmasken und fiberoptische Intubation über Larynxmasken** 
+## **5.4 Larynxmasken und fiberoptische Intubation über Larynxmasken**
 
 - Hoher Stellenwert in allen Difficult-Airway-Guidelines → frühzeitig einsetzen, falls Intubation und/oder Maskenbeatmung schwierig/nicht möglich! 
 
@@ -172,11 +149,11 @@ Die fiberotische Intubation(FOI) des sedierten, spontan atmenden Patienten stell
 
 - Ein Swivel Adapter (s. o.) kann zur Bronchoskopie durch eine Larynxmaske verwendet werden. 
 
-## **5.5 Starres Intubationsendoskop: Bonfils** 
+## **5.5 Starres Intubationsendoskop: Bonfils**
 
 Für den Kinderbereich steht neben der flexiblen Bronchoskopie mit dem Bonfils auch ein starres Endoskop zur Verfügung (Tubusgröße 2,5–3,5 ID). Da die Spitze fixiert gebogen ist sollte diese nicht durch die Glottis durchgeführt werden: Die Spitze des Bonfils wird unmittelbar vor der Glottis positioniert und der „voraufgefädelte“ Tubus dann über das Bonfils in die Trachea geschoben. 
 
-## **5.6 Emergency Front of Neck Access / Koniotomie** 
+## **5.6 Emergency Front of Neck Access / Koniotomie**
 
 - Der „emergency Front of Neck Access“ (eFONA) kann situativ durch das Anästhesieteam oder durch ein chirurgisches Team erfolgen. 
 
@@ -190,11 +167,11 @@ Dieses Set beinhaltet:
 
 Die Sets werden in den Schränken auf dem Flur vor dem Büro des OP-Funktionsdienstes (gekennzeichnet mit „Koniotomie-Set“) sowie im Bronchoskopiewagen gelagert. Beschreibung und animiertes Video zur Verwendung des Sets auf der Hersteller-Seite: ScalpelCric | VBM Medizintechnik GmbH (https://www.vbm-medical.de/) 
 
-## **5.7 Einlungenventilation/Umintubation** 
+## **5.7 Einlungenventilation/Umintubation**
 
 Die Einlungenventilation wird in unserer Klinik regelhaft eingesetzt. Sofern hierfür ein Doppellumentubus verwendet wurde kann vor Verlegung auf eine Intensivstation eine Umintubation notwendig werden, welche insbesondere bei Atemwegssschwellungen nach Atemwegsinstrumentierung und Volumenverschiebungen deutlich erschwert sein kann. Umintubationen sollten daher immer mit Hilfe eines Tubuswechslers (Airway Exchange Catheter, AEC) und unter videolaryngoskopischer Sicht der Glottis erfolgen. Bei massiver Schwellung im Oropharynx und/oder ausgeprägter Hämorrhagie ist ggf. auch die Verschiebung eines Umintubationsmanövers gemeinsam mit der weiterversorgenden Einheit zu diskutieren. 
 
-## **5.8 Weitere Airway-Hilfsmittel** 
+## **5.8 Weitere Airway-Hilfsmittel**
 
 ## **Frova Intubationskatheter** 
 
@@ -222,7 +199,7 @@ Die Einlungenventilation wird in unserer Klinik regelhaft eingesetzt. Sofern hie
 
 - Video zur Verwendung des Ventrain: http://ventinovamedical.com/training-ventrain/ 
 
-## **6. Schwieriger Atemweg beim Kind** 
+# **6. Schwieriger Atemweg beim Kind**
 
 Dieselben Prinzipien, die für das Atemwegsmanagement von Erwachsenen gelten, gelten auch für Kinder. Folgende Punkte sind jedoch noch wichtig: 
 
@@ -266,7 +243,7 @@ _**Geringere Apnoetoleranz**_ : Kinder haben eine deutliche reduzierte Apnoetole
 
 Bitte vor Einsatz überprüfen, ob das Material, das eingesetzt werden soll, größenkompatibel ist → Hinweise gibt die Tabelle im Anhang. 
 
-## **7. Dokumentation und Aufklärung** 
+# **7. Dokumentation und Aufklärung**
 
 Jede erfolgte Atemwegssicherung durch Mitarbeitenden der Klinik für Kardioanästhesiologie und Intensivmedizin ist im Narkoseprotokoll zu dokumentieren. Dies gilt umso mehr und detaillierter bei einer erschwerten Atemwegssicherung und sollte beinhalten, was genau schwierig war (Maskenbeatmung, Laryngoskopie, Intubation), welche Hilfsmittel verwendet wurden, wie die Sicht auf die Glottis war und wie viele Versuche zur Atemwegssicherung notwendig waren. Die Sicht auf die Glottis wird beschrieben mittels Cormack-Lehane-Klassifizierung bzw. bei indirekter Laryngoskopie mittels Percentage of Glottic Opening (POGO) Score. Beim POGO Score wird in Prozent angeben, welchen Anteil der Glottis (von anteriorer Kommissur bis inter-aritenoid notch) man sehen konnte.(4) 
 
@@ -276,7 +253,7 @@ Patienten mit schwieriger Atemwegssicherung sind in m.life unter der Kategorie �
 
 Eine Information bzgl. des Atemwegsmanagements an die weiterbehandelnde Station ist zusätzlich zum Eintrag im Narkoseprotokoll obligat. Hierzu gehört bei abschätzbar erheblich erschwerter Reintubation u. U. auch die Empfehlung zur primären Tracheotomie vor Beatmungsweaning und Extubation. Dies ist eine anästhesiologische Entscheidung. 
 
-## **8. Telefonnummern** 
+# **8. Telefonnummern**
 
 |**Notfallnummern**||
 |---|---|
@@ -292,7 +269,7 @@ Kinderanästhesie Hausdienst CC7|99 651 444 (Mo-Fr 7-16Uhr)
 |Anästhesie Oberarzt CC7|99 651 222 (außerhalb Kernbetriebszeit)|
 |Neonatologie Rea-Ruf|99 566 555|
 
-## **9. Literatur** 
+# **9. Literatur**
 
 1. Hansel J et al. Videolaryngoscopy versus direct laryngoscopy for adults undergoing tracheal intubation. Cochrane Database Syst Rev. 2022;4(4):CD011136. 
 

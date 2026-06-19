@@ -87,6 +87,7 @@ sowie bei Bedarf|
 17.10.2023||||||
 |---|---|---|---|---|---|---|---|---|
 |||||||Überarbeitet: Müller-Plathe|||
+17.10.2023||||||||
 ||||16.10.2025|||Freigegeben:|||
 
 |**SOP:**
@@ -171,6 +172,7 @@ anders verordnet: 3x/d sowie bei Bedarf||
 17.10.2023||||||
 |---|---|---|---|---|---|---|---|---|
 |||||||Überarbeitet: Müller-Plathe|||
+17.10.2023||||||||
 ||||16.10.2025|||Freigegeben:|||
 
 |**SOP:**
@@ -210,6 +212,7 @@ Für eine suffiziente Sekretclearance bedarf es einer adäquaten Beschaffenheit 
 17.10.2023||||||
 |---|---|---|---|---|---|---|---|---|
 |||||||Überarbeitet: Müller-Plathe|||
+17.10.2023||||||||
 ||||16.10.2025|||Freigegeben:|||
 
 |**SOP:**
@@ -273,6 +276,7 @@ Zur Prophylaxe einer Tracheobronchitis bei Patienten die trotz Dysphagie an der 
 17.10.2023||||||
 |---|---|---|---|---|---|---|---|---|
 |||||||Überarbeitet: Müller-Plathe|||
+17.10.2023||||||||
 ||||16.10.2025|||Freigegeben:|||
 
 |**SOP:**
@@ -336,6 +340,7 @@ _Fazit: Der invasiv beatmete Patient ist somit immer als husteninsuffizient anzu
 17.10.2023||||||
 |---|---|---|---|---|---|---|---|---|
 |||||||Überarbeitet: Müller-Plathe|||
+17.10.2023||||||||
 ||||16.10.2025|||Freigegeben:|||
 
 |**SOP:**
@@ -361,5 +366,6 @@ Bei orotracheal beatmeten Patienten wird zur Vermeidung von Sekretverlegungen de
 17.10.2023||||||
 |---|---|---|---|---|---|---|---|---|
 |||||||Überarbeitet: Müller-Plathe|||
+17.10.2023||||||||
 ||||16.10.2025|||Freigegeben:|||
 

@@ -7,22 +7,11 @@ SOP Perioperative transösophageale Echokardiografie
 
 Institut für Anästhesie 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Indikationen ..................................................................................................................................... 3|
 |---|---|
-|2.|Kontraindikationen ........................................................................................................................... 3|
-|3.|Aufklärung ........................................................................................................................................ 4|
-|4.|Sicherheitsaspekte .......................................................................................................................... 4|
-|5.|Geräte- / Sondenhandhabung, technische Aspekte ........................................................................ 5|
-|6.|Untersuchungsaufzeichnung ........................................................................................................... 6|
-|7.|Befundung ....................................................................................................................................... 7|
-|8.|Echoprotokoll DHZB ........................................................................................................................ 8|
-|9.|Inkrafttreten .................................................................................................................................... 14|
 
 Aus Gründen der besseren Lesbarkeit wird auf die gleichzeitige Verwendung männlicher und weiblicher Sprachformen verzichtet. Sämtliche Personenbezeichnungen gelten für beiderlei Geschlecht. 
 
-## **1. Indikationen** 
+# **1. Indikationen**
 
 - 1.1 Sämtliche Eingriffe am offenen Herzen (z. B. Klappenoperationen und Defektverschlüsse) sowie Assistimplantationen und pulmonale Thrombektomien/-endarteriektomien 
 
@@ -44,11 +33,11 @@ _“[…] we concur that TOE is reasonable for use in all adult patients who are
 
 Bei katheterbasierten intrakardialen Prozeduren, die in Sedierung durchgeführt werden, wird für den Konversionsfall ein unmittelbar einsatzfähiges, hochgefahrenes Echogerät sowie eine TTEund eine vorbereitete TEE-Sonde im Operationssaal vorgehalten (ausgenommen implantierbare PA-Druckmesssysteme) 
 
-## **2. Kontraindikationen** 
+# **2. Kontraindikationen**
 
 Im Falle einer absoluten Kontraindikation ist auf das Einführen einer TEE-Sonde zu verzichten. Bei Vorliegen einer relativen Kontraindikation soll im Rahmen einer Nutzen- / Risikoabwägung in Rücksprache mit einem Oberarzt und ggf. nach Diskussion mit den mitbehandelnden Kollegen im Sinne des Patienten über die Verzichtbarkeit bzw. Notwendigkeit der TEE-Untersuchung entschieden werden. 
 
-## 2.1 absolute: 
+## 2.1 absolute:
 
 - Ablehung durch den Patienten 
 
@@ -72,7 +61,7 @@ Im Falle einer absoluten Kontraindikation ist auf das Einführen einer TEE-Sonde
 
 - tracheoösophageale Fistel 
 
-## 2.2 relative: 
+## 2.2 relative:
 
 - stattgehabte Radiatio von Hals / Mediastinum 
 
@@ -102,13 +91,13 @@ Im Falle einer absoluten Kontraindikation ist auf das Einführen einer TEE-Sonde
 
 - instabile Halswirbelverletzung 
 
-## **3. Aufklärung** 
+# **3. Aufklärung**
 
 - 3.1 TEE ist eine aufklärungspflichtige invasive Maßnahme. Sämtliche Patienten, für welche die o. g. Indikationen zutreffen, werden i. R. der präoperativen anästhesiologischen Visite und Narkoseaufklärung über diese Maßnahme aufgeklärt. 
 
 - 3.2 Bestandteil der Aufklärung müssen insbesondere die Risiken von Verletzungen der Schleimhaut im Bereich des Rachens, der Speiseröhre und des Magens inkl. damit einhergehender Blutungskomplikationen sein, sowie die Gefahr von Verletzungen bzw. Perforationen der Speiseröhre, des Kehlkopfes und des Magens. Das Risiko von Zahnschäden und des Auftretens von Schluckstörungen bzw. Heiserkeit gehört ebenfalls zu einer vollständigen TEE-Aufklärung. 
 
-## **4. Sicherheitsaspekte** 
+# **4. Sicherheitsaspekte**
 
 - 4.1 Das Platzieren der lubrifizierten Sonde erfolgt ausschließlich bei vollkommen entriegelter Flexion in Nullstellung, respektive mit minimaler Anteflexion. Das Transducerarray ist beim Einführen nach anterior gedreht, die Einführrichtung ist streng axial zum Patienten, nach kaudal gerichtet. Ein Anheben des Unterkiefers / Kinns (Esmarch-Handgriff) erleichtert die Überwindung der Enge am pharyngo-ösophagealen Übergang. In der Regel empfiehlt es sich zur einfacheren Handhabung, den zuvor aufgefädelten Beißschutz nach erfolgreicher Platzierung der Sonde zu positionieren. 
 
@@ -132,7 +121,7 @@ Im Falle einer absoluten Kontraindikation ist auf das Einführen einer TEE-Sonde
 
 - 4.9 Die Entfernung einer platzierten Sonde erfolgt grundsätzlich erst nach OP-Ende, bei Patienten für welche nicht unmittelbar ein Intensivbett verfügbar ist und die deshalb zunächst im Saal verbleiben ggf. auch erst unmittelbar zur Verlegung. Unter keinen Umständen wird die Sonde vor Thoraxverschluss entfernt. 
 
-## **5. Geräte- / Sondenhandhabung, technische Aspekte** 
+# **5. Geräte- / Sondenhandhabung, technische Aspekte**
 
 - 5.1 Der Sondenschaft darf nicht geknickt oder torquiert werden. Die ideale Aufbewahrungsform transösophagealer Sonden bleibt die ausgestreckt hängende Position, daher sollte auch eine unnötig lange Lagerung in den Transportcontainern vermieden werden. 
 
@@ -158,7 +147,7 @@ Um Schäden durch Zahnkontakt zu vermeiden, wird ein Beißschutz eingelegt (verz
 
 - 5.11 Sonden mit einem mutmaßlichen Defekt sollten zunächst an einem anderen Konnektionsport des Echogeräts nochmals auf Reproduzierbarkeit des Fehlers getestet werden. Wenn sich der Defekt bestätigt, wird die entsprechende Sonde zunächst desinfiziert und anschließend in einer Transportbox mit ausgefülltem gelben Laufzettel und Fehlerbeschreibung für die Medizintechnik im Anästhesie-Büro deponiert. 
 
-## **6. Untersuchungsaufzeichnung** 
+# **6. Untersuchungsaufzeichnung**
 
 - 6.1 Die PACS-Infrastruktur ist im DHZB auf der kardiovaskulären Bilddatenmanagement-Software IntelliSpace Cardiovascular® der Fa. Philips aufgebaut. Sämtliche aufgezeichnete Untersuchungen werden dorthin überspielt und archiviert. 
 
@@ -174,7 +163,7 @@ Zeitraum bzw. nachdem die Untersuchung in der Archivliste (unter dem Reiter „�
 
 - 6.5 Zur einer adäquaten Echodokumentation gehört ausnahmslos die Mitaufzeichnung des EKGSignals. Hierfür stehen in allen Sälen Anschlüsse zur Verfügung, welche das EKG-Signal der Monitoringanlage splitten und an Peripheriegeräte wie die Echomaschine und den Defibrillator durchschleifen. 
 
-## **7. Befundung** 
+# **7. Befundung**
 
 - 7.1 Aus der ärztlichen Dokumentationspflicht ergibt sich die Notwendigkeit der Befundschreibung nach Durchführung einer diagnostischen Maßnahme. Eine vollständige Ultraschalluntersuchung besteht grundsätzlich aus zwei Komponenten: einer technischen (Durchführung der Untersuchung und Aufzeichnung von Bilddaten) und einer medizinisch-inhaltlichen (Befundinterpretation und Verfassung eines strukturierten Berichts), wobei letztere die ärztliche Leistung im engeren Sinne darstellt. 
 
@@ -194,7 +183,7 @@ Templates sind prinzipiell implementierbar und willkommen.
 
 > 3 IntelliSpace Cardiovascular arbeitet nur als sog. „full client“, wenn zwei Bedingungen erfüllt sind: a) das Programm wurde direkt aus dem Startmenü oder über das Desktop-Icon gestartet (und nicht beispielsweise über den Querverweis aus Medfolio), b) der User ist mit seinem persönlichen Login am System angemeldet (entspricht dem Windows-Login) 
 
-## **8. Echoprotokoll DHZB** 
+# **8. Echoprotokoll DHZB**
 
 Im Folgenden wird der angestrebte Untersuchungsstandard im DHZB erläutert. Dieser orientiert sich im Wesentlichen an den von nationalen und internationalen Fachgesellschaften publizierten Guidelines[4,5,6,7,8,9,10] für eine umfassende perioperative transösophageale Echountersuchung. Ergänzt wird dies durch lokale Standards zur Erfassung von 3D-Datensets, welche eine zukünftige Reevaluation auch hinsichtlich initial nicht vordergründiger Fragestellungen ermöglichen sollen. Der Echo-Standard im DHZB lehnt sich hierbei partiell an das Duke-Protokoll[11] an. 
 
@@ -202,7 +191,7 @@ Die Chronologie des Untersuchungsablaufs ist vom Untersucher frei wählbar; so i
 
 _Die in roter, kursiver Schrift dargestellten Untersuchungsbestandteile sind nur bei Erfüllung der jeweils hinterlegten Bedingung durchzuführen, anderenfalls aber verzichtbar._ 
 
-## **8.1 Prä-EKZ / präprozedurale Untersuchung** 
+## **8.1 Prä-EKZ / präprozedurale Untersuchung**
 
 - 8.1.1 (hoch) MÖ aszendierende Aorta kurze Achse 
 
@@ -238,13 +227,13 @@ _Die in roter, kursiver Schrift dargestellten Untersuchungsbestandteile sind nur
 
 - Farbdoppler PK 
 
-## 8.1.5  MÖ bikaval 
+### 8.1.5  MÖ bikaval
 
 - Farbdoppler interatriales Septum (ggf. Nyquist Limit ≤ 40cm/s) zum Ausschluss PFO / ASD 
 
 - _bei Systemexplantationen / Sondenextraktionen MÖ bikaval hoch eingestellt zur Verlaufsbeobachtung bei potentieller Verletzung V. cava superior_ 
 
-## 8.1.6 MÖ modifiziert bikaval 
+### 8.1.6 MÖ modifiziert bikaval
 
 - Farbdoppler TK 
 
@@ -252,7 +241,7 @@ _Die in roter, kursiver Schrift dargestellten Untersuchungsbestandteile sind nur
 
 - _Messung Vena contracta sofern TI vorhanden (Nyquist Limit 50-60 cm/s, Varianz aus)_ 
 
-## 8.1.7 MÖ lange Achse 
+### 8.1.7 MÖ lange Achse
 
 - Farbdoppler MK 
 
@@ -262,7 +251,7 @@ _Die in roter, kursiver Schrift dargestellten Untersuchungsbestandteile sind nur
 
 - _Messung Mitralannulus falls signifikante MI vorhanden_ 
 
-## 8.1.8 MÖ AK lange Achse 
+### 8.1.8 MÖ AK lange Achse
 
 - Farbdoppler AK 
 
@@ -278,7 +267,7 @@ _Die in roter, kursiver Schrift dargestellten Untersuchungsbestandteile sind nur
 
 - _Messung Diameter AK-Annulus, Sinus of Valsava, sinotubuläre Juntion und Ao. ascendens bei Pathologien der AK, Aortenwurzel oder Ao. ascendens_ 
 
-## 8.1.9 MÖ 2-Kammer 
+### 8.1.9 MÖ 2-Kammer
 
 - Farbdoppler MK 
 
@@ -286,11 +275,11 @@ _Die in roter, kursiver Schrift dargestellten Untersuchungsbestandteile sind nur
 
 - _PW Doppler sofern LA-Dilatation, VHF oder spontaner Echokontrast vorhanden_ 
 
-## 8.1.11 MÖ mitral kommissural 
+### 8.1.11 MÖ mitral kommissural
 
 - Farbdoppler MK 
 
-## 8.1.12 MÖ 4-Kammer 
+### 8.1.12 MÖ 4-Kammer
 
 - Farbdoppler MK 
 
@@ -302,7 +291,7 @@ _Die in roter, kursiver Schrift dargestellten Untersuchungsbestandteile sind nur
 
 - _Spektraldoppler CW TK sofern signifikante Stenose oder Insuffizienz_ 
 
-## 8.1.13 3D Volumina (sämtlich als Multi Beat mit Bildwiederholfrequenz ≥20 bps) 
+### 8.1.13 3D Volumina (sämtlich als Multi Beat mit Bildwiederholfrequenz ≥20 bps)
 
    - 4D groß / 3D Komplettvolumen linker Ventrikel in MÖ 4-Kammer 
 
@@ -320,11 +309,11 @@ _Die in roter, kursiver Schrift dargestellten Untersuchungsbestandteile sind nur
 
    - _Farbdoppler sofern MK-Vitium vorhanden_ 
 
-## 8.1.16 TG mittpapillär kurze Achse 
+### 8.1.16 TG mittpapillär kurze Achse
 
 - M-Mode antero-posteriore Achse 
 
-## 8.1.17 TG 2-Kammerblick 
+### 8.1.17 TG 2-Kammerblick
 
    - _Messung LVIDs/LVIDd bei Aorten-/Mitralklappenpathologie oder Kardiomyopathie_ 
 
@@ -334,7 +323,7 @@ _Die in roter, kursiver Schrift dargestellten Untersuchungsbestandteile sind nur
 
 - _Darstellung der Kanülenposition nach IVC Kanülierung (Vermeidung intrahepatischer Fehllage) bei Fällen mit HLM_ 
 
-## 8.1.19 TG lange Achse 
+### 8.1.19 TG lange Achse
 
 - Farbdoppler AK 
 
@@ -342,7 +331,7 @@ _Die in roter, kursiver Schrift dargestellten Untersuchungsbestandteile sind nur
 
 - _Spektraldoppler PW LVOT sofern AS oder LVOTO (Hüllkurve für VTI)_ 
 
-## 8.1.20 TG RV inflow 
+### 8.1.20 TG RV inflow
 
 - _8.1.21 tief TG 5-Kammerblick (sofern Aortenvitium nicht ausgeschlossen)_ 
 
@@ -404,7 +393,7 @@ _**Trikuspidalinsuffizienz** : Vena contracta Weite (mm) // systolische Flussumk
 
    - _Detektion von Luft bei Operationen am offenen Herzen ohne Aortenklemmung_ 
 
-## **8.3 Post-EKZ / postprozedurale Untersuchung** 
+## **8.3 Post-EKZ / postprozedurale Untersuchung**
 
 - 8.3.1 MÖ aszendierende Aorta lange Achse 
 
@@ -492,7 +481,7 @@ _**Trikuspidalinsuffizienz** : Vena contracta Weite (mm) // systolische Flussumk
 
    - _Ausschluss neu aufgetrene Pleuraergüsse (insbesondere re.) nach Systemexplantation / Sondenextraktion_ 
 
-## **9. Inkrafttreten** 
+# **9. Inkrafttreten**
 
 Die SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

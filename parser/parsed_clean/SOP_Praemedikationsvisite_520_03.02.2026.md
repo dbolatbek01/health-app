@@ -4,13 +4,13 @@
 
 Neu: Kap. 1.7, 1.8 und 1.10; Ergänzt: Kap. 1.1.3, 7.2, 7.3; Überarbeitet: Kap. 2.2; Gestrichen: Kap. 7.5 (Standort PKH) 
 
-## **1. Allgemeine Punkte zur Aufklärung und Prämedikationsvisite** 
+# **1. Allgemeine Punkte zur Aufklärung und Prämedikationsvisite**
 
 Die vorliegende SOP gilt als Ergänzung zur ZVA Aufklärung von Patient:innen. 
 
-## **1.1 Aufklärung und Einwilligung** 
+## **1.1 Aufklärung und Einwilligung**
 
-## **1.1.1 Allgemeines** 
+### **1.1.1 Allgemeines**
 
 Jede ärztliche Maßnahme, sowohl diagnostisch als auch therapeutisch, setzt eine wirksame Aufklärung und Einwilligung des Patienten voraus (§§ 630d und 630e BGB). Die Einwilligung ist nur wirksam, wenn der Patient vorher vollumfänglich aufgeklärt wurde (§ 630e Abs. 1 BGB) und der Patient zum Zeitpunkt der Einwilligung auch einwilligungsfähig ist. 
 
@@ -22,7 +22,7 @@ Adressat der Aufklärung ist grundsätzlich der Patient. Sofern der Patient ents
 
 Die Aufklärung erfolgt standardmäßig mit den Patienten auf den Stationen am Vortag der Operation mithilfe des Formulars Aufklärung und Einwilligung zur Anästhesie DHZC. Ergänzend können die Patienteninformationsbögen Thieme Compliance[2] zum Einsatz kommen. 
 
-## **1.1.2 Dokumentation** 
+### **1.1.2 Dokumentation**
 
 Die Inhalte der Aufklärung sind aufgrund der ärztlichen Dokumentationspflicht gem. § 630 f BGB (s. a. SOP 580) schriftlich zu dokumentieren. Was nicht in der Patientenakte dokumentiert ist gilt im Zweifel vor Gericht als nicht erfolgt (s. § 630h BGB), was insbesondere bei fehlender Dokumentation der Aufklärung automatisch einen Behandlungsfehler darstellt. Sämtliche verwendeten Unterlagen zur Aufklärung (z. B. auch Patienteninformationsbögen Thieme Compliance[2] ) werden leserlich mit dem Namen gekennzeichnet (Nachname in Druckschrift oder Stempel bzw. vorausgefüllt). Die von Patient und Arzt unterzeichneten Einwilligungserklärungen (Formular Aufklärung und Einwilligung zur Anästhesie DHZC) sind im Original in der Patientenakte abzuheften. Patienten haben gemäß § 630e BGB[3] Anrecht auf eine Kopie/Abschrift der Unterlagen, die sie im Zusammenhang mit der Aufklärung und Einwilligung unterzeichnet haben, vergleiche „ZVA Dokumentation und Archivierung DokA“. 
 
@@ -42,7 +42,7 @@ arkose-/Schmerzmittels“
 
 **SOP CAI Prämedikationsvisite** 
 
-## **1.1.3 Inhalte der Aufklärung** 
+### **1.1.3 Inhalte der Aufklärung**
 
 Grundsätzlich muss der Arzt den Patienten über sämtliche für die Einwilligung wesentlichen Umstände aufklären. Dazu gehören insbesondere Art, Umfang, Durchführung, zu erwartende Folgen und Risiken der Maßnahme sowie ihre Notwendigkeit, Dringlichkeit, Eignung und Erfolgsaussichten im Hinblick auf die Diagnose oder die Therapie. Bei der Aufklärung ist auch auf Alternativen zur Maßnahme hinzuweisen, wenn mehrere medizinisch gleichermaßen indizierte und übliche Methoden zu wesentlich unterschiedlichen Belastungen, Risiken oder Heilungschancen führen können (§ 630e Abs. 1 BGB[3] ). Die Risikoaufklärung hat umfassend alle möglichen Risiken zu benennen, unabhängig von ihrer statistischen Häufigkeit. Man spricht hier auch von sog. „typischen Risiken“. Folgende Aspekte und Narkoserisiken sind mit dem Patienten präoperativ immer zu besprechen: 
 
@@ -84,7 +84,7 @@ Grundsätzlich muss der Arzt den Patienten über sämtliche für die Einwilligun
 
 - weitere thematisierte Aspekte werden dokumentiert inklusive eines geeigneten Schlusssatzes: z. B. „keine weiteren Fragen“ 
 
-## **1.1.4 Zeitpunkt der Aufklärung** 
+### **1.1.4 Zeitpunkt der Aufklärung**
 
 Laut § 630e Abs. 2 Nr. 2 BGB[3] muss die Aufklärung so rechtzeitig erfolgen, dass der Patient seine Entscheidung über die Einwilligung selbstbestimmt treffen kann. Das bedeutet bei elektiven Eingriffen abhängig von der Schwere des Eingriffs und der damit verbundenen möglichen Folgen und Risiken, dass in der Regel eine Aufklärung am Vortag als rechtzeitig angesehen werden kann. Je schwerwiegender der Eingriff, die Folgen und die Risiken sind desto früher hat die Aufklärung zu erfolgen. Bei „schwerwiegenden Eingriffen“ ist eine Aufklärung am Tag des Eingriffs in aller Regel rechtlich unwirksam, nur bei medizinisch dringlichen Eingriffen ist u. U. die Aufklärung auch am Tag des Eingriffs statthaft. Die Aufklärung hat in diesem Fall so früh wie möglich zu erfolgen. Hierbei darf aber kein äußerer Zwang bestehen, weswegen sich ein Aufklärungsgespräch im Einleitungsraum mit einem auf dem OP-Tisch liegenden Patienten im Regelfall verbietet. 
 
@@ -94,9 +94,9 @@ Bei länger zurückliegender Einwilligung sind behandelnde Ärzte verpflichtet, 
 
 **SOP CAI Prämedikationsvisite** 
 
-## **1.2 Besondere Patientengruppen und Situationen** 
+## **1.2 Besondere Patientengruppen und Situationen**
 
-## **1.2.1 Minderjährige Patienten** 
+### **1.2.1 Minderjährige Patienten**
 
 Bei Patienten, die das 18. Lebensjahr noch nicht vollendet haben, besteht ein zivilrechtlicher Behandlungsvertrag zwischen dem Arzt einerseits und den Sorgeberechtigten des Minderjährigen andererseits. 
 
@@ -112,7 +112,7 @@ Ohne Einwilligung eines einwilligungsfähigen Minderjährigen darf keine Narkose
 
 Wenn Sorgeberechtigte die Einwilligung in eine dringliche Behandlung verweigern und dadurch akut das Kindeswohl gefährden (z. B. Ablehnung einer Fremdblutspende durch Zeugen Jehovas) darf der Arzt nicht nur, er muss sogar zur Rettung des Lebens des Kindes gegen den Willen der sorgeberechtigten Eltern die erforderliche Behandlung (also z. B. die lebensrettende Transfusion) vornehmen.[8] Soweit der zeitliche Rahmen dies zulässt, muss der Arzt aber unbedingt zuvor die familiengerichtliche Genehmigung zur Vornahme der erforderlichen Behandlung gemäß § 1666 Abs. 1 BGB einholen. Die Behandlung eines Kindes gegen den Willen der Sorgeberechtigten und ohne familiengerichtliche Genehmigung stellt eine absolute Ausnahme dar. Die Kindeswohlgefährdung und die daraus abgeleitete medizinische Behandlung muss dann einzelfallbezogen in der Patientenakte begründet und dokumentiert werden. 
 
-## **1.2.2 Betreute Patienten und nicht einwilligungsfähige Patienten** 
+### **1.2.2 Betreute Patienten und nicht einwilligungsfähige Patienten**
 
 Der aufklärende Arzt hat sorgfältig auf Anzeichen zu achten, ob ein volljähriger Patient sich in einem (etwa krankheitsbedingten) Zustand mangelnder Einsichts- oder Steuerungs-/Urteilsfähigkeit befindet. Fehlt die Einsichts- 
 
@@ -140,27 +140,27 @@ Die Bestellung eines rechtlichen Betreuers führt für sich genommen nicht zum V
 
 gehört.[10] Wurde einem Betreuer oder einer vorsorgebevollmächtigten Person die Vertretung des Patienten in Fragen der Gesundheitssorge übertragen, aber der Patient ist in Bezug auf die ärztliche Maßnahme in der konkreten Situation noch einwilligungsfähig, hat der Arzt den Patienten aufzuklären (§§ 630d Abs. 1 S. 1[9] , 630e Abs. 1 BGB[3] ) und diesen um Einwilligung zu ersuchen.[11] 
 
-## **1.2.3 Fremdsprachige Patienten** 
+### **1.2.3 Fremdsprachige Patienten**
 
 Die ärztliche Aufklärung muss gemäß § 630e Abs. 2 Ziff. 3 BGB[3] verständlich sein. Wenn der Patient flüssig eigene Angaben zur Erkrankung und seinen Vorerkrankungen machen kann, dann darf der Arzt in der Regel davon ausgehen, dass der Patient auch dem Aufklärungsgespräch folgen kann. Wenn dagegen Zweifel bestehen, dass der Patient den ärztlichen Erläuterungen folgen kann, muss eine sprachkundige Person (Angehöriger, Mitarbeiter, Dolmetscher) hinzugezogen werden. Da die Aufklärung gemäß § 630e Abs. 2 Ziff. 1[3] mündlich zu erfolgen hat, ist allein das zur Verfügung stellen eines Aufklärungsformulars in einer dem Patienten verständlichen Sprachen nicht hinreichend. 
 
 Im Aufklärungsbogen ist der Name des Sprachmittlers (ggf. mit Adresse) gut lesbar zu vermerken. Der Arzt sollte ferner Hinweise dokumentieren, die darauf schließen lassen, dass der fremdsprachige Patient alles verstanden hat (etwa Nachfragen des Patienten). Insbesondere bei Angehörigen des Patienten als Sprachmittler muss der Arzt in geeigneter Weise überprüfen, ob die Sprachkenntnisse des Angehörigen zur Übersetzung der Aufklärung ausreichend sind. Im Zweifelsfalle ist ein professioneller Dolmetscher hinzuzuziehen. 
 
-## **1.2.4 Aufklärung und Einwilligung bei vitaler Bedrohung/Unaufschiebbarkeit** 
+### **1.2.4 Aufklärung und Einwilligung bei vitaler Bedrohung/Unaufschiebbarkeit**
 
 Gemäß §§ 630c Abs. 4[12] und 630e Abs. 3[3] BGB kann die Aufklärung des Patienten ausnahmsweise aufgrund besonderer Umstände entbehrlich sein, insbesondere wenn die Behandlung unaufschiebbar ist. Der Patient muss aber dennoch in die medizinische Maßnahme einwilligen („Notfallaufklärung“, s. Formular Aufklärung und Einwilligung zur Anästhesie DHZC, S. 2). 
 
 Im Falle eines nicht einwilligungsfähigen Patienten ist analog hierzu die Aufklärung eines notvertretungsberechtigen Ehepartners, Vorsorgebevollmächtigen oder Betreuers gemäß § 630e Abs. 4 BGB[3] ebenfalls entbehrlich, wenn die Maßnahme unaufschiebbar ist. Folgerichtig darf gemäß § 630d Abs. 1 S. 3 BGB[9] eine unaufschiebbare Maßnahme ohne Einwilligung durchgeführt werden, wenn sie dem mutmaßlichen Willen des Patienten entspricht und eine Einwilligung nicht rechtzeitig eingeholt werden kann. 
 
-## **1.2.5 Aufklärung und Einwilligung bei Wiederholungs-/Serieneingriffen** 
+### **1.2.5 Aufklärung und Einwilligung bei Wiederholungs-/Serieneingriffen**
 
 Bei sog. Serieneingriffen ist mit entsprechender Erklärung des Verzichts auf erneute Aufklärung (siehe Rückseite des Formulars Aufklärung und Einwilligung zur Anästhesie DHZC, S. 2) bei gleichbleibendem Eingriffsumfang und patientenbezogenen Risiko eine einmalige Aufklärung ausreichend. Wird der Verzicht auf erneute Aufklärung nicht erklärt ist weiterhin vor jedem Eingriff vollumfänglich aufzuklären. 
 
-## **1.2.6 Nachträgliche Sicherungsaufklärung** 
+### **1.2.6 Nachträgliche Sicherungsaufklärung**
 
 Konnte eine Risikoaufklärung des Patienten vor der Anwendung von Blutprodukten nicht stattfinden, z. B. in einer Notfallsituation, dann ist der Patient dennoch nachträglich über die stattgefundene Anwendung von Blutprodukten 
 
-## 9 § 630d BGB 
+# 9 § 630d BGB
 
 10 Hinweise und Empfehlungen der Bundesärztekammer zum Umgang mit Zweifeln an der Einwilligungsfähigkeit bei erwachsenen Patienten. Dtsch Arztebl 2019; 116 (22): A-1133/B-933/C-921 
 
@@ -174,13 +174,13 @@ und insbesondere die Infektionsrisiken , ggf. Immunisierungsrisiken , aufzuklär
 
 Bei einer Transfusion von RhD-positiven Präparaten auf RhD-negative Patienten hat die Einrichtung der Krankenversorgung, in der diese Transfusion erfolgt, den Empfänger aufzuklären und zu empfehlen, dass eine serologische Untersuchung 2 - 4 Monate nach Transfusion zur Feststellung eventuell gebildeter Antikörper durchgeführt wird. Der weiterbehandelnde Arzt ist entsprechend von der Einrichtung der Krankenversorgung zu informieren, dass RhD-positive Präparate transfundiert worden sind und beim Empfänger eine serologische Untersuchung 2 - 4 Monate nach Transfusion zur Feststellung eventuell gebildeter Antikörper durchzuführen ist.[15] 
 
-## **1.3 HIT Diagnostik** 
+## **1.3 HIT Diagnostik**
 
 S. a. SOP 504 und SOP 534. Bei Patienten mit positiver HIT-Anamnese sollte frühestmöglich ein HIT II-Schnelltest durchgeführt werden. Da der Schnelltest bei sehr hoher Sensitivität leider nur eine suboptimale Spezifität aufweist, sind falsch positive Ergebnisse möglich. Aufgrund unmittelbarer und u. U. weitreichender Implikationen für das intraoperative Management dieser Patienten, sollten elektive Eingriffe bei positivem Schnelltest bis zur Bestätigung aufgeschoben werden. 
 
 Als Bestätigungstest eignen sich idealerweise der HIPA (wird wochentags am ZTB, Zentrum für Transfusionsmedizin und Zelltherapie Berlin, durchgeführt; über ZTB-Anforderungsschein), ggf. auch ein ELISA (wird werktags im Akutlabor Augustenburger Platz durchgeführt, Anforderung über LAURIS). Bei einem grenzwertigen ELISA-Befund ist grundsätzlich eine HIPA-Diagnostik zu fordern. 
 
-## **1.4 Prädisposition Maligne Hyperthermie/Indikation zur „triggerfreien“ Anästhesie** 
+## **1.4 Prädisposition Maligne Hyperthermie/Indikation zur „triggerfreien“ Anästhesie**
 
 Bei verschiedenen Muskelerkrankungen kann überlappend eine Veranlagung zur Malignen Hyperthermie bestehen. Diese Erkrankungen umfassen u.a..: Central-Core-Myopathie (central core disease, CCD, Shy-Magee syndrome), kongenitale Samariter-Myopathie (Benign Samaritan congenital myopathy), Multiminicore disease (MmD, Multiminicore myopathy), “Atypical core diseases/myopathies”, King-Denborough-Syndrom (KDS, Koussef-NicholsSyndrom), Nemalin-Myopathie (Nemaline rod myopathy), Hypokaliämische periodische Paralyse (hypo(K)PP, Familial hypokalemic periodic paralysis, FHPP), Congenital neuromuscular disease with uniform type 1 fibers (CNMDU1), Malignes neuroleptisches Syndrom (MNS), Exertional heat stroke/illness (EHS), Exercise-induced/Exertional rhabdomyolysis (ER). 
 
@@ -188,11 +188,11 @@ Bei einigen Muskelerkrankungen und Stoffwechseldefekten ist aufgrund einer nicht
 
 Die notwendige Bereitstellung eines triggerfreien Anästhesiearbeitsplatzes impliziert die Information der OPKoordination (Tel. 97-2710) und des Anästhesie-Funktionsdienstes (97-1761), s. a. SOP 509. 
 
-## **1.5 Relevante Allergien** 
+## **1.5 Relevante Allergien**
 
 Hier sind v. a. Chrom- und Nickelallergien aufgrund ihrer Relevanz für die operative Versorgung (Cerclagen, Clips) in ihrer Schwere zu evaluieren und zu dokumentieren. Ebenso müssen Latexallergien aufgrund der Relevanz für die Saalvorbereitung und den Tischaufbau prominent in Torin vermerkt werden. Hinsichtlich Antibiotika- und Penicillinallergien (s. SOP 533) ist eine genaue Evaluation des Reaktionstyps und eine exakte Anamnese äußerst relevant, denn das Risiko schwerer Wundinfektionen respektive die Gefahr einer Clostridienselektion ist bei allen Alternativen zur perioperativen Antiinfektivaprophylaxe mit Betalaktamen deutlich erhöht. 
 
-## **1.6 Atemwegsevaluation** 
+## **1.6 Atemwegsevaluation**
 
 Jede Prämedikationsvisite sollte eine Atemwegsevaluation beinhalten. Meldung an OP-Koordinator (97-2710) bei V. a. schwierigen Atemweg und Dokumentation im Prämedikationsprotokoll in Torin, siehe SOP Atemwegsmanagement. Einleitung von Vorkehrungen/Planung der Atemwegssicherung vor dem eigentlichen OP-Tag durch prämedizierenden Arzt in Rücksprache mit dem OP-Koordinator bzw. ggf. mit dem für die Anästhesiedurchführung zuständigen Arzt. Dabei sollten mit dem Patienten sämtliche optionale Vorgehensweisen erörtert werden - die endgültige Festlegung des konkreten Atemwegsmanagements am OP-Tag obliegt dem für die Anästhesie zuständigen Kollegen. 
 
@@ -200,15 +200,15 @@ Jede Prämedikationsvisite sollte eine Atemwegsevaluation beinhalten. Meldung an
 
 **SOP CAI Prämedikationsvisite** 
 
-## **1.7 Pädiatrische/EMAH-Patienten mit syndromalen Erkrankungen** 
+## **1.7 Pädiatrische/EMAH-Patienten mit syndromalen Erkrankungen**
 
 Syndromale Erkrankungen sind während der Prämedikationsvisite zu erfassen und Rücksprache mit einem Kollegen der Kinderkardioanästhesie bzw. dem OP-Koordinator (97-2710) zu halten wegen möglicher logistischer Implikationen/ Vorkehrungen für den OP-Tag. 
 
-## **1.8 Atemwegsinfekte bei Kindern** 
+## **1.8 Atemwegsinfekte bei Kindern**
 
 Patient*innen, die für einen elektiven Eingriff vorstellig werden sollten grundsätzlich nur narkotisiert werden, wenn sie infektfrei sind. Konkret bedeutet dies, dass Kinder 14 Tage symptomfrei sein sollten, da Kinder, die dieses Kriterium nicht erfüllen ein erhöhtes Risiko für sog. „perioperative respiratory adverse events“ haben.[16] Falls ein Kind dieses Kriterium nicht erfüllt bitten wir, Rücksprache mit dem Kinderanästhesieteam halten. Sollte ein Kind, das noch nicht 14 Tage symptomfrei ist, narkotisiert werden müssen, empfiehlt sich eine präoperative Inhalationstherapie mit Salbutamol.[17] 
 
-## **1.9 SARS-CoV2-Infektion/-Impfung** 
+## **1.9 SARS-CoV2-Infektion/-Impfung**
 
 Nach wie vor wird empfohlen, rein elektive Operationen innerhalb von sieben Wochen nach der Infektion (Symptombeginn oder positives Testergebnis) zu vermeiden. Bei nicht rein elektiven Eingriffen kann dann von der „7Wochen-Regel“ abgewichen werden, wenn der individuelle Nutzen das Risiko des Abwartens übersteigt. 
 
@@ -216,13 +216,13 @@ Eine elektive Operation soll keinesfalls im infektiösen Zeitfenster stattfinden
 
 Darüber hinaus sollten Patientinnen und Patienten präoperativ vollständig geimpft sein, wobei die letzte Dosis mindestens 2 Wochen vor der Operation verabreicht worden sein werden sollte.[18, 19] 
 
-## **1.10 Mediastinale Tumoren** 
+## **1.10 Mediastinale Tumoren**
 
 Bei operativer Versorgung von Patienten mit mediastinalen Raumforderungen (häufig in Kooperation mit chirurgischen Teams der Thoraxchirurgie CVK oder der Evangelischen Lungenklinik der Johannesstift Diakonie) ist eine Sichtung der Schnittbildgebung im Rahmen der präoperativen Evaluation zwingend erforderlich, um potentielle Schwierigkeiten bei der Atemwegssicherung bzw. Lungenisolation, der Instrumentierung oder der perioperativen Hämodynamik durch Tumorkompression/-invasion zu antizipieren und Managementstrategien zu bahnen. 
 
-## **2. Medikamentöse Prämedikation** 
+# **2. Medikamentöse Prämedikation**
 
-## **2.1 Erwachsene** 
+## **2.1 Erwachsene**
 
 „Aktuelle Untersuchungen und die klinische Erfahrung lassen vermuten, dass der Nutzen der medikamentösen Prämedikation überschätzt wird. So konnte gezeigt werden, dass Lorazepam 2,5 mg p. o. bei unter 70-jährigen stationären Patienten nicht die Patientenzufriedenheit und kaum das individuelle Angstbefinden verbessert, dafür aber die Extubationszeiten verlängert, die kognitive Erholung verzögert und in einem deutlich höheren Maße zu perioperativer Amnesie führt“,[20] welche für Patienten häufig weitaus weniger wünschenswert ist als ggf. für das Krankenhauspersonal. Midazolam kann dosisunabhängig sowohl zu Agitation aber auch zu tiefer Bewusstlosigkeit führen,[21] weshalb es insbesondere bei älteren Patienten > 65 J nicht mehr empfohlen wird. Identitätschecks und Signin Prozeduren werden durch „ansedierte“ Patienten zusätzlich erschwert und rechtsunsicher. Über die klassischen Kontraindikationen obstruktives Schlafapnoesyndrom, schwere COPD und neuromuskuläre Erkrankung hinaus sollte daher bei erwachsenen Patienten auf eine Prämedikation mit Benzodiazepinen generell möglichst gänzlich verzichtet werden. 
 
@@ -232,7 +232,7 @@ Bei operativer Versorgung von Patienten mit mediastinalen Raumforderungen (häuf
 
 **SOP CAI Prämedikationsvisite** 
 
-## **2.2 Kinder** 
+## **2.2 Kinder**
 
 - Für Kinder am Standort AP:Kinder < 6 Monate erhalten i. d. R. keine medikamentöse Prämedikation 
 
@@ -248,17 +248,17 @@ Bei operativer Versorgung von Patienten mit mediastinalen Raumforderungen (häuf
 
 - Die begleitenden Eltern verabschieden sich an der Patientenschleuse vor Narkoseeinleitung. Abweichungen hiervon sind nur in Rücksprache mit dem am OP Tag zuständigen Anästhesieteam möglich und sollten nicht zugesagt werden. 
 
-## **2.3 Anordnung der Prämedikation** 
+## **2.3 Anordnung der Prämedikation**
 
 - (s. 7. Organisatorische Aspekte an den unterschiedlichen DHZC-Standorten) 
 
-## **3. Präoperative Nüchternzeiten** 
+# **3. Präoperative Nüchternzeiten**
 
-## **3.1 Erwachsene** 
+## **3.1 Erwachsene**
 
 Aufgrund möglicher kurzfristiger Änderungen im OP-Programm gilt zunächst für alle Patienten am OP-Tag eine Nüchternheit für Speisen ab 01:00 Uhr, für Flüssigkeiten ab 05:00 Uhr. Die Möglichkeit der Nahrungs- und Flüssigkeitsaufnahme am OP-Tag wird mit den Stationen in der Bettenbesprechung um 08:30 Uhr konkretisiert. Bis zu 6 h vor der Narkoseeinleitung können die Patienten feste Nahrung in Form einer „kleinen Mahlzeit“ und/oder Kuhmilch zu sich nehmen. Bis zu 2 h vor der Narkoseeinleitung können „klare Flüssigkeiten“ getrunken werden (d. h. fett-, partikel- und alkoholfreie Getränke inkl. kohlenhydratreicher sog. „PräopDrinks“, z. B. Nutricia preOp®). 
 
-## **3.2 Kinder** 
+## **3.2 Kinder**
 
 - Die Zeiten für die Nahrungs- und Flüssigkeitskarenz werden den Eltern durch die Station gemäß Punkt 3.2.1 kommuniziert. 
 
@@ -270,7 +270,7 @@ Aufgrund möglicher kurzfristiger Änderungen im OP-Programm gilt zunächst für
 
 - Bei Kindern mit gestörter Magen-Darmpassage oder -motilität ist eine Verlängerung der u. g. Karenzzeiten indiziert. 
 
-## **3.2.1 Richtzeiten Nahrungskarenz:[22]** 
+### **3.2.1 Richtzeiten Nahrungskarenz:[22]**
 
 - 6 h: feste Nahrung/ vollwertige Mahlzeit (i. d. R. 01:00 morgens) 
 
@@ -288,7 +288,7 @@ Die konkreten Nüchternzeiten werden berechnet ausgehend von einem Anästhesiest
 
 **SOP CAI Prämedikationsvisite** 
 
-## **3.2.2 Beispiele für kleine, leichte Mahlzeiten[22]** 
+### **3.2.2 Beispiele für kleine, leichte Mahlzeiten[22]**
 
 - ein Toast mit Marmelade oder Honig pro 10 kgKG, max. 3 
 
@@ -302,7 +302,7 @@ Die konkreten Nüchternzeiten werden berechnet ausgehend von einem Anästhesiest
 
 - eine Banane oder ein Apfel 
 
-## **4. Präoperative Einnahme der Dauermedikation** 
+# **4. Präoperative Einnahme der Dauermedikation**
 
 Im Rahmen der Prämedikationsvisiten ist darauf zu achten, dass bestimmte bei elektiven Eingriffen im Vorfeld abzusetzende oder zu bridgende Medikamente frist- und indikationsgerecht nicht weiter eingenommen bzw. umgestellt wurden. Über diesen Sachverhalt sind elektive Patienten per Einbestellungsschreiben informiert worden: 
 
@@ -320,7 +320,7 @@ Im Rahmen der Prämedikationsvisiten ist darauf zu achten, dass bestimmte bei el
 
 Andere orale Medikamente und eine ggf. angeordnete Prämedikation können grundsätzlich kurz vor dem Eingriff mit einem Schluck Wasser eingenommen werden. 
 
-## **5. Bestellung von Fremdblut** 
+# **5. Bestellung von Fremdblut**
 
 Die Bestellung der Blutkonserven erfolgt durch die Station. Die hier hinterlegten Tabellen gelten als Richtschnur, detailliertere Angabe sind im Transfusionskalalog DHZC hinterlegt. 
 
@@ -338,7 +338,7 @@ detailliertere Angabe sind imTransfusionskalalog DHZC hinterlegt.|
 
 ## * s. SOP 526 resp. SOP 530 
 
-## **5.2 Kinder** 
+## **5.2 Kinder**
 
 ||**Erst-OP**|**Re-OP/VAD/TX**|
 |---|---|---|
@@ -354,7 +354,7 @@ Baby-EK|1 EK plus 3 Baby-EK|
 
 **SOP CAI Prämedikationsvisite** 
 
-## **5.3 Indikationen für bestrahlte zelluläre Blutprodukte**[25] 
+## **5.3 Indikationen für bestrahlte zelluläre Blutprodukte**[25]
 
 - Patienten mit Hodgkin Lymphom in allen Stadien (= lebenslänglich) 
 
@@ -368,15 +368,15 @@ Baby-EK|1 EK plus 3 Baby-EK|
 
 - Neugeborene nach intrauteriner Transfusion 
 
-## **6. ERACS** 
+# **6. ERACS**
 
 ## siehe SOP 539 
 
-## **7. Organisatorische Aspekte an den unterschiedlichen DHZC-Standorten** 
+# **7. Organisatorische Aspekte an den unterschiedlichen DHZC-Standorten**
 
 Das Team der Prämedikationsambulanz ist erreichbar ab 09:30, Tel. 97-2610 oder per E (cai-praemed@dhzccharite.de). Das Team prüft regelmäßig das E -Postfach auf relevante Informationen. 
 
-## **7.1 Erwachsene auf Stationen am Standort Augustenburger Platz (AP)** 
+## **7.1 Erwachsene auf Stationen am Standort Augustenburger Platz (AP)**
 
 - Die Prämedikation von Patienten, die am Standort AP stationär und für einen Eingriff am Standort AP oder MA verplant sind, erfolgt regulär in der Prämedikationssprechstunde (ab 09:30, Tel. 97-2610) oder auf Station. 
 
@@ -384,13 +384,13 @@ Das Team der Prämedikationsambulanz ist erreichbar ab 09:30, Tel. 97-2610 oder 
 
 - Falls eine medikamentöse Prämedikation erforderlich sein sollte, erfolgt diese elektronisch in m.life über: Behandlungsplan | Behandlungsstandard | Klinik: AN Anästhesie | Vorlage: \Anästhesiemakros | Prämedikation Erwachsene. Zur Verfügung stehen am Vorabend der OP bzw. eine Stunde vor OP-Beginn Baldrian forte Dragees 450 mg für ältere/hochbetagte und POCD-gefährdete Patienten, für alle anderen Patienten Midazolam Filmtabletten (die Dosis ist situativ anzupassen). 
 
-## **7.2 Kinder auf Stationen am Standort Augustenburger Platz (AP)** 
+## **7.2 Kinder auf Stationen am Standort Augustenburger Platz (AP)**
 
 - Die Prämedikation erfolgt wochentags i. d. R. im sog. „Bienchenzimmer“ (prästationäres Aufnahmezimmer im Gang zwischen OP und WD4, Tel. 97-2890) oder auf Station WD4 durch das Team der Prämedikationsambulanz 
 
 - Anordnung der medikamentösen Prämedikation: Kurzeintrag in m.life unter Arztnotizen durch den prämedizierenden Anästhesisten. Das kinderkardiologische Team setzt das Medikament dann an. 
 
-## **7.3 Erwachsene auf Stationen am Standort Mittelallee (MA)** 
+## **7.3 Erwachsene auf Stationen am Standort Mittelallee (MA)**
 
 - Die Prämedikation von Patienten am Standort MA erfolgt wochentags durch das Team der Prämedikationsambulanz. 
 
@@ -402,13 +402,13 @@ Das Team der Prämedikationsambulanz ist erreichbar ab 09:30, Tel. 97-2610 oder 
 
 **SOP CAI Prämedikationsvisite** 
 
-## **7.4 Standort Mittelallee (MA): Kinder** 
+## **7.4 Standort Mittelallee (MA): Kinder**
 
 - Die Prämedikation erfolgt in der Prämedikationssprechstunde oder auf Station (i. d. R. W24i). 
 
 - Falls eine medikamentöse Prämedikation gewünscht ist notieren wir diese mit Angabe von Medikament, Dosierung und Applikationsform im Freitextfeld auf unserem Aufklärungsbogen und informieren den zuständigen Stationsarzt. Dieser überführt die Anordnung dann in die elektronische Medikamentenanordnung. 
 
-## **8. Mitgeltende Dokumente** 
+# **8. Mitgeltende Dokumente**
 
 ZVA Aufklärung von Patient:innen 
 

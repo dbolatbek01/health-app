@@ -7,37 +7,11 @@ CAI Gerinnungsmanagement
 
 Klinik für Kardioanästhesiologie und Intensivmedizin (CAI) 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Präoperative Diagnostik / Prämedikation ........................................................................................ 3|
 |---|---|
-|1.1|Laboruntersuchungen ...................................................................................................................... 3|
-|1.2|Prämedikationsgespräch ................................................................................................................. 3|
-|2.|Absetzen antikoagulatorischer Medikation vor großen Eingriffen ................................................... 3|
-|3.|Vormedikation / Perioperative Therapie .......................................................................................... 4|
-|4.|Substitution von Gerinnungsprodukten ........................................................................................... 5|
-|4.1|Anordnung von Rescuetherapien .................................................................................................... 5|
-|4.2|HIT II ................................................................................................................................................ 6|
-|4.3|Gerinnungsdepots ........................................................................................................................... 6|
-|5.|Intraoperative Gerinnungsdiagnostik ............................................................................................... 7|
-|6.|Referenzwerte ................................................................................................................................. 8|
-|6.1|ROTEM® ......................................................................................................................................... 8|
-|6.2|ClotPro® .......................................................................................................................................... 8|
-|6.3|Multiplate® ....................................................................................................................................... 8|
-|7.|Therapiealgorithmen ........................................................................................................................ 8|
-|7.1|Perioperativ bereits antizipierte Blutungsneigung ........................................................................... 9|
-|7.2|Diffus blutender Patient nach Heparin-Antagonisierung ............................................................... 10|
-|7.3|Prolongierte Blutstillung, diffuse Hämorrhagie .............................................................................. 11|
-|7.4|Rescue-Therapieansätze............................................................................................................... 12|
-|7.4.1|Bei V. a. Thrombozytopathie / evW-Syndrom ............................................................................... 12|
-|7.4.2|Bei diffuser Blutung und länger andauernder Hämorrhagie .......................................................... 12|
-|7.4.3|Ultima ratio rFVIIa (NovoSeven) .................................................................................................... 12|
-|7.4.5|Ultima ratio aPCC  (FEIBA) ........................................................................................................... 12|
-|8.|Mitgeltende Dokumente ................................................................................................................. 12|
 
-## **1. Präoperative Diagnostik / Prämedikation** 
+# **1. Präoperative Diagnostik / Prämedikation**
 
-## **1.1 Laboruntersuchungen** 
+## **1.1 Laboruntersuchungen**
 
 - **Basislabor** : TPZ / INR, aPTT, Thrombozytenzahl, Fibrinogen 
 
@@ -45,7 +19,7 @@ Klinik für Kardioanästhesiologie und Intensivmedizin (CAI)
 
 - **bei Notfall Aortendissektion, Blutung, Schock** : präoperativ ROTEM® oder ClotPro® 
 
-## **1.2 Prämedikationsgespräch** 
+## **1.2 Prämedikationsgespräch**
 
 - Gerinnungs- und Thromboseanamnese inklusive der Vormedikation (ASS, NSAR, DOAKs, ADPAntagonisten etc.) mit exakter Abklärung der letzten Einnahme 
 
@@ -59,7 +33,7 @@ Klinik für Kardioanästhesiologie und Intensivmedizin (CAI)
 
    - (Kontaktaufnahme über Telefonzentrale der Charité: 99 - 525 000) 
 
-## **2. Absetzen antikoagulatorischer Medikation vor großen Eingriffen** 
+# **2. Absetzen antikoagulatorischer Medikation vor großen Eingriffen**
 
 Die nachfolgend empfohlenen Intervalle sind in Abhängigkeit von Diagnosen, Interventionen (z. B. Z. n. DES), Risikoprofil und einem ggf. erforderlichem Bridging der Antikoagulation des Patienten zu modifizieren. Kritische Evaluation der Notwendigkeit eines Bridgings bei kleineren Eingriffen. 
 
@@ -82,7 +56,7 @@ Die nachfolgend empfohlenen Intervalle sind in Abhängigkeit von Diagnosen, Inte
 
 Patienten, die bereits mit ASS behandelt werden, sollten dies unverändert fortführen. Ausnahmen bilden Patienten mit einem erhöhten Blutungsrisiko und Patienten, die Bluttransfusionen ablehnen. Hier sollte ASS 3-5 Tage vor der Operation abgesetzt werden (s. SOP269). 
 
-## **3. Vormedikation / Perioperative Therapie** 
+# **3. Vormedikation / Perioperative Therapie**
 
 - Therapie primär bei manifester Blutungsneigung, **keine** prophylaktische Therapie 
 
@@ -208,9 +182,9 @@ Behandlung der Blutung
 
 Andexanet alfa führt laut einem weiteren Rote-Hand-Brief bei kommerziellen Anti-Xa Essays zur Dissoziation des FXa-Inhibitors, so dass fälschlich erhöhte Anti-Xa-Aktivitätsniveaus gemessen werden können (Unterschätzung der aufhebenden Wirkung von Andexanet alfa). 
 
-## **4. Substitution von Gerinnungsprodukten** 
+# **4. Substitution von Gerinnungsprodukten**
 
-## **4.1 Anordnung von Rescuetherapien** 
+## **4.1 Anordnung von Rescuetherapien**
 
 Vor der Anwendung von folgenden Gerinnungsprodukten ist zwingend Rücksprache mit einem Oberarzt / dem Hintergrunddienst zu halten: 
 
@@ -234,11 +208,11 @@ Vor der Anwendung von folgenden Gerinnungsprodukten ist zwingend Rücksprache mi
 
 ** aPCC ( _FEIBA_ ) befindet sich im Kühlschrank der PACU. Es enthält die Faktoren II, VII (in aktivierter Form), IX und X. Zugelassen ist es für die Prophylaxe und Behandlung von Patienten mit Hämophilie A, welche FVIII-Inhibitoren entwickelt haben und Patienten mit erworbenen FVIII-Inhibitoren. Die Applikation zur Unterstützung der Blutstillung im (kardio)chirurgischen Setting basiert auf retrospektiven Daten kleinster Kohorten[6][7] und ist insofern eine off-label Anwendung. 
 
-## **4.2 HIT II** 
+## **4.2 HIT II**
 
 Für HIT-II-Patienten steht heparinfreies PPSB/4F-PCC ( _Cofact_ ) zur Verfügung. 
 
-## **4.3 Gerinnungsdepots** 
+## **4.3 Gerinnungsdepots**
 
 Eine jeweils aktuelle Version der charitéweiten Notfalldepots inkl. Gerinnungsfaktoren findet sich im Intranet. Der Apothekennotdienst ist unter der Notfall-Nr. 0174 / 904 18 24 durchgehend erreichbar. 
 
@@ -297,7 +271,7 @@ heparinfrei|_Cofact_|500 IE|X||||X|X|
 |Idarucizumab|_Praxbind_|||X|||||
 |Immunglobulin|_Octagam_u. a.|10 g|X|||||X|
 
-## **5. Intraoperative Gerinnungsdiagnostik** 
+# **5. Intraoperative Gerinnungsdiagnostik**
 
 Multiplate®-Analytik und ROTEM®-Diagnostik sind über das Akutlabor AP bzw. am Standort MA auf der Station W1i verfügbar. Ein ClotPro®-Gerät befindet sich in der PACU AP. 
 
@@ -332,9 +306,9 @@ Substitution|ROTEM® / ClotPro®
 
 > 10 Gertler R et al. re the Point-of-Care Diagnostics MULTIPLATE and ROTEM Valid in the Setting of High Concentrations of Heparin and Its Reversal With Protamine? J Cardiothorac Vasc Anesth 2011; 25(6): 981-6 
 
-## **6. Referenzwerte** 
+# **6. Referenzwerte**
 
-## **6.1 ROTEM®** 
+## **6.1 ROTEM®**
 
 ||**CT**
 [s]|**CFT**
@@ -354,7 +328,7 @@ Substitution|ROTEM® / ClotPro®
 |**FIBTEM**
 (FIB)|||7 - 23|8 - 24|9 - 25|||
 
-## **6.2 ClotPro®** 
+## **6.2 ClotPro®**
 
 ||**CT**
 [s]|**CFT**
@@ -372,13 +346,13 @@ Substitution|ROTEM® / ClotPro®
 |**ECA-test**|68 - 100|||54 - 66|58 - 70|61 - 72|
 |**RVV-test**|48 - 77|||47 - 63|53 - 67|54 - 68|
 
-## **6.3 Multiplate®** 
+## **6.3 Multiplate®**
 
 ||**ADPtest**|**ASPItest**|**TRAPtest**|
 |---|---|---|---|
 |AUC|57 - 113|71 - 115|84 - 128|
 
-## **7. Therapiealgorithmen**[11] 
+# **7. Therapiealgorithmen**[11]
 
 Dokumentation der Indikation für die Substitution von Gerinnungsfaktoren und Blutprodukten im Arztverlauf in m.life respektive COPRA. Bei allen prolongierten und/oder komplexen Blutungssituationen sollte der aufsichtführende Kollege resp. der Hintergrunddienst informiert bzw. involviert werden. 
 
@@ -386,7 +360,7 @@ Dokumentation der Indikation für die Substitution von Gerinnungsfaktoren und Bl
 
 > und: Li KC et al. Rotational Thromboelastometry-Guided Use of Synthetic Blood Products in Cardiac Transplant Patients: A Retrospective Before-After Study. J Cardiothorac Vasc Anesth 2023; 37: 1121-1128 sowie 
 
-## **7.1 Perioperativ bereits antizipierte Blutungsneigung** 
+## **7.1 Perioperativ bereits antizipierte Blutungsneigung**
 
 30 min. vor HLM-Weaning:
 kleines BB und ROTEM®-Analyse (EXTEM, FIBTEM, HEPTEM)
@@ -399,12 +373,10 @@ oder   2 Apherese-TK  vor bestellen
 MCFEXT [12]  < 50 mm  und MCFFIB
 > 12 mm
 CTEXT [12]  > 90 s   ggf. PPSB 10 IE/kg bestellen
-**----- End of picture text -----**
-
 
 > 12 Bei hohen Heparinspiegeln ≥ 4 - 5 IE/ml während der extrakorporalen Zirkulation ist der Aktivator im EXTEMReagenz lt. Herstellerangaben nicht mehr zuverlässig, im Zweifel ROTEM-Analyse **nach** Protaminisierung reevaluieren! 
 
-## **7.2 Diffus blutender Patient nach Heparin-Antagonisierung** 
+## **7.2 Diffus blutender Patient nach Heparin-Antagonisierung**
 
 |Rahmenbedingungen optimieren:
 Temp. ≥ 36°C
@@ -460,7 +432,7 @@ FFP 30 ml/kg bei Hypovolämie|
 ||||
 |CLIEXT< 85%||APTEM veranlassen|
 
-## **7.3 Prolongierte Blutstillung, diffuse Hämorrhagie** 
+## **7.3 Prolongierte Blutstillung, diffuse Hämorrhagie**
 
 |Rahmenbedingungen optimieren:
 Temp. ≥ 36°C
@@ -541,9 +513,9 @@ kontinuierliche Gabe mit
 
 > 14Haensig et al. Thrombelastometry guided blood component therapy after cardiac surgery: a randomized study. BMC Anesthesiology 2019; 19:201 
 
-## **7.4 Rescue-Therapieansätze** 
+## **7.4 Rescue-Therapieansätze**
 
-## **7.4.1 Bei V. a. Thrombozytopathie / evW-Syndrom15** 
+### **7.4.1 Bei V. a. Thrombozytopathie / evW-Syndrom15**
 
 (z. B. bei vorbestehenden Vitien mit hohen Scherkräften wie bikuspiden Aortenklappen, VAD, ECLS, ECMO): 
 
@@ -553,13 +525,13 @@ Persistiert nach Ausschöpfung aller Maßnahmen und bei V. a. ein evW-Syndrom[15
 
 Nur bei Therapieerfolg sollte / muss im Verlauf aufgrund der kurzen HWZ / des anhaltenden Verbrauchs der Faktoren an Dosisrepetition gedacht werden. 
 
-## **7.4.2 Bei diffuser Blutung und länger andauernder Hämorrhagie** 
+### **7.4.2 Bei diffuser Blutung und länger andauernder Hämorrhagie**
 
 (mulitple Re-Thorakotomien, ECLS, VAD, etc.) und/oder Hyperfibrinolyse (bzw. Z. n. Hyperfibrinolyse): 
 
 **FXIII** ( _Fibrogammin_ ) 1250-2500 IE 
 
-## **7.4.3 Ultima ratio rFVIIa (NovoSeven)** 
+### **7.4.3 Ultima ratio rFVIIa (NovoSeven)**
 
 Typischerweise reduzierte Initialdosis in der Kardiochirurgie, z. B. 20(-40) µg/kg bolusweise, in neueren Studien wurde vielfach Benefit auch bei geringeren Dosierungen gezeigt.[16] 
 
@@ -567,7 +539,7 @@ Erforderliche Mindestvoraussetzungen für Wirksamkeit beachten:
 
 Fib > 1,5 g/dl, PLT > 50.000, Hb > 7 g/dl, Temp > 34°C, ion. Ca[2+] > 0,9 mmol/l, Ausschluss Hyperfibrinolyse und Heparinwirkung 
 
-## **7.4.5 Ultima ratio aPCC  (FEIBA)** 
+### **7.4.5 Ultima ratio aPCC  (FEIBA)**
 
 Off label Anwendung zur Behandlung von DOAK-induzierten Blutungen beschrieben, aber nicht in kontrollierten Studien untersucht. 
 
@@ -575,7 +547,7 @@ Dosierung im kardiochirurgischen Setting in Kohortenstudien: 10-20 IE/kg
 
 **Cave** : deutlich erhöhtes Risiko für Thrombosen und Myokardinfarkt, die zeitgleiche Anwendung von Antifibrinolytika sollte vermieden werden (Mindestintervall 6 h lt. Fachinformation) 
 
-## **8. Mitgeltende Dokumente** 
+# **8. Mitgeltende Dokumente**
 
 SOP269 Thrombozytenaggregationshemmung und Antikoagulation prä- und postoperativ SOP504 CAI Management von Patienten mit HIT II SOP534 CAI Standardnarkose HLM 
 

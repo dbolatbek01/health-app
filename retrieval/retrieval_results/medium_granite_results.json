@@ -1,0 +1,862 @@
+{
+  "metrics": {
+    "collection": "medium_granite",
+    "recall@1": 0.78,
+    "recall@3": 0.88,
+    "recall@5": 0.9,
+    "recall@10": 0.94,
+    "mrr": 0.835
+  },
+  "per_question": [
+    {
+      "id": 1,
+      "ground_truth": "SOP_Pflege_Inhalationstherapie_IPPB_CPAP_318_30.04.2025",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Pflege_Inhalationstherapie_IPPB_CPAP_318_30.04.2025",
+        "SOP_Sekretmanagement_16.10.2025",
+        "SOP_Pflege_Pneumonie_Bronchitisprophylaxe_317_22.01.2026",
+        "SOP_Atemtraining_Sekretmanagement_181_11.02.2022",
+        "SOP_Sekretmanagement_16.10.2025",
+        "Handbuch_Herztransplantation_232_16.06.2023",
+        "SOP_Sekretmanagement_16.10.2025",
+        "SOP_Atemtraining_Sekretmanagement_181_11.02.2022",
+        "SOP_Sekretmanagement_16.10.2025",
+        "SOP_CAI_Kinderkardio_Glenn_Fontan_561_18.01.2024"
+      ]
+    },
+    {
+      "id": 2,
+      "ground_truth": "SOP_MRSA_Sanierung_Kinder_448_22.05.2024",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_MRSA_Sanierung_Kinder_448_22.05.2024",
+        "SOP_MRSA_Sanierung_Kinder_448_22.05.2024",
+        "SOP_MRSA_Sanierung_Kinder_448_22.05.2024",
+        "SOP_MRSA_Sanierung_Kinder_448_22.05.2024",
+        "SOP_Praeoperative_Dekolonisationsbehandlung_Kinder_436_08.07.2024",
+        "SOP_MRSA_Sanierung_Kinder_448_22.05.2024",
+        "SOP_Praeoperative_Dekolonisation_Herzchirurgie_371_22.04.2024",
+        "SOP_Praeoperative_Dekolonisation_Herzchirurgie_371_22.04.2024",
+        "SOP_Praeoperative_Dekolonisationsbehandlung_Kinder_436_08.07.2024",
+        "SOP_Praemedikationsvisite_520_03.02.2026"
+      ]
+    },
+    {
+      "id": 3,
+      "ground_truth": "SOP_CISORM_Notfallversorgung_602_20.05.2025",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_CISORM_Notfallversorgung_602_20.05.2025",
+        "SOP_CISORM_HK_OP_Kapazitaeten_606_21.10.2025",
+        "SOP_CISORM_Notfallversorgung_602_20.05.2025",
+        "SOP_Notfalldepot_Apotheke_OP_584_15.01.2026",
+        "SOP_CISORM_HK_OP_Kapazitaeten_606_21.10.2025",
+        "SOP_Intensivmedizinische_Behandlung_Fachaerzte_389_19.12.2023",
+        "SOP_Notfalldepot_Apotheke_OP_584_15.01.2026",
+        "SOP_CISORM_OP_Abruf_Transporte_630_18.06.2025",
+        "SOP_SHIP_TAVI_230_16.10.2024",
+        "SOP_Interventionen_mit_Anaesthesiebegleitung_585_17.06.2025"
+      ]
+    },
+    {
+      "id": 4,
+      "ground_truth": "SOP_Delir_Kinder_715_19.11.2024",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Delir_Kinder_715_19.11.2024",
+        "SOP_Delir_Kinder_715_19.11.2024",
+        "SOP_Delir_Kinder_715_19.11.2024",
+        "SOP_Delir_Kinder_715_19.11.2024",
+        "SOP_ITM_Delir_042_29.07.2020",
+        "SOP_ITM_Delir_042_29.07.2020",
+        "SOP_Klinische_Ernaehrungstherapie_Kinder_032_08.02.2022",
+        "SOP_Delir_Kinder_715_19.11.2024",
+        "SOP_ITM_Delir_042_29.07.2020",
+        "Handbuch_Herztransplantation_232_16.06.2023"
+      ]
+    },
+    {
+      "id": 5,
+      "ground_truth": "SOP_CAI_Pulmonalis_Thrombendarterektomie_540_01.04.2025",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_CAI_Pulmonalis_Thrombendarterektomie_540_01.04.2025",
+        "SOP_CAI_Robotic_Cardiac_Surgery_532_11.06.2025",
+        "SOP_CAI_Pulmonalis_Thrombendarterektomie_540_01.04.2025",
+        "SOP_CAI_HTG_Descendens_Chirurgie_524_14.07.2020",
+        "SOP_CAI_Pulmonalis_Thrombendarterektomie_540_01.04.2025",
+        "SOP_Trachealkanuelenwechsel_421_25.04.2022",
+        "Handbuch_Herztransplantation_232_16.06.2023",
+        "SOP_Anaesthesiemanagement_Transkatheterklappenintervention_541_18.07.2023",
+        "SOP_CAI_Pulmonalis_Thrombendarterektomie_540_01.04.2025",
+        "SOP_CAI_Atemwegsmanagement_Anaesthesie_507_12.12.2024"
+      ]
+    },
+    {
+      "id": 7,
+      "ground_truth": "SOP_Multiprofessionelle_Visite_342_17.09.2025",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Multiprofessionelle_Visite_342_17.09.2025",
+        "SOP_Multiprofessionelle_Visite_342_17.09.2025",
+        "SOP_Multiprofessionelle_Visite_342_17.09.2025",
+        "SOP_Multiprofessionelle_Visite_342_17.09.2025",
+        "SOP_Multiprofessionelle_Visite_342_17.09.2025",
+        "SOP_Multiprofessionelle_Visite_342_17.09.2025",
+        "SOP_Multiprofessionelle_Visite_342_17.09.2025",
+        "SOP_Intensivmedizinische_Behandlung_Fachaerzte_389_19.12.2023",
+        "SOP_Transplantationskonferenz_216_15.06.2023",
+        "SOP_Multiprofessionelle_Visite_342_17.09.2025"
+      ]
+    },
+    {
+      "id": 8,
+      "ground_truth": "SOP_Wunddokumentation_Augustenburger_Platz_217_25.03.2024",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Wunddokumentation_Augustenburger_Platz_217_25.03.2024",
+        "SOP_Wunddokumentation_Augustenburger_Platz_217_25.03.2024",
+        "SOP_Wunddokumentation_Augustenburger_Platz_217_25.03.2024",
+        "SOP_Wundkonsil_Kriterien_Ablauf_218_16.10.2024",
+        "SOP_Wundkonsil_Kriterien_Ablauf_218_16.10.2024",
+        "SOP_Umgang_Betaeubungsmittel_123_08.05.2024",
+        "SOP_CAI_Strukturen_PACU_551_25.01.2024",
+        "SOP_Wunddokumentation_Augustenburger_Platz_217_25.03.2024",
+        "SOP_Poststernotomie_Mediastinitis_857_12.04.2024",
+        "SOP_Postoperative_Versorgung_nach_VAD_Implantation_143_08.08.2023"
+      ]
+    },
+    {
+      "id": 9,
+      "ground_truth": "SOP_Ambulante_Nachsorge_Herztransplantation_144_30.06.2023",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Ambulante_Nachsorge_Herztransplantation_144_30.06.2023",
+        "SOP_Screening_Aufklaerung_Studien_1006_29.09.2025",
+        "SOP_Screening_Aufklaerung_Studien_1006_29.09.2025",
+        "SOP_Screening_Aufklaerung_Studien_1006_29.09.2025",
+        "SOP_CAI_Perioperatives_TEE_506_23.07.2019",
+        "SOP_CAI_Perioperatives_TEE_506_23.07.2019",
+        "SOP_Screening_Aufklaerung_Studien_1006_29.09.2025",
+        "SOP_Screening_Aufklaerung_Studien_1006_29.09.2025",
+        "SOP_Screening_Aufklaerung_Studien_1006_29.09.2025",
+        "SOP_Elektrophysiologische_Prozeduren_626_30.04.2026"
+      ]
+    },
+    {
+      "id": 10,
+      "ground_truth": "SOP_AHF_CAH_AB0_inkompatible_Herztransplantation_720_23.04.2024",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_AHF_CAH_AB0_inkompatible_Herztransplantation_720_23.04.2024",
+        "SOP_Ambulante_Nachsorge_Herztransplantation_144_30.06.2023",
+        "Handbuch_Herztransplantation_232_16.06.2023",
+        "Handbuch_Herztransplantation_232_16.06.2023",
+        "Handbuch_Herztransplantation_232_16.06.2023",
+        "SOP_AHF_CAH_AB0_inkompatible_Herztransplantation_720_23.04.2024",
+        "SOP_AHF_CAH_AB0_inkompatible_Herztransplantation_720_23.04.2024",
+        "SOP_Perioperative_Antimikrobielle_Prophylaxe_Kinderherz_711_21.01.2025",
+        "Handbuch_Herztransplantation_232_16.06.2023",
+        "SOP_AHF_CAH_AB0_inkompatible_Herztransplantation_720_23.04.2024"
+      ]
+    },
+    {
+      "id": 11,
+      "ground_truth": "SOP_Durchleuchtung_BV_Veradius_OP_459_30.04.2026",
+      "rank": null,
+      "retrieved_sources": [
+        "SOP_Sekretmanagement_16.10.2025",
+        "SOP_Dokumentation_Meldung_Unerwuenschte_Ereignisse_Studien_1009_29.09.2025",
+        "SOP_Erstellung_Freigabe_Reevaluation_SOP_Management_451_03.04.2023",
+        "SOP_TAVI_Prozeduren_629_30.04.2026",
+        "SOP_CAI_Strukturierte_Patientenuebergabe_538_14.10.2021",
+        "SOP_Praemedikationsvisite_520_03.02.2026",
+        "SOP_CAI_Pulmonalis_Thrombendarterektomie_540_01.04.2025",
+        "SOP_Herzkatheter_Kinder_angeborene_Herzfehler_455_15.07.2022",
+        "Handbuch_Psychosoziale_Versorgung_Anhang_018_26.11.2024",
+        "SOP_Interventionelle_Kardiologie_628_05.05.2026"
+      ]
+    },
+    {
+      "id": 12,
+      "ground_truth": "SOP_Evaluation_Herztransplantation_VAD_Inotropika_051_23.05.2023",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Evaluation_Herztransplantation_VAD_Inotropika_051_23.05.2023",
+        "Handbuch_Herztransplantation_232_16.06.2023",
+        "Handbuch_Herztransplantation_232_16.06.2023",
+        "Handbuch_Herztransplantation_232_16.06.2023",
+        "SOP_ITM_Haemodynamisches_Management_445_10.01.2020",
+        "SOP_CAI_Transplantation_Herz_Herz_Lunge_526_11.02.2025",
+        "SOP_CAI_Vermeidung_Management_Komplikationen_509_11.02.2025",
+        "SOP_CAI_Haemodynamisches_Management_Anaesthesie_502_18.09.2023",
+        "SOP_CAI_Transplantation_Herz_Herz_Lunge_526_11.02.2025",
+        "Handbuch_Herztransplantation_232_16.06.2023"
+      ]
+    },
+    {
+      "id": 13,
+      "ground_truth": "SOP_Protokollbasierte_Beatmungsentwoehnung_Weaning_514_12.04.2024",
+      "rank": 3,
+      "retrieved_sources": [
+        "SOP_Analgosedierung_postoperative_Schmerztherapie_Kinder_722_19.02.2026",
+        "Handbuch_Psychosoziale_Versorgung_Teil1_Haupttext_018_26.11.2024",
+        "SOP_Protokollbasierte_Beatmungsentwoehnung_Weaning_514_12.04.2024",
+        "Handbuch_Psychosoziale_Versorgung_Anhang_018_26.11.2024",
+        "Handbuch_Psychosoziale_Versorgung_Teil1_Haupttext_018_26.11.2024",
+        "Handbuch_Psychosoziale_Versorgung_Anhang_018_26.11.2024",
+        "Handbuch_Psychosoziale_Versorgung_Anhang_018_26.11.2024",
+        "SOP_Analgosedierung_postoperative_Schmerztherapie_Kinder_722_19.02.2026",
+        "Handbuch_Psychosoziale_Versorgung_Teil1_Haupttext_018_26.11.2024",
+        "Handbuch_Psychosoziale_Versorgung_Anhang_018_26.11.2024"
+      ]
+    },
+    {
+      "id": 14,
+      "ground_truth": "SOP_CAI_Enhanced_Recovery_minimalinvasive_Chirurgie_539_13.10.2021",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_CAI_Enhanced_Recovery_minimalinvasive_Chirurgie_539_13.10.2021",
+        "SOP_CAI_Enhanced_Recovery_minimalinvasive_Chirurgie_539_13.10.2021",
+        "SOP_CAI_Strukturen_PACU_551_25.01.2024",
+        "SOP_Praemedikationsvisite_520_03.02.2026",
+        "SOP_CAI_Gerinnungsmanagement_501_19.12.2023",
+        "SOP_Aufnahmemanagement_Intensivstation_AAS_272_25.03.2024",
+        "SOP_CAI_Standardnarkose_HLM_534_29.11.2023",
+        "SOP_Elektrophysiologische_Prozeduren_626_30.04.2026",
+        "SOP_CAI_Enhanced_Recovery_minimalinvasive_Chirurgie_539_13.10.2021",
+        "SOP_ITM_Analgosedierung_041_29.07.2020"
+      ]
+    },
+    {
+      "id": 15,
+      "ground_truth": "SOP_Transkatheter_Aortenklappe_LVAD_424_11.02.2025",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Transkatheter_Aortenklappe_LVAD_424_11.02.2025",
+        "SOP_Transkatheter_Aortenklappe_LVAD_424_11.02.2025",
+        "SOP_Transkatheter_Aortenklappe_LVAD_424_11.02.2025",
+        "SOP_SHIP_TAVI_230_16.10.2024",
+        "SOP_SHIP_TAVI_230_16.10.2024",
+        "SOP_SHIP_TAVI_230_16.10.2024",
+        "SOP_SHIP_TAVI_230_16.10.2024",
+        "SOP_TAVI_Prozeduren_629_30.04.2026",
+        "SOP_Transkatheter_Aortenklappe_LVAD_424_11.02.2025",
+        "SOP_SHIP_TAVI_230_16.10.2024"
+      ]
+    },
+    {
+      "id": 16,
+      "ground_truth": "SOP_CAI_Dokumentation_Anaesthesie_580_19.12.2023",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_CAI_Dokumentation_Anaesthesie_580_19.12.2023",
+        "SOP_Interventionen_mit_Anaesthesiebegleitung_585_17.06.2025",
+        "SOP_CAI_Strukturen_PACU_551_25.01.2024",
+        "SOP_CAI_Dokumentation_Anaesthesie_580_19.12.2023",
+        "SOP_Venoese_CT_Thorax_377_16.05.2022",
+        "SOP_CISORM_Patientensicherheitschecklisten_Time_Out_614_24.07.2025",
+        "SOP_Aufbau_Hochdruckinjektor_Accutron_CT_D_385_16.05.2022",
+        "SOP_Venoese_CT_Abdomen_378_16.05.2022",
+        "SOP_Praemedikationsvisite_520_03.02.2026",
+        "SOP_CAI_Dokumentation_Anaesthesie_580_19.12.2023"
+      ]
+    },
+    {
+      "id": 17,
+      "ground_truth": "SOP_Interdisziplinaere_Bettenbesprechung_071_16.06.2023",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Interdisziplinaere_Bettenbesprechung_071_16.06.2023",
+        "SOP_Interdisziplinaere_Bettenbesprechung_071_16.06.2023",
+        "SOP_Interdisziplinaere_Bettenbesprechung_071_16.06.2023",
+        "SOP_Multiprofessionelle_Visite_342_17.09.2025",
+        "SOP_Multiprofessionelle_Visite_342_17.09.2025",
+        "SOP_Interdisziplinaere_Betreuung_Herzinsuffizienz_321_28.01.2022",
+        "SOP_Multiprofessionelle_Visite_342_17.09.2025",
+        "SOP_Umgang_Betaeubungsmittel_123_08.05.2024",
+        "SOP_CISORM_Patientenlagerung_HTG_612_18.02.2019",
+        "SOP_Notfallmaessige_Aufnahme_VAD_223_31.07.2024"
+      ]
+    },
+    {
+      "id": 18,
+      "ground_truth": "SOP_Patientenvorstellung_Kinderkardio_Kinderherzchirurgie_Konferenz_721_02.10.2025",
+      "rank": 4,
+      "retrieved_sources": [
+        "SOP_Screening_Aufklaerung_Studien_1006_29.09.2025",
+        "SOP_Screening_Aufklaerung_Studien_1006_29.09.2025",
+        "SOP_Screening_Aufklaerung_Studien_1006_29.09.2025",
+        "SOP_Patientenvorstellung_Kinderkardio_Kinderherzchirurgie_Konferenz_721_02.10.2025",
+        "SOP_Patientenvorstellung_Kinderkardio_Kinderherzchirurgie_Konferenz_721_02.10.2025",
+        "SOP_Screening_Aufklaerung_Studien_1006_29.09.2025",
+        "SOP_Screening_Aufklaerung_Studien_1006_29.09.2025",
+        "SOP_Anwendung_freiheitseinschraenkende_Massnahmen_FEM_029_24.09.2021",
+        "SOP_Screening_Aufklaerung_Studien_1006_29.09.2025",
+        "Handbuch_Herztransplantation_232_16.06.2023"
+      ]
+    },
+    {
+      "id": 19,
+      "ground_truth": "SOP_Antithrombotische_Therapie_Kinder_VAD_712_18.11.2022",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Antithrombotische_Therapie_Kinder_VAD_712_18.11.2022",
+        "SOP_Antithrombotische_Therapie_Kinder_VAD_712_18.11.2022",
+        "SOP_Antithrombotische_Therapie_Kinder_VAD_712_18.11.2022",
+        "SOP_Antithrombotische_Therapie_Kinder_VAD_712_18.11.2022",
+        "SOP_Antithrombotische_Therapie_Kinder_VAD_712_18.11.2022",
+        "SOP_Antithrombotische_Therapie_Kinder_VAD_712_18.11.2022",
+        "Empfehlungen Dosierungen_TDM_erweitert für ABx_2026_01",
+        "SOP_Antithrombotische_Therapie_Kinder_VAD_712_18.11.2022",
+        "SOP_Perioperative_Antimikrobielle_Prophylaxe_Kinderherz_711_21.01.2025",
+        "SOP_Antithrombotische_Therapie_Kinder_VAD_712_18.11.2022"
+      ]
+    },
+    {
+      "id": 20,
+      "ground_truth": "SOP_Einweg_Ambu_Beutel_Kinder_308_08.08.2024",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Einweg_Ambu_Beutel_Kinder_308_08.08.2024",
+        "SOP_Einweg_Ambu_Beutel_Kinder_308_08.08.2024",
+        "SOP_Einweg_Ambu_Beutel_Kinder_308_08.08.2024",
+        "SOP_Bestellung_Herzverschlussstopfen_LVAD_Explantation_310_25.04.2025",
+        "SOP_Bestellung_Herzverschlussstopfen_LVAD_Explantation_310_25.04.2025",
+        "SOP_Bestellung_Herzverschlussstopfen_LVAD_Explantation_310_25.04.2025",
+        "SOP_Bestellung_Herzverschlussstopfen_LVAD_Explantation_310_25.04.2025",
+        "SOP_CAI_Atemwegsmanagement_Anaesthesie_507_12.12.2024",
+        "SOP_Bestellung_Herzverschlussstopfen_LVAD_Explantation_310_25.04.2025",
+        "SOP_Bestellung_Herzverschlussstopfen_LVAD_Explantation_310_25.04.2025"
+      ]
+    },
+    {
+      "id": 21,
+      "ground_truth": "SOP_Praeoperative_Dekolonisationsbehandlung_Kinder_436_08.07.2024",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Praeoperative_Dekolonisationsbehandlung_Kinder_436_08.07.2024",
+        "SOP_MRSA_Sanierung_Kinder_448_22.05.2024",
+        "SOP_MRSA_Sanierung_Kinder_448_22.05.2024",
+        "SOP_Praeoperative_Dekolonisationsbehandlung_Kinder_436_08.07.2024",
+        "SOP_Praeoperative_Dekolonisationsbehandlung_Kinder_436_08.07.2024",
+        "SOP_Praeoperative_Dekolonisation_Herzchirurgie_371_22.04.2024",
+        "SOP_CAI_Vermeidung_Management_Komplikationen_509_11.02.2025",
+        "SOP_AHF_CAH_Targeted_Temperature_Management_TTM_703_18.01.2024",
+        "SOP_Praevention_Wundinfektionen_Herzchirurgie_864_24.04.2024",
+        "SOP_CAI_Atemwegsmanagement_Anaesthesie_507_12.12.2024"
+      ]
+    },
+    {
+      "id": 22,
+      "ground_truth": "SOP_CAI_HTG_Descendens_Chirurgie_524_14.07.2020",
+      "rank": 2,
+      "retrieved_sources": [
+        "SOP_SHIP_TAVI_230_16.10.2024",
+        "SOP_CAI_HTG_Descendens_Chirurgie_524_14.07.2020",
+        "SOP_CAI_HTG_Descendens_Chirurgie_524_14.07.2020",
+        "SOP_CAI_Anaesthesie_kleine_Eingriffe_ohne_HLM_525_08.02.2024",
+        "SOP_CAI_HTG_Ascendens_Aortenbogen_Chirurgie_522_05.08.2021",
+        "SOP_SHIP_Komplikationsmanagement_TMVI_TTVI_409_16.10.2024",
+        "SOP_Poststernotomie_Mediastinitis_857_12.04.2024",
+        "SOP_CAI_HTG_Descendens_Chirurgie_524_14.07.2020",
+        "SOP_CAI_Anaesthesie_kleine_Eingriffe_ohne_HLM_525_08.02.2024",
+        "SOP_SHIP_TAVI_230_16.10.2024"
+      ]
+    },
+    {
+      "id": 23,
+      "ground_truth": "SOP_Analgosedierung_kardiologische_rhythmologische_Eingriffe_625_30.04.2026",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Analgosedierung_kardiologische_rhythmologische_Eingriffe_625_30.04.2026",
+        "SOP_Analgosedierung_kardiologische_rhythmologische_Eingriffe_625_30.04.2026",
+        "SOP_Analgosedierung_kardiologische_rhythmologische_Eingriffe_625_30.04.2026",
+        "SOP_Analgosedierung_kardiologische_rhythmologische_Eingriffe_625_30.04.2026",
+        "SOP_Praemedikationsvisite_520_03.02.2026",
+        "SOP_CAI_Anaesthesie_CIED_Eingriffe_523_23.02.2024",
+        "SOP_Analgosedierung_kardiologische_rhythmologische_Eingriffe_625_30.04.2026",
+        "SOP_Praemedikationsvisite_520_03.02.2026",
+        "SOP_Analgosedierung_kardiologische_rhythmologische_Eingriffe_625_30.04.2026",
+        "SOP_Praeoperatives_Management_CIED_HTG_751_30.04.2026"
+      ]
+    },
+    {
+      "id": 24,
+      "ground_truth": "SOP_Bestellung_Herzverschlussstopfen_LVAD_Explantation_310_25.04.2025",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Bestellung_Herzverschlussstopfen_LVAD_Explantation_310_25.04.2025",
+        "SOP_Bestellung_Herzverschlussstopfen_LVAD_Explantation_310_25.04.2025",
+        "SOP_Bestellung_Herzverschlussstopfen_LVAD_Explantation_310_25.04.2025",
+        "SOP_Bestellung_Herzverschlussstopfen_LVAD_Explantation_310_25.04.2025",
+        "SOP_Bestellung_Herzverschlussstopfen_LVAD_Explantation_310_25.04.2025",
+        "SOP_Bestellung_Herzverschlussstopfen_LVAD_Explantation_310_25.04.2025",
+        "SOP_Bestellung_Herzverschlussstopfen_LVAD_Explantation_310_25.04.2025",
+        "SOP_Bestellung_Herzverschlussstopfen_LVAD_Explantation_310_25.04.2025",
+        "SOP_Bestellung_Herzverschlussstopfen_LVAD_Explantation_310_25.04.2025",
+        "SOP_Bestellung_Herzverschlussstopfen_LVAD_Explantation_310_25.04.2025"
+      ]
+    },
+    {
+      "id": 25,
+      "ground_truth": "SOP_Interdisziplinaere_Bettenbesprechung_071_16.06.2023",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Interdisziplinaere_Bettenbesprechung_071_16.06.2023",
+        "SOP_Intensivmedizinische_Behandlung_Fachaerzte_389_19.12.2023",
+        "SOP_Interdisziplinaere_Bettenbesprechung_071_16.06.2023",
+        "SOP_Multiprofessionelle_Visite_342_17.09.2025",
+        "SOP_Multiprofessionelle_Visite_342_17.09.2025",
+        "SOP_Intensivmedizinische_Behandlung_Fachaerzte_389_19.12.2023",
+        "SOP_Elektrische_Kardioversion_048_13.06.2024",
+        "SOP_Intensivmedizinische_Behandlung_Fachaerzte_389_19.12.2023",
+        "SOP_SHIP_TAVI_230_16.10.2024",
+        "SOP_Protokollbasierte_Beatmungsentwoehnung_Weaning_514_12.04.2024"
+      ]
+    },
+    {
+      "id": 26,
+      "ground_truth": "SOP_AHF_CAH_Antikoagulation_Bridging_701_07.02.2023",
+      "rank": null,
+      "retrieved_sources": [
+        "SOP_Antithrombotische_Therapie_Kinder_VAD_712_18.11.2022",
+        "SOP_Antithrombozytaere_Therapie_peri_postinterventionell_900_18.10.2023",
+        "SOP_Herzkatheter_Kinder_angeborene_Herzfehler_455_15.07.2022",
+        "SOP_Durchleuchtung_BV_Veradius_OP_459_30.04.2026",
+        "SOP_Herzkatheter_Kinder_angeborene_Herzfehler_455_15.07.2022",
+        "SOP_Roentgen_Thorax_Erwachsene_327_15.07.2022",
+        "SOP_Evaluation_Herztransplantation_VAD_Inotropika_051_23.05.2023",
+        "SOP_CAI_Gerinnungsmanagement_501_19.12.2023",
+        "SOP_CT_Abdominale_Aorta_380_16.05.2022",
+        "SOP_CT_Angiographie_gesamte_Aorta_381_16.05.2022"
+      ]
+    },
+    {
+      "id": 27,
+      "ground_truth": "SOP_CAI_Heparin_Protamin_Management_503_09.07.2025",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_CAI_Heparin_Protamin_Management_503_09.07.2025",
+        "SOP_CAI_Heparin_Protamin_Management_503_09.07.2025",
+        "SOP_CAI_Heparin_Protamin_Management_503_09.07.2025",
+        "SOP_CAI_Heparin_Protamin_Management_503_09.07.2025",
+        "SOP_CAI_Heparin_Protamin_Management_503_09.07.2025",
+        "SOP_CAI_Heparin_Protamin_Management_503_09.07.2025",
+        "SOP_CAI_Heparin_Protamin_Management_503_09.07.2025",
+        "SOP_CAI_Gerinnungsmanagement_501_19.12.2023",
+        "SOP_CAI_Pulmonalis_Thrombendarterektomie_540_01.04.2025",
+        "SOP_CAI_Gerinnungsmanagement_501_19.12.2023"
+      ]
+    },
+    {
+      "id": 28,
+      "ground_truth": "SOP_CAI_Atemwegsmanagement_Anaesthesie_507_12.12.2024",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_CAI_Atemwegsmanagement_Anaesthesie_507_12.12.2024",
+        "SOP_Weiterreichung_Rettungsdienstprotokolle_435_08.08.2023",
+        "SOP_Aortentelefon_273_25.03.2024",
+        "SOP_Aortentelefon_273_25.03.2024",
+        "SOP_Aortenalarm_Notaufnahme_CVK_278_19.12.2023",
+        "SOP_Aortentelefon_273_25.03.2024",
+        "SOP_Aortentelefon_273_25.03.2024",
+        "SOP_Nierenersatztherapie_CVK_356_01.04.2025",
+        "SOP_Aortenalarm_Notaufnahme_CVK_278_19.12.2023",
+        "SOP_Aortentelefon_273_25.03.2024"
+      ]
+    },
+    {
+      "id": 29,
+      "ground_truth": "SOP_ITM_Analgosedierung_041_29.07.2020",
+      "rank": 6,
+      "retrieved_sources": [
+        "SOP_Analgosedierung_kardiologische_rhythmologische_Eingriffe_625_30.04.2026",
+        "SOP_Analgosedierung_kardiologische_rhythmologische_Eingriffe_625_30.04.2026",
+        "SOP_CAI_SPK_Spinalkatheter_570_06.08.2020",
+        "SOP_Analgosedierung_kardiologische_rhythmologische_Eingriffe_625_30.04.2026",
+        "SOP_TAVI_Prozeduren_629_30.04.2026",
+        "SOP_ITM_Analgosedierung_041_29.07.2020",
+        "SOP_Postoperatives_Management_CIED_HTG_750_30.04.2026",
+        "SOP_ITM_Analgosedierung_041_29.07.2020",
+        "SOP_Analgosedierung_kardiologische_rhythmologische_Eingriffe_625_30.04.2026",
+        "SOP_Analgosedierung_kardiologische_rhythmologische_Eingriffe_625_30.04.2026"
+      ]
+    },
+    {
+      "id": 30,
+      "ground_truth": "SOP_ITM_Delir_042_29.07.2020",
+      "rank": 2,
+      "retrieved_sources": [
+        "Handbuch_Herztransplantation_232_16.06.2023",
+        "SOP_ITM_Delir_042_29.07.2020",
+        "Handbuch_Psychosoziale_Versorgung_Anhang_018_26.11.2024",
+        "SOP_Akute_Nierenschaedigung_Nierenersatztherapie_357_24.11.2020",
+        "Handbuch_Herztransplantation_232_16.06.2023",
+        "SOP_Akute_Nierenschaedigung_Nierenersatztherapie_357_24.11.2020",
+        "SOP_Akute_Nierenschaedigung_Nierenersatztherapie_357_24.11.2020",
+        "SOP_Akute_Nierenschaedigung_Nierenersatztherapie_357_24.11.2020",
+        "Handbuch_Herztransplantation_232_16.06.2023",
+        "SOP_ITM_Haemodynamisches_Management_445_10.01.2020"
+      ]
+    },
+    {
+      "id": 31,
+      "ground_truth": "SOP_CAI_Klappenchirurgie_528_11.06.2025",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_CAI_Klappenchirurgie_528_11.06.2025",
+        "Handbuch_Herztransplantation_232_16.06.2023",
+        "SOP_Koronarchirurgie_LVEF_25_316_13.11.2025",
+        "SOP_CAI_Koronarchirurgie_529_18.06.2025",
+        "SOP_SHIP_TAVI_230_16.10.2024",
+        "SOP_CAI_Perioperatives_TEE_506_23.07.2019",
+        "SOP_CAI_Koronarchirurgie_529_18.06.2025",
+        "SOP_Perioperative_Antimikrobielle_Prophylaxe_533_18.12.2025",
+        "SOP_Schwerer_kardiogener_Schock_Kurzzeit_MCS_057_13.11.2025",
+        "SOP_SHIP_TAVI_230_16.10.2024"
+      ]
+    },
+    {
+      "id": 32,
+      "ground_truth": "SOP_CAI_Koronarchirurgie_529_18.06.2025",
+      "rank": 2,
+      "retrieved_sources": [
+        "SOP_CAI_Heparin_Protamin_Management_503_09.07.2025",
+        "SOP_CAI_Koronarchirurgie_529_18.06.2025",
+        "SOP_CAI_Management_HIT_II_504_25.03.2024",
+        "SOP_CAI_Heparin_Protamin_Management_503_09.07.2025",
+        "SOP_CAI_Management_HIT_II_504_25.03.2024",
+        "SOP_CAI_Heparin_Protamin_Management_503_09.07.2025",
+        "SOP_CAI_Heparin_Protamin_Management_503_09.07.2025",
+        "SOP_CAI_Gerinnungsmanagement_501_19.12.2023",
+        "SOP_CAI_Heparin_Protamin_Management_503_09.07.2025",
+        "SOP_CAI_Koronarchirurgie_529_18.06.2025"
+      ]
+    },
+    {
+      "id": 33,
+      "ground_truth": "SOP_CAI_Transplantation_Herz_Herz_Lunge_526_11.02.2025",
+      "rank": 3,
+      "retrieved_sources": [
+        "Handbuch_Herztransplantation_232_16.06.2023",
+        "SOP_Perioperative_Antimikrobielle_Prophylaxe_Kinderherz_711_21.01.2025",
+        "SOP_CAI_Transplantation_Herz_Herz_Lunge_526_11.02.2025",
+        "Handbuch_Herztransplantation_232_16.06.2023",
+        "Handbuch_Herztransplantation_232_16.06.2023",
+        "Handbuch_Herztransplantation_232_16.06.2023",
+        "SOP_Ambulante_Nachsorge_Herztransplantation_144_30.06.2023",
+        "Handbuch_Herztransplantation_232_16.06.2023",
+        "Handbuch_Herztransplantation_232_16.06.2023",
+        "SOP_CAI_Transplantation_Herz_Herz_Lunge_526_11.02.2025"
+      ]
+    },
+    {
+      "id": 34,
+      "ground_truth": "SOP_CAI_Transplantation_Lunge_530_16.12.2025",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_CAI_Transplantation_Lunge_530_16.12.2025",
+        "SOP_CAI_Transplantation_Lunge_530_16.12.2025",
+        "SOP_CAI_Transplantation_Lunge_530_16.12.2025",
+        "SOP_CAI_Transplantation_Lunge_530_16.12.2025",
+        "SOP_CAI_Transplantation_Lunge_530_16.12.2025",
+        "SOP_CAI_Transplantation_Herz_Herz_Lunge_526_11.02.2025",
+        "SOP_Pflege_Praeoperative_Vorbereitung_Transplantation_324_30.04.2025",
+        "SOP_CAI_Transplantation_Lunge_530_16.12.2025",
+        "SOP_CAI_Transplantation_Herz_Herz_Lunge_526_11.02.2025",
+        "Handbuch_Extrakorporale_Unterstuetzung_ECLS_050_08.08.2023"
+      ]
+    },
+    {
+      "id": 35,
+      "ground_truth": "SOP_Perioperative_Antimikrobielle_Prophylaxe_533_18.12.2025",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Perioperative_Antimikrobielle_Prophylaxe_533_18.12.2025",
+        "SOP_Perioperative_Antimikrobielle_Prophylaxe_533_18.12.2025",
+        "SOP_Perioperative_Antimikrobielle_Prophylaxe_533_18.12.2025",
+        "SOP_Perioperative_Antimikrobielle_Prophylaxe_533_18.12.2025",
+        "SOP_Perioperative_Antimikrobielle_Prophylaxe_Kinderherz_711_21.01.2025",
+        "SOP_Perioperative_Antimikrobielle_Prophylaxe_533_18.12.2025",
+        "SOP_Perioperative_Antimikrobielle_Prophylaxe_Kinderherz_711_21.01.2025",
+        "SOP_Perioperative_Antimikrobielle_Prophylaxe_533_18.12.2025",
+        "SOP_Perioperative_Antimikrobielle_Prophylaxe_533_18.12.2025",
+        "SOP_Perioperative_Antimikrobielle_Prophylaxe_533_18.12.2025"
+      ]
+    },
+    {
+      "id": 36,
+      "ground_truth": "SOP_Perioperative_Antimikrobielle_Prophylaxe_Kinderherz_711_21.01.2025",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Perioperative_Antimikrobielle_Prophylaxe_Kinderherz_711_21.01.2025",
+        "SOP_Perioperative_Antimikrobielle_Prophylaxe_Kinderherz_711_21.01.2025",
+        "SOP_Perioperative_Antimikrobielle_Prophylaxe_533_18.12.2025",
+        "SOP_Perioperative_Antimikrobielle_Prophylaxe_Kinderherz_711_21.01.2025",
+        "SOP_Perioperative_Antimikrobielle_Prophylaxe_533_18.12.2025",
+        "SOP_MRSA_Sanierung_Kinder_448_22.05.2024",
+        "SOP_MRSA_Sanierung_Kinder_448_22.05.2024",
+        "SOP_Praeoperative_Dekolonisationsbehandlung_Kinder_436_08.07.2024",
+        "SOP_Perioperative_Antimikrobielle_Prophylaxe_533_18.12.2025",
+        "SOP_Perioperative_Antimikrobielle_Prophylaxe_533_18.12.2025"
+      ]
+    },
+    {
+      "id": 37,
+      "ground_truth": "SOP_Bauchlagerung_ARDS_422_01.02.2023",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Bauchlagerung_ARDS_422_01.02.2023",
+        "SOP_Bauchlagerung_ARDS_422_01.02.2023",
+        "SOP_Bauchlagerung_ARDS_422_01.02.2023",
+        "SOP_Bauchlagerung_ARDS_422_01.02.2023",
+        "SOP_Bauchlagerung_ARDS_422_01.02.2023",
+        "SOP_Aufnahmemanagement_Intensivstation_AAS_272_25.03.2024",
+        "SOP_CAI_Endoaortale_Ballonokklusion_IntraClude_521_08.02.2024",
+        "SOP_Perioperativer_Einsatz_Autotransfusion_513_18.09.2023",
+        "SOP_CAI_Anaesthesie_CIED_Eingriffe_523_23.02.2024",
+        "SOP_Bauchlagerung_ARDS_422_01.02.2023"
+      ]
+    },
+    {
+      "id": 38,
+      "ground_truth": "SOP_CAI_Neuromonitoring_505_21.12.2022",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_CAI_Neuromonitoring_505_21.12.2022",
+        "SOP_CAI_Neuromonitoring_505_21.12.2022",
+        "SOP_Vermeidung_ischaemische_Komplikationen_Kanuelierung_027_24.09.2021",
+        "SOP_CAI_Neuromonitoring_505_21.12.2022",
+        "SOP_Vermeidung_ischaemische_Komplikationen_Kanuelierung_027_24.09.2021",
+        "SOP_CAI_SPK_Spinalkatheter_570_06.08.2020",
+        "SOP_CAI_HTG_Descendens_Chirurgie_524_14.07.2020",
+        "SOP_Vermeidung_ischaemische_Komplikationen_Kanuelierung_027_24.09.2021",
+        "SOP_CAI_Neuromonitoring_505_21.12.2022",
+        "SOP_CAI_SPK_Spinalkatheter_570_06.08.2020"
+      ]
+    },
+    {
+      "id": 39,
+      "ground_truth": "SOP_Postoperative_Versorgung_nach_VAD_Implantation_143_08.08.2023",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Postoperative_Versorgung_nach_VAD_Implantation_143_08.08.2023",
+        "SOP_AHF_Echokardiographie_Kinder_am_VAD_717_18.01.2024",
+        "SOP_LVAD_Weaning_391_27.02.2025",
+        "SOP_AHF_Echokardiographie_Kinder_am_VAD_717_18.01.2024",
+        "SOP_AHF_Echokardiographie_Kinder_am_VAD_717_18.01.2024",
+        "SOP_AHF_Echokardiographie_Kinder_am_VAD_717_18.01.2024",
+        "SOP_CAI_Haemodynamisches_Management_Anaesthesie_502_18.09.2023",
+        "Handbuch_Herztransplantation_232_16.06.2023",
+        "SOP_Postoperative_Versorgung_nach_VAD_Implantation_143_08.08.2023",
+        "SOP_CAI_Anaesthesie_kleine_Eingriffe_ohne_HLM_525_08.02.2024"
+      ]
+    },
+    {
+      "id": 40,
+      "ground_truth": "SOP_Chylothorax_angeborene_Herzfehler_713_02.01.2023",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Chylothorax_angeborene_Herzfehler_713_02.01.2023",
+        "SOP_Chylothorax_angeborene_Herzfehler_713_02.01.2023",
+        "SOP_Chylothorax_angeborene_Herzfehler_713_02.01.2023",
+        "SOP_Chylothorax_angeborene_Herzfehler_713_02.01.2023",
+        "SOP_Chylothorax_angeborene_Herzfehler_713_02.01.2023",
+        "SOP_Klinische_Ernaehrungstherapie_Kinder_032_08.02.2022",
+        "SOP_Verpflegungskatalog_Diaetkatalog_038_05.06.2025",
+        "SOP_Hygienemassnahmen_Muttermilch_Saeuglingsnahrung_033_20.11.2024",
+        "SOP_Verpflegungskatalog_Diaetkatalog_038_05.06.2025",
+        "SOP_Klinische_Ernaehrungstherapie_Kinder_032_08.02.2022"
+      ]
+    },
+    {
+      "id": 41,
+      "ground_truth": "SOP_AHF_CAH_Targeted_Temperature_Management_TTM_703_18.01.2024",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_AHF_CAH_Targeted_Temperature_Management_TTM_703_18.01.2024",
+        "SOP_AHF_CAH_Targeted_Temperature_Management_TTM_703_18.01.2024",
+        "SOP_AHF_CAH_Targeted_Temperature_Management_TTM_703_18.01.2024",
+        "SOP_AHF_CAH_Targeted_Temperature_Management_TTM_703_18.01.2024",
+        "SOP_AHF_CAH_Targeted_Temperature_Management_TTM_703_18.01.2024",
+        "SOP_AHF_CAH_Targeted_Temperature_Management_TTM_703_18.01.2024",
+        "SOP_AHF_CAH_Targeted_Temperature_Management_TTM_703_18.01.2024",
+        "SOP_AHF_CAH_Targeted_Temperature_Management_TTM_703_18.01.2024",
+        "SOP_AHF_CAH_Targeted_Temperature_Management_TTM_703_18.01.2024",
+        "SOP_AHF_CAH_Targeted_Temperature_Management_TTM_703_18.01.2024"
+      ]
+    },
+    {
+      "id": 42,
+      "ground_truth": "SOP_Mobilisation_temporaere_MCS_049_06.04.2024",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Mobilisation_temporaere_MCS_049_06.04.2024",
+        "SOP_Mobilisation_temporaere_MCS_049_06.04.2024",
+        "SOP_Mobilisation_temporaere_MCS_049_06.04.2024",
+        "SOP_Kardiotechnik_Impella_System_806_08.07.2024",
+        "SOP_Mobilisation_temporaere_MCS_049_06.04.2024",
+        "SOP_Kardiotechnik_Impella_System_806_08.07.2024",
+        "SOP_Kardiotechnik_Impella_System_806_08.07.2024",
+        "SOP_Implantation_Explantation_Kurzzeit_MCS_055_01.04.2025",
+        "SOP_Implantation_Explantation_Kurzzeit_MCS_055_01.04.2025",
+        "SOP_Kardiotechnik_Impella_System_806_08.07.2024"
+      ]
+    },
+    {
+      "id": 43,
+      "ground_truth": "SOP_Akute_Nierenschaedigung_Nierenersatztherapie_357_24.11.2020",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Akute_Nierenschaedigung_Nierenersatztherapie_357_24.11.2020",
+        "SOP_Akute_Nierenschaedigung_Nierenersatztherapie_357_24.11.2020",
+        "SOP_Akute_Nierenschaedigung_Nierenersatztherapie_357_24.11.2020",
+        "SOP_Akute_Nierenschaedigung_Nierenersatztherapie_357_24.11.2020",
+        "SOP_Akute_Nierenschaedigung_Nierenersatztherapie_357_24.11.2020",
+        "SOP_Akute_Nierenschaedigung_Nierenersatztherapie_357_24.11.2020",
+        "SOP_Akute_Nierenschaedigung_Nierenersatztherapie_357_24.11.2020",
+        "SOP_Chest_Pain_Unit_Thoraxschmerzen_282_12.12.2023",
+        "SOP_Analgosedierung_kardiologische_rhythmologische_Eingriffe_625_30.04.2026",
+        "Handbuch_Herztransplantation_232_16.06.2023"
+      ]
+    },
+    {
+      "id": 44,
+      "ground_truth": "SOP_Intubation_Intensivstation_075_17.12.2021",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Intubation_Intensivstation_075_17.12.2021",
+        "SOP_Intubation_Intensivstation_075_17.12.2021",
+        "SOP_CAI_Atemwegsmanagement_Anaesthesie_507_12.12.2024",
+        "SOP_Intubation_Intensivstation_075_17.12.2021",
+        "SOP_Elektrische_Kardioversion_048_13.06.2024",
+        "SOP_CAI_Standardnarkose_HLM_534_29.11.2023",
+        "SOP_CAI_Atemwegsmanagement_Anaesthesie_507_12.12.2024",
+        "SOP_CAI_Atemwegsmanagement_Anaesthesie_507_12.12.2024",
+        "SOP_Intubation_Intensivstation_075_17.12.2021",
+        "SOP_Praemedikationsvisite_520_03.02.2026"
+      ]
+    },
+    {
+      "id": 45,
+      "ground_truth": "SOP_CAI_Management_HIT_II_504_25.03.2024",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_CAI_Management_HIT_II_504_25.03.2024",
+        "SOP_CAI_Management_HIT_II_504_25.03.2024",
+        "SOP_Praemedikationsvisite_520_03.02.2026",
+        "SOP_CAI_Management_HIT_II_504_25.03.2024",
+        "SOP_CAI_Management_HIT_II_504_25.03.2024",
+        "SOP_CAI_Standardnarkose_HLM_534_29.11.2023",
+        "SOP_CAI_Management_HIT_II_504_25.03.2024",
+        "SOP_CAI_Management_HIT_II_504_25.03.2024",
+        "SOP_CAI_Management_HIT_II_504_25.03.2024",
+        "Handbuch_Herztransplantation_232_16.06.2023"
+      ]
+    },
+    {
+      "id": 46,
+      "ground_truth": "SOP_Therapie_Kurzzeit_MCS_234_27.01.2026",
+      "rank": 6,
+      "retrieved_sources": [
+        "Handbuch_Extrakorporale_Unterstuetzung_ECLS_050_08.08.2023",
+        "SOP_Implantation_Explantation_Kurzzeit_MCS_055_01.04.2025",
+        "SOP_Schwerer_kardiogener_Schock_Kurzzeit_MCS_057_13.11.2025",
+        "SOP_CAI_Anaesthesie_MCS_Implantation_531_19.12.2023",
+        "Handbuch_Extrakorporale_Unterstuetzung_ECLS_050_08.08.2023",
+        "SOP_Therapie_Kurzzeit_MCS_234_27.01.2026",
+        "Handbuch_Extrakorporale_Unterstuetzung_ECLS_050_08.08.2023",
+        "SOP_Schwerer_kardiogener_Schock_Kurzzeit_MCS_057_13.11.2025",
+        "Handbuch_Extrakorporale_Unterstuetzung_ECLS_050_08.08.2023",
+        "SOP_CAI_Anaesthesie_MCS_Implantation_531_19.12.2023"
+      ]
+    },
+    {
+      "id": 47,
+      "ground_truth": "SOP_AHF_CAH_Reanimation_paediatrische_Patienten_702_14.02.2023",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_AHF_CAH_Reanimation_paediatrische_Patienten_702_14.02.2023",
+        "SOP_Aortentelefon_273_25.03.2024",
+        "SOP_Aortentelefon_273_25.03.2024",
+        "SOP_Aortenalarm_Notaufnahme_CVK_278_19.12.2023",
+        "SOP_AHF_CAH_Reanimation_paediatrische_Patienten_702_14.02.2023",
+        "SOP_Aortentelefon_273_25.03.2024",
+        "SOP_CPU_Akutes_Aortensyndrom_AAS_287_24.05.2024",
+        "SOP_Aortentelefon_273_25.03.2024",
+        "SOP_Interventionen_mit_Anaesthesiebegleitung_585_17.06.2025",
+        "SOP_CPU_Akutes_Aortensyndrom_AAS_287_24.05.2024"
+      ]
+    },
+    {
+      "id": 48,
+      "ground_truth": "SOP_CAI_Kinderkardio_Norwood_562_23.02.2024",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_CAI_Kinderkardio_Norwood_562_23.02.2024",
+        "SOP_CAI_Kinderkardio_Norwood_562_23.02.2024",
+        "SOP_CAI_Kinderkardio_Standard_HLM_564_25.01.2024",
+        "SOP_CAI_Kinderkardio_Shunt_563_23.02.2024",
+        "SOP_CAI_Anaesthesie_CIED_Eingriffe_523_23.02.2024",
+        "SOP_CAI_Anaesthesie_kleine_Eingriffe_ohne_HLM_525_08.02.2024",
+        "SOP_CAI_Standardnarkose_HLM_534_29.11.2023",
+        "SOP_CAI_Standardnarkose_HLM_534_29.11.2023",
+        "SOP_CAI_Neuromonitoring_505_21.12.2022",
+        "SOP_CAI_Superior_Vena_Cava_HLM_Kanuelierung_535_07.08.2025"
+      ]
+    },
+    {
+      "id": 49,
+      "ground_truth": "SOP_Therapiezielaenderung_Palliation_420_23.03.2026",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Therapiezielaenderung_Palliation_420_23.03.2026",
+        "SOP_Therapiezielaenderung_Palliation_420_23.03.2026",
+        "SOP_Therapiezielaenderung_Palliation_420_23.03.2026",
+        "SOP_Therapiezielaenderung_Palliation_420_23.03.2026",
+        "SOP_Therapiezielaenderung_Palliation_420_23.03.2026",
+        "SOP_Therapiezielaenderung_Palliation_420_23.03.2026",
+        "SOP_Therapiezielaenderung_Palliation_420_23.03.2026",
+        "SOP_Therapiezielaenderung_Palliation_420_23.03.2026",
+        "SOP_Implantation_Explantation_Kurzzeit_MCS_055_01.04.2025",
+        "SOP_Therapiezielaenderung_Palliation_420_23.03.2026"
+      ]
+    },
+    {
+      "id": 50,
+      "ground_truth": "SOP_CAI_Waermemanagement_Kardiochirurgie",
+      "rank": null,
+      "retrieved_sources": [
+        "SOP_CAI_Waermemanagement_Kardiochirurgie_510_24.11.2023",
+        "SOP_CAI_Waermemanagement_Kardiochirurgie_510_24.11.2023",
+        "SOP_CISORM_HK_OP_Kapazitaeten_606_21.10.2025",
+        "SOP_CAI_Waermemanagement_Kardiochirurgie_510_24.11.2023",
+        "SOP_CISORM_HK_OP_Kapazitaeten_606_21.10.2025",
+        "SOP_Wundkonsil_Kriterien_Ablauf_218_16.10.2024",
+        "SOP_CAI_Waermemanagement_Kardiochirurgie_510_24.11.2023",
+        "SOP_Implantation_Explantation_Kurzzeit_MCS_055_01.04.2025",
+        "SOP_CAI_HTG_Descendens_Chirurgie_524_14.07.2020",
+        "SOP_Erstellung_Freigabe_Reevaluation_SOP_Management_451_03.04.2023"
+      ]
+    },
+    {
+      "id": 51,
+      "ground_truth": "SOP_Praevention_Wundinfektionen_Herzchirurgie_864_24.04.2024",
+      "rank": 1,
+      "retrieved_sources": [
+        "SOP_Praevention_Wundinfektionen_Herzchirurgie_864_24.04.2024",
+        "SOP_Praevention_Wundinfektionen_Herzchirurgie_864_24.04.2024",
+        "SOP_Praeoperative_Dekolonisationsbehandlung_Kinder_436_08.07.2024",
+        "SOP_Praeoperative_Dekolonisationsbehandlung_Kinder_436_08.07.2024",
+        "SOP_Praevention_Wundinfektionen_Herzchirurgie_864_24.04.2024",
+        "SOP_Device_Implantationen_627_30.04.2026",
+        "SOP_CAI_Standardnarkose_HLM_534_29.11.2023",
+        "SOP_Perioperative_Antimikrobielle_Prophylaxe_533_18.12.2025",
+        "SOP_Praeoperative_Dekolonisation_Herzchirurgie_371_22.04.2024",
+        "SOP_Praeoperative_Dekolonisation_Herzchirurgie_371_22.04.2024"
+      ]
+    }
+  ]
+}

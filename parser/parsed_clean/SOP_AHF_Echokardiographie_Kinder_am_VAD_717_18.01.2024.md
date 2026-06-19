@@ -9,32 +9,19 @@ AHF – Echokardiographie bei Kindern am VAD
 
 Klinik für Angeborene Herzfehler – Kinderkardiologie 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Ziel ................................................................................................................................................... 3|
 |---|---|
-|2.|Geltungsbereich / Zielgruppe .......................................................................................................... 3|
-|3.|Prozessbeschreibung ...................................................................................................................... 3|
-|3.1|Präoperative Evaluation................................................................................................................... 3|
-|3.2|Echokardiographische Follow-up-Untersuchungen nach Implantation ........................................... 4|
-|3.3|Optimierung der Pumpenparameter ................................................................................................ 5|
-|3.4|Erkennen von Komplikationen ......................................................................................................... 5|
-|3.5|Untersuchung auf myokardiale Erholung ........................................................................................ 5|
-|4.|Literatur ............................................................................................................................................ 6|
-|VAD Excor Pumpenstopp – Echo-Protokoll ................................................................................................. 7||
-|LVAD|Pumpenstopp – Echo-Protokoll HeartMate 3 .................................................................................... 8|
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Die vorliegende SOP soll die systematische echokardiographische Untersuchung von Kindern vor VADImplantation und an VAD-Unterstützung erleichtern. Diese ist wichtig, um das VAD optimal einzustellen, Komplikationen frühzeitig zu erkennen und das Weaning-Potential prospektiv zu erfassen. 
 
-## **2. Geltungsbereich / Zielgruppe** 
+# **2. Geltungsbereich / Zielgruppe**
 
 Klinik für Angeborene Herzfehler – Kinderkardiologie: Arztdienst 
 
-## **3. Prozessbeschreibung** 
+# **3. Prozessbeschreibung**
 
-## **3.1 Präoperative Evaluation** 
+## **3.1 Präoperative Evaluation**
 
 Neben der Standardechokardiographie zur Beurteilung der Anatomie und Funktion des Herzens, zum Ausschluss korrigierbarer Ätiologien und zur Diskussion alternativer Verfahren (PAB, Eröffnung IAS) sind zur konkreten OP-Planung vor Implantation eines VAD folgende Fragen zu beantworten: 
 
@@ -79,7 +66,7 @@ Jone et al,Can J Card 2022|< 30 %|
 
 *Keiner der Werte ist anerkannt als prädiktiv für die Notwendigkeit eines RVAD; Werte altersabhängig. 
 
-## **3.2 Echokardiographische Follow-up-Untersuchungen nach Implantation** 
+## **3.2 Echokardiographische Follow-up-Untersuchungen nach Implantation**
 
 Direkt nach Implantation und bis zur hämodynamischen Stabilisierung werden mindestens einmal täglich echokardiographische Untersuchungen durchgeführt. Im Anschluss soll für die nächsten vier Wochen mindestens eine wöchentliche Untersuchung erfolgen. Kinder am VAD sollen danach mindestens alle 14 Tage untersucht werden. Kinder in ambulanter Kontrolle werden mindestens einmal im Quartal echokardiographisch untersucht. Bei Anzeichen myokardialer Erholung sind kürzere Untersuchungsabstände einzuplanen. 
 
@@ -143,7 +130,7 @@ Häufig müssen die Standardebenen modifiziert werden, da durch Verbände oder d
 
 8. Ausschluss Pleuraergüsse 
 
-## **3.3 Optimierung der Pumpenparameter** 
+## **3.3 Optimierung der Pumpenparameter**
 
 Die Optimierung erfolgt unter Beachtung klinischer Parameter (Blutdruck, Herzfrequenz, initial auch ZVS, Laktat etc.) und in Zusammenarbeit mit dem VAD-Team (Einstellung der Pumpenparameter) unter Echokardiographie. 
 
@@ -153,7 +140,7 @@ Minimale Unterstützung: unterhalb dieser Geschwindigkeit bzw. Pumprate wird der
 
 Maximale Unterstützung: oberhalb dieser Geschwindigkeit wölbt sich das IVS nach links, Ansaugen der Pumpe, Verschlechterung TI, RV-Vergrößerung, AK öffnet nicht mehr, Zunahme einer vorhandenen AI. HeartMate 3: Ziele: Blutdruck > 65–80 mmHg, intermittierendes Öffnen der Aortenklappe, MI 0-1 Excor: Füllung 90-100 %, Entleerung 100 %. 
 
-## **3.4 Erkennen von Komplikationen** 
+## **3.4 Erkennen von Komplikationen**
 
 Post-VAD-Implantation Red-Flag-Echo-Befunde 
 
@@ -179,7 +166,7 @@ Post-VAD-Implantation Red-Flag-Echo-Befunde
 
 11. RV-Dysfunktion 
 
-## **3.5 Untersuchung auf myokardiale Erholung** 
+## **3.5 Untersuchung auf myokardiale Erholung**
 
 Zur Beurteilung der ventrikulären Funktion werden regelmäßige echokardiographische Untersuchungen unter VAD-Unterstützung durchgeführt. Wenn eine Öffnung der Aorten- und Pulmonalklappen bei fehlender relevanter Mitral- oder Trikuspidalregurgitation beobachtet wird und der z-Score des linksventrikulären enddiastolischen Durchmessers (LVEDD) unter +2,0 liegt, kann eine echokardiografische Untersuchung zur Evaluation der Myokarderholung durchgeführt werden. Vor dem Pumpenstopp bestätigen, dass 
 
@@ -199,7 +186,7 @@ Evaluation bei zunächst bei deutlich reduzierter Pumprate, dann bei kurzem Pump
 
 Untersuchung baseline, mit 3000 rpm (entspricht etwa Nullfluss) und ggfls. mit 0 rpm (dann retrograder Fluss über Aorta -> VAD -> LV). 
 
-## **4. Literatur** 
+# **4. Literatur**
 
 Cohen DG et al. Echocardiography and Continuous-Flow Left Ventricular Assist Devices: Evidence and Limitations. JACC Heart Fail. 2015 Jul;3(7):554-564. doi: 10.1016/j.jchf.2015.03.003. PMID: 26071617. 
 

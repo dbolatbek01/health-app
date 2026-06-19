@@ -1,11 +1,11 @@
 
 **Notfallversorgung auf peripheren Stationen** 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Die vorliegende SOP regelt die Patientenversorgung auf peripheren Stationen im Notfall auf Basis aktueller Konzepte[1] und Leitlinien[2] . 
 
-## **2. Versorgungsalgorithmus** 
+# **2. Versorgungsalgorithmus**
 
 Der dargestellte Algorithmus beschreibt das standardisierte Vorgehen bei kollabierten oder kritisch erkrankten Patientinnen und Patienten auf peripheren Stationen. Ausgangspunkt ist die Überprüfung des Bewusstseinszustands sowie das Auslösen eines Hilferufs am Ereignisort. 
 

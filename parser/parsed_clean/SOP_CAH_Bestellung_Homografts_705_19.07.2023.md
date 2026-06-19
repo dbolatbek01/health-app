@@ -13,20 +13,15 @@ Klinik für Chirurgie Angeborener Herzfehler – Kinderherzchirurgie
 
 Bestellformular ETB-BISLIFE Heart Valve Recipient Registration Form 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Ziel ................................................................................................................................................... 3|
 |---|---|
-|2.|Prozessverantwortliche Person ....................................................................................................... 3|
-|3.|Prozessbeschreibung ...................................................................................................................... 3|
 
 Anlage: Bestellformular ETB-BISLIFE Heart Valve Recipient Registration Form Version 005 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Diese SOP regelt das Vorgehen bei der Bestellung diverser Homograft-Materialien (Pulmonal- und Aortenklappen sowie Patches) zum intraoperativen Gebrauch in der Klinik für Angeborene Herzfehler – Kinderherzchirurgie (CAH). 
 
-## **2. Prozessverantwortliche Person** 
+# **2. Prozessverantwortliche Person**
 
 Der Bestellvorgang von Homografts bzw. die Kommunikation per E oder Telefon mit den jeweiligen Biobanken sollte durch den zuständigen Assistenzarztdienst der CAH durchgeführt werden, der an dem Tag, an dem die Bestellung vorgenommen wird, nicht im Operationssaal eingeteilt ist. 
 
@@ -34,7 +29,7 @@ Muss eine Bestellung nach Ende der Dienstzeit (nach 16:30 Uhr) bzw. am Wochenend
 
 Sind an dem Tag, an dem die Bestellung erfolgen muss, alle Assistenzärztinnen und -ärzte im Operationssaal eingeteilt, wird die Bestellung durch das Sekretariat der CAH durchgeführt. Das Sekretariat soll grundsätzlich unterstützend bei der Bestellung fungieren. 
 
-## **3. Prozessbeschreibung** 
+# **3. Prozessbeschreibung**
 
 Für die Bestellung von Homografts erfolgen Anfragen bei den verschiedenen Biobanken in einer festgelegten Reihenfolge. Dabei sind die unterschiedlichen Vorgaben zu Kontakt und Bestellvorgang zu beachten und einzuhalten. 
 

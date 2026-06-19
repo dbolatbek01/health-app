@@ -7,19 +7,7 @@ Poststernotomie-Mediastinitis einschließlich Antibiotic Stewardship (PSM + ABS)
 
 DHZC alle Standorte 
 
-## **Inhaltsverzeichnis** 
-
-|Präambel ...................................................................................................................................................... 3|Präambel ...................................................................................................................................................... 3|
 |---|---|
-|1.|Einleitung ......................................................................................................................................... 3|
-|2.|Diagnostik ........................................................................................................................................ 4|
-|3.|Therapie ........................................................................................................................................... 6|
-|3.1|Chirurgische Initial-Therapie ............................................................................................................ 6|
-|3.2|Antibiotika-Therapie ......................................................................................................................... 6|
-|3.3|Chirurgische Intermediär-Therapie .................................................................................................. 7|
-|3.4|Wundverschluss .............................................................................................................................. 7|
-|4.|Dokumentation ................................................................................................................................. 8|
-|5.|Literatur ............................................................................................................................................ 8|
 
 ## **Präambel** 
 
@@ -27,7 +15,7 @@ ABS-Beauftragte DHZB) und der Klinik für Kardiovaskuläre Chirurgie an der Char
 
 Die vorliegende SOP gilt nicht für die Kliniken AHF/CAH. 
 
-## **1. Einleitung** 
+# **1. Einleitung**
 
 Im klinischen Alltag werden wir mit verschiedenen Ausprägungen von Wundinfektionen nach Sternotomie konfrontiert. Tabelle 1 zeigt die international verbreitete Klassifikation des Center for Disease Control (CDC), die die postoperativen Wundinfektionen im Bereich der Sternotomie anhand der beteiligten Gewebsschichten unterteilt [1]. Die Poststernotomie-Mediastinitis (PSM) ist demnach als tiefe Wundinfektion (CDC-Klasse III) nach Sternotomie definiert. Häufig besteht ein septisches Krankheitsbild. Die PSM ist eine seltene, aber ernste Komplikation nach herzchirurgischen Eingriffen, die mit einer erhöhten Letalität einhergeht. 
 
@@ -66,7 +54,7 @@ Klassifikation [3]|
 |Klasse III||instabil|gut bis ausreichend|
 |Klasse IV||instabil|Nekrosen|
 
-## **2. Diagnostik** 
+# **2. Diagnostik**
 
 Primäre Grundlage der Diagnostik ist die **klinische Einschätzung der Wundsituation** . Erst in zweiter Linie sind paraklinische Aspekte wie Infektionsparameter und Bildgebung zu berücksichtigen! 
 
@@ -144,11 +132,11 @@ Kann bei V.a. eine PSM die Diagnose nicht allein durch die klinische Untersuchun
 
 Weitere Verfahren können bei der Diagnosestellung unterstützend wirken. 
 
-## **3. Therapie** 
+# **3. Therapie**
 
 Die Behandlung einer Poststernotomie-Mediastinitis besteht aus der chirurgischen Sanierung und einer begleitenden Antibiotika-Therapie. 
 
-## **3.1 Chirurgische Initial-Therapie** 
+## **3.1 Chirurgische Initial-Therapie**
 
 Die chirurgische Initial-Behandlung sollte innerhalb von **24 h nach Diagnosestellung** erfolgen: 
 
@@ -170,7 +158,7 @@ Die chirurgische Initial-Behandlung sollte innerhalb von **24 h nach Diagnoseste
 
    - Eventuell Wundverschluss mit Saug-Spül-Drainage (siehe unten) 
 
-## **3.2 Antibiotika-Therapie** 
+## **3.2 Antibiotika-Therapie**
 
 Bei Verdacht auf PSM soll empirisch mit Piperacillin/Tazobactam und Vancomycin begonnen werden; nach mikrobiologischem Keimnachweis mit Resistogramm muss die antimikrobielle Therapie angepasst werden [2]. Für die **initial kalkulierte Therapie** werden in Abhängigkeit von weiteren Kriterien (Niereninsuffizienz, Penicillin-Allergie, bekannte Kolonisation oder vorherige Infektion mit Keimen und deren Resistenzlage) folgende Empfehlungen gegeben: 
 
@@ -211,7 +199,7 @@ Die intravenöse **Therapiedauer** beträgt mindestens 7 Tage nach definitivem W
 
 Eine **orale Folgetherapie** zur Eradikation kann in Rücksprache mit dem Operateur und den Kollegen der Infektiologie erwogen werden. Diese Vorgehensweise stellt eine **Einzelfall-Entscheidung** dar. 
 
-## **3.3 Chirurgische Intermediär-Therapie** 
+## **3.3 Chirurgische Intermediär-Therapie**
 
 ## Vakuumsaugverband 
 
@@ -233,7 +221,7 @@ Eine **orale Folgetherapie** zur Eradikation kann in Rücksprache mit dem Operat
 
 - Ggf. Vorstellung bei den Kollegen der Plastischen Chirurgie in Absprache mit dem Operateur 
 
-## **3.4 Wundverschluss** 
+## **3.4 Wundverschluss**
 
 Der Zustand der Wunde bestimmt den Umfang der chirurgischen Therapie, die Dauer der offenen Wundbehandlung und den Zeitpunkt des (primären oder sekundären) Wundverschlusses. Die mikrobiologisch nachweisbare Besiedlung der Wunde scheint für die Entscheidung zum Wundverschluss keine Rolle zu spielen [12]. 
 
@@ -255,7 +243,7 @@ Der Zustand der Wunde bestimmt den Umfang der chirurgischen Therapie, die Dauer 
 
    - Die Bilanzierung erfolgt jeweils zum Schichtende durch die Kollegen der Pflege; bei Abweichungen mit Verbleiben von Spülflüssigkeit über 2 Schichten muss durch den ärztlichen Kollegen der Intensivstation der zuständige Chirurg/Hausdienst informiert werden (im Nachtdienst Information am folgenden Morgen!) 
 
-## **4. Dokumentation** 
+# **4. Dokumentation**
 
 Die schriftliche Dokumentation einer dem aktuellen Stand entsprechenden ärztlichen/pflegerischen Wundbehandlung/-versorgung ist gesetzlich vorgeschrieben und sollte täglich erfolgen. Dabei sollten Wunddiagnose und Lokalisation, Schweregrad und Größe der Wunde, Wundumgebung und Wundrand, Infektionsanzeichen und Infektionskontrolle und Wundschmerz dokumentiert werden [13]. 
 
@@ -263,7 +251,7 @@ Das Ergebnis der klinischen Untersuchung wird mindestens täglich im Frühdienst
 
 Der Operateur übergibt mündlich an den Kollegen der Intensivstation und notiert schriftlich im OP-Bericht den Zustand des Situs und erfolgte diagnostische sowie weitere therapeutische Anordnungen. Außerdem werden an dieser Stelle die Platzierung der Drainagen schriftlich fixiert inklusive spezieller Anordnungen zur späteren Entfernung. 
 
-## **5. Literatur** 
+# **5. Literatur**
 
 - [1] Garner JS et al. CDC definitions for nosocomial infections. 1988. Am J Infect Control. 1988;16(3):128-40. 
 

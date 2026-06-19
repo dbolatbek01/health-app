@@ -2,7 +2,7 @@
 
 Cardiac Implantable Electronic Devices (CIED) 
 
-## **1. Zweck und Ziel** 
+# **1. Zweck und Ziel**
 
 Diese SOP beschreibt das auf Basis der aktuellen Leitlinien standardisierte postoperative Management von Patienten nach Eingriffen an kardial implantierbaren elektronischen Systemen (Cardiac Implantable Electronic Devices, CIED) an der Klinik für Herz-, Thorax- und Gefäßchirurgie des Deutschen Herzzentrums der Charité (DHZC). Eine Checkliste CIED postoperativ ist als Ergänzung zur SOP im Intranet hinterlegt. 
 
@@ -22,7 +22,7 @@ Diese SOP beschreibt das auf Basis der aktuellen Leitlinien standardisierte post
 
 CIED-Implantationen zählen zu den häufigsten interventionellen Maßnahmen in der modernen Rhythmologie. Laut dem EHRA White Book 2017 nahmen Schrittmacherimplantationen in ESCMitgliedsländern innerhalb von zehn Jahren um 20 % und ICD-Implantationen um 44 % zu. Trotz einer insgesamt niedrigen prozeduralen Mortalität von 0–0,1 % treten in der frühen postoperativen Phase relevante Komplikationen auf, darunter Blutungen, Pneumothorax, Sondendislokationen, Perikardtamponade und Infektionen. Studien zeigen, dass standardisierte postoperative Abläufe und die Betreuung durch erfahrene Implantateure die Komplikationsrate signifikant reduzieren können. Zentren oder Operateure mit weniger als 50 Implantationen jährlich weisen nachweislich höhere Komplikationsraten auf (Burri et al., Europace 2021). 
 
-## **2. Hintergrund und medizinische Bedeutung** 
+# **2. Hintergrund und medizinische Bedeutung**
 
 ## **Indikationsbereiche CIED-Systeme** 
 
@@ -46,7 +46,7 @@ Die Mehrzahl der Komplikationen manifestiert sich innerhalb der ersten Tage bis 
 
 **SOP Postoperatives Management nach CIEDEingriff – Klinik HTG** 
 
-## **3. Definitionen und Terminologie** 
+# **3. Definitionen und Terminologie**
 
 Eine einheitliche Terminologie ist essenziell für eine präzise klinische Kommunikation und Dokumentation. Insbesondere die Unterscheidung zwischen Aggregat, Sonde und Aggregattasche ist für die Beschreibung und Klassifikation möglicher Komplikationen von Bedeutung: Eine auf die Aggregattasche begrenzte Infektion verhält sich klinisch und therapeutisch grundlegend anders als eine Sondeninfektion mit Endokarditisrisiko. 
 
@@ -69,7 +69,7 @@ Defibrillator (D)|
 |COI|Current of Injury – Verletzungsstrom bei aktiver Sondenverankerung
 (Qualitätsmerkmal)|
 
-## **4. Geltungsbereich** 
+# **4. Geltungsbereich**
 
 Diese SOP gilt für alle Patienten der Klinik für Herz-, Thorax- und Gefäßchirurgie des DHZC, die einen der folgenden CIED-bezogenen Eingriffe erhalten haben. Das postoperative Basismanagement ist grundsätzlich einheitlich; systemspezifische Besonderheiten werden in den jeweiligen Abschnitten beschrieben: 
 
@@ -93,7 +93,7 @@ Diese SOP gilt für alle Patienten der Klinik für Herz-, Thorax- und Gefäßchi
 
 Geltungsbereich: Klinik HTG 
 
-## **5. Verantwortlichkeiten** 
+# **5. Verantwortlichkeiten**
 
 ||||
 |---|---|---|
@@ -114,7 +114,7 @@ tation, KIS|
 Ambulanz|Durchführung und Dokumentation der Device-
 Funktionskontrolle|Device-Datenbank|
 
-## **6. Postoperativer Standardablauf – Übersicht** 
+# **6. Postoperativer Standardablauf – Übersicht**
 
 ## **Postoperativer Standardablauf nach CIED-Eingriff** 
 
@@ -134,7 +134,7 @@ Funktionskontrolle|Device-Datenbank|
 
 8. Entlassungsmanagement: Checkliste, Implantatausweis, Nachsorgetermin 
 
-## **7. Unmittelbares postoperatives Monitoring** 
+# **7. Unmittelbares postoperatives Monitoring**
 
 ## **Überwachungsebene** 
 
@@ -154,7 +154,7 @@ In der unmittelbaren postoperativen Phase können Arrhythmien, Stimulationsprobl
 
 **SOP Postoperatives Management nach CIEDEingriff – Klinik HTG** 
 
-## **8. Postoperative Device-Funktionskontrolle** 
+# **8. Postoperative Device-Funktionskontrolle**
 
 Die Device-Funktionskontrolle (Interrogation) mittels herstellerspezifischem Programmiergerät dient der Qualitätssicherung der Implantation und der frühzeitigen Identifikation technischer Probleme. Veränderungen der Reizschwelle oder der Impedanz können Hinweise auf eine Sondendislokation, eine Sondenperforation oder einen technischen Defekt sein. Laut EHRA-Konsensus (Burri et al., 2021) sollten Reizschwellen ventrikulär ≤ 1,0 V und atrial ≤ 1,5 V bei 0,5 ms, Sensing-Amplituden ≥ 1,5 mV atrial und ≥ 4 mV ventrikulär sowie Sondenimpedanzen im herstellerspezifischen Normbereich (typisch 300–1.000 Ohm) liegen. 
 
@@ -171,7 +171,7 @@ Die Device-Funktionskontrolle (Interrogation) mittels herstellerspezifischem Pro
 
 **Verletzungsstrom (Current of Injury, COI):** Bei aktiv-fixierten Sonden sollte intraoperativ ein klarer Verletzungsstrom (COI) im intrakardialen EGM sichtbar sein – dies ist ein valider Indikator für eine korrekte Sondenverankerung. Ein negativer COI kann auf eine Sondenperforation hinweisen. Postoperativ sollte die Reizschwelle (nach initialem Anstieg durch entzündliche Reaktion) innerhalb von Minuten abfallen; bei persistierend hohen Schwellen ist eine Reposition zu erwägen (Burri et al., 2021). 
 
-## **9. Bildgebung** 
+# **9. Bildgebung**
 
 Gemäß dem EHRA-Konsensus (Burri et al., 2021) sollte bei allen Patienten nach Sondenimplantation eine Thoraxröntgenaufnahme (p.a. und wenn möglich lateral) innerhalb von 24 Stunden durchgeführt werden. Bei transvenösen Implantationen wird der venöse Zugang häufig über die V. cephalica, V. axillaris oder V. subclavia gewählt, wobei insbesondere der intrathorakale Subclaviazugang ein Pneumothoraxrisiko von bis zu 2,8 % birgt. Der Zugang über die V. cephalcia und der axilläre Zugang reduzieren dieses Risiko erheblich. 
 
@@ -194,7 +194,7 @@ Ein moderater Perikarderguss (11–20 mm) sollte echokardiographisch kontrollier
 
 **SOP Postoperatives Management nach CIEDEingriff – Klinik HTG** 
 
-## **10. Wundmanagement** 
+# **10. Wundmanagement**
 
 Die Aggregattasche ist eine häufige Lokalisation postoperativer Komplikationen. Aggregattaschenhämatome treten je nach Definition und Antikoagulationsregime in 0,2–16,0 % der Fälle auf und erhöhen das Risiko einer CIED-Infektion etwa 9-fach. Eine tägliche Inspektion der Wunde ermöglicht die frühzeitige Erkennung und Therapieeinleitung. 
 
@@ -220,7 +220,7 @@ Die Wunde sollte je nach Wundbefund 2–7 Tage mit einem Verband bedeckt bleiben
 
 Ein Kompressionsverband (mit Rolle und Pflaster) unmittelbar nach dem CIED-Eingriff, belassen bis zum Folgetag, kann das Hämatomrisiko relevant reduzieren. Sandsäcke oder Kompressionswesten sind ebenfalls Möglichkeiten zur lokalen Kompression. 
 
-## **11. Algorithmus: Management Aggregattaschenhämatom** 
+# **11. Algorithmus: Management Aggregattaschenhämatom**
 
 **Verdacht auf Aggregattaschenhämatom** 
 
@@ -236,7 +236,7 @@ Ein Kompressionsverband (mit Rolle und Pflaster) unmittelbar nach dem CIED-Eingr
 
 **SOP Postoperatives Management nach CIEDEingriff – Klinik HTG** 
 
-## **12. Antikoagulationsmanagement** 
+# **12. Antikoagulationsmanagement**
 
 Viele CIED-Patienten benötigen eine dauerhafte Antikoagulation (z. B. bei Vorhofflimmern oder mechanischen Herzklappen). Das Hämatomrisiko muss sorgfältig gegenüber dem Thromboembolierisiko auf individueller Basis abgewogen werden. 
 
@@ -262,7 +262,7 @@ pausieren (Clopidogrel ≥ 5 d, Ticagrelor ≥ 3 d, Prasugrel ≥
 7 d vor Eingriff).|ESC 2017 DAPT-
 Leitlinie|
 
-## **13. Schmerztherapie** 
+# **13. Schmerztherapie**
 
 Postoperative Schmerzen entstehen vorwiegend durch die Präparation der Aggregattasche sowie durch das Gewebetrauma während der Implantation. Eine ausreichende Analgesie verbessert den Patientenkomfort, erleichtert die Mobilisation und reduziert stressbedingte physiologische Reaktionen. Wichtig: Epinephrin-haltige Lokalanästhetika sind zu vermeiden, da sie das Hämatomrisiko erhöhen (Burri et al., 2021). 
 
@@ -277,7 +277,7 @@ Operateur|
 (intraoperativ)|Lidocain 1% (max. 4,5 mg/kg), ggf. kombiniert mit Bupivacain 0,25%
 oder Ropivacain 0,5%|
 
-## **14. Mobilisation und Verhaltensempfehlungen** 
+# **14. Mobilisation und Verhaltensempfehlungen**
 
 Patienten können nach Erholung von der Sedierung/Narkose prinzipiell frei mobilisiert werden. Es gibt keine Evidenz dafür, dass Armbewegungseinschränkungen nach Implantation das Dislokationsrisiko senken – eine fibröse Gewebefixierung benötigt Monate. Eine Studie (Daniels et al., 2011) zeigte sogar signifikant weniger Schulterschmerzen nach 1 Monat bei Schulterübungen im Vergleich zur StandardImmobilisierung (5 % vs. 33 %, p = 0,02). Armschienen sollten vermieden werden. 
 
@@ -295,7 +295,7 @@ Dennoch empfehlen wir im klinischen Alltag folgende pragmatische Empfehlungen zu
 
 **SOP Postoperatives Management nach CIEDEingriff – Klinik HTG** 
 
-## **15. Infektionsprophylaxe** 
+# **15. Infektionsprophylaxe**
 
 CIED-Infektionen sind mit einer erhöhten Morbidität und Mortalität verbunden. Die Inzidenz liegt bei 0,6– 3,4%. Die wirksamsten präventiven Maßnahmen sind eine konsequente Asepsis während des Eingriffs und in der postoperativen Wundversorgung sowie die Reduktion des Hämatomrisikos. Eine Antibiotikagabe ist gemäß EHRA-Empfehlung perioperativ indiziert (Cefazolin 1–2g oder Flucloxacillin 1–2g innerhalb von 1h vor Hautschnitt), postoperativ jedoch, im Gegensatz zur alten Praxis, nicht routinemäßig empfohlen. 
 
@@ -314,13 +314,13 @@ Operationstechnik|
 Intervention)|
 |Patientenscreening|MRSA-Screening gemäß hausinterner Hygienerichtlinie|
 
-## **16. Management früher Komplikationen** 
+# **16. Management früher Komplikationen**
 
-## **16.1 Pneumothorax** 
+## **16.1 Pneumothorax**
 
 Pneumothorax tritt bei 0,4–2,8% der Implantationen auf und ist stark abhängig vom gewählten Venenzugang. Das Risiko ist beim intrathorakalen Subclaviazugang am höchsten, beim Zugang über die V. cephalica oder die V. axillaris deutlich geringer. Risikofaktoren sind: Alter > 80 Jahre, weibliches Geschlecht, niedriger BMI, COPD und Subclaviazugang. Bei kleinem apikalem Pneumothorax kann eine konservative Therapie ausreichend sein; in den meisten anderen Fällen ist eine Thoraxdrainage indiziert. 
 
-## **16.2 Sondendislokation** 
+## **16.2 Sondendislokation**
 
 Sondendislokationen treten in 1,2–3,3% der Implantationen auf, häufiger atrial als ventrikulär. Die Mehrzahl manifestiert sich vor der Entlassung. Die Diagnose wird durch Device-Abfrage und Thoraxröntgen gestellt; Mikrodislokationen können im Röntgen nicht sichtbar sein. Eine Revision ist erforderlich bei Verlust der Stimulationsfunktion oder relevanter Sensing-Störung. 
 
@@ -334,7 +334,7 @@ Sondendislokationen treten in 1,2–3,3% der Implantationen auf, häufiger atria
 
 4. Bei Stimulationsverlust oder relevanter Sensing-Störung: Rücksprache mit Operateur, ggf. Reintervention 
 
-## **16.3 Perikarderguss / Tamponade** 
+## **16.3 Perikarderguss / Tamponade**
 
 Klinisch relevante Sondenperforationen treten in 0,1–1,5% auf; ein neuer kleiner Perikarderguss (≤10mm) findet sich bei bis zu 8,3% der Patienten in der Routine-Echokardiographie. Solche Perikardergüsse sind bei 94% der Patienten asymptomatisch. Die Diagnose einer Tamponade ist ein Notfall: hämodynamische Kompromittierung und ein immobiler Herzschatten in der Fluoroskopie (intraoperativ) sind typisch. Eine sofortige Echokardiographie und Perikarddrainage sind indiziert. 
 
@@ -342,7 +342,7 @@ Klinisch relevante Sondenperforationen treten in 0,1–1,5% auf; ein neuer klein
 
 Geltungsbereich: Klinik HTG 
 
-## **17. Algorithmus: Verdacht auf CIED-Infektion** 
+# **17. Algorithmus: Verdacht auf CIED-Infektion**
 
 CIED-Infektionen beginnen häufig lokal an der Aggregattasche und können auf die Sonden und den Blutstrom übergehen, was eine infektiöse Endokarditis verursachen kann. Frühe Warnsymptome sind Fieber, Rötung, Sekretion, Schmerzen und erhöhte Entzündungsparameter (CRP, Leukozyten, PCT). Eine konsequente und frühzeitige Diagnostik ist essenziell. 
 
@@ -362,7 +362,7 @@ CIED-Infektionen beginnen häufig lokal an der Aggregattasche und können auf di
 
 7. CIED-Infektion: Vollständige CIED-Systemexplantation + Antibiose erforderlich 
 
-## **18. Management und Reimplantationsstrategie nach CIED-Infektion** 
+# **18. Management und Reimplantationsstrategie nach CIED-Infektion**
 
 A A + B B1 B2 B3
 Isolierte  Tasche + syst.  Bakteriämie (syst.  Sonden-Vegetationen Syst. Infektion +
@@ -378,8 +378,6 @@ Voraussetzungen: Voraussetzungen: Voraussetzungen: Voraussetzungen: Voraussetzun
 – Tasche saniert  vollst.  – TEE neg.  – CRP normalisiert  Vegetation
 – Klinische Stabilität  – CRP normal
 – ABx-Kurs vollst.
-**----- End of picture text -----**
-
 
 **Bridging bei Schrittmacherabhängigkeit (DHZC):** Epikardialer Schrittmacher (subxiphoidal) – bevorzugt am DHZC. Alternativ: semi-permanenter Schrittmacher mit externem Aggregat oder Leadless SM. 
 
@@ -387,7 +385,7 @@ Voraussetzungen: Voraussetzungen: Voraussetzungen: Voraussetzungen: Voraussetzun
 
 **Grundregel:** Reimplantation NIEMALS ipsilateral. Implantationsort: kontralateral pektoral · iliakal · epikardial. 
 
-## **18.1 Ziel und Geltungsbereich** 
+## **18.1 Ziel und Geltungsbereich**
 
 Dieser SOP-Abschnitt definiert das standardisierte Vorgehen zur **Indikationsprüfung, Diagnostik, Antibiotikatherapie, Bridging und Reimplantation** eines kardialen implantierbaren elektronischen Systems (CIED) nach infektionsbedingter Systemexplantation. 
 
@@ -397,7 +395,7 @@ Die Empfehlungen basieren auf dem EHRA International Consensus Document (Europac
 
 Geltungsbereich: Klinik HTG 
 
-## **18.2 Grundprinzipien** 
+## **18.2 Grundprinzipien**
 
 **Prinzip 1 – Komplette Hardwareentfernung ist obligat:** Bei gesicherter CIED-Infektion ist die vollständige Entfernung des gesamten Systems einschließlich aller intravasalen Komponenten zwingend erforderlich. Eine konservative antibiotische Therapie ohne Explantation ist mit signifikant erhöhter Mortalität und Rezidivrate verbunden. 
 
@@ -407,9 +405,9 @@ Geltungsbereich: Klinik HTG
 
 **Prinzip 4 – Interdisziplinäre Entscheidungsfindung:** Die Therapieentscheidung erfolgt im interdisziplinären Team aus Herzchirurgie und Infektiologie. Bei Fragen zur Reimplantationsindikation oder alternativen Systemkonzepten erfolgt ggf. zusätzliches elektrophysiologisches Konsil. Dokumentation der Entscheidung im Patientenkurvenprotokoll. 
 
-## **18.3 Diagnostische Abklärung vor Reimplantation** 
+## **18.3 Diagnostische Abklärung vor Reimplantation**
 
-## **18.3.1 Klassifikation des Infektionstyps** 
+### **18.3.1 Klassifikation des Infektionstyps**
 
 Die Klassifikation erfolgt in zwei Hauptkategorien. Sie ist für Antibiotikadauer, Timing der Reimplantation und Bridging-Strategie entscheidend: 
 
@@ -437,7 +435,7 @@ Die Klassifikation erfolgt in zwei Hauptkategorien. Sie ist für Antibiotikadaue
 
 - Therapie richtet sich nach dem schwerwiegenderen Befund (systemische Komponente führend) 
 
-## **18.3.2 Mikrobiologische Diagnostik** 
+### **18.3.2 Mikrobiologische Diagnostik**
 
 - Mindestens 3 Blutkultursets vor Beginn der Antibiotikatherapie 
 
@@ -447,7 +445,7 @@ Die Klassifikation erfolgt in zwei Hauptkategorien. Sie ist für Antibiotikadaue
 
 - **EHRA-Empfehlung:** Blutkulturen 48–72 h nach Deviceentfernung, um Persistenz auszuschließen 
 
-## **18.3.3 Bildgebung** 
+### **18.3.3 Bildgebung**
 
 - **TTE und TEE obligat:** TEE aufgrund höherer Sensitivität für intrakardiale Vegetationen bevorzugen 
 
@@ -455,7 +453,7 @@ Die Klassifikation erfolgt in zwei Hauptkategorien. Sie ist für Antibiotikadaue
 
 **SOP Postoperatives Management nach CIEDEingriff – Klinik HTG** 
 
-## **18.4 Antibiotikatherapie** 
+## **18.4 Antibiotikatherapie**
 
 Die Therapiedauer richtet sich nach Infektionstyp und mikrobiologischem Befund. Die nachfolgende Tabelle gibt eine Übersicht: 
 
@@ -527,11 +525,11 @@ Antibiotikatherapie|– Neg. Blutkulturen (mind. 2 Wochen)
 
 **Hinweis – Erregerspezifische Anpassung:** Staphylococcus aureus (häufigster Erreger): Mindestens 14 Tage nach Explantation. Bei Komplikationen (z. B. embolische Ereignisse, Spondylodiszitis) mind. 6 Wochen. Pilzinfektionen: Antifungale Therapie über mind. 6 Wochen; Reimplantation nach individueller infektiologischer Beratung. Kultur-negative Infektionen: Therapiedauer orientiert an klinischem Bild und Histologie; infektiologisches Konsil obligat. 
 
-## **18.5 Timing der Reimplantation** 
+## **18.5 Timing der Reimplantation**
 
 Das optimale Intervall zwischen Explantation und Reimplantation ist nicht durch randomisierte Studien definiert. Es muss individuell unter Berücksichtigung von Infektionstyp, klinischem Verlauf, Schrittmacherabhängigkeit und Device-Indikation festgelegt werden. 
 
-## **18.5.1 Kategorie A – Isolierte Aggregattascheninfektion** 
+### **18.5.1 Kategorie A – Isolierte Aggregattascheninfektion**
 
 Zeitfenster: Reimplantation ab Tag 3–7 nach Explantation möglich (früheste Option bei günstigem Verlauf). Simultane kontralaterale transvenöse Reimplantation im Einzelfall vertretbar. Entscheidung interdisziplinär (Herzchirurgie/Infektiologie). 
 
@@ -549,7 +547,7 @@ Evidenz: Retrospektive Daten (Mountantonakis et al., PACE 2014; Burger et al., F
 
 Geltungsbereich: Klinik HTG 
 
-## **18.5.2 Kategorie A+B – Kombinierte Taschen- und systemische Infektion** 
+### **18.5.2 Kategorie A+B – Kombinierte Taschen- und systemische Infektion**
 
 Zeitfenster: Richtet sich nach der systemischen Komponente (B1–B3). Frühestens Tag 14 nach dokumentierten negativen Blutkulturen. 
 
@@ -557,7 +555,7 @@ Zeitfenster: Richtet sich nach der systemischen Komponente (B1–B3). Frühesten
 
 - Systemische Kriterien der jeweiligen B-Kategorie erfüllt 
 
-## **18.5.3 Kategorie B1 – CIED-Bakteriämie ohne Endokarditis** 
+### **18.5.3 Kategorie B1 – CIED-Bakteriämie ohne Endokarditis**
 
 Zeitfenster: Frühestens Tag 14–21 nach Explantation. 
 
@@ -569,7 +567,7 @@ Zeitfenster: Frühestens Tag 14–21 nach Explantation.
 
 - EHRA: Antibiotika ≥ 14 Tage nach Explantation vor Reimplantation abschließen 
 
-## **18.5.4 Kategorie B2 – Sonden-Vegetation ohne Klappenendokarditis** 
+### **18.5.4 Kategorie B2 – Sonden-Vegetation ohne Klappenendokarditis**
 
 Zeitfenster: Tag 14–28 nach Explantation (in Abhängigkeit von Erreger und Verlauf). 
 
@@ -579,7 +577,7 @@ Zeitfenster: Tag 14–28 nach Explantation (in Abhängigkeit von Erreger und Ver
 
 - Erreger: Bei S. aureus mind. 28 Tage nach Explantation, unabhängig vom klinischen Verlauf 
 
-## **18.5.5 Kategorie B3 – CIED-assoziierte Endokarditis** 
+### **18.5.5 Kategorie B3 – CIED-assoziierte Endokarditis**
 
 Zeitfenster: Frühestens nach Abschluss der vollständigen Antibiotikatherapie (4–6 Wochen). 
 
@@ -589,7 +587,7 @@ Zeitfenster: Frühestens nach Abschluss der vollständigen Antibiotikatherapie (
 
 - EHRA: Erneute transvenöse Implantation um mehrere Wochen unter laufender Antibiotikatherapie verschieben 
 
-## **18.6 Bridging-Strategien** 
+## **18.6 Bridging-Strategien**
 
 Wenn ein gerätefreies Intervall klinisch nicht möglich ist, stehen folgende Überbrückungsstrategien zur Verfügung: 
 
@@ -611,13 +609,13 @@ EV-ICD|
 
 **SOP Postoperatives Management nach CIEDEingriff – Klinik HTG** 
 
-## **18.7 Freigabe zur Reimplantation – Checkliste** 
+## **18.7 Freigabe zur Reimplantation – Checkliste**
 
 - **Alle folgenden Kriterien müssen vor Reimplantation erfüllt und dokumentiert sein: 1** Vollständige Systemexplantation und Taschensanierung abgeschlossen **2** Erneute Bestätigung der Device-Indikation (interdisziplinär) **3** Klinische Infektkontrolle dokumentiert **4** Negative Blutkulturen (mind. 2 Abnahmen dokumentiert) **5** Ausschluss intrakardialer Vegetationen (TEE) und Abschluss Antibiotikakurs gemäß Infektionskategorie 
 
 - **6** Implantationsort festgelegt: kontralateral pektoral, iliakal oder epikardial 
 
-## **18.8 Literatur** 
+## **18.8 Literatur**
 
 - Blomström-Lundqvist C et al. EHRA International Consensus Document on Prevention, Diagnosis and Treatment of CIED Infections. Europace 2020;22:515–549. 
 
@@ -641,7 +639,7 @@ EV-ICD|
 
 **SOP Postoperatives Management nach CIEDEingriff – Klinik HTG** 
 
-## **19. Entlassungsmanagement** 
+# **19. Entlassungsmanagement**
 
 Vor Entlassung ist sicherzustellen, dass der Patient hämodynamisch stabil ist, das Device regelrecht funktioniert und die Wunde reizlos ist. Laut EHRA (Burri et al., 2021) ist eine ambulante Erstvorstellung innerhalb von 2–12 Wochen zu empfehlen; ein späterer Erstkontakt (> 12 Wochen) ist mit schlechteren Outcomes assoziiert. Eine Fernüberwachung (Remote Monitoring) kann zur frühzeitigen Erkennung technischer Probleme beitragen. 
 
@@ -661,7 +659,7 @@ Vor Entlassung ist sicherzustellen, dass der Patient hämodynamisch stabil ist, 
 |✓MRT-Tauglichkeit (MRI-Konditionalität) des Systems dokumentiert|||[ ]|
 |✓ICD-Patienten: Fahrverbot erläutert, ggf. Fahreignungszeugnis ausgestellt|||[ ]|
 
-## **20. Nachsorge** 
+# **20. Nachsorge**
 
 Die langfristige Funktionskontrolle eines CIED erfolgt in spezialisierten Device-Ambulanzen. Neben der technischen Kontrolle des Systems wird der klinische Zustand des Patienten beurteilt. Moderne Systeme ermöglichen eine telemedizinische Fernüberwachung (Remote Monitoring), die zur frühzeitigen Erkennung technischer Probleme und klinischer Veränderungen beitragen kann und ambulante Kontrollen ergänzt. 
 
@@ -680,7 +678,7 @@ Batterieerschöpfung|
 
 ## SOP Postoperatives Management nach CIED- Eingriff – Klinik HTG
 
-## **21. Qualitätsindikatoren** 
+# **21. Qualitätsindikatoren**
 
 Die verpflichtenden Qualitätsparameter (IQTIQ) sind regelmäßig zu dokumentieren. Zur erweiterten internen Qualitätssicherung sind zusätzlich folgende Kennzahlen zu erfassen und regelmäßig zu analysieren. 
 
@@ -698,7 +696,7 @@ Die verpflichtenden Qualitätsparameter (IQTIQ) sind regelmäßig zu dokumentier
 |Implantatausweis-Übergaberate|100 %|
 |Nachsorgekontakt ≤ 12 Wochen|> 95 %|
 
-## **22. Literatur und Leitliniengrundlagen** 
+# **22. Literatur und Leitliniengrundlagen**
 
 - Burri H, Starck C, Auricchio A, et al. EHRA expert consensus statement and practical guide on optimal implantation technique for conventional pacemakers and implantable cardioverter-defibrillators. Europace. 2021;23(7):983–1008. doi:10.1093/europace/euaa367 
 

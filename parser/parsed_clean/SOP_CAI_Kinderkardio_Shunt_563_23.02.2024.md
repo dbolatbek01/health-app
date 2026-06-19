@@ -9,32 +9,19 @@ CAI Kinderkardioanästhesiologie – Shunt
 
 Klinik für Kardioanästhesiologie und Intensivmedizin 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Allgemeines, Indikation .................................................................................................................... 3|
 |---|---|
-|2.|Narkoseführung, Gerinnungsmanagement ..................................................................................... 3|
-|2.1|Narkoseeinleitung ............................................................................................................................ 3|
-|2.1.1.|Bei präoperativ pulmonaler Überflutung (z.B. bei HLHS) ................................................................ 3|
-|2.1.2|Bei präoperativ pulmonaler Minderperfusion ................................................................................... 3|
-|2.2|Narkoseführung, Gerinnungsmanagement post-HLM ..................................................................... 3|
-|2.2.1|Vor HLM Abgang bei Eingriff mit HLM / vor Shunt-Freigabe ........................................................... 4|
-|2.2.2|Management nach HLM-Abgang / Shunt-Freigabe ......................................................................... 4|
-|2.2.3|Gerinnungsmanagement ................................................................................................................. 4|
-|3.|Transport auf Intensivstation ........................................................................................................... 4|
-|4.|Mitgeltende Dokumente ................................................................................................................... 4|
 
-## **1. Allgemeines, Indikation** 
+# **1. Allgemeines, Indikation**
 
 I.d.R. Sicherstellung des pulmonalen Blutflusses durch operative Anlage einer systemisch-pulmonalen Shunt-Verbindung, entweder als modifizierter Blalock-Taussig-Shunt (BT-Shunt, PTFE (Gore-Tex®) Rohrprothese zwischen A. subclavia dextra bzw. Truncus brachiocephalicus und rechter Pulmonalarterie) oder als zentraler aorto-pulmonaler Shunt (AP-Shunt bzw. Kirklin-Shunt) über eine mediane Sternotomie, mit oder ohne HLM. 
 
 Indikationen sind z. B. eine Ductus-abhängige Lungenperfusion, ein funktionell univentrikuläres Herz (z.B. Shunt-Anlage i.R. der Norwood-Operation, siehe SOP562 Kinderkardioanästhesiologie – Norwood) und ein hypoplastisches pulmonales Strombett (z.B. therapeutischer Versuch, das Wachstum der Pulmonalgefäße durch erhöhte Perfusion anzuregen). 
 
-## **2. Narkoseführung, Gerinnungsmanagement** 
+# **2. Narkoseführung, Gerinnungsmanagement**
 
 Gemäß SOP564 Kinderkardioanästhesiologie – Standard HLM, Abweichungen s. u. 
 
-## **2.1 Narkoseeinleitung** 
+## **2.1 Narkoseeinleitung**
 
 - Alprostadil unverändert weiterlaufen lassen bis chirurgischer PDA-Verschluss an HLM bzw. nach Maßgabe Operateur; nach Beendigung offenhalten des Zugangs mit Trägerlösung in niedriger Laufrate (1–2ml/h), insbesondere bei PICC Lines („Einschwemmer“). 
 
@@ -42,7 +29,7 @@ Gemäß SOP564 Kinderkardioanästhesiologie – Standard HLM, Abweichungen s. u.
 
 -  Vorbereitung Heparin 100 IE/kgKG (Gabe vor partieller Ausklemmung zur Shunt-Anastomose) plus 500 IE/kgKG (Vollheparinisierung zur HLM). 
 
-## **2.1.1. Bei präoperativ pulmonaler Überflutung (z.B. bei HLHS)** 
+### **2.1.1. Bei präoperativ pulmonaler Überflutung (z.B. bei HLHS)**
 
 - FiO2 sofort nach Intubation niedrigstmöglich (0,21 / „Raumluft“ anstreben) 
 
@@ -52,7 +39,7 @@ Gemäß SOP564 Kinderkardioanästhesiologie – Standard HLM, Abweichungen s. u.
 
 - Ziel: Verminderung der pulmonalen Überzirkulation zur Optimierung der Systemperfusion 
 
-## **2.1.2 Bei präoperativ pulmonaler Minderperfusion** 
+### **2.1.2 Bei präoperativ pulmonaler Minderperfusion**
 
 - Hohes FiO2 
 
@@ -64,17 +51,17 @@ Gemäß SOP564 Kinderkardioanästhesiologie – Standard HLM, Abweichungen s. u.
 
 - Ziel: Verbesserung der Lungenperfusion durch pulmonale Vasodilatation 
 
-## **2.2 Narkoseführung, Gerinnungsmanagement post-HLM** 
+## **2.2 Narkoseführung, Gerinnungsmanagement post-HLM**
 
 Gemäß SOP564 Kinderkardioanästhesiologie – Standard HLM, Abweichungen s. u. 
 
-## **2.2.1 Vor HLM Abgang bei Eingriff mit HLM / vor Shunt-Freigabe** 
+### **2.2.1 Vor HLM Abgang bei Eingriff mit HLM / vor Shunt-Freigabe**
 
 - ROTEM-Analyse und Blutbild 
 
 - Epikardiale SM-Elektroden anschließen/testen 
 
-## **2.2.2 Management nach HLM-Abgang / Shunt-Freigabe** 
+### **2.2.2 Management nach HLM-Abgang / Shunt-Freigabe**
 
 - Norepinephrin, Epinephrin, Milrinon nach Bedarf 
 
@@ -92,7 +79,7 @@ Gemäß SOP564 Kinderkardioanästhesiologie – Standard HLM, Abweichungen s. u.
 
 - **Cave** : differentialdiagnostisch muss bei einem SpO2-Abfall in Abgrenzung zur Hypoventilation (SpO2Abfall, etCO2-Anstieg) immer auch an den akuten Shuntverschluss (SpO2-Abfall, etCO2-Abfall) oder ein LCOS gedacht werden. Auskultation Shuntgeräusch plus Ausschluss einseitige Intubation, um nicht indizierte Shuntrevisionen zu vermeiden! 
 
-## **2.2.3 Gerinnungsmanagement** 
+### **2.2.3 Gerinnungsmanagement**
 
 - Nach CPB Protamin (Gesamtmenge bis HLM-Blut verabreicht)  ACT und zentralvenöse BGA ca. 15 min. nach Protamingabe 
 
@@ -104,7 +91,7 @@ Gemäß SOP564 Kinderkardioanästhesiologie – Standard HLM, Abweichungen s. u.
 
 - **Cave** : differentialdiagnostisch muss bei einem pO 2-Abfall in Abgrenzung zur Hypoventilation immer auch an einen akuten Shuntverschluss bzw. an ein LCOS gedacht werden. 
 
-## **3. Transport auf Intensivstation** 
+# **3. Transport auf Intensivstation**
 
 - Mit komplettem Monitoring inkl. Kapnometrie-Überwachung, 
 
@@ -112,7 +99,7 @@ Gemäß SOP564 Kinderkardioanästhesiologie – Standard HLM, Abweichungen s. u.
 
 - I.d.R. in tiefer Narkose (laufende Sufentanil- und Propofol-Infusion; ggf. zusätzlich Relaxansbolus) 
 
-## **4. Mitgeltende Dokumente** 
+# **4. Mitgeltende Dokumente**
 
 SOP562 Kinderkardioanästhesiologie – Norwood 
 

@@ -1,6 +1,6 @@
 **Therapiezieländerung Palliation und begleitende Versorgung am Lebensende** 
 
-## **1. Ziele** 
+# **1. Ziele**
 
 ## **Ziel der SOP** 
 
@@ -10,7 +10,7 @@ Die vorliegende SOP regelt die Prozesse und die Dokumentation für erwachsene Pa
 
 Sterbebegleitung auf der Intensivstation bedeutet nicht die Einstellung der medizinischen Versorgung am Lebensende und keinesfalls einen bloßen Wegfall (intensiv-)medizinischer Behandlungen und Maßnahmen. Vielmehr rücken aktiv Maßnahmen, Prozeduren und Behandlungen zur Symptomkontrolle und Steigerung der Qualität des verbleibenden Lebens in den Vordergrund. Hierbei muss multiprofessionell ein individuell adaptiertes, palliativmedizinisches Vorgehen erarbeitet und regelmäßig im Verlauf des Sterbeprozesses reevaluiert und adaptiert werden. Hierzu gehören Maßnahmen der „menschenwürdige Unterbringung, Zuwendung, Körperpflege, Lindern von Schmerzen, Atemnot und Übelkeit sowie Stillen von Hunger und Durst“ (BÄK: Grundsätze zur ärztlichen Sterbebegleitung [1]). 
 
-## **2. Begriffsdefinitionen** 
+# **2. Begriffsdefinitionen**
 
 ## **Sterbeprozess** 
 
@@ -72,7 +72,7 @@ Modifiziert nach [2]
 
 **Therapiezieländerung Palliation und begleitende Versorgung am Lebensende** 
 
-## **3. Entscheidungsfindung, Indikation, Patientenwille** 
+# **3. Entscheidungsfindung, Indikation, Patientenwille**
 
 Die Aufgabe des medizinischen Behandlungsteams ist es, unter Beachtung des Selbstbestimmungsrechts von Patient:innen Leben zu erhalten, Gesundheit zu schützen und wiederherzustellen sowie Leiden zu lindern und Sterbenden bis zum Tod beizustehen. Das ärztliche Behandlungsteam hat im Rahmen seiner professionellen Verantwortung zu entscheiden, welche der vorhandenen Behandlungsmöglichkeiten medizinisch indiziert sind. Die ärztliche Verpflichtung zur Lebenserhaltung besteht nicht in jedem Fall. Es können Therapiezieländerung und Therapiebegrenzung geboten sein.  „Ein offensichtlicher Sterbevorgang soll nicht durch lebenserhaltende Therapien künstlich in die Länge gezogen werden. Darüber hinaus darf das Sterben durch Unterlassen, Begrenzen oder Beenden einer begonnenen medizinischen Behandlung ermöglicht werden, wenn dies dem Willen des Patienten entspricht.“ (Bundesärztekammer, 2011) [1] 
 
@@ -153,7 +153,7 @@ Modifiziert nach [2]
 
 **Therapiezieländerung Palliation und begleitende Versorgung am Lebensende** 
 
-## **4. Ethische Fallberatung** 
+# **4. Ethische Fallberatung**
 
 ## **Ethische Fallberatung** 
 
@@ -169,7 +169,7 @@ Eine ethische Fallberatung wird an allen Standorten des DHZC über folgende Kont
 
 Die Fachgruppe Ethikberatung kann auch kontaktiert werden, wenn Unsicherheit darüber besteht, ob sich die Situation für eine ethische Fallbesprechung eignet und es hierzu Beratungsbedarf gibt. 
 
-## **5. Therapieziel, Therapiezieländerung und Therapiebegrenzung** 
+# **5. Therapieziel, Therapiezieländerung und Therapiebegrenzung**
 
 ## **Therapieziel** 
 
@@ -199,7 +199,7 @@ Therapiezieländerungen und daraus folgende Therapiebegrenzungen werden stets im
 
 **Therapiezieländerung Palliation und begleitende Versorgung am Lebensende** 
 
-## **6. Symptomkontrolle** 
+# **6. Symptomkontrolle**
 
 Eine Therapiebegrenzung darf nicht ohne eine zielgerichtete Optimierung der lindernden (palliativen) Therapie erfolgen. 
 
@@ -321,7 +321,7 @@ Lagerungsmethoden zur Sekretentlastung|Scopolamin s.c., transdermal|
 
 **Therapiezieländerung Palliation und begleitende Versorgung am Lebensende** 
 
-## **7. Potenzielle Lebensverkürzung durch symptomkontrollierende Therapie** 
+# **7. Potenzielle Lebensverkürzung durch symptomkontrollierende Therapie**
 
 Eine potenzielle Lebensverkürzung durch symptomkontrollierende Therapie darf nur dann in Kauf genommen werden, wenn 
 
@@ -333,7 +333,7 @@ Eine potenzielle Lebensverkürzung durch symptomkontrollierende Therapie darf nu
 
 Eine Dokumentation, dass eine eingeleitete Therapie zur Symptomkontrolle die genannten rechtfertigenden Kriterien erfüllt, ist in der elektronischen Patientenakte vorzunehmen. 
 
-## **8. Beendigung medizinischer Maßnahmen in der Sterbephase** 
+# **8. Beendigung medizinischer Maßnahmen in der Sterbephase**
 
 ## **Allgemeines** 
 
@@ -363,7 +363,7 @@ Bei Sterbenden, die einen implantierten Kardioverter-Defibrillator (ICD) tragen,
 
 Weitere extrakorporale Organersatzverfahren und Systeme zur mechanischen Kreislaufunterstützung wie Dialyseverfahren, ECLS, passagere oder dauerhafte ventrikuläre Unterstützungssysteme werden beendet. Behandlungsmaßnahmen können zeitlich begrenzt fortgeführt werden, um nahen Angehörigen und Zugehörigen Zeit zum Abschied nehmen zu geben. 
 
-## **9. Palliative Sedierung** 
+# **9. Palliative Sedierung**
 
 Bei **nicht kontrollierbaren** Symptomlasten kann als „ultima ratio“ eine palliative Sedierung erwogen werden. Diese soll durch in der Behandlung von Patient:innen am Lebensende erfahrene und kompetente Ärzt:innen und Pflegefachkräfte erfolgen. 
 
@@ -371,7 +371,7 @@ Die Titration der Medikation erfolgt anhand der RASS-PAL Skala mit einem Zielsco
 
 **Therapiezieländerung Palliation und begleitende Versorgung am Lebensende** 
 
-## **10. Eigene Haltung zum Sterben** 
+# **10. Eigene Haltung zum Sterben**
 
 Sterben zu ertragen fällt uns schwer - vielleicht nehmen wir Sterben auf der Intensivstation als „Versagen“ wahr. Unsere eigene innere Haltung im Rahmen einer Sterbebegleitung ist von großer Bedeutung. Die eigenen Einstellungen beeinflussen das individuelle Denken und die individuellen Reaktionen in bestimmten Situationen. Entstehende Unsicherheiten sollte jedes Teammitglied individuell und im Team reflektieren und thematisieren. 
 
@@ -391,7 +391,7 @@ Wenn ein Mensch gestorben ist, kann es hilfreich sein:
 
 - ˗ Unterstützende Maßnahmen wie Reflexion, Teambesprechungen, Supervision und psychologische Unterstützung zu nutzen 
 
-## **11. Literatur** 
+# **11. Literatur**
 
 1. Bundesärztekammer. Grundsätze der Bundesärztekammer zur ärztlichen Sterbebegleitung. Dtsch Arztebl International 2011; 108: A-346 https://www.aerzteblatt.de/pdf.asp?id=80946 
 
@@ -407,7 +407,7 @@ Wenn ein Mensch gestorben ist, kann es hilfreich sein:
 
 7. S3 Leitlinie Analgesie, Sedierung und Delirmanagement in der Intensivmedizin (DAS Leitlinie, 2021) https://register.awmf.org/de/leitlinien/detail/001-012 
 
-## **12. Inkrafttreten und Reevaluierung** 
+# **12. Inkrafttreten und Reevaluierung**
 
 Diese SOP tritt am Tag der Veröffentlichung im Intranet in Kraft und wird regelmäßig evaluiert. Die nächste Evaluation findet statt im März 2028. 
 

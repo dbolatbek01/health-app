@@ -1,6 +1,6 @@
 **Perioperative und periinterventionelle antimikrobielle Prophylaxe (PAP)** 
 
-## **1. Allgemeines** 
+# **1. Allgemeines**
 
 Die zur perioperativen antimikrobiellen Prophylaxe (PAP) gewählte Substanz sollte ausreichende Aktivität gegen die häufigsten Erreger chirurgischer Wundinfektionen haben. Bei Eingriffen der Klasse I (aseptische Operationen ohne Eröffnung des Gastro-, Intestinal- oder Respirationstrakts) müssen kolonisierende Erreger der Haut abgedeckt werden, insbesondere Staphylococcus aureus und Staphylococcus epidermidis. 
 
@@ -20,9 +20,9 @@ Endokarditiden bei TAVI-Patienten werden deutlich häufiger durch Enterokokken v
 
 → Welche PAP bei welchem Eingriff, bei welchen Voraussetzungen und mit welcher Zusatzprophylaxe erfolgt ist als Übersichtstabelle im Anhang zusammengefasst. 
 
-## **2. Standardprophylaxe** 
+# **2. Standardprophylaxe**
 
-## **2.1 Herzchirurgische Eingriffe** 
+## **2.1 Herzchirurgische Eingriffe**
 
 Das Erstgenerationscephalosporin Cefazolin ist für herzchirurgische Eingriffe aufgrund seiner sehr guten Wirksamkeit gegen grampositive Erreger, insbesondere S. aureus, und seiner relativ langen Halbwertszeit von 2 Stunden am besten geeignet [9]. 
 
@@ -44,7 +44,7 @@ Die Wiederholungsgaben erfolgen alle 4 Stunden, gerechnet ab dem Zeitpunkt der e
 
 **Perioperative und periinterventionelle antimikrobielle Prophylaxe (PAP)** 
 
-## **2.2 Transfemorale Prozeduren** 
+## **2.2 Transfemorale Prozeduren**
 
 Für alle transfemoralen Prozeduren (interventionelle Klappen, TEVAR) gilt folgende Empfehlung: 
 
@@ -62,13 +62,13 @@ Es empfiehlt sich daher die Gabe nach Einleitung über den neu gelegten ZVK, was
 
 Cefazolin kann als Kurzinfusion verabreicht werden, die Gabe von Ampicillin/Sulbactam sollte über 30 Minuten erfolgen. 
 
-## **2.3 Besonderheiten** 
+## **2.3 Besonderheiten**
 
 Bei unerwarteten Verzögerungen muss gewährleistet sein, dass der Zeitraum zwischen Gabe des Antibiotikums und Hautschnitt nicht länger als 2 Stunden beträgt. Andernfalls muss die Gabe wiederholt werden. 
 
 Bei Eingriffen mit Anlage einer Blutsperre muss die Gabe mindestens 15 Minuten vor deren Anlage abgeschlossen sein. 
 
-## **2.4 Abweichungen** 
+## **2.4 Abweichungen**
 
 - ˗ Abweichungen von der Standardprophylaxe gibt es bei Patienten mit MRSA-Besiedlung (s. Kap. 3, zusätzlich Vancomycin) und bei schweren Allergien gegen Betalaktam-Antibiotika (s. Kap. 4). 
 
@@ -76,7 +76,7 @@ Bei Eingriffen mit Anlage einer Blutsperre muss die Gabe mindestens 15 Minuten v
 
 - ˗ Für Patienten zur thorakalen Organtransplantation gelten z. T. abweichende Vorgaben zur Antiinfektiva-Prophylaxe, s. entsprechende SOPs (SOP526 H-/HLTX, SOP530 LTX). 
 
-## **3. Erhöhtes Risiko für Wundinfektionen mit MRSA: Vancomycin-Gabe** 
+# **3. Erhöhtes Risiko für Wundinfektionen mit MRSA: Vancomycin-Gabe**
 
 Breiter Konsens (bei allerdings fehlender Evidenz) ist, dass die PAP bei Patienten mit MRSA-Besiedlung bzw. nach vorangegangener MRSA-Infektion um ein MRSA-wirksames Regime erweitert werden sollte. Hier kommt zusätzlich zur Standardprophylaxe Vancomycin zum Einsatz: 
 
@@ -110,7 +110,7 @@ erforderlich.|||
 
 - Darüber hinaus langsame Applikation über mindestens 60 Minuten (im Notfall ist nach Abwägung des Nutzen-/Risiko-Verhältnisses ggf. eine Verkürzung vertretbar) aufgrund des Risikos für ein sog. „Red Man Syndrome“, daher ist der Beginn der Gabe bereits bei Eintreffen des Patienten in der Einleitung empfehlenswert. 
 
-## **4. Patienten mit Allergie gegen Betalaktame** 
+# **4. Patienten mit Allergie gegen Betalaktame**
 
 Patienten mit Penicillin-Allergie haben ein deutlich erhöhtes Risiko für Wundinfektionen und für ClostridienInfektionen. Die bei diesen Patienten alternativ zum Einsatz kommenden Medikamente (Vancomycin, Clindamycin) weisen ein ungünstigeres Nebenwirkungsprofil und zum Teil eine schlechtere klinische Wirksamkeit auf. Clindamycin ist unter allen Substanzen am stärksten Clostridien-selektierend, es kann das Mikrobiom auch bei Kurzanwendung massiv schädigen. 
 
@@ -128,7 +128,7 @@ Bei einem Punktwert < 3 kann von einem niedrigen Risiko ausgegangen werden [14].
 
 **Perioperative und periinterventionelle antimikrobielle Prophylaxe (PAP)** 
 
-## **4.1 Alternatives Regime** 
+## **4.1 Alternatives Regime**
 
 Alternatives Regime für Patienten mit schweren Penicillin- bzw. Betalaktam-Allergien: 
 
@@ -154,13 +154,13 @@ Thorakotomie, b) bei Implantation, Austausch oder Revision von CIED sowie c) bei
 Verwendung von Implantaten (z.B. Perikardektomie). Hier wäre ggf. eine intraoperative Wiederholungsgabe nach 8 h
 erforderlich.|||
 
-## **4.2 Besonderheiten** 
+## **4.2 Besonderheiten**
 
 - Bei transfemoralen Eingriffen, bei denen aufgrund einer Penicillin-Allergie nicht die Standardprophylaxe mit Ampicillin+ Sulbactam verabreicht werden kann, sollte in Erwägung gezogen werden, zu Vancomycin zusätzlich noch Cefazolin zu verabreichen (kaum Kreuzreaktivität, bessere Wirksamkeit gegen MSSA). 
 
 - Bei bekannter Besiedlung des OP-Gebiets mit gramnegativen Erregern sollten Patienten ggf. zusätzlich zur Vancomycin-Gabe ein erregerspezifisch passendes Antibiotikum zur perioperativen Prophylaxe erhalten. 
 
-## **5. Antibiotische Prophylaxe bei viszeralchirurgischen Eingriffen** 
+# **5. Antibiotische Prophylaxe bei viszeralchirurgischen Eingriffen**
 
 Bei allen viszeralchirurgischen Eingriffen sollte die antibiotische Prophylaxe mit dem Zweitgenerationscephalosporin Cefuroxim in Kombination mit Metronidazol erfolgen: 
 
@@ -170,7 +170,7 @@ Bei allen viszeralchirurgischen Eingriffen sollte die antibiotische Prophylaxe m
 |**+ Metronidazol**|30–60 min vor Hautschnitt|500 mg|
 ||Wiederholungsgabe intraoperativ|Keine (HWZ 6 - 8h)|
 
-## **6. PAP bei laufender Antibiotikatherapie** 
+# **6. PAP bei laufender Antibiotikatherapie**
 
 Patienten mit vorbestehender Antibiotikatherapie sollten diese perioperativ weiter nach dem bestehenden Schema erhalten. 
 
@@ -178,7 +178,7 @@ Um sicher zu gewährleisten, dass kolonisierende Erreger der Haut zum Zeitpunkt 
 
 Ob diese Standardprophylaxe für 24 Stunden weitergeführt werden wollte, hängt davon ab, ob die bestehende Antibiotikatherapie das Erregerspektrum ausreichend erfasst. 
 
-## **6.1 Vorbestehende Therapie ausreichend** 
+## **6.1 Vorbestehende Therapie ausreichend**
 
 Keine Weiterführung der Cefazolingabe post-OP bei Therapie mit: 
 
@@ -191,15 +191,15 @@ Meropenem/Vaborbactam)||
 
 ## Perioperative und periinterventionelle antimikrobielle Prophylaxe (PAP)
 
-## **6.2 In allen anderen Fällen** 
+## **6.2 In allen anderen Fällen**
 
 Postoperative Weiterführung der Standardprophylaxe mit Cefazolin für 24 Stunden (3 Gaben) zusätzlich zur laufenden Antibiotikatherapie. 
 
-## **7. Dekolonisierung bei MRSA-/MSSA-Trägern** 
+# **7. Dekolonisierung bei MRSA-/MSSA-Trägern**
 
 Für Empfehlungen zur Dekolonisierung (topische Behandlung mit Octenidin Körperwaschung und Octenidin/ggf. Mupiricin Nasensalbe) bei bekanntem MRSA-Trägerstatus und evtl. auch bei unbekanntem Trägerstatus wird auf die SOP371 verwiesen. 
 
-## **8. Literatur** 
+# **8. Literatur**
 
 1. Sousa-Uva M et al. 2017 EACTS Guidelines on perioperative medication in adult cardiac surgery. EJCTS 2018;53:5-33. 
 
@@ -229,7 +229,7 @@ Für Empfehlungen zur Dekolonisierung (topische Behandlung mit Octenidin Körper
 
 14. Trubiano JA et al. Development and Validation of a Penicillin Allergy Clinical Decision Rule. JAMA Intern Med 2020;180:745-52. 
 
-## **9. Mitgeltende Dokumente** 
+# **9. Mitgeltende Dokumente**
 
 SOP526 CAI Transplantation Herz, Herz-Lunge SOP530 CAI Transplantation Lunge SOP371 Präoperative Dekolonisationsbehandlung vor elektiver Herzchirurgie 
 

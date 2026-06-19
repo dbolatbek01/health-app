@@ -5,7 +5,7 @@ Geltungsbereich: Klinik HTG
 
 Cardiac Implantable Electronic Devices (CIED) 
 
-## **1. Zweck und Ziel** 
+# **1. Zweck und Ziel**
 
 Diese SOP beschreibt die auf Basis der aktuellen Leitlinien standardisierte präoperative Vorbereitung von Patienten vor Eingriffen an kardial implantierbaren elektronischen Systemen (Cardiac Implantable Electronic Devices, CIED) an der Klinik für Herz-, Thorax- und Gefäßchirurgie des Deutschen Herzzentrums der Charité (DHZC). Eine Checkliste CIED präoperativ ist als Ergänzung zur SOP im Intranet hinterlegt. 
 
@@ -43,7 +43,7 @@ Diese SOP beschreibt die auf Basis der aktuellen Leitlinien standardisierte prä
 
 CIED-Eingriffe zählen zu den häufigsten interventionellen Maßnahmen in der modernen Rhythmologie. Trotz insgesamt niedriger prozeduraler Mortalität sind die perioperativen Komplikationsraten relevant. Studien belegen, dass strukturierte präoperative Abläufe und die Betreuung durch erfahrene Operateure die Komplikationsrate signifikant reduzieren können (Burri et al., Europace 2021). 
 
-## **2. Hintergrund und medizinische Bedeutung** 
+# **2. Hintergrund und medizinische Bedeutung**
 
 ## **Indikationsbereiche CIED-Systeme** 
 
@@ -65,7 +65,7 @@ Eine strukturierte präoperative Vorbereitung ist eine der effektivsten Maßnahm
 
 Geltungsbereich: Klinik HTG 
 
-## **3. Definitionen und Terminologie** 
+# **3. Definitionen und Terminologie**
 
 Eine einheitliche Terminologie ist essenziell für eine präzise klinische Kommunikation und Dokumentation. In dieser SOP wird folgende Terminologie verbindlich verwendet: 
 
@@ -84,7 +84,7 @@ Sondenextraktion|Entfernung implantierter intrakardialer Sonden|
 |Leadless PM|Intrakardiales Schrittmachersystem ohne transvenöse Sonde|
 |CRT-P / CRT-D|Kardiale Resynchronisationstherapie mit Schrittmacher (P) oder Defibrillator (D)|
 
-## **4. Verantwortlichkeiten** 
+# **4. Verantwortlichkeiten**
 
 |**Rolle**|**Verantwortlichkeit**|**Dokumentationsort**|
 |---|---|---|
@@ -96,7 +96,7 @@ Indikationsprüfung|KIS,
 Verlaufsdokumentation|
 |Operateur|Finale Indikationsprüfung, finale Freigabe zum CIED-Eingriff|OP-Bericht|
 
-## **5. Indikationsprüfung** 
+# **5. Indikationsprüfung**
 
 Vor jedem Eingriff muss eine erneute Indikationsprüfung erfolgen. Unter anderem ist hierfür Folgendes zu prüfen: 
 
@@ -112,7 +112,7 @@ Vor jedem Eingriff muss eine erneute Indikationsprüfung erfolgen. Unter anderem
 
 **Wichtig:** Unnötige Implantationen oder CIED-Eingriffe müssen vermieden werden. 
 
-## **6. Patientenaufklärung und Einwilligung** 
+# **6. Patientenaufklärung und Einwilligung**
 
 Ein CIED-Eingriff darf nur nach ordnungsgemäßer Aufklärung erfolgen. Hierzu sollten die entsprechenden standardisierten Aufklärungsbögen verwendet werden. Die Einwilligung zur Operation muss dokumentiert sein und der unterschriebene Aufklärungsbogen muss im klinik-internen EDV-System eingescannt sein. 
 
@@ -140,7 +140,7 @@ Geltungsbereich: Klinik HTG
 
 - Tod 
 
-## **7. Anamnese** 
+# **7. Anamnese**
 
 Bei Patienten mit CIED-Eingriffen sind zusätzlich zur üblichen Anamnese folgende Aspekte im Speziellen zu erfassen: 
 
@@ -160,7 +160,7 @@ Thrombozytenaggregationstherapie|
 Niereninsuffizienz (bei Dialysepflicht: Seite des Shuntarmes vermerken)
 Immunsuppression|
 
-## **8. Verpflichtendes Einscannen und Dokumentieren des Implantatausweises** 
+# **8. Verpflichtendes Einscannen und Dokumentieren des Implantatausweises**
 
 Bei Patienten mit vorhandenem Device ist zwingend erforderlich, dass der Implantatausweis eingescannt und im EDV-System hinterlegt wird. Der Implantatausweis enthält wichtige Informationen: 
 
@@ -172,7 +172,7 @@ Bei Patienten mit vorhandenem Device ist zwingend erforderlich, dass der Implant
 
 **Klinischer Hinweis:** Diese Informationen sind essenziell für die Planung des CIED-Eingriffs, die Strategie zur transvenösen Sondenextraktion, die Deviceprogrammierung und das Notfallmanagement. 
 
-## **9. Klinische Untersuchung** 
+# **9. Klinische Untersuchung**
 
 Bei allen herzchirurgischen Patienten sollte im Rahmen der Aufnahme eine sorgfältige klinische Untersuchung (inklusive Erhebung der Vitalparameter) durchgeführt werden. Bei Patienten mit geplanten CIED-Eingriffen sollte ein spezielles Augenmerk auf klinische Infektionszeichen gelegt werden. 
 
@@ -194,7 +194,7 @@ Immer sollte eine sorgfältige Inspektion der Implantationsregion für eine gepl
 
 Wichtig ist auch das Erkennen und die Dokumentation venöser Kollateralkreisläufe an der Brustwand als Zeichen eines venösen Verschlusses intrathorakaler Venen. Bei auffälligen Befunden sollte eine Fotodokumentation durchgeführt werden. 
 
-## **10. Infektionsfreiheit als zwingende Voraussetzung** 
+# **10. Infektionsfreiheit als zwingende Voraussetzung**
 
 **Wichtig:** Ein CIED-Eingriff bei nicht-infektiöser Indikation darf ausschließlich bei infektfreien Patienten erfolgen. 
 
@@ -206,7 +206,7 @@ Bei Fieber → CIED-Eingriff verschieben,
 Infekt-Fokussuche & -behandlung durchführen.
 **Ausnahme: Notfallimplantation bei vitaler Indikation.**|
 
-## **11. Präoperative Device-Abfrage** 
+# **11. Präoperative Device-Abfrage**
 
 Bei bestehendem CIED-Device ist das Vorhandensein einer aktuellen Device-Abfrage (nicht älter als 4 Wochen) zu prüfen und die Dokumentation des entsprechenden Befundes in der elektronischen Patientenakte erforderlich. Sofern eine solche nicht vorhanden ist, muss diese präoperativ durchgeführt werden. 
 
@@ -227,7 +227,7 @@ festlegen|
 
 Geltungsbereich: Klinik HTG 
 
-## **12. Präoperative Bildgebung** 
+# **12. Präoperative Bildgebung**
 
 Die präoperative Bildgebung stellt einen zentralen Bestandteil der Vorbereitung von Patienten vor CIEDEingriffen dar. Ziel der bildgebenden Diagnostik ist die Beurteilung der thorakalen Anatomie, der Lage und Integrität vorhandener Sonden sowie die Identifikation möglicher struktureller Besonderheiten oder Komplikationen. 
 
@@ -256,7 +256,7 @@ Infektion|TEE zum Nachweis von Vegetationen; ggf. FDG-PET/CT|
 
 - Pleuraergüsse, pulmonale Infiltrate, Zeichen pulmonaler Stauung 
 
-## **13. Echokardiographie** 
+# **13. Echokardiographie**
 
 Die transthorakale Echokardiographie (TTE) stellt einen wichtigen Bestandteil der präoperativen Evaluation von Patienten vor CIED-Eingriffen dar. Es sollte eine TTE-Untersuchung vorliegen, die nicht älter als 4 Wochen ist. 
 
@@ -286,7 +286,7 @@ Bei klinischem Verdacht auf eine CIED-Infektion oder infektiöse Endokarditis so
 
 Geltungsbereich: Klinik HTG 
 
-## **14. Laboruntersuchungen** 
+# **14. Laboruntersuchungen**
 
 Präoperative Laboruntersuchungen dienen der frühzeitigen Identifikation möglicher Risikofaktoren für perioperative Komplikationen sowie der Sicherstellung stabiler metabolischer und hämatologischer Bedingungen vor Durchführung des Eingriffs. 
 
@@ -311,7 +311,7 @@ Extraktion|
 
 **Wichtig:** Vor geplanten Sondenextraktionen müssen zwingend eine Kreuzblut-Bestimmung durchgeführt und mindestens 2 Erythrozytenkonzentrate präoperativ reserviert werden. Schwere Komplikationen (Verletzungen der V. cava superior, des rechten Vorhofs oder Ventrikels) können innerhalb kürzester Zeit zu lebensbedrohlichen Blutungen führen. 
 
-## **15. Antikoagulationsmanagement** 
+# **15. Antikoagulationsmanagement**
 
 Ein optimiertes Antikoagulationsmanagement ist zur Minimierung von Blutungskomplikationen zwingend erforderlich. Viele CIED-Patienten benötigen eine dauerhafte Antikoagulation (z. B. bei Vorhofflimmern oder mechanischen Herzklappen). Das Hämatom- und Thromboembolierisiko muss sorgfältig gegeneinander auf individueller Basis abgewogen werden. 
 
@@ -342,7 +342,7 @@ Leitlinie|
 
 Geltungsbereich: Klinik HTG 
 
-## **16. Präoperative Planung und Risikostratifikation bei Sondenextraktionen** 
+# **16. Präoperative Planung und Risikostratifikation bei Sondenextraktionen**
 
 Die Sondenextraktion stellt einen der komplexesten Eingriffe im Bereich der kardialen Device-Therapie dar und erfordert eine besonders sorgfältige präoperative Planung. Mögliche schwerwiegende Komplikationen umfassen Gefäß- oder Myokardverletzungen sowie Perikardtamponaden. 
 
@@ -362,7 +362,7 @@ Die Sondenextraktion stellt einen der komplexesten Eingriffe im Bereich der kard
 
 **Klinischer Hinweis:** Mit zunehmender Implantationsdauer kommt es zu fibrotischen Verwachsungen zwischen Sonde, Gefäßwand und endokardialen Strukturen. Diese können die Extraktion technisch deutlich erschweren und das Risiko für Komplikationen erhöhen. 
 
-## **17. Literatur und Leitliniengrundlagen** 
+# **17. Literatur und Leitliniengrundlagen**
 
 1. Burri H, Starck C, Auricchio A, et al. EHRA expert consensus statement and practical guide on optimal implantation technique for conventional pacemakers and implantable cardioverter-defibrillators. Europace. 2021;23(7):983–1008. 
 

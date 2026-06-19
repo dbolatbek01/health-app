@@ -7,16 +7,7 @@ Interventionelle Behandlung von koronaren Bifurkationsläsionen (Bifurkationsthe
 
 Campus-übergreifend für alle interventionell tätigen Kardiolog:innen 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Ziel ................................................................................................................................................... 3|
 |---|---|
-|2.|Prozessverantwortliche Personen ................................................................................................... 3|
-|3.|Geltungsbereich / Zielgruppe .......................................................................................................... 3|
-|4.|Begriffsdefinitionen .......................................................................................................................... 3|
-|5.|Hintergrund ...................................................................................................................................... 3|
-|6.|Prozessbeschreibung ...................................................................................................................... 5|
-|7.|Referenzen ...................................................................................................................................... 7|
 
 ## **Key Steps Bifurkationstherapie** 
 
@@ -40,19 +31,19 @@ Campus-übergreifend für alle interventionell tätigen Kardiolog:innen
 
 10. Kontrolle Interventionsergebnis (Ostium abgedeckt? u.a. Stentexpansion und -apposition, Ausschluss geographical mismatch und Kantendissektionen) 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Bifurkationsläsionen machen ~15-20% aller PCIs aus. Unerwünschte Ereignisse, wie ZielgefäßRevaskularisierungen, Stentthrombosen, Zielgefäß-Myokardinfarkte und -Restenosen sind nach Bifurkationsinterventionen häufiger zu verzeichnen als nach PCI einer nicht-komplexen Läsion und erfordern daher eine gewissenhafte Interventionsplanung und -durchführung. 
 
 In den letzten Jahren hat sich die Evidenz im Bereich der Bifurkationstherapie wesentlich erweitert. Ziel dieser SOP ist die Beschreibung von Handlungsempfehlungen in Anlehnung an die aktuelle Evidenz für die interventionelle Therapie von Bifurkationsläsionen sowie die Festlegung gemeinsamer leitliniengerechter Therapiestrategien im DHZC. 
 
-## **2. Prozessverantwortliche Personen** 
+# **2. Prozessverantwortliche Personen**
 
-## **3. Geltungsbereich / Zielgruppe** 
+# **3. Geltungsbereich / Zielgruppe**
 
 Zielgruppe dieser SOP umfasst alle interventionell tätigen Kardiolog:innen. 
 
-## **4. Begriffsdefinitionen** 
+# **4. Begriffsdefinitionen**
 
 KISS keep it simple and safe 
 
@@ -64,7 +55,7 @@ IVI Intravascular imaging = Intravaskuläre Bildgebung
 
 MB branch = Hauptgefäß SB Side branch = Seitast POT Proximal optimisation technique 
 
-## **5. Hintergrund** 
+# **5. Hintergrund**
 
 Die aktuellen Empfehlungen zur interventionellen Bifurkationstherapie werden jährlich in einem Consensus Statement des European Bifurcation Club (EBC) zusammengefasst. Die verschiedenen EBC-Empfehlungen sowie die aktuelle Studienlage empfehlen die Berücksichtigungen der folgenden Aspekte bei Planung der Bifurkationstherapie: 
 
@@ -94,7 +85,7 @@ Die aktuellen Empfehlungen zur interventionellen Bifurkationstherapie werden jä
 
 **Abbildung 3.** IVUS-123-Algorithmus (Boston Scientific) 
 
-## **6. Prozessbeschreibung** 
+# **6. Prozessbeschreibung**
 
 1. Einteilung der Läsion und Festlegung der Interventionsstrategie nach o.s. Algorithmus 
 
@@ -116,7 +107,7 @@ Die aktuellen Empfehlungen zur interventionellen Bifurkationstherapie werden jä
 
 **Abbildung 5** . DK Crush-Technik (aus Lassen, Eurointervention 2022 [2]) 
 
-## **7. Referenzen** 
+# **7. Referenzen**
 
 1. Albiero R et al. Treatment of coronary bifurcation lesions, part I: implanting the first stent in the provisional pathway. The 16th expert consensus document of the European Bifurcation Club. EuroIntervention. 2022;18(5):e362-e376. DOI: 10.4244/EIJ-D-22-00165 
 

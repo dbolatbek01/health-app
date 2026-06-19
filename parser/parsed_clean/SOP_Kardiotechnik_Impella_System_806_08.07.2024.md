@@ -11,26 +11,7 @@ Klinik für Herz-, Thorax- und Gefäßchirurgie, Bereich
 
 2 
 
-## **Inhaltsverzeichnis** 
-
-|Änderungen zur Vorversion .......................................................................................................................... 3|Änderungen zur Vorversion .......................................................................................................................... 3|
 |---|---|
-|1.|Ziel ................................................................................................................................................... 3|
-|2.|Begriffsdefinitionen .......................................................................................................................... 3|
-|3.|Funktionsweise, Anwendung ........................................................................................................... 3|
-|4.|Bevorratung und Bestellung ............................................................................................................ 4|
-|5.|Vorbereitung .................................................................................................................................... 4|
-|6.|Implantation operativ ....................................................................................................................... 5|
-|7.|Betrieb des Systems ........................................................................................................................ 5|
-|7.1|Patiententransport mit dem System ................................................................................................ 6|
-|7.2|Regelmäßige Kontrollen des Systems ............................................................................................ 6|
-|7.3|Wechsel des Purge-Systems .......................................................................................................... 6|
-|7.4|Wechseln des Steuergeräts ............................................................................................................ 6|
-|7.5|Alarme und Troubleshooting ........................................................................................................... 6|
-|7.5.1|Ansaugen des Katheters ................................................................................................................. 7|
-|7.6|Auftreten von Hämolyse .................................................................................................................. 7|
-|8.|Visite und Verbandwechsel ............................................................................................................. 7|
-|9.|Weaning und Explantation ............................................................................................................... 7|
 
 3 
 
@@ -40,19 +21,19 @@ Kap. 1: Bedienungsanleitungen Stand November 2023 (vorher: 2023) Kap. 4: Vollst�
 
 Kap. 7: Vollständig überarbeitet 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Der Impella-Katheter ist eine intravaskuläre, mikroaxial gelagerte Blutpumpe zu Unterstützung des linken bzw. im Fall des Impella RP des rechten Ventrikels. 
 
 Die vorliegende SOP regelt die Implantation, die Handhabung und das Troubleshooting mit den Impella-VAD-Systemen für den Kurzzeiteinsatz am DHZC im Bereich HTG für erwachsene Patienten. Sie hat Gültigkeit für den Einsatz von Impella[-] Kathetern im OP und auf den Stationen. Sie richtet sich an geschultes Personal, die durch die Firma Abiomed oder die zuständigen MPG-Beauftragten eingewiesen wurden. Sie gilt für die Katheter 5.5 Smart Assist, CP Smart Assist und RP. Grundlagen der SOP sind die im November 2023 gültigen Bedienungsanleitungen der im Haus verwendeten Systeme. 
 
-## **2. Begriffsdefinitionen** 
+# **2. Begriffsdefinitionen**
 
 - Muss/Soll: Das Wort _muss_ bzw. _soll_ umschreibt eine obligatorische Maßnahme, die von jedem Mitarbeiter durchgeführt werden muss und erwartet wird 
 
 - Kann/Sollte: Das Wort _kann_ bzw. _sollte_ umschreibt Maßnahmen, die angewendet werden können, weil sie z. B. evidenzbasiert und damit empfehlenswert sind. Sie müssen aber nicht obligatorisch angewendet werden. 
 
-## **3. Funktionsweise, Anwendung** 
+# **3. Funktionsweise, Anwendung**
 
 Die Impella-Pumpe ist eine intravaskuläre Blutpumpe, die für den intrakardialen Einsatz und mit Ausnahme des Katheters Impella RP zur Unterstützung des linken Ventrikels zugelassen ist. Es handelt sich um einen mikroaxial gelagerten Antrieb, der bis zu einem maximalen Fluss von 4,3 Liter (Impella CP Smart Assist) und 5,5 Liter (Impella 5.5) unterstützen kann. 
 
@@ -70,7 +51,7 @@ Der Katheter ist nicht für den Einsatz in der Magnetresonanztomographie zugelas
 
 4 
 
-## **4. Bevorratung und Bestellung** 
+# **4. Bevorratung und Bestellung**
 
 Die Bevorratung, Verwaltung und Abrechnung der Systeme wird vom Leiter der verantwortet und an Mitarbeitende des Bereichs delegiert. 
 
@@ -92,7 +73,7 @@ mkursawe@abiomed.com;  bei Urlaub bzw. Krankheit wird die Meldung automatisch we
 
 Die Pumpe wird patientenbezogen automatisch über SAP nachbestellt. 
 
-## **5. Vorbereitung** 
+# **5. Vorbereitung**
 
 Die Therapie mit einem Impella-Katheter inkl. Auswahl der Pumpe bedarf einer ärztlichen Anordnung. Die Implantation sollte im Beisein eines ers zur Bedienung des Controllers und Vorbereitung des Katheters auf der unsterilen Seite im OP erfolgen. 
 
@@ -134,7 +115,7 @@ Die Therapie mit einem Impella-Katheter inkl. Auswahl der Pumpe bedarf einer är
 
 5 
 
-## **6. Implantation operativ** 
+# **6. Implantation operativ**
 
 Eine Infusion muss vorbereitet werden. Verwendet wird Glucose 5 % 1000 ml mit der Zugabe von 25 ml NaHCO3- 8,4 % (Natrium-Bicarbonat). Die Flasche muss mit der Angabe des Medikaments und des aktuellen Datums beschriftet sein. 
 
@@ -160,7 +141,7 @@ Kommt der Impella-Katheter während des Implantationsvorgangs plötzlich zum Sti
 
 - Wenn die Impella nicht wieder anläuft, muss der Katheter ausgetauscht werden 
 
-## **7. Betrieb des Systems** 
+# **7. Betrieb des Systems**
 
 Die Verwendung der Purge-Flüssigkeit muss in der Eingabemaske der Software eingegeben werden. Es darf keine Kochsalz- oder Vollelektrolytlösung zur Spülung verwendet werden. 
 
@@ -170,7 +151,7 @@ Das Verfahren zur Lyse-Therapie ist in der SOP237 Management von Spüllösungen 
 
 6 
 
-## **7.1 Patiententransport mit dem System** 
+## **7.1 Patiententransport mit dem System**
 
 Der Transport von Patienten im Haus muss mit geschultem Personal als Intensivtransport durchgeführt werden. 
 
@@ -178,17 +159,17 @@ Es muss sichergestellt sein, dass die angezeigte Batteriekapazität 100 % beträ
 
 Auf einen sicheren Transport des Controllers (Schwellen, Aufzug etc.) muss geachtet werden. 
 
-## **7.2 Regelmäßige Kontrollen des Systems** 
+## **7.2 Regelmäßige Kontrollen des Systems**
 
 Das System muss regelmäßig überprüft werden. Purge-Fluss und -Druck, die Leistungsstufe (P) sowie die Leistungsaufnahme des Motors (Motorstrom) müssen dabei kontrolliert werden. Erhobene Daten müssen dokumentiert werden. 
 
 Der Wechsel der Glucose-5%-Lösung mit NaBic 8,4 % muss von geschultem Personal durchgeführt werden. 
 
-## **7.3 Wechsel des Purge-Systems** 
+## **7.3 Wechsel des Purge-Systems**
 
 Zum Wechseln der Purge-Kassette und der Purge-Flüssigkeit muss den Anweisungen im Purge-Menü auf dem Controller Folge geleistet werden. 
 
-## **7.4 Wechseln des Steuergeräts** 
+## **7.4 Wechseln des Steuergeräts**
 
 Ein Backup-Gerät muss immer vorhanden sein. 
 
@@ -206,7 +187,7 @@ Bei Ausfall eines Steuergeräts die nachstehenden Schritte befolgen, um den Impe
 
 Sobald der Katheter mit dem Backup-Steuergerät verbunden ist, erscheint eine Meldung auf dem Bildschirm, die bestätigt werden muss. Der Katheter startet dann auf der zuvor eingestellten Leistungsstufe. 
 
-## **7.5 Alarme und Troubleshooting** 
+## **7.5 Alarme und Troubleshooting**
 
 Der Impella-Controller kann Alarme ausgeben, die farblich kodiert sind (Abb. 3): Hinweis (weiß), schwerwiegend (gelb) und kritisch (rot). 
 
@@ -222,7 +203,7 @@ Bei zu niedrigem Purge-Druck und zu hohem Purge-Fluss muss eine Kontrolle des Sy
 
 **Abbildung 3.** Alarmfenster mit Darstellung der einzelnen Alarmierungsmodi 
 
-## **7.5.1 Ansaugen des Katheters** 
+### **7.5.1 Ansaugen des Katheters**
 
 Ein Ansaugen des Katheters kann sich ereignen, wenn das verfügbare Blutvolumen nicht ausreichend ist oder bei Fehllage des Katheters. Dies kann die Unterstützung beeinträchtigen. Bei Auftreten des Alarms "Ansaugen" während der Unterstützung: 
 
@@ -236,11 +217,11 @@ Ein Ansaugen des Katheters kann sich ereignen, wenn das verfügbare Blutvolumen 
 
 - nach Behebung der Alarmsituation das P-Level wieder auf die Voralarm-Einstellung zurückstellen 
 
-## **7.6 Auftreten von Hämolyse** 
+## **7.6 Auftreten von Hämolyse**
 
 Die Katheterposition sollte bei Auftreten von Hämolyse unter Bildgebung kontrolliert werden. Die Überwachung soll durch optische Kontrollen des Urins und durch die Untersuchung hämolysetypischer Laborparameter 2 x täglich (fr. Hb, LDH, tot. Bilirubin, Haptoglobin) erfolgen. 
 
-## **8. Visite und Verbandwechsel** 
+# **8. Visite und Verbandwechsel**
 
 ## **Visite durch Abiomed und** 
 
@@ -250,7 +231,7 @@ Die Visite der Patienten mit einem Impella-Katheter sollte an Werktagen regelmä
 
 Der Verband der Austrittsstelle der Impella-Pumpen erfolgt durch die zuständige Pflegekraft. 
 
-## **9. Weaning und Explantation** 
+# **9. Weaning und Explantation**
 
 Weaning und Explantation des Impella-Systems erfolgen auf Anordnung des verantwortlichen Arztes. Der Fluss wird hierbei reduziert. Die Explantation des Katheters muss durch einen Arzt entweder chirurgisch (bei Impella 5.5) oder durch die Anwendung eines Verschlusssystems interventionell erfolgen. Am Steuergerät wird Level P0 eingestellt. Das System kann dann ausgeschaltet und der Katheter muss zügig entfernt werden. 
 

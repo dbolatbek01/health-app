@@ -7,23 +7,13 @@ Hygienemaßnahmen bei der Versorgung von Säuglingen und Kindern mit Muttermilch
 
 Klinik für Angeborene Herzfehler – Kinderkardiologie: Arztdienst, Pflegedienst Station H4 und Kinder-ITS 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Ziel ................................................................................................................................................... 3|
 |---|---|
-|2.|Allgemeine Hygienemaßnahmen .................................................................................................... 3|
-|3.|Muttermilch ...................................................................................................................................... 3|
-|4.|Eingefrorene Muttermilch................................................................................................................. 3|
-|5.|Milchnahrungen für Babys und Säuglinge, Babybreie .................................................................... 4|
-|6.|Fertigbreie ........................................................................................................................................ 4|
-|7.|Sondennahrung ............................................................................................................................... 4|
-|Mitgeltende Dokumente ................................................................................................................................ 4||
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Diese SOP hat das Ziel, die hygienisch einwandfreie Verwendung von Muttermilch (MM), Säuglingsnahrungen, Fertigbreien und Sondennahrung für Säuglinge und Kinder zu gewährleisten. 
 
-## **2. Allgemeine Hygienemaßnahmen** 
+# **2. Allgemeine Hygienemaßnahmen**
 
 Die Arbeitsfläche sollte vor Beginn der Tätigkeit mit einem geeigneten Flächendesinfektionsmittel wischdesinfiziert werden (gemäß Desinfektionsmittelplan). 
 
@@ -31,7 +21,7 @@ Unmittelbar vor Beginn der Tätigkeit ist eine hygienische Händedesinfektion du
 
 Wenn nötig sind keimarme Handschuhe zu verwenden (Achtung: Das Tragen von Einmalhandschuhen ersetzt nicht die hygienische Händedesinfektion). 
 
-## **3. Muttermilch** 
+# **3. Muttermilch**
 
 - Annahme der Muttermilch-Flaschen 
 
@@ -59,7 +49,7 @@ Wenn nötig sind keimarme Handschuhe zu verwenden (Achtung: Das Tragen von Einma
 
 - Temperatur des Kühlschranks ist einmal täglich zu kontrollieren und zu dokumentieren (erfolgt durch Servicepersonal) 
 
-## **4. Eingefrorene Muttermilch** 
+# **4. Eingefrorene Muttermilch**
 
 - Auftauen eingefrorener MM erfolgt im Kühlschrank, die Flaschen sind mit Datum und Uhrzeit des Auftauens zu kennzeichnen 
 
@@ -69,7 +59,7 @@ Wenn nötig sind keimarme Handschuhe zu verwenden (Achtung: Das Tragen von Einma
 
 - Aufgetaute Muttermilch darf nicht wieder eingefroren werden 
 
-## **5. Milchnahrungen für Babys und Säuglinge, Babybreie** 
+# **5. Milchnahrungen für Babys und Säuglinge, Babybreie**
 
 - Nach Anbruch wieder gut verschließen 
 
@@ -85,7 +75,7 @@ Wenn nötig sind keimarme Handschuhe zu verwenden (Achtung: Das Tragen von Einma
 
 - Nahrungsreste nicht wiederverwenden 
 
-## **6. Fertigbreie** 
+# **6. Fertigbreie**
 
 - Sind am Tag des Öffnens zu verbrauchen 
 
@@ -93,7 +83,7 @@ Wenn nötig sind keimarme Handschuhe zu verwenden (Achtung: Das Tragen von Einma
 
 - Erwärmte Reste sind zu verwerfen 
 
-## **7. Sondennahrung** 
+# **7. Sondennahrung**
 
 - Entnahme erfolgt mit Einmalmaterial 
 

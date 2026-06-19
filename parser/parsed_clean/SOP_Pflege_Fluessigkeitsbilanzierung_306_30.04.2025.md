@@ -1,6 +1,6 @@
 ## Pflege: Flüssigkeitsbilanzierung
 
-## **1. Hintergrund und Ziel** 
+# **1. Hintergrund und Ziel**
 
 Die Herzinsuffizienz zählt zu den häufigsten Herzerkrankungen mit der höchsten MorbiditätBleibt die Erkrankung unbehandelt können sich daraus fatale Komplikationen ergeben. Ein wesentlicher Aspekt der Behandlung von chronischen Herzerkrankungen ist die Bestimmung des Wasser-Elektrolyt-Haushalts mittels Flüssigkeitsbilanzierung. Damit wird ein Rückgang der Ödembildungen angestrebt, der die Symptome einer chronischen Herzschwäche lindern bzw. kurzzeitig beheben kann. Wesentliche Ziele hierbei sind: 
 
@@ -14,15 +14,15 @@ Die Herzinsuffizienz zählt zu den häufigsten Herzerkrankungen mit der höchste
 
 Die geltenden allgemeinen Maßnahmen zur Infektionshygiene sind im Leitfaden der Krankenhaushygiene festgelegt. 
 
-## **2. Prozessverantwortliche Person** 
+# **2. Prozessverantwortliche Person**
 
 Pflegefachkräfte, Pflegefachassistentinnen und -assistenten 
 
-## **3. Geltungsbereich / Zielgruppe** 
+# **3. Geltungsbereich / Zielgruppe**
 
 Alle bettenführenden Bereiche des DHZC. 
 
-## **4. Begriffsdefinitionen** 
+# **4. Begriffsdefinitionen**
 
 Als Flüssigkeitsbilanzierung bezeichnet man in der Medizin die Erstellung einer Bilanz aus der aufgenommenen (Einfuhr) und ausgeschiedenen (Ausfuhr) Flüssigkeitsmenge in einem bestimmten Zeitintervall, meistens in einer errechneten Tagesbilanz. 
 
@@ -30,13 +30,13 @@ Hierbei sind alle Flüssigkeiten, die in einem festgelegten Zeitraum dem Körper
 
 Zudem sind künstlich entzogene Flüssigkeiten, wie z.B. Punktionsflüssigkeiten, ebenfalls zu berücksichtigen. Bei einer ausgeglichenen Bilanzierung stimmen Ein- und Ausfuhr miteinander überein. 
 
-## **5. Prozessbeschreibung** 
+# **5. Prozessbeschreibung**
 
 Die Flüssigkeitsbilanzierung für dekompensierte Patienten bildet eine Grundlage der Therapie bei kardial und pulmonal dekompensierten Patienten. Für die Bilanzierung muss eine ärztliche Anordnung, welche bestenfalls einen Bilanzierungszeitraum angibt, vorliegen. Bei fehlender Vorgabe gilt die 24-StundenBilanzierung. Hierzu werden sämtliche messbare, dem Patienten zugeführten Flüssigkeiten unter Berücksichtigung der Zeitangaben, bilanziert. Das Errechnen der Tagesbilanz erfolgt immer zum gleichen Zeitpunkt. 
 
 Bei Dialysepatienten wird der Volumenumsatz bei Hämodialyse und Hämofiltration mit einbezogen. 
 
-## **6. Dokumentation** 
+# **6. Dokumentation**
 
 Die Dokumentation erfolgt entweder in IT-gestützten Patientendokumentationssystemen (m.life, COPRA) oder in der Patientenkurve mittels Ein- und Ausfuhrprotokoll. 
 

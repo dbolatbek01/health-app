@@ -9,48 +9,34 @@ Forschung und klinische
 Studien, alle Standorte||
 |---|---|---|
 
-## **Inhaltsverzeichnis** 
-
-|1|Ziel .................................................................................................................................................. 3|
 |---|---|
-|2|Prozessverantwortliche Person ........................................................................................................ 3|
-|3|Geltungsbereich / Zielgruppe ........................................................................................................... 3|
-|4|Begriffsdefinitionen .......................................................................................................................... 3|
-|4.1|Unerwünschtes Ereignis/Adverse Event (AE) gemäß ICH-GCPE6 (R3) ............................................ 3|
 |4.2|Schwerwiegendes unerwünschtes Ereignis/Serious Adverse Event (SAE) gemäß ICH-GCP E6 (R3) 3|
-|5|Prozessbeschreibung ...................................................................................................................... 4|
-|5.1|Einstufung und Dokumentation von unerwünschten Ereignissen ....................................................... 4|
-|5.2|Meldung von unerwünschten Ereignissen ......................................................................................... 6|
-|6|Mitgeltende Dokumente ................................................................................................................... 7|
-|7|Anlagen ........................................................................................................................................... 7|
-|8|Abkürzungsverzeichnis .................................................................................................................... 8|
-|9|Änderungshistorie ............................................................................................................................ 8|
 
 **Dokumentation und Meldung von unerwünschten Ereignissen im Rahmen von klinischen Studien (PS-SOP-SV-04)** 
 
 Geltungsbereich: Forschung und klinische Studien, alle Standorte 
 
-## **1 Ziel** 
+# **1 Ziel**
 
 Die vorliegende SOP regelt das Vorgehen bei der Dokumentation und Meldung von unerwünschten Ereignissen, die bei Patienten/innen auftreten können, die innerhalb des Deutschen Herzzentrums Charité (DHZC) an klinischen Studien/Prüfungen teilnehmen. 
 
-## **2 Prozessverantwortliche Person** 
+# **2 Prozessverantwortliche Person**
 
 Als prozessverantwortliche Person fungiert der Prüfer der zugrunde liegenden Studie. Dieser kann die beschriebenen Aufgaben and die unter Geltungsbereich/Zielgruppe definierten Personen delegieren. 
 
-## **3 Geltungsbereich / Zielgruppe** 
+# **3 Geltungsbereich / Zielgruppe**
 
 Diese SOP richtet sich an alle an den Studien beteiligten Ärzte/innen, Studienkoordinatoren/innen, Studynurses und studentischen Hilfskräfte oder weitere autorisierten Mitarbeitenden des Studienzentrums. Diese SOP gilt für alle Arten von klinischen Studien innerhalb des DHZCs gemäß den für die jeweilige Studie geltenden regulatorischen Anforderungen. 
 
-## **4 Begriffsdefinitionen** 
+# **4 Begriffsdefinitionen**
 
 Unerwünschte Ereignisse können sowohl in Studien mit Arzneimitteln, als auch bei anderen Studienbehandlungen (z. B. mit einem Medizinprodukt) auftreten. Der besseren Lesbarkeit halber haben wir im folgenden Text ausschließlich die Formulierung „Prüfpräparat“ verwendet. Gemeint sind damit sowohl Arzneimittel, als auch andere Studienbehandlungen (z. B. mit einem Medizinprodukt). 
 
-## **4.1 Unerwünschtes Ereignis/Adverse Event (AE) gemäß ICH-GCPE6 (R3)** 
+## **4.1 Unerwünschtes Ereignis/Adverse Event (AE) gemäß ICH-GCPE6 (R3)**
 
 Ein unerwünschtes Ereignis ist jedes unerwünschte medizinische Ereignis bei einem Studienteilnehmer, dem das Prüfpräparat verabreicht wurde. Das AE muss nicht unbedingt in ursächlichem Zusammenhang mit der Behandlung steht 
 
-## **4.2 Schwerwiegendes unerwünschtes Ereignis/Serious Adverse Event (SAE) gemäß ICH-** 
+## **4.2 Schwerwiegendes unerwünschtes Ereignis/Serious Adverse Event (SAE) gemäß ICH-**
 
 ## **GCP E6 (R3)** 
 
@@ -76,7 +62,7 @@ Als stationäre Behandlung wird jeder Krankenhausaufenthalt eines Studienteilneh
 
 Bereits vor Einschluss in eine klinische Studie geplante Krankenhausaufnahmen gelten nicht als SAE, erfordern aber eine entsprechende Dokumentation. 
 
-## **5 Prozessbeschreibung** 
+# **5 Prozessbeschreibung**
 
 In klinischen Studien hat die Patientensicherheit oberste Priorität. Zur Sicherstellung der Patientensicherheit sind die lückenlose Dokumentation und Meldung von unerwünschten Ereignissen unverzichtbar. 
 
@@ -86,7 +72,7 @@ Die Verantwortung für die korrekte Dokumentation und Meldung an den Sponsor obl
 
 Beginn und Ende der Dokumentations- und Meldeverpflichtung sind üblicherweise im Studienprotokoll definiert. Das umfasst auch die Festlegung, wie bei Studienende bereits eingetretene Ereignisse nachverfolgt werden sollen, ebenso wie die Meldeund Nachverfolgungsverpflichtung für nach dem Studienende eingetretene Ereignisse. Sofern nicht anderweitig festgelegt, beginnt die Dokumentationspflicht mit der Abgabe der Einwilligungserklärung der Studienteilnehmenden. 
 
-## **5.1 Einstufung und Dokumentation von unerwünschten Ereignissen** 
+## **5.1 Einstufung und Dokumentation von unerwünschten Ereignissen**
 
 AEs unterliegen grundsätzlich der Dokumentationspflicht im CRF und sind vom Hauptprüfer in einem zeitlichen Zusammenhang schriftlich zur Kenntnis zu nehmen. 
 
@@ -150,7 +136,7 @@ Für jede/n Studienteilnehmende/n wird eine Liste aller eingetretenen AEs gefüh
 
 Bei Auftreten eines AEs muss die/der Studienteilnehmende, unabhängig vom Kausalzusammenhang zwischen AE und Prüfpräparat, in jedem Fall solange beobachtet werden, bis die Symptome abgeklungen sind, pathologische Laborwerte auf die Ausgangswerte zurückgegangen sind, sich eine plausible Erklärung für das unerwünschte Ereignis ergeben hat, bis zum Tod der/des Studienteilnehmenden oder bis die klinische Studie bei dem/der betroffenen Patienten/in beendet ist. Jegliche Dokumentation (z.B. Arztbriefe, Befunde), die im Zusammenhang mit dem unerwünschten Ereignis steht, ist vom erstmaligen Auftreten bis zum vollständigen Abklingen lückenlos und in einem zeitlichen Zusammenhang vollständig in der Studienakte des Patienten abzulegen. Darüber hinaus muss zwingend sichergestellt werden, dass jegliche Papierdokumentation die Site-ID (i.d.R. vergeben durch den Sponsor), die Patienten-ID sowie die ID des AE/SAE im Sinne einer besseren Zuordenbarkeit aufweist. Mehrseitige Dokumente sind mit einer fortlaufenden Seitenzahl zu versehen. 
 
-## **5.2 Meldung von unerwünschten Ereignissen** 
+## **5.2 Meldung von unerwünschten Ereignissen**
 
 AEs werden in den Studiendatenbanken/CRFs dokumentiert. Definiert der Sponsor für AEs, die nicht schwerwiegend sind, weitere Dokumentations- oder Meldepflichten im Studienprotokoll, ist diesen nachzukommen. 
 
@@ -180,11 +166,11 @@ Sofern vorgegeben kann der Prüfer darüber hinaus verpflichtet sein, schwerwieg
 
 **CAVE:** Jegliche Änderungen an einem bereits gemeldeten unerwünschten Ereignis (z.B. Änderung der Einstufung oder Diagnose, Anhebung von AE zu SAE) müssen dem Sponsor zwingend und nachweislich nachgemeldet werden. Auf eine Aktualisierung der Papierdokumentation ist entsprechend zu achten. Änderungen sind vom Hauptprüfer zu unterzeichnen. 
 
-## **6 Mitgeltende Dokumente** 
+# **6 Mitgeltende Dokumente**
 
 Erfassung von unerwünschten Ereignissen im Rahmen von klinischen Studien (PS-SOP-SV-03) 
 
-## **7 Anlagen** 
+# **7 Anlagen**
 
 Keine 
 
@@ -192,15 +178,6 @@ Keine
 
 Geltungsbereich: Forschung und klinische Studien, alle Standorte 
 
-## **8 Abkürzungsverzeichnis** 
+# **8 Abkürzungsverzeichnis**
 
 AE Adverse Event – unerwünschtes Ereignis CRF Case Report Form – Studien-Datenblatt CTCAE Common Terminology Criteria of Adverse Events - Allgemeine Terminologiekriterien von unerwünschten Ereignissen DHZC Deutsches Herzzentrum der Charité (e)CRF (electronic) Case Report Form GCP-V Verordnung über die Anwendung der Guten Klinischen Praxis (Deutschland) ISF Investigator Site File - Prüfarztordner SAE Serious Adverse Event – schwerwiegendes unerwünschtes Ereignis SOP Standard Operating Procedure – Standardarbeitsanweisung WHO World Health Organization 
-
-## **9 Änderungshistorie** 
-
-Version Änderungsgrund bzw. Kurzbeschreibung (Abschnitt) der Änderungen V1.0 Ersterstellung 
-
-Alle Anpassungen an dieser SOP werden lückenlos im Excel-Änderungsprotokoll (Formblatt FATP-QM-02) dokumentiert. 
-
-Die aktuelle Version des Änderungsprotokolls ist gemeinsam mit dieser SOP im zentralen QMRepository (\DHZC\FO\Studien\Studienzentrale\0-FS-QMS) abgelegt. Bei jeder Überarbeitung ist das Protokoll vor Freigabe zu aktualisieren und zusammen mit der neuen SOP-Version einzureichen. Vorherige Versionen des Änderungsprotokolls bleiben archiviert und sind für Audits mindestens 10 Jahre elektronisch verfügbar 
-

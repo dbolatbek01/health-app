@@ -3,31 +3,19 @@
 
 CAI Kinderkardioanästhesiologie – Norwood (CAI Norwood) 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Indikation und Operation.................................................................................................................. 3|
 |---|---|
-|2.|Narkoseführung, Gerinnungsmanagement ..................................................................................... 3|
-|2.1|Narkoseeinleitung ............................................................................................................................ 3|
-|2.2|Narkoseführung, Gerinnungsmanagement post-HLM ..................................................................... 4|
-|2.2.1|Operative Strategie .......................................................................................................................... 4|
-|2.2.2|Vor HLM-Abgang ............................................................................................................................. 4|
-|2.2.3|HLM-Abgang ................................................................................................................................... 4|
-|2.2.4|Gerinnungsmanagement ................................................................................................................. 5|
-|3.|Transport auf Intensivstation ........................................................................................................... 5|
-|4.|Mitgeltende Dokumente ................................................................................................................... 5|
 
-## **1. Indikation und Operation** 
+# **1. Indikation und Operation**
 
 Indikation für eine Norwood-Operation ist i.d.R. ein Hypoplastisches Linksherzsyndrom (HLHS), gelegentlich andere univentrikuläre Vitien. Die Norwood-Operation stellt dabei in der Regel die erste Operation (Stage 1 Repair) dar, die von Glenn- (Stage 2) und Fontan-Operation (Stage 3) gefolgt wird. 
 
 Vorgehen bei Norwood: Absetzen des Pulmonalarterienstammes von RPA und LPA, Rekonstruktion/Erweiterung des Aortenbogens und Fusion von Pulmonalarterienstamm und Aorta (DKS = Damus Kaye Stensel Procedure), Sicherung der pulmonalen Zirkulation durch Anlage eines modifizierten Blalock-Taussig-Shunts (mBT = Verbindung rechte A. subclavia mit rechter Pulmonalarterie mittels Shuntprothese) oder mittels Sano-Shunt. Prozedur i.d.R. in moderater Hypothermie (28°C) und mit antegrader zerebraler Perfusion (ACP) über Shunt-Prothese (späterer BT-Shunt) an Truncus brachiocephalicus oder Arteria subclavia rechts oder über direkte Kanülierung und mit simultaner distaler Perfusion über 22 G-Kanüle oder 3F-Schleuse in einer Arteria femoralis. 
 
-## **2. Narkoseführung, Gerinnungsmanagement** 
+# **2. Narkoseführung, Gerinnungsmanagement**
 
 Gemäß SOP564 Kinderkardioanästhesiologie – Standard HLM, Abweichungen s. u., sowie SOP563 Kinderkardioanästhesiologie – Shunt. 
 
-## **2.1 Narkoseeinleitung** 
+## **2.1 Narkoseeinleitung**
 
 - Alprostadil unverändert weiterlaufen lassen bis chirurgischer PDA-Verschluss an HLM bzw. nach Maßgabe Operateur; nach Beendigung offenhalten des Zugangs mit Trägerlösung in niedriger Laufrate (1-2ml/h), insbesondere bei PICC Lines („Einschwemmer“) 
 
@@ -53,13 +41,13 @@ Gemäß SOP564 Kinderkardioanästhesiologie – Standard HLM, Abweichungen s. u.
 
 - Vorbereitung Heparin 100 IE/kgKG (Gabe vor Truncusausklemmung zur Shunt-Annaht für aortale Kanülierung) und 500 IE/kgKG (Vollheparinisierung zur HLM) 
 
-## **2.2 Narkoseführung, Gerinnungsmanagement post-HLM** 
+## **2.2 Narkoseführung, Gerinnungsmanagement post-HLM**
 
-## **2.2.1 Operative Strategie** 
+### **2.2.1 Operative Strategie**
 
 Die aortale Kanülierung erfolgt über eine Shunt-Prothese am Truncus brachiocephalicus oder an der rechten A. subclavia oder über eine direkte arterielle Kanülierung. Während Aortenklemmung simultan antegrade cerebrale Perfusion und distale Perfusion über Y-Anschluss an liegender femoralarterieller Kanüle. Steuerung mittels partieller Schlauchklemmung durch Operateur. NIRS-Überwachung („shared burden“ mit auf Stauungszeichen und Anhaltspunkte für Minderperfusion achten!) 
 
-## **2.2.2 Vor HLM-Abgang** 
+### **2.2.2 Vor HLM-Abgang**
 
 - ROTEM und Blutbild 
 
@@ -67,7 +55,7 @@ Die aortale Kanülierung erfolgt über eine Shunt-Prothese am Truncus brachiocep
 
 - Epikardiale SM-Elektroden anschließen/testen 
 
-## **2.2.3  HLM-Abgang** 
+### **2.2.3  HLM-Abgang**
 
 - Norepinephrin, Epinephrin, Milrinon nach Bedarf 
 
@@ -97,7 +85,7 @@ Eine SaO2 von 75–85% und SvO2 kleiner 40% korrespondiert mit einem Qp/Qs > 2 u
 
 > 1 Photiadis J et al. Optimal pulmonary to systemic blood flow ratio for best hemodynamic status and outcome early after Norwood operation. Eur J Cardiothorac Surg 2006;29:551-6 
 
-## **2.2.4 Gerinnungsmanagement** 
+### **2.2.4 Gerinnungsmanagement**
 
 - Nach CPB Protamin (Gesamtmenge bis HLM-Blut verabreicht)  ACT und zentralvenöse BGA ca. 15 min. nach Protamingabe 
 
@@ -109,7 +97,7 @@ Eine SaO2 von 75–85% und SvO2 kleiner 40% korrespondiert mit einem Qp/Qs > 2 u
 
 - Cave: differentialdiagnostisch muss bei einem pO 2-Abfall in Abgrenzung zur Hypoventilation immer auch an einen akuten Shuntverschluss bzw. an ein LCOS gedacht werden. 
 
-## **3. Transport auf Intensivstation** 
+# **3. Transport auf Intensivstation**
 
 - Mit komplettem Monitoring inkl. Kapnometrie-Überwachung, 
 
@@ -117,7 +105,7 @@ Eine SaO2 von 75–85% und SvO2 kleiner 40% korrespondiert mit einem Qp/Qs > 2 u
 
 - In tiefer Narkose (laufende Sufentanil- und Propofol-Infusion; ggf. zusätzlich Relaxansbolus) 
 
-## **4. Mitgeltende Dokumente** 
+# **4. Mitgeltende Dokumente**
 
 SOP563 Kinderkardioanästhesiologie – Shunt SOP564 Kinderkardioanästhesiologie – Standard HLM 
 

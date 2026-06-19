@@ -11,42 +11,11 @@ Klinik für Kardioanästhesiologie und Intensivmedizin
 
 Anhang 1 Inventarliste Akutwagen PACU Anhang 2 Prüfliste Akutwagen PACU 
 
-## **Änderungshistorie** 
-
-## **Inhaltsverzeichnis** 
-
-|1.|Infrastruktur ...................................................................................................................................... 3|
 |---|---|
-|1.1|Betriebszeiten .................................................................................................................................. 3|
-|1.2|Personalbesetzung .......................................................................................................................... 3|
-|1.3|Zahl der Bettplätze ........................................................................................................................... 3|
-|1.4|Pflegeschlüssel ................................................................................................................................ 3|
-|2.|Bettendisposition ............................................................................................................................. 3|
-|3.|Aufnahme- und Verlegungsprocedere ............................................................................................. 3|
-|3.1|Anmeldung ....................................................................................................................................... 3|
-|3.2|Aufnahme ........................................................................................................................................ 4|
-|3.3|Verlegungsplanung .......................................................................................................................... 4|
-|3.4|Verlegung aus der PACU ................................................................................................................ 4|
-|4.|Management Thorax-/Pleuradrainagen ........................................................................................... 5|
-|5.|Patienteneigentum und Wertsachen ............................................................................................... 5|
-|6.|Technische und medizinische Ausrüstung, Routinekontrollen, Checks .......................................... 5|
-|6.1|Ausstattung Bettenplätze ................................................................................................................. 5|
-|6.2|Gerätechecks ................................................................................................................................... 5|
-|6.3|Akutwagen PACU, Notfallmedikamente .......................................................................................... 6|
-|6.4|Apotheke, BTM ................................................................................................................................ 6|
-|7.|Dokumentation der Patientenaufnahme und Patientenversorgung ................................................ 6|
-|7.1|Personalbindungszeiten .................................................................................................................. 6|
-|7.2|Behandlungsverlauf und durchgeführte Maßnahmen ..................................................................... 6|
-|7.3|Routinemäßige PACU-Untersuchungen .......................................................................................... 7|
-|7.4|ZVK-Anlagen ................................................................................................................................... 7|
-|7.5|TEE-Untersuchungen ...................................................................................................................... 7|
-|7.6|Kardioversionen ............................................................................................................................... 7|
-|8.|Verdacht auf Stroke/Strokealarm .................................................................................................... 8|
-|9.|Mitgeltende Dokumente ................................................................................................................... 8|
 
-## **1. Infrastruktur** 
+# **1. Infrastruktur**
 
-## **1.1 Betriebszeiten** 
+## **1.1 Betriebszeiten**
 
 Die Postanaesthesia Care Unit, kurz PACU, am DHZC Standort Augustenburger Platz (AP) betreut DHZC-Patienten werktäglich in der Zeit von **08:30 bis 18:00 Uhr** . Sämtliche Patienten müssen um 18:00 Uhr auf die weiterbehandelnden Einheiten verlegt worden sein. CAH-Patienten werden in der PACU nur nach vorheriger Absprache mit dem OP-Koordinator betreut. Zwingende Voraussetzung ist ein Patientenalter über 14 Jahre und eine von unkorrigierten kongenitalen Vitien freie Kreislaufphysiologie. 
 
@@ -54,7 +23,7 @@ In der Zeit von 08:30 Uhr bis 09:30 Uhr (vor Dienstbeginn PACU-verantwortlicher 
 
 Eine über 18:00 Uhr hinausgehende Belegung der PACU ist nicht vorgesehen und kann nur in Ausnahmefällen und dann ggf. mit Intensivpflegepersonal und ärztlicher Mitbetreuung von den Intensivstationen erfolgen (rechtzeitige Absprache OP-Koordination Tel. 2710). 
 
-## **1.2 Personalbesetzung** 
+## **1.2 Personalbesetzung**
 
 - FD 1 **F6** 08:30 Uhr bis 16:48 Uhr (Tel. 2680) 
 
@@ -62,37 +31,37 @@ Eine über 18:00 Uhr hinausgehende Belegung der PACU ist nicht vorgesehen und ka
 
 - AD **Z6** 09:30 Uhr bis 18:00 Uhr (Tel. 2612) 
 
-## **1.3 Zahl der Bettplätze** 
+## **1.3 Zahl der Bettplätze**
 
 6 voll ausgestattete Monitor- und Beatmungsplätze 
 
-## **1.4 Pflegeschlüssel** 
+## **1.4 Pflegeschlüssel**
 
 Der Pflegeschlüssel in den PACU-Einheiten ist gemäß aktuellem Tarifvertrag Gesundheitsfachberufe mit **3:1** festgelegt. Sollten besonders pflegeaufwendige Patienten einen höheren Betreuungsaufwand erfordern, muss dieser zusätzliche Bedarf aus dem Anästhesie-Funktionsdienst (Tel. Schichtleitung: 1761) zur Verfügung gestellt werden. 
 
-## **2. Bettendisposition** 
+# **2. Bettendisposition**
 
 - Patienten die geplant aus dem OP in die PACU aufgenommen werden sollen, werden von der OPKoordination in Torin online entsprechend hinterlegt. Die Disposition ist auf dem Torin online-Monitor in der PACU einsehbar und wird von der OP-Koordination kontinuierlich aktualisiert. 
 
 - Ungeplante Aufnahmen (d. h. eine von dieser Bettenplanung abweichende Patientenbelegung z. B. aufgrund kurzfristig geänderten OP-Programms, fehlender Aufnahmekapazität auf ITS, Notfallübernahme von instabilen Patienten von peripheren Stationen, Durchführung von Interventionen wie Kardioversionen, TEE-Untersuchungen, ZVK-Anlagen etc.) erfolgen über direkte Kommunikation mit dem OP-Koordinator. Sind durchzuführende Interventionen nicht bereits in Torin angelegt, werden sie vom PACU-Arzt in Torin in der Spalte „Kontingent / PACU“ eingepflegt. 
 
-## **3. Aufnahme- und Verlegungsprocedere** 
+# **3. Aufnahme- und Verlegungsprocedere**
 
-## **3.1 Anmeldung** 
+## **3.1 Anmeldung**
 
 Ankündigung des für die PACU vorgesehenen Patienten unter Tel. 2680 durch den saalzuständigen Anästhesiefunktionsdienst mit Angabe des voraussichtlichen Verlegungszeitpunkts und behandlungsrelevanter Informationen hinsichtlich des Zustands des Patienten (Beatmung, hämodynamischer Aufwand, sonstige Besonderheiten). 
 
-## **3.2 Aufnahme** 
+## **3.2 Aufnahme**
 
 Strukturierte Übergabe des Patienten durch den narkoseführenden Anästhesisten _**und**_ ein Mitglied des chirurgischen/interventionellen Teams an den zuständigen ärztlichen Kollegen und den verantwortlichen Mitarbeitenden des Funktionsdiensts in der PACU gemäß SOP538 Strukturierte Patientenübergabe. Der übergebende Anästhesist ist dafür verantwortlich, den Patienten stabil in der PACU abzugeben. Sollte der Patient auf dem Weg in die PACU oder bei Ankunft instabil geworden sein, hat der übergebende Anästhesist den Patienten zu versorgen, bis dieser wieder stabil ist oder er abgelöst wird. 
 
 Bestandteil der Übergabe sollte auch ein ggf. erfolgter Studieneinschluss des Patienten mit den potentiellen Implikationen für den PACU-Aufenthalt (z. B. fällige Blutentnahmen, Medikamentenapplikationen, Entblindungsoptionen im Falle eines SAEs etc.) sein. 
 
-## **3.3 Verlegungsplanung** 
+## **3.3 Verlegungsplanung**
 
 Telefonische Abstimmung des Verlegungsablaufs auf die weiterversorgenden Einheiten, insbesondere des Übernahmezeitpunkts durch die Intensivstationen WD1i, WD2i, W1i oder die IMC W2i erfolgt gegen 15:00 Uhr durch den PACU-Arzt und die pflegerischen Schichtleitungen der jeweiligen Stationen. Die zugrundeliegende Bettendisposition wird durch den OP-Koordinator und die nachversorgenden Einheiten im Rahmen der Bettenbesprechungen um 8:30 und 11:00 Uhr festgelegt und in Torin online hinterlegt sowie ggf. im Verlauf angepasst. Von der zentralen Planung abweichende Verlegungsnotwendigkeiten (für Normalstation vorgesehene Patienten sind weiterhin intensivpflichtig, Bettenabsagen seitens nachversorgender Einheiten etc.) müssen daher in jedem Fall an die OPKoordination rückgekoppelt werden. 
 
-## **3.4 Verlegung aus der PACU** 
+## **3.4 Verlegung aus der PACU**
 
 - Bei Verlegungen in die Bereiche des DHZC, die als PDMS Copra und nicht m.life verwenden, muss ein Ausdruck des Narkoseprotokolls (über Menü Berichte | Anästhesieprotokoll) sowie ein Ausdruck des aktuellen ärztlichen Verlaufs (über Menü Berichte | Arztnotizen) erstellt da nicht ubiquitär Zugriff auf m.life besteht. 
 
@@ -104,7 +73,7 @@ Telefonische Abstimmung des Verlegungsablaufs auf die weiterversorgenden Einheit
 
 _**Bei Transporten von intensivpflichtigen Patienten zwischen den Standorten MA und AP ist die Notfalltasche mitzuführen**_ 
 
-## **4. Management Thorax-/Pleuradrainagen** 
+# **4. Management Thorax-/Pleuradrainagen**
 
 Gemäß SOP513 Perioperativer Einsatz MAT/Anschluss Thoraxdrainagen kommen regelhaft sämtliche Patienten bereits mit angeschlossenem Thoraxdrainagesystem aus dem OP. Sollte in Ausnahmefällen ein Patient mit konnektiertem Cellsaver-Reservoir (Vorteil: mögliche Wiederaufbereitung von Wundblut) aus dem OP in die PACU verlegt werden, sind folgende Punkte zu beachten: 
 
@@ -112,15 +81,15 @@ Gemäß SOP513 Perioperativer Einsatz MAT/Anschluss Thoraxdrainagen kommen regel
 
 - Extubierte Patienten werden grundsätzlich nicht mit an Thorax- bzw. Pleuradrainagen angeschlossenem Cellsaver-Reservoir weiterverlegt. 
 
-## **5. Patienteneigentum und Wertsachen** 
+# **5. Patienteneigentum und Wertsachen**
 
 - Da der Patientenaufenthalt in der PACU als OP-Aufenthalt zu werten ist handelt es sich hierbei im Sinne der ZVA Patienteneigentum um eine sog. kurzfristige Abwesenheit. Der Sack mit dem Patienteneigentum sowie ein etwaiger Safebag mit den Wertsachen des Patienten verbleiben also auf der zuverlegenden Einheit, das PACU-Personal nimmt kein Patienteneigentum von stationären Patienten entgegen. 
 
 - Bei notfallmäßigen Übernahmen externer Patienten in den OP-Bereich oder die PACU wird entsprechend der ZVA Patienteneigentum eine Eingangsdokumentation in SAP durchgeführt und das Patienteneigentum sowie die Wertsachen der nachversorgenden Einheit bei Verlegung übergeben. 
 
-## **6. Technische und medizinische Ausrüstung, Routinekontrollen, Checks** 
+# **6. Technische und medizinische Ausrüstung, Routinekontrollen, Checks**
 
-## **6.1 Ausstattung Bettenplätze** 
+## **6.1 Ausstattung Bettenplätze**
 
 Jeder Bettplatz ist auszurüsten mit 
 
@@ -142,25 +111,25 @@ Jeder Bettplatz ist auszurüsten mit
 
 In den Wandkörben sind O2-Masken, O2-Brillen, Nierenschalen, Mullkompressen und Combi-Stopper aufzufüllen. 
 
-## **6.2 Gerätechecks** 
+## **6.2 Gerätechecks**
 
 Die Kontrolle der Beatmungsgeräte („Gerätecheck“) sowie des Defibrillators erfolgt werktäglich, und zwar _**jeden Montag vor Betriebsbeginn,**_ durch den Nachtdienst oder den frühen PACUFunktionsdienst (F6), _**sowie Mo–Do nach Betriebsende**_ durch den PACU-Zwischendienst (Z2). Der Wechsel der Exspirationsventile der Beatmungsgeräte erfolgt einmal wöchentlich _**jeden Montag vor Betriebsbeginn**_ . Am Freitag nach Betriebsende werden die Beatmungsgeräte durch den Zwischendienst (Z2) unter Belassung der Exspirationsventile ausgeschaltet. 
 
-## **6.3 Akutwagen PACU, Notfallmedikamente** 
+## **6.3 Akutwagen PACU, Notfallmedikamente**
 
 Die Kontrolle des Akutwagens (Standort neben Bettplatz 6) auf Vollständigkeit und Funktionstüchtigkeit (s. Anhang 1, PACU Inventarliste) sowie des Vorrats an Notfallspritzen und Notfallmedikamenten im Kühlschrank erfolgt _**einmal werktäglich**_ durch den PACU-Frühdienst (F6) und wird auf dem monatlichen Prüfzettel (s. Anhang 2, PACU Prüfliste) dokumentiert. 
 
-## **6.4 Apotheke, BTM** 
+## **6.4 Apotheke, BTM**
 
 Die Apothekenbestellung erfolgt an den gleichen Tagen wie in der Anästhesie durch den frühen PACU Funktionsdienst (F2) in Rücksprache mit der Schichtleitung. Der Umgang mit Betäubungsmitteln und die Durchführung der Bestandskontrolle ist in der SOP123 Umgang mit Betäubungsmitteln geregelt. 
 
-## **7. Dokumentation der Patientenaufnahme und Patientenversorgung** 
+# **7. Dokumentation der Patientenaufnahme und Patientenversorgung**
 
-## **7.1 Personalbindungszeiten** 
+## **7.1 Personalbindungszeiten**
 
 Die Dokumentation der Personalbindungszeiten (Arztdienst sowie Funktionsdienst) erfolgt in Torin im vorangegangenen OP-Termin unter Narkose | Personal als PACU AD bzw. PACU FD. Unter Narkose | Verlauf/Bilanz werden die Aufnahme- und Verlegungszeitpunkte hinterlegt. 
 
-## **7.2 Behandlungsverlauf und durchgeführte Maßnahmen** 
+## **7.2 Behandlungsverlauf und durchgeführte Maßnahmen**
 
 Die medizinische Dokumentation liegt in der Verantwortung des für die PACU zuständigen Arztes. Die Hinterlegung der Medikamentenapplikationen, durchgeführten Maßnahmen und Bilanzierung wird in der PACU als gemeinschaftliche Aufgabe des Funktions- und Arztdienstes verstanden. Die dokumentationsrelevanten medizinischen Inhalte umfassen unter anderem: 
 
@@ -192,7 +161,7 @@ Die hierbei nicht delegierbaren Dokumentationsaufgaben des Arztdienstes umfassen
 
 * Für viele Behandlungspfade sind in m.life Therapiestandards vorgegeben. Diese erleichtern die Medikamentenanordnungen für die unmittelbar postoperative Phase. Sämtliche Therapiestandards müssen aber nach Auswahl individuell auf den konkreten Patienten und für die geplante weiterversorgende Einheit (Normal/N+-Stationen versus ITS und IMC) angepasst werden. Insbesondere auf die korrekten Intervalle bei der Weiterverordnung der perioperativen AntiinfektivaProphylaxe sollte hierbei geachtet werden. 
 
-## **7.3 Routinemäßige PACU-Untersuchungen** 
+## **7.3 Routinemäßige PACU-Untersuchungen**
 
 ## **Thoraxröntgen** 
 
@@ -206,21 +175,21 @@ Bei Anfertigung eines 12-Kanal-EKGs wird dieses automatisch nach SAP übertragen
 
 Als unmittelbar postoperative Laborroutine wird analog zur WD1i in Lauris das Paket „Aufnahme post OP/Verlauf spät“ gewählt. BGAs werden gemäß hinterlegtem Behandlungsstandard bzw. nach klinischer Indikation durchgeführt. 
 
-## **7.4 ZVK-Anlagen** 
+## **7.4 ZVK-Anlagen**
 
 Die Anlage von ZVKs werden von den Stationen telefonisch beim PACU-Arzt angemeldet und von diesem in Torin unter „Kontingent/PACU“ hinterlegt. Der Patient wird auslastungsadäquat vom PACUPersonal abgerufen. Eine ausgefüllte und unterschriebene Einverständniserklärung für die ZVK-Anlage ist seitens der anfordernden Stationen zur erbringen. 
 
 Die Administration und Dokumentation (Personalbindung und medizinische Dokumentation) erfolgt gemäß SOP580 Punkt 4 (Konsiliarleistungen) in Torin und m.life. 
 
-## **7.5 TEE-Untersuchungen** 
+## **7.5 TEE-Untersuchungen**
 
 TEE-Untersuchungen in Sedierung werden analog zu 7.4 behandelt und abgearbeitet, eine entsprechende Einverständniserklärung ist seitens der anfordernden Stationen zu erbringen. Die Administration und Dokumentation (Personalbindung und medizinische Dokumentation) erfolgt gemäß SOP580 Punkt 4 (Konsiliarleistungen) in Torin und m.life. 
 
-## **7.6 Kardioversionen** 
+## **7.6 Kardioversionen**
 
 Kardioversionen in Kurznarkose werden analog zu 7.4 behandelt und abgearbeitet, eine entsprechende Einverständniserklärung ist seitens der anfordernden Stationen zu erbringen. Die Administration und Dokumentation (Personalbindung und medizinische Dokumentation) erfolgt gemäß SOP580 Punkt 4 (Konsiliarleistungen) in Torin und m.life. 
 
-## **8. Verdacht auf Stroke/Strokealarm** 
+# **8. Verdacht auf Stroke/Strokealarm**
 
 Bei V. a. Stroke (relevante, neu aufgetretene Störung von Bewusstsein, Sprache, Sehen und/oder Motorik), beispielweise nach TAVI-Implantation, sollte ohne Zeitverlust ein Strokealarm ausgelöst werden (s. a. SOP411 Strokealarm). Entscheidend sind die folgenden beiden unmittelbar einzuleitenden Schritte: 
 
@@ -242,7 +211,7 @@ für den Standort CT MA über einen Rad-Klat:
 
 Radiolog. Allg. | CVK Akut Stroke CT | CT Kopf Stroke. 
 
-## **9. Mitgeltende Dokumente** 
+# **9. Mitgeltende Dokumente**
 
 SOP123 Umgang mit Betäubungsmitteln SOP411 Stroke-Alarm: Lysetherapie bei akutem Schlaganfall SOP513 Perioperativer Einsatz der maschinellen Autotransfusion (MAT) und Anschluss von Thoraxdrainagen SOP538 CAI Strukturierte Patientenübergabe SOP539 Enhanced Recovery after Cardiac Surgery bei minimalinvasiver Chirurgie 
 

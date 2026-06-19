@@ -9,31 +9,17 @@ CAI Dokumentation in der Anästhesie
 
 Klinik für Kardioanästhesiologie und Intensivmedizin 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Narkosedokumentation .................................................................................................................... 3|
 |---|---|
-|1.1|Ärztliche Dokumentationspflicht ...................................................................................................... 3|
-|1.2|Prämedikation .................................................................................................................................. 3|
-|1.3|Narkose............................................................................................................................................ 3|
-|1.3.1|Vor Narkoseeinleitung ..................................................................................................................... 3|
-|1.3.2|Einleitungsphase ............................................................................................................................. 4|
-|1.3.3|OP-Phase ........................................................................................................................................ 5|
-|2.|Sign-In / Time-out ............................................................................................................................ 6|
-|3.|Intraoperative TEE-Untersuchungen ............................................................................................... 6|
-|4.|Konsiliarleistungen (u. a. ZVK-Anlage, Intubation, TEE) ................................................................. 6|
-|5.|Prozedere bei papiergebundener Dokumentation ........................................................................... 7|
-|6.|Verantwortlichkeit für die Dokumentation ........................................................................................ 7|
 
-## **1. Narkosedokumentation** 
+# **1. Narkosedokumentation**
 
-## **1.1 Ärztliche Dokumentationspflicht** 
+## **1.1 Ärztliche Dokumentationspflicht**
 
 Die ärztliche Dokumentationspflicht ist gesetzlich eindeutig geregelt. Wie der Name impliziert, handelt es sich um eine ärztliche, keine pflegerische Dokumentationspflicht. Aus unterlassener oder mangelhafter Dokumentation ergeben sich u. U. weitreichende Konsequenzen, insbesondere in einem Haftungsfall. Normalerweise muss grundsätzlich der Patient als Kläger beweisen, welche Maßnahmen oder Behandlungen der Arzt durchgeführt hat oder auch nicht. Die ärztliche Dokumentation dient hierbei als Beweismittel, das vom Arzt vorgelegt wird. Wenn der Arzt aber ungenügend oder gar nicht dokumentiert hat, kommt es zur Beweiserleichterung: Gemäß § 630 h Abs. 3 BGB wird zugunsten des Patienten vermutet, dass der Arzt oder die Ärztin die nicht dokumentierte Maßnahme tatsächlich nicht durchgeführt hat. 
 
 In diesem Zusammenhang sei auch ausdrücklich nochmals auf den Regressvorbehalt der Charité im Haftpflichtfall bei grober Fahrlässigkeit hingewiesen. 
 
-## **1.2 Prämedikation** 
+## **1.2 Prämedikation**
 
 Nach dem Prämedikationsgespräch mit mündlicher Aufklärung, schriftlicher Fixierung wichtiger Aufklärungspunkte und den Unterschriften auf dem Anästhesieaufklärungsprotokoll erfolgt in **Torin** dessen elektronische Dokumentation. 
 
@@ -41,9 +27,9 @@ Dafür in **Torin** den entsprechenden OP-Termin anklicken, mit rechter Maustast
 
 anästhesierelevanten Informationen im OP-Termin und am rechten Rand die Markierung _freigegeben_ 
 
-## **1.3 Narkose** 
+## **1.3 Narkose**
 
-## **1.3.1 Vor Narkoseeinleitung** 
+### **1.3.1 Vor Narkoseeinleitung**
 
 Am Standort Augustenburger Platz (AP) wird der Patient an den Narkosearbeitsplätzen im PhilipsÜberwachungsmonitor elektronisch aufgenommen. Dafür am Philips-Monitor in der unteren Zeile _Patient suchen_ anklicken und entweder über den Nachnamen oder idealerweise die **Fall-Nr.** / **UntersuchungsNr.** (bitte immer aktuelle Fallnr. / Untersuchungsnr. benutzen, da sonst zwar der richtige Name erscheint, aber keine Datenübernahme in das PDMS erfolgt) den Patienten suchen und auswählen. Der Name erscheint nach Bestätigung oben links im Philips-Monitor. Nun startet bei korrekter Fallzuordnung die Datenübernahme für die hämodynamische Überwachung. 
 
@@ -59,7 +45,7 @@ Vor Narkosebeginn muss das _Sign-In Anästhesie_ unter _Sicherheitscheckliste_ a
 
 Fehlt die _Prä-op. Risikobewertung_ noch, wird die geplante Dringlichkeit und die ASA-Einstufung eingetragen. Sind beide Punkte korrekt eingetragen, erscheint ein grünes Häkchen hinter der _Präop. Risikobewertung_ . 
 
-## **1.3.2 Einleitungsphase** 
+### **1.3.2 Einleitungsphase**
 
 Alle hämodynamischen, beatmungsassoziierten und Sedline-/NIRS-Daten werden am Standort AP nach Anschluss des Patienten an EKG; SpO2, NIBD, art. Druckmessung, Sedline / NIRS, Beatmungsstart automatisch im **m.life** -Anästhesieprotokoll gespeichert. Analog funktioniert die Übernahme der Daten in das PDMS **COPRA** am Standort MA, lediglich die Werte von Sedline/NIRS müssen manuell eingepflegt werden. 
 
@@ -69,7 +55,7 @@ Wichtig: Unter den Präsenzeiten, die bei in **Torin** bei _AN-Zeiten_ eingetrag
 
 In **m.life** unter _**♥** Anästhesie | ♥Einleitung_ müssen aus dem Schnellzugriff u. a. alle Medikamentengaben (Bolusgaben oder Perfusorlaufraten), intubations- und katheterrelevanten Parameter, Pupillenstatus und Augenschutz händisch eingetragen werden. Die Eingaben im Rahmen der Narkoseeinleitung erfolgen vereinbarungsgemäß weitgehend über den Anästhesie-FD. Die vom Anästhesie-FD getätigten Medikamentengaben (nicht autorisierte Medikamentenfelder sind grau/gelb unterlegt) müssen aber im weiteren Verlauf durch den ÄD autorisiert werden (s. u.). Analog werden in **COPRA** die Medikamente werden beim Abschluss der Dokumentation „verordnet“. 
 
-## **1.3.3 OP-Phase** 
+### **1.3.3 OP-Phase**
 
 Das Ende der Narkoseeinleitung wird in **Torin** unter _AN-Zeiten_ als _Ende Einleitung_ vermerkt, die Verlegung in den OP-Saal nach der Lagerung und Einfahrt in den OP in **Torin** unter _AN-Zeiten_ als _Patient im OP-Saal_ erfasst. 
 
@@ -93,7 +79,7 @@ Am Standort MA wird in **COPRA** das Narkoseprotokoll durch den Button _Beenden 
 
 Blut- und Gerinnungsprodukte werden in **m.life** über _♥Anästhesie | ♥Narkose | Schnellzugriff | Medikation_ dokumentiert, EK, FFP, TK werden zudem über Lauris rückgemeldet. Am Standort MA erfolgt die Rückmeldung von transfundierten Blutprodukten über den beiliegenden Laufzettel. 
 
-## **2. Sign-In / Time-out** 
+# **2. Sign-In / Time-out**
 
 - **a)** Das erste Sign-In erfolgt bei der Ankunft des Patienten in der Umbettschleuse vor Umlagerung des Patienten vom Bett auf den OP-Tisch und wird in **Torin** bei _Sicherheitscheckliste_ unter _Check In Schleuse_ dokumentiert. 
 
@@ -105,7 +91,7 @@ Wichtig: Der Patient ist, wenn immer möglich, aktiv zu identifizieren („ _Sag
 
 - **c)** Das letzte _Team-Time-out_ erfolgt vor Hautschnitt mit Operateur, Anästhesie-AD, Anästhesie-FD, OP-Pflege und und wird durch den OP-Funktionsdienst in **Torin** dokumentiert. In **COPRA** kann die Durchführung des Team-Time-out ebenfalls bestätigt werden. 
 
-## **3. Intraoperative TEE-Untersuchungen** 
+# **3. Intraoperative TEE-Untersuchungen**
 
 - **a)** Die Worklist-Anforderung einer TEE-Untersuchungen wird als klinischer Auftrag (KLAT, s. u.) über **SAP** ausgelöst, dies sichert die korrekte Speicherung der Bilddaten im Charité-PACS **Phoenix** sowie die Sicherung der Messwerte in **Cardio Workflow** (CCW). Darüber hinaus erfolgt die Dokumentation des TEE-durchführenden Anästhesisten in **Torin** . 
 
@@ -113,7 +99,7 @@ Echo-KLAT: im **SAP** Produktivsystem den Patienten auswählen und _Anf. anl_ . 
 
 - **b)** Nur die Dokumentation unmittelbar weiterbehandlungsrelevanter Befunde erfolgt in den Arztnotizen als Anästhesieübergabe in **m.life** bzw. unter Besonderheiten in **COPRA** . Darüber hinaus ist eine ausführliche, strukturierte Befundung jeder Echo-Untersuchung erforderlich. Aktuell ist dies nur in **Cardio Workflow** (CCW) möglich, an einer Optimierung dieser bislang nicht idealen Eingabemaske bzw. einer alternativen Berichtsmöglichkeit in **COPRA** wird z. Zt. gearbeitet. 
 
-## **4. Konsiliarleistungen (u. a. ZVK-Anlage, Intubation, TEE)** 
+# **4. Konsiliarleistungen (u. a. ZVK-Anlage, Intubation, TEE)**
 
 - **a)** In **Torin** in der Kontingentspalte doppelklicken, Abteilung auswählen _Kardioanästhesie OP CVK AP_ / _PACU_ und aus der Liste _ZVK-Anlage / Shaldon-Anlage / TEE in AS / Kardioversion_ etc. die entsprechende Leistung auswählen, übernehmen und in der sich öffnenden Maske die Patientendaten ausfüllen und speichern. 
 
@@ -123,13 +109,13 @@ Echo-KLAT: im **SAP** Produktivsystem den Patienten auswählen und _Anf. anl_ . 
 
    - Dafür In **Torin** in der Kontingentspalte oder der IPS-Spalte doppelklicken, Abteilung auswählen _Kardioanästhesie OP CVK AP_ / _PACU_ und aus der Liste _Atemweg_ auswählen, übernehmen und in der sich öffnenden Maske die Patientendaten ausfüllen und speichern. 
 
-## **5. Prozedere bei papiergebundener Dokumentation** 
+# **5. Prozedere bei papiergebundener Dokumentation**
 
 - **a)** Bei Narkosen im HK, CT oder bei Ausfall der elektronischen Datenübertragung wird papiergebunden dokumentiert (Protokolle stehen im Anästhesiebüro zur Verfügung). 
 
 - **b)** Nach Narkoseende verbleibt das Original des Anästhesieprotokolls in der Patientenakte, der Durchschlag wird vom Sekretariat eingescannt, zugeordnet und anschließend abgeheftet. 
 
-## **6. Verantwortlichkeit für die Dokumentation** 
+# **6. Verantwortlichkeit für die Dokumentation**
 
 - **a)** Für die Vollständigkeit und Validität der anästhesiologischen Verlaufsdokumentation ist grundsätzlich der Arztdienst verantwortlich. 
 

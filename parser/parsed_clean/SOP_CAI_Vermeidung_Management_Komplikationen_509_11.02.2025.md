@@ -3,31 +3,11 @@
 
 CAI Vermeidung und Management typischer anästhesiologischer Komplikationen (CAI Komplikationsmanagement) 
 
-## **Inhaltsverzeichnis** 
+Version  Freigabe  Erstellung  Prüfung  Freigabe  Wiedervorlage
 
-|1.|Atemwegsprobleme ......................................................................................................................... 3|
 |---|---|
-|2.|Medikationsfehler ............................................................................................................................. 3|
-|3.|Schwierigkeiten bei der i.v.-Punktion ............................................................................................... 4|
-|4.|Allergische Reaktionen .................................................................................................................... 5|
-|4.1|Prophylaxe ....................................................................................................................................... 5|
-|4.2|Klinisches Bild/Stadieneinteilung ..................................................................................................... 5|
-|4.3|Therapie ........................................................................................................................................... 5|
-|4.4|Nachsorge ....................................................................................................................................... 6|
-|5.|Maligne Hyperthermie (MH)............................................................................................................. 7|
-|5.1|Disposition ....................................................................................................................................... 7|
-|5.2|Prävention ........................................................................................................................................ 7|
-|5.3|Klinisches Bild .................................................................................................................................. 7|
-|5.4|Therapie ........................................................................................................................................... 8|
-|5.5|Nachversorgung .............................................................................................................................. 9|
-|6.|(Euglykämische) diabetogene Ketoazidose (EDKA) ....................................................................... 9|
-|6.1|Prävention (elektive, verschiebbare Eingriffsformen) ...................................................................... 9|
-|6.2|Diagnose der diabetischen Ketoazidose ......................................................................................... 9|
-|6.3|Behandlung der diabetischen (euglykämischen) Ketoazidose ...................................................... 10|
-|7.|Funktionsprüfung des Narkosegeräts gemäß Empfehlung der DGAI ........................................... 10|
-|8.|Mitgeltende Dokumente ................................................................................................................. 12|
 
-## **1. Atemwegsprobleme** 
+# **1. Atemwegsprobleme**
 
 - Beurteilung des Atemwegs in der präoperativen Visite und Dokumentation in TORIN 
 
@@ -37,7 +17,7 @@ CAI Vermeidung und Management typischer anästhesiologischer Komplikationen (CAI
 
 - Siehe auch SOP507 „CAI Atemwegsmanagement“ 
 
-## **2. Medikationsfehler** 
+# **2. Medikationsfehler**
 
 Medikationsfehler sind banal, aber häufig (1 Fehler bei 130 Narkosen[1] ), gefährlich und vermeidbar: 
 
@@ -61,7 +41,7 @@ Medikationsfehler sind banal, aber häufig (1 Fehler bei 130 Narkosen[1] ), gef�
 
 > 3 Brinkrolf P et al. Medication errors. A systematic analysis of CIRS-AINS reports. Anästh Intensivmed 2013; 54: 126-32 
 
-## **3. Schwierigkeiten bei der i.v.-Punktion** 
+# **3. Schwierigkeiten bei der i.v.-Punktion**
 
 (Siehe auch SOP508 „CAI Ultraschallgestützte Gefäßpunktion“) 
 
@@ -100,9 +80,9 @@ Nach Ansicht der Arzneimittelkommission der deutschen Ärzteschaft „ist das Ko
 
 > 4 S1-Leitlinie: Die intraossäre Infusion in der Notfallmedizin (AWMF-Register-Nr. 001/042). Anästh Intensivmed 2018; 59: 667-677 
 
-## **4. Allergische Reaktionen** 
+# **4. Allergische Reaktionen**
 
-## **4.1 Prophylaxe** 
+## **4.1 Prophylaxe**
 
 - Anamnese und Dokumentation in m.life / TORIN 
 
@@ -112,7 +92,7 @@ Nach Ansicht der Arzneimittelkommission der deutschen Ärzteschaft „ist das Ko
 
 - Muskelrelaxanzien langsam injizieren 
 
-## **4.2 Klinisches Bild/Stadieneinteilung** 
+## **4.2 Klinisches Bild/Stadieneinteilung**
 
 **Tabelle 1** . Schweregradskala zur Klassifizierung anaphylaktischer Reaktionen (aus[10] , Tab. 2) 
 
@@ -120,7 +100,7 @@ Nach Ansicht der Arzneimittelkommission der deutschen Ärzteschaft „ist das Ko
 
 - typisch: plötzlicher Beginn mit Manifestation in mindestens zwei Organsystemen 
 
-## **4.3 Therapie** 
+## **4.3 Therapie**
 
 - Exposition zum auslösenden Agens stoppen 
 
@@ -142,7 +122,7 @@ Nach Ansicht der Arzneimittelkommission der deutschen Ärzteschaft „ist das Ko
 
 **Tabelle 2** . Pharmakotherapie für Kinder, Jugendliche und Erwachsene unter Intensivbedingungen (aus[10] ) 
 
-## **4.4 Nachsorge** 
+## **4.4 Nachsorge**
 
 - Dokumentation in m.life und unter den anästhesiologischen Verlaufsbeobachtungen in TORIN („AVBs“) 
 
@@ -160,11 +140,11 @@ Hintergrund: ein deutlicher Anstieg der Serumtryptase mit anschließendem Abfall
 
 Reaktion sein. Die Spitzenwerte können sich hierbei in einem Bereich von 20 µg/l bis über 200 µg/l bewegen. 
 
-## **5. Maligne Hyperthermie (MH)** 
+# **5. Maligne Hyperthermie (MH)**
 
 ## **Deutschlandweite 24-h-Hotline für MH-Notfälle 07571 100-2828[12]** 
 
-## **5.1 Disposition** 
+## **5.1 Disposition**
 
 - Zusammenhang zwischen Entstehung einer malignen Hyperthermie oder verwandten klinischen Bildern bei Myotonien oder Muskeldystrophien (u. a. Central Core Disease, King Denborough Syndrom, Multiminicore Disease, Muskeldystrophie Duchenne, Carnitin-Palmityl-Transferase Defizit, hypo- and hyperkalemic periodic paralysis u. v. a. m.) 
 
@@ -172,7 +152,7 @@ Reaktion sein. Die Spitzenwerte können sich hierbei in einem Bereich von 20 µg
 
 - Nicht jeder Kontakt mit Triggersubstanzen löst eine MH-Krise aus. Folglich kann es auch nach unauffälligen Vornarkosen zu MH-Krisen kommen. 
 
-## **5.2 Prävention** 
+## **5.2 Prävention**
 
 - Vermeidung von Triggersubstanzen 
 
@@ -188,7 +168,7 @@ Reaktion sein. Die Spitzenwerte können sich hierbei in einem Bereich von 20 µg
 
    - **Cave** : auch die zum Transport verwendeten Beatmungseinheiten müssen entsprechend gerüstet werden 
 
-## **5.3 Klinisches Bild** 
+## **5.3 Klinisches Bild**
 
 - Frühsymptome: Herzrhythmusstörungen (Tachykardien, supraventrikuläre und ventrikuläre Arrhythmien, Extrasystolen), exzessive CO2 Produktion, Trismus, generalisierter Muskelrigor, Haut zunächst gerötet, Schweißbildung 
 
@@ -218,7 +198,7 @@ Reaktion sein. Die Spitzenwerte können sich hierbei in einem Bereich von 20 µg
 
 - Eine klinische MH-Krise ist sehr wahrscheinlich ab einem Wert von ≥ 35 Punkten 
 
-## **5.4 Therapie** 
+## **5.4 Therapie**
 
 Nach[17] : Unmittelbarer Beginn und konsequente Durchführung nach Diagnosestellung, Hinzuziehen weiterer Pflegekräfte und Anästhesisten bei fulminanter MH 
 
@@ -290,7 +270,7 @@ Nach[17] : Unmittelbarer Beginn und konsequente Durchführung nach Diagnosestell
 
    - ITS-Aufnahme für mindestens 24 Stunden 
 
-## **5.5 Nachversorgung** 
+## **5.5 Nachversorgung**
 
 - Dokumentation in m.life und als „AVB“ in TORIN 
 
@@ -298,17 +278,17 @@ Nach[17] : Unmittelbarer Beginn und konsequente Durchführung nach Diagnosestell
 
 - weiterführende MH-Diagnostik an ausgewiesenem, zertifizierten Referenzzentrum (gibt es in Deutschland in Leipzig und Würzburg)[18] 
 
-## **6. (Euglykämische) diabetogene Ketoazidose (EDKA)** 
+# **6. (Euglykämische) diabetogene Ketoazidose (EDKA)**
 
 Aufgrund wachsender vorteilhafter Evidenz zur Verschreibung von SGLT-2 Inhibitoren für Typ-IIDiabetiker:innen mit Heart Failure bei eingeschränkter und erhaltener kardialer Pumpfunktion findet dieser therapeutische Ansatz zunehmende Verbreitung. Trotz vielfältiger Vorteile für die kardiale Gesundheit dieser Patient:innen kann diese Substanzklasse das Risiko für das Auftreten einer diabetogenen Ketoazidose bis zum 7-fachen erhöhen. Im Besonderen im perioperativen Kontext ist dies eine lebensbedrohliche Komplikation. 
 
-## **6.1 Prävention (elektive, verschiebbare Eingriffsformen)** 
+## **6.1 Prävention (elektive, verschiebbare Eingriffsformen)**
 
 - Dapagliflozin (Forxiga® bzw. Xigduo®) oder Empagliflozin (Jardiance® bzw. Glyxambi®) 2d vor dem geplanten Eingriff pausieren  letzte Einnahme 72h vor dem Eingriff 
 
 - Ertugliflozin (Steglujan®) 3d vor dem geplanten Eingriff pausieren  letzte Einnahme 96h vor dem Eingriff 
 
-## **6.2 Diagnose der diabetischen Ketoazidose** 
+## **6.2 Diagnose der diabetischen Ketoazidose**
 
 - Hyperglykämie (milde bis fehlend bei der euglykämischen Variante im Zusammenhang mit der Applikation von SGLT-2 Inhibitoren) 
 
@@ -320,7 +300,7 @@ Aufgrund wachsender vorteilhafter Evidenz zur Verschreibung von SGLT-2 Inhibitor
 
 > 18 European Malignant Hyperthermia (MH) Group 
 
-## **6.3 Behandlung der diabetischen (euglykämischen) Ketoazidose** 
+## **6.3 Behandlung der diabetischen (euglykämischen) Ketoazidose**
 
 - Intensivstation 
 
@@ -332,7 +312,7 @@ Aufgrund wachsender vorteilhafter Evidenz zur Verschreibung von SGLT-2 Inhibitor
 
 - Therapie bis zum Rückgang der Azidose und der Anionenlücke 
 
-## **7. Funktionsprüfung des Narkosegeräts gemäß Empfehlung der DGAI** 
+# **7. Funktionsprüfung des Narkosegeräts gemäß Empfehlung der DGAI**
 
 **Obligater Kurzcheck bei jedem Anschluss an ein Narkosegerät** : Bei Anschluss von Patienten muss der Anästhesist selbst immer einen Kurzcheck des Geräts durchführen. Dieser Kurzcheck ist nicht delegierbar. 
 
@@ -390,7 +370,7 @@ b) Die Kommission empfiehlt dringend, an jedem Anästhesiearbeitsplatz einen sep
 
 c) Bei schwieriger Maskenbeatmung aufgrund ungenügenden Druckaufbaus ist die Ursache meist eine ungenügend abdichtende Maske – ABER an Leckagen im Bereich des Atemsystems muss auch gedacht werden. 
 
-## **8. Mitgeltende Dokumente** 
+# **8. Mitgeltende Dokumente**
 
 SOP507 CAI Atemwegsmanagement SOP508 CAI Ultraschallgeschützte Gefäßpunktion 
 

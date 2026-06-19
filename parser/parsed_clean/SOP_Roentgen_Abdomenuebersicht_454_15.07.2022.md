@@ -12,26 +12,7 @@ Diese SOP gilt für den Funktionsbereich Röntgen am DHZB
 |**Version**|**gültig ab**|**Verfasser**|**Freigabe**|**Änderungsgrund**|**Wiedervorlage**|
 |1.0|15.06.2019|Dentzer, J.|Polle, M.|Ersterstellung|15.06.2021|
 
-## **Inhaltsverzeichnis** 
-
-|Änderungen zu Version 1.0 .......................................................................................................................... 3|Änderungen zu Version 1.0 .......................................................................................................................... 3|
 |---|---|
-|Mitgeltende Unterlagen ................................................................................................................................ 4||
-|1.|Ziel und Zweck ................................................................................................................................. 4|
-|2.|Mitgeltende Gesetze, Verordnungen, Leitlinien .............................................................................. 4|
-|3.|Indikation, Kontraindikation ............................................................................................................. 4|
-|4.|Patientenvorbereitung ...................................................................................................................... 4|
-|5.|Untersuchungsablauf ....................................................................................................................... 5|
-|6.|Einstelltechnik .................................................................................................................................. 6|
-|6.1|Bei Lagerung anterior/posterior (a.p.): ............................................................................................. 6|
-|6.2|Bei Lagerung Linksseitenlage (LSL): ............................................................................................... 6|
-|6.3|Allgemeines ..................................................................................................................................... 6|
-|6.4|Aufnahmekriterien nach BÄK-Leitlinie ............................................................................................. 6|
-|7.|Aufnahmetechnik ............................................................................................................................. 7|
-|8.|Strahlenschutz ................................................................................................................................. 7|
-|9.|Bildverarbeitung, Bildbearbeitung .................................................................................................... 8|
-|10.|Dokumentation, Befundung, Leistungserfassung ............................................................................ 9|
-|11.|Inkrafttreten ...................................................................................................................................... 9|
 
 ## **Änderungen zu Version 1.0** 
 
@@ -47,7 +28,7 @@ _Die digitale Röntgenanforderung wird mit ausgefüllter ROE-Nummer abgeschlosse
 
 SOP145 Anforderung und Befundung von Röntgenaufnahmen SOP058 Hygienehandbuch Liste aller Ärzte mit Fachkunde im Strahlenschutz (im Intranet) 
 
-## **1. Ziel und Zweck** 
+# **1. Ziel und Zweck**
 
 Erstellung einer kontrastreichen Übersichtsaufnahme des Abdomens im Liegen oder in Linksseitenlage (LSL) zur Erkennung von krankhaften Veränderungen oder Abnormitäten. 
 
@@ -55,7 +36,7 @@ Diese SOP gilt für die Aufnahme "Abdomen im Liegen" auf Station für die mobile
 
 **Achtung** : Diese Arbeitsanweisung gilt nur für Röntgenuntersuchungen von erwachsenen Patienten. 
 
-## **2. Mitgeltende Gesetze, Verordnungen, Leitlinien** 
+# **2. Mitgeltende Gesetze, Verordnungen, Leitlinien**
 
 1. Gesetz zum Schutz vor der schädlichen Wirkung ionisierender Strahlung (Strahlenschutzgesetz – StrlSchG) 
 
@@ -63,7 +44,7 @@ Diese SOP gilt für die Aufnahme "Abdomen im Liegen" auf Station für die mobile
 
 3. Leitlinien für die Überweisung zur Durchführung von Bild gebenden Verfahren (Strahlenschutz 118) 4. Leitlinie der Bundesärztekammer zur Qualitätssicherung in der Röntgendiagnostik. Qualitätskriterien röntgendiagnostischer Untersuchungen 
 
-## **3. Indikation, Kontraindikation** 
+# **3. Indikation, Kontraindikation**
 
 ## **Indikation** 
 
@@ -81,7 +62,7 @@ Diese SOP gilt für die Aufnahme "Abdomen im Liegen" auf Station für die mobile
 
 - DA-Untersuchung 
 
-## **4. Patientenvorbereitung** 
+# **4. Patientenvorbereitung**
 
 - Schwangerschaftsausschluss 
 
@@ -95,11 +76,11 @@ Diese SOP gilt für die Aufnahme "Abdomen im Liegen" auf Station für die mobile
 
 - Entfernen von Fremdkörpern (Ketten, EKG-Kabel, Schläuche etc.) 
 
-## **5. Untersuchungsablauf** 
+# **5. Untersuchungsablauf**
 
-## **6. Einstelltechnik** 
+# **6. Einstelltechnik**
 
-## **6.1 Bei Lagerung anterior/posterior (a.p.):** 
+## **6.1 Bei Lagerung anterior/posterior (a.p.):**
 
 - Rückenlage, Arme am Körper entlang 
 
@@ -117,7 +98,7 @@ Diese SOP gilt für die Aufnahme "Abdomen im Liegen" auf Station für die mobile
 
 - bei Beatmungspatienten evtl. _Expiration hold_ am Beatmungsgerät (durch Intensivpersonal)  Seitenbezeichnung R/L cranial, lateral des Objekts Bei Abweichung vom Standard Kennzeichnung (z. B. im Liegen, Nachverarbeitung an der Mobilette) 
 
-## **6.2 Bei Lagerung Linksseitenlage (LSL):** 
+## **6.2 Bei Lagerung Linksseitenlage (LSL):**
 
 - Der Patient sollte etwa **20 min** in Seitenlage liegen, damit sich die freie Luft unter der rechten Flanke sammeln kann. 
 
@@ -135,7 +116,7 @@ Diese SOP gilt für die Aufnahme "Abdomen im Liegen" auf Station für die mobile
 
 - Seitenbezeichnung L a.p. 
 
-## **6.3   Allgemeines** 
+## **6.3   Allgemeines**
 
 - Seitenbezeichnung Li oder Re 
 
@@ -145,7 +126,7 @@ Diese SOP gilt für die Aufnahme "Abdomen im Liegen" auf Station für die mobile
 
 - Bei Abweichung vom Standard Kennzeichnung: z. B. Inspiration, EKG-Elektroden sollen am Patienten verbleiben etc. 
 
-## **6.4   Aufnahmekriterien nach BÄK-Leitlinie** 
+## **6.4   Aufnahmekriterien nach BÄK-Leitlinie**
 
 - Darstellung des Abdomens vom Zwerchfell bis zum Beckenboden 
 
@@ -163,7 +144,7 @@ Diese SOP gilt für die Aufnahme "Abdomen im Liegen" auf Station für die mobile
 
 - ausreichende Darstellung der mit abgebildeten Knochen 
 
-## **7. Aufnahmetechnik** 
+# **7. Aufnahmetechnik**
 
 |**Abdomen**|**Format**|**Fokus**|**Raster**|**Abstand**
 **cm**|**kV**|**mAs**|**DRW**
@@ -173,15 +154,15 @@ Diese SOP gilt für die Aufnahme "Abdomen im Liegen" auf Station für die mobile
 |**a.p.**|35 x 43||digital|130|81|9,0–12,5|230|
 |**seitl.**|35 x 43||digital|130–150|102|5,0–7,1|230|
 
-## **8. Strahlenschutz** 
+# **8. Strahlenschutz**
 
 - Bleigummiabdeckung der an die Einblendung des Nutzstrahlenfelds anschließenden Körperabschnitte 
 
 - evtl. weitere im Raum befindliche Patienten mit Gonadenschutz versehen, fahrbare Strahlenschutzwände zu den benachbarten Patienten 
 
-## **9. Bildverarbeitung, Bildbearbeitung** 
+# **9. Bildverarbeitung, Bildbearbeitung**
 
-## **10. Dokumentation, Befundung, Leistungserfassung** 
+# **10. Dokumentation, Befundung, Leistungserfassung**
 
 Die Dokumentation und die Befundung erfolgen im RIS (CardIS). 
 
@@ -215,7 +196,7 @@ Die Archivierung erfolgt über das hausinterne PACS (ISCV) sowie Versand an Jive
 
 Die elektronische Röntgenanforderung wird mit ausgefüllter ROE-Nummer abgeschlossen und ist in der digitalen Krankenakte des Patienten gespeichert. (Aufbewahrungspflicht). 
 
-## **11. Inkrafttreten** 
+# **11. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

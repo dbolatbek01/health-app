@@ -9,31 +9,15 @@ Structural Heart Interventions Program (SHIP) Klinik für Herz-, Thorax- und Gef
 
 **Version Freigabe Erstellung Prüfung Freigegeben** 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Ziel und Vorgehen ........................................................................................................................... 3|
 |---|---|
-|3.|Intraprozedurales myokardiales Pumpversagen (therapierefraktär) ............................................... 3|
-|4.|Refraktäres intraprozedurales Kammerflimmern ............................................................................. 3|
-|5.|Bedeutsame Restinsuffizienz/Prothesendysfunktion nach TEER/TMVI/TTVI ................................ 4|
-|6.|Perikarderguss und Verdacht auf Perforation einer Herzhöhle ....................................................... 4|
-|7.|Vorhofseptumdefekt nach transseptaler Prozedur und Rückzug des Devices ............................... 4|
-|8.|Intraprozedurale Ventrikelruptur ...................................................................................................... 4|
-|9.|Vaskuläre Komplikationen ............................................................................................................... 4|
-|10.|Myokardischämie ............................................................................................................................. 5|
-|11.|Apikale Zugangskomplikation bei TA-TMVI-Prozeduren ................................................................. 5|
-|12.|LVOT-Obstruktion bei TMVI-Prozeduren ........................................................................................ 5|
-|13.|Postprozedurales low cardiac output syndrome (LCOS) ................................................................ 5|
-|14.|Postoperatives Lungenödem ........................................................................................................... 5|
-|15.|Sonstige postprozedurale Komplikationen ...................................................................................... 5|
 
-## **1. Ziel und Vorgehen** 
+# **1. Ziel und Vorgehen**
 
 Intra- und postprozedurale Komplikationen werden gemäß Kriterien des Mitral Valve Academic Research Consortium beurteilt und entsprechend behandelt[1] . 
 
 Bei Auftreten intraprozeduraler Komplikationen und unklarer Situationen zunächst Stabilisierung der Hämodynamik und des klinischen Zustands, Evaluation der Situation mit entsprechender Diagnostik (Angiographie, Echokardiographie, Sonographie) und Auswahl der am ehesten erfolgsversprechenden Strategie (chirurgische Therapie, interventionelle Therapie, Hybridtherapie, konservative Therapie) durch das implantierende Herzteam (Kardiochirurgie, Kardiologie, Kardioanästhesie) unter Berücksichtigung der spezifischen Patientensituation nach Risiko-Nutzen-Abwägung und unter Berücksichtigung eines ggf. vorab definierten Patientenwillens. 
 
-## **2. Verantwortlichkeiten und Informationskette** 
+# **2. Verantwortlichkeiten und Informationskette**
 
 1. Bei **akuten Komplikationen am Eingriffstag** wird grundsätzlich eine:r der beteiligten Implanteur:innen informiert, bei Nicht-Erreichbarkeit der TAVI-Hintergrund. 
 
@@ -45,7 +29,7 @@ Bei Auftreten intraprozeduraler Komplikationen und unklarer Situationen zunächs
 
 5. M-TEER-Patienten, die nach dem Eingriff **intensivpflichtig** werden, werden primär auf die WD1i(A) verlegt. Wenn die Station keine Kapazität zur Übernahme hat, stehen die W1i und die W47i zur Verfügung. 
 
-## **3. Intraprozedurales myokardiales Pumpversagen (therapierefraktär)** 
+# **3. Intraprozedurales myokardiales Pumpversagen (therapierefraktär)**
 
 Bei Versagen konservativer Maßnahmen: 
 
@@ -53,7 +37,7 @@ Bei Versagen konservativer Maßnahmen:
 
 - MCS: IMPELLA-Anlage oder ECLS-Anschluss mit femoro-femoraler Kanülierung (15-19F arteriell, 21-23F venös); anschließend diagnostische Abklärung und Festlegung des weiteren Vorgehens 
 
-## **4. Refraktäres intraprozedurales Kammerflimmern** 
+# **4. Refraktäres intraprozedurales Kammerflimmern**
 
 Bei Versagen konservativer Maßnahmen: 
 
@@ -61,7 +45,7 @@ Bei Versagen konservativer Maßnahmen:
 
 > 1 VARC-3 WRITING COMMITTEE:; Généreux P al. Valve Academic Research Consortium 3: Updated Endpoint Definitions for Aortic Valve Clinical Research. JACC 2021;77:2717-46. https://doi.org/10.1093/eurheartj/ehaa799 
 
-## **5. Bedeutsame Restinsuffizienz/Prothesendysfunktion nach TEER/TMVI/TTVI** 
+# **5. Bedeutsame Restinsuffizienz/Prothesendysfunktion nach TEER/TMVI/TTVI**
 
 - Diagnostische Abklärung (TEE, 4D-CT Cor) und Klärung der Ursachen 
 
@@ -83,7 +67,7 @@ Bei Versagen konservativer Maßnahmen:
 
    - antimikrobielle Chemotherapie gemäß infektiologischer Empfehlung 
 
-## **6. Perikarderguss und Verdacht auf Perforation einer Herzhöhle** 
+# **6. Perikarderguss und Verdacht auf Perforation einer Herzhöhle**
 
 - Wenn vorhanden: Lagekorrektur einer transvenösen Schrittmachersonde 
 
@@ -93,17 +77,17 @@ Bei Versagen konservativer Maßnahmen:
 
 - Konversion zu Operation und Exploration 
 
-## **7. Vorhofseptumdefekt nach transseptaler Prozedur und Rückzug des Devices** 
+# **7. Vorhofseptumdefekt nach transseptaler Prozedur und Rückzug des Devices**
 
 - Bei klinisch irrelevantem Shunt: konservatives Vorgehen 
 
 - Bei großem Shunt oder nachteiligem Rechts-Links-Shunt: interventioneller Verschluss 
 
-## **8. Intraprozedurale Ventrikelruptur** 
+# **8. Intraprozedurale Ventrikelruptur**
 
 Konversion zu Operation und Ventrikelübernähung 
 
-## **9. Vaskuläre Komplikationen** 
+# **9. Vaskuläre Komplikationen**
 
 Entscheidung des interdisziplinären Implantationsteams über die Strategie der Therapie: interventionell, gefäßchirurgisch oder Hybridverfahren. 
 
@@ -117,19 +101,19 @@ Bei venöser Blutung aus Punktionsstelle: manuelle Kompression, Protamingabe und
 
 - Arterielle Blutung unterhalb des Ligamentum inguinale (A. femoralis communis): Implantation flexibler Stentprothesen über distale Sicherheitspunktion oder über Cross-over-Zugang bzw. gefäßchirurgische Therapie mit Rekonstruktion (ggf. Patch, Ersatz) mit Ballonokklussion zur Exposition 
 
-## **10. Myokardischämie** 
+# **10. Myokardischämie**
 
 - Selektive Koronarangiografie und ggf. PCI 
 
 - Bei Anuloplastieverfahren ggf. Lösen der Device-Spannung und Re-Evaluation nach intracoronararterieller Gabe von NTG 
 
-## **11. Apikale Zugangskomplikation bei TA-TMVI-Prozeduren** 
+# **11. Apikale Zugangskomplikation bei TA-TMVI-Prozeduren**
 
 - Bei Blutungen oder Ausbildung eines Pseudoaneurysmas: Übernähung mit teflonfilzarmierten Polypropylen-Nähten (Stärke 0, 2-0, 3-0, 4-0); ggf. unter Zuhilfenahme weiterer technischer Hilfsmittel (z. B. Fogarty-Ballon) 
 
 - Bei unkontrollierbarer Blutung Anschluss HLM femoro-femoral und Versorgung am entlasteten Herzen bis hin zur Dor-LV-Plastik 
 
-## **12. LVOT-Obstruktion bei TMVI-Prozeduren** 
+# **12. LVOT-Obstruktion bei TMVI-Prozeduren**
 
 - Optimierung von Volumenstatus und medikamentöser Therapie 
 
@@ -139,13 +123,13 @@ Bei venöser Blutung aus Punktionsstelle: manuelle Kompression, Protamingabe und
 
 - Bei therapierefraktärer Kreislaufdepression: Entscheidung über Konversion zur chirurgischen Mitralklappentherapie 
 
-## **13. Postprozedurales low cardiac output syndrome (LCOS)** 
+# **13. Postprozedurales low cardiac output syndrome (LCOS)**
 
 - Erweitertes hämodynamisches Montoring, Abklärung der Genese, kausale Therapie 
 
 - Ggf. MCS (IMPELLA oder weiterführende Therapieoptionen) nach multidisziplinärer Beurteilung von Implantationsteam mit Heart-Failure-Team 
 
-## **14. Postoperatives Lungenödem** 
+# **14. Postoperatives Lungenödem**
 
 - Diuretische Therapie 
 
@@ -153,7 +137,7 @@ Bei venöser Blutung aus Punktionsstelle: manuelle Kompression, Protamingabe und
 
 - Evaluation der Genese und kausale Therapie 
 
-## **15. Sonstige postprozedurale Komplikationen** 
+# **15. Sonstige postprozedurale Komplikationen**
 
 Allgemeiner Grundsatz: Postprozedurale Komplikationen nach TEER/TMVI/TTVI-Prozeduren werden prinzipiell diagnostisch und therapeutisch gehandhabt, wie dies für Patienten nach chirurgischem AVKlappeneingriffen und nach Herzkatheteruntersuchungen/-interventionen definiert ist. Zusätzliche Besonderheiten postinterventionell sind im folgenden Abschnitt definiert. 
 

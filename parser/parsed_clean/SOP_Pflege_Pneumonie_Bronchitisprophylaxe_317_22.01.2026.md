@@ -1,6 +1,6 @@
 ## Pflege: Pneumonie- und Bronchitis-Prophylaxe
 
-## **1. Hintergrund und Ziel** 
+# **1. Hintergrund und Ziel**
 
 Die Pneumonieprophylaxe ist ein wesentlicher Aspekt in der Pflege, besonders bei beatmeten, immunsupprimierten und immobilen Patienten. 
 
@@ -16,21 +16,21 @@ Spezielle Ziele bei der Vermeidung von Pneumonien sind:
 
 Die allgemeinen Maßnahmen zur Infektionshygiene sind im Leitfaden der Krankenhaushygiene festgelegt. 
 
-## **2. Prozessverantwortliche Person** 
+# **2. Prozessverantwortliche Person**
 
 Pflegefachkräfte, Pflegefachassistentinnen und -assistenten, Physiotherapeutinnen und -therapeuten, Atmungstherapeutinnen und -therapeuten. 
 
-## **3. Geltungsbereich / Zielgruppe** 
+# **3. Geltungsbereich / Zielgruppe**
 
 Alle bettenführenden Bereiche des DHZC. 
 
-## **4. Begriffsdefinitionen** 
+# **4. Begriffsdefinitionen**
 
 Eine Pneumonie ist eine akute Entzündung der unteren Atemwege, die insbesondere die Lungenbläschen und das umliegende Gewebe betrifft. Häufige Erreger sind Bakterien wie Pneumokokken, aber auch Viren (z.B. Influenza, SARS-CoV-2) und Pilze können diese Erkrankung verursachen (Deutsches Zentrum für Lungenforschung, DZL). 
 
-## **5. Prozessbeschreibung** 
+# **5. Prozessbeschreibung**
 
-## **5.1 Symptome, Diagnose, Risikofaktoren** 
+## **5.1 Symptome, Diagnose, Risikofaktoren**
 
 Zu den häufigsten Symptomen der Pneumonie zählen hohes Fieber, Husten und Atemnot. In schweren Fällen können diese Atembeschwerden zu einer starken Dyspnoe und Hypoxie führen, was potenziell lebensbedrohlich ist. 
 
@@ -42,7 +42,7 @@ Die Diagnose einer Pneumonie wird häufig durch Röntgenaufnahmen unterstützt, 
 
 - Hypoventilation: Atelektasen, die durch oberflächliche Atmung und Minderbelüftung entstehen, häufig begleitet von Sekretretention. 
 
-## **5.2 Maßnahmen** 
+## **5.2 Maßnahmen**
 
 Die folgenden Maßnahmen tragen dazu bei, das Risiko einer Pneumonie zu verringern und die Atemgesundheit zu fördern. 
 
@@ -96,7 +96,7 @@ Eine ausreichende Flüssigkeitszufuhr ist essenziell, um Schleim in den Atemwege
 
 - ˗ Bei beatmeten Patienten: über die Atemgasbefeuchtung. 
 
-## **6. Dokumentation** 
+# **6. Dokumentation**
 
 Die Dokumentation erfolgt in den Patientendokumentationssystemen m.life, SAP und/oder COPRA. m.life: Durchführung: Pflege -> Pflegedokumentation -> Pneumonieprophylaxe, Abweichungen oder Beobachtungen: Pflegenotizen oder Maske Physiotherapie 
 

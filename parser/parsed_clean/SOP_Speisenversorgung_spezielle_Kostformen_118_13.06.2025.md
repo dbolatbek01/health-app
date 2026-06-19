@@ -1,7 +1,7 @@
 
 **Speisenversorgung und Ernährung von Patienten: spezielle Kostformen** 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Patienten im DHZC können üblicherweise für ihre Mahlzeiten eine Auswahl aus dem Speisenangebot treffen. Wahlleistungs-Patienten wählen Ihre Mahlzeiten aus der Wahlleistungs-Speisekarte. 
 
@@ -9,7 +9,7 @@ In besonderen Fällen liegt zur Speisenversorgung die Anordnung einer speziellen
 
 Die vorliegende SOP regelt das Vorgehen für die Anordnung und Verabreichung spezieller Kostform im DHZC Standort Augustenburger Platz (ex-DHZB). 
 
-## **2. Festlegung, Anordnung und Dokumentation** 
+# **2. Festlegung, Anordnung und Dokumentation**
 
 Die Festlegung der speziellen Kostform sowie die schriftliche Anordnung erfolgen im Rahmen des ärztlichen Aufnahmegesprächs bzw. der ärztlichen Anamnese. Die Dokumentation der Anordnung muss zeitnah im PDMS „m.life“ unter „Kurvenblatt“ erfolgen. 
 
@@ -19,7 +19,7 @@ Der als SOP038 veröffentlichte Diät- und Verpflegungskatalog ist für alle bet
 
 Bei besonderen Fragestellungen bitte die Diätassistenz bzw. das Ernährungsteam kontaktieren (*1380). 
 
-## **3. Praktischer Ablauf** 
+# **3. Praktischer Ablauf**
 
 Patienten sollen ihre Mahlzeiten regelmäßig und ungestört einnehmen können. Hierfür sind im Tagesablauf folgende Zeitfenster vorgesehen: 
 
@@ -27,7 +27,7 @@ Patienten sollen ihre Mahlzeiten regelmäßig und ungestört einnehmen können. 
 
 Blutentnahmen, Untersuchungen, Verbandwechsel etc. sind nach Möglichkeit außerhalb dieser Zeitfenster durchzuführen. 
 
-## **4. Referenzliste für die Kostform** 
+# **4. Referenzliste für die Kostform**
 
 ## Eingabe Arztdienst 
 

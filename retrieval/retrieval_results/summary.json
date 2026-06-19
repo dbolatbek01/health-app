@@ -1,0 +1,10 @@
+[
+  {
+    "collection": "large_granite",
+    "recall@1": 0.8,
+    "recall@3": 0.86,
+    "recall@5": 0.88,
+    "recall@10": 0.92,
+    "mrr": 0.8379
+  }
+]

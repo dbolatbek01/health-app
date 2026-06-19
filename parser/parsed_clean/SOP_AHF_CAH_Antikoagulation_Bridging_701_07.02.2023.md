@@ -9,24 +9,10 @@ AHF/CAH – Antikoagulation und präoperatives Bridging vor elektiven herzchirur
 
 Klinik für Angeborene Herzfehler – Kinderkardiologie Klinik für Chirurgie Angeborener Herzfehler – Kinderherzchirurgie 
 
-Änderungshistorie
-Version  gültig ab  Verfasser  Freigabe  Änderungsgrund  Wiedervorlage
 1.0  05.10.2016  Ersterstellung
 2.0  30.03.2020  Aktualisierung  30.03.2022
-**----- End of picture text -----**
 
-
-## **Inhaltsverzeichnis** 
-
-|Änderungen zu Version 2.0 .......................................................................................................................... 3|Änderungen zu Version 2.0 .......................................................................................................................... 3|
 |---|---|
-|1.|Ziel ................................................................................................................................................... 4|
-|2.|Prozessbeschreibung ...................................................................................................................... 4|
-|2.1|Verfahrensweisen gruppiert nach Antikoagulantien ........................................................................ 4|
-|2.2|Verfahrensweisen gruppiert nach Indikationsgebiet ........................................................................ 5|
-|3.|Ergänzenden Bemerkungen ............................................................................................................ 6|
-|4.|Literatur ............................................................................................................................................ 8|
-|5.|Inkrafttreten ...................................................................................................................................... 8|
 
 ## **Änderungen zu Version 2.0** 
 
@@ -40,11 +26,11 @@ Kapitel 4. Literatur:
 
 [1] und [2] aktualisiert 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Mit dieser SOP werden die abteilungsübergreifenden Richtlinien bei der Umstellung der gerinnungshemmenden Medikation antikoagulierter Patienten vor elektiven kardiochirurgischen Operationen festgelegt. 
 
-## **2. Prozessbeschreibung** 
+# **2. Prozessbeschreibung**
 
 Grundlage der in dieser SOP festgelegten Richtlinien für die Umstellung der gerinnungshemmenden Medikation dauerhaft bzw. längerfristig antikoagulierter Patienten vor elektiven kardiochirurgischen Operationen sind, soweit zutreffend, die aktuellen Empfehlungen gemäß Leitlinien der AHA, der AACP und der ESC sowie weitere Empfehlungen der aktuellen Literatur und der entsprechenden Fachinformationen der Hersteller. 
 
@@ -52,7 +38,7 @@ Abweichungen von den in dieser SOP beschriebenen Richtlinien bedürfen einer obe
 
 Die Umstellung und ggf. Antagonisierung der Antikoagulation bei dringlichen Operationen und Notfalloperationen ist im Einzelfall mit dem Operateur festzulegen. 
 
-## **2.1 Verfahrensweisen gruppiert nach Antikoagulantien** 
+## **2.1 Verfahrensweisen gruppiert nach Antikoagulantien**
 
 |**Substanzklasse/Präparate**|**Halbwertszeit[5]**|**Absetzen vor elektiven**|
 |---|---|---|
@@ -84,7 +70,7 @@ Apixaban (Eliquis)|5–13 h||
 ||~ 13 h|7 d|
 ||~ 12 h||
 
-## **2.2 Verfahrensweisen gruppiert nach Indikationsgebiet** 
+## **2.2 Verfahrensweisen gruppiert nach Indikationsgebiet**
 
 |**Indikation**|**Übliche**|**Verfahrensweise vor elektiven kardiochirurgischen**
 **Operationen**|
@@ -191,7 +177,7 @@ thromboembolische Risikofaktoren vorliegen.|
 
 Bei allen antikoagulierten Patienten mit nicht hier aufgeführten, weiteren Indikationen zu Antikoagulation (z. B. Z. n. thrombotischen/thromboembolischen Ereignissen, bekannte hereditäre Thrombophilie, Koronarstents, sonstigem implantierten Fremdmaterial usw.) bzw. Kombinationen von thromboembolischen Risikofaktoren ist die jeweilige Vorgehensweise bei der Umstellung der Antikoagulation mit dem Operateur sowie dem für die Aufnahmen zuständigen kinderkardiologischen Oberarzt unter Abwägung des thromboembolischen Risikos sowie des Blutungsrisikos individuell abzusprechen und festzulegen (Vgl. Punkt 3). 
 
-## **3. Ergänzenden Bemerkungen** 
+# **3. Ergänzenden Bemerkungen**
 
 Bezüglich des perioperativen Bridgings der Antikoagulation im Allgemeinen und vor allem vor herzchirurgischen Eingriffen bei Kindern im Besonderen ist die Evidenz in zahlreichen Aspekten dürftig. 
 
@@ -205,7 +191,7 @@ Vorgeschlagene Risikoeinteilungen konzentrieren sich vorwiegend auf die wichtigs
 
 Quelle: Hoffmeister et al. 2010 [6] 
 
-## **4. Literatur** 
+# **4. Literatur**
 
 - [1] Otto et al. 2020 ACC/AHA Guideline for the management of patients with valvular heart disease: A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021;143(5):e72-e227. doi:10.1161/CIR.0000000000000923 
 
@@ -223,7 +209,7 @@ Quelle: Hoffmeister et al. 2010 [6]
 
 - [8] Douketis et al. Perioperative Bridging Anticoagulation in Patients with Atrial Fibrillation. N Engl J Med 2015;373(9):823-33 
 
-## **5. Inkrafttreten** 
+# **5. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

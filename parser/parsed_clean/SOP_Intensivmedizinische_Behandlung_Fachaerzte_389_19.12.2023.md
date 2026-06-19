@@ -7,18 +7,9 @@ Intensivmedizinische Behandlung durch Fachärztinnen/Fachärzte mit der Zusatzbe
 
 Standort CVK Augustenburger Platz / Mittelallee Südschiene Intensivstationen OE WD1i/WD2i, WD3i und W1i sowie W2i 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Hintergrund und Ziel ........................................................................................................................ 3|
 |---|---|
-|2.|Dienstplangestaltung ....................................................................................................................... 3|
-|3.|Durchführung der Visiten ................................................................................................................. 3|
-|3.1|Visiten an Werktagen ....................................................................................................................... 3|
-|3.2|Visiten an Wochenend- und Feiertagen .......................................................................................... 3|
-|4.|Dokumentation ................................................................................................................................. 4|
-|5.|Zuständigkeit im Spätdienst, Nachtdienst und Wochenend-/ Feiertagen ....................................... 4|
 
-## **1. Hintergrund und Ziel** 
+# **1. Hintergrund und Ziel**
 
 Die Abrechnungsmodalitäten für die aufwendige intensivmedizinische Komplexbehandlung (OPS 8-98f) erfordern die Erfüllung folgender personeller Mindestmerkmale: 
 
@@ -32,7 +23,7 @@ Die Abrechnungsmodalitäten für die aufwendige intensivmedizinische Komplexbeha
 
 Die vorliegende SOP regelt Dienstplangestaltung und Visitendienst auf den interdisziplinären Intensivstationen der Klinik für Anästhesiologie und Intensivmedizin (CAI) und der Klinik für Herz-, Thorax- und Gefäßchirurgie (HTG) am Campus Virchow Klinikum des DHZC gemäß diesen Vorgaben. 
 
-## **2. Dienstplangestaltung** 
+# **2. Dienstplangestaltung**
 
 Die Dienstplanung der Organisationseinheit WD1i/WD2i sowie der Transplantationsstation WD3i erfolgt im Dreischichtsystem. Oberärztinnen/Oberärzte (OÄ) sowie Stationsärztinnen/Stationsärzte (SÄ) sind im Frühdienst, Zwischendienst und Spätdienst eingeteilt. Die restlichen Zeiten werden durch einen Rufbereitschaftsdienst abgedeckt, der im Dienstplan separat ausgewiesen ist. In beiden Fällen lässt sich über den Dienstplan auch der Nachweis der Anwesenheit bzw. der Rufdienstbereitschaft führen. 
 
@@ -40,13 +31,13 @@ Für die Station W1i ist im Frühdienst mindestens eine FÄ oder ein FA mit ZB e
 
 Auf der Station W2i ist an Werkstagen ebenfalls eine zuständige OÄ oder ein zuständiger OA mit ZB Intensivmedizin für die Visite anwesend. 
 
-## **3. Durchführung der Visiten** 
+# **3. Durchführung der Visiten**
 
-## **3.1 Visiten an Werktagen** 
+## **3.1 Visiten an Werktagen**
 
 An allen Werktagen ist im Frühdienst innerhalb der Organisationseinheiten WD1i/WD2i, der Herzinsuffizienz-/Transplantationsstation WD3i sowie W1i und W2i mindestens eine OÄ/FÄ oder ein OA/FA mit ZB Intensivmedizin auf Station, die/der die Visite durchführt. 
 
-## **3.2 Visiten an Wochenend- und Feiertagen** 
+## **3.2 Visiten an Wochenend- und Feiertagen**
 
 Der Visitendienst (OÄ/OA/SÄ/SA/FÄ/FA mit ZB Intensivmedizin) an den Wochenendtagen sowie Feiertagen ist in der Organisationseinheit WD1i/WD2i analog den Werktagen geregelt. 
 
@@ -56,7 +47,7 @@ Auf der Station W1i erfolgen die fachärztlichen Visiten entweder durch den Bere
 
 Auf der Station W2i erfolgt an den Wochenend- und Feiertagen keine Visite durch eine OÄ oder einen OA. Die Behandlung von problematischen Patientinnen/Patienten wird mit den zuständigen Ärztinnen/Ärzten der Station W1i besprochen. 
 
-## **4. Dokumentation** 
+# **4. Dokumentation**
 
 - Organisationseinheit WD1i/WD2i sowie der Herzinsuffizienz /Transplantationsstation WD3i 
 
@@ -66,7 +57,7 @@ Die Dokumentation der durchgeführten Visite hat bei jeder Patientin/jedem Patie
 
 Die Dokumentation der Visite hat bei jeder Patientin/jedem Patienten zeitnah im PDMS der Mittelallee „COPRA“ auf Seite 5 im Feld FA ICU zu erfolgen. 
 
-## **5. Zuständigkeit im Spätdienst, Nachtdienst und an Wochenend-/Feiertagen** 
+# **5. Zuständigkeit im Spätdienst, Nachtdienst und an Wochenend-/Feiertagen**
 
 Der Wochendienstplan der Organisationseinheit WD1i/WD2i sowie der Herzinsuffizienz/Transplantationsstation WD3i gibt Aufschluss über die zuständige OÄ/FÄ oder den zuständigen OA/FA mit ZB Intensivmedizin. Der Plan liegt auf den Intensivstationen und auf der WD3i aus. 
 

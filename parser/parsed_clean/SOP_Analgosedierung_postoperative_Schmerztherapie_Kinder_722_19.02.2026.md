@@ -1,36 +1,18 @@
 **SOP Analgosedierung und postoperative Schmerztherapie bei Kindern** 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Ziel ...................................................................................................................................................................................................... 2|
 |---|---|
-|2.|Geltungsbereich/Zielgruppe ...................................................................................................................................................... 2|
-|3.|Postoperative Schmerztherapie und Sedierung ................................................................................................................. 2|
-|3.1|Allgemeines ..................................................................................................................................................................................... 3|
-|3.2|Patientenpfade .............................................................................................................................................................................. 3|
-|3.3|Dosisanpassungen der iv-Therapie .......................................................................................................................................... 4|
-|3.4|Schema Oxycodon oral für Patienten > 6 Jahre .................................................................................................................. 4|
-|3.5|Dosierungstipps ............................................................................................................................................................................. 5|
-|4.|Entwöhnung von der Analgosedierung ................................................................................................................................. 6|
-|4.1|Entwöhnung von Opiat und Benzodiazepin......................................................................................................................... 6|
-|4.1.1|Umstellung von iv-Therapie auf orale Therapie (Opiat/Benzodiazepin) ...................................................................... 7|
-|4.1.2|Entwöhnung von oraler Therapie ............................................................................................................................................. 7|
-|4.2|Entwöhnung von Dexmedetomidin (DEX) ............................................................................................................................. 8|
-|4.3|Entzugssyndrom ............................................................................................................................................................................ 8|
-|5.|Instrumente zur Messung von Schmerz (S), Unruhe (U), Entzug (E), Delir (D) ............................................................. 9|
-|6.|Mitgeltende Dokumente ........................................................................................................................................................... 14|
 
 **SOP Analgosedierung und postoperative Schmerztherapie bei Kindern** 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Die vorliegende SOP regelt zusammen mit der SOP715 Delir bei Kindern das adäquate patientenspezifische Schmerz-, Sedierungs- und Delirmanagement unter Berücksichtigung der jeweiligen, gegenseitigen Beeinflussung. Als wesentlicher Punkt gilt dabei die effektive Therapie von Schmerzen bei gleichzeitiger Vermeidung von Übersedierung und Delir. Die Effektivität und Praktikabilität der SOP sollen vom ärztlichen und pflegerischen Dienst (Pain Nurse) evaluiert werden, um sie ggfls. anzupassen. 
 
-## **2. Geltungsbereich/Zielgruppe** 
+# **2. Geltungsbereich/Zielgruppe**
 
 Die vorliegende SOP dient in der Klinik für Angeborene Herzfehler und Kinderkardiologie (AHF) und der Klinik für Chirurgie Angeborener Herzfehler (CAH) des DHZC als Leitfaden zur Analgosedierung und postoperativen Schmerztherapie. 
 
-## **3. Postoperative Schmerztherapie und Sedierung** 
+# **3. Postoperative Schmerztherapie und Sedierung**
 
 ||**Extubiert**|**Frühe Extubation geplant**|**Beatmung > 48 h**
 **wahrscheinlich**|
@@ -68,7 +50,7 @@ Alle Angaben beziehen sich auf intravenöse Applikation sofern nicht anders ange
 
 **SOP Analgosedierung und postoperative Schmerztherapie bei Kindern** 
 
-## **3.1 Allgemeines** 
+## **3.1 Allgemeines**
 
 - Nicht pharmakologische Maßnahmen zur Schmerzbehandlung sind immer indiziert (z.B. Lärmreduktion, TagNacht-Rhythmus, Lagerung, Facilitated Tucking, Glucose 40 %, Pucken). 
 
@@ -84,13 +66,13 @@ Alle Angaben beziehen sich auf intravenöse Applikation sofern nicht anders ange
 
 - Vor schmerzhaften Prozeduren soll eine effektive Therapie bereits im Voraus gegeben werden. Insbesondere Absaugen/Lagern bei PHT-Risiko hat ein hohes Risiko für hämodynamische Verschlechterung bis zur Reanimation (daher Prä-Oxygenierung, Vertiefung der Analgosedierung, DA am Bett). 
 
-## **3.2 Patientenpfade** 
+## **3.2 Patientenpfade**
 
-## **1. Extubierter Patient: Opiat + NOPA** 
+# **1. Extubierter Patient: Opiat + NOPA**
 
 Prinzipiell sind ED oder DTI möglich. Insbesondere in den ersten 3 Lebensjahren lassen sich viele Patienten Opiat besser mit einer DTI führen. Wenn die Schmerzkontrolle nach 2. Bolus unzureichend ist, dann sollte die Laufrate der DTI erhöht werden bzw. von ED auf eine DTI umgestellt werden. Spätestens ab 45 µg/kg/h Morphin sollte Dexmedetomidin mit in die Therapie aufgenommen werden. Bolusgabe Ab etwa 6 Jahren kann – sofern Tabletten eingenommen werden können – ab 1. post-OP Tag auf Oxycodon umgestellt werden (s.u.). Nicht opioides Analgetikum (NOPA) spart Opiate ein und soll gegeben werden. nur bei ausreichender Analgesie und wenn andere Maßnahmen zur Beruhigung unwirksam. Erste Wahl ist Sedierung Dexmedetomidin. 
 
-## **2. Frühe Extubation (< 48 Stunden) geplant; keine Kontraindikation für Aufwachversuch** 
+# **2. Frühe Extubation (< 48 Stunden) geplant; keine Kontraindikation für Aufwachversuch**
 
 ## a. Patient wird aus OP übernommen mit 
 
@@ -129,7 +111,7 @@ werden (s.u., etwa ab 6. Lebensjahr).||
 
 Geltungsbereich: AHF/CAH 
 
-## **3. Beatmung > 48 Stunden wahrscheinlich** 
+# **3. Beatmung > 48 Stunden wahrscheinlich**
 
 ## a. Festlegung des Sedierungsziels 
 
@@ -145,7 +127,7 @@ Wenn unter ausreichender Analgesie + Dexmedetomidin zu unruhig, kann Esketamin D
 
 Bei Notwendigkeit zu tiefer Sedierung kann kurzfristig Relaxierung hilfreich sein. 
 
-## **3.3 Dosisanpassungen der iv-Therapie** 
+## **3.3 Dosisanpassungen der iv-Therapie**
 
 - Als Bolus bei laufender Infusion wird in der Regel die in einer Stunde infundierte Dosis appliziert („Stundenbolus“). Ein Bolus soll verabreicht werden, wenn Schmerzen vorliegen (Comfort B ≥17/KUSS ≥4/BPS>6), vor schmerzhaften Prozeduren (z.B. Absaugen, Umlagern) oder wenn das Sedierungsziel nicht erreicht ist. Wirkeintritt Morphin nach 15 min, Sufentanil nach 1-3 min. Der Bolus soll wiederholt werden, wenn der erste Bolus nicht effektiv war. 
 
@@ -161,7 +143,7 @@ Bei Notwendigkeit zu tiefer Sedierung kann kurzfristig Relaxierung hilfreich sei
 
 - Dauert die Analgosedierung länger als 48 Stunden erfolgt die Entwöhnung nach Schema (Entwöhnung, s.u.) 
 
-## **3.4 Schema Oxycodon oral für Patienten > 6 Jahre** 
+## **3.4 Schema Oxycodon oral für Patienten > 6 Jahre**
 
 Die Analgesie erfolgt (zusätzlich zum NOPA) mit einem Oxycodon-Retardpräparat, das in Kombination mit Naloxon verfügbar ist (z.B. Oxycodon comp® oder Targin®). Es wird fest angesetzt für 2 Gaben/d. Die Dosierungsempfehlung bezieht sich auf den Oxycodon-Anteil. Es gibt Stärken von 5 – 10 – 20 – 40 – 60 – 80 mg. Die Retardtablette darf nicht gemörsert oder zerkaut werden. 
 
@@ -177,7 +159,7 @@ Die Anpassung bei nicht ausreichender Analgesie erfolgt mit einer schnell freise
 
 **SOP Analgosedierung und postoperative Schmerztherapie bei Kindern** 
 
-## **3.5 Dosierungstipps** 
+## **3.5 Dosierungstipps**
 
 (Vgl. auch: kinderformularium.de) 
 
@@ -227,11 +209,11 @@ bei schwerer Einschränkung der Nierenfunktion kontraindiziert.|
 
 **SOP Analgosedierung und postoperative Schmerztherapie bei Kindern** 
 
-## **4. Entwöhnung von der Analgosedierung** 
+# **4. Entwöhnung von der Analgosedierung**
 
 Das Opiat- und Sedierungsweaning erfolgt in der Regel gleichzeitig. Um den Effekt besser beurteilen zu können, kann es insbesondere nach längerer Therapiedauer (> 7 Tage) sinnvoll sein, alternierend zu reduzieren (soll bspw. die Medikation alle 24 h reduziert werden, dann wird morgens das Opiat und abends das Benzodiazepin reduziert). Beim Sedierungsweaning hat Benzodiazepin Vorrang vor Dexmedetomidin. Je nach Symptomatik (Schmerz vs. Unruhe) kann die Geschwindigkeit der Reduktion der einzelnen Medikamente angepasst werden. 
 
-## **4.1 Entwöhnung von Opiat und Benzodiazepin** 
+## **4.1 Entwöhnung von Opiat und Benzodiazepin**
 
 ## Therapie für über 48 Stunden bis max. 7 Tage 
 
@@ -273,7 +255,7 @@ Prinzipien:
 
 **SOP Analgosedierung und postoperative Schmerztherapie bei Kindern** 
 
-## **4.1.1 Umstellung von iv-Therapie auf orale Therapie (Opiat/Benzodiazepin)** 
+### **4.1.1 Umstellung von iv-Therapie auf orale Therapie (Opiat/Benzodiazepin)**
 
 Die Umstellung erfolgt **frühestens unterhalb einer maximalen Laufrate** . Diese ist für Morphin 100 µg/kg/h und für Midazolam 0,15 mg/kg/h. 
 
@@ -306,7 +288,7 @@ die Infusionsgeschwindigkeit um 50%
  Beende 30 Minuten nach zweiter po-Gabe
 die Midazolaminfusion|
 
-## **4.1.2 Entwöhnung von oraler Therapie** 
+### **4.1.2 Entwöhnung von oraler Therapie**
 
 - Bewerte 24 Stunden nach Umstellung auf orale Therapie, ob die Dosis ausreichend ist und überprüfe ob Entzug vorliegt. 
 
@@ -341,7 +323,7 @@ Beispiel: Kind mit 10 kg Körpergewicht. Reduktionsschritt 20 %. Niedrigste oral
 
 Geltungsbereich: AHF/CAH 
 
-## **4.2 Entwöhnung von Dexmedetomidin (DEX)** 
+## **4.2 Entwöhnung von Dexmedetomidin (DEX)**
 
 |**Therapiedauer**|**Reduktion**|**Kommentar**|
 |---|---|---|
@@ -376,7 +358,7 @@ Bei fehlender Toleranz des DEX-Weanings kann initial orales Clonidin zusätzlich
 
 Setze 30 min. nach der **dritten** Clonidindosis das Weaning von Dexmedetomidin fort. Dabei sollte die Frequenz der DEX-Reduktion auf 6–12 stündlich (statt 24-stdl.) erhöht werden. 
 
-## **4.3 Entzugssyndrom** 
+## **4.3 Entzugssyndrom**
 
 Typische Zeichen für Entzug sind: 
 
@@ -392,7 +374,7 @@ Beim Auftreten eines Entzugssyndroms wird primär die Reduktion der entsprechend
 
 **SOP Analgosedierung und postoperative Schmerztherapie bei Kindern** 
 
-## **5. Instrumente zur Messung von Schmerz (S), Unruhe (U), Entzug (E), Delir (D)** 
+# **5. Instrumente zur Messung von Schmerz (S), Unruhe (U), Entzug (E), Delir (D)**
 
 Scoring: Ein Score dient als Hilfsmittel zur Beurteilung und ersetzt nicht den klinischen Eindruck, ob Schmerzen vorhanden sind. Der Score soll am OP-Tag 2x/Schicht, dann 1x/Schicht erfolgen, bis letzte Drainage ex. 
 
@@ -537,7 +519,7 @@ Stimulus: Verwende progressive Reize, um eine Reaktion des Patienten hervorzuruf
 
 1 SBS (State Behavioral Score) ist ein häufig verwendeter Score für Kinder zur Beurteilung der Sedierung (analog zum RAAS, aber mit anderen Punktzahlen). 
 
-## **6. Mitgeltende Dokumente** 
+# **6. Mitgeltende Dokumente**
 
 SOP041 ITM Analgosedierung (Analgosedierung) SOP042 ITM Delir SOP500 ITM Postoperative Akutschmerztherapie erwachsener Patienten (Akutschmerz) SOP560 CAI CAH Fast Track 
 

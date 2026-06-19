@@ -15,33 +15,25 @@ Labor Berlin Einsenderinformation 2024/02
 
 Anforderungsschein FISHseq 
 
-## **Inhaltsverzeichnis** 
-
-|Änderungen zu Version 1.0 .......................................................................................................................... 3|Änderungen zu Version 1.0 .......................................................................................................................... 3|
 |---|---|
-|1.|Hintergrund ...................................................................................................................................... 3|
-|2.|Zweck............................................................................................................................................... 3|
-|3.|Umsetzung ....................................................................................................................................... 3|
-|3.1|Indikation ......................................................................................................................................... 3|
-|3.2|Anforderung ..................................................................................................................................... 3|
 
 ## **Änderungen zu Version 1.0** 
 
 Kapitel 3.2 ergänzt, Anlage 1 ergänzt, Anlage 2 aktualisiert. 
 
-## **1. Hintergrund** 
+# **1. Hintergrund**
 
 Infektionen mit hohem Risiko für die Bildung eines Biofilms und fremdkörperassoziierte Infektionen sind von großer klinischer Bedeutung. Sie erfordern regelhaft eine aggressive antibiotische Behandlung und gegebenenfalls auch eine chirurgische Sanierung. Die Therapie kann durch einen fehlenden Keimnachweis und die daraus folgenden Konsequenzen (z.B. Breitspektrumantibiose) erschwert werden. 
 
 Die Standard-Erregerdiagnostik führt nicht immer zu einer eindeutigen Erkenntnis. Eine molekularbiologische Erregerdiagnostik mittels Fluoreszenz-in-situ-Hybridisierung mit panbakterieller Konsensus-PCR und Sequenzierung (FISHseq) kann eine sinnvolle Ergänzung zu der standardmäßig durchgeführten mikrobiologischen Diagnostik sein. 
 
-## **2. Zweck** 
+# **2. Zweck**
 
 Die vorliegende SOP regelt die Indikationsstellung zur Anforderung einer FISHseq. 
 
-## **3. Umsetzung** 
+# **3. Umsetzung**
 
-## **3.1 Indikation** 
+## **3.1 Indikation**
 
 Die Indikation für eine FISHseq besteht ausschließlich bei 
 
@@ -53,7 +45,7 @@ Die Indikation für eine FISHseq besteht ausschließlich bei
 
 In allen anderen Fällen kann die FISHseq nur angefordert werden, wenn eine stichhaltige Begründung des anfordernden Arztes vorliegt. 
 
-## **3.2 Anforderung** 
+## **3.2 Anforderung**
 
 Die Anforderung der FISHseq erfolgt über das elektronische Anforderungssystem CGM Channel. Nach Auswahl des Materials „Herzklappe“ auf dem Mikrobiologie-Beleg kann die Untersuchung „FISHseq“ angefordert werden (siehe Anlage 1). 
 

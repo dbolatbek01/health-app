@@ -11,23 +11,9 @@ Anlage 1 BÄK-Richtlinie für die Wartelistenführung und Organvermittlung zur H
 
 Anlage 2 BÄK-Richtlinien für die Wartelistenführung und Organvermittlung zur Lungentransplantation vom 21.01.2023 (Link) 
 
-## **Änderungshistorie** 
-
-## **Inhaltsverzeichnis** 
-
-|1.|Hintergrund und Ziel ........................................................................................................................ 3|
 |---|---|
-|2.|Zusammensetzung, Tagungsintervall, Arbeitsfähigkeit ................................................................... 3|
-|3.|Aufgaben der Transplantationskonferenz ........................................................................................ 4|
-|4.|Anmeldung von Patienten zur Vorstellung in der Transplantationskonferenz ................................. 4|
-|5.|Vorbereitung der Sitzung ................................................................................................................. 4|
-|6.|Durchführung der Sitzung ................................................................................................................ 5|
-|7.|Protokoll der Sitzung der Transplantationskonferenz ...................................................................... 6|
-|8.|Umsetzung der Beschlüsse der Transplantationskonferenz ........................................................... 6|
-|9.|Entscheidungen im elektronischen Umlaufverfahren ...................................................................... 7|
-|10.|Information der Patienten und der zuweisenden Ärzte und Hausärzte ........................................... 7|
 
-## **1. Hintergrund und Ziel** 
+# **1. Hintergrund und Ziel**
 
 Die Bundesärztekammer (BÄK) hat auf der Grundlage des § 16 Abs. 1 S. 1 Nr. 2 und Nr. 5 des Transplantationsgesetzes (TPG) in den zuletzt mit Wirkung zum 21.01.2023 geänderten „Richtlinien für die Wartelistenführung und Organvermittlung zur Herz- und Herz-Lungen-Transplantation“ (Anlage 1) sowie in den „Richtlinien für die Wartelistenführung und Organvermittlung Lungentransplantation“ (Anlage 2), nachfolgend „Richtlinien“, u. a. Regelungen zur Führung der Warteliste getroffen. 
 
@@ -35,7 +21,7 @@ Danach trifft eine ständige, interdisziplinäre und organspezifische Transplant
 
 Die vorliegende SOP regelt die Zusammensetzung und die Aufgaben der Transplantationskonferenz. 
 
-## **2. Zusammensetzung, Tagungsintervall, Arbeitsfähigkeit** 
+# **2. Zusammensetzung, Tagungsintervall, Arbeitsfähigkeit**
 
 Die Zusammensetzung der interdisziplinären Transplantationskonferenz („ **Transplantationskonferenz“** ) im Deutschen Herzzentrum der Charité, nachfolgend DHZC, entspricht den Vorgaben der Richtlinien (dort unter III.3.1 RL Herz und III.1.2 RL Lunge). 
 
@@ -71,7 +57,7 @@ Die obligatorischen Mitglieder und deren Vertreter sowie die Vertreter der Pfleg
 
 Die Transplantationskonferenz findet in der Regel wöchentlich statt. Sie ist arbeitsfähig, wenn mindestens die unter 1. bis 3. (Herztransplantation), respektive 1. bis 5. (Lungentransplantation) genannten obligatorischen Mitglieder anwesend sind. Wenn keine Arbeitsfähigkeit gegeben ist, beruft der Ärztliche Direktor bzw. der von ihm beauftragte Organisator der Transplantationskonferenz unverzüglich eine neue Sitzung ein. 
 
-## **3. Aufgaben der Transplantationskonferenz** 
+# **3. Aufgaben der Transplantationskonferenz**
 
 Die Zuteilung eingeschränkt vermittelbarer Organe (siehe aktuell gültige Richtlinie) muss vom verantwortlichen Arzt nachvollziehbar dokumentiert sein und der Transplantationskonferenz bekannt gegeben werden. 
 
@@ -81,7 +67,7 @@ Die Transplantationskonferenz entscheidet über die mögliche Listung der Patien
 
 Des Weiteren werden relevante Statusänderungen bei bereits gelisteten Patienten besprochen. Hochdringlich zu Herztransplantation gelistete (hospitalisierte) Patienten (Kinder und Erwachsene), die während der Wartezeit außerhalb des DHZC hospitalisiert sind, werden wöchentlich durch einen Arzt des DHZC visitiert und bei der Transplantationskonferenz bei Besonderheiten vorgestellt. 
 
-## **4. Anmeldung von Patienten zur Vorstellung in der Transplantationskonferenz** 
+# **4. Anmeldung von Patienten zur Vorstellung in der Transplantationskonferenz**
 
 Die Fach- und Oberärzte (OÄ) der stationären und der ambulanten Abteilungen des DHZC melden bei dem Organisator der Transplantationskonferenz die Patienten an, die der Transplantationskonferenz vorgestellt werden sollen. 
 
@@ -89,13 +75,13 @@ In begründeten Fällen kann ein Oberarzt des TX-Bereichs von einer Anmeldung zu
 
 Die Entscheidung, einen Patienten nicht der Transplantationskonferenz vorzustellen, wird elektronisch dokumentiert. Letztverantwortlich für die Begründung und die Dokumentation ist der Oberarzt, der die Entscheidung getroffen hat. 
 
-## **5. Vorbereitung der Sitzung** 
+# **5. Vorbereitung der Sitzung**
 
 Der Ärztliche Direktor benennt einen nicht ärztlichen Mitarbeiter als Organisator der Transplantationskonferenz („ **Organisator** “). Dieser Organisator bereitet die Sitzungen der Transplantationskonferenz vor. 
 
 Der Organisator trägt Sorge dafür, dass alle für Entscheidungsfindung notwendigen Befunde als Papierdokumentation oder elektronisch verfügbar und dem Patienten zugeordnet sind. Die Mitglieder der Transplantationskonferenz haben so die Möglichkeit, die Befunde während der Sitzung gemeinsam zu begutachten. Im Nachhinein kann nachvollzogen werden, auf welcher Grundlage die Entscheidung erfolgte. 
 
-## **6. Durchführung der Sitzung** 
+# **6. Durchführung der Sitzung**
 
 Die Mitglieder der Transplantationskonferenz beraten auf der Grundlage der in den Richtlinien festgelegten Kriterien über die Aufnahme auf die Warteliste. Zu diesem Zweck erfolgt eine Sichtung und Diskussion der Befunde (klinische Daten, immunologische Analysen, bildgebende Verfahren). Auf dieser Grundlage („Mehr-Augen-Prinzip“) entscheidet die Transplantationskonferenz über eine Anmeldung zur Warteliste (und ggf. deren Dringlichkeit) bzw. eine Abmeldung eines gemeldeten Patienten von der Warteliste. Für Entscheidungen der Transplantationskonferenz gilt das Einstimmigkeitsprinzip; Enthaltungen werden als Zustimmung gewertet. 
 
@@ -137,7 +123,7 @@ Der eLAS muss aktualisiert werden, wenn der Zustand des Patienten die getroffene
 
 Vor Herztransplantation umfasst diese Änderung des Gesundheitszustands Komplikationen an einem Herzunterstützungssystem, das Auftreten von schwerwiegenden Herzrhythmusstörungen, einem zusätzlich zum bestehenden kardialen weiteren Organversagen sowie die Notwendigkeit oder auch relevante Änderung der Dosierung einer positiv inotropen Therapie. 
 
-## **7. Protokoll der Sitzung der Transplantationskonferenz** 
+# **7. Protokoll der Sitzung der Transplantationskonferenz**
 
 Die Grundlagen der Beratung der Transplantationskonferenz und die getroffenen Entscheidungen sind in einem für das Kalenderjahr fortlaufend nummerierten Sitzungsprotokoll zu dokumentieren. Im Protokoll sind die Namen der Sitzungsteilnehmer aufzuführen; ggf. nur zeitweise Anwesenheit ist festzuhalten. 
 
@@ -151,7 +137,7 @@ Das so finalisierte Protokoll wird von dem Organisator der Transplantationskonfe
 
 Der Organisator der Transplantationskonferenz trägt Sorge dafür, dass die in der Sitzung patientenspezifisch getroffenen Entscheidungen der jeweiligen papierenen und elektronischen Patientenakte zugeordnet werden. 
 
-## **8. Umsetzung der Beschlüsse der Transplantationskonferenz** 
+# **8. Umsetzung der Beschlüsse der Transplantationskonferenz**
 
 Für die zeitnahe Umsetzung der in der Transplantationskonferenz getroffenen Entscheidungen ist der Organisator der Transplantationskonferenz zuständig. 
 
@@ -159,7 +145,7 @@ Er stellt die von Eurotransplant (ET) geforderten Unterlagen zusammen, legt sie 
 
 Nach Prüfung der Daten einschließlich deren korrekter Eingabe durch ein obligatorisches Mitglied (Vier-Augen-Prinzip) werden die Daten an ET weitergeleitet, das Sendeprotokoll ausgedruckt, von dem obligatorischen Mitglied gegengezeichnet und im PDF-Format dem Patienten direkt zugeordnet und zusätzlich in einer zentralen Dateiablage (Combox) elektronisch archiviert. 
 
-## **9. Entscheidungen im elektronischen Umlaufverfahren** 
+# **9. Entscheidungen im elektronischen Umlaufverfahren**
 
 Ist aus unaufschiebbaren Gründen eine reguläre Transplantationskonferenz ausnahmsweise nicht möglich, oder ist bei dringlichen Entscheidungen das Zeitintervall zur nächsten Transplantationskonferenz zu lang, können Voten der obligatorischen Mitglieder im Umlaufverfahren eingeholt werden. 
 
@@ -183,7 +169,7 @@ Eine Überprüfung und Bestätigung oder Revision der Eilentscheidung erfolgt in
 
 Das Ergebnis des Umlaufverfahrens sowie die Überprüfung der Eilentscheidung durch die Transplantationskonferenz sind in der Krankenakte zu dokumentieren. 
 
-## **10. Information der Patienten und der zuweisenden Ärzte und Hausärzte** 
+# **10. Information der Patienten und der zuweisenden Ärzte und Hausärzte**
 
 Alle im Rahmen dieser Regelungen getroffenen patientenbezogenen Entscheidungen werden dem Patienten und dem zuweisenden Arzt/Hausarzt schriftlich mitgeteilt. Letztverantwortlich dafür ist der für den jeweiligen Bereich (ambulant oder stationär) zuständige Oberarzt. 
 

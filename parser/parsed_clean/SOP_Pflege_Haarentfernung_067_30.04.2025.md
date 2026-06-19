@@ -1,6 +1,6 @@
 ## Pflege: Haarentfernung vor operativen und interventionellen Eingriffen
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Bei Operationen und invasiven Eingriffen besteht immer die Gefahr einer Infektion. 
 
@@ -8,7 +8,7 @@ Zu einem wirksamen Infektionsschutz tragen patientenbezogene spezifische Schutzm
 
 **Hinweis** : Die Vorgaben der vorliegenden SOP gelten nicht für Notfälle. 
 
-## **2. Geltungsbereich / Zielgruppe** 
+# **2. Geltungsbereich / Zielgruppe**
 
 Alle bettenführenden Bereiche sowie alle Herzkatheterlabore des DHZC für folgende Berufsgruppen: 
 
@@ -22,13 +22,13 @@ Medizintechnische Assistentinnen und Assistenten
 
 Anästhesie- und Operationstechnische Assistentinnen und Assistenten 
 
-## **3. Begriffsdefinition** 
+# **3. Begriffsdefinition**
 
 Unter Haarentfernung verstehen wir ein Verfahren, bei der nur die sichtbare Stelle des Haares außerhalb der Haut entfernt wird, um postoperativen Infektionen vorzubeugen. 
 
-## **4. Prozessbeschreibung** 
+# **4. Prozessbeschreibung**
 
-## **4.1 Grundsätze** 
+## **4.1 Grundsätze**
 
 Sobald eine Haarentfernung operationstechnisch erforderlich ist, erfolgt diese mittels Clipping (elektrische Haarschneidemaschine). Der Tabelle im Anhang ist zu entnehmen, bei welchen operativen Eingriffen eine präoperative Haarentfernung entsprechend durchzuführen ist. 
 
@@ -44,7 +44,7 @@ Es gilt:
 
 Hinweis: Nach Möglichkeit sollte die Haarentfernung bei Männern durch männliches und bei Frauen durch weibliches Personal erfolgen. 
 
-## **4.2 Materialien** 
+## **4.2 Materialien**
 
 - Elektro-Clipper (desinfizierbar) 
 
@@ -65,13 +65,13 @@ Hinweis: Nach Möglichkeit sollte die Haarentfernung bei Männern durch männlic
 
 **Pflege: Haarentfernung vor operativen und interventionellen Eingriffen** 
 
-## **4.3 Räumlichkeiten** 
+## **4.3 Räumlichkeiten**
 
 - Wenn für Patienten zumutbar und grundsätzlich bei stabilem Zustand Haarentfernung in einem separaten Raum vornehmen (z. B. Bad oder Ruheraum) 
 
 - Bei instabilen oder immobilen Patienten, bei denen kein Transport ins Bad oder in den Ruheraum möglich ist, erfolgt die Haarentfernung im Bett unter Schutz der Intimsphäre z. B. Sichtschutz im Zimmer (Paravent) 
 
-## **4.4 Arbeitsablauf/Vorbereitung** 
+## **4.4 Arbeitsablauf/Vorbereitung**
 
 - Patienten informieren 
 
@@ -83,7 +83,7 @@ Hinweis: Nach Möglichkeit sollte die Haarentfernung bei Männern durch männlic
 
 - Patienten in eine angenehme Liegeposition bringen 
 
-## **4.5 Durchführung** 
+## **4.5 Durchführung**
 
 - So kurzfristig vor der Operation wie möglich. Der Zeitpunkt für das Kürzen mittels Clipping kann unter arbeitsorganisatorischen Gesichtspunkten gewählt werden (KRINKO 2018[1] ) 
 
@@ -103,7 +103,7 @@ Hinweis: Nach Möglichkeit sollte die Haarentfernung bei Männern durch männlic
 
 - Frisches Nachthemd anziehen 
 
-## **4.6 Dokumentation** 
+## **4.6 Dokumentation**
 
 Stationär: OP-Checkliste (ZF OP-Checkliste) 
 
@@ -196,6 +196,4 @@ femoralis|Beide Leisten großflächig ca. 15 cm radius||
 |**ER-Implantation**|Subklavik.  Inzision|links vom Sternum bis zur Mamille(Quadrat)||
 
 g
-**----- End of picture text -----**
-
 

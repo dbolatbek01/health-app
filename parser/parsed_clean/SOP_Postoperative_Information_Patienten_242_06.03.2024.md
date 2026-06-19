@@ -11,19 +11,13 @@ Operateur
 
 Standort Campus CVK/AP, Arztdienst 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Ziel ................................................................................................................................................... 3|
 |---|---|
-|2.|Zeitpunkt des Abschlussgesprächs, beteiligte Personen und Dokumentation ................................ 3|
-|3.|Vorzeitige Verlegung ins Paulinenkrankenhaus .............................................................................. 3|
-|4.|Versterben des Patienten ................................................................................................................ 3|
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Vor Entlassung eines jeden Patienten ist vom Operateur des initialen Eingriffs (Facharzt, Oberarzt oder Arzt in Weiterbildung) eine einmalige Visite inklusive Abschlussgespräch durchzuführen. 
 
-## **2. Zeitpunkt des Abschlussgesprächs, beteiligte Personen und Dokumentation** 
+# **2. Zeitpunkt des Abschlussgesprächs, beteiligte Personen und Dokumentation**
 
 Das Gespräch ist nach Verlegung des Patienten von der Intensivstation und vor Verlegung ins Paulinenkrankenhaus in den ersten drei Tagen postoperativ auf der Station WD2 oder WDH1 vorzunehmen. 
 
@@ -31,11 +25,11 @@ Bei Patienten mit verlängertem Aufenthalt auf der Intensivstation wird das Gesp
 
 Zur Dokumentation erfolgt ein Eintrag im Patientendokumentationssystem m.life im ärztlichen Verlauf. 
 
-## **3. Vorzeitige Verlegung ins Paulinenkrankenhaus** 
+# **3. Vorzeitige Verlegung ins Paulinenkrankenhaus**
 
 Sollte der Patient vorzeitig (vor dem dritten postoperativen Tag) ins Paulinenkrankenhaus verlegt werden und es dem Operateur aus diesem Grund nicht möglich sein, das Abschlussgespräch durchzuführen, so wird dies in einem Eintrag in m.life dokumentiert. 
 
-## **4. Versterben des Patienten** 
+# **4. Versterben des Patienten**
 
 Sollte der Patient postoperativ versterben, ist neben den Angehörigen auch der Zuweiser telefonisch zu verständigen, welcher den Patienten zur Operation angemeldet hat. 
 

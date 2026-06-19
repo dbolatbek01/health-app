@@ -7,7 +7,7 @@ Management von Spüllösungen für perkutane Mikroaxialflusspumpen (Impella) (Pu
 
 Alle Standorte: Klinik für Herz-, Thorax- und Gefäßchirurgie Klinik für Kardioanästhesiologie und Intensivmedizin Klinik für Kardiologie, Angiologie und Intensivmedizin 
 
-## **1. Hintergrund und Ziel** 
+# **1. Hintergrund und Ziel**
 
 Das Herzunterstützungssystem Impella ist eine mikroaxiale Flusspumpe, bei der die Motorlagerung mit pHneutraler Lösung umspült wird ( _purge solution =_ Purge-Lösung), um ein Eindringen von Plasma in das Motorgehäuse und konsekutive Ablagerungen von Proteinen und anderen Blutbestandteilen in diesem zu vermeiden, denn diese Ablagerungen führen zu einem Funktionsverlust und einem zeitlich unvorhersehbaren Stopp der Pumpe mit unmittelbaren Konsequenzen für die Hämodynamik des Patienten. 
 
@@ -25,15 +25,15 @@ Zur Schnellübersicht sind die Kernpunkte der SOP im Anhang als Flussdiagramm da
 
 Hier besteht Informations- und Einwilligungspflicht. Ist der Patient einwilligungsfähig muss er über die Anwendung informiert werden und sein Einverständnis geben. Bei betreuten Patienten betreut muss die betreuende Person informiert werden und ihr Einverständnis geben. Eine Pumpenthrombose ist immer ein Notfall und die Entscheidung über die Behandlung liegt im Ermessen des Arztes. 
 
-## **2. Prozessverantwortliche Personen** 
+# **2. Prozessverantwortliche Personen**
 
 VAD-Oberarzt und Arztdienst der jeweiligen Intensivstation 
 
-## **3. Geltungsbereich / Zielgruppe** 
+# **3. Geltungsbereich / Zielgruppe**
 
 , Arztdienst der jeweiligen Intensivstation 
 
-## **4. Monitoring der Spülung** 
+# **4. Monitoring der Spülung**
 
 Der Controller der Impella-Pumpe (Automatic Impella Controller, AIC) überwacht die Menge, die Flussrate und den Druck der Purge-Lösung. 
 
@@ -56,13 +56,13 @@ Zusätzlich verfügt der AIC über eine separate Monitoring-Seite des Purge-Syst
 
 **Abbildung 1** . AIC-Standardscreen mit Informationen zum **Abbildung** _**2**_ . Purge-Monitoring _-_ Seite des AIC Purge-System 
 
-## **4. Dokumentation** 
+# **4. Dokumentation**
 
 Purge-Fluss und -Druck werden stündlich im PDMS dokumentiert. 
 
-## **5. Troubleshooting** 
+# **5. Troubleshooting**
 
-## **5.1 Identifikation und Evaluation eines drohenden Purge-Verschlusses** 
+## **5.1 Identifikation und Evaluation eines drohenden Purge-Verschlusses**
 
 Bei einem Abfall des Purge-Flusses unter 5mL/h an einer Impella 5.5 (bzw. < XY ml/h an einer Impella CP) werden interdisziplinär (zuständiger Arztdienst Intensivmedizin und VAD-Dienst) folgende Punkte evaluiert: 
 
@@ -76,7 +76,7 @@ Bei einem Abfall des Purge-Flusses unter 5mL/h an einer Impella 5.5 (bzw. < XY m
 
 - Wird im Ergebnis ein fortbestehender Unterstützungsbedarf evaluiert, erfolgt eine Purge-Lyse. 
 
-## **5.2 Purge-Lyse** 
+## **5.2 Purge-Lyse**
 
 Voraussetzung für die Lyse ist ein weiterhin vorhandener Purge-Fluss. Bei einem Purge-Fluss von < 1mL/h ist eine Purge-Lyse **nicht mehr möglich** und die Pumpe muss bei fortbestehendem Unterstützungsbedarf **unverzüglich (N1) gewechselt werden** . 
 

@@ -9,49 +9,14 @@ Verpflegungskatalog und Diätkatalog
 
 Arztdienst und Pflegedienst, Diätassistenz 
 
-Änderungshistorie
-Version  Freigabe am
 1.1  04.06.2025  Aktualisierung S. 51  01.03.2027
-**----- End of picture text -----**
 
-
-## **Inhaltsverzeichnis** 
-
-|1.|Allgemeiner Teil ............................................................................................................................... 3|
 |---|---|
-|1.1|Kostformschema .............................................................................................................................. 3|
-|1.2|Kostformen zur allgemeinen Verpflegung ....................................................................................... 4|
 |1.3|Prinzipien der Ernährungstherapie bei ausgewählten metabolischen und kardiovaskulären|
-||Krankheiten ...................................................................................................................................... 5|
-|1.4|Ernährungsmedizinisch begründete Ernährung .............................................................................. 5|
-|2.|Kostformen der allgemeinen Verpflegung ....................................................................................... 6|
-|2.1|Vollkost ............................................................................................................................................ 8|
-|2.2|Angepasste Vollkost ........................................................................................................................ 9|
-|2.3|Ovo-lacto-vegetabile Kost.............................................................................................................. 12|
-|3.|Energiedefinierte Diät .................................................................................................................... 13|
-|4.|Eiweißdefinierte und elektrolytdefinierte Diät ................................................................................ 21|
-|4.1|Eiweißdefinierte Diät ...................................................................................................................... 21|
-|4.2|Eiweiß- und elektrolytdefinierte Diät .............................................................................................. 24|
-|4.2.1|Ärztliche Diätverordnung 0,6 g pro kg ........................................................................................... 24|
-|4.2.2|Ärztliche Diätverordnung 0,8 g pro kg ........................................................................................... 28|
-|4.2.3|Ärztliche Diätverordnung 1,3 g pro kg ........................................................................................... 31|
-|4.2|Elektrolytdefinierte Diät .................................................................................................................. 33|
-|4.2.1|Natriumdefinierte Diät .................................................................................................................... 33|
-|4.2.2|Kaliumdefinierte Diät ...................................................................................................................... 34|
-|4.2.3|Phosphatarme Diät ........................................................................................................................ 35|
-|5.|Sonderdiät ..................................................................................................................................... 38|
-|5.1|Keimarme Diät ............................................................................................................................... 39|
-|5.2|Glutenfreie Diät .............................................................................................................................. 43|
-|5.3|Energiereiche Kost und Aufbaukost .............................................................................................. 46|
-|5.4|Dumping-Diät ................................................................................................................................. 47|
-|5.5|Flüssige Kost ................................................................................................................................. 49|
-|5.6|Lebensmittelallergien und pseudoallergische Reaktionen ............................................................ 50|
-|5.7|Enterale Ernährung ........................................................................................................................ 51|
-|6.|Getränke als ergänzender Faktor der Ernährung .......................................................................... 53|
 
-## **1. Allgemeiner Teil** 
+# **1. Allgemeiner Teil**
 
-## **1.1 Kostformschema[1]** 
+## **1.1 Kostformschema[1]**
 
 ## **Allgemeine Verpflegung (Wahlessen)** 
 
@@ -81,7 +46,7 @@ Version  Freigabe am
 
 1 In Anlehnung an den Leitfaden Ernährungstherapie in Klinik und Praxis (LEKuP) der Deutschen Gesellschaft für Ernährungsmedizin 2019 (https://www.dgem.de/lekup) 
 
-## **1.2 Kostformen zur allgemeinen Verpflegung** 
+## **1.2 Kostformen zur allgemeinen Verpflegung**
 
 Der Richtwert für die **Energiezufuhr** wird aus dem Ruheenergieverbrauch multipliziert mit dem PALWert (PAL = _physical activity level_ ; durchschnittlicher täglicher Energiebedarf für die körperliche Aktivität als Mehrfaches des Ruheenergieverbrauchs) errechnet. Der PAL-Wert kann an die speziellen Anforderungen in der jeweiligen Einrichtung angepasst werden. Für immobile Patienten (Akutkrankenhaus) wird ein PAL von 1,2 und für mobile Patienten ein PAL von 1,4 angesetzt. In der Praxis wird ein Richtwert für die Energiezufuhr von ca. 1800 kcal/Tag für Patienten zu Grunde gelegt. Für die **allgemeine Verpflegung** werden drei Kostformen angeboten, die jeder Patient wählen kann, sofern keine ernährungsmedizinischen oder allgemeinen gesundheitlichen Erwägungen dagegenstehen: **Vollkost, angepasste Vollkost und vegetarische Kost** . Die Portionsgröße kann wahlweise reguliert werden. 
 
@@ -105,7 +70,7 @@ Durch eine abwechslungsreiche, vielfältige Auswahl pflanzlicher Lebensmittel, e
 
 Im Deutschen Herzzentrum Berlin gibt es die Möglichkeit, eine Bioelektrische Impedanzanalyse (BIA) durchführen zu lassen. Die BIA ist eine Analyse der Körperzusammensetzung von Fett-, Muskel- und Wassermasse. Diese Daten geben Rückschlüsse auf den Ernährungszustand und bilden eine Grundlage für die Ernährungsberatung. Verbesserungen des Ernährungszustandes lassen sich in weiterführenden Verlaufsuntersuchungen sofort erkennen. Kontaktieren Sie das Ernährungsteam, die Diätassistenten (im Folgenden Diätassistenz) führen die Messung nach Terminabsprache durch. 
 
-## **1.3 Prinzipien der Ernährungstherapie bei ausgewählten metabolischen und kardiovaskulären Krankheiten** 
+## **1.3 Prinzipien der Ernährungstherapie bei ausgewählten metabolischen und kardiovaskulären Krankheiten**
 
 **Tabelle 1. Ernährung bei metabolischen und kardiovaskulären Krankheiten** 
 
@@ -187,7 +152,7 @@ rium/Tag)|
 
 BS: Ballaststoffe, GI: glykämischer Index; KG: Körpergewicht; MCT: Mittelkettige Fettsäuren; VK: Vollkost; ↑ : mehr im Vergleich zu den Vollkostformen; ↓: weniger im Vergleich zu den Vollkostformen 
 
-## **1.4 Ernährungsmedizinisch begründete Ernährung** 
+## **1.4 Ernährungsmedizinisch begründete Ernährung**
 
 In begründeten Fällen können Diätkostformen mit spezifischer Indikation verordnet werden: Energiedefinierte Diäten, Eiweiß- und Elektrolytdefinierte Diäten und Sonderdiäten. Dabei gilt zu beachten: 
 
@@ -205,7 +170,7 @@ In begründeten Fällen können Diätkostformen mit spezifischer Indikation vero
 
 - Zur Förderung der Mitarbeit und zur Sicherstellung einer individuell bedarfsgerechten Ernährung empfehlen wir, bei diätbedürftigen Patienten grundsätzlich die Diätassistenz hinzuzuziehen. 
 
-## **2. Kostformen der allgemeinen Verpflegung** 
+# **2. Kostformen der allgemeinen Verpflegung**
 
 ## **Bedingungen der ausgewogenen, vollwertigen Ernährung** 
 
@@ -287,7 +252,7 @@ Margarine, Butter,
 
 Bei Bedarf mehr. 
 
-## **2.1 Vollkost** 
+## **2.1 Vollkost**
 
 Bestellweise: **Vollkost (VK)** 
 
@@ -331,7 +296,7 @@ ca.|30-35 ml kg KG|||
 
 **Abendessen:** 3 Scheiben Brot 15 g Margarine 30 g Wurst bis 20 % Fett 30 g Käse 30 % Fett i. Tr. 150 g Salat **Spätmahlzeit:** 1 Fruchtjoghurt, fettarm 
 
-## **2.2 Angepasste Vollkost** 
+## **2.2 Angepasste Vollkost**
 
 |Bestellweise:|**Angepasste Vollkost bei unspezifischen Unverträglichkeiten und**|
 |---|---|
@@ -546,7 +511,7 @@ Senf, Pfeffer, Cayennepfeffer,
 Tabasco, Curry, Knoblauch,
 (rohe) Zwiebeln|
 
-## **2.3 Ovo-lacto-vegetabile Kost** 
+## **2.3 Ovo-lacto-vegetabile Kost**
 
 Bestellweise: **Vegetarische Kost** Indikation: Für alle Patienten ohne ernährungsmedizinische Sonderbedürfnisse Prinzip: Vollwertige Ernährung mit Komponenten-Wahlmöglichkeiten in der Kaltverpflegung, mit Menü- und Teilkomponentenwahl im Mittagessen. mit Milch-, Käse-, Hühnereianteilen 
 
@@ -576,7 +541,7 @@ ca.|30 g|||
 |Flüssigkeit
 ca.|30-35 ml kg KG|||
 
-## **3. Energiedefinierte Diät** 
+# **3. Energiedefinierte Diät**
 
 Unter dem Begriff energiedefinierte Diät werden heute alle Kostformen zur Behandlung von Übergewicht, Kohlenhydrat-, und Fettstoffwechselstörungen wie Diabetes mellitus Typ 1 und 2 sowie Hypertriglyceridämie, kombinierte Hypertriglyceridämie, Hypercholesterinämie und Hyperurikämie einschließlich Metabolisches Syndrom zusammengefasst. 
 
@@ -1040,9 +1005,9 @@ Sonnenblumenkerne
 
 **Quark und Käse werden nicht nach BE/KE berechnet!** Der Kohlenhydratgehalt ist so gering, dass bei den üblichen Verzehrmengen keine Berechnung des Kohlenhydratgehaltes nötig ist. 
 
-## **4. Eiweißdefinierte und elektrolytdefinierte Diät** 
+# **4. Eiweißdefinierte und elektrolytdefinierte Diät**
 
-## **4.1 Eiweißdefinierte Diät** 
+## **4.1 Eiweißdefinierte Diät**
 
 Die eiweißdefinierte Diät soll die anfallende Harnstoff- oder Ammoniakmenge und deren Begleittoxine in **verschiedenen Stadien der Leber- oder Niereninsuffizienz** im Stoffwechsel der Patienten vermindern. Zur Vermeidung einer katabolen Stoffwechselveränderung ist eine ausreichende Energiezufuhr zu gewährleisten. Nicht selten können Patienten aufgrund von Appetitlosigkeit ihren erforderlichen Energiebedarf nicht zuführen. 
 
@@ -1155,9 +1120,9 @@ Für die **ärztliche Diätverordnung** beachten Sie bitte die in der Küche ang
 
 **Diätverordnung und ggf. die entsprechende BE/KE-Menge ermittelt werden.** 
 
-## **4.2 Eiweiß- und elektrolytdefinierte Diät** 
+## **4.2 Eiweiß- und elektrolytdefinierte Diät**
 
-## **4.2.1 Ärztliche Diätverordnung 0,6 g pro kg** 
+### **4.2.1 Ärztliche Diätverordnung 0,6 g pro kg**
 
 Ärztliche **0,6 g Eiweiß pro kg Sollgewicht x** (30)– **35** Diätverordnung **Körpergewicht = kcal = Gesamtenergie Gesamteiweiß pro Tag pro Tag ggf. BE-KE pro Tag (bei Diab. Mell.)** Bestellweise: Gesamt- **+** Gesamt- **Eiweißmenge 40 g Energie 2200 Kcal ggf. BE/KE 27** 
 
@@ -1483,7 +1448,7 @@ Zucker|100|100|200|150
 
 **Hinweis:** Für diese Kostverordnung sollte immer die Diätassistenz hinzugezogen werden. 
 
-## **4.2.2 Ärztliche Diätverordnung 0,8 g pro kg** 
+### **4.2.2 Ärztliche Diätverordnung 0,8 g pro kg**
 
 Ärztliche **0,8 g Eiweiß pro kg Sollgewicht x** (30) **- 35** Diätverordnung **Körpergewicht = kcal = Gesamtenergie Gesamteiweiß pro Tag pro Tag ggf. BE-KE pro Tag (bei Diab. Mell.)** Bestellweise: **Eiweißmenge + Energie** Beispiel: **60 g Eiweiß / 9000kJ** Indikation: Niereninsuffizienz: **Kreatinin    3-6 mg/dl, Harnstoff 60-120 mg/dl** Leberinsuffizienz: Mit Erhöhung des Ammoniaks mit Zeichen der Encephalopathie Prinzip: Definierte Eiweiß- und Energiemenge, ggf. Natrium (Na), Flüssigkeit, Kalium (K). Mahlzeiten Frühstück: Fertigteller Mittag: Wahl zwischen 3 Menüs (Vollkost, leichte Vollkost, Ovo-lactovegetabile Kost) Abendessen: Fertigteller Zwischenmahlzeiten: 2. Frühstück – Obst, nachmittags – Gebäck Verordnungsdauer: nach Bedarf, zeitlich begrenzt oder Dauerkost 
 
@@ -1660,7 +1625,7 @@ Anmerkung: Die tierischen Eiweißträger können gegeneinander ausgetauscht werd
 
 **Hinweis** : Für diese Kostverordnung sollte immer die Diätassistenz hinzugezogen werden. 
 
-## **4.2.3 Ärztliche Diätverordnung 1,3 g pro kg** 
+### **4.2.3 Ärztliche Diätverordnung 1,3 g pro kg**
 
 Ärztliche **1,3 Eiweiß pro kg Sollgewicht x** (30) **- 35** Diätverordnung **Körpergewicht = kcal = Gesamtenergie Gesamteiweiß pro Tag pro Tag ggf. BE-KE pro Tag (bei Diab. Mell.)** Bestellweise **Eiweißmenge + Energie 90 g Eiweiß 9000kJ** Indikation: Niereninsuffizienz: **Bei Behandlung mit Hämo- oder Peritoneal-Dialyse** Prinzip: Definierte Eiweiß- und Energiemenge, ggf. Kalium- (K), Natrium- (Na), Phosphat-(P)arm und Flüssigkeitsarm; (siehe auch Elektrolytdefinierte Diäten) 
 
@@ -1810,7 +1775,7 @@ Anmerkung: Die tierischen Eiweißträger können gegeneinander ausgetauscht werd
 
 Die Diätetik muss sich an den besonderen Bedürfnissen der Patienten orientieren (Schwerstkranke sind oft appetitlos). **Hinweis** : Für diese Kostverordnung sollte immer die Diätassistenz hinzugezogen werden. 
 
-## **4.2 Elektrolytdefinierte Diät** 
+## **4.2 Elektrolytdefinierte Diät**
 
 Es werden drei verschiedene elektrolytdefinierte Kostformen angeboten: 
 
@@ -1826,7 +1791,7 @@ Lediglich die **natriumdefinierte Kost kann als selbständige Diät** angeforder
 
 Grundsätzlich wird empfohlen, die Indikation gut abzuwägen, weil die Einschränkungen erheblich sind, vor allem, wenn noch mit anderen Diätanforderungen kombiniert wird. 
 
-## **4.2.1 Natriumdefinierte Diät** 
+### **4.2.1 Natriumdefinierte Diät**
 
 |Na-arme Diät|50 mmol = 1200 mg Na = 3 g NaCl/Tag|
 |---|---|
@@ -1845,7 +1810,7 @@ Grundsätzlich wird empfohlen, die Indikation gut abzuwägen, weil die Einschrä
 
 Im Durchschnitt werden z. Zt. pro Tag 10-15g Kochsalz verzehrt (je nach Lebensgewohnheit). Wenn handelsübliche Lebensmittel (Brot, Wurst, Käse) verwendet werden, sind bei 2200 Kcal lt. DGEEmpfehlung ca. 5-6 g Kochsalz in der Nahrung enthalten, ohne Kochsalzzusatz bei der Zubereitung. Fertigerzeugnisse oder Essen „außer Haus“ oder bestimmte Zubereitungstechniken oder hoher Verzehr an Fleischwaren kann zu sehr hohen Natriummengen in der Kost führen. 
 
-## **4.2.2 Kaliumdefinierte Diät** 
+### **4.2.2 Kaliumdefinierte Diät**
 
 K-arme Diät = 40 mmol K = 1500 mg K 
 
@@ -1867,7 +1832,7 @@ Eiweißreiche Lebensmittel sind generell kaliumreich.
 
 Nüsse, Hülsenfrüchte, Schokolade sind kaliumreich 
 
-## **4.2.3 Phosphatarme Diät** 
+### **4.2.3 Phosphatarme Diät**
 
 P-arme Diät = 800 mg P/Tag 
 
@@ -1925,7 +1890,7 @@ Prinzip: Kombinierte Diät bei Hämo- und Peritonealdialyse Zu beachten: Vermeid
 
 **Hinweis** : Für diese Kostverordnung sollte immer die Diätassistenz hinzugezogen werden. 
 
-## **5. Sonderdiät** 
+# **5. Sonderdiät**
 
 Sonderdiäten haben verschiedene Indikationen. 
 
@@ -1965,7 +1930,7 @@ Eine ganze Reihe der Sonderdiäten, für z.B. **onkologische Erkrankungen, Leben
 
 **Hinweis:** Es wird dringend empfohlen, für diese Kostverordnungen die Diätassistenz hinzuzuziehen. 
 
-## **5.1 Keimarme Diät** 
+## **5.1 Keimarme Diät**
 
 Bestellwort: **Keimarm** 
 
@@ -2251,7 +2216,7 @@ Sekt,Likör|
 
 * nach Rücksprache und mit **ausdrücklicher** Erlaubnis des behandelnden Arztes 
 
-## **5.2 Glutenfreie Diät** 
+## **5.2 Glutenfreie Diät**
 
 Bestellwort: **Glutenfrei** Indikation: Zoeliakie, Sprue (ohne Malabsorptionssyndrom) Morbus Duhring Prinzip: glutenfreie Nahrungsmittelauswahl Vollwertige Ernährung, ggf. kombiniert mit anderen Diätformen Mahlzeiten: Frühstück: Fertigteller Mittag: Fertigteller Abendessen: Fertigteller Zwischenmahlzeiten: 2. Frühstück = Obst oder Joghurt; Nachmittag = glutenfreies Gebäck Verordnungsdauer: Dauerkost 
 
@@ -2438,7 +2403,7 @@ Backaroma|Backpulver, Tortenguss|
 
 - gemacht mit einem Kreisfeld mit einer durchgestrichenen Ähre. 
 
-## **5.3 Energiereiche Kost und Aufbaukost** 
+## **5.3 Energiereiche Kost und Aufbaukost**
 
 Bestellwort: **Energiereich/Aufbaukost** Indikation: Unterernährung verschiedener Ursachen, z.B. - Polytrauma - onkologische Erkrankungen - Anorexia nervosa - HIV Prinzip: mit den Patienten individuell abgestimmte Ernährung, kleines Volumen, hohe Energiedichte in „versteckter Form“ Mahlzeiten: Frühstück: Fertigteller Mittag: Fertigteller (Mittagessen auf 2 Portionen aufgeteilt) Abendessen: Fertigteller Zwischenmahlzeiten: 2. Frühstück = Fertigteller; Nachmittag = Wunschkost 
 
@@ -2490,7 +2455,7 @@ nach Bedarf|||||||
 |Fruchtquark|100||20|5||180|6,3|7,0|22,0|
 |Kompott|100|||5||64|0,8|0|14,0|
 
-## **5.4 Dumping-Diät** 
+## **5.4 Dumping-Diät**
 
 Bestellwort: **Dumping** Indikation: totale und subtotale Gastrektomie nach - Billroth II - Whipple-Op ggf. postprandiales Frühdumping- oder Spätdumpingsyndrom Prinzip: eiweißreich, fettreich wenig Mono- und Disaccharide (in kleinen Obstmengen), laktosearm, relativ ballaststoffreich, Leichte Vollkost bzw. nach individueller Bekömmlichkeit Mahlzeiten: Frühstück: Fertigteller Mittag: Fertigteller (Mittagessen auf 2 Portionen aufgeteilt) Abendessen: Fertigteller Zwischenmahlzeiten: 2. Frühstück = Fertigteller; Nachmittag = Fertigteller 6-8 kleine Mahlzeiten Verordnungsdauer: nach Bedarf 
 
@@ -2658,7 +2623,7 @@ Pralinen, Marzipan usw.|
 Ketchup etc.
 (siehe Leichte Vollkost)|
 
-## **5.5 Flüssige Kost** 
+## **5.5 Flüssige Kost**
 
 Bestellwort: **Flüssige Kost** (ggf. reizarm) Indikation: präoperativ postoperativ bei - Schluckbeschwerden - Schluckbehinderungen **Mund, Kiefer, Gesicht, HNO u.a.** 
 
@@ -2698,7 +2663,7 @@ nach Bedarf|||||||
 
 **Hinweis** : Für diese Kostverordnung sollte bei längerfristiger Ernährung in dieser Form die Diätassistenz hinzugezogen werden. 
 
-## **5.6 Lebensmittelallergien und pseudoallergische Reaktionen** 
+## **5.6 Lebensmittelallergien und pseudoallergische Reaktionen**
 
 Lebensmittelallergien beruhen auf einer Hypersensitivität des Immunsystems. Der Nachweis erfolgt mit anerkannter, spezifischer medizinischer Diagnostik. Prinzipiell können sich Allergien in jedem Alter manifestieren und/oder auf die verschiedensten Eiweiße entstehen. Dabei spielt es keine Rolle, ob es sich um natürliche Eiweißanteile z.B. in Lebensmitteln handelt oder um „Fremdeiweiße“, z.B. Schimmelpilze. 
 
@@ -2768,7 +2733,7 @@ Vermeidung der fraglichen Allergene in allen Nahrungsmitteln und Zubereitungsfor
 
 **Hinweis** : Für diese Kostverordnung sollte **immer die Diätassistenz hinzugezogen** werden. 
 
-## **5.7 Enterale Ernährung** 
+## **5.7 Enterale Ernährung**
 
 ~~Die allgemeinen Grundsätze und die Versorgung im Einzelnen sind in der SOP025 Ernährungstherapie kritisch kranker Intensivpatienten ausgeführt.~~ 
 
@@ -2852,7 +2817,7 @@ Nahrungsergänzung wird nur begrenzt als Ergänzung der Grundernährung eingeset
 
 - Die Mischung verschiedener Sondenpräparate untereinander oder mit handelsüblichen Lebensmitteln beinhaltet besondere Risiken! 
 
-## **6. Getränke als ergänzender Faktor der Ernährung** 
+# **6. Getränke als ergänzender Faktor der Ernährung**
 
 Für die Gesundheit ist Trinkwasser die beste Flüssigkeitsergänzung der Ernährung. 
 

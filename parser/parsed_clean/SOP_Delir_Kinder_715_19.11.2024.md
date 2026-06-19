@@ -11,18 +11,9 @@ Organisationseinheit Angeborene Herzfehler
 
 Anlage 1 Cornell Assessment of Pediatric Delirium (CAPD) deutsche Version Anlage 2 Tabelle Eckpunkte der Entwicklung für Kinder bis zu 2 Jahren 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Grundlagen ...................................................................................................................................... 3|
 |---|---|
-|1.1|Ziel ................................................................................................................................................... 3|
-|1.2|Dokumentation und Visite ................................................................................................................ 3|
-|2.|Prophylaxe ....................................................................................................................................... 3|
-|3.|Diagnose .......................................................................................................................................... 4|
-|4.|Therapie ........................................................................................................................................... 5|
-|5.|Mitgeltende Dokumente ................................................................................................................... 5|
 
-## **1. Grundlagen** 
+# **1. Grundlagen**
 
 Das Delir ist eine reversible Funktionsstörung des Gehirns, gekennzeichnet durch eine Störung der Aufmerksamkeit und des Bewusstseins, die sich innerhalb eines kurzen Zeitraums von Stunden oder Tagen entwickelt, mit Störung von Kognition, Gedächtnis und Sprache einhergehen kann und deren Symptomatik weder durch eine andere neurokognitive Erkrankung, noch durch Substanzintoxikation oder -Entzug erklärt werden kann. 
 
@@ -30,17 +21,17 @@ Das Delir kann als hyperaktive, hypoaktive und gemischte Form auftreten, wobei d
 
 Da Risikofaktoren wie bereits präoperativ bestehende Entwicklungsverzögerungen, neurologische Vorerkrankungen und lange HLM-Zeiten in der Regel nicht zu beeinflussen sind, soll das Behandlungsteam anstreben, die anderen präzipitierenden Faktoren, die im stationären Behandlungsverlauf auf den Patienten einwirken, positiv zu modifizieren. 
 
-## **1.1 Ziel** 
+## **1.1 Ziel**
 
 Das Ziel der vorliegenden SOP ist die Verbesserung von Prävention, Diagnostik und Behandlung des Delirs bei Kindern sowohl auf der K-IPS als auch auf der H4 sowie die Harmonisierung der Diagnostikund Behandlungsalgorithmen des Delirs auf beiden Stationen. 
 
-## **1.2 Dokumentation und Visite** 
+## **1.2 Dokumentation und Visite**
 
 Sofern die Indikation für eine sedierende Medikation bzw. die Fortführung derselben gestellt wurde, wird das Sedierungsziel in jeder Visite festgelegt. Die zuständige Pflegekraft dokumentiert entsprechend des Schmerzkonzepts mittels KUSS- oder Comfort-B-Skala (in m.life hinterlegt) mindestens einmal pro Schicht die Sedierungstiefe und Analgesie des Patienten. 
 
 Ein Delir-Screening wird mit Hilfe der Cornell-Assessment-of-Pediatric-Delirium-Checkliste (CAPD) durchgeführt (m.life: Neuropaket K). 
 
-## **2. Prophylaxe** 
+# **2. Prophylaxe**
 
 Durch **Vermeidung von tiefer Sedierung** kann die Delir-Inzidenz signifikant gesenkt werden. Eine adäquate Schmerztherapie ist eine weitere essenzielle Maßnahme, um ein Delir zu vermeiden oder zu verkürzen. Die in der Abteilung AHF geltenden Standards der Analgosedierung sind für Kinder bis 18 Jahren im Schmerz-/Sedierungskonzept der Kinderkardiologie hinterlegt. Dabei sollte beachtet werden, dass Patienten, die aufgrund ihres Delirs hinsichtlich ihres Schmerzempfindens nicht sicher evaluiert werden können und invasiv beatmet sind, eine kontinuierliche Gabe von Opiaten erhalten. Benzodiazepine sollen zurückhaltend eingesetzt werden. 
 
@@ -106,7 +97,7 @@ Durch **Vermeidung von tiefer Sedierung** kann die Delir-Inzidenz signifikant ge
 
       - Sonst dementsprechend altersgerechte Kommunikation mit den Kindern oder über die Angehörigen 
 
-## **3. Diagnose** 
+# **3. Diagnose**
 
 Bei klinischem Verdacht auf ein Delir (fehlende Kontaktierbarkeit, fehlende Umgebungswahrnehmung, Unruhe) wird das Kind durch die zuständige Pflegekraft einmal pro Schicht mittels des CornellAssessment-of-Pediatric-Delirium-Scores (CAPD) evaluiert. Bei Veränderungen des klinischen Zustands soll der Score zusätzlich erhoben werden. 
 
@@ -131,7 +122,7 @@ Reperfusionsödem|
 |**Medikamente**|z. B. Nebenwirkung von Neuroleptika, Immunsuppressiva (auch Kortikosteroide),
 Antibiotika(Fluorchinolone!)|
 
-## **4. Therapie** 
+# **4. Therapie**
 
 Sofern ein möglicher Auslöser identifiziert werden kann, wird dieser umgehend therapiert. In diesen Fällen besteht die Delir-Therapie in der Therapie des Auslösers. Die Mehrzahl der Kinder kann durch Therapie des Auslösers und Optimierung der Umgebung behandelt werden. Der wichtigste Therapieansatz ist die **Fortführung der unter Punkt 2.** genannten Maßnahmen. 
 
@@ -171,7 +162,7 @@ Cave: extrapyriamidale Symptome, okulogyrische Krisen, Senkung der Krampfschwell
 
 - 2. Wahl: Haloperidol 0,02 mg/kg, steigern bis 0,1 mg/kg (max. 5 mg bei Erw.) alle 12 h iv 
 
-## **5. Mitgeltende Dokumente** 
+# **5. Mitgeltende Dokumente**
 
 SOP520 CAI Prämedikationsvisite 
 

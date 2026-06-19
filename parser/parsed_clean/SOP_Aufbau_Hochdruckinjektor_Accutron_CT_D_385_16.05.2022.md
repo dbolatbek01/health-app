@@ -9,38 +9,17 @@ Klinik für Herz-, Thorax- und Gefäßchirurgie Klinik für Innere Medizin – K
 
 Röntgenabteilung 
 
-## **Änderungshistorie** 
-
-## **Inhaltsverzeichnis** 
-
-|1.|Ziel und Zweck ................................................................................................................................. 3|
 |---|---|
-|2.|Anwendungsbereich ........................................................................................................................ 3|
-|3.|Mitgeltende Unterlagen.................................................................................................................... 3|
-|4.|Vorgehen ......................................................................................................................................... 3|
-|4.1|Injektor laden ................................................................................................................................... 3|
-|4.2|Injektor einschalten .......................................................................................................................... 3|
-|4.3|Injektor aufbauen ............................................................................................................................. 4|
-|4.4|Patientenschlauch anschließen ....................................................................................................... 4|
-|4.5|Kontrastmittel und NaCl aufziehen .................................................................................................. 4|
-|4.6|Schlauchsystem entlüften ................................................................................................................ 4|
-|4.7|Injektionsprofil auswählen ............................................................................................................... 5|
-|4.8|Injektionsprofil ändern ...................................................................................................................... 5|
-|4.9|Injektion vornehmen ........................................................................................................................ 5|
-|4.10|Injektion unterbrechen ..................................................................................................................... 5|
-|4.11|Patientenschlauch entsorgen .......................................................................................................... 6|
-|5.|Zusatzhinweise ................................................................................................................................ 6|
-|6.|Inkrafttreten ...................................................................................................................................... 6|
 
-## **1. Ziel und Zweck** 
+# **1. Ziel und Zweck**
 
 Aufbau und Bedienung des Hochdruckinjektors Accutron CT-D der Firma MEDTRON zur Injektion von Kontrastmittel und physiologischer Kochsalzlösung. Der Injektor ist **ausschließlich bei Patienten** für Untersuchungen mit Hilfe der Computertomographie anzuwenden. 
 
-## **2. Anwendungsbereich** 
+# **2. Anwendungsbereich**
 
 Diese Arbeitsanweisung gilt für die Anwendung des Hochdruck-Kontrastmittelinjektors Accutron CT-D der Firma MEDTRON am Computertomographen Somatom Definition Flash der Firma Siemens. 
 
-## **3. Mitgeltende Unterlagen** 
+# **3. Mitgeltende Unterlagen**
 
 Auf folgende ergänzende und weiterführende Unterlagen in ihrer jeweiligen aktuellen Fassung wird verwiesen: 
 
@@ -50,19 +29,19 @@ Auf folgende ergänzende und weiterführende Unterlagen in ihrer jeweiligen aktu
 
 3. Gebrauchsanweisung Accutron CT-D (liegt im Vorraum des Computertomographen aus) 
 
-## **4. Vorgehen** 
+# **4. Vorgehen**
 
-## **4.1 Injektor laden** 
+## **4.1 Injektor laden**
 
 Sicherstellen, dass der Injektor ausgeschaltet ist. 
 
 Die Steckverbindung des Ladegerätes in den Anschluss am Injektorfuß stecken und das Ladegerät mit dem Stromnetz verbinden. Der Ladevorgang beginnt, wenn die rote Leuchtdiode auf dem Ladegerät leuchtet. Wenn alle LEDs auf dem Display am Injektorfuß grün leuchten sind die Akkumulatoren vollständig aufgeladen und der Injektor ist einsatzbereit. 
 
-## **4.2 Injektor einschalten** 
+## **4.2 Injektor einschalten**
 
 Auf dem Bedienfeld am Injektorfuß befindet sich eine grün markierte Taste **ON** zum Einschalten. Wenn der Injektor eingeschaltet wird, leuchtet links davon die Ladezustandsanzeige auf dem Injektorfuß und der Touchscreen mit dem Bedienfeld außerhalb des Untersuchungsraums schaltet sich ein. 
 
-## **4.3 Injektor aufbauen** 
+## **4.3 Injektor aufbauen**
 
 Sicherstellen, dass die Kolben eingefahren sind. 
 
@@ -90,11 +69,11 @@ Hinweis: der linke Kolben ist für die Injektion von **Kontrastmittel** vorgeseh
 
 - Die Kontrastmittelflasche und die Na-Cl-Flasche mit der Öffnung nach unten an den beiden Flaschenhaltern aufhängen. 
 
-## **4.4 Patientenschlauch anschließen** 
+## **4.4 Patientenschlauch anschließen**
 
 Den Patientenschlauch an das noch freie Ende des Schlauchsystem MRS 222 anschließen. 
 
-## **4.5 Kontrastmittel und NaCl aufziehen** 
+## **4.5 Kontrastmittel und NaCl aufziehen**
 
  Im Hauptfenster das Füllmenü aufrufen und das Doppelspritzen-Symbol drücken. 
 
@@ -108,7 +87,7 @@ Den Patientenschlauch an das noch freie Ende des Schlauchsystem MRS 222 anschlie
 
 - Wenn der Füllvorgang beendet ist zurück ins Hauptfenster wechseln. 
 
-## **4.6 Schlauchsystem entlüften** 
+## **4.6 Schlauchsystem entlüften**
 
 Die Spritzen und das Schlauchsystem müssen mit Hilfe der Tasten für die manuelle Kolbenbewegung auf der Vorderseite und/oder auf der Rückseite der Bedieneinheit entlüftet werden. 
 
@@ -116,7 +95,7 @@ Die Spritzen und das Schlauchsystem müssen mit Hilfe der Tasten für die manuel
 
 Nach erfolgter Entlüftung das aktive Tastenfeld Entlüftung bestätigen. Erfolgte Entlüftung quittieren. 
 
-## **4.7 Injektionsprofil auswählen** 
+## **4.7 Injektionsprofil auswählen**
 
 Dieser Arbeitsschritt erfolgt am Touchscreen des Bedienfeldes außerhalb des Untersuchungsraums. 
 
@@ -141,7 +120,7 @@ Die Parameter dieses Profils werden im Hauptfenster angezeigt:
 |Kontrastmittel|80 ml|100% Konzentration|Förderrate 5.0 ml/s|
 |NaCl|40 ml|0% Konzentration|Förderrate 5.0 ml/s|
 
-## **4.8 Injektionsprofil ändern** 
+## **4.8 Injektionsprofil ändern**
 
 Jedes Injektionsprofil kann  an die Gegebenheiten des Patienten angepasst werden: 
 
@@ -153,7 +132,7 @@ Jedes Injektionsprofil kann  an die Gegebenheiten des Patienten angepasst werden
 
 Alle Parameter wie Wartezeit, Konzentration und Förderrate werden auf dieselbe Weise editiert! 
 
-## **4.9 Injektion vornehmen** 
+## **4.9 Injektion vornehmen**
 
 Achtung! gestartet wird eine Injektion nur in abgesenkter Position der Spritzen (Injektionsstellung) 
 
@@ -163,7 +142,7 @@ Achtung! gestartet wird eine Injektion nur in abgesenkter Position der Spritzen 
 
 3. Taste "Injektion starten" drücken (die Betriebskontrollleuchte auf dem Bedienfeld blinkt grün) 
 
-## **4.10 Injektion unterbrechen** 
+## **4.10 Injektion unterbrechen**
 
 Berühren des Tastfeldes "Hold" 
 
@@ -171,17 +150,17 @@ Berühren des Tastfeldes "Hold"
 
 2. Soll die unterbrochene Injektion fortgesetzt werden: "Weiter" berühren 
 
-## **4.11 Patientenschlauch entsorgen** 
+## **4.11 Patientenschlauch entsorgen**
 
 Schlauch am Patienten und am Hochdruckinjektor dekonnektieren und entsorgen. Der Patientenschlauch ist ein Einmalartikel und wird nicht wiederverwendet. 
 
-## **5. Zusatzhinweise** 
+# **5. Zusatzhinweise**
 
 Für jeden Patienten müssen die Arbeitsschritte aus Punkt 4.4 bis 4.11 neu vorgenommen werden. 
 
 Weitere Bedienmöglichkeiten der Hochdruckspritze finden sich in der Bedienungsanleitung des Accutron CT-D der Firma Medtron. Diese liegt im Vorraum des Computertomographen aus. 
 
-## **6. Inkrafttreten** 
+# **6. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

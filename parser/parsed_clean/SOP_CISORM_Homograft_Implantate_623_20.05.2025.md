@@ -1,16 +1,16 @@
 **CISORM: Homograft-Implantate** 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Erhöhung der Patientensicherheit sowie Vermeidung der Verwechslung von Homograft-Implantaten durch Sicherstellung eines adäquaten Informationsflusses sowie der Qualitätssicherung bei der Aufbereitung des Implantats. 
 
-## **2. Vorgehen** 
+# **2. Vorgehen**
 
-## **2.1 Bestellvorgang** 
+## **2.1 Bestellvorgang**
 
 Operateur bzw. Operateurin stellen die Indikation für die Verwendung eines Homograft. Die Bestellung des entsprechenden Implantats erfolgt über die Klinik für Herz-, Thorax- und Gefäßchirurgie (HTG) bzw. die Klinik für Chirurgie Angeborener Herzfehler (CAH). Die entsprechenden Sekretariate informieren per E über den Verteiler OP-Administration die OP-Abteilung über die bevorstehende Lieferung. In der E müssen folgende Angaben enthalten sein: OP-Datum, Daten des Empfängers, Homograft-Typ und Implantat-Nummer. 
 
-## **2.2 Entgegennahme, Lagerung, Dokumentation** 
+## **2.2 Entgegennahme, Lagerung, Dokumentation**
 
 Die Annahme der Lieferung erfolgt durch die Mitarbeitenden der OP-Administration bzw. bei deren Abwesenheit durch den OP-Funktionsdienst. 
 
@@ -18,7 +18,7 @@ Die Lagerung des Homograft- Implantats erfolgt im Tiefkühlschrank bei -80° Cel
 
 Die entsprechenden Begleitdokumente werden im OP-Büro im Ordner „Homograft“ abgeheftet, die Aufnahme des Implantats in die Materialdokumentation. 
 
-## **2.3 Implantation** 
+## **2.3 Implantation**
 
 Bereitstellung und Beginn des Auftauvorgangs des Homograft- Implantats im OP-Saal erfolgen im Rahmen der OP-Vorbereitung nach telefonischer Rücksprache mit dem Operateur bzw. der Operateurin. 
 

@@ -7,23 +7,9 @@ AHF/CAH AB0 inkompatible Herztransplantation – Protokoll (AHF/CAH AB0i-HTx)
 
 Klinik für Chirurgie Angeborener Herzfehler – Kinderherzchirurgie Klinik für Angeborene Herzfehler – Kinderkardiologie 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Hintergrund ...................................................................................................................................... 3|
 |---|---|
-|2.|Geltungsbereich ............................................................................................................................... 3|
-|3.|Patientenauswahl ............................................................................................................................ 3|
-|4.|Pre-Transplant ................................................................................................................................. 3|
-|5.|Peri-Transplant ................................................................................................................................ 4|
-|6.|Intraoperativ ..................................................................................................................................... 4|
-|7.|Post-HTx .......................................................................................................................................... 5|
-|8.|Transfusionsrichtlinie Post-HTx ....................................................................................................... 5|
-|9.|Literatur ............................................................................................................................................ 5|
-|Anhang|1. Bestimmung Isoagglutinin-Titer Peri-Transplant im DHZC-Labor mit Gelkarte .......................... 6|
-|Anhang|2. Organisatorischer Ablauf AB0-inkompatible Herztransplantation ............................................... 9|
-|Anhang|3. Cardiopulmonary Bypass (CPB) Management ......................................................................... 10|
 
-## **1. Hintergrund** 
+# **1. Hintergrund**
 
 Die ersten erfolgreichen AB0-inkompatiblen (AB0i) Herztransplantationen (HTx) wurden Ende 1990 in Toronto durchgeführt[1,2] . 
 
@@ -38,17 +24,17 @@ Empfänger einer AB0i-HTx entwickeln keine oder nur sehr schwach nachweisbare An
 |B|B,0|A, AB|
 |AB|AB,B,A,0|---|
 
-## **2. Geltungsbereich** 
+# **2. Geltungsbereich**
 
 Arztdienst Kinderkardiologie (AHF) und Kinderherzchirurgie (CAH), Mitarbeitende Kinderkardiologie. 
 
-## **3. Patientenauswahl** 
+# **3. Patientenauswahl**
 
 Alle Patienten im Alter von unter 24 Lebensmonaten, welche zur Herztransplantation gelistet werden und noch keine signifikante Isoagglutininproduktion aufweisen, kommen für eine AB0i-HTx in Frage. Eine nicht signifikante Antikörperproduktion ist definiert anti-A-IgM- oder anti-B-IgM-Titer unter der Nachweisgrenze oder im niedrigen Titer-Bereich in der Regel ≤ 1:16. 
 
 In Situationen, in denen eine Titer-Bestimmung verfälscht ist (z.B. Transfusionen, ECMO), kann je nach Alter des Patienten eine Risikostratifizierung erfolgen. 
 
-## **4. Pre-Transplant** 
+# **4. Pre-Transplant**
 
 Bei allen Patienten im Alter von 0-24 Monaten sollten im Rahmen der Evaluationsuntersuchungen antiA-IgM- und anti-B-IgM-Titer bestimmt werden. Diese sollten im Fall einer AB0i-Listung alle 4 Wochen wiederholt werden. Anforderungsschein: https://www.ztb-charite.de/wp-content/uploads/Laboranforderung-transfusionsmed.-Diagnostik-5-23.pdf 
 
@@ -60,7 +46,7 @@ nach Überprüfung der organisatorischen Voraussetzungen (Kommunikation des Tran
 
 Patienten, bei denen eine AB0i-HTx in Frage kommen könnte, sollen ausschließlich FFP & TK der Blutgruppe AB erhalten. Einzelne Transfusion von EKs können auch blutgruppengleich erfolgen. 
 
-## **5. Peri-Transplant** 
+# **5. Peri-Transplant**
 
 Im Fall der Annahme eines AB0i-Organangebots: 
 
@@ -74,7 +60,7 @@ Im Fall der Annahme eines AB0i-Organangebots:
 
 **CAVE** : Bei Spenderblutgruppe A ist eine Genotypisierung der A-Untergruppen notwendig. Daher zusätzlich EDTA-Blut vom Spender zur Genotypisierung an das Zentrum für Transfusionsmedizin und Zelltherapie Berlin, Standort CBF, senden. Die Bestimmung der A-Untergruppen hat aber KEINEN Einfluss auf das perioperative Management. 
 
-## **6. Intraoperativ** 
+# **6. Intraoperativ**
 
 Bei tagesaktuell im ZTB bestimmten Titern ≤ 1:4 kann die AB0i-HTx ohne weitere zusätzliche Maßnahmen durchgeführt werden. 
 
@@ -82,7 +68,7 @@ Sollte der Titer > 1:4 sein, erfolgt intraoperativ eine Immunadsorption mittels 
 
 Bei Titern ≤ 1:4 kann die AB0i-HTx durchgeführt werden. Bei Titern > 1:4 muss die Immunadsorption fortgesetzt werden. 
 
-## **7. Post-HTx** 
+# **7. Post-HTx**
 
 Kontrolle der Isoagglutinintiter: 
 
@@ -104,7 +90,7 @@ Aktuell gibt es noch keine validen Daten, ab wann ein Anstieg der donorspezifisc
 
 Ein Anstieg der Isoagglutinintiter im Langzeitverlauf ist gesondert zu diskutieren und kann auch Ausdruck einer Akkommodation anstelle einer Abstoßung sein. 
 
-## **8. Transfusionsrichtlinie Post-HTx** 
+# **8. Transfusionsrichtlinie Post-HTx**
 
 Bei AB0i-HTx gibt es je nach Spender-Empfänger-Blutgruppenkonstellation Folgendes zu beachten (siehe Tabelle). Diese Information ist auch in der Blutbank hinterlegt und lebenslang bei allen Bluttransfusionen zu beachten. 
 
@@ -124,7 +110,7 @@ Bei AB0i-HTx gibt es je nach Spender-Empfänger-Blutgruppenkonstellation Folgend
 |B|A|B,0|AB|AB|
 |B|AB|B,0|AB|AB|
 
-## **9. Literatur** 
+# **9. Literatur**
 
 Das Protokoll ist angelehnt an das AB0i-HTx-Protokoll des Stollery Children’s Hospital in Edmonton, Kanada. 
 

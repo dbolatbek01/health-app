@@ -11,32 +11,13 @@ Reanimation
 
 Klinik für Angeborene Herzfehler – Kinderkardiologie Klinik für Chirurgie Angeborener Herzfehler – Kinderherzchirurgie 
 
-## **Änderungshistorie** 
-
-## **Inhaltsverzeichnis** 
-
-|Änderungen zu Version 1.0 .......................................................................................................................... 3|Änderungen zu Version 1.0 .......................................................................................................................... 3|
 |---|---|
-|1.|Ziel ................................................................................................................................................... 3|
-|2.|Durchführung TTM nach Reanimation ............................................................................................ 3|
-|2.1|Allgemeines ..................................................................................................................................... 3|
-|2.2|TTM-Protokoll Neonaten.................................................................................................................. 5|
-|2.3|TTM-Protokoll jenseits der Neonatalperiode ................................................................................... 6|
-|2.4|TTM-Protokoll erwachsene Patienten ............................................................................................. 7|
-|3.|Standardisierte neurologische Diagnostik ....................................................................................... 8|
-|4.|Hintergrund/Evidenz ........................................................................................................................ 9|
-|4.1|Neonaten ......................................................................................................................................... 9|
-|4.2|Kinder jenseits der Neonatalperiode ............................................................................................. 10|
-|4.3|Erwachsene ................................................................................................................................... 10|
-|5.|Mitgeltende Dokumente ................................................................................................................. 11|
-|6.|Literatur .......................................................................................................................................... 11|
-|Anhang: Blutdruckperzentile....................................................................................................................... 14||
 
 ## **Änderungen zu Version 1.0** 
 
 Ergänzte bzw. geänderte und/oder gelöschte Textpassagen sind gelb markiert. 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Diese SOP legt die abteilungsübergreifenden Vorgehensweisen der Klinik für Angeborene Herzfehler – Kinderkardiologie (AHF) und der Klinik für Chirurgie Angeborener Herzfehler – Kinderherzchirurgie (CAH) für die aktiv kontrollierte Normothermie (Targeted Temperature Management, TTM) bzw. die therapeutische Hypothermie bzw. nach Reanimationsereignissen fest. 
 
@@ -44,9 +25,9 @@ Abweichungen von den in dieser SOP beschriebenen Vorgehensweisen bedürfen einer
 
 Grundlage der in dieser SOP festgelegten Vorgehensweisen für die Indikationsstellung und Durchführung des TTM nach Reanimationsereignissen sind, soweit zutreffend, die aktuellen Empfehlungen gemäß den Leitlinien internationaler und nationaler Fachgesellschaften sowie Ergebnisse und weitere Empfehlungen der aktuellen Literatur (siehe Kap. 4). 
 
-## **2. Durchführung TTM nach Reanimation** 
+# **2. Durchführung TTM nach Reanimation**
 
-## **2.1 Allgemeines** 
+## **2.1 Allgemeines**
 
 ## **Reanimation** 
 
@@ -120,7 +101,7 @@ Aus anderen Gründen als infaust eingeschätzte Prognose. Ggf. Trauma.
 
 ~~**Bei jedem Reanimationsereignis bei Kindern Einschluss in LEADER-Rea-Studie prüfen!**~~ 
 
-## **2.2 TTM-Protokoll Neonaten** 
+## **2.2 TTM-Protokoll Neonaten**
 
 ## **Indikation** 
 
@@ -168,7 +149,7 @@ Analgosedierung (so wenig wie möglich, Bedarf anhand von Skalen/aEEG/Sedline ev
 
 kontrollierte Wiedererwärmung mit 0,25°/h auf 36 °C Beendigung der Analgosedierung/Relaxierung sofern möglich (abhängig von hämodynamischer Stabilität, evtl. offenem Thorax etc.) bei Erreichen Normothermie 36°C **CAVE:** Volumen-/Elektrolytshift bei Wiedererwärmung, regelmäßige BGAs 
 
-## **2.3 TTM-Protokoll jenseits der Neonatalperiode** 
+## **2.3 TTM-Protokoll jenseits der Neonatalperiode**
 
 ## **Indikation** 
 
@@ -226,7 +207,7 @@ Normotension RR (sys >5. Perzentile bzw. MAD > 5. Perzentile wenn ECMO, CAVE Hir
 
 (abhängig von hämodynamischer Stabilität, ECMO, evtl. offenem Thorax etc.) 
 
-## **2.4 TTM-Protokoll erwachsene Patienten** 
+## **2.4 TTM-Protokoll erwachsene Patienten**
 
 ## **Indikation** 
 
@@ -258,7 +239,7 @@ kontrollierte Wiedererwärmung mit 0,25°/h auf 36°C
 
 Beendigung der Analgosedierung/Relaxierung sofern möglich (abhängig von hämodynamischer Stabilität, ECMO, evtl. offenem Thorax etc.) bei Erreichen Normothermie 36°C **CAVE:** Volumen- / Elektrolytshift bei Wiedererwärmung, regelmäßige BGAs 
 
-## **3. Standardisierte neurologische Diagnostik** 
+# **3. Standardisierte neurologische Diagnostik**
 
 ## **Pupillenreaktion** 
 
@@ -324,9 +305,9 @@ Alle Patienten, die neurologische Auffälligkeiten bzw. auffällige neurophysiol
 
 Bei Kindern sollte zudem nach Rücksprache mit den neuropädiatrischen Konsilien die Anbindung an ein neurologisches Sozialpädiatrisches Zentrum (SPZ) angestrebt werden. 
 
-## **4. Hintergrund/Evidenz** 
+# **4. Hintergrund/Evidenz**
 
-## **4.1 Neonaten** 
+## **4.1 Neonaten**
 
 Für Neonaten mit perinataler Asphyxie ist in zahlreichen Studien sowie Metaanalysen gut belegt, dass therapeutische Hypothermie sowohl das Mortalitätsrisiko als auch das Risiko schwerer Entwicklungsstörung nach moderater bis schwerer hypoxisch-ischämischer Enzephalopatie (HIE) signifikant reduziert und die Wahrscheinlichkeit eines Überlebens mit normaler neurologischer Entwicklung signifikant steigert.[2] Aufgrund dieser Studienlage stellt die therapeutische Hypothermie mit einer Körpertemperatur von 33–34 °C für 72 h nach perinataler Asphyxie die von nationalen und internationalen Leitlinien empfohlene Standardtherapie zur Behandlung der HIE dar.[3-5] 
 
@@ -342,7 +323,7 @@ Folgende Kriterien für die Hypothermiebehandlung wurden definiert[3] :
 
 Kritisch bemerkt werden muss jedoch im Hinblick auf die Patienten des DHZC, dass sich die Studien und die entsprechenden Empfehlungen zur Hypothermie ausschließlich auf Neonaten beziehen, die unmittelbar nach dem Geburtsvorgang eine Depression des Kreislauf- und zentralen Nervensystems aufweisen. Ob auch Neugeborene, die nach normaler Geburt und Anpassung sekundär innerhalb der Neonatalperiode mit Atem- und/oder Kreislaufstillstand reanimationspflichtig werden vergleichbar von der Hypothermie profitieren, ist nicht hinreichend untersucht. Außerdem zeigte eine multizentrische randomisierte Studie, dass bei asphyktischen Neonaten die eine ECMO-Therapie benötigen, eine Hypothermiebehandlung von 34°C über 48-72h hinsichtlich des neurologischen Outcomes gegenüber einer Standard-ECMO-Therapie bei konstanter Normothermie von 37°C keinen Vorteil bringt.[6] 
 
-## **4.2 Kinder jenseits der Neonatalperiode** 
+## **4.2 Kinder jenseits der Neonatalperiode**
 
 Die Datenlage zur therapeutischen Hypothermie/TTM nach Reanimationsereignissen bei Kindern jenseits der Neonatalperiode ist weitaus weniger eindeutig als die für Neugeborene mit perinataler Asphyxie. 
 
@@ -354,7 +335,7 @@ Die Ergebnisse des multizentrischen THAPCA-Trials (‚therapeutic hypothermia af
 
 Unter Berücksichtigung dieser neueren Studien hat die Gesellschaft für Neonatologie und pädiatrische Intensivmedizin (GNPI) 2017 eine Stellungnahme mit empfehlendem Charakter verfasst.[15] In dieser wird in der pädiatrischen Postreanimationsbehandlung jenseits der Neonatalperiode ein aktiv kontrolliertes Temperaturmanagement, mit dem primären Ziel der strikten Normothermie (36,0–36,5 °C Körperkerntemperatur) für 3 Tage empfohlen. In der 2019 angesichts der Ergebnisse der THAPCA-Studien erschienenen Aktualisierung der AHA PALS-Leitlinien werden jedoch noch die Verwendung der aktiv kontrollierten Normothermie (TTM mit Zieltemperatur 36-37,5°C) mit der Hypothermie (TTM 32-34°C gefolgt von Normothermie mit TTM 36-37,5°C) gleichwertig sinnvoll („reasonable to use“) angesehen (Klasse 2a; Evidenzlevel B-NR).[16] Ein konkreter Zeitraum der TTM-Behandlung wird aufgrund der begrenzten Evidenz nicht benannt. Im etwas später publizierten ILCOR (International Liaison Committee on Resuscitation) 2019 International Consensus on Cardiopulmonary Resuscitation Statement wird jedoch aufgrund der limitierten Evidenz für Hypothermie ausdrücklich TTM mit Normothermie empfohlen.[17] Eine Aktualisierung der amerikanischen und europäischen Leitlinien ist für 2024/2025 zu erwarten. 
 
-## **4.3 Erwachsene** 
+## **4.3 Erwachsene**
 
 Ausgehend von den positiven Ergebnissen kleinerer Studien Anfang der 2000er Jahre wurde die therapeutische Hypothermie in den Leitlinien zahlreicher Fachgesellschaften für die Postreanimationsbehandlung erwachsener Patienten empfohlen. Ein systematischer Review der Cochrane Database kam 2016 zu dem Ergebnis, dass es inzwischen eine solide Evidenz dafür gibt, das die Hypothermie/TTM nach Atem-Kreislauf-Stillstand im Erwachsenenalter, insbesondere im Vergleich zu Patienten, die ohne Temperaturmanagement behandelt wurden, mit einem besseren neurologischen Outcome verbunden ist.[18] 
 
@@ -364,11 +345,11 @@ Zieltemperatur) nach Reanimation bei Erwachsenen verglichen wurde.[19] Es fanden
 
 Unklarheit besteht weiterhin, ob nach ECPR bei Erwachsenen ein Vorteil hinsichtlich eines verbesserten neurologischen Outcomes besteht, wie eine jüngere Metaanalyse kleinerer nicht-randomisierter Studien andeutet.[27] Zu dieser Fragestellung wurde eine große multizentrische randomisierte Studie durchgeführt (HYPO-ECMO Trial, NCT 02754193). Veröffentlicht sind bislang die Daten zum Überleben, wo sich jedoch kein signifikanter Vorteil der Hypothermie gegenüber der Normothermie zeigte.[28] Die Autoren schlussfolgern jedoch, dass die Ergebnisse aufgrund der weiten Konfidenzintervalle als inkonklusiv eingeschätzt werden müssen. 
 
-## **5. Mitgeltende Dokumente** 
+# **5. Mitgeltende Dokumente**
 
 SOP702 Reanimation von pädiatrischen Patienten mit einem angeborenen Herzfehler DGR002 Diagramm Reanimationsruf Klinik für Angeborene Herzfehler 
 
-## **6. Literatur** 
+# **6. Literatur**
 
 1. Kramer, P. et al. Prognostic value of serum biomarkers of cerebral injury in classifying neurological outcome after paediatric resuscitation. _Resuscitation_ 122, 113-120 (2018). doi:10.1016/j.resuscitation.2017.09.012 
 

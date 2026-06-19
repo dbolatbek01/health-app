@@ -9,34 +9,23 @@ Fernmündliche Beratung bei VAD-assoziierten Notfällen
 
 Klinik für Herz-, Thorax- und Gefäßchirurgie Standort Augustenburger Platz: Arztdienst, Physician Assistants, VAD-Team 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Ziel ................................................................................................................................................... 3|
 |---|---|
-|2.|Prozessverantwortliche Personen/Geltungsbereich ........................................................................ 3|
-|3.|Prozessbeschreibung ...................................................................................................................... 3|
-|3.1|INR- und Blutungsmanagement ...................................................................................................... 3|
-|3.2|Fieber und VAD-assoziierte Infektionen .......................................................................................... 3|
-|3.3|VAD-Alarme bzw. Pumpenthrombosen ........................................................................................... 4|
-|3.4|Kardiale und rhythmogene Notfälle ................................................................................................. 4|
-|3.5|Allgemeine Informationen und Sonstiges ....................................................................................... 5|
-|4.|Inkrafttreten ...................................................................................................................................... 5|
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Diese SOP dient als Handlungsanweisung und -empfehlung für die Betreuung von VAD-Patienten aus dem Deutschen Herzzentrum der Charité (DHZC), Standort Augustenburger Platz, die sich telefonisch über die ärztliche Notfall-Hotline melden. 
 
 ## **VAD-Notfall Hotline: (030) 4593 2288** 
 
-## **2. Prozessverantwortliche Personen/Geltungsbereich** 
+# **2. Prozessverantwortliche Personen/Geltungsbereich**
 
 Die Ausübung des Rufdienstes erfolgt durch ärztliches Personal des VAD-Teams und Physician Assistants. Der Geltungsbereich betrifft beide Berufsgruppen gleichermaßen. 
 
 Bei komplexen Fragen oder Notwendigkeit einer sofortigen Intervention ist der VAD-Hintergrunddienst umgehend zu informieren. 
 
-## **3. Prozessbeschreibung** 
+# **3. Prozessbeschreibung**
 
-## **3.1 INR- und Blutungsmanagement** 
+## **3.1 INR- und Blutungsmanagement**
 
 - Vor Operationen Umstellung auf Heparin i.v. mit Ziel-PTT 60–70 s 
 
@@ -58,7 +47,7 @@ Bei komplexen Fragen oder Notwendigkeit einer sofortigen Intervention ist der VA
 
 - Keine generelle Übernahmeindikation für das DHZB, ggf. Übernahme Kooperationsklinik 
 
-## **3.2 Fieber und VAD-assoziierte Infektionen** 
+## **3.2 Fieber und VAD-assoziierte Infektionen**
 
 - Diagnostik über Rettungsstelle: Labor (Leukozyten, CRP, PCT), 2x2 Blutkulturen und CTBildgebung (Thorax/Abdomen) 
 
@@ -70,7 +59,7 @@ Bei komplexen Fragen oder Notwendigkeit einer sofortigen Intervention ist der VA
 
 - **Übernahme ins DHZC** bei schweren LVAD-assoziierten Infekten (Abszesse, Mediastinitis, Sepsis etc.) 
 
-## **3.3 VAD-Alarme bzw. Pumpenthrombosen** 
+## **3.3 VAD-Alarme bzw. Pumpenthrombosen**
 
 - Alarm quittieren, evtl. „alter Alarm“ 
 
@@ -102,7 +91,7 @@ Bei komplexen Fragen oder Notwendigkeit einer sofortigen Intervention ist der VA
 
 - Rücksprache mit der VAD-Technik 
 
-## **3.4 Kardiale und rhythmogene Notfälle** 
+## **3.4 Kardiale und rhythmogene Notfälle**
 
 - Kardiale Dekompensation mit Übernahmeindikation, je nach Klinik und Schwere Entscheidung der Zielklinik / -station. 
 
@@ -116,13 +105,13 @@ Bei komplexen Fragen oder Notwendigkeit einer sofortigen Intervention ist der VA
 
 - bei Reanimationssituation Info ad VAD-Hintergrund; generell: Mechanische Thorax-Kompression als Ultima Ratio bei fehlender eigener Kreislaufaktivität und LVAD-Dysfunktion (Fluss < 1 Liter/Minute), zuvor maximal medikamentöse/apparative Therapie ausschöpfen. 
 
-## **3.5 Allgemeine Informationen und Sonstiges** 
+## **3.5 Allgemeine Informationen und Sonstiges**
 
 - Kooperation mit Krankenhaus Havelhöhe, Sana Klinikum Lichtenberg, Vivantes Klinikum Neukölln, Vivantes Humboldt Klinikum, Paulinenkrankenhaus, Virchow Klinikum Station 47i 
 
 - Anmeldungen für Prä-VAD-Patienten über VAD-Hintergrund, ggf. dann HI-Hotline (-2277) 
 
-## **4. Inkrafttreten** 
+# **4. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

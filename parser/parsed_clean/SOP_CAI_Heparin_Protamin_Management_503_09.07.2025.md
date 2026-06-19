@@ -6,15 +6,15 @@ Kapitel 5. Tabelle korrigiert:
 
 Primärer Heparinbolus11.000 IE → Benötigte Dosis Protaminsulfat LEO: 6,3 ml ( ~~5,7 ml)~~ 
 
-## **1. Herz-, Thorax- und Gefäßchirurgie mit HLM** 
+# **1. Herz-, Thorax- und Gefäßchirurgie mit HLM**
 
 Die Ziel-ACT bei Eingriffen mit Herz-Lungenmaschine (HLM) ist 480 s. Das Anfahren der HLM vor Erreichen einer ACT von mind. 400 s ist nicht zulässig. 
 
-## **1.1 Initialer Heparin-Bolus** 
+## **1.1 Initialer Heparin-Bolus**
 
 400 IE/kg (bei notfallmäßigem HLM-Anschluss ohne Möglichkeit der ACT-Bestimmung vor Anfahren der EKZ 500 IE/kgKG) 
 
-## **1.2 ACT-Bestimmung** 
+## **1.2 ACT-Bestimmung**
 
 Bei ACT < 450 s additive Gabe von 200 IE/kg Heparin (bei 450 s ≤ ACT < 480 s top-up Dosis von 100 IE/kg Heparin) 
 
@@ -24,11 +24,11 @@ Bei ACT < 450 s additive Gabe von 200 IE/kg Heparin (bei 450 s ≤ ACT < 480 s t
 
 Cave: kein HLM-Beginn bei ACT < 400 s! 
 
-## **1.3 Heparin-Management an HLM** 
+## **1.3 Heparin-Management an HLM**
 
 Die Steuerung der Antikoagulation an HLM erfolgt durch die 
 
-## **1.4 Heparin-Antagonisierung post HLM mit Protamin** 
+## **1.4 Heparin-Antagonisierung post HLM mit Protamin**
 
 Protamin ist ein streng alkalisches, polykationisches niedrigmolekulares Protein, das ursprünglich aus Lachssperma isoliert wurde, aber auch in einer rekombinanten Form bereitgestellt wird. Es komplexiert mit unfraktioniertem Heparin im Verhältnis 1:1 zu einem Salzaggregat, das inaktiv ist und keine antikoagulatorischen Eigenschaften aufweist. Die Halbwertszeit von Protamin beträgt ca. 10 Minuten. Nichtagrregiertes Protamin hat ebenfalls antikoagulatorischen und thrombozyteninhibierenden Effekt, weshalb eine Protaminüberdosierung zu erhöhter Blutungsneigung nach EKZ führen kann. 
 
@@ -36,7 +36,7 @@ Es sind anaphylaktoide und anaphylaktische Reaktionen mit Hypotension, pulmonale
 
 Am DHZC wird Protaminsulfat LEO verwendet, hier enthält 1 ml eine Dosis von 10 mg Protaminsulfat (extrahiert aus Lachssperma), welches **1.400 IE Heparin-Antidot** entspricht. 
 
-## **1.4.1 Modifizierte empirische Dosisstrategie** 
+### **1.4.1 Modifizierte empirische Dosisstrategie**
 
 Da die Korrelation von ACT-Werten und Heparin-Blutspiegeln weder linear noch konsistent ist, kann aus der Höhe der ACT nicht auf die benötigte Protamin-Dosis rückgeschlossen werden. Ohne Bestimmung des Heparin-Blutspiegels kann deshalb nur eine rein empirische, pragmatische Dosisstrategie angewendet werden: 
 
@@ -48,7 +48,7 @@ Da die Korrelation von ACT-Werten und Heparin-Blutspiegeln weder linear noch kon
 
 - Die weitere Applikation von Protamin über die Testdosis hinaus impliziert das definitive Unterbrechen der Kardiotomiesaugung sowie eine unmissverständliche Verbalisierung z. B. mit „Protamin läuft weiter!“ Für einen erneuten HLM-Anschluss muss eine **komplette Re-Heparinisierung** erfolgen. 
 
-## **1.4.2 Titrationsbasierte Dosisstrategie** 
+### **1.4.2 Titrationsbasierte Dosisstrategie**
 
 In besonderen Fällen kann auf eine POC-basierte Heparin-Konzentrationsbestimmung zurückgegriffen werden. Mittels des Medtronic HMS kann über eine in-vitro Heparin/Protamin-Titration die HeparinKonzentration in der Zirkulation bestimmt werden und mittels Schätzung des Gesamtblutvolumens und des HLM-Volumens die notwendige Protamin-Dosis ermittelt werden: 
 
@@ -56,13 +56,13 @@ In besonderen Fällen kann auf eine POC-basierte Heparin-Konzentrationsbestimmun
 
 - Die Applikation der Testdosis, Handhabung der Kardiotomiesaugung und ein etwaiges Wiederanfahren der EKZ erfolgt analog **1.4.1** ! 
 
-## **1.5 V. a. residuale Heparin-Wirkung/-rebound** 
+## **1.5 V. a. residuale Heparin-Wirkung/-rebound**
 
 Bei Verdacht auf residuale Heparin-Wirkung: ROTEM (inkl. HEPTEM) und ggf. „Restheparin“-Bestimmung bzw. erneute Heparin-/Protamin-Titration mittels HMS 
 
-## **2. Chirurgie angeborener Herzfehler / Kinderherzchirurgie** 
+# **2. Chirurgie angeborener Herzfehler / Kinderherzchirurgie**
 
-## **2.1 Abnahme der HDR-Bestimmung in Einleitung** 
+## **2.1 Abnahme der HDR-Bestimmung in Einleitung**
 
 - Ziel-Spiegel ≙ errechnetem Spiegel + 2 IE/ml, aber minimal 6 IE/ml, sonst manuelle Korrektur des Spiegels auf 6 IE/ml (Beispiele: errechneter Spiegel 4,8 IE/ml  Ziel-Spiegel 6,8 IE/ml; errechneter Spiegel 3,5 IE/ml  Zielspiegel 6,0 IE/ml; errechneter Spiegel 6,1 IE/ml  Ziel-Spiegel 8,1 IE/ml). Falls HDR nicht möglich: • NG 600 IE/kg 
 
@@ -70,7 +70,7 @@ Bei Verdacht auf residuale Heparin-Wirkung: ROTEM (inkl. HEPTEM) und ggf. „Res
 
 - > 20 kgKG 400 IE/kg 
 
-## **2.2 ACT-Bestimmung** 
+## **2.2 ACT-Bestimmung**
 
 Bei ACT < 480 s erneute Gabe von 100-200 IE/kg Heparin 
 
@@ -82,11 +82,11 @@ Cave: kein HLM-Beginn bei ACT < 400 s!
 
 ## **CAI: Heparin- und Protamin-Management** 
 
-## **2.3 Heparin-Management an HLM** 
+## **2.3 Heparin-Management an HLM**
 
 Die Steuerung der Antikoagulation an HLM erfolgt durch die 
 
-## **2.4 Titrationsbasierte Protamin-Dosisbestimmung mittels HMS** 
+## **2.4 Titrationsbasierte Protamin-Dosisbestimmung mittels HMS**
 
 Heparin-Antagonisierung im Verhältnis 1:1 analog **1.4.2** 
 
@@ -104,33 +104,33 @@ Ein Wiederanfahren der EKZ nach Beginn der Testdosisapplikation erfordert einen 
 
 Ein Wiederanfahren der HLM nach Protamin-Applikation über die Testdosis hinaus erfordert eine **komplette Re-Heparinisierung** . 
 
-## **2.5 V. a. residuale Heparin-Wirkung/-rebound** 
+## **2.5 V. a. residuale Heparin-Wirkung/-rebound**
 
 „Rest-Heparin“-Bestimmung mittels HMS, ggf. ROTEM inkl. HEPTEM 
 
-## **3. Transkatheterverfahren, Gefäßchirurgie, OPCAB / MIDCAB** 
+# **3. Transkatheterverfahren, Gefäßchirurgie, OPCAB / MIDCAB**
 
-## **3.1 Transkatheterklappenintervention** 
-
-Ziel-ACT in der Regel ≥ 250 s, daher initialer Heparin-Bolus 100 IE/kg ACT-Kontrolle während laufender Intervention alle 30 min 
-
-Antagonisierung mit Protamin in Rspr. mit interventionellem Team: Vollantagonisierung gemäß **5.** , „halbe Dosis Protamin“ s. **6.** 
-
-## **3.2 TEVAR / EVAR** 
+## **3.1 Transkatheterklappenintervention**
 
 Ziel-ACT in der Regel ≥ 250 s, daher initialer Heparin-Bolus 100 IE/kg ACT-Kontrolle während laufender Intervention alle 30 min 
 
 Antagonisierung mit Protamin in Rspr. mit interventionellem Team: Vollantagonisierung gemäß **5.** , „halbe Dosis Protamin“ s. **6.** 
 
-## **3.3 OPCAB / MIDCAB** 
+## **3.2 TEVAR / EVAR**
+
+Ziel-ACT in der Regel ≥ 250 s, daher initialer Heparin-Bolus 100 IE/kg ACT-Kontrolle während laufender Intervention alle 30 min 
+
+Antagonisierung mit Protamin in Rspr. mit interventionellem Team: Vollantagonisierung gemäß **5.** , „halbe Dosis Protamin“ s. **6.** 
+
+## **3.3 OPCAB / MIDCAB**
 
 Ziel-ACT ≥ 300 s, daher initialer Heparin-Bolus 250 IE/kg ACT-Kontrolle während laufender Operation alle 30 min Antagonisierung mit Protamin gemäß **5.** (inkl. Testdosis 3 ml) 
 
 ## CAI: Heparin- und Protamin-Management
 
-## **4. Transfusion von FFP an HLM** 
+# **4. Transfusion von FFP an HLM**
 
-## **4.1 Interdisziplinärer Konsens** 
+## **4.1 Interdisziplinärer Konsens**
 
 zwischen Anästhesist*in und Operateur*in bei erwartet hohem Verlust von gerinnungsrelevanten Plasmaelementen intraoperativ (überproportionaler MAT-Einsatz, DIC, exzessiv lange Bypassdauer) 
 
@@ -144,13 +144,13 @@ Folgende Bedingungen sind zu erfüllen:
 
 - FFPs werden nach der „Null-Bilanz“-Methode einfiltriert (Hämofilter an HLM) 
 
-## **4.2 Anpassung des Heparin-Spiegels durch** 
+## **4.2 Anpassung des Heparin-Spiegels durch**
 
 - HMS-basiert: Anhebung des Heparin-Spiegels auf 6 IE/ml 
 
 - empirisch (nur HTG / erwachsene Patienten): zusätzlich 25.000 IE Heparin als Bolus 
 
-## **5. Empirische Dosierung Protaminsulfat LEO (0,8:1)** 
+# **5. Empirische Dosierung Protaminsulfat LEO (0,8:1)**
 
 |**Primärer Heparinbolus**|**Benötigte Dosis Protaminsulfat LEO**|
 |---|---|
@@ -182,7 +182,7 @@ Folgende Bedingungen sind zu erfüllen:
 
 ## CAI: Heparin- und Protamin-Management
 
-## **6. Empirische Dosierung Protaminsulfat LEO (0,5:1)** 
+# **6. Empirische Dosierung Protaminsulfat LEO (0,5:1)**
 
 |**primärer Heparinbolus**|**benötigte Dosis Protaminsulfat LEO**|
 |---|---|

@@ -23,17 +23,17 @@ Hygieneteam
 Upgrade DHZC
 01.09.2026||
 
-## **1. Hintergrund und Ziel** 
+# **1. Hintergrund und Ziel**
 
 Laut Untersuchung des nationalen Referenzzentrums für Surveillance von nosokomialen Infektionen[1] zählt die primäre Sepsis zu den häufigsten nosokomialen Infektionen. Diese geht mit einer erhöhten Mortalität einher. Eine adäquate Diagnostik und eine schnelle Therapie für den Patienten sind daher, auch bei einer sekundären Sepsis, von größter Bedeutung. Dafür werden Blutkulturen angelegt. Diese SOP regelt das Vorgehen zur Durchführung von Blutkulturen. 
 
-## **2. Allgemeine Hinweise** 
+# **2. Allgemeine Hinweise**
 
 Generell wird empfohlen, bei Erwachsenen und Kindern (Körpergewicht > 36 kg) zwei bis drei Blutkultursets zu beimpfen, um die Trefferquote zu erhöhen. 
 
 Idealerweise werden für die Blutkultursets Blutproben aus unterschiedlichen Punktionsstellen entnommen, um eine Kontamination während der Entnahme auszuschließen. Der klinische Zustand des Patienten sollte den Zeitpunkt für die Blutabnahme zur Durchführung von Blutkulturen bestimmen. 
 
-## **3. Indikation (Beispiele)** 
+# **3. Indikation (Beispiele)**
 
 - Verdacht auf systemische Infektion, Sepsis 
 
@@ -43,7 +43,7 @@ Idealerweise werden für die Blutkultursets Blutproben aus unterschiedlichen Pun
 
 - Verdacht auf Organinfektion 
 
-## **4. Indikation Pilzkulturflasche** 
+# **4. Indikation Pilzkulturflasche**
 
 - Patienten nach Bauchoperationen mit V.a. Peritonitis 
 
@@ -57,7 +57,7 @@ Idealerweise werden für die Blutkultursets Blutproben aus unterschiedlichen Pun
 
 1  Deutsche nationale Punkt-Prävalenzerhebung zu nosokomialen Infektionen und Antibiotika-Anwendung 2022. https://www.nrz-hygiene.de/projekte/praevalenzerhebung/pps-2022 
 
-## **5. Entnahmezeitpunkt** 
+# **5. Entnahmezeitpunkt**
 
 - Möglichst früh nach Auftreten von Fieber und/oder Schüttelfrost 
 
@@ -69,15 +69,15 @@ Idealerweise werden für die Blutkultursets Blutproben aus unterschiedlichen Pun
 
 - Sofern möglich nach Aussetzen der Antibiotika-Therapie („diagnostisches Fenster“) 
 
-## **6. Abnahmeintervall** 
+# **6. Abnahmeintervall**
 
 In klinisch dringenden Fällen (akute Endokarditis, septischer Schock) **drei durch separate Venenpunktionen** gewonnene Blutkulturen **in rascher Folge entnehmen** und gleich mit kalkulierter Antibiotika-Therapie beginnen. In weniger dringenden Fällen **zwei bis drei separate Blutkulturpaare innerhalb von 24 Std. entnehmen** . 
 
-## **7. Laboranforderung** 
+# **7. Laboranforderung**
 
 für jedes Blutkulturpaar wird **eine** Laboranforderung über Lauris ausgedruckt. 
 
-## **8. Durchführung** 
+# **8. Durchführung**
 
 Vor Blutentnahme immer eine sorgfältige **hygienische Händedesinfektion** und **Desinfektion der Punktionsstelle** durchführen! 
 
@@ -95,8 +95,6 @@ Einwirkzeit beachten.
 Die  Punktionsstelle  mit Octeniderm®  desinfizieren . Einwirkzeit beachten.
 Keine erneute Palpation der desinfizierten Einstichstelle  mit unsterilen
 Händen/Handschuhen. Falls nötig, dann nur mit sterilen Handschuhen!
-**----- End of picture text -----**
-
 
 **4.** 
 
@@ -151,12 +149,10 @@ Zwischenlagerung sollte 12-16 Std. nicht überschreiten und
 ausschließlich in Raumtemperatur erfolgen!
 Die Flaschen sollten in einen auslaufsicheren Transportbehälter
 verpackt werden.
-**----- End of picture text -----**
-
 
 **Hinweis** : Die Entnahme aus Kathetersystemen wird wegen Kontaminationsgefahr nicht empfohlen. Ausnahme: Blutkulturpärchen (aerob, anaerob) aus infektionsverdächtigen Kathetern und aus peripherer Vene. 
 
-## **9. Literatur** 
+# **9. Literatur**
 
 1. Deutsche Sepsis-Gesellschaft e.V., Hrsg. Leitlinie Sepsis – Prävention, Diagnose, Therapie und Nachsorge. Stand 31.12.2018, gültig bis 30.12.2023. https://www.awmf.org/leitlinien/detail/ll/079-001.html 
 

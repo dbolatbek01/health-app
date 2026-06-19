@@ -7,28 +7,9 @@ CAI Management von Patienten mit HIT II
 
 Klinik für Kardioanästhesiologie und Intensivmedizin 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Allgemeines ..................................................................................................................................... 3|
 |---|---|
-|2.|Präoperative Diagnostik / Prämedikation ........................................................................................ 3|
-|2.1|Labordiagnostik im DHZC................................................................................................................ 4|
-|2.1.1|Immunoassays ................................................................................................................................. 4|
-|2.1.2|Functional Assays ............................................................................................................................ 4|
-|2.2|bei HIT-II-Anamnese oder -Verdacht ............................................................................................... 5|
-|3.|Standardmanagement ..................................................................................................................... 5|
-|4.|Tirofiban und Heparin-Reexposition ................................................................................................ 5|
-|4.1|Thrombozytenblockade3.................................................................................................................. 6|
-|4.2|Vollantikoagulation ........................................................................................................................... 6|
-|4.3|Terminierung der Thrombozytenblockade ....................................................................................... 6|
-|4.4|Heparinantagonisierung und post HLM-Phase ............................................................................... 6|
-|5.|Heparin-Reexposition ...................................................................................................................... 7|
-|5.1|Vollantikoagulation ........................................................................................................................... 7|
-|5.2|Heparinantagonisierung und post HLM-Phase ............................................................................... 7|
-|6.|Antikoagulation bei TAVI / Endostent / Gefäßchirurgie ................................................................... 7|
-|7.|Mitgeltende Dokumente ................................................................................................................... 8|
 
-## **1. Allgemeines** 
+# **1. Allgemeines**
 
 Plättchenfaktor 4 (PF4) ist ein von aktivierten Thrombozyten freigesetztes Cytokin, welches durch seine positive Ladung einen Komplex mit Polyanionen wie Heparin bilden kann. HIT II wird induziert durch IgGAutoantikörper, welche sog. Neoepitope auf dem positiv geladenen PF4 innerhalb von solchen PF4Heparin Komplexen erkennen. Neoepitop, weil PF4 in diesen Komplexen eine Konformationsänderung erfährt und somit zu einem Neoantigen wird. Dieses kann aktivierte, wahrscheinlich Marginalzonen B-Lymphozyten zur Produktion von anti-PF4/Heparin-IgGs („HIT-Antikörper“) induzieren, welche mit Heparin und PF4 multimolekulare Immunkomplexe bilden. 
 
@@ -36,7 +17,7 @@ Das Fc-Fragment der IgG-Antikörper innerhalb dieser Immunkomplexe vermag an den
 
 Das Management von HIT-II-Patienten mit nachgewiesenen HIT-Antikörpern zielt darauf ab, entweder durch Vermeidung von Heparin die Komplexbildung mit PF4 und den Antikörpern grundsätzlich zu unterbinden bzw. bei Unverzichtbarkeit von Heparin (HLM-Einsatz) die Thrombozytenaggregation und -aktivierung durch HIT-Komplexe pharmakologisch zu verhindern („Plättchen-Anästhesie“). 
 
-## **2. Präoperative Diagnostik / Prämedikation** 
+# **2. Präoperative Diagnostik / Prämedikation**
 
 Zu unterscheiden sind Patienten mit einer **HIT-II-Anamnese** und Patienten mit **V. a. HIT II** . Bei V. a. HIT II ist zunächst eine Bestimmung der klinischen Wahrscheinlichkeit mittels 4T-Score[2] durchzuführen*: 
 
@@ -89,11 +70,11 @@ Bei bestimmten thrombophilen Patientengruppen (z. B. bei Antiphospholipidsyndrom
 
 > 1 Greinacher A. Heparin-Induced Thrombocytopenia. N Engl J Med 2015; 373 :252-61. DOI: 10.1056/NEJMc1510993 2 Lo GK et al. Evaluation of pretest clinical score (4 T's) for the diagnosis of heparin-induced thrombocytopenia in two clinical settings. J Thromb Haemost. 2006;4:759-65. DOI: 10.1111/j.1538-7836.2006.01787.x 
 
-## **2.1 Labordiagnostik im DHZC** 
+## **2.1 Labordiagnostik im DHZC**
 
 Sämtliche HIT-Testverfahren sollten nicht zum Screening von asymptomatischen Patienten ohne entsprechende Anamnese angewendet werden und immer im Kontext der Vortestwahrscheinlichkeit für HIT II interpretiert werden.[3] 
 
-## **2.1.1 Immunoassays** 
+### **2.1.1 Immunoassays**
 
 - **HIT II AK-Schnelltest** : Im Akutlabor am Standort AP sowie im Zentrum für Transfusionsmedizin und Zelltherapie Berlin (ZTB) am Standort MA basierend auf einem IgG-spezifischen LateralFlow Immunoassay ( **LFIA** ) – vergleichbar z. B. mit CoViD-Ag Schnelltests – der nach 10 min. ablesbar ist (Milenia Biotech QuickLine HIT); jederzeit verfügbar und mit hohem negativ-prädiktiven Wert, jedoch weniger spezifisch (Sensitivität: 98,4% / Spezifität: 90,3%)[4] 
 
@@ -109,7 +90,7 @@ Bei der aktuell bestmöglichen Spezifität der Immunoassays um 90% gilt: **Jedes
 
 Zur Verdeutlichung: Wenn man rechnerisch die Vorhersagewerte der Immunoassays mit der Vortestwahrscheinlichkeit des 4T-Scores kombiniert, ist die Wahrscheinlichkeit für das tatsächliche Vorliegen einer HIT II bei Patienten mit einem hohen Score (≥ 6 Punkte) und einem positiven Immunoassay um 93%, während sie für Patienten mit einem niedrigen Score (< 3 Punkte) und positivem Immunoassay um 2% liegt.[5] 
 
-## **2.1.2 Functional Assays** 
+### **2.1.2 Functional Assays**
 
 - **Heparin-induced Platelet Aggregation Assay (HIPA)** : gewaschene, funktionstüchtige menschliche Spenderblutplättchen werden auf einer Mikrotiterplatte mit Patientenserum und mit Heparin in verschiedenen Konzentrationen inkubiert, die Auswertung (Aktivierung, Aggregation) erfolgt visuell; wird nur wochentags (Mo, Mi, Fr) je nach Probenaufkommen im Zentrum für Transfusionsmedizin und Zelltherapie Berlin (ZTB) am Standort CBF durchgeführt, definitiver Ausschluss- bzw. Bestätigungstest, aber langer Turnover 
 
@@ -123,7 +104,7 @@ Zur Verdeutlichung: Wenn man rechnerisch die Vorhersagewerte der Immunoassays mi
 
 > 4 Nagler M et al. Diagnostic value of immunoassays for heparin-induced thrombocytopenia: a systematic review and meta-analysis. Blood 2016;127:546-57. DOI: 10.1182/blood-2015-07-661215 5 Cuker A. Does my patient have HIT? There should be an app for that. Blood 2016; 127:522–4. DOI: 10.1182/blood-2015-11-679811 
 
-## **2.2 bei HIT-II-Anamnese oder -Verdacht** 
+## **2.2 bei HIT-II-Anamnese oder -Verdacht**
 
 Je nach Dringlichkeit der OP-Indikation bzw. zeitlichem Vorlauf ist folgendes diagnostisches Schema bei Patienten mit HIT-II-Anamnese oder bei HIT-Verdacht mit 4T-Score > 3 Punkten anzuwenden: 
 
@@ -140,10 +121,8 @@ oder grenzw.
 1. AK-Schnelltest   2. HIPA,  ggf.  ELISA   3. HIPA
   
 Heparin  Heparin Heparin
-**----- End of picture text -----**
 
-
-## **3. Standardmanagement** 
+# **3. Standardmanagement**
 
 - Patienten mit entfernter oder unklarer HIT-II-Anamnese, bei denen mittels functional assay (HIPA oder SRA) eine HIT II ausgeschlossen wurde, 
 
@@ -151,7 +130,7 @@ Heparin  Heparin Heparin
 
 - Patienten mit V. a. HIT II und einem 4T-Score > 3 ohne HIT II Anamnese bei negativem Immunoassay (LFIA und/oder ELISA) und/oder functional assay (HIPA oder SRA) werden für sämtliche Indikationen standardmäßig antikoaguliert, z. B. nach SOP503 Heparin-und Protamin-Management. 
 
-## **4. Tirofiban und Heparin-Reexposition** 
+# **4. Tirofiban und Heparin-Reexposition**
 
 - Patienten mit positivem functional assay (HIPA oder SRA) und 
 
@@ -165,7 +144,7 @@ Jede zusätzliche Heparinexposition abseits der HLM-Phase (z. B. Thromboseprophy
 
 _Cave_ : Die Handelsnamen von Tirofiban (Aggrastat®) und Argatroban (Argatra®) ähneln sich stark. Hier ist erhöhte Vigilanz gefordert, da beide Substanzen für sehr unterschiedliche Indikationen im Rahmen des Managements von Patienten mit HIT II zum Einsatz kommen! 
 
-## **4.1 Thrombozytenblockade[3]** 
+## **4.1 Thrombozytenblockade[3]**
 
 (Mindestens) 10 min. vor Heparinbolusgabe: Tirofiban (Aggratstat®)-Bolus **10 µg/kgKG** und Start der Infusion mit **0,15 µg/kg/min** (s. Dosierungstabelle) 
 
@@ -185,7 +164,7 @@ _Cave_ : Die Handelsnamen von Tirofiban (Aggrastat®) und Argatroban (Argatra®)
 
 bei dialysepflichtiger Niereninsuffizienz  Bolusgabe ausreichend, keine Infusion bei Thrombozytenzahl > 300 x10³/µl  1,5-facher Bolus (15 µg/kgKG) bei ungeplanter Rückkehr an die HLM  erneuter Bolus 0,5-fach (5 µg/kgKG) 
 
-## **4.2 Vollantikoagulation** 
+## **4.2 Vollantikoagulation**
 
 (Frühestens) 10 min. nach Tirofibanbolusapplikation: 
 
@@ -195,11 +174,11 @@ bei dialysepflichtiger Niereninsuffizienz  Bolusgabe ausreichend, keine Infus
 
 - Bestätigung ACT ≥ 480 s vor Bypassbeginn 
 
-## **4.3 Terminierung der Thrombozytenblockade** 
+## **4.3 Terminierung der Thrombozytenblockade**
 
 Ca. 1 h vor antizipiertem HLM-Weaning Tirofiban-Infusion beenden. Bei Anurie während oder nach HLM: Ultrafiltration bzw. CRRT erwägen, da Tirofiban > 70% renal eliminiert wird. 
 
-## **4.4 Heparinantagonisierung und post HLM-Phase** 
+## **4.4 Heparinantagonisierung und post HLM-Phase**
 
 Nach HLM-Abgang zügige Infusion des residualen HLM-Vollblutes. Heparin-Antagonisierung mit Protamin. Keine Reinfusion von heparinisiertem Blut nach Abschluss der Protamingabe. 
 
@@ -209,7 +188,7 @@ Das Gerinnungsmanagement im Rahmen der Blutstillung erfolgt gemäß SOP501, die 
 
 Bei der Übergabe auf die weiterversorgende Einheit ist auf die Notwendigkeit einer alternativen Antikoagulation explizit hinzuweisen. 
 
-## **5. Heparin-Reexposition** 
+# **5. Heparin-Reexposition**
 
 - Patienten mit bestätigter HIT-II-Anamnese aber negativem Immunoassay (LFIA und/oder ELISA) und/oder negativem functional assay (HIPA oder SRA) 
 
@@ -217,17 +196,17 @@ Bei der Übergabe auf die weiterversorgende Einheit ist auf die Notwendigkeit ei
 
 werden an HLM nach diesem Therapieschema behandelt. Die Heparin-Reexposition nur während der HLM-Phase wird als sicher angesehen, da eine (erneute) Antikörper-Bildung über Tage stattfindet. Vor und nach HLM ist jede weitere Heparinapplikation (z. B. Thromboseprophylaxe, MAT, CRRT, Coating von Schläuchen, Filtern oder Kathetern) unbedingt zu vermeiden! Der „Cell-Saver“ wird daher auch hier von Beginn an mit Natriumcitrat 4% als Antikoagulanz bestückt. 
 
-## **5.1 Vollantikoagulation** 
+## **5.1 Vollantikoagulation**
 
 - Heparinbolus 400 IE/kgKG (bzw. gemäß HepCon® HDR, falls durchgeführt), s. SOP503 
 
 - Bestätigung ACT ≥ 480 s vor Bypassbeginn 
 
-## **5.2 Heparinantagonisierung und post HLM-Phase** 
+## **5.2 Heparinantagonisierung und post HLM-Phase**
 
 Keine weitere Heparinexposition nach HLM. Das Gerinnungsmanagement im Rahmen der Blutstillung erfolgt gemäß SOP501. Es müssen heparinfreie PPSB-Präparate verwendet werden (Cofact®). Bei der Übergabe auf die weiterversorgende Einheit ist auf die Notwendigkeit einer alternativen Antikoagulation explizit hinzuweisen. 
 
-## **6. Antikoagulation bei TAVI / Endostent / Gefäßchirurgie** 
+# **6. Antikoagulation bei TAVI / Endostent / Gefäßchirurgie**
 
 - Patienten mit positivem functional assay (HIPA oder SRA), 
 
@@ -257,7 +236,7 @@ können i. R. der o. g. Eingriffsformen einmalig Heparin-reexponiert werden. Es 
 
 Der ggf. genutzte „Cell-Saver“ wird auch i. R. der o. g. Eingriffsformen bei den aufgeführten Patientengruppen mit Natriumcitrat 4% als Antikoagulanz bestückt. 
 
-## **7. Mitgeltende Dokumente** 
+# **7. Mitgeltende Dokumente**
 
 SOP501 CAI Gerinnungsmanagement SOP503 CAI Heparin- und Protamin-Management 
 

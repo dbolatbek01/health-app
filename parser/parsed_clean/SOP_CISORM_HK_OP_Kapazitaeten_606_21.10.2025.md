@@ -5,9 +5,9 @@
 
 ## Punkt 1.3 Reduktion der täglichen Betriebszeit des HK5 CCM 
 
-## **1. HK-Kapazitäten** 
+# **1. HK-Kapazitäten**
 
-## **1.1 HK-Betriebszeiten** 
+## **1.1 HK-Betriebszeiten**
 
 Folgende HK-Betriebszeiten existieren im DHZC: 
 
@@ -24,7 +24,7 @@ Folgende HK-Betriebszeiten existieren im DHZC:
 |L+- Saal|720|08:00 – 20:00|
 |XL - Saal|840|08:00 – 22:00|
 
-## **1.2 HK-Kapazitätsverteilung Standort CBF** 
+## **1.2 HK-Kapazitätsverteilung Standort CBF**
 
 |||Minuten||
 Minuten||Minuten||Minuten|**Freitag**|Minuten|**Bemerkung**|
@@ -42,7 +42,7 @@ Minuten||Minuten||Minuten|**Freitag**|Minuten|**Bemerkung**|
 |||||||||||||
 |**Summe**||**2010**||**2010**||**2010**||**2010**||**2010**||
 
-## **1.3 HK-Kapazitätsverteilung Standort CCM** 
+## **1.3 HK-Kapazitätsverteilung Standort CCM**
 
 |||Minuten||Minuten||Minuten||Minuten||Minuten|**Bemerkung**|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -71,7 +71,7 @@ LAA|**630**|EPU + Coro|**630**|Loops/Coro
 
 Geltungsbereich: HK-OPs, Hybrid-OPS, OPBereiche und alle daran beteiligten Abt. 
 
-## **1.4 HK-Kapazitätsverteilung Standort CVK** 
+## **1.4 HK-Kapazitätsverteilung Standort CVK**
 
 |||
 Minuten||Minuten||
@@ -103,9 +103,9 @@ der EPU|
 
 Geltungsbereich: HK-OPs, Hybrid-OPS, OPBereiche und alle daran beteiligten Abt. 
 
-## **2. OP- Kapazität** 
+# **2. OP- Kapazität**
 
-## **2.1 OP- Betriebszeiten** 
+## **2.1 OP- Betriebszeiten**
 
 In Anlehnung an die Charité-OPM-Nomenklatur existieren folgende Saal-Betriebszeiten im DHZC: 
 
@@ -117,7 +117,7 @@ In Anlehnung an die Charité-OPM-Nomenklatur existieren folgende Saal-Betriebsze
 |L-Saal|720|08:00–20:00|
 |L+-Saal|840|08:00– 22:00|
 
-## **2.2 OP- Kapazität** 
+## **2.2 OP- Kapazität**
 
 |||**Gerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte AP & MA)**|**Gerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte AP & MA)**|**Gerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte AP & MA)**|**Gerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte AP & MA)**|**Gerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte AP & MA)**|**Gerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte AP & MA)**|**Gerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte AP & MA)**|**Gerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte AP & MA)**|**Gerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte AP & MA)**|**Gerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte AP & MA)**|**Gerade KW: OP-Kapazitätsverteilung DHZC CVK(Standorte AP & MA)**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -231,15 +231,15 @@ Minuten|**Samstag**|Minuten|
 ||||||||||||||
 |AHF||0||0||45||0||0||0|
 
-## **2.3 Kardiologische OP-Kapazität** 
+## **2.3 Kardiologische OP-Kapazität**
 
 Elektive Fälle mit chirurgischem Stand-by werden in Abstimmung mit der HTG in den Device-Kapazitäten geplant. 
 
-## **2.4 Notfallversorgung** 
+## **2.4 Notfallversorgung**
 
 Die Inbetriebnahme eines zusätzlichen mit Rufdiensten betriebenen OP-Saals zur Versorgung von Notfällen hat automatisch zur Folge, dass zum nächstmöglichen Zeitpunkt ein elektiv laufender OP-Saal gestoppt wird um die Zahl der mit Regelarbeitszeit zu besetzenden OP-Säle wieder zu erreichen. Dies gilt unabhängig von der operierenden Fachabteilung und stellt sicher, dass jederzeit Personal zur Versorgung weiterer Notfälle vorhanden ist. 
 
-## **2.5 Rufdienst-Personal** 
+## **2.5 Rufdienst-Personal**
 
 Der Einsatz von Personal im Rufdienst zur Versorgung elektiv-geplanter Patienten ist nicht zulässig. Einzige Ausnahme ist die Kompensation von kurzfristigen Ausfällen einer einzelnen Berufsgruppe, um eine effiziente Nutzung der bei den übrigen Berufsgruppen vorhandenen Regelarbeits-Kapazität zu sichern. 
 

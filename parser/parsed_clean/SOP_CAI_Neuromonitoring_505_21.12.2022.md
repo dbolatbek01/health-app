@@ -7,24 +7,7 @@ ANÄ Neuromonitoring
 
 Klinik für Kardioanästhesiologie und Intensivmedizin 
 
-## **Änderungshistorie** 
-
-## **Inhaltsverzeichnis** 
-
-|1.|Neuromonitoring .............................................................................................................................. 3|
 |---|---|
-|1.1|Pupillenverlaufskontrolle .................................................................................................................. 4|
-|1.2|Prozessiertes EEG (SedLine®) ....................................................................................................... 4|
-|1.2.1|Narkosetiefemonitoring .................................................................................................................... 4|
-|1.2.2|Neuroprotektion ........................................................................**Fehler! Textmarke nicht definiert.**|
-|1.2.3|Ischämiemonitoring in Kombination mit NIRS ................................................................................. 4|
-|1.3|NIRS ................................................................................................................................................ 4|
-|1.3.1|Ischämiemonitoring - Indikationen Erwachsene .............................................................................. 4|
-|1.4|Liquordruckmessung und -drainage ................................................................................................ 5|
-|1.5|Motorisch und somatosensorisch evozierte Potenziale (MEP / SSEP) .......................................... 5|
-|2.|Interventionsempfehlungen ............................................................................................................. 5|
-|2.1|Interventionsleitfaden NIRS ............................................................................................................. 6|
-|3.|Inkrafttreten ...................................................................................................................................... 6|
 
 ## **Änderungen zu Version 2.0** 
 
@@ -46,21 +29,21 @@ Kapitel 1.2.2 Neuroprotektion gelöscht
 
 Kapitel 1.3.1 Ischämie-Monitoring – Indikationen Erwachsene gelöscht: Carotis-subclavia-Bypass, Carotis-TEA ( ~~ggf. zusätzlich SSEP)~~ 
 
-## **1. Neuromonitoring** 
+# **1. Neuromonitoring**
 
 Grundsätzlich soll bei **allen** Verfahren des Neuromonitorings ein Ausgangsbefund **vor Narkosebeginn** dokumentiert werden (Ausnahme: Evozierte Potentiale s. u.). 
 
 Vorbestehende neurologische Auffälligkeiten (u. a. Residuen nach Apoplex, veränderter Pupillenstatus, Dysarthrie) sollen in m.life im Fließtext dokumentiert werden. 
 
-## **1.1 Pupillenverlaufskontrolle** 
+## **1.1 Pupillenverlaufskontrolle**
 
 - Bei jedem Eingriff vor Narkosebeginn präoperativen Ausgangsbefund dokumentieren 
 
 - Bei allen Eingriffen Verlaufskontrolle intraoperativ (insbesondere nach embolieträchtigen Manipulationen und Ischämiegefährdung wie Aortenkanülierung, Klemmen und Wiedereröffnen der Aorta, während der selektiven antegraden Kopfperfusion, während der Klemmung der Carotis bei CS-Bypass, nach Wiedererwärmung, nach HLM-Abgang etc.) und bei OP-Ende 
 
-## **1.2 Prozessiertes EEG (SedLine®)** 
+## **1.2 Prozessiertes EEG (SedLine®)**
 
-## **1.2.1 Narkosetiefe-Monitoring** 
+### **1.2.1 Narkosetiefe-Monitoring**
 
 - für alle Eingriffe mit erwarteter OP-Dauer > 30 Minuten 
 
@@ -72,7 +55,7 @@ Vorbestehende neurologische Auffälligkeiten (u. a. Residuen nach Apoplex, verä
 
 - Interpretation immer im Kontext mit Roh-EEG und DSA (Density Spectral Array) zur Plausibilitätskontrolle (z. B. können EKG-Artefakte bei hypertrophem Ventrikel oder Shivering als EMG-Artefakte zu falsch hohem PSI führen) 
 
-## **1.2.2 Ischämiemonitoring in Kombination mit NIRS** 
+### **1.2.2 Ischämiemonitoring in Kombination mit NIRS**
 
 - Ein Abfall der Grund- bzw. Eckfrequenzen (gut zu erkennen in der DSA) ohne entsprechende Vertiefung der Narkose ist als Warnzeichen, insbesondere bei unilateralem Auftreten, einer cerebralen Ischämie / Malperfusion zu werten 
 
@@ -80,9 +63,9 @@ Vorbestehende neurologische Auffälligkeiten (u. a. Residuen nach Apoplex, verä
 
 - Interventionen analog zum Interventionsleitfaden NIRS-Abfall (s. 2.2) 
 
-## **1.3 NIRS** 
+## **1.3 NIRS**
 
-## **1.3.1 Ischämie-Monitoring – Indikationen Erwachsene** 
+### **1.3.1 Ischämie-Monitoring – Indikationen Erwachsene**
 
 Intraoperativ: 
 
@@ -124,17 +107,17 @@ Bilaterale cerebrale Messung, Ausgangswerterhebung vor Narkoseinduktion, Verlauf
 
 - anästhesiol. Maßnahmen entsprechend Interventionsleitfaden (s. 2.2.) 
 
-## **1.4 Liquordruckmessung und -drainage** 
+## **1.4 Liquordruckmessung und -drainage**
 
 - bei TAAE und TEVAR mit hohem Risiko für Paraplegie (s. SOP 570 Spinalkatheter (TAAE / TEVAR)) 
 
-## **1.5 Motorisch und somatosensorisch evozierte Potenziale (MEP / SSEP)** 
+## **1.5 Motorisch und somatosensorisch evozierte Potenziale (MEP / SSEP)**
 
 - bei TAAE und TEVAR mit erhöhtem Risiko für eine spinale Ischämie; die Indikationsstellung erfolgt durch den zuständigen Chirurgen, ggf. auch bei Eingriffen an der Arteria carotis (Carotis-TEA) oder dem Aortenbogen 
 
 - Bilaterale Ableitung von somatosensorischen und motorischen EP der unteren und oberen Extremitäten zur Identifizierung einer spinalen Ischämie und DD einer peripheren oder cerebralen Ischämie 
 
-## **2. Interventionsempfehlungen** 
+# **2. Interventionsempfehlungen**
 
 Anästhesiologische Maßnahmen zur Verbesserung des cerebralen Perfusionsdruckes und cerebralen O2-Angebotes: 
 
@@ -146,9 +129,9 @@ Anästhesiologische Maßnahmen zur Verbesserung des cerebralen Perfusionsdruckes
 
 - bei Verdacht auf Hirnödem zur ICP-Senkung zusätzlich 250 ml Mannitol, 8 mg Fortecortin (wenn Urbasongabe >4 h zurückliegend), und leichte Hyperventilation 
 
-## **2.1 Interventionsleitfaden NIRS** 
+## **2.1 Interventionsleitfaden NIRS**
 
-## **3. Inkrafttreten** 
+# **3. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

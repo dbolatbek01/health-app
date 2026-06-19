@@ -7,23 +7,7 @@ Elektrische Kardioversion: Vorbereitung und Durchführung
 
 DHZC alle Standorte 
 
-## **Inhaltsverzeichnis** 
-
-|Änderungen zur Vorversion .......................................................................................................................... 3|Änderungen zur Vorversion .......................................................................................................................... 3|
 |---|---|
-|1.|Ziel ................................................................................................................................................... 3|
-|2.|Definition .......................................................................................................................................... 3|
-|3.|Durchführung ................................................................................................................................... 4|
-|3.1|Personal ........................................................................................................................................... 4|
-|3.2|Ort und notwendige Materialien ....................................................................................................... 4|
-|3.3|Vorbereitung (Checkliste) ................................................................................................................ 4|
-|3.4|Sedierung ........................................................................................................................................ 5|
-|3.5|Kardioversion ................................................................................................................................... 5|
-|3.6|Überwachung ................................................................................................................................... 5|
-|4.|Dokumentation ................................................................................................................................. 6|
-|5.|Antikoagulation nach Kardioversion ................................................................................................ 6|
-|6.|Quellen............................................................................................................................................. 6|
-|Checkliste zur Vorbereitung für elektrische Kardioversion ........................................................................... 7||
 
 ## **Änderungen zur Vorversion** 
 
@@ -31,11 +15,11 @@ DHZC alle Standorte
 
 ˗ In-Text-Ergänzungen gelb markiert. 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Etablierung eines standardisierten Vorgehens für die Vorbereitung und Durchführung von elektrischen Kardioversionen am Deutschen Herzzentrum der Charité an allen Standorten. 
 
-## **2. Definition** 
+# **2. Definition**
 
 Die elektrische Kardioversion dient der Konversion von unterschiedlichen Herzrhythmusstörungen wie z.B. Vorhofflimmern, Vorhofflattern oder tachykarden ventrikulären Rhythmusstörungen in einen normalen Herzrhythmus. Dabei wird ein elektrischer Impuls über die Brust auf das Herz übertragen, um die Aktivität der Herzmuskelzellen zu synchronisieren und eine reguläre elektrische Aktivität vom Sinusknoten oder Herzschrittmacher ausgehend zu ermöglichen. Eine pharmakologische Kardioversion ist weniger effektiv, erfordert aber keine Sedierung und sollte bei frustraner elektrischen Kardioversion alternativ oder komplementär in Betracht gezogen werden. 
 
@@ -49,9 +33,9 @@ b) Eine dringliche Kardioversion erfolgt bei hämodynamisch instabilen Patienten
 
 **CAVE!** Bei Kammerflimmern darf die Synchronisierung **nicht** angewendet werden, da sie in diesem Fall die Abgabe des Schocks verhindert. 
 
-## **3. Durchführung** 
+# **3. Durchführung**
 
-## **3.1 Personal** 
+## **3.1 Personal**
 
 Erforderliche Anwesenheit: zwei Ärzte oder ein Arzt und ein Krankenpfleger: 
 
@@ -59,7 +43,7 @@ Erforderliche Anwesenheit: zwei Ärzte oder ein Arzt und ein Krankenpfleger:
 
 - b) Durchführender Arzt mit umfassender Intensiverfahrung und Krankenpfleger 
 
-## **3.2 Ort und notwendige Materialien** 
+## **3.2 Ort und notwendige Materialien**
 
  Station mit der Möglichkeit eines vollständigen Monitorings (EKG, nicht-invasive Blutdruckmessung, Pulsoxymetrie) aber auch mit der Möglichkeit einer notfallmäßigen NIV-Therapie und ggf. einer invasiven Beatmung, wobei Kapnometrie bei invasiver Beatmung obligatorisch und bei O2-Maske dringlich zu empfehlen; 
 
@@ -81,7 +65,7 @@ Erforderliche Anwesenheit: zwei Ärzte oder ein Arzt und ein Krankenpfleger:
 
 - Notfallmedikamente (Adrenalin 100µg/mL, Noradrenalin 10 und 100µg/mL, Atropin 1mg/10mL). 
 
-## **3.3 Vorbereitung (Checkliste)** 
+## **3.3 Vorbereitung (Checkliste)**
 
 (Tabellarische Checkliste im Anhang) 
 
@@ -109,7 +93,7 @@ Erforderliche Anwesenheit: zwei Ärzte oder ein Arzt und ein Krankenpfleger:
 
 - Da Vorhofflimmern häufig auch spontan konvertiert, ist der abschließende EKG-Check vor Einleitung der invasiven Maßnahmen (d.h. vor 1. der Sedierung, 2. der TEE und 3. der Kardioversion) verpflichtend und soll dokumentiert werden. 
 
-## **3.4 Sedierung** 
+## **3.4 Sedierung**
 
 Die elektrische Kardioversion erfolgt immer in Kurznarkose. Ausnahme ist die notfallmäßige Kardioversion bei lebensbedrohlichen Tachykardien mit fehlendem Bewusstsein. Das Ziel der Kurznarkose ist eine suffiziente Ausschaltung des Bewusstseins bei erhaltener Spontanatmung. Es muss stets mit einem Aussetzen der Spontanatmung gerechnet werden, was primär regelhaft mit einer passageren Beutel-Masken-Beatmung überbrückt werden kann. Meistens werden für die Kurznarkose eines der folgenden Medikamente verwendet: 
 
@@ -119,7 +103,7 @@ Die elektrische Kardioversion erfolgt immer in Kurznarkose. Ausnahme ist die not
 
 - Die Kenntnis des Nebenwirkungsprofils der jeweiligen Analgosedierung wird vorausgesetzt. 
 
-## **3.5 Kardioversion** 
+## **3.5 Kardioversion**
 
  12-Kanal-EKG-Aufzeichnung und Überprüfung auf Vorliegen einer kardiovertierbaren Herzrhythmusstörung, ggf. Nachweis über effektive therapeutische Antikoagulation vor der Prozedur bzw. durchgeführten Thrombenausschluss durch TEE; 
 
@@ -141,7 +125,7 @@ Die elektrische Kardioversion erfolgt immer in Kurznarkose. Ausnahme ist die not
 
 - Beim Vorhandensein eines Schrittmachers/ICD/CRT eine Device-Kontrolle planen. 
 
-## **3.6 Überwachung** 
+## **3.6 Überwachung**
 
 - Überwachungsmonitoring (Rhythmus, SpO2, NIBP-Intervall initial noch zwei-, im Verlauf fünf-minütig / IBP) muss bis zum vollständigen Wiedererwachen, bzw. Erreichen des Ausgangszustandes ununterbrochen erfolgen, Kapnometrie wird dringend empfohlen; 
 
@@ -151,15 +135,15 @@ Die elektrische Kardioversion erfolgt immer in Kurznarkose. Ausnahme ist die not
 
 - Zurückverlegung auf die zu verlegende Station, wenn der Patient wach, kreislauf- und respiratorisch stabil ist. 
 
-## **4. Dokumentation** 
+# **4. Dokumentation**
 
 Vor Verlegung erfolgt sorgfältige und lückenlose Dokumentation der Kardioversion. Dazu gehören die Indikation für den Eingriff, die verwendete Energie und Anzahl der Schocks sowie verabreichte Medikamente und das Ergebnis des Eingriffs inkl. eines gespeicherten 12-Kanal-EKG.  Ebenfalls sollten alle eventuellen Komplikationen, unerwünschte Reaktionen oder Medikamentennebenwirkungen dokumentiert werden. Der Arzt ist für die Dokumentation im PDMS verantwortlich. Die Aufgabe der Dokumentation kann allerdings an qualifiziertes Pflegepersonal oder an Physician Assistants delegiert werden. 
 
-## **5. Antikoagulation nach Kardioversion** 
+# **5. Antikoagulation nach Kardioversion**
 
 Nach einer elektrischen Kardioversion sollte die orale Antikoagulation (OAK) für mindestens 4 Wochen fortgesetzt werden, um das Risiko von Thromboembolien zu reduzieren. Die weitere Fortführung der Therapie hängt von individuellen Thromboembolierisiko (CHA2DS2-VASc-Score) ab und sollte nach den aktuellen ESC-Leitlinien fortgeführt werden. 
 
-## **6. Quellen** 
+# **6. Quellen**
 
 1. Hindricks G et al. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS): The Task Force for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC. Eur Heart J 2021;42:373-498. https://doi.org/10.1093/eurheartj/ehaa612 
 

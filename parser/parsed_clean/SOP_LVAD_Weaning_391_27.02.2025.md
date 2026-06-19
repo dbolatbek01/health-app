@@ -17,11 +17,11 @@ LVAD-Pumpenstopp Echo-Protokoll
 
 Änderungen zu Version 1.0 gelb markiert (S. 3) 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Die vorliegende SOP regelt und standardisiert die Untersuchungen am DHZC, welche vor elektiver Explantation eines linksventrikulären Unterstützungssystems (LVAD) erforderlich sind 1,2. Explantationen in dringlichen Fällen, z.B. bei rezidivierenden Infektionen oder Thrombembolien, können auch außerhalb des Protokolls erforderlich sein. 
 
-## **2. Einschlusskriterien in das Protokoll** 
+# **2. Einschlusskriterien in das Protokoll**
 
 Bei allen Patienten, bei denen eine elektive Explantation des LVAD erwogen wird, sollte bezüglich ihrer Herzinsuffizienz eine optimale medikamentöse Behandlung und eine psychosomatische Evaluierung vorliegen. Zusätzlich müssen folgende Kriterien im Rahmen eines Screenings erfüllt sein, damit der Patient in das Protokoll eingeschlossen werden kann: 
 
@@ -47,7 +47,7 @@ Bei allen Patienten, bei denen eine elektive Explantation des LVAD erwogen wird,
 
 Alle Patienten, bei denen die Genese der Herzinsuffizienz nicht ischämisch ist, sollten bezüglich einer möglichen genetischen Testung evaluiert werden. Diese ist zwingend vor der Explantationsdiagnostik ambulant durchzuführen. 
 
-## **3. Pumpenstopp-Echokardiographie** 
+# **3. Pumpenstopp-Echokardiographie**
 
 Es erfolgt immer eine Messung mit normalem und reduziertem Fluss sowie eine Messung mit Pumpenstopp. Die Mindestzeit zwischen den Messungen beträgt 4 Minuten. Es wird das vorgeschriebene Protokoll (s. Anlage) verwendet. Nach Durchführung des Echos wird ein Protokoll per E an das Weaning-Team versendet. 
 
@@ -95,7 +95,7 @@ Sämtliche während der Echokardiographie erhobenen Befunde werden im Protokoll 
 
 **Wichtig** : Sollten in der Basis-Echokardiographie, also vor Reduktion des Pumpenflusses, schon Ausschlusskriterien nachweisbar sein, so ist eine Reduktion der Pumpe nicht mehr erforderlich. 
 
-## **4. Rechtsherzkatheter (RHK)** 
+# **4. Rechtsherzkatheter (RHK)**
 
 Antikoagulationsregime 
 
@@ -131,7 +131,7 @@ Antikoagulationsregime
 
 - Anstieg der Herzfrequenz >100/min 
 
-## **5. Follow-up** 
+# **5. Follow-up**
 
 Jeder explantierte Patient sollte sich im ersten Jahr mindestens zweimal, dann einmal im Jahr in der Herzinsuffizienz-Sprechstunde vorstellen. Dort Anamnese inkl. NYHA-Stadium, Echo, EKG, NT-ProBNP, **6 MWT** , ggf. Spiroergometrie. 
 

@@ -13,30 +13,9 @@ Klinik für Kardioanästhesie und Intensivmedizin Klinik für Herz-, Thorax-, un
 
 Ärztlicher Direktor 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Ziel ................................................................................................................................................... 3|
 |---|---|
-|2.|Geltungsbereich / Zielgruppe .......................................................................................................... 3|
-|3.|Indikationen für ein Röntgenbild des Thorax ................................................................................... 3|
-|3.1|Präoperativ. Ort: Normalstation, Intensivstation .............................................................................. 3|
-|3.2|Postoperativ. Ort: Aufwachraum, Intermediate-Care-Unit, Intensivstation, Normalstation ............. 3|
-|3.3|Weiterer stationärer Verlauf: Normalstation, Intermediate-Care-Unit, Intensivstation .................... 4|
-|4.|Alternative Untersuchungsmethoden .............................................................................................. 5|
-|5.|Evidenz ............................................................................................................................................ 5|
-|5.1|Präoperatives Baseline-Röntgenbild ............................................................................................... 6|
-|5.2|Röntgenbild nach Anlage eines Zentralen Venenkatheters ............................................................ 6|
-|5.3|Postoperatives Röntgenbild zur Lagekontrolle eines Pulmonaliskatheters ..................................... 7|
-|5.4|Postoperatives Röntgenbild zur Lagekontrolle eines Endotrachealtubus ....................................... 7|
-|5.5|Postoperatives Röntgenbild zur Lagekontrolle von Thoraxdrainagen ............................................. 7|
-|5.6|Postoperatives Röntgenbild zur Lagekontrolle einer Magensonde ................................................. 7|
-|5.7|Postoperatives Röntgenbild zur Detektion pulmonaler Komplikationen .......................................... 7|
-|5.8|Röntgenbild nach Drainagezug ....................................................................................................... 8|
-|5.9|Verlaufsröntgenbild .......................................................................................................................... 8|
-|6.|Literatur ............................................................................................................................................ 9|
-|Anhang: Flussdiagramm ………………....………….....................................………………………..............12||
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Ziel der vorliegenden SOP ist es basierend auf der aktuellen Evidenz die Exposition gegenüber ionisierender Strahlung durch Verringerung der Röntgenuntersuchungen des Thorax am DHZC zu reduzieren, ohne dass es hierdurch zu einem Anstieg postoperativer Komplikationen kommt. 
 
@@ -44,15 +23,15 @@ Hierzu werden nachfolgend auf Basis einer Literaturrecherche (siehe Punkt 5. Evi
 
 Die Inhalte der SOP sind in Kurzfassung als Flussdiagramm angefügt. 
 
-## **2. Geltungsbereich / Zielgruppe** 
+# **2. Geltungsbereich / Zielgruppe**
 
 Ärzt:innen der Klinik für Kardioanästhesie und Intensivmedizin Ärzt:innen der Klinik für Herz-, Thorax-, und Gefäßchirurgie 
 
-## **3. Indikationen für ein Röntgenbild des Thorax** 
+# **3. Indikationen für ein Röntgenbild des Thorax**
 
 Nach dem geltenden Gesetz zum Schutz vor ionisierender Strahlung (Strahlenschutzgesetz – StrlSchG) darf die Anwendung ionisierender Strahlung und radioaktiver Stoffe erst angewendet werden, „nachdem ein Arzt oder Zahnarzt mit der erforderlichen Fachkunde im Strahlenschutz entschieden hat, dass und auf welche Weise die Anwendung durchzuführen ist (rechtfertigende Indikation). Die rechtfertigende Indikation erfordert bei Anwendungen im Rahmen einer medizinischen Exposition die Feststellung, dass der gesundheitliche Nutzen der einzelnen Anwendung gegenüber dem Strahlenrisiko überwiegt“ (StrlSchG §83 Abs. 3). 
 
-## **3.1 Präoperativ. Ort: Normalstation, Intensivstation** 
+## **3.1 Präoperativ. Ort: Normalstation, Intensivstation**
 
 ## Indikation 
 
@@ -72,7 +51,7 @@ Nach dem geltenden Gesetz zum Schutz vor ionisierender Strahlung (Strahlenschutz
 
 - Röntgenbild des Thorax bei bereits vorliegender aktueller CT des Thorax (Ausnahme: Klinische Verschlechterung, welche eine neue Bildgebung des Thorax indiziert) 
 
-## **3.2 Postoperativ. Ort: Aufwachraum, Intermediate-Care-Unit, Intensivstation, Normalstation** 
+## **3.2 Postoperativ. Ort: Aufwachraum, Intermediate-Care-Unit, Intensivstation, Normalstation**
 
 ## Indikation 
 
@@ -98,7 +77,7 @@ Nach dem geltenden Gesetz zum Schutz vor ionisierender Strahlung (Strahlenschutz
 
 - Lagekontrolle eines Endotrachealen Tubus bei Intubation unter Sicht mit dokumentierter Intubationstiefe. 
 
-## **3.3 Weiterer stationärer Verlauf: Normalstation, Intermediate-Care-Unit, Intensivstation** 
+## **3.3 Weiterer stationärer Verlauf: Normalstation, Intermediate-Care-Unit, Intensivstation**
 
 ## Indikation 
 
@@ -124,7 +103,7 @@ Nach dem geltenden Gesetz zum Schutz vor ionisierender Strahlung (Strahlenschutz
 
 **Hinweis:** Bei kardiopulmonaler Instabilität oder Verschlechterung ist immer auch ein TTE/TEE indiziert zur Detektion/Ausschluss einer kardialen Genese (z.B. Perikardtamponade, reduzierte rechts- oder linksventrikuläre Pumpfunktion, Wandbewegungsstörungen, Klappenvitien etc.) oder extrakardialen Genese (z.B.: Lungenarterienembolie). 
 
-## **4. Alternative Untersuchungsmethoden** 
+# **4. Alternative Untersuchungsmethoden**
 
 |**Fragestellung Röntgenbild des Thorax**|**Alternative Diagnostik ohne ionisierende Strahlung**|
 |---|---|
@@ -138,7 +117,7 @@ Nach dem geltenden Gesetz zum Schutz vor ionisierender Strahlung (Strahlenschutz
 
 **Hinweis:** Die Anwendung der Sonographie als alternative Diagnostik zum Röntgenbild des Thorax bietet neben einer besseren Sensitivität und Spezifität (abgesehen von der Lagekontrolle der Magensonde, hier Datenlage noch unklar) eine weitere Möglichkeit die Gesamtdosis ionisierender Strahlung zu reduzieren. Sie setzt aber zwingend eine entsprechende Expertise, Ausbildung und standardisierten Untersuchungsvorgang seitens der Untersucher:innen sowie obligatorisch eine Bildspeicherung zu Dokumentationszwecken voraus. 
 
-## **5. Evidenz** 
+# **5. Evidenz**
 
 Röntgenuntersuchungen des Thorax gehen neben dem potentiellen Risiko durch die hierfür notwendigen Lagerungsmaßnahmen wie z.B. die Dislokation von Kathetern oder des Endotrachealtubus, mit einer insbesondere in der Summe an Röntgenuntersuchungen nicht vernachlässigbaren Exposition der Patient:innen gegenüber ionisierenden Strahlen einher. Mit steigender Gesamtdosis an ionisierender Strahlung steigt das Risiko der Entstehung sekundärer Tumore. Aus diesem Grund sollte die Indikation eines Röntgenbildes des Thorax sehr streng gestellt werden mit dem Ziel, die Gesamtexpositionsdosis an ionisierender Strahlung für Patient:innen zu reduzieren, ohne durch die reduzierte Anzahl diese einem zusätzlichen Risiko auszusetzen. 
 
@@ -154,11 +133,11 @@ Das Röntgenbild des Thorax dient bei einer Verschlechterung der pulmonalen oder
 
 Im Nachfolgenden soll auf die aktuellen Evidenzen der Röntgenthorax-Untersuchung für die einzelnen zuvor genannten Untersuchungsmodalitäten unserer postoperativen Patient:innen eingegangen werden sowie auf die jeweiligen Evidenzen der Sonographie als alternative Untersuchungsmethode. Dies soll unseren behandelnden Kolleg:innen die notwendige Rationale geben, die Anzahl der RöntgenthoraxUntersuchungen und somit die Gesamtdosis an ionisierenden Strahlen zu reduzieren. 
 
-## **5.1 Präoperatives Baseline-Röntgenbild** 
+## **5.1 Präoperatives Baseline-Röntgenbild**
 
 Es existieren keine Daten, welche die Durchführung eines präoperativen Röntgenbildes des Thorax unterstützen bei Patient:innen mit thoraxchirurgischen Operationen (Christian Galata et al. 2022). Bei nicht Herz-Thorax-chirurgischen Eingriffen ist die präoperative Durchführung eines Röntgenbildes nur empfohlen bei einer neu aufgetretenen oder sich akut verschlechternder pulmonaler Symptomatik oder bei V.a. operations- bzw. anästhesierelevanter Befunde wie z.B. Thoraxdeformitäten oder ausgeprägte Struma, nicht aber bei bekannten oder stabilen Erkrankungen wie z.B. COPD oder Asthma bronchiale (Zwissler et al. 2017). 
 
-## **5.2 Röntgenbild nach Anlage eines Zentralen Venenkatheters** 
+## **5.2 Röntgenbild nach Anlage eines Zentralen Venenkatheters**
 
 Mehrere Studien zeigen, dass der Nutzen eines Routine-Röntgenbildes des Thorax nach Anlage eines Zentralen Venenkatheters als gering einzustufen ist, insbesondere wenn die Anlage sich unkompliziert gestaltete (Lessnau et al. 2015, Lucey et al. 1999, Guth et al. 2001, Miccini et al. 2016). 
 
@@ -172,11 +151,11 @@ Die TEE ist das einzige bettseitige Tool, um die ZVK-Spitze am Übergang der V. 
 
 Die Genauigkeit bei der Lagekontrolle eines ZVKs befinden sich zwischen TTE mit „Kochsalz-Flush“ und Röntgenbild es Thorax im gleichen Bereich von ca. 80-90%, die Untersuchung mittels TTE benötigt aber signifikant weniger Zeit und hat eine höhere Spezifität (E ian et al. 2017). 
 
-## **5.3 Postoperatives Röntgenbild zur Lagekontrolle eines Pulmonaliskatheters** 
+## **5.3 Postoperatives Röntgenbild zur Lagekontrolle eines Pulmonaliskatheters**
 
 Die Anlage eines Pulmonaliskatheters erfolgt gesteuert anhand des typischen Verlaufs der über den distalen Schenkel abgeleiteten Druckkurve. Zudem ist es möglich die Lage eines Pulmonaliskatheters in der rechten Pulmonalarterie (Lage in 96% der Fälle) mittels TEE zu verifizieren (Deepak K. Tempe et al. 2015). Aus diesen Gründen ist wahrscheinlich ein Röntgenbild des Thorax nicht notwendig. 
 
-## **5.4 Postoperatives Röntgenbild zur Lagekontrolle eines Endotrachealtubus** 
+## **5.4 Postoperatives Röntgenbild zur Lagekontrolle eines Endotrachealtubus**
 
 Eine korrekte Lage eines Endotrachealtubus nach Intubation wird durch adäquate beidseitige Thoraxhebungen, seitengleiche Atemgeräusche, das Beschlagen des Endotrachealtubus, der Abwesenheit von Geräuschen über der Magengegend sowie mittels kontinuierlicher Kapnographie überprüft (Grmec S et al. 2002; Leone et al. 2006). 
 
@@ -192,17 +171,17 @@ Auch für Patient:innen im Rahmen einer Reanimation konnte der positive predikti
 
 Es konnte gezeigt werden das die Sonographie zur Bestimmung der Tubuslage/-tiefe genauso effektiv ist wie ein Röntgenbild des Thorax und sogar schneller durchgeführt werden kann und so das RoutineRöntgenbild nach Intubation vermieden werden sollte (Alonso et al. 2014). 
 
-## **5.5 Postoperatives Röntgenbild zur Lagekontrolle von Thoraxdrainagen** 
+## **5.5 Postoperatives Röntgenbild zur Lagekontrolle von Thoraxdrainagen**
 
 Bei Drainagen wie Mediadrainage oder auch Thoraxdrainage welche unter direkter Sicht durch die Chirurg:innen platziert werden bedarf es zur Lagekontrolle kein Röntgenbild des Thorax. 
 
-## **5.6 Postoperatives Röntgenbild zur Lagekontrolle einer Magensonde** 
+## **5.6 Postoperatives Röntgenbild zur Lagekontrolle einer Magensonde**
 
 Es konnte gezeigt werden, dass Auskultation oder Aspiration sind sehr ungenaue Methoden sind zur Lagekontrolle einer Magensonde (Neumann et al. 1995; Turgay et al. 2010; Fan et al. 2017). 
 
 So gilt das Röntgenbild als Goldstandard zur Lagekontrolle einer Magensonde (Sanaie et al. 2017) Es konnte gezeigt werden, dass eine Lagekontrolle der Magensonde via Ultraschall möglich ist (Nguyen 2012; Zatelli 2016; Chenaitia 2012; Tollinsche et al. 2019). 
 
-## **5.7 Postoperatives Röntgenbild zur Detektion pulmonaler Komplikationen** 
+## **5.7 Postoperatives Röntgenbild zur Detektion pulmonaler Komplikationen**
 
 Ein postoperatives Routine-Röntgenbild bringt keinen zusätzlichen Informationsgewinn sofern nicht klinisch indiziert bei Herzchirurgischen Patienten (Hornick et al. 1995). Aber diese Empfehlungen stammen aus dem Jahr 1995. 
 
@@ -218,7 +197,7 @@ In einer Studie konnte konnten bei insgesamt 177 Patient*Innen nach kardiochirur
 
 Zusammenfassend zeigte die Lungensonographie eine hohe Übereinstimmung der Untersuchungsergebnisse unter den Untersucher und war in der Lage verglichen mit einem Röntgenbild des Thorax postoperative (relevante) Komplikationen früher und häufiger zu diagnostizieren (H. R. Touw et al. 2018). 
 
-## **5.8 Röntgenbild nach Drainagezug** 
+## **5.8 Röntgenbild nach Drainagezug**
 
 Da die Inzidenz der Funde im Röntgenbild des Thorax nach Drainagezug gering ist, wird dieses nicht empfohlen seitens dem American College of Radiology (Suh et al. 2015) 
 
@@ -232,13 +211,13 @@ Sonographisch kann ein Pneumothorax >3cm nach Drainagezug mit einer Sensitivitä
 
 Die Sonographie nach Entfernung einer Thoraxdrainage zur Detektion eines Pneumothoraxes ist eine reproduzierbare, kostengünstige Methode, welche nur eine minimale Erfahrung seitens des Untersuchers bedarf, zudem keine ionisierende Strahlung benötigt und eine sofortige Befunderhebung unter anderem auch weiterer Diagnosen wie Pleuraergüsse und Perikardergüsse ermöglicht (Saucier et al. 2010). 
 
-## **5.9 Verlaufsröntgenbild** 
+## **5.9 Verlaufsröntgenbild**
 
 Das American College of Radiology spricht eine Empfehlung gegen Routine-Röntgenbilder des Thorax aus (Amarisa et al. 2013) 
 
 So demonstrieren Studien den niedrigen diagnostischen Wert und Einfluss auf die Behandlung durch Routine-Röntgenthoraxes bei Intensivpatient*innen und auch nach herzchirurgischen Eingriffen (Hornick et al. 1995, Hendrikse et Al., Kröner et al. 2011, Tolsma et al. 2011). 
 
-## **6. Literatur** 
+# **6. Literatur**
 
 Alonso Quintela P et al. Usefulness of bedside ultrasound compared to capnographyand X-ray for tracheal intubation. An Pediatr (Barc) 2014;81:283-8. 
 
@@ -381,9 +360,6 @@ Röntgenthorax ausgeschlossen? KEIN Röntgenthorax
 Thoraxdrainagen
 unter Sicht
 eingebracht?
-Version Erstellung Prüfung Freigabe Freigabedatum Seite
-**----- End of picture text -----**
-
 
 Anlage zu SOP387 
 
@@ -436,8 +412,6 @@ Therapie Therapie
 Hinweis: Kein Röntgenthorax als
 Verlaufskontrolle, nur bei
 entsprechender Klinik!
-**----- End of picture text -----**
-
 
 ## **Extubationsziele:** 
 

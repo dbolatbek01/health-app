@@ -9,24 +9,7 @@ Antithrombotische Therapie für Kinder an Langzeit-Unterstützungssystemen (VAD)
 
 Klinik für Angeborene Herzfehler – Kinderkardiologie: Arztdienst Klinik für Chirurgie Angeborener Herzfehler – Kinderherzchirurgie: Arztdienst 
 
-## **Änderungshistorie** 
-
-## **Inhaltsverzeichnis** 
-
-|Vorbemerkungen .......................................................................................................................................... 3|Vorbemerkungen .......................................................................................................................................... 3|
 |---|---|
-|1.|Antikoagulation ................................................................................................................................ 4|
-|1.1|Anpassung der Bivalirudin-Therapie ............................................................................................... 5|
-|1.2|Anpassung der LMWH-Therapie ..................................................................................................... 5|
-|1.3|Vitamin-K-Antagonisten ................................................................................................................... 6|
-|1.3.1|Umstellung von LMWH auf VKA mit INR-Ziel von 3,0-4,0 .............................................................. 6|
-|1.3.2|Umstellung von Bivalirudin auf VKA ................................................................................................ 6|
-|1.3.3|Enoxaparin bei niedriger INR .......................................................................................................... 6|
-|2.|Thrombozytenaggregationshemmung ............................................................................................. 7|
-|3.|Besonderheiten ................................................................................................................................ 7|
-|3.1|Inflammation, Infektion ..................................................................................................................... 7|
-|3.2|Interventionen .................................................................................................................................. 8|
-|4.|Inkrafttreten ...................................................................................................................................... 8|
 
 ## **Vorbemerkungen** 
 
@@ -48,7 +31,7 @@ Insbesondere bei Kindern an kontinuierlichen Flusspumpen (z. B. HeartMate 3) mus
 
 Ein praxisorientierter Übersichtsartikel findet sich unter: Murray JM et al. Lessons Learned from Managing Antithrombotic Therapy in Children Supported with Pediatric Ventricular Assist Devices. ASAIO J 2022;68(11):1321-31. https://pubmed.ncbi.nlm.nih.gov/35920759/ 
 
-## **1. Antikoagulation** 
+# **1. Antikoagulation**
 
 |**Bivalirudin**||
 |---|---|
@@ -121,7 +104,7 @@ Für Patienten, die von Bivalirudin umgestellt werden, s. 1.1|
 |||
 |**Monitoring**|i.d.R. täglich|
 
-## **1.1 Anpassung der Bivalirudin-Therapie** 
+## **1.1 Anpassung der Bivalirudin-Therapie**
 
 aPTT-Ziel: 60–80 s; bei hohem Thromboserisiko: 70–90 s Erste Kontrolle 2 h nach Infusionsbeginn: 
 
@@ -153,7 +136,7 @@ Daumenregel: Differenz der aktuellen aPTT zum Zielwert = Dosisänderung in %
 
 **Cave** : Überprüfe, ob Blutprobe ggfs. mit Bivalirudin kontaminiert (z.B. BE nicht aus Bivalirudin-naiven ZVK). Im Zweifel Venenpunktion durchführen. 
 
-## **1.2 Anpassung der LMWH-Therapie** 
+## **1.2 Anpassung der LMWH-Therapie**
 
 (mit Modifikationen von Michelson 1998[1] ) 
 
@@ -177,9 +160,9 @@ bestimmen|
 
 1 Michelson AD et al. Antithrombotic therapy in children. Chest 1998;114(5 Suppl): 748S-769S 
 
-## **1.3 Vitamin-K-Antagonisten** 
+## **1.3 Vitamin-K-Antagonisten**
 
-## **1.3.1 Umstellung von LMWH auf VKA mit INR-Ziel von 3,0-4,0** 
+### **1.3.1 Umstellung von LMWH auf VKA mit INR-Ziel von 3,0-4,0**
 
 (mit Modifikationen von Michelson 1998) 
 
@@ -201,7 +184,7 @@ Tagen gestiegen ist|
 
 * Wenn Basis-INR bereits über 1,8 Einzelfallentscheidung. Grund für erhöhte INR (Vitamin K-Mangel, Leberinsuffizienz, Faktorenmangel) evaluieren. 
 
-## **1.3.2 Umstellung von Bivalirudin auf VKA** 
+### **1.3.2 Umstellung von Bivalirudin auf VKA**
 
 Aktuell bestehen wenig Erfahrungen in der Dosierung von Bivalirudin bei Kindern, daher gibt es auch noch keine etablierten Protokolle zur Umstellung auf VKA. Im Gerinnungslabor wird die INR mit einem PT-Assay vom Quick-Typ bestimmt. Bivalirudin erhöht die INR, die gleichzeitige Gabe von VKA hat einen additiven Effekt auf den INR-Wert. 
 
@@ -219,7 +202,7 @@ Vorgehen:
 
 - Bei einer Bivalirudin-Dosis > 0,3 µg/kg/h: Reduktion von Bivalirudin auf 0,3 mg/kg/h und Kontrolle der INR nach 2 h. Bei INR > 4 Absetzen von Bivalirudin und erneute Kontrolle nach 2–3 h. 
 
-## **1.3.3 Enoxaparin bei niedriger INR** 
+### **1.3.3 Enoxaparin bei niedriger INR**
 
 |**INR-Ziel**|**INR**|**Enoxaparin**|**antiXa Ziel***|
 |---|---|---|---|
@@ -233,7 +216,7 @@ Vorgehen:
 
 * Kontrolle der anti-Xa-Aktivität empfohlen, wenn INR deutlich unter Zielbereich oder wenn mehrere Tage INR-Ziel unterschritten wird. 
 
-## **2. Thrombozytenaggregationshemmung** 
+# **2. Thrombozytenaggregationshemmung**
 
 |**Monitoring**|**Ziel**|
 |---|---|
@@ -284,13 +267,13 @@ Bei Kindern mit rezidivierenden Ablagerungen trotz ausreichender Antikoagulation
 
 Bei Kindern, die auf Clopidogrel resistent sind, kann Dipyridamol 1 mg/kg alle 6 Stunden versucht werden. 
 
-## **3. Besonderheiten** 
+# **3. Besonderheiten**
 
-## **3.1 Inflammation, Infektion** 
+## **3.1 Inflammation, Infektion**
 
 Inflammation und Infektionen sind typische Trigger für erhöhte Gerinnungsaktivität. Wichtig ist es, die Pumpen intensiv auf Ablagerungen/Thrombosen (Hämolyse bei HM III?) zu überwachen und die aktuellen Gerinnungsparameter zu kontrollieren. Neben der Therapie der Infektion kann bei Zeichen der Inflammation (Fibrinogen > 600 mg/dl) die Gabe von Prednisolon (2mg/kg/d) erwogen werden, bis sich das Fibrinogen wieder normalisiert hat. 
 
-## **3.2 Interventionen** 
+## **3.2 Interventionen**
 
 Vor einem **Pumpenstopp-Echo** oder einer **Herzkatheteruntersuchung** ist zu überprüfen, dass 
 
@@ -320,7 +303,7 @@ Patienten mit LMWH: Stopp von LMWH und Start von Bivalirudin 8 Stunden nach letz
 
 Patienten mit VKA: Stopp VKA und Start Bivalirudin, sobald INR im unteren Zielbereich bzw. knapp subtherapeutisch; erste Kontrolle der aPTT 2 Stunden nach Beginn von Bivalirudin. 
 
-## **4. Inkrafttreten** 
+# **4. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

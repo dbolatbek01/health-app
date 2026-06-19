@@ -9,26 +9,11 @@ CAI Kinderkardioanästhesiologie – Fast Track
 
 Klinik für Kardioanästhesiologie und Intensivmedizin 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Patientenselektion ........................................................................................................................... 3|
 |---|---|
-|1.1|Art der Operation ............................................................................................................................. 3|
-|1.2|Komorbiditäten ................................................................................................................................. 3|
-|1.3|Planung ............................................................................................................................................ 3|
-|2.|Narkoseführung ............................................................................................................................... 3|
-|2.1|Narkoseeinleitung ............................................................................................................................ 3|
-|2.2|Narkoseführung ............................................................................................................................... 3|
-|2.3|Analgesie ......................................................................................................................................... 4|
-|2.4|Narkoseausleitung ........................................................................................................................... 5|
-|2.4.1|Reevaluation der Fast-Track-Eigung ............................................................................................... 5|
-|2.4.2|Extubationskriterien ......................................................................................................................... 5|
-|2.4.3|Verlegung auf IPS AHF ................................................................................................................... 5|
-|3.|Mitgeltende Dokumente ................................................................................................................... 5|
 
-## **1. Patientenselektion** 
+# **1. Patientenselektion**
 
-## **1.1 Art der Operation** 
+## **1.1 Art der Operation**
 
 ## Geplante Extubation im OP 
 
@@ -64,7 +49,7 @@ Wenn immer möglich im OP, sonst innerhalb 2 h nach OP-Ende auf K-IPS – je nac
 
 - ISTA (falls warm genug) 
 
-## **1.2 Komorbiditäten** 
+## **1.2 Komorbiditäten**
 
 - Wesentliche Komorbiditäten (z. B. relevant eingeschränkte EF, Nieren- / Leberinsuffizienz, komplexe Syndrome, pulmonale Hypertonie, schwieriger Atemweg) beachten 
 
@@ -72,13 +57,13 @@ Wenn immer möglich im OP, sonst innerhalb 2 h nach OP-Ende auf K-IPS – je nac
 
 - Patienten, die bereits vor dem Eingriff intubiert und sediert wurden oder eine Atemunterstützung (CPAP/ High Flow) brauchten sind in der Regel nicht für eine On-Table-Extubation geeignet 
 
-## **1.3 Planung** 
+## **1.3 Planung**
 
 Planung und Hinterlegung möglicher Fast Track-Patienten durch die Kinderkardiochirurgie möglichst an erster Stelle im OP-Plan, interdisziplinäre Re-Evaluation im Rahmen der Frühbesprechung und intraoperativ. 
 
-## **2. Narkose** 
+# **2. Narkose**
 
-## **2.1 Narkoseeinleitung** 
+## **2.1 Narkoseeinleitung**
 
 Entsprechend SOP564 CAI Kinderkardioanästhesiologie - Standard HLM unter Verwendung der Medikamente 
 
@@ -90,7 +75,7 @@ Entsprechend SOP564 CAI Kinderkardioanästhesiologie - Standard HLM unter Verwen
 
 Bei Kindern > 1 Jahr zur _**PONV-Prophylaxe**_ Dexamethason 0,15 mg/kgKG i.v. 
 
-## **2.2 Narkoseführung** 
+## **2.2 Narkoseführung**
 
 - Zum Hautschnitt ggf. erneuter Bolus Sufenta mite, hiernach möglichst nicht mehr 
 
@@ -108,7 +93,7 @@ Bei Kindern > 1 Jahr zur _**PONV-Prophylaxe**_ Dexamethason 0,15 mg/kgKG i.v.
 
 - Temperaturmanagement: Wärmedecke, ggf. Saaltemperatur; Ziel ~ 36,5°C 
 
-## **2.3 Analgesie** 
+## **2.3 Analgesie**
 
 - Analgesie WHO-Stufe 1 
 
@@ -138,9 +123,9 @@ Bei Kindern > 1 Jahr zur _**PONV-Prophylaxe**_ Dexamethason 0,15 mg/kgKG i.v.
 
 > 2 Bundesinstitut für Arzneimittel und Medizinprodukte. Fachinformation Ropicavain Art. 45. https://www.bfarm.de/DE/Arzneimittel/Zulassung/Arzneimittel-fuer-Kinder/Empfehlungen/Fach-undGebrauchsinformationen/ropivacain 
 
-## **2.4 Narkoseausleitung** 
+## **2.4 Narkoseausleitung**
 
-## **2.4.1 Reevaluation der Fast-Track-Eigung** 
+### **2.4.1 Reevaluation der Fast-Track-Eigung**
 
 Etwa 30-60 min vor OP-Ende Re-Evaluation der Fast Track-Eignung gemeinsam mit Operateur. 
 
@@ -174,7 +159,7 @@ Analgesie, vegetative Abschirmung und antiemetische Prophylaxe:
 
 - Beendigung Remifentanil-Infusion zum Sternumverschluss 
 
-## **2.4.2 Extubationskriterien** 
+### **2.4.2 Extubationskriterien**
 
 - Fortführung des kompletten Monitorings inkl. etCO2 
 
@@ -188,7 +173,7 @@ Analgesie, vegetative Abschirmung und antiemetische Prophylaxe:
 
 Wenn innerhalb 20-30 min nach OP-Ende die Extubationskriterien nicht erfüllt sind, dann Narkosevertiefung mit Propofol/Remifentanil und Verlegung auf K-IPS wie unter 2.4.3 beschrieben. 
 
-## **2.4.3 Verlegung auf IPS AHF** 
+### **2.4.3 Verlegung auf IPS AHF**
 
 - Unter komplettem Monitoring 
 
@@ -200,7 +185,7 @@ Wenn innerhalb 20-30 min nach OP-Ende die Extubationskriterien nicht erfüllt si
 
 - Bei geplanter Extubation auf K-IPS innerhalb 2 h postoperativ gleiches Vorgehen wie beschrieben für on-table Extubation und Verlegung unter Propofol (4-5 mg/kg/h) und Remifentanil 0,1 - 0,5 µg/kg/min, welches bei Übergabe auf IPS AHF in Absprache mit dem übernehmenden IPS-Arzt ggf. beendet werden kann. 
 
-## **3. Mitgeltende Dokumente** 
+# **3. Mitgeltende Dokumente**
 
 SOP564 CAI Kinderkardioanästhesiologie – Standard HLM 
 

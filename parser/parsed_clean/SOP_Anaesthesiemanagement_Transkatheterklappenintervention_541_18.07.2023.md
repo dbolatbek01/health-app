@@ -12,27 +12,9 @@ Klinik für Kardioanästhesiologie und Intensivmedizin
 |**Version**
 **Freigabe**|**Erstellung**|**Prüfung**|**Freigabe**|**Wiedervorlage**|
 
-## **Inhaltsverzeichnis** 
-
-|1.|Zugangswege TAVI ......................................................................................................................... 3|
 |---|---|
-|2.|Temporärer Schrittmacher ............................................................................................................... 3|
-|3.|Anästhesieverfahren bei TAVI ......................................................................................................... 3|
-|3.1|PA-TAVI ........................................................................................................................................... 3|
-|3.2|ZA-TAVI ........................................................................................................................................... 4|
-|3.3|ITN-TAVI .......................................................................................................................................... 4|
-|4.|Heparinisierung ................................................................................................................................ 5|
-|5.|Rapid Pacing ................................................................................................................................... 5|
-|6.|Zerebrale Protektion ........................................................................................................................ 5|
-|7.|Komplikationen ................................................................................................................................ 5|
-|7.1|Hämodynamische Instabilität ........................................................................................................... 5|
-|7.2|Gefäßkomplikationen ....................................................................................................................... 5|
-|7.3|Neurologische Komplikationen ........................................................................................................ 6|
-|8.|Additive Verfahren bei Valve-in-Valve-Implantation (VinV) ............................................................. 6|
-|9.|Notfall-TAVI ..................................................................................................................................... 6|
-|10.|Postoperative Versorgung in der PACU .......................................................................................... 6|
 
-## **1. Zugangswege TAVI** 
+# **1. Zugangswege TAVI**
 
 Der interventioneller Zugangsweg wird im OP-Plan eingetragen. Es gibt folgende Optionen: Transfemorale TAVI (TF-TAVI) 
 
@@ -40,7 +22,7 @@ Transaxilläre TAVI (TAX-TAVI) Transapikale TAVI (TA-TAVI) Transcavale TAVI (TC-
 
 Transaortale TAVI (TAO-TAVI) 
 
-## **2. Temporärer Schrittmacher** 
+# **2. Temporärer Schrittmacher**
 
 Der Zugang und die Art des Devices zur für die Prozedur notwendigen Modulierung der Herzfrequenz (140/min, rapid pacing 180/min) wird im OP-Plan festgelegt. Die Optionen sind: 
 
@@ -52,7 +34,7 @@ Der Zugang und die Art des Devices zur für die Prozedur notwendigen Modulierung
 
 Bei der Platzierung einer transvenösen Schrittmacher-Sonde über die VJI wird diese unter sterilen Bedingungen in eine 6F-Schleuse vorgelegt und später unter fluoroskopischer Kontrolle im RV positioniert und getestet. Femorale Schrittmacher werden durch das Implantationsteam gelegt. 
 
-## **3. Anästhesieverfahren bei TAVI** 
+# **3. Anästhesieverfahren bei TAVI**
 
 Die TAVI-Prozedur wird von der Anästhesistin oder dem Anästhesisten und dem AnästhesieFunktionsdienst begleitet. Eine TAVI- und TEE-erfahrene Oberärztin/Fachärztin resp. Oberarzt/Facharzt der Klinik für Kardioanästhesiologie und Intensivmedizin supervidiert die Prozedur. Die Supervision ist zwingend in TORIN zu hinterlegen. 
 
@@ -72,7 +54,7 @@ IT–TAVI - Intubationsnarkose (mit zentral-venösem Zugang)
 
 Als eine zusätzliche Option gilt die Vollnarkose mit Larynxmaske. Diese Option wird bei Patient:innen mit niedrigem Risikoprofil und explizitem Wunsch einer Vollnarkose gewählt. 
 
-## **3.1 PA-TAVI** 
+## **3.1 PA-TAVI**
 
 geeignet für TF-TAVI mit niedrigem Risikoprofil: 
 
@@ -102,7 +84,7 @@ geeignet für TF-TAVI mit niedrigem Risikoprofil:
 
 - am OP-Ende: bei Bedarf TTE zum Ausschluss eines Perikardergusses 
 
-## **3.2 ZA-TAVI** 
+## **3.2 ZA-TAVI**
 
 geeignet für TF-TAVI mit höherem Risikoprofil (schwere Verkalkung der AK, komplexere Zugangsanatomie): 
 
@@ -132,7 +114,7 @@ geeignet für TF-TAVI mit höherem Risikoprofil (schwere Verkalkung der AK, komp
 
 - am OP-Ende: bei Bedarf TTE zum Ausschluss eines Perikardergusses 
 
-## **3.3 ITN-TAVI** 
+## **3.3 ITN-TAVI**
 
 geeignet für TA-TAVI, komplexe TF-TAVI, TAX TAVI, TAO-TAVI und sobald zusätzliche TEE-Bildgebung notwendig: 
 
@@ -162,13 +144,13 @@ geeignet für TA-TAVI, komplexe TF-TAVI, TAX TAVI, TAO-TAVI und sobald zusätzli
 
 - Frühextubation immer anstreben 
 
-## **4. Heparinisierung** 
+# **4. Heparinisierung**
 
 - 100 IE/kgKG Heparin-Bolus (Ziel-ACT mind. 250 sec), ACT Kontrolle jede 30 Minuten 
 
 - Antagonisierung nach RS Interventionalist*in 
 
-## **5. Rapid Pacing** 
+# **5. Rapid Pacing**
 
 - Schrittmacher-Funktion nach der Verbindung mit der Schrittmacher-Sonde oder mit dem Implantationsdraht prüfen 
 
@@ -180,7 +162,7 @@ geeignet für TA-TAVI, komplexe TF-TAVI, TAX TAVI, TAO-TAVI und sobald zusätzli
 
 - nach der Prozedur Schrittmacher-Sonde entweder in situ belassen oder entfernen – Rücksprache mit Interventionalistin oder Interventionalisten 
 
-## **6. Zerebrale Protektion** 
+# **6. Zerebrale Protektion**
 
 Bei geplantem Einsatz eines Sentinel-Systems zur zerebralen Protektion erfolgt die Anlage der 6FRadialis-Schleuse durch die Anästhesie im Rahmen der Einleitung 
 
@@ -192,9 +174,9 @@ Bei geplantem Einsatz eines Sentinel-Systems zur zerebralen Protektion erfolgt d
 
 Einsatz vor allem bei schwer verkalkten Klappen mit flottierenden Partikeln und bei Valve-in-Valve Prozedur 
 
-## **7. Komplikationen** 
+# **7. Komplikationen**
 
-## **7.1 Hämodynamische Instabilität** 
+## **7.1 Hämodynamische Instabilität**
 
 unmittelbar nach der Klappenimplantation oder nach Ballondilatation als Folge von Verschluss oder Teilverschluss der Koronararterien, Inzidenz beträgt 0,7 % der Fälle 
 
@@ -208,7 +190,7 @@ unmittelbar nach der Klappenimplantation oder nach Ballondilatation als Folge vo
 
 - Prüfung der LV/RV, Klappenfunktion in TEE, wenn möglich ECLS weaning 
 
-## **7.2 Gefäßkomplikationen** 
+## **7.2 Gefäßkomplikationen**
 
 - Perforation von Zugangsgefäßen, Blutverlust 
 
@@ -216,7 +198,7 @@ unmittelbar nach der Klappenimplantation oder nach Ballondilatation als Folge vo
 
 - Stentimplantation oder chirurgische Intervention 
 
-## **7.3 Neurologische Komplikationen** 
+## **7.3 Neurologische Komplikationen**
 
 - neurologische Symptomatik während oder nach der Implantation 
 
@@ -224,7 +206,7 @@ unmittelbar nach der Klappenimplantation oder nach Ballondilatation als Folge vo
 
 - Stroke alarm aktivieren 
 
-## **8. Additive Verfahren bei Valve-in-Valve-Implantation (VinV)** 
+# **8. Additive Verfahren bei Valve-in-Valve-Implantation (VinV)**
 
 Das Risiko der Koronarverschluss ist bei der VinV Prozedur deutlich höher als bei der primärer TAVI (2.3% versus 0.7%). Ursachen dafür sind der kurze Abstand zwischen implantierter Klappe und den Koronarien oder schmale Sinus Valsalvae 
 
@@ -234,7 +216,7 @@ Nach Taschenlazeration wird diese im TEE beurteilt und Schweregrad/Veränderung 
 
 Unmittelbar nach der Prozedur folgt die TAVI- Implantation. 
 
-## **9. Notfall-TAVI** 
+# **9. Notfall-TAVI**
 
 Eine der Therapieoptionen bei hämodynamisch und respiratorisch instabilen Patient:innen mit Aortenklappenstenose ist die notfallmäßige TAVI Implantation. 
 
@@ -244,7 +226,7 @@ Eine der Therapieoptionen bei hämodynamisch und respiratorisch instabilen Patie
 
 Nach der Prozedur folgt die echokardiographische Reevaluation und Anpassung der pharmakologischen Therapie, oder falls notwendig die zusätzliche Implantation einer mechanischen Kreislaufunterstützung (Impella, ECMELLA). 
 
-## **10. Postoperative Versorgung in der PACU** 
+# **10. Postoperative Versorgung in der PACU**
 
 Weiterversorgung nach Fast-Track-Standard. 
 

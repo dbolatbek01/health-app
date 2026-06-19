@@ -7,38 +7,21 @@ Anwendung von freiheitseinschränkenden Maßnahmen (FEM) (ITM FEM)
 
 Klinik für Herz-, Thorax- und Gefäßchirurgie Klinik für Kardioanästhesiologie und Intensivmedizin 
 
-## **Änderungshistorie** 
-
-## **Inhaltsverzeichnis** 
-
-|1.|Grundlagen ...................................................................................................................................... 3|
 |---|---|
-|1.1|Ziel ................................................................................................................................................... 3|
-|1.2|Rechtliche Grundlagen .................................................................................................................... 3|
-|2.|Aufklärung und Einwilligung ............................................................................................................ 3|
-|3.|Indikationsstellung ........................................................................................................................... 3|
-|3.1|Prüfung der Indikation und Rechtfertigung der FEM ....................................................................... 4|
-|3.1.1|Einwilligung vorhanden .................................................................................................................... 4|
-|3.1.2|Einwilligung verweigert .................................................................................................................... 4|
-|3.1.3|Mutmaßliche Einwilligung ................................................................................................................ 4|
-|3.2|Sonderfall betreute Patienten, Vorsorgevollmacht .......................................................................... 5|
-|4.|Dokumentation ................................................................................................................................. 5|
-|5.|Durchführung der 2- bzw. 4-Punkt-Fixierung................................................................................... 5|
-|6.|Inkrafttreten ...................................................................................................................................... 6|
 
-## **1. Grundlagen** 
+# **1. Grundlagen**
 
-## **1.1 Ziel** 
+## **1.1 Ziel**
 
 Im Rahmen eines akuten Delirs können Patienten zu selbstgefährdenden Handlungen neigen. Dazu gehören insbesondere die unbeabsichtigte Entfernung von Tubus, Gefäßzugängen oder ECMOKanülen. In Einzelfällen ist daher die Anwendung von freiheitseinschränkenden Maßnahmen (FEM) notwendig. 
 
 Ziel dieser SOP ist es, die (rechts-)sichere und auf ein Mindestmaß reduzierte Anwendung von FEM zu gewährleisten. 
 
-## **1.2 Rechtliche Grundlagen** 
+## **1.2 Rechtliche Grundlagen**
 
 Das Grundgesetz sichert jedem Menschen das Recht auf persönliche Freiheit zu. Eingriffe in dieses Grundrecht dürfen nur in begründeten Ausnahmefällen auf Grundlage einer wirksamen Einwilligung oder – im Wege eines rechtfertigenden Notstands – dann erfolgen, wenn ein anderes Rechtsgut (hier das Recht auf Leben und körperliche Unversehrtheit) konkret bedroht ist, kein milderes sowie gleich geeignetes Mittel besteht, um den Schaden abzuwenden und das durch den Eingriff zu schützende Rechtsgut das durch den Eingriff beeinträchtigte Rechtsgut im Einzelfall überwiegt. Das gilt in der Regel nur unter den im Folgenden genannten Voraussetzungen. 
 
-## **2. Aufklärung und Einwilligung** 
+# **2. Aufklärung und Einwilligung**
 
 Nahezu alle erwachsenen Patienten des Deutschen Herzzentrums Berlin sind aufgrund prädisponierender Faktoren (Alter, Vorerkrankungen, etc.) und der Art der durchgeführten Eingriffe einem erhöhten Risiko für das Auftreten eines Delirs im Verlauf ihrer Behandlung ausgesetzt. 
 
@@ -46,7 +29,7 @@ Daher werden grundsätzlich alle Patienten im Rahmen der Anästhesie-Aufklärung
 
 Als Ausnahme gelten Patienten, für die lediglich kleinere Eingriffe in Lokalanästhesie (z. B. Schrittmacherimplantation) geplant sind. 
 
-## **3. Indikationsstellung** 
+# **3. Indikationsstellung**
 
 Die Indikation zur Anwendung von FEM erfolgt durch den behandelnden Arzt vor Anwendung der Maßnahmen und wird schriftlich im Arztverlauf von m.life dokumentiert. Die Indikation ist durch den 1. Dienst Intensivmedizin zu bestätigen. Bei unsicherer Indikationsstellung erfolgt die Rücksprache mit dem intensivmedizinischen Hintergrunddienst. 
 
@@ -64,33 +47,33 @@ Im Anschluss muss der verantwortliche Arzt unmittelbar informiert werden und die
 
 Der behandelnde Arzt ist verpflichtet, sich regelmäßig über die fortbestehende Indikation der FEM zu vergewissern. Ggf. wird das weiter bestehende Delir mit Selbstgefährdung im Arztverlauf dokumentiert. Die Anwendung von FEM ist spätestens nach 4 Stunden erneut anzuordnen. 
 
-## **3.1 Prüfung der Indikation und Rechtfertigung der FEM** 
+## **3.1 Prüfung der Indikation und Rechtfertigung der FEM**
 
 Prüfung analog folgender drei Fallgruppen: 
 
-## **3.1.1 Einwilligung vorhanden** 
+### **3.1.1 Einwilligung vorhanden**
 
 Wurde der Patient im Vorfeld des Eingriffs hinlänglich aufgeklärt (s. o.) und hat er seine Einwilligung in die Anwendung von FEM erteilt, können diese bei Auftreten eines Delirs unter Beachtung des Verhältnismäßigkeitsgrundsatzes angeordnet werden. 
 
 Hierbei ist dann lediglich noch zu beachten, dass der Patient seine Einwilligung jederzeit – ausdrücklich oder konkludent – widerrufen kann. Falls der Patient also ausdrücklich oder durch schlüssiges Handeln bedeutet, dass er mit den FEM nicht (mehr) einverstanden ist, muss medizinisch geprüft Einsichtsfähigkeit besitzt. Ist das der Fall, ist dem (geänderten) Willen des Patienten Rechnung zu tragen. Ist das ersichtlich nicht der Fall (z. B. wenn das Ziehen eines Tubus im Rahmen des Delirs unwillkürlich erfolgt und demgemäß keine relevante Willensäußerung beinhaltet), dann bleiben FEM weiter zulässig. 
 
-## **3.1.2 Einwilligung verweigert** 
+### **3.1.2 Einwilligung verweigert**
 
 Wurde der Patient im Vorfeld des Eingriffs hinlänglich aufgeklärt (s. o.) und hat er seine Einwilligung in die Anwendung von FEM verweigert, dann ist dieser Entscheidung im Sinne der Patientenautonomie Rechnung zu tragen und FEM dürfen bei Auftreten eines Delirs nicht angeordnet werden. Dies gilt auch dann, wenn dadurch Schäden für den Patienten zu befürchten sind, da eine klar entgegenstehende Willensäußerung des Patienten nicht durch Notstandserwägungen oder durch Heranziehen des hypothetischen Willens ausgehebelt werden darf. 
 
 Allerdings gilt auch hier, dass der Patient seine Meinung jederzeit ändern kann (s. o.). Macht er entsprechende (ausdrückliche oder konkludente) Äußerungen, ist der daraus hervorgehende (geänderte) Wille des Patienten umzusetzen. 
 
-## **3.1.3 Mutmaßliche Einwilligung** 
+### **3.1.3 Mutmaßliche Einwilligung**
 
 Konnte der Patient (z. B. wegen Bewusstlosigkeit) im Vorfeld des Eingriffs nicht aufgeklärt und um seine Einwilligung ersucht werden, muss eine mutmaßliche Einwilligung geprüft ist, was der Patient sagen würde, könnte man ihn fragen. Bestehen in Folge des Delirs erhebliche Gesundheitsrisiken für den Patienten, anhand derer die Anwendung von FEM verhältnismäßig erscheint, wird in aller Regel von einer mutmaßlichen Einwilligung auszugehen sein und FEM dürfen angeordnet werden. 
 
 Sobald der Patient (wieder) eine ausreichende Einsichtsfähigkeit besitzt, muss er nachträglich aufgeklärt und um seine Einwilligung ersucht werden, wonach dann entweder gemäß 3.1.1 oder 3.1.2 zu verfahren ist. 
 
-## **3.2 Sonderfall betreute Patienten, Vorsorgevollmacht** 
+## **3.2 Sonderfall betreute Patienten, Vorsorgevollmacht**
 
 Besteht für einen Patienten eine rechtliche Betreuung oder eine Vorsorgevollmacht für den Aufgabenkreis Gesundheitsfürsorge und/oder Aufenthaltsbestimmung, wird der Betreuer oder Vorsorgebevollmächtigte telefonisch (ggf. per Fax) über die Anwendung der Maßnahmen informiert. Dies wird in m.life dokumentiert. Die schriftliche Einwilligung des Betreuers oder Vorsorgebevollmächtigten in die FEM wird nachgeholt, sobald dies möglich ist. 
 
-## **4. Dokumentation** 
+# **4. Dokumentation**
 
 Die Dokumentation der FEM erfolgt in m.life. 
 
@@ -130,7 +113,7 @@ iii. „Art der Maßnahme“; dies entspricht der ärztlichen Anordnung!
 
 4. Nach 4 h erscheint die Anordnung: „Fixierung beenden“. Sollte zu diesem Zeitpunkt eine weitere Fixierung notwendig sein, ist erneut bei Punkt 1. zu beginnen: Ansetzen von „Patient fixieren“. 
 
-## **5. Durchführung der 2- bzw. 4-Punkt-Fixierung** 
+# **5. Durchführung der 2- bzw. 4-Punkt-Fixierung**
 
 Sollten mildere Maßnahmen nicht ausreichend sein, wird nach Indikationsstellung eine mechanische Fixierung der Extremitäten mit Klettbändern und Binden durchgeführt. Dabei dürfen grundsätzlich nur die Extremitäten fixiert werden, mit denen sich der Patient gefährdet. 
 
@@ -146,7 +129,7 @@ Wird eine mechanische Fixierung durchgeführt, muss eine visuelle Kontrolle des 
 
 Sollte die Indikation nicht mehr bestehen, müssen FEM umgehend aufgehoben werden. 
 
-## **6. Inkrafttreten** 
+# **6. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

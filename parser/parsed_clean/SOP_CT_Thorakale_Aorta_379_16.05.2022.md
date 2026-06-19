@@ -9,44 +9,23 @@ Computertomographie der thorakalen Aorta
 
 Klinik für Herz-, Thorax- und Gefäßchirurgie Klinik für Innere Medizin – Kardiologie Röntgenabteilung 
 
-Änderungshistorie
-Version  gültig ab  Verfasser  Freigabe  Änderungsgrund  Wiedervorlage
 Polle, M.
 von Noroczinski, L.
 2.0  13.05.2022  Aktualisierung  01.06.2024
 Dentzer, J.
-**----- End of picture text -----**
 
-
-## **Inhaltsverzeichnis** 
-
-|1.|Ziel und Zweck ................................................................................................................................. 3|
 |---|---|
-|2.|Anwendungsbereich ........................................................................................................................ 3|
-|3.|Indikation ......................................................................................................................................... 3|
-|4.|Mitgeltende Unterlagen.................................................................................................................... 3|
-|5.|Begriffe und Abkürzungen ............................................................................................................... 4|
-|6.|Vorbereitung des Patienten und des Hochdruckinjektors ............................................................... 4|
-|7.|Aufnahmeart .................................................................................................................................... 4|
-|8.|Patientenlagerung und Patienteneinstellung ................................................................................... 4|
 |9.|Untersuchungs- und Rekonstruktionsparameter (axiale Schnittbilder) und|
-||Kontrastmittelapplikationsparameter ............................................................................................... 5|
-|10.|Untersuchungsablauf: Durchführung ............................................................................................... 6|
-|11.|Diagnostische Referenzwerte für CT-Untersuchungen an Erwachsenen ....................................... 6|
-|12.|Untersuchungsablauf: Verantwortlichkeiten .................................................................................... 7|
-|13.|Bildbearbeitung, Bildbeurteilung, Befundung .................................................................................. 8|
-|14.|Dokumentation und Leistungserfassung ......................................................................................... 8|
-|15.|Inkrafttreten ...................................................................................................................................... 8|
 
-## **1. Ziel und Zweck** 
+# **1. Ziel und Zweck**
 
 Erstellung eines arteriellen, hochauflösenden Computertomogramms der thorakalen Aorta zur Erkennung oder zum Ausschluss von pathologischen oder pathophysiologischen Veränderungen wie z.B. Dissektion oder Aneurysma. 
 
-## **2. Anwendungsbereich** 
+# **2. Anwendungsbereich**
 
 Diese Arbeitsanweisung gilt für die Vorbereitung, Durchführung, Assistenz, Nachverarbeitung, Befundung und Archivierung (Bilder, Protokoll und Befund) der arteriellen computertomographischen Thorax-Untersuchung am Computertomographen SOMATOM Definition Flash der Firma Siemens. Sie gilt nur für CT-Untersuchungen von erwachsenen Patienten. 
 
-## **3. Indikation** 
+# **3. Indikation**
 
 Zur Indikationsstellung wird auf die Leitlinien für die Überweisung zur Durchführung von bildgebenden Verfahren verwiesen. 
 
@@ -54,7 +33,7 @@ Zur Indikationsstellung wird auf die Leitlinien für die Überweisung zur Durchf
 
 absolute Kontraindikation: Plausibilitätsprüfung relative Kontraindikation: Schwangerschaft, Voruntersuchung unmittelbar vorher 
 
-## **4. Mitgeltende Unterlagen** 
+# **4. Mitgeltende Unterlagen**
 
 Auf folgende ergänzende und weiterführende Unterlagen in ihrer jeweiligen aktuellen Fassung wird verwiesen: 
 
@@ -74,11 +53,11 @@ Auf folgende ergänzende und weiterführende Unterlagen in ihrer jeweiligen aktu
 
 8. Verordnung zum Schutz vor der schädlichen Wirkung ionisierender Strahlung (Strahlenschutzverordnung - StrlSchV) 
 
-## **5. Begriffe und Abkürzungen** 
+# **5. Begriffe und Abkürzungen**
 
 CT Computertomographie, Computertomograph CTDIvol CT-Dosis-Index bezogen auf das exponierte Volumen in mGy DLP Dosis-Längen-Produkt in mGy*cm DRW Diagnostiche Referenzwerte Gantry Ringtunnel, z.B. eines Computertomographen HU Hounsfield Unit ist die Einheit  die die Abschwächung von Röntgenstrahlung in Gewebe  beschreibt und für die Darstellung in einem Graustufenbild benutzt wird JiveX zusätzliches temporäres Archiv, hat einen geeigneteren Dicomviewer MPPS Modality Performed Procedure Steps PACS Picture Archiving and Communication System (ISCV) RIS Radiologisches Informationssystem (CardIS) Syngo.via Server-basiertes Bildbefundungssystem 
 
-## **6. Vorbereitung des Patienten und des Hochdruckinjektors** 
+# **6. Vorbereitung des Patienten und des Hochdruckinjektors**
 
 - Schwangerschaftsausschluss 
 
@@ -96,13 +75,13 @@ CT Computertomographie, Computertomograph CTDIvol CT-Dosis-Index bezogen auf das
 
 - bei intubiertem, nicht ansprechbarem Patienten Dokumentation, dass keine Aufklärung möglich war. 
 
-## **7. Aufnahmeart** 
+# **7. Aufnahmeart**
 
 Aufgenommen wird ein Volumen, das CT als Spirale mit dem Mehrzeilen-CT SOMATOM Definition Flash der Firma Siemens. 
 
 Die Entscheidung, welches Untersuchungsprotokoll (Flash oder kein Flash) angewandt wird, trifft der für den Computertomographen zuständige Arzt. 
 
-## **8.   Patientenlagerung und Patienteneinstellung** 
+# **8.   Patientenlagerung und Patienteneinstellung**
 
 ## **Lagerung:** 
 
@@ -128,7 +107,7 @@ Die Entscheidung, welches Untersuchungsprotokoll (Flash oder kein Flash) angewan
 
 - Positionstaste Null betätigen 
 
-## **9. Untersuchungs- und Rekonstruktionsparameter (axiale Schnittbilder) und Kontrastmittelapplikationsparameter** 
+# **9. Untersuchungs- und Rekonstruktionsparameter (axiale Schnittbilder) und Kontrastmittelapplikationsparameter**
 
 ## **Untersuchungsparameter** 
 
@@ -172,7 +151,7 @@ Die Länge des Untersuchungsbereiches ergibt sich aus den anatomischen Merkmalen
 |Injektionsgeschwindigkeit|4,0 ml/s|
 |Injektionsprofil|Profil 2|
 
-## **10. Untersuchungsablauf: Durchführung** 
+# **10. Untersuchungsablauf: Durchführung**
 
 1. Die Topogrammlänge dem Patienten anpassen, größer  als das Zielvolumen in der Länge. Anschließend das Topogram vom Startpunkt Oberhalb der Schulterhautgrenze bis ca. Mitte der Leber aufnehmen (gesamte Lunge abgebildet), nach Erreichen des Zielvolumens ggf. von Hand Stoppen. 
 
@@ -198,7 +177,7 @@ Die Länge des Untersuchungsbereiches ergibt sich aus den anatomischen Merkmalen
 
 12. Befundung 
 
-## **11. Diagnostische Referenzwerte für CT-Untersuchungen an Erwachsenen** 
+# **11. Diagnostische Referenzwerte für CT-Untersuchungen an Erwachsenen**
 
 |pro Scan-Serie CT-
 Untersuchungsart|CTDIvol [mGy]
@@ -207,7 +186,7 @@ pro Scanserie|
 |---|---|---|
 |Thorax|10|350|
 
-## **12. Untersuchungsablauf: Verantwortlichkeiten** 
+# **12. Untersuchungsablauf: Verantwortlichkeiten**
 
 Verantwortlichkeiten
 Arzt mit Mitarbeiter
@@ -228,22 +207,20 @@ Bilderstellung X X
 Bilddaten ins PACS, JiveX u. an syngo.via senden X X
 Befundung im RIS X
 Dokumentation und Leistungserfassung X X
-**----- End of picture text -----**
 
-
-## **13. Bildbearbeitung, Bildbeurteilung, Befundung** 
+# **13. Bildbearbeitung, Bildbeurteilung, Befundung**
 
 Die Bilderstellung wird vom Röntgenassistenzpersonal unmittelbar nach der Patientenversorgung vorgenommen. Die aus den Rohdaten rekonstruierten axialen Schichten werden an das PACS, JiveX und an Syngo.via versandt. 
 
 Die zur Befundung notwendige Bildbearbeitung und/oder Bildverarbeitung erfolgt durch die zuständigen Ärzte über Syngo.via, die ihre ggf. neu erstellt senden. Die schriftliche Befundung erfolgt im RIS. 
 
-## **14. Dokumentation und Leistungserfassung** 
+# **14. Dokumentation und Leistungserfassung**
 
 Die Dokumentation, Befundung und Leistungserfassung erfolgen im RIS. Die Dokumentation dosisrelevanter Parameter, die zu einer Dosisabschätzung benötigt werden (RöV § 28 Aufzeichnungspflichten), stammen aus dem Patientenprotokoll der Untersuchung und werden von Hand ins RIS übertragen. Eventuelle dosisrelevante Abweichungen vom Untersuchungsablauf (z.B. Arme angelagert und warum) müssen im RIS (Kommentare Freitext) dokumentiert werden. Überschreitungen der diagnostischen Referenzwerte müssen im RIS begründet werden. 
 
 Der CT-Anforderungsschein (digital), der ausgefüllte und 2fach unterschriebene Aufklärungsbogen (erst Arzt, dann Patient) sowie der gedruckte und unterschriebene Befund kommen in die Patientenakte. Die Befunde und die Protokolle werden digital im RIS, die Bilddaten sowohl im PACS als auch temporär im JiveX archiviert. Ältere Vorgänge (prä-RIS, prä-PACS) lagern archiviert im Zentralarchiv des DHZB. 
 
-## **15. Inkrafttreten** 
+# **15. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

@@ -13,66 +13,37 @@ Klinik für Angeborene Herzfehler – Kinderkardiologie Klinik für Chirurgie An
 
 Anlage 1 Anleitung Reanimationsruf Klinik für Angeborene Herzfehler (Rea-Ruf AHF/CAH) Anlage 2 Flussdiagramm ECMO-Alarm AHF/CAH 
 
-## **Änderungshistorie** 
-
-## **Inhaltsverzeichnis** 
-
-|Mitgeltende Dokumente ................................................................................................................................ 3|Mitgeltende Dokumente ................................................................................................................................ 3|
 |---|---|
-|1.|Ziel ................................................................................................................................................... 3|
-|2.|Grundlagen ...................................................................................................................................... 3|
-|3.|Reanimationsablauf (CPR) .............................................................................................................. 3|
-|3.1|Reanimationsalgorithmus ................................................................................................................ 3|
-|3.2|Vorgehen bei nicht schockbarem Rhythmus ................................................................................... 5|
-|3.3|Vorgehen bei schockbarem Rhythmus ............................................................................................ 5|
-|3.4|Reanimationsmedikamente ............................................................................................................. 6|
-|3.5|Reanimation auf Normalstation (H4) ............................................................................................... 7|
-|4.|ECMO-Implantation unter Reanimation (E-CPR) ............................................................................ 7|
-|5.|Herzfehlerspezifische Besonderheiten ............................................................................................ 8|
-|5.1|Univentrikuläre Anatomie................................................................................................................. 8|
-|5.1.1|Shunt-abhängige Vitien ................................................................................................................... 8|
-|5.1.2|Univentrikuläre Anatomie nach Glenn-/Fontan-Operation .............................................................. 8|
-|5.2|Patienten mit Dextrokardie/Mesokardie ........................................................................................... 8|
 |5.3|Vitien mit ausgeprägter, muskulärer links-/rechtsventrikulärer Ausflusstrakt-Obstruktion/HOCM .. 8|
-|5.4|Pulmonale Hypertonie ..................................................................................................................... 9|
-|6.|Monitoring und Therapie nach einer Reanimation .......................................................................... 9|
-|7.|Patientenverfügung, Therapiebegrenzung ...................................................................................... 9|
-|8.|Anwesenheit der Eltern während einer Reanimation ...................................................................... 9|
-|9.|Debriefing ...................................................................................................................................... 10|
-|10.|Reanimationstraining ..................................................................................................................... 10|
-|11.|Literatur .......................................................................................................................................... 10|
-|12.|Inkrafttreten .................................................................................................................................... 10|
 
 ## **Mitgeltende Dokumente** 
 
 SOP703 Hypothermie/Targeted Temperature Management (TTM) nach kardiopulmonaler Reanimation (AHF/CAH) 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Diese SOP legt abteilungsübergreifende interne Standards am DHZC für die Klinik für Angeborene Herzfehler – Kinderkardiologie (AHF) und die Klinik für Chirurgie Angeborener Herzfehler – Kinderherzchirurgie (CAH) zur Reanimation von pädiatrischen Patienten mit einem angeborenen Herzfehler fest. Abweichungen davon bedürfen einer oberärztlichen bzw. chefärztlichen Anordnung. 
 
-## **2. Grundlagen** 
+# **2. Grundlagen**
 
 Grundlage der in dieser SOP festgelegten Handlungsanweisungen für die Reanimation von pädiatrischen Patienten sind die aktuellen Empfehlungen des European Resuscitation Council, ERC [1], der American Heart Association, AHA [2] und des International Liaison Committee on Resuscitation, ILCOR [3] sowie klinikinterne Standardprozeduren. 
 
-## **3. Reanimationsablauf (CPR)** 
+# **3. Reanimationsablauf (CPR)**
 
-## **3.1 Reanimationsalgorithmus** 
+## **3.1 Reanimationsalgorithmus**
 
 Die kardiopulmonale Reanimation erfolgt nach den aktuellen Empfehlungen des ERC 2021 bzw. der AHA 2020. Das Reanimationsteam wird über den Rea-Ruf AHF/CAH, Tel. 1166, gerufen (Anlage 1). 
 
 Reanimationsteam-KIPS
 1166
-**----- End of picture text -----**
-
 
 Während der kardiopulmonalen Reanimation soll geprüft 
 
 schockbarer Rhythmus vorliegt. Zu den nicht schockbaren Rhythmen gehören pulslose elektrische Aktivität und Asystolie. Zu den schockbaren Rhythmen zählen pulslose Kammertachykardie und Kammerflimmern. 
 
-## **3.2 Vorgehen bei nicht schockbarem Rhythmus** 
+## **3.2 Vorgehen bei nicht schockbarem Rhythmus**
 
-## **3.3 Vorgehen bei schockbarem Rhythmus** 
+## **3.3 Vorgehen bei schockbarem Rhythmus**
 
 Der ECMO-Alarm kann telefonisch ausschließlich von den IPS-Telefonen 2836/2837 ausgelöst werden. Alternativ kann der ECMO-Alarm durch das Drücken der roten Buttons ausgelöst werden. Diese befinden sich auf den Stationen H4 und K-IPS sowie im Herzkatheter 2 (Anlage 2). 
 
@@ -88,7 +59,7 @@ Unter Reanimation soll bei liegendem zentralvenösen/arteriellen Zugang **alle 5
 
 Unter Reanimation soll regelmäßig überprüft werden, ob eine schockbare Rhythmusstörung vorliegt. Bei schlechter Ventilation/Oxygenierung soll unter Reanimation ein Röntgen-Thorax z. A. umgehend behebbarer Ursachen des Kreislaufstillstands (z. B. Pneumothorax/Hämatothorax) durchgeführt werden. 
 
-## **3.4 Reanimationsmedikamente** 
+## **3.4 Reanimationsmedikamente**
 
 **Adrenalin** : Die initiale Gabe von Adrenalin sollte innerhalb von 5 min nach Beginn der Herzdruckmassage appliziert werden. Die Gabe von Adrenalin erfolgt während der Reanimation alle 3– 5 Minuten in einer Dosierung von 10 µg/kg bzw. 0,1 ml/kg der 1:10.000 Lösung. Die maximale Einzeldosis beträgt 1 mg. Bei einem schockbaren Rhythmus wird die Adrenalin-Gabe nach dem 3. Schock begonnen und alle 3–5 Minuten fortgeführt. Höhere Dosierungen von Adrenalin werden nicht routinemäßig empfohlen, da diese weder die Überlebenswahrscheinlichkeit noch das neurologische Outcome verbessern [1-4]. 
 
@@ -104,7 +75,7 @@ NaBi (mmol) = BE (mmol/L)* KGW (kg)* 0,3.
 
 „Überpufferung“ mit resultierender metabolischer Alkalose sollte vermieden werden. 
 
-## **3.5 Reanimation auf Normalstation (H4)** 
+## **3.5 Reanimation auf Normalstation (H4)**
 
 Zu Beginn jeder Schicht auf Intensivstation wird ein Reanimationsteam (Arzt und Pflegekraft) festgelegt, welches für Reanimationen auf Normalstation abrufbar ist. 
 
@@ -120,7 +91,7 @@ Intubation durch Team der IPS und unverzüglicher Transport auf die Intensivstat
 
 Bei bekannt schwierigem Atemweg bzw. spätestens bei Misslingen der **ersten** Intubation umgehend DA Anästhesie hinzurufen (2611). Überbrückend bei ineffektiver Maskenventilation Larynxmaske erwägen. 
 
-## **4. ECMO-Implantation unter Reanimation (E-CPR)** 
+# **4. ECMO-Implantation unter Reanimation (E-CPR)**
 
 Allen pädiatrischen Patienten des DHZC mit refraktärem Herzkreislaufstillstand wird prinzipiell eine E- CPR angeboten, sofern keine Kontraindikationen vorliegen. 
 
@@ -150,9 +121,9 @@ Bei ECMO-Einbau werden 100 IE/kg Heparin als Bolus intravenös appliziert, sofer
 
 Bis zum Eintreffen des CAH-Teams sowie unter ECMO-Implantation soll die CPR **ununterbrochen** nach dem oben beschriebenen Algorithmus durchgeführt werden!! 
 
-## **5. Herzfehlerspezifische Besonderheiten** 
+# **5. Herzfehlerspezifische Besonderheiten**
 
-## **5.1 Univentrikuläre Anatomie** 
+## **5.1 Univentrikuläre Anatomie**
 
 Das Risiko für einen Herzkreislaufstillstand ist bei Patienten mit univentrikulärer Anatomie deutlich höher als bei anderen Patientengruppen bei zugleich schlechterem Outcome [7]. 
 
@@ -160,7 +131,7 @@ Bei Patienten mit einer univentrikulären Anatomie soll der Einsatz von E-CPR un
 
 Bei allen Patienten mit univentrikulärer Anatomie liegt der optimale Druckpunkt für die kardiale Kompression unter Reanimation im unteren Sternum-Drittel und somit tiefer als bei Patienten mit einer biventrikulären Anatomie [8]. Falls trotz adäquaten Kompressionen kein arterieller Mitteldruck zu etablieren ist, sollte die Lokalisation der kardialen Kompression überprüft werden. 
 
-## **5.1.1 Shunt-abhängige Vitien** 
+### **5.1.1 Shunt-abhängige Vitien**
 
 Bei Herzkreislaufstillstand unmittelbarer Beginn einer standardisierten CPR (s. Punkt 3). 
 
@@ -168,25 +139,25 @@ Bei einer Sauerstoffsättigung < 65 % unter CPR und Verdacht auf einen Shunt-Ver
 
 Bei pulmonaler Überflutung mit einer Sauerstoffsättigung > 90 % Beatmung mit einer milden Hyperkapnie (PaCO2: 50–60 mmHg) unter Reanimation. 
 
-## **5.1.2 Univentrikuläre Anatomie nach Glenn-/Fontan-Operation** 
+### **5.1.2 Univentrikuläre Anatomie nach Glenn-/Fontan-Operation**
 
 Bei Herzkreislaufstillstand unmittelbarer Beginn einer standardisierten CPR (s. Punkt 3). 
 
 Unter CPR ist eine milde Hyperkapnie (PaCO 2: 50-60 mmHg) zur Optimierung der zerebralen Perfusion und möglicher Verbesserung des neurologischen Outcomes erstrebenswert [9,10]. 
 
-## **5.2 Patienten mit Dextrokardie/Mesokardie** 
+## **5.2 Patienten mit Dextrokardie/Mesokardie**
 
 Aufgrund der besonderen Anatomie sollte die Effektivität der Herzdruckmassage unter Reanimation unmittelbar nach Reanimationsbeginn überprüft werden. Falls trotz adäquater Thoraxkompressionen kein arterieller Mitteldruck aufbaubar ist, sollte die Lokalisation der Herzdruckmassage verändert werden. 
 
-## **5.3 Vitien mit ausgeprägter, muskulärer links-/rechtsventrikulärer AusflusstraktObstruktion/HOCM** 
+## **5.3 Vitien mit ausgeprägter, muskulärer links-/rechtsventrikulärer AusflusstraktObstruktion/HOCM**
 
 Insbesondere bei HOCM ist die Gabe von Adrenalin kontraindiziert. Bei dieser Patientengruppe sowie bei Patienten mit einer ausgeprägten, muskulären links- oder rechtsventrikulärer Ausflusstraktobstruktion sollten im Fall einer Kreislaufdepression eine frühzeitige Volumengabe (Sterofundin 15–20 ml/kg) sowie Norepinephrin in der Dosierung 10 µg/kg oder 0,1 ml/kg der 1:10.000 Lösung eingesetzt werden. 
 
-## **5.4 Pulmonale Hypertonie** 
+## **5.4 Pulmonale Hypertonie**
 
 Patienten mit einer pulmonalen Hypertonie haben ein erhöhtes Risiko für einen Herzkreislaufstillstand [7]. Im Falle einer Reanimation sollten bei diesen Patienten zusätzlich zum standardisierten Reanimationsablauf folgende Maßnahmen zur Senkung des pulmonalen Gefäßwiderstandes durchgeführt werden: FiO2 von 1,0; inhalatives NO (40 ppm), Hyperventilation mit einem PaCO2 von 30– 35 mmHg sowie Ausgleich/Vermeidung einer Azidose. 
 
-## **6. Monitoring und Therapie nach einer Reanimation** 
+# **6. Monitoring und Therapie nach einer Reanimation**
 
 Folgende Maßnahmen sollten nach einer kardiopulmonalen Reanimation durchgeführt werden, um den Ischämie-Reperfusionsschaden durch ROSC einzugrenzen: 
 
@@ -204,7 +175,7 @@ Nach jeder Reanimation ist ein ausführliches Neuromonitoring (Pupillenstatus, a
 
 Weiterhin soll bei allen Patienten die laborchemische Bestimmung von Protein S100 und NSE zu den Zeitpunkten 0 h, 24 h, 48 h und 72 h nach ROSC durchgeführt werden. 
 
-## **7. Patientenverfügung, Therapiebegrenzung** 
+# **7. Patientenverfügung, Therapiebegrenzung**
 
 Patienten über 18 Jahre: Liegt eine aktuelle Patientenverfügung vor, in der Reanimationsmaßnahmen abgelehnt werden, soll keine Reanimation eingeleitet werden. 
 
@@ -212,7 +183,7 @@ Patienten unter 18 Jahre: Falls zusammen mit den Eltern eine Therapiebegrenzung 
 
 Bei Patienten mit als limitiert oder infaust einzuschätzender Prognose und Unklarheiten bezüglich einer Therapiebegrenzung sollen im Fall eines Kreislaufstillstands Reanimationsmaßnahmen eingeleitet und erst nach Rücksprache mit dem diensthabenden kinderkardiologischen Oberarzt beendet werden. 
 
-## **8. Anwesenheit der Eltern während einer Reanimation** 
+# **8. Anwesenheit der Eltern während einer Reanimation**
 
 Eltern haben die Möglichkeit, während der Reanimation ihres Kindes anwesend zu sein. Studien zufolge unterstützt die Präsenz der Eltern während einer Reanimation den Verarbeitungsprozess bei einem möglichen letalen Ausgang [11]. 
 
@@ -220,15 +191,15 @@ Wenn Eltern bei der Reanimation ihres Kindes anwesend sind, sollte ein Team-Mitg
 
 Bei Eintreffen des chirurgischen Teams sollten Eltern den Raum verlassen, um die Sterilität der chirurgischen Prozeduren zu gewährleisten. 
 
-## **9. Debriefing** 
+# **9. Debriefing**
 
 Nach jeder Reanimation soll innerhalb von 48–72 Stunden eine Nachbesprechung (Debriefing) mit dem durchführenden Team sowie dem zuständigen Oberarzt der Abteilung Kinderkardiologie und Kinderherzchirurgie durchgeführt werden. 
 
-## **10. Reanimationstraining** 
+# **10. Reanimationstraining**
 
 Mitarbeiter im Fachbereich AHF/CAH sollten mindestens 2-jährlich am klinikinternen Reanimationstraining teilnehmen. 
 
-## **11. Literatur** 
+# **11. Literatur**
 
 - [1] Van de Voorde et al. European Resuscitation Council Guidelines 2021: Pediatric Life Support. Resuscitation 2021;161:327-387. 
 
@@ -252,7 +223,7 @@ Mitarbeiter im Fachbereich AHF/CAH sollten mindestens 2-jährlich am klinikinter
 
 - [11] Tinsley C et al. Experience of families during cardiopulmonary resuscitation in a pediatric intensive care unit. Pediatrics 2008;122:e799-804. 
 
-## **12. Inkrafttreten** 
+# **12. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 
@@ -266,7 +237,7 @@ Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft.
 
  **Pflegedienst Kinder-IPS (DECT 1854)**  **Arztdienst Anästhesie (DECT 2710)** 
 
-## **1166 wählen** 
+# **1166 wählen**
 
 ##  
 
@@ -326,8 +297,6 @@ Charité. Bitte begeben Sie sich in
 Telefon 1772 das HK2-Labor.“
 Station IPS1-Kinder Kardiotechnik OP-Pflege Chirurgie 1 Chirurgie 2 CAH Tagdienst  OP-Manager
 1854 2128 1129 externe Rufnummern externe Rufnummern 3422 2710
-**----- End of picture text -----**
-
 
 Stand Februar 2023 
 

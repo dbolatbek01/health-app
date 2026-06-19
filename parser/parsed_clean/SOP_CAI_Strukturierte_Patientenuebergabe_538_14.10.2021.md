@@ -7,27 +7,7 @@ Strukturierte Patientenübergabe
 
 Klinik für Herz-, Thorax- und Gefäßchirurgie: Arztdienst, Pflegedienst Klinik für Kardioanästhesiologie und Intensivmedizin: Arztdienst, Pflegedienst 
 
-## **Änderungshistorie** 
-
-PL IPS 1  Dienst,
- S.
-**----- End of picture text -----**
-
-
-## **Inhaltsverzeichnis** 
-
-|Änderungen zu Version 2.0 .......................................................................................................................... 3|Änderungen zu Version 2.0 .......................................................................................................................... 3|
 |---|---|
-|Mitgeltende Unterlagen ................................................................................................................................ 4||
-|1.|Hintergrund ...................................................................................................................................... 4|
-|2.|Praktisches Vorgehen...................................................................................................................... 4|
-|3.|Strukturierte Übergabe .................................................................................................................... 4|
-|3.1|Anwesende Personen ...................................................................................................................... 4|
-|3.2|Inhalt der Übergabe ......................................................................................................................... 4|
-|3.3|Checkliste ........................................................................................................................................ 5|
-|3.4|Wechsel Transporteinheit auf stationäres Monitoring/Beatmung .................................................... 6|
-|4.|Ausnahmen ...................................................................................................................................... 6|
-|5.|Inkrafttreten ...................................................................................................................................... 6|
 
 ## **Änderungen zu Version 2.0** 
 
@@ -51,11 +31,11 @@ Kapitel 3.2 Inhalt der Übergabe, Assessment:
 
 SOP537 Bolusapplikation Stickstoffmonoxid (iNO) 
 
-## **1. Hintergrund** 
+# **1. Hintergrund**
 
 Die Übergabe stellt einen vulnerablen Punkt im Rahmen der strukturellen Patientenversorgung dar. Um einen Informationsverlust oder einen Informationsüberschuss zu vermeiden, hat sich die Etablierung einer checklistenbasierten Übergabe bewährt. Die Übergabe ist auch im Sinne eines Team-Time-Outs zu sehen. 
 
-## **2. Praktisches Vorgehen** 
+# **2. Praktisches Vorgehen**
 
 Die Checkliste (3.3) wird laminiert an jeder Transporteinheit vorgehalten und sollte als Grundlage der Übergabe dienen. 
 
@@ -67,9 +47,9 @@ Die ärztliche Verantwortung für den Patienten verbleibt bis zum vollständigen
 
 Die Übergabe IPS  OP erfolgt in einer der Patientenschleusen und beginnt mit der Anwesenheit aller erforderlichen Personen. Ein zeitgleiches Umlagern sollte während der Übergabe unterbleiben. 
 
-## **3. Strukturierte Übergabe** 
+# **3. Strukturierte Übergabe**
 
-## **3.1 Anwesende Personen** 
+## **3.1 Anwesende Personen**
 
 -  Arztdienst / PA IPS 
 
@@ -79,7 +59,7 @@ Die Übergabe IPS  OP erfolgt in einer der Patientenschleusen und beginnt mit
 
 -  Arztdienst / PA HTG (nur bei Übergabe OP  IPS) 
 
-## **3.2 Inhalt der Übergabe** 
+## **3.2 Inhalt der Übergabe**
 
 Der Inhalt der Übergabe stellt die Gewährleistung eines möglichst geringen Informationsverlustes dar. Untenstehende Punkte können nach eigenem Ermessen ergänzt werden. Ein Informationsüberschuss ist jedoch unter Berücksichtigung der relevanten Inhalte zu vermeiden. 
 
@@ -129,7 +109,7 @@ Der Inhalt der Übergabe stellt die Gewährleistung eines möglichst geringen In
 
 - durchzuführende wichtige Medikamentengaben (z. B. Immunsuppression) 
 
-## **3.3 Checkliste** 
+## **3.3 Checkliste**
 
 ## **Übergabecheckliste SBAR** 
 
@@ -167,17 +147,17 @@ Der Inhalt der Übergabe stellt die Gewährleistung eines möglichst geringen In
 
 - - durchzuführende wichtige Medikamentengaben (z. B. Immunsuppression)) 
 
-## **3.4 Wechsel Transporteinheit auf stationäres Monitoring/Beatmung** 
+## **3.4 Wechsel Transporteinheit auf stationäres Monitoring/Beatmung**
 
 Der Wechsel des Monitorings von der Transporteinheit oder dem Transportmonitor auf das stationäre System erfolgt in Absprache der verlegenden Ärztin bzw. des Arztes oder PA mit der übernehmenden IPS-Pflegekraft durch Übernahme/-gabe des Moduls. Paralleltätigkeiten sind bis zum sichergestellten Transfer des hämodynamischen Monitorings zu unterlassen. 
 
 Der Wechsel von der Transportbeatmung auf den Intensivrespirator erfolgt in Verantwortung der verlegenden Ärztin bzw. des Arztes oder PA. Die vorzunehmenden initialen Einstellungen des Intensivrespirators können hierbei entweder mündlich an die annehmenden Kollegen der Intensivmedizin übergeben werden oder von der verlegenden Ärztin bzw. des Arztes oder PA selbst vorgenommen werden. Die Sicherstellung des korrekten Übergangs der Beatmung inkl. ggf. der laufenden iNO-Therapie (s. a. SOP Nr. 537) ist integraler Bestandteil der Patientenübergabe und liegt in der Verantwortung des ärztlichen Dienstes. 
 
-## **4. Ausnahmen** 
+# **4. Ausnahmen**
 
 Ausnahmen sind Notfälle, hier sollte eine individuelle Anpassung der Übergabeinhalte erfolgen. Auf eine Identifikation der Patientin oder des Patienten darf in keinem Fall verzichtet werden. 
 
-## **5. Inkrafttreten** 
+# **5. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

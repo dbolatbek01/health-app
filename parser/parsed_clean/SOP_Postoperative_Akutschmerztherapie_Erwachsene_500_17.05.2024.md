@@ -7,37 +7,11 @@ Postoperative Akutschmerztherapie erwachsener Patienten (Akutschmerz)
 
 Standort CVK Augustenburger Platz mit Ausnahme der Kliniken AHF/CAH 
 
-## **Inhaltsverzeichnis** 
+Dienst, S.
 
-|1.|Hintergrund und Ziel ........................................................................................................................ 3|
 |---|---|
-|2.|Geltungsbereich ............................................................................................................................... 3|
-|3.|Prozessbeschreibung ...................................................................................................................... 3|
-|3.1|Beginn und Ansetzen der Schmerztherapie .................................................................................... 3|
-|3.1.1|Voraussetzungen patientenseitig .................................................................................................... 3|
-|3.1.2|Voraussetzungen, die die Verordnung betreffen ............................................................................. 3|
-|3.2|Behandlungsschema ....................................................................................................................... 4|
-|3.3|Vorgehen bei unzureichender Analgesie ......................................................................................... 5|
-|3.4|Nicht medikamentöse Maßnahmen zur Schmerzbewältigungsunterstützung ................................ 5|
-|3.5|Beendigung der Therapie mit Opioide ............................................................................................. 5|
-|3.6|Spezielle Patientengruppen ............................................................................................................. 5|
-|3.6.1|Chronische Schmerzpatienten ........................................................................................................ 5|
-|3.6.2|Drogenabhängige Patienten und Patienten unter Substitution ....................................................... 6|
-|3.6.3|Patienten mit Organinsuffizienz (Niereninsuffizienz, Leberinsuffizienz) .......................................... 6|
-|3.7|Schmerzmessung, Monitoring, Dokumentation ............................................................................... 6|
-|3.7.1|Instrumente zur Schmerzmessung .................................................................................................. 6|
-|3.7.1.1|Instrumente zur Selbsteinschätzung ............................................................................................... 6|
-|3.7.1.2|Instrumente zur Fremdeinschätzung von Schmerzen ..................................................................... 6|
-|3.7.2|Zeitpunkte der Schmerzmessung .................................................................................................... 7|
-|3.7.3|Interventionsgrenzen ....................................................................................................................... 7|
-|4.|Opioid-Nebenwirkungen: Therapie und Komplikationsmanagement .............................................. 7|
-|4.1|Übelkeit, Erbrechen ......................................................................................................................... 7|
-|4.2|Obstipation ....................................................................................................................................... 7|
-|4.3|Überdosierung ................................................................................................................................. 8|
-|5.|Mitgeltende Dokumente ................................................................................................................... 8|
-|Anhang: Pharmakotherapie .......................................................................................................................... 9||
 
-## **1. Hintergrund und Ziel** 
+# **1. Hintergrund und Ziel**
 
 Nach operativen Eingriffen werden in Abhängigkeit vom postoperativen Schmerzniveau eine Kombination aus Nicht-Opioid-Analgetika und oralen Opioiden (stark wirksamen Opioiden WHO-Stufe III) zur postoperativen Schmerztherapie eingesetzt, sobald eine enterale Verabreichung möglich ist. 
 
@@ -55,13 +29,13 @@ In erster Linie werden folgende Patientengruppen eingeschlossen:
 
 - Patienten mit Langzeit-Wundheilungsstörungen und erhöhtem Analgetika-Bedarf 
 
-## **2. Geltungsbereich** 
+# **2. Geltungsbereich**
 
 Die vorliegende SOP dient abteilungsübergreifend als Leitfaden zur perioperativen Akutschmerztherapie bei erwachsenen Patienten des DHZC am Standort Augustenburger Platz. Sie gilt nicht für die Klinik für Angeborene Herzfehler (AHF) und die Klinik für Chirurgie Angeborener Herzfehler (CAH). Für alle übrigen Standorte gilt die ZVA Schmerzmanagement: Akuter Schmerz. 
 
-## **3. Prozessbeschreibung** 
+# **3. Prozessbeschreibung**
 
-## **3.1 Beginn und Ansetzen der Schmerztherapie** 
+## **3.1 Beginn und Ansetzen der Schmerztherapie**
 
 Das Therapieschema wird postoperativ, sobald eine enterale Verabreichung möglich ist, vom zuständigen IPS- oder PACU-Arzt im m.life-Behandlungsplan angesetzt. 
 
@@ -69,7 +43,7 @@ Sollte dies vor Verlegung auf die peripheren Stationen nicht erfolgt sein, wird 
 
 Die ersten Medikamentengaben erfolgen vor der Verlegung auf eine Periphere Station noch in einem Überwachungsbereich, um allergische Reaktionen oder Dosierungsprobleme (sowohl Über- als auch Unterdosierungen) rechtzeitig zu erkennen. 
 
-## **3.1.1 Voraussetzungen patientenseitig** 
+### **3.1.1 Voraussetzungen patientenseitig**
 
 Der Patient muss für eine orale Schmerztherapie folgende Kriterien erfüllen: 
 
@@ -85,7 +59,7 @@ Der Patient muss für eine orale Schmerztherapie folgende Kriterien erfüllen:
 
 - Postoperative Aufsättigung mit Opioid-Analgetika i.v. ist erfolgt 
 
-## **3.1.2 Voraussetzungen, die die Verordnung betreffen** 
+### **3.1.2 Voraussetzungen, die die Verordnung betreffen**
 
 Erforderliches Aktivwissen vor Verschreibung bzw. Verabreichung: 
 
@@ -97,7 +71,7 @@ Erforderliches Aktivwissen vor Verschreibung bzw. Verabreichung:
 
 - Anamnestisch Substanz-Abusus 
 
-## **3.2 Behandlungsschema** 
+## **3.2 Behandlungsschema**
 
 NRS = Numerical Rating Scala (siehe 3.7.1.1) 
 
@@ -131,11 +105,11 @@ Umrechnungshilfe mittels Äquivalenzdosen:
 
 Metamizol: i.v. 4x 1000 mg – Kurzinfusion bzw. oral 4x 20-40 gtt Falls Metamizol kontraindiziert Gabe von Paracetamol iv. 4x 1000 mg – Kurzinfusion 
 
-## **3.3 Vorgehen bei unzureichender Analgesie** 
+## **3.3 Vorgehen bei unzureichender Analgesie**
 
 Wenn unter laufender Therapie ein erhöhter zusätzlicher Analgetikabedarf > 4 x 5–10 mg Oxygesic Dispersa/Tag liegt und trotzdem im Schmerzscoring die NRS > 3/10 in Ruhe bzw. NRS > 5/10 unter Belastung angegeben wird, bzw. die Schmerzzufriedenheit unzureichend ist, ist die **Basisanalgesie zu erhöhen. Die Ursache weiterbestehender oder ansteigender postoperativer Schmerzen muss abgeklärt werden.** 
 
-## **3.4 Nicht medikamentöse Maßnahmen zur Schmerzbewältigungsunterstützung** 
+## **3.4 Nicht medikamentöse Maßnahmen zur Schmerzbewältigungsunterstützung**
 
 - 
 
@@ -163,7 +137,7 @@ Wenn unter laufender Therapie ein erhöhter zusätzlicher Analgetikabedarf > 4 x
 
 Das bewusste Verabreichen unwirksamer Substanzen als „Placebo“ ist unethisch, zerstört das Vertrauensverhältnis zum Patienten und vermindert die zukünftige Wirksamkeit „echter“ Verfahren, da der Patient diesen dann mit einer negativen Erwartung gegenüberstehen kann. 
 
-## **3.5 Beendigung der Therapie mit Opioide** 
+## **3.5 Beendigung der Therapie mit Opioide**
 
 Die Schmerztherapie nach dem Targin-Schema wird in der Regel nach 3 Tagen beendet, Verbleiben darüber hinaus noch Thoraxdrainagen und verursachen Schmerzen, wird die Schmerztherapie entsprechend angepasst. 
 
@@ -171,9 +145,9 @@ Ein sogenanntes „Abtitrieren“ der Opioid-Dosis ist nach dieser relativ kurze
 
 Ein verlängert bestehender Opioid-Bedarf muss täglich reevaluiert werden. 
 
-## **3.6 Spezielle Patientengruppen** 
+## **3.6 Spezielle Patientengruppen**
 
-## **3.6.1 Chronische Schmerzpatienten** 
+### **3.6.1 Chronische Schmerzpatienten**
 
 Patienten mit chronischen Schmerzen und einer dauerhaften Analgetika-Einnahme sollen bereits bei Aufnahme im Rahmen der Aufnahme und Anamneseerhebung durch die aufnehmende Station als auch im Rahmen der Prämedikation durch die Anästhesisten identifiziert werden. 
 
@@ -189,7 +163,7 @@ Patienten mit chronischen Schmerzen und einer dauerhaften Analgetika-Einnahme so
 
 - Abstinente („exsüchtige“) Patienten können hingegen sehr empfindlich auf Opioide reagieren 
 
-## **3.6.2 Drogenabhängige Patienten und Patienten unter Substitution** 
+### **3.6.2 Drogenabhängige Patienten und Patienten unter Substitution**
 
 - Zur Einschätzung des Substanzbedarfs des aktiv Süchtigen ist ein offener, professioneller Umgang erforderlich 
 
@@ -205,11 +179,11 @@ Patienten mit chronischen Schmerzen und einer dauerhaften Analgetika-Einnahme so
 
 - Substitution des gewohnten Opioidbedarfs plus Gabe des durch die Operation bedingten zusätzlichen Analgetikabedarfs 
 
-## **3.6.3 Patienten mit Organinsuffizienz (Niereninsuffizienz, Leberinsuffizienz)** 
+### **3.6.3 Patienten mit Organinsuffizienz (Niereninsuffizienz, Leberinsuffizienz)**
 
 - s. Anhang Pharmakotherapie Punkt 3. und 4. 
 
-## **3.7 Schmerzmessung, Monitoring, Dokumentation** 
+## **3.7 Schmerzmessung, Monitoring, Dokumentation**
 
 Neben Puls, Blutdruck, Atmung und Temperatur ist die Schmerzstärke der fünfte zu registrierende Vitalparameter. Erfragt werden soll jeweils 
 
@@ -221,9 +195,9 @@ Neben Puls, Blutdruck, Atmung und Temperatur ist die Schmerzstärke der fünfte 
 
 Das Monitoring der Schmerzerfassung und Schmerztherapie wird gekoppelt an die Erfassung der Vitalparameter und in m.life dokumentiert. 
 
-## **3.7.1 Instrumente zur Schmerzmessung** 
+### **3.7.1 Instrumente zur Schmerzmessung**
 
-## **3.7.1.1 Instrumente zur Selbsteinschätzung** 
+### **3.7.1.1 Instrumente zur Selbsteinschätzung**
 
 ## - Numerische Rating Skala (NRS) 
 
@@ -235,7 +209,7 @@ Das Monitoring der Schmerzerfassung und Schmerztherapie wird gekoppelt an die Er
 
 „kein Schmerz – gering – mäßig – mittel – stark – sehr stark – unerträglicher Schmerz“ 
 
-## **3.7.1.2 Instrumente zur Fremdeinschätzung von Schmerzen** 
+### **3.7.1.2 Instrumente zur Fremdeinschätzung von Schmerzen**
 
 (Bei nicht selbstauskunftsfähigen Patienten anzuwenden) 
 
@@ -262,7 +236,7 @@ Auswertung Punkteanzahl:
 
 > 5 Punkte ggf. Analgesie intensivieren 
 
-## **3.7.2 Zeitpunkte der Schmerzmessung** 
+### **3.7.2 Zeitpunkte der Schmerzmessung**
 
 - Bei Aufnahme des Patienten 
 
@@ -278,7 +252,7 @@ Auswertung Punkteanzahl:
 
 - Vor und 30–60 Minuten nach jeder zusätzlich erfolgten Analgetika-Gabe 
 
-## **3.7.3 Interventionsgrenzen** 
+### **3.7.3 Interventionsgrenzen**
 
 - Schmerzintensität NRS > 3/10 in Ruhe 
 
@@ -288,13 +262,13 @@ Auswertung Punkteanzahl:
 
 - Unzureichende Schmerzzufriedenheit: mit dem Patienten muss klar kommuniziert werden, dass ein postoperatives Schmerzniveau von NRS 3/10 in Ruhe bzw. < 5/10 bei Belastung eine GUTE Analgesie bedeutet, eine völlige Schmerzfreiheit ist – insbesondere solange Drainagen liegen – ohne gefährliche Nebenwirkungen nicht erzielbar! 
 
-## **4. Opioid-Nebenwirkungen: Therapie und Komplikationsmanagement** 
+# **4. Opioid-Nebenwirkungen: Therapie und Komplikationsmanagement**
 
 Die typischen Nebenwirkungen von Opiaten/Opioiden sind Übelkeit, Erbrechen, Obstipation und am folgenschwersten die sedierende Wirkung, die über eine Vigilanzminderung bis zur Atemdepression führen kann. 
 
 Klinisch relevante Nebenwirkungen werden in m.life unter „Schmerztherapie“ dokumentiert. 
 
-## **4.1 Übelkeit, Erbrechen** 
+## **4.1 Übelkeit, Erbrechen**
 
 - Ondansetron (Zofran) 4 (-8 mg) Kurzinfusion i.v. (bis 3 x täglich) 
 
@@ -308,7 +282,7 @@ Klinisch relevante Nebenwirkungen werden in m.life unter „Schmerztherapie“ d
 
 - Laxoberal 10–30 gtt/Tag p.os 
 
-## **4.3 Überdosierung** 
+## **4.3 Überdosierung**
 
 - **Cave:** Vigilanzminderung, Atemdepression: Potenziell lebensbedrohlich! 
 
@@ -324,13 +298,13 @@ Klinisch relevante Nebenwirkungen werden in m.life unter „Schmerztherapie“ d
 
 - Dosierung: 1 Amp. = 1 ml (= 0,4 mg) **+** 9 ml NaCl 0,9 %, titrierte Gabe i.v. nach Wirkung 
 
-## **5. Mitgeltende Dokumente** 
+# **5. Mitgeltende Dokumente**
 
 ZVA Schmerzmanagement: Akuter Schmerz 
 
 ## **Anhang: Pharmakotherapie** 
 
-## **1. Opioid-Analgetika** 
+# **1. Opioid-Analgetika**
 
 **Targin:** Kombination Oxycodon plus Naloxon 
 
@@ -346,7 +320,7 @@ ZVA Schmerzmanagement: Akuter Schmerz
 
 - ˗ dient als **Bedarfsanalgetikum** („Rescue“-Dosis) bei insuffizienter Schmerztherapie und Schmerzspitzen 
 
-## **2. Nicht-Opioid-Analgetika (NOPA)** 
+# **2. Nicht-Opioid-Analgetika (NOPA)**
 
 - **Metamizol:** NOPA aus der Gruppe der „Nicht sauren antipyretischen Analgetika /Pyrazolone 
 
@@ -408,7 +382,7 @@ ZVA Schmerzmanagement: Akuter Schmerz
 
 - ˗ Aktive gastrointestinale Blutung, aktive peptische Ulcera 
 
-## **3. Niereninsuffizienz** 
+# **3. Niereninsuffizienz**
 
 **Oxycodon** : Bei leicht- bis mittelgradiger Niereninsuffizienz ist keine Dosisanpassung notwendig. Bei hochgradiger Niereninsuffizienz sollte die Anfangsdosis halbiert werden 
 
@@ -430,7 +404,7 @@ In seltenen Fällen können NSAR eine interstitielle Nephritis, Nierenpapillenne
 
 Kreatininclearance < 30 ml/min: Kontraindikation für NSAR 
 
-## **4. Leberinsuffizienz** 
+# **4. Leberinsuffizienz**
 
 **Oxycodon** : Clearance reduziert, Halbwertszeit verlängert (4-fach) > Dosis reduzieren **Metamizol** : keine Dosisänderung **Paracetamol** : Kontraindiziert 
 

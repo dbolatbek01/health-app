@@ -12,23 +12,7 @@ Pflegedienst, Klinik für Angeborene Herzfehler – Kinderkardiologie, Klinik f�
 |**Version**|**gültig ab**|**Verfasser**|**Freigabe**|**Änderungsgrund**|**Wiedervorlage**|
 |1.0|15.06.2019|Dentzer, J.|Polle, M.|Ersterstellung|15.06.2021|
 
-## **Inhaltsverzeichnis** 
-
-|Änderungen zu Version 1.0 .......................................................................................................................... 3|Änderungen zu Version 1.0 .......................................................................................................................... 3|
 |---|---|
-|Mitgeltende Unterlagen ................................................................................................................................ 4||
-|1.|Ziel und Zweck ................................................................................................................................. 4|
-|2.|Gesetze, Verordnungen, Leitlinien und Empfehlungen ................................................................... 4|
-|3.|Indikation, Kontraindikation ............................................................................................................. 4|
-|4.|Patientenvorbereitung ...................................................................................................................... 4|
-|5.|Untersuchungsablauf ....................................................................................................................... 5|
-|6.|Einstelltechnik, Lagerung................................................................................................................. 6|
-|7.|Aufnahmetechnik Bett-Thorax a.p. (Richtwerte) ............................................................................. 6|
-|8.|Aufnahmekriterien nach BÄK-Leitlinie ............................................................................................. 7|
-|9.|Strahlenschutz ................................................................................................................................. 7|
-|10.|Bildverarbeitung, Bildbearbeitung .................................................................................................... 8|
-|11.|Dokumentation, Befundung, Leistungserfassung ............................................................................ 9|
-|12.|Inkrafttreten ...................................................................................................................................... 9|
 
 ## **Änderungen zu Version 1.0** 
 
@@ -40,11 +24,11 @@ _Die digitale Röntgenanforderung wird mit ausgefüllter ROE-Nummer abgeschlosse
 
 SOP145 Anforderung und Befundung von Röntgenaufnahmen SOP058 Hygienehandbuch Liste aller Ärzte mit Fachkunde im Strahlenschutz (im Intranet) 
 
-## **1. Ziel und Zweck** 
+# **1. Ziel und Zweck**
 
 Durchführung einer kontrastreichen Thorax-Übersichtsaufnahme im Liegen im Bett bei überwachungspflichtigen oder nicht transportfähigen Säuglingen, Kindern und Jugendlichen. 
 
-## **2. Gesetze, Verordnungen, Leitlinien und Empfehlungen** 
+# **2. Gesetze, Verordnungen, Leitlinien und Empfehlungen**
 
 1. Gesetz zum Schutz vor der schädlichen Wirkung ionisierender Strahlung (Strahlenschutzgesetz – StrlSchG) 
 
@@ -54,7 +38,7 @@ Durchführung einer kontrastreichen Thorax-Übersichtsaufnahme im Liegen im Bett
 
 5. Bildgebende Diagnostik beim Kind – Strahlenschutz, Rechtfertigung und Effektivität. Empfehlung der Strahlenschutzkommission (SSK) 
 
-## **3. Indikation, Kontraindikation** 
+# **3. Indikation, Kontraindikation**
 
 ## **Indikation** 
 
@@ -72,7 +56,7 @@ Weitere Indikationen siehe Leitlinien für die Überweisung zur Durchführung vo
 
 Voraufnahmen unmittelbar vorher, DA-Untersuchung, Schwangerschaft 
 
-## **4. Patientenvorbereitung** 
+# **4. Patientenvorbereitung**
 
 - Kind und Eltern über den Untersuchungsablauf informieren 
 
@@ -88,7 +72,7 @@ Voraufnahmen unmittelbar vorher, DA-Untersuchung, Schwangerschaft
 
 Die optimale Patientenvorbereitung ist sehr wichtig. So wird die Belastung für den kleinen Patienten so gering wie möglich gehalten. Gleichzeitig wird trotz der schwierigen Bedingungen auf z. B. einer Intensivstation eine qualitativ gute Aufnahme erzielt. Die Durchführung dieser Aufnahme im Liegen erfordert eine enge und gute Zusammenarbeit zwischen Ärzten, Pflege- und Röntgenpersonal. 
 
-## **5. Untersuchungsablauf** 
+# **5. Untersuchungsablauf**
 
 Verantwortlichkeiten
 Arzt mit Mitarbeiter Pflege-
@@ -114,10 +98,8 @@ ja
 Dokumentation
 Leistungserfassung X X
 und Befundung (Arzt)
-**----- End of picture text -----**
 
-
-## **6. Einstelltechnik, Lagerung** 
+# **6. Einstelltechnik, Lagerung**
 
 - Symmetrische Rückenlage 
 
@@ -143,7 +125,7 @@ und Befundung (Arzt)
 
 - Detektor 24/30 bei a.p.-Aufnahmen quer 
 
-## **7. Aufnahmetechnik Bett-Thorax a.p. (Richtwerte)** 
+# **7. Aufnahmetechnik Bett-Thorax a.p. (Richtwerte)**
 
 Die Werte der Tabelle sind Richtwerte. Konstitution sowie Wachstumsverhältnisse eines jeden Kindes müssen individuell berücksichtigt werden. Als Richtwert gilt zuerst immer das Gewicht, das Alter nur, wenn das Gewicht nicht bekannt ist. 
 
@@ -174,7 +156,7 @@ Die Werte der Tabelle sind Richtwerte. Konstitution sowie Wachstumsverhältnisse
 |**ab 16 a Thorax a.p.**
 **liegend**||35 x 43|digital|130|105|1,0|keiner|15|
 
-## **8. Aufnahmekriterien nach BÄK-Leitlinie** 
+# **8. Aufnahmekriterien nach BÄK-Leitlinie**
 
 - Symmetrische Darstellung des Thorax in Inspiration 
 
@@ -190,15 +172,15 @@ Die Werte der Tabelle sind Richtwerte. Konstitution sowie Wachstumsverhältnisse
 
 - Visuell scharfe Darstellung des Zwerchfells 
 
-## **9. Strahlenschutz** 
+# **9. Strahlenschutz**
 
 - Bleigummiabdeckung der an die Einblendung des Nutzstrahlenfelds anschließenden Körperabschnitte 
 
 - Weitere im Raum befindliche Kinder werden mit Gonadenschutz versehen. 
 
-## **10. Bildverarbeitung, Bildbearbeitung** 
+# **10. Bildverarbeitung, Bildbearbeitung**
 
-## **11. Dokumentation, Befundung, Leistungserfassung** 
+# **11. Dokumentation, Befundung, Leistungserfassung**
 
 Die Dokumentation und die Befundung erfolgen im RIS (CardIS). 
 
@@ -232,7 +214,7 @@ Die Archivierung erfolgt über das hausinterne PACS (ISCV).
 
 Die elektronische Röntgenanforderung wird mit ausgefüllter ROE-Nummer abgeschlossen und ist in der digitalen Krankenakte des Patienten gespeichert. (Aufbewahrungspflicht). 
 
-## **12. Inkrafttreten** 
+# **12. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

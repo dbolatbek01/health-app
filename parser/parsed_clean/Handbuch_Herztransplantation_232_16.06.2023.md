@@ -3,181 +3,19 @@
 
 (HTX-Manual) 
 
-## **Inhaltsverzeichnis** 
-
-|Präambel ...................................................................................................................................................... 8|Präambel ...................................................................................................................................................... 8|
 |---|---|
-|1.|Ambulante Evaluation vor Herztransplantation ............................................................................... 9|
-|1.1|Allgemeines ..................................................................................................................................... 9|
-|1.2|Anhaltspunkte für eine Transplantationsindikation ........................................................................ 10|
-|1.3|Kontraindikationen ......................................................................................................................... 10|
-|1.3.1|Absolute Kontraindikationen .......................................................................................................... 10|
-|1.3.2|Relative Kontraindikationen ........................................................................................................... 10|
-|1.4|VAD-Implantation bei Patienten auf der Transplantationswarteliste ............................................. 13|
-|1.5|Besonderheiten der präoperativen TPG-Testung bei VAD-Patienten ........................................... 13|
-|1.6|Checkliste Untersuchungen und Impfungen vor Herztransplantation ........................................... 14|
-|1.7|Literatur .......................................................................................................................................... 15|
-|2.|Immunologische Diagnostik vor Herztransplantation .................................................................... 16|
-|3.|Psychosomatische Prätranspantationsevaluation ......................................................................... 18|
-|3.1|Absolute und relative Kontraindikationen aus Sicht der Psychosomatik ....................................... 18|
-|3.2|Literatur .......................................................................................................................................... 19|
-|4.|Transplantationskonferenz ............................................................................................................ 20|
-|5.|Patientenaufklärung bei Herz-, Herz-Lungen- und Lungentransplantation ................................... 21|
-|5.1|Rechtliche Vorgaben ..................................................................................................................... 21|
-|5.2|Eingriffsaufklärung und Einwilligung .............................................................................................. 21|
 |6.|Behandlung der bei Eurotransplant zur Transplantation HU-gelisteten Patienten in der Wartezeit|
-||....................................................................................................................................................... 24|
-|7.|Ablauf bei Organangebot ............................................................................................................... 26|
-|7.1|Annahme des Organangebots ....................................................................................................... 26|
-|7.2|Datenerfassung des Organangebots ............................................................................................. 27|
-|7.3|Akzeptanz des Organangebots ..................................................................................................... 27|
-|7.4|Kontaktaufnahme mit dem Organempfänger ................................................................................ 28|
-|7.5|Kontaktaufnahme mit dem Spenderkrankenhaus ......................................................................... 28|
-|7.6|Erstellung eines Zeitplans zur Organentnahme ............................................................................ 28|
-|7.7|Entnahmearzt und Perfusionsdienst .............................................................................................. 30|
 
-|7.8|Reihenfolge der Informationsweitergabe ....................................................................................... 30|
 |---|---|
-|7.9|Eintreffen des Organempfängers .................................................................................................. 30|
-|7.10|Entnahmeteam im Spenderkrankenhaus, vorläufiges und definitives O. K. ................................. 31|
-|7.11|Besonderheit Kombinierte Transplantation Niere und thorakales Organ ...................................... 31|
 |7.12|Besonderheit Lungentransplantation bei im CVK behandelten ECMO-Patienten auf Station 8 ... 32|
-|8.|Evaluation Spenderherz ................................................................................................................ 33|
-|8.1|Ziel der Spenderbeurteilung .......................................................................................................... 33|
-|8.1.1|Vorerkrankungen ........................................................................................................................... 33|
-|8.1.2|Hirntod-assoziierte Schäden ......................................................................................................... 33|
-|8.1.3|Spenderunabhängige Parameter .................................................................................................. 33|
-|8.2|Bedeutung der Spenderkriterien .................................................................................................... 34|
-|8.2.1|Spenderalter, Kreislaufparameter und Ischämiezeit ..................................................................... 34|
-|8.2.2|Beurteilung weiterer Spenderparameter ........................................................................................ 36|
-|8.2.3|Parameterkatalog zur Beurteilung von Spenderherzen ................................................................ 39|
-|8.3|Literatur .......................................................................................................................................... 40|
-|9.|Herztransplantation: Organentnahme und Organkonservierung .................................................. 41|
-|9.1|Besonderheiten bei der Herzentnahme bei Empfängern mit angeborenen Herzfehlern .............. 45|
-|9.2|Checkliste Herzentnahme.............................................................................................................. 45|
-|10.|Präoperative Vorbereitung und Narkoseführung bei Herztransplantation ..................................... 46|
-|10.1|Vorbereitung der Transplantation .................................................................................................. 46|
-|10.2|Monitoring und Narkoseführung .................................................................................................... 46|
-|10.3|Intraoperatives Management ......................................................................................................... 47|
-|10.4|Kombination thorakale und abdominelle Transplantation ............................................................. 48|
-|10.5|Literatur .......................................................................................................................................... 48|
-|11.|Herztransplantation – Transplantationsoperation .......................................................................... 49|
-|11.1|Exzision des Empfängerherzens – biatriale Technik ..................................................................... 49|
-|11.2|Exzision des Empfängerherzens – bicavale Technik .................................................................... 52|
-|11.3|Vorbereitung des Spenderherzens ................................................................................................ 52|
-|11.4|Implantation des Spenderherzens (biatriale Technik) ................................................................... 52|
-|11.5|Implantation des Spenderherzens (bicavale Technik) .................................................................. 55|
-|11.6|Blutungen ....................................................................................................................................... 55|
 
-|11.7|Reperfusion ................................................................................................................................... 55|
 |---|---|
-|11.8|Beenden der extrakorporalen Zirkulation ...................................................................................... 56|
-|11.9|Literatur .......................................................................................................................................... 57|
-|12.|Herztransplantation und ECMO ..................................................................................................... 58|
-|13.|Herztransplantation und Assist Device .......................................................................................... 59|
-|14.|Intensivmedizinisches Management nach Herztransplantation .................................................... 60|
-|14.1|Einleitung ....................................................................................................................................... 60|
-|14.2|Übernahme auf Intensivstation ...................................................................................................... 60|
-|14.3|Hämodynamisches Monitoring und Standardmedikation .............................................................. 60|
-|14.4|Volumenersatztherapie und Nierenfunktion .................................................................................. 62|
-|14.5|Bildgebende Verfahren und Labordiagnostik ................................................................................ 62|
-|14.6|Echokardiographie ......................................................................................................................... 63|
-|14.7|Beatmung und respiratorisches Weaning ...................................................................................... 63|
-|14.8|Postoperative Gerinnungsstörung ................................................................................................. 64|
-|14.9|Herzrhythmusstörungen ................................................................................................................ 65|
-|14.10|Infektkontrolle und antimikrobielle Therapie .................................................................................. 66|
-|14.11|Ernährung und Stoffwechsel ......................................................................................................... 66|
-|14.12|Pulmonale Hypertonie und ventrikuläre Dysfunktion ..................................................................... 67|
-|14.13|Behandlungsalgorithmus bei pulmonaler Hypertonie und Rechtsherzdysfunktion ....................... 69|
-|14.14|Literatur .......................................................................................................................................... 69|
-|15.|Wundinfektion ................................................................................................................................ 73|
-|15.1|Einleitung ....................................................................................................................................... 73|
-|15.2|Inzidenz.......................................................................................................................................... 73|
-|15.3|Klassifikation .................................................................................................................................. 73|
-|15.4|Therapieverfahren ......................................................................................................................... 73|
-|15.4.1|Saug-Spül-Drainage mit Sternum-Reverdrahtung und Omentum-majus-Hochzug ...................... 74|
-|15.4.2|Vakuum-assistierte Drainage mit sekundärem plastischem Wundverschluss .............................. 75|
-|15.5|Schlussfolgerung ........................................................................................................................... 76|
-|15.6|Literatur .......................................................................................................................................... 76|
-|16.|Häufige Infektionen nach Herztransplantation............................................................................... 77|
-|16.1|Multiresistente Erreger ................................................................................................................... 77|
 
-|16.1.1|Prävention ..................................................................................................................................... 77|
 |---|---|
-|16.1.2|Behandlung von Infektionen bei Herztransplantierten .................................................................. 77|
-|16.1.3|Behandlung von Infektionen mit MDR gramnegativen Bakterien ................................................. 79|
-|16.1.4|Behandlung von Infektionen mit MRSA ........................................................................................ 81|
-|16.1.5|Behandlung von Vancomycin-resistenten Enterokokken (VRE) .................................................. 82|
-|16.1.6|Literatur ......................................................................................................................................... 82|
-|16.2|Cytomegalievirus (CMV) ................................................................................................................ 83|
-|16.2.1|Einleitung ...................................................................................................................................... 83|
-|16.2.2|Einteilung ...................................................................................................................................... 83|
-|16.2.3|Diagnostik ..................................................................................................................................... 84|
-|16.2.4|Prävention der CMV-Erkrankung .................................................................................................. 84|
-|16.2.5|Therapie ........................................................................................................................................ 85|
-|16.2.6|Therapeutisches Drugmonitoring ................................................................................................. 86|
-|16.2.7|Impfung ......................................................................................................................................... 86|
-|16.2.7|Literatur ......................................................................................................................................... 90|
-|16.3|Clostridioides-difficile-Infektion (CDI) ............................................................................................ 91|
-|16.3.1|Epidemiologie und Risikofaktoren ................................................................................................ 91|
-|16.3.2|CDI-Diagnose ............................................................................................................................... 91|
-|16.3.3|CDI-Behandlung ............................................................................................................................ 92|
-|16.3.4|Literatur .......................................................................................................................................... 95|
-|16.4|Pneumocystis-Pneumonie (PcP) ................................................................................................... 96|
-|16.4.1|Epidemiologie und Risikofaktoren ................................................................................................ 96|
-|16.4.2|PcP – Klinik und Diagnosestellung ............................................................................................... 96|
-|16.4.3|PcP-Behandlung ........................................................................................................................... 97|
-|16.4.4|PcP-Prophylaxe ............................................................................................................................ 98|
-|16.4.5|Literatur ......................................................................................................................................... 98|
-|17.|Immunsuppression nach Herztransplantation ............................................................................. 100|
-|17.1|Substanzklassen .......................................................................................................................... 101|
-|17.1.1|Anti-Thymozyten-Gamma-Globulin ............................................................................................ 101|
-|17.1.2|Calcineurin-Inhibitoren (Cyclosporin A, Tacrolimus) .................................................................. 101|
-|17.1.3|Antimetabolite (Mycophenolat-Mofetil (MMF), Cellcept) ............................................................ 103|
 
-|17.1.4|Glukokortikoide ........................................................................................................................... 103|
 |---|---|
-|17.1.5|m-TOR-Inhibitoren (Everolimus) ................................................................................................. 105|
-|17.2|Immunsupressives Standardregime ............................................................................................ 105|
-|17.3|Abstoßungsreaktionen ................................................................................................................. 106|
-|17.3.1|Zelluläre Abstoßung .................................................................................................................... 106|
-|17.3.2|Antikörpervermittelte (humorale) Abstoßung .............................................................................. 107|
-|17.4|Medikamentöse Interaktionen Immunsuppression und antimikrobielle Substanzen .................. 108|
-|17.5|Empfehlungen zum Monitoring von Immunsuppressiva-Spiegeln .............................................. 112|
-|17.6|Literatur ........................................................................................................................................ 113|
-|18.|Postoperative psychosomatische Betreuung .............................................................................. 114|
-|19.|Rehabilitation nach Herztransplantation ...................................................................................... 115|
-|19.1|Einleitung ..................................................................................................................................... 115|
-|19.2|Besonderheiten der Rehabilitation nach Herztransplantation ..................................................... 115|
-|19.3|Ziele der stationären Rehabilitation ............................................................................................. 115|
-|19.4|Diagnostik während der stationären Rehabilitation ..................................................................... 116|
-|19.5|Maßnahmen der stationären Rehabilitation ................................................................................ 116|
-|19.5.1|Training ....................................................................................................................................... 116|
-|19.5.2|Patientenschulungen .................................................................................................................. 117|
-|19.5.3|Ernährung und Ernährungsberatung .......................................................................................... 117|
-|19.5.4|Psychosoziale Betreuung ........................................................................................................... 117|
-|19.6|Ambulanter Herzsport .................................................................................................................. 118|
-|19.7|Literatur ........................................................................................................................................ 118|
-|20.|Nachsorge nach Herztransplantation .......................................................................................... 120|
-|20.1|Invasive Nachsorge ..................................................................................................................... 120|
-|20.2|Bestimmung der Spiegel der Immunsupression .......................................................................... 120|
-|20.3|Laborchemische Untersuchungen ............................................................................................... 120|
-|20.4|Behandlung einer arteriellen Hypertonie ..................................................................................... 121|
-|20.5|Transplantatvaskulopathie ........................................................................................................... 121|
-|20.6|Niereninsuffizienz nach Herztransplantation ............................................................................... 121|
-|20.7|Hyperlipoproteinämie ................................................................................................................... 121|
-|20.8|Diabetes mellitus ......................................................................................................................... 122|
 
-|20.9|Osteoporoseprophylaxe............................................................................................................... 122|
 |---|---|
-|20.10|Tumorerkrankungen nach Herztransplantation ........................................................................... 122|
-|20.11|Neurologische Komplikationen .................................................................................................... 123|
-|20.12|Impfungen .................................................................................................................................... 123|
-|20.13|Schwangerschaft nach Organtransplantation.............................................................................. 123|
-|20.14|Sinnvolle Diagnoseaufstellung nach Herztransplantation ........................................................... 123|
-|20.15|Prophylaxen ................................................................................................................................. 124|
-|20.16|Selbsthilfeverein Herztransplantation .......................................................................................... 124|
-|20.17|Literatur ........................................................................................................................................ 125|
 
 ## **Präambel** 
 
@@ -193,9 +31,9 @@ Hausinterne Regelungen zu einzelnen Verfahren (SOPs) sowie Formulare für Aufkl�
 
 Autoren 
 
-## **1. Ambulante Evaluation vor Herztransplantation** 
+# **1. Ambulante Evaluation vor Herztransplantation**
 
-## **1.1 Allgemeines** 
+## **1.1 Allgemeines**
 
 (angepasst aus [1, 2]) 
 
@@ -221,7 +59,7 @@ Chirurgie_Stringer_Ärzte_H3_Ilomedinaustestung hinterlegt. Wenn sich trotz der 
 
 In Einzelfällen kann auch bei eingeschränkter Vasoreagibilität die Listung zur alleinigen Herztransplantation erfolgen, wenn bestimmte Kriterrien (z.Bsp. Möglichkeit des Oversizings des Spenderorgans) erfüllt sind. Dies wird im Rahmen der Transplantationskonferenz evaluiert und entschieden. 
 
-## **1.2 Anhaltspunkte für eine Transplantationsindikation** 
+## **1.2 Anhaltspunkte für eine Transplantationsindikation**
 
 (In Anlehnung an [1]) 
 
@@ -239,9 +77,9 @@ In Einzelfällen kann auch bei eingeschränkter Vasoreagibilität die Listung zu
 
 - Des Weiteren soll zur Abschätzung der Ein-Jahres-Mortalität ein Heart-Failure-Survival-Score bei Patienten mit grenzwertigen oder widersprüchlichen Befunden errechnet werden. 
 
-## **1.3 Kontraindikationen** 
+## **1.3 Kontraindikationen**
 
-## **1.3.1 Absolute Kontraindikationen** 
+### **1.3.1 Absolute Kontraindikationen**
 
 (In Anlehnung an [1, 3]) 
 
@@ -259,7 +97,7 @@ In Einzelfällen kann auch bei eingeschränkter Vasoreagibilität die Listung zu
 
 * Die früher gebräuchliche Regelung, nur Patienten mit 5-Jahres-Remission und niedrigmalignen Tumorarten (Prostata-Ca) zu akzeptieren, wurde verlassen. Ein individuelles Vorgehen in enger Absprache mit den onkologischen Kollegen muss stattdessen angestrebt werden. 
 
-## **1.3.2 Relative Kontraindikationen** 
+### **1.3.2 Relative Kontraindikationen**
 
 (In Anlehnung an [1, 3]) 
 
@@ -357,7 +195,7 @@ Neben der Priorisierung nach Dringlichkeit sollen weitere Priorisierungsstufen e
 
    - b. Hierzu werden Spenderherzen, bei welchen zum Zeitpunkt der Allokation bereits die HLATypisierung vorliegt, zunächst solchen hochimmunisierten Patienten angeboten, die aufgrund der HLA-Analyse für dieses Organ geeignet erscheinen. 
 
-## 2. Blutgruppenidentität 
+# 2. Blutgruppenidentität
 
 - a. Die Allokation erfolgt zunächst blutgruppenidentisch. 
 
@@ -365,13 +203,13 @@ Neben der Priorisierung nach Dringlichkeit sollen weitere Priorisierungsstufen e
 
 - c. Bei Kindern unter 2 Jahren ist auch eine blutgruppeninkompatible Zuordnung im Rahmen eines standardisierten Zentrumsprotokolls zulässig, sofern entsprechend niedrige BlutgruppenAntikörpertiter nachweisbar sind. Ein solches Protkoll wird (Stand 11.2021) aktuell implementiert. 
 
-## 3. Bevorzugte kombinierte Organtransplantation 
+# 3. Bevorzugte kombinierte Organtransplantation
 
 - a. Patienten mit geplanter Herz-Lungen-Transplantation haben in jeder Dringlichkeitsstufe grundsätzlich Vorrang vor Patienten mit isolierter Herz- oder isolierter Lungen-Transplantation. Die Organe werden nach den Regeln für Herz- und Herz-Lungen-Transplantation alloziert und nicht nach dem LAS-System. 
 
 - b. Herztransplantationen in Kombination mit anderen nicht-renalen Organen, wenn diese nach Prüfung durch die Auditgruppe als besonders dringlich angesehen wird. 
 
-## **1.4 VAD-Implantation bei Patienten auf der Transplantationswarteliste** 
+## **1.4 VAD-Implantation bei Patienten auf der Transplantationswarteliste**
 
 Da die Wartezeit auf ein Spenderorgan in Deutschland lang ist und die jährliche Sterblichkeit auf der Warteliste erheblich (zwischen 15 und 20 % pro Jahr), ist diese Frage von hoher Relevanz. Sie wird durch [4] beantwortet. Danach sollte einem Patienten dann ein VAD implantiert werden, wenn er die maximal tolerable Herzinsuffizienzmedikation erhält, eine erhaltene Rechtsherzfunktion aufweist und zusätzlich einer der folgenden vier Punkte zutrifft: 
 
@@ -385,7 +223,7 @@ Da die Wartezeit auf ein Spenderorgan in Deutschland lang ist und die jährliche
 
 Da der erste Punkt bei den meisten HTX-Kandidaten als gegeben angesehen werden kann, ist in der Praxis zumeist durch die Notwendigkeit, den Patienten durch eine i. v.-Katecholamintherapie zu stabilisieren (Punkt 3), der Zeitpunkt markiert, an der eine VAD-Implantation prognostisch günstiger ist und daher diskutiert werden muss.  Dies erfolgt interdisziplinär (VAD-Team und HTX-Team). Als eine Notfall-Indikation zur VAD-Implantation sollte eine über mehrere Stunden anhaltende SvO2 < 50 %, der Laktatanstieg unter postiv inotroper Therapie und/oder die Notwendigkeit des Einsatzes von Suprarenin (aufgrund der sehr hohen postiv inotropen Potenz) angesehen werden. Als dringliche Indikation können NT-proBNP-Werte über 10.000 pg/ml, steigende Retentionswerte und deutliche Schockparameter (GOT, GPT, Bilirubin) als Zeichen der Malperfusion angesehen werden. In dieser Situation muss die rasche Abwägung möglicher Therapieoptionen (u. a. mögliche HU-Listung für eine Herztransplantation, VADImplantation) erfolgen. 
 
-## **1.5 Besonderheiten der präoperativen TPG-Testung bei VAD-Patienten** 
+## **1.5 Besonderheiten der präoperativen TPG-Testung bei VAD-Patienten**
 
 Während die Bestimmung der Pulmonalisdrücke und des transpulmonalen Gradienten bei LVADPatienten in der Regel unkompliziert ist, kann dies bei BVAD-Patienten schwierig bis unmöglich sein. Bei TAH-Patienten (Total Artificial Heart) ist die Bestimmung mittels Katheter unmöglich und auch kontraindiziert (Gefahr des Blockierens der mechanischen Klappen beim CardioWest). Hier kann gegebenenfalls nur auf technische Parameter (Austreibungsdruck des CardioWest) zurückgegriffen werden. 
 
@@ -393,7 +231,7 @@ Bei Patienten, die ein BVAD aus 2 pulsatilen VADs erhalten haben (z. B. 2 x Berl
 
 Bei Patienten, die einen BVAD aus 2 continous-flow VAD erhalten haben, kann eine Bestimmung der Pulmonalisdrücke nach temporärem RVAD-Stopp erfolgen. Dabei sollten der Swan-Ganz-Katheter und ein zweiter Ballonkatheter, der während der Messungen den Ausflussgraft des RVAD blockiert, unter Durchleuchtung platziert werden. 
 
-## **1.6 Checkliste Untersuchungen und Impfungen vor Herztransplantation** 
+## **1.6 Checkliste Untersuchungen und Impfungen vor Herztransplantation**
 
 Sämtliche Untersuchungen, die nur initial erfolgen, richten sich in ihrem Wiederholungsintervall nach der Klinik des Patienten (angepasst aus [1]). 
 
@@ -444,7 +282,7 @@ positiver Fx für kolorektale Tumore)|
 |**Empfohlene Standardimpfungen**|||**Wiederholungsintervall**|
 |Gemäß Impfkalender der STIKO|||Überprüfungnur Baseline|
 
-## **1.7 Literatur** 
+## **1.7 Literatur**
 
 1. Mehra MR, Canter CE, Hannan MM et al. The 2016 International Society for Heart Lung Transplantation listing criteria for heart transplantation: A 10-year update. J Heart Lung Transplant. 2016;35(1):1-23. 
 
@@ -454,7 +292,7 @@ positiver Fx für kolorektale Tumore)|
 
 4. McDonagh TA, metra M, Adamo M et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur J Heart Fail. 2021;42(36):3599-3726. 
 
-## **2. Immunologische Diagnostik vor Herztransplantation** 
+# **2. Immunologische Diagnostik vor Herztransplantation**
 
 Präoperativ wird bei den Transplantationskandidaten eine HLA-Typisierung durchgeführt. Dies ist entscheidend, da mit zunehmend geringerer Übereinstimmung der Oberflächenantigene eine Abstoßung wahrscheinlicher wird. 
 
@@ -522,7 +360,7 @@ Zusammenfassend ergibt dies folgendes Schema:
 
 3. Vo AA, Lukovsky M, Toyoda M, Wang J et al. Rituximab and intravenous immune globulin for desensitization during renal transplantation. N Engl J Med 2008;359(3):242-51. 
 
-## **3. Psychosomatische Prätranspantationsevaluation** 
+# **3. Psychosomatische Prätranspantationsevaluation**
 
 Im Rahmen der Erstvorstellung von Patienten zur Herz-, Herz-Lungen- und Lungentransplantation erfolgt eine ausführliche psychologische Evaluation während der ambulanten oder stationären Voruntersuchung (Prä-Tx-Evaluation). In Einzelgesprächen mit den Patienten sowie mit den Angehörigen wird der aktuelle psychische Befund erhoben sowie die psychosomatisch-psychiatrische Anamnese erstellt Interviews die wesentlichen Ereignisse der Lebensgeschichte wie soziale und berufliche Entwicklung, der Umgang mit der eigenen Erkrankung sowie die gegenwärtige soziale Situation erfasst. 
 
@@ -542,7 +380,7 @@ Falls eine Evaluation aufgrund des klinischen Zustands des Patienten nicht volls
 
 Die Befunde der Präevaluierungen werden in schriftlicher standardisierter Form an die Ärzte übermittelt und diskutiert. 
 
-## **3.1 Absolute und relative Kontraindikationen aus Sicht der Psychosomatik** 
+## **3.1 Absolute und relative Kontraindikationen aus Sicht der Psychosomatik**
 
 ## Absolute Kontraindikationen: 
 
@@ -564,7 +402,7 @@ Die Befunde der Präevaluierungen werden in schriftlicher standardisierter Form 
 
 Patienten mit absoluten wie relativen Kontraindikationen werden erst nach Abklärung aller therapeutischen Interventionsoptionen, wie ambulante oder stationäre Behandlungen und wiederholte Verlaufsbegutachtungen, als Hochrisikogruppe angesehen. Es werden auch fakultativ ambulante Behandlungsmöglichkeiten im DHZC angeboten. Von besonderer Bedeutung ist die Versorgung der Familien zur Transplantation gelisteter Kinder und Jugendlicher, wobei der stützenden Mitbetreuung der meist in der Klinik anwesenden Eltern während langer Wartezeit essentielle Bedeutung zukommt. 
 
-## **3.2 Literatur** 
+## **3.2 Literatur**
 
 1. Kröncke S, Greif-Higer G, Albert W et al. Psychosoziale Evaluation von Transplantationspatienten - Empfehlungen fur die Richtlinien zur Organtransplantation. Psychother Psychosom Med Psychol 2018;68(5):179-184. 
 
@@ -574,7 +412,7 @@ Patienten mit absoluten wie relativen Kontraindikationen werden erst nach Abklä
 
 4. Vitinius F, Ziemke M, Albert W. Adherence with immunosuppression in heart transplant recipients. Curr Opin Organ Transplant 2015;20(2):193-7. 
 
-## **4. Transplantationskonferenz** 
+# **4. Transplantationskonferenz**
 
 Die Bundesärztekammer (BÄK) hat auf der Grundlage des Transplantationsgesetzes (TPG) Regelungen für die Wartelistenführung und Organvermittlung zur Herz-, Herz-Lungen- und Lungentransplantation getroffen. 
 
@@ -582,13 +420,13 @@ Danach trifft eine ständige, interdisziplinäre und organspezifische Transplant
 
 Die aktuellen Regelungen der BÄK sind für das DHZC in der SOP216 Transplantationskonferenz umgesetzt, die in aktuell gehaltener Version im Intranet hinterlegt ist. 
 
-## **5. Patientenaufklärung bei Herz-, Herz-Lungen- und Lungentransplantation** 
+# **5. Patientenaufklärung bei Herz-, Herz-Lungen- und Lungentransplantation**
 
-## **5.1 Rechtliche Vorgaben** 
+## **5.1 Rechtliche Vorgaben**
 
 Die wirksame Einwilligung des Patienten ist zwingende Voraussetzung der ärztlichen Behandlung. Eine Einwilligung ist nur wirksam, wenn der Patient vorher aufgeklärt wurde. Dies gilt grundsätzlich vor jeder diagnostischen oder therapeutischen Maßnahme und somit vor einer Organtransplantation. Für die Aufklärung und die nachfolgende Einwilligung gelten bestimmte Regeln. Die Einhaltung dieser Regeln gewährleistet das Selbstbestimmungsrecht des Patienten. Die Befolgung der Regeln schützt gleichermaßen die behandelnden Ärzte, die sich zivilrechtlicher und strafrechtlicher Haftung aussetzen, wenn der Patient nicht oder nur unzureichend aufgeklärt wurde und deshalb nicht wirksam in den ärztlichen Eingriff eingewilligt hat. Die hier niedergelegten Regeln berücksichtigen speziell die Anforderungen im DHZC. 
 
-## **5.2 Eingriffsaufklärung und Einwilligung** 
+## **5.2 Eingriffsaufklärung und Einwilligung**
 
 Die Aufklärung darf nur durch einen Arzt erfolgen. Nicht ärztliches Personal darf keine Aufklärungsaufgaben übernehmen. Der aufklärende Arzt muss mit der Herztransplantation vertraut sein. Das heißt: Der aufklärende Arzt muss das geplante medizinische Vorgehen und die damit verbundenen Risiken kennen. Es ist nicht erforderlich, dass er die Behandlungsmaßnahme der fraglichen Art mit eigener Hand durchgeführt hat. 
 
@@ -668,7 +506,7 @@ Zusätzlich zur Aufklärung über die eigentliche Transplantation erfolgen die A
 
 - die Biomaterialbank des DZHK 
 
-## **6. Behandlung der bei Eurotransplant zur Transplantation HU-gelisteten Patienten in der Wartezeit** 
+# **6. Behandlung der bei Eurotransplant zur Transplantation HU-gelisteten Patienten in der Wartezeit**
 
 Entsprechend der Richtlinie der Bundesärztekammer für die Wartelistenführung und die Organvermittlung gemäß § 16 Abs. 1 S. 1 Nrn. 2 und 5 TPG, Punkt 3.2.1 „Hohe Dringlichkeit = High Urgency, HU)“ werden Patienten vor Herztransplantation im hoch dringlichen Zustand auf eine Warteliste bei Eurotransplant gelistet, wenn eine akut lebensbedrohliche Situation besteht. Es handelt sich somit um Patienten, die vorrangig transplantiert werden müssen. Ähnliches gilt für Patienten mit VAD, wenn Komplikationen am System auftreten, die mit höchsten Risiken für ihre Gesundheit und damit ihr Leben assoziiert sind. Der HU-Status setzt voraus, dass sich ein Patient im Transplantationszentrum selbst oder einem nahegelegenen kooperierenden Krankenhaus befindet, damit ein Arzt der transplantierenden Klinik den Patienten mindestens einmal wöchentlich visitieren kann. Die Visitation ist zu dokumentieren. 
 
@@ -712,9 +550,9 @@ Befunde und Befundübermittlung:
 
 - klinische Befunde und Befundänderung: für die Transplantation verantwortliche Oberärzte des DHZC. 
 
-## **7. Ablauf bei Organangebot** 
+# **7. Ablauf bei Organangebot**
 
-## **7.1 Annahme des Organangebots** 
+## **7.1 Annahme des Organangebots**
 
 Ein Organangebot für einen auf der Warteliste geführten Patienten wird durch Eurotransplant (ET) telefonisch auf der Station H3 avisiert. Der Anruf kann von einer Pflegekraft oder von einem Arzt entgegengenommen werden. Sollte der telefonische Erstkontakt mit ET über eine Pflegekraft zustande kommen, ist der zuständige Arzt der Station ohne zeitlichen Verzug zu informieren. 
 
@@ -746,7 +584,7 @@ Kann ein Organ über diese beiden Wege nicht alloziert werden (aus medizinischen
 
 Über diesen Weg (Zentrums-/Kompetitivangebot) werden auch Organe vermittelt, die nicht von ET angeboten werden. Dies vor dem Hintergrund, dass diese Organe oft mehreren Organvermittlungsorganisationen gleichzeitig angeboten werden. 
 
-## **7.2 Datenerfassung des Organangebots** 
+## **7.2 Datenerfassung des Organangebots**
 
 Nach dem ersten Anruf von ET müssen die Daten des Angebots komplett erfasst werden. Hierzu loggt sich der zuständige Arzt der Station H3 auf der Webseite von ET unter www.eurotransplant.org ein ( _Members_ ) und kann nun unter _donor data_ nach Eingabe der Spendernummer das vollständige Organangebot einsehen und ausdrucken. 
 
@@ -756,7 +594,7 @@ Bei einem Spenderalter > 40Jahre sollte geklärt sein, ob eine Koronarangiograph
 
 Auf der Seite https://isysweb.dso.de können zudem weitere Informationen und zumeist Bilddaten eingesehen werden. Eine Kurzanleitung ist im Informationsblatt _Organisation Transplantation_ hinterlegt. 
 
-## **7.3 Akzeptanz des Organangebots** 
+## **7.3 Akzeptanz des Organangebots**
 
 Nach Aufnahme der Daten des Organangebots sind diese dem diensthabenden Transplantationschirurgen der zuständigen Klinik zu übermitteln. Bei Kindern und Erwachsenen mit angeborenen Herzfehlern ist die transplantierende Klinik bei den Empfängerdaten hinterlegt. Ebenfalls muss er über die Daten des Organempfängers informiert werden. Hierzu kann der interne Wartelisteneintrag, ein letzter Arztbrief oder auch die Prä-TX-Akte aus der Transplantationsambulanz herangezogen werden. 
 
@@ -772,7 +610,7 @@ Im Fall eines notwendigen Crossmatches ist mit dem Koordinator im Spenderkranken
 
 Ist eine Transplantation mit vorherigem Crossmatch geplant, so muss von Eurotransplant ein Ersatzempfänger eingeplant werden, da bei positivem Ergebnis eine Transplantation für den vorgesehenen Erstempfänger nicht in Frage kommt. Dies ist telefonisch mit ET zu besprechen. Auch sollte bei Akzeptanz des Organangebots die Mitnahme von Milzgewebe zur weiteren immunologischen Aufarbeitung (bei immunisierten Patienten) evaluiert werden. Im Regelfall wird dies in der Transplantationskonferenz festgelegt und ist vermerkt. 
 
-## **7.4 Kontaktaufnahme mit dem Organempfänger** 
+## **7.4 Kontaktaufnahme mit dem Organempfänger**
 
 Nach Akzeptanz des Organangebots ist umgehend mit dem Organempfänger Kontakt aufzunehmen. Bei Patienten, die zu Hause warten, geschieht dies im Telefongespräch. Es ist dem Patienten mitzuteilen, dass ein Organangebot vorliegt. Im Telefonat sollte man sich vergewissern, wie es dem Patienten geht (insbesondere Infektfreiheit) und ob er sich in einem Zustand befindet, in dem er transportiert und transplantiert werden kann. Sollte eine Patientin im gebährfähigen Alter ihre Menses haben, ist dies unbedingt mit dem Transplantationschirurgen zu besprechen, da dies in vielen Fällen eine Kontraindikation für die Durchführung einer Operation mit Herz-Lungenmaschine darstellt. Schließlich muss dem Patienten mitgeteilt werden, dass er sich nicht selbst um den Transport nach Berlin kümmern muss, sondern vom DHZC ein Transportunternehmen beauftragt wird, welches ihn zur Abholung kontaktieren wird. 
 
@@ -784,11 +622,11 @@ Sollte der Transport des Organempfängers nur per Flugzeug möglich sein, ist au
 
 Katecholaminpflichtige Patienten werden durch die Feuerwehr mit Notarzt verlegt. 
 
-## **7.5 Kontaktaufnahme mit dem Spenderkrankenhaus** 
+## **7.5 Kontaktaufnahme mit dem Spenderkrankenhaus**
 
 Im nächsten Schritt ist mit dem DSO-Koordinator im Spenderkrankenhaus Kontakt aufzunehmen. Die Telefonnummer wird durch ET übermittelt. Mit ihm gilt es zu klären, ob in der Zwischenzeit relevante Änderungen des klinischen Status des Organspenders aufgetreten sind und wann der OP-Beginn geplant ist. Dieser Zeitpunkt wird benötigt, um den dezidierten Zeitplan zur Organentnahme zu erarbeiten. 
 
-## **7.6 Erstellung eines Zeitplans zur Organentnahme** 
+## **7.6 Erstellung eines Zeitplans zur Organentnahme**
 
 Mit dem Zeitpunkt des OP-Beginns im Spenderkrankenhaus tritt zunächst das Entnahmeteam für die Abdominalorgane an den OP-Tisch, sodass das thorakale Entnahmeteam in einer groben Kalkulation spätestens eine Stunde nach OP-Beginn im Spenderkrankenhaus eintreffen sollte. Dieser Zeitpunkt ist mit dem Koordinator der Organspende vor Ort abzustimmen. Hiervon abweichend kann, insbesondere bei komplexen Fällen, der Transplantationschirurg eine Vorzeitige Ankunft festlegen. 
 
@@ -812,7 +650,7 @@ Die DSO organisiert nur den Transport für das Entnahmeteam. Ein möglicher Tran
 
 Bei Organentnahme mit einem Organ-Care-System (OCS) muss der DSO dies bei der Transportplanung mitgeteilt werden, damit die entsprechende Flugzeug- und Fahrzeuggröße geplant werden kann. Das Team muss ggf. Erythrozytenkonzentrate zur Entnahme mitnehmen oder es müssen diese im Spenderkrankenhaus zur Verfügung stehen.  Auch für den Zeitplan ergeben sich bei Entnahme mit einem OCS Besonderheiten. Das Entnahmeteam muss bereits zu OP-Beginn im Spenderkrankenhaus sein, um Vorbereitungen für die Inbetriebnahme des Systems treffen zu können. Nach der Entnahme des Organes ist noch ca. eine weitere Stunde im Spenderkrankenhaus vorzusehen, um stabile Transportverhältnisse erreichen zu können. Eine diesbezügliche Zeitplanung sollte sehr eng mit dem Transplantationschirurgen und vor allem mit dem Entnahmearzt besprochen werden. Auch die Mitnahme weiterer Utensilien (z. B. Ultraschallgerät) muss gesondert angemeldet werden. 
 
-## **7.7 Entnahmearzt und Perfusionsdienst** 
+## **7.7 Entnahmearzt und Perfusionsdienst**
 
 Nach der Erstellung des Zeitplanes müssen der Entnahmearzt und der Perfusionsdienst über das Organangebot und den zeitlichen Ablauf informiert werden. Es ist eine Vorlaufzeit von mindestens 1 Stunde einzukalkulieren, d. h. der Perfusionsdienst wie auch der Entnahmearzt benötigen mindestens 1 Stunde bis zur Abfahrt vom DHZC. Ein Dienstplan des Perfusionsdienstes befindet sich im Transplantationsordner, der diensthabende Entnahmearzt ist dem OP-Plan zu entnehmen. Neben der Art der Transplantation ist für den Perfusionsdienst insbesondere wichtig, ob die Entnahme bei einem Kind oder Erwachsenen vorgenommen wird. 
 
@@ -830,7 +668,7 @@ Die Unterlagen werden vom Entnahmeteam kurz vor der Abfahrt an der Anmeldung in 
 
 Ärzte und Perfusionsdienste zur Einarbeitung oder auch Gastärzte sind zu informieren. Eine entsprechende Liste hängt aus oder befindet sich im Transplantationsordner. 
 
-## **7.8 Reihenfolge der Informationsweitergabe** 
+## **7.8 Reihenfolge der Informationsweitergabe**
 
 Im nächsten Schritt werden über die notwendigen Details der anstehenden Transplantation und insbesondere den Zeitplan informiert: 
 
@@ -852,7 +690,7 @@ Mit dem Transplantationschirurgen und dem Anästhesisten ist zu klären, zu welc
 
 Eine vollständige Liste der zu informierenden Personen befindet sich als Checkliste in den internen Formularen „Abgesagtes Organangebot“ und „Organangebot“. 
 
-## **7.9 Eintreffen des Organempfängers** 
+## **7.9 Eintreffen des Organempfängers**
 
 Organempfänger werden regelhaft auf der Station H3 aufgenommen und vorbereitet. Bei einem zeitgleich eintreffenden zweiten Organangebot erfolgt die Aufnahme dieses Empfängers auf der Station H1c. Zu transplantierende Kinder werden auf der Station H4 vorbereitet. Für intensivpflichtige Patienten zur Transplantation ist eine Verlegung auf die Intensivstation zu organisieren. 
 
@@ -860,7 +698,7 @@ Bei Eintreffen des Organempfängers auf der Station wird der Arzt der Station H3
 
 Es folgt eine Blutentnahme inklusive Kreuzblut, das starten einer i.v. Prähydratation zur Nierenspülung und eine Röntgen-Thorax-Aufnahme. Die weitere Operationsvorbereitung wird durch die Pflegekräfte der Station vorgenommen (siehe hierzu auch Abschnitt „Pflegerische Aspekte zum Thema Organtransplantation“). In der Kurve des Patienten ist die erste Gabe der immunsuppressiven Medikation gemäß Kapitel Immunsuppression bei Abruf in den OP festzulegen. 
 
-## **7.10 Entnahmeteam im Spenderkrankenhaus, vorläufiges und definitives O. K.** 
+## **7.10 Entnahmeteam im Spenderkrankenhaus, vorläufiges und definitives O. K.**
 
 Bei Eintreffen des Entnahmeteams im Spenderkrankenhaus erfolgt eine telefonische Information an den koordinierenden Arzt der Station H3. In einem nächsten Schritt kann eine Ersteinschätzung durch das Entnahmeteam gegeben werden. Dies bedeutet noch keine definitive Entscheidung bezüglich der Organqualität. Zu diesem Zeitpunkt erfolgt jedoch in der Regel der Abruf des Organempfängers in den OP. 
 
@@ -884,7 +722,7 @@ Bei einer Ablehnung des Organs sind ebenfalls alle Stellen zu informieren und di
 
 Das Entnahmeteam wird sich auch während der Rückreise bei relevanten Zeitverschiebungen beim koordinierenden Arzt der Station H3 melden. Dieser hat die zeitliche Verzögerung entsprechend weiterzugeben. 
 
-## **7.11 Besonderheit Kombinierte Transplantation Niere und thorakales Organ** 
+## **7.11 Besonderheit Kombinierte Transplantation Niere und thorakales Organ**
 
 In diesem Fall werden von ET beide Organe gleichzeitig zugewiesen. Der Zeitplan ist so zu erstellen, dass die Entnahme des thorakalen Organs Vorrang hat. Die explantierte Niere wird vom abdominalchirurgischen Team entnommen und mit einem sekundären Transport ins DHZC geschickt. Die Einzelheiten des Transports sind mit dem Koordinator im Spenderkrankenhaus abzustimmen. 
 
@@ -894,7 +732,7 @@ In jedem Fall muss sichergestellt werden, dass der Anästhesist im DHZC und der 
 
 Die Anmeldung im DHZC muss informiert werden, dass ein weiteres Organ mit einem Fahrer eintrifft, um eine zügige Weiterleitung in den OP sicherzustellen. 
 
-## **7.12 Besonderheit Lungentransplantation bei im CVK behandelten ECMO-Patienten auf Station 8** 
+## **7.12 Besonderheit Lungentransplantation bei im CVK behandelten ECMO-Patienten auf Station 8**
 
 Der koordinierende Arzt der Station H3 nimmt telefonisch unter der Ruf-Nr. 99-651888 oder 99-651111 Kontakt mit der Station 8 auf und informiert über das Organangebot. 
 
@@ -908,19 +746,19 @@ Bei Vorliegen des definitiven O. K. des Entnahmeteams erfolgt die sofortige Info
 
 Der gesamte Ablauf der Transplantationsorganisation ist mit den entsprechenden Uhrzeiten und relevanten Telefonaten bis zum Eintreffen des Organs im DHZC zu protokollieren, um den Verlauf lückenlos nachvollziehen zu können. 
 
-## **8. Evaluation Spenderherz** 
+# **8. Evaluation Spenderherz**
 
-## **8.1 Ziel der Spenderbeurteilung** 
+## **8.1 Ziel der Spenderbeurteilung**
 
 Ziel der Spenderherzbeurteilung ist nicht die Einschätzung des funktionellen Status des Herzens zum Zeitpunkt der Organentnahme, sondern vielmehr die Vorhersage der Funktion des transplantierten Herzens beim Abgang von der extrakorporalen Zirkulation und in der (früh-) rektusscheidepostoperativen Phase [1]. 
 
 Hierzu ist es nötig, den kumulativen Schaden durch 1) möglicherweise Vorerkrankungen und 2) durch die Phase des Hirntods („Katecholaminsturm“) zu berücksichtigen. Diese Schädigung kann bei der Organbeurteilung im Spenderkrankenhaus zunächst noch funktionell inert sein und erst nach weiterer Schädigung durch Ischämiezeit und Reperfusion offensichtlich werden. Darüber hinaus müssen 3) auch spenderunabhängige Parameter berücksichtigt werden. 
 
-## **8.1.1 Vorerkrankungen** 
+### **8.1.1 Vorerkrankungen**
 
 Durch den in den letzten 20 Jahren zunehmenden Mangel an Spenderorganen sah man sich gezwungen, die Kriterien für Spenderherzen deutlich zu liberalisieren. Durch die Liberalisierung insbesondere auch des Spenderalters ist der Anteil von Spendern mit kardiovaskulären Risikofaktoren und somit die Wahrscheinlichkeit für bestehende Herzerkrankungen im sogenannten Spenderpool deutlich gestiegen. In erster Linie ist hier an die durch arterielle Hypertonie bedingte myokardiale Hypertrophie und die Koronarsklerose, aber auch an andere, im Spenderpool durchaus auftretende Erkrankungen zu denken. Dies belegt die Unverzichtbarkeit einer kompletten Diagnostik beim Spender. 
 
-## **8.1.2 Hirntod-assoziierte Schäden** 
+### **8.1.2 Hirntod-assoziierte Schäden**
 
 In tierexperimentellen Studien konnte gezeigt werden, dass im Rahmen des akuten Hirntods auf eine kurze Phase intensiver vagaler Aktivität eine zweite, hyperdyname Phase mit maximaler Katecholaminausschüttung („Katecholaminsturm“) folgen kann. Unter bis zu 100facher Katecholaminkonzentration kann es zum Blutdruckanstieg bis auf 400 mmHg kommen, was zu myokardialen Ischämien, schweren Rhythmusstörungen und lokalen Kontraktilitätsstörungen führen kann. Diese Schädigungen können sich unter optimalem Spendermanagement im Verlauf von Stunden bis Tagen zurückbilden. Später tritt typischerweise ein mehr oder weniger ausgeprägtes peripheres Kreislaufversagen auf, bedingt durch Vasoplegie bei Verlust des Sympathikotonus in der „Spätphase“ nach Hirntod. 
 
@@ -934,13 +772,13 @@ Die drei typischen zu differenzierenden Probleme des Spendermanagements sind dah
 
 Dies zeigt, dass für ein adäquates Spendermanagement (Differentialdiagnostik, Therapiekontrolle und letztlich Spenderbeurteilung) auch ein Pulmonaliskatheter erforderlich ist. 
 
-## **8.1.3 Spenderunabhängige Parameter** 
+### **8.1.3 Spenderunabhängige Parameter**
 
 Hierzu gehört die zu erwartende Ischämiezeit, die primär von der Entfernung zwischen Spender und Empfänger abhängt, aber auch entscheidend vom Transportmittel (Wagen, Flugzeug), den Verkehrsbedingungen (Stau etc.) oder der Empfängeroperation (voroperierter Empfänger) beeinflusst werden kann. Aber auch ein ungünstiges Matching zwischen Spender und Empfänger („kleine Frau auf großen Mann“) sowie ein erhöhter pulmonal-vaskulärer Widerstand des Empfängers sind bedeutsam. 
 
-## **8.2 Bedeutung der Spenderkriterien** 
+## **8.2 Bedeutung der Spenderkriterien**
 
-## **8.2.1 Spenderalter, Kreislaufparameter und Ischämiezeit** 
+### **8.2.1 Spenderalter, Kreislaufparameter und Ischämiezeit**
 
 Multivariate Analysen der Cardiac Transplant Research Database (CTRD) und des Registers der International Society for Heart and Lung Transplantation (ISHLT) haben die klinische Erfahrung bestätigt, dass für das Gelingen einer Transplantation – Zielgröße ist das "Ein-Jahres-Überleben" – drei Parametern des Spenderherzens eine überproportionale Bedeutung zukommt [2, 3]. Diese sind das Alter des Spenders, die (aktuelle) Herz-Kreislauffunktion („Notwendigkeit einer inotropen Unterstützung“) und die Ischämiezeit. 
 
@@ -960,8 +798,6 @@ Donor age (years)
 2021 (N = 67,223)
 JHLT. 2021 Oct; 40(10): 1023-1072
 Hazard Ratio of 1-Year Mortality
-**----- End of picture text -----**
-
 
 **Abbildung 1.** Abhängigkeit des Transplantationserfolges vom Spenderalter (ISHLT-Register) 
 
@@ -997,12 +833,10 @@ Ischemic time (hours)
 2021 (N = 67,223)
 JHLT. 2021 Oct; 40(10): 1023-1072
 Hazard Ratio of 1-Year Mortality
-**----- End of picture text -----**
-
 
 **Abbildung 2** . Abhängigkeit des Transplantationserfolges von der Ischämiezeit (CTR-Database). 
 
-## **8.2.2 Beurteilung weiterer Spenderparameter** 
+### **8.2.2 Beurteilung weiterer Spenderparameter**
 
 Selbstverständlich ist die Beurteilung eines aktuellen **EKG** erforderlich, welches Hinweise auf eine koronare Herzerkrankung oder – bei polytraumatisierten Spendern – auf ein stumpfes Trauma des Herzens geben kann. So gelten komplette Schenkelblockbilder als erhöhtes Risiko für eine Transplantation, da mit einer pathologischen Myokardfunktion gerechnet werden muss. Das gleiche gilt für ein chronisches Vorhofflimmern, während andere Rhythmusstörungen ebenso wie Veränderungen der ST-Strecke beim Hirntoten auch Zeichen einer meist reversiblen (!) Schädigung des Herzens durch die Herz-Kreislaufbelastungen des Hirntodes (Cushing-Reaktion) sein können und daher nicht überinterpretiert werden dürfen. Ein Sokolow-Index über 3,5 ist ein Hinweis auf eine relevante Myokardhypertrophie, die sich jedoch im Echo genauer beurteilen lässt. 
 
@@ -1038,11 +872,11 @@ Metastasierende **Tumore des Spenders** stellen zwar kein unmittelbares Risiko f
 
 Letztlich können auch bestimmte **Todesursachen** mit einem erhöhten Risiko für eine Herzspende behaftet sein. Beim Erhängen/Erwürgen kommt es zu einer hypoxischen Schädigung des Gehirns. Da die Hypoxietoleranz des Herzens größer ist als die des Gehirnes, ist es möglich, dass das Hirn, nicht jedoch das Herz (irreversibel) geschädigt wurden. Ob eine myokardiale Schädigung eingetreten ist, zeigen die aktuelle Herzfunktion und der Troponinwert zumindest insoweit, als dass bei normaler Herzfunktion und normalem Troponinwert kein erhöhtes Risiko angenommen werden muss. Beim Ertrinken muss zwischen dem Ertrinken im Süßwasser und dem Ertrinken im Salzwasser differenziert werden: Beim Ertrinken im hypotonen Süßwasser kommt es zu einer erheblichen Hämolyse und ZellSchwellung, die potentiell auch das Herz gefährden kann, während dies beim Ertrinken im hypertonen Salzwasser nicht der Fall ist. Beim Ertrinken im Salzwasser gelten im Wesentlichen die gleichen Annahmen wie bei der Hypoxie durch Erhängen/Erwürgen. Eine tödliche Kohlenmonoxid-Intoxikation gilt als deutlich erhöhtes Risiko für eine gute Transplantatfunktion aufgrund der Inhibierung von Zellenzymen, die im myokardialen Stoffwechsel eine Rolle spielen. Bei intrakraniellen Blutungen sollte unterschieden werden zwischen traumatisch bedingten Blutungen, die nicht mit einem erhöhten Risiko bezüglich der Transplantatfunktion einhergehen, und spontanen Hirnblutungen auf dem Boden einer arteriellen Hypertonie oder einer Gefäßerkrankung, die auch das Koronargefäßsystem betreffen könnten. Daher ist bei diesen Spendern unbedingt eine Koronarangiografie zu fordern. 
 
-## **8.2.3 Parameterkatalog zur Beurteilung von Spenderherzen** 
+### **8.2.3 Parameterkatalog zur Beurteilung von Spenderherzen**
 
 Quelle: Grauhan O. Dt. Ärztebl 2005 [15] 
 
-## **8.3 Literatur** 
+## **8.3 Literatur**
 
 1. Grauhan O. Criteria for the assessment of the donor heart Transplant Proc 2003; 35(6):2111-2. 
 
@@ -1074,7 +908,7 @@ Quelle: Grauhan O. Dt. Ärztebl 2005 [15]
 
 15. Grauhan O. Dt. Ärztebl 2005 [ Wie man potenzielle Spenderherzen beurteilt. Dt Ärztebl 2005;102(36):A2370-3. 
 
-## **9. Herztransplantation: Organentnahme und Organkonservierung** 
+# **9. Herztransplantation: Organentnahme und Organkonservierung**
 
 Die Organentnahme folgt den „Empfehlungen für die Zusammenarbeit zwischen Krankenhäusern und Transplantationszentren bei der postmortalen Organentnahme“ der Ständigen Kommission Organtransplantation der Bundesärztekammer sowie der „Richtlinie zur medizinischen Beurteilung von Organspendern und zur Konservierung von Spenderorganen gemäß § 16 Abs. 1 S.1 Nr. 4 a) und b) TPG in der jeweils aktuellen Fassung. 
 
@@ -1130,7 +964,7 @@ Nun wird die obere Hohlvene oberhalb der Mersileneligatur abgesetzt (Abb. 1 + 2;
 
 Für den Transport wird das Herz in drei ineinander liegende, mit eiskalter Kochsalzlösung (cave: keine Eiskristalle, da Frostschäden möglich!) gefüllte Plastikbeutel gelegt, wobei zuvor vom Herzen ein Abstrich zur mikrobiologischen Untersuchung entnommen wird. Die steril gehaltenen Beutel werden in einem Tuppertopf untergebracht, der erst nach dem sicheren Verschluss (Tuppertopf innen steril!) dem Perfusionsdienst übergeben und in die große, eisgefüllte Transportbox gestellt wird. 
 
-## **9.1 Besonderheiten bei der Herzentnahme bei Empfängern mit angeborenen Herzfehlern** 
+## **9.1 Besonderheiten bei der Herzentnahme bei Empfängern mit angeborenen Herzfehlern**
 
 - zusätzliches Gewebe ist erforderlich zur Korrektur atrialer Abnormalitäten, 
 
@@ -1140,7 +974,7 @@ Für den Transport wird das Herz in drei ineinander liegende, mit eiskalter Koch
 
 - Spenderperikard oder Aorta descendens für Patch-Rekonstruktionen stenosierter Pulmonalarterienäste oder atrialer Abnormalitäten. 
 
-## **9.2 Checkliste Herzentnahme** 
+## **9.2 Checkliste Herzentnahme**
 
 - mediane Sternotomie, 
 
@@ -1162,9 +996,9 @@ Für den Transport wird das Herz in drei ineinander liegende, mit eiskalter Koch
 
 - Übernähung der Mersileneligatur der oberen Hohlvene (ggf. des linken Herzohrs). 
 
-## **10. Präoperative Vorbereitung und Narkoseführung bei Herztransplantation** 
+# **10. Präoperative Vorbereitung und Narkoseführung bei Herztransplantation**
 
-## **10.1 Vorbereitung der Transplantation** 
+## **10.1 Vorbereitung der Transplantation**
 
 Zur Vorbereitung der Transplantation werden im OP folgende Informationen über den Empfänger und das TX-Team benötigt: 
 
@@ -1204,7 +1038,7 @@ Anästhesie (respektive bei Kinder-Transplantationen der Kinder-Rufdienst) zu in
 |HTX/HLTX mit Vor-OP oder Assist/ECMO|10 EK|
 |zusätzlich Leber-TX oder Nieren-TX|+ 6 EK|
 
-## **10.2 Monitoring und Narkoseführung** 
+## **10.2 Monitoring und Narkoseführung**
 
 Der Monitoring-Standard bei Herztransplantation umfasst folgende Parameter [1]: 
 
@@ -1242,7 +1076,7 @@ Zur Reperfusion (Wiedereröffnung der Aorta) wird ein Bolus von 500 mg Methyl-Pr
 
 Die Lagerung der Patienten zur Herztransplantation erfolgt in der Einleitung mit angelagerten Armen in Anwesenheit des chirurgischen Assistenten entsprechend des Lagerungsstandards OP (SOP612 Patientenlagerung HTG). 
 
-## **10.3 Intraoperatives Management** 
+## **10.3 Intraoperatives Management**
 
 Vor HLM wird der Pulmonaliskatheter (PAK) zur Dokumentation der aktuellen PA-Drücke eingeschwemmt (Rückzug vor venöser Kanülierung). Bei voroperierten Patienten kann es während der Präparation zu hämodynamischer Instabilität oder Volumenverlusten kommen. Patienten mit einer Heparin-induzierten Thrombozytopenie II (HIT II) werden nach aktuellem Antikörperstatus gemäß der anästhesiologischen SOP504 „Management HIT an HLM“ antikoaguliert (s. Intranet). 
 
@@ -1256,7 +1090,7 @@ Die Therapie einer rechtsventrikulären Dysfunktion erfolgt durch Vorlastoptimie
 
 Die Therapie des primären Transplantatversagens (frustraner HLM-Abgang oder sekundäre Dekompensation) erfolgt mit einem System zur mechanischen Kreislaufunterstützung [1]. 
 
-## **10.4 Kombination thorakale und abdominelle Transplantation** 
+## **10.4 Kombination thorakale und abdominelle Transplantation**
 
 ## Transplantationslogistik 
 
@@ -1270,7 +1104,7 @@ Während der Nierentransplantation ist auf ausreichenden Volumenstatus und suffi
 
 Die Narkoseführung für die Lebertransplantation wird in Zusammenarbeit mit der Anästhesie der Charité, Campus Virchow-Klinikum durchgeführt. Die Koordination erfolgt über den diensthabenden Oberarzt der Anästhesie der Charité (Tel. 99-651222). 
 
-## **10.5 Literatur** 
+## **10.5 Literatur**
 
 1. Costanzo MR, Dipchand A, Starling R, et al. The International Society of Heart and Lung Transplantation Guidelines for the care of heart transplant recipients. J Heart Lung Transplant 2010;29(8):914-56. 
 
@@ -1288,13 +1122,13 @@ Die Narkoseführung für die Lebertransplantation wird in Zusammenarbeit mit der
 
 8. ISHLT Consensus Statement on Donor Organ Acceptability and Management in Pediatric Heart Transplantation (Consensus Document). J Heart Lung Transplant. 2020;39(4):331-41. 
 
-## **11. Herztransplantation – Transplantationsoperation** 
+# **11. Herztransplantation – Transplantationsoperation**
 
 In Rückenlage und Intubationsnarkose erfolgt nach sterilem Abdecken des Thorax und beider Leisten eine mediane Sternotomie. Nach Eröffnen des Perikards sollte durch invasive Druckmessung in linkem Vorhof und Pulmonalarterie erneut der transpulmonale Gradient bestimmt werden: Im OP können erheblich-veränderte Bedingungen im Vergleich zur letzten präoperativen Messung vorliegen. Die Kenntnis der aktuellen Verhältnisse ist für das therapeutische Management beim Beenden der extrakorporalen Zirkulation sowie im frühen postoperativen Verlauf von großer Bedeutung. 
 
 Nach systemischer Heparinisierung erfolgt die Kanülierung für die extrakorporale Zirkulation. Dabei wird die Aorta möglichst weit distal kanüliert, um später für die aortale Anastomose genügend Spielraum zu haben. Die seitengetrennte Kanülierung der Hohlvenen erfolgt etwas weiter lateral als sonst üblich, um die rechtsatriale/bicavale Anastomosierung zu erleichtern. Die Hohlvenen werden mit breitem Mersileneband unterfahren und mit einem Snugger versehen. Lässt sich bei grenzwertigen Kreislaufverhältnissen und großem Empfängerherz die untere Hohlvene nur schlecht erreichen, so empfiehlt es sich, zunächst mit der Kanülierung der oberen Hohlvene zu beginnen und die extrakorporale Zirkulation aufzunehmen; nach Volumenentlastung ist dann auch die untere Kanülierungsstelle problemlos erreichbar. Ferner werden Aorta und Pulmonalisstamm soweit getrennt, dass beim Klemmen der Aorta die Pulmonalis nicht nur nicht mitgefasst, sondern für die spätere Pulmonalisanastomose auch ausreichend flexibel bleibt. Letztlich wird am Übergang der rechten oberen Lungenvene in den linken Vorhof eine Tabaksbeutelnaht (4-0 Prolene) für den Vent vorgelegt und mit einem Snugger versehen. 
 
-## **11.1 Exzision des Empfängerherzens – biatriale Technik** 
+## **11.1 Exzision des Empfängerherzens – biatriale Technik**
 
 Die Technik der Herztransplantation geht im Wesentlichen auf zahlreiche Experimente von Lower, Dong und Shumway zurück. Die Originaltechnik wurde früh von Barnard [1] und Cooley [2] modifiziert und stellt die bisher am häufigsten durchgeführte Technik dar. Weitere Modifikationen erfolgten erst später durch Dreyfus, Sievers und andere. 
 
@@ -1324,17 +1158,17 @@ Alternativ kann das Absetzen des linken Vorhofdaches und der linken Zirkumferenz
 
 Im Fall von Verwachsungen (Re-Operation) sollten eventuelle Blutungen hinter dem Herzen jetzt versorgt werden, da diese später nur durch möglichst zu vermeidende Luxationen des Grafts erreicht werden können. Der ”Linksvent” wird durch die bereits vorgelegte Naht in die Manschette des linken Vorhofes eingelegt, vorteilhafterweise mit der Spitze in eine der linken Lungenvenen: Der Vent liegt so der Hinterwand eng an, wodurch er einerseits nicht die Fertigstellung der Vorhofanastomose stört, andererseits aber das aus den Lungenvenen aufsteigende Blut effektiv absaugt, bevor es das Niveau der Anastomose erreicht (Abb. 4). 
 
-## **11.2 Exzision des Empfängerherzens – bicavale Technik** 
+## **11.2 Exzision des Empfängerherzens – bicavale Technik**
 
 Ist eine bicavale Implantation geplant, erfolgt nach oben genannter Resektion des Empfängerherzens zusätzlich die Resektion des rechten Vorhofs, so dass der in Abb. 4a abgebildete Situs resultiert. Dabei sollte die Resektion an beiden Cavae einen kleinen Saum Vorhofgewebe stehen lassen, da dies die Anastomosen erleichtert (weniger Stichkanalblutungen). 
 
 **Abbildung 4a:** Bei bicavaler Technik erfolgt die komplette Resektion des rechten Vorhofs 
 
-## **11.3 Vorbereitung des Spenderherzens** 
+## **11.3 Vorbereitung des Spenderherzens**
 
 Nach orientierender Inspektion des Spenderherzens sollte die Ligatur/Übernähung der oberen Hohlvene, bei simultaner Lungenspende auch des linken Herzohres nochmals überprüft und im Zweifel durch eine weitere 4-0 Prolenenaht gesichert werden. Das Gewebe der linksatrialen Hinterwand zwischen den Einmündungen der Lungenvenen wird nachreseziert, so dass eine geeignete Öffnung für die Anastomose resultiert. Dabei sollte nicht in Richtung auf das Herzohr (schlechtes Gewebe!), sondern eher auf das Septum zu reseziert werden. Eine hierbei übersehene, d.h. nicht resezierte Lungenvene führt zwangsläufig zu einer erheblichen Blutung in einem später nur schwer zu erreichenden Gebiet. Auch sollten Aorta und Pulmonalisstamm nur so weit voneinander getrennt werden, dass eine problemlose Anastomosierung möglich ist. Bei weitergehender Dissektion kann es in diesem, dann nicht mehr von Epikard bedeckten Wundflächen zu lästigen, weil schwer erreichbar, Blutungen kommen. Ein eventuell noch offenes Foramen ovale wird verschlossen. Der rechte Vorhof kann zwar bereits jetzt für die rechtsatriale Anastomosierung inzidiert werden, jedoch erfolgt dies unter dem Aspekt des ”Größenmatching” besser erst nach Fertigstellung der linksatrialen Anastomose, wenn sich die rechten Vorhöfe direkt gegenüberliegen. 
 
-## **11.4 Implantation des Spenderherzens (biatriale Technik)** 
+## **11.4 Implantation des Spenderherzens (biatriale Technik)**
 
 Der Schnittrand des linken Vorhofes wird im Bereich des kranialen und kaudalen Septums bzw. gegenüber den Einmündungen der rechten Lungenvenen mittels zweier langer Klemmen gefasst und das Herz zur Implantation ins Perikard verbracht (Abb. 4). Dabei kommt das Spenderherz um 90° nach links gekippt und links neben den Vorhofcuffs des Empfängers zu liegen, so dass die beiden linken Vorhöfe unmittelbar nebeneinander kommen. Vor dem Spenderherz kann etwas gestoßenes Eis ins Perikard eingebracht werden, um die Erwärmung des noch ischämischen Herzens durch das hintere Mediastinum zu verzögern. Der erste Assistent hält in der linken Hand die kraniale Klemme und kann mit der rechten Hand den Faden führen, der zweite Assistent hält mit der rechten Hand die kaudale Klemme und in der linken Hand den Maschinensauger, mit dem er das Perikard in der Tiefe in der Weise absaugt, dass er mit dem Sauger gleichzeitig das Herz leicht nach links weghält, wodurch die Sicht des Operateurs auf die fertig zu stellende Anastomose erheblich verbessert wird. 
 
@@ -1362,19 +1196,19 @@ Der Vent wird geklemmt und mit dem Ventschlauch der konnektiert. Eine 1-2 mm lan
 
 wieder ungedrosselt, der Linksvent wird wieder unter Sog gesetzt und die Snugger der Hohlvenen können bei Bedarf wieder angezogen werden. Die CO2-Insufflation wird beendet. 
 
-## **11.5 Implantation des Spenderherzens (bicavale Technik)** 
+## **11.5 Implantation des Spenderherzens (bicavale Technik)**
 
 Bei der bicavalen Implantation werden statt der rechtsatrialen Anastomose zwei cavale Anastomosen angelegt (Abb. 5a). 
 
 **Abbildung 5a:** Situs nach bicavaler Implantation 
 
-## **11.6 Blutungen** 
+## **11.6 Blutungen**
 
 Um lästige und auch gefährliche Blutungen an den Anastomosen zu vermeiden, sollten bereits bei der Implantation einige Dinge beachtet werden: Durch Mitfassen der Adventitia im Sinus transversus, insbesondere an der Hinterwand der großen Gefäße, und kontinuierliches aber vorsichtiges Anziehen der Naht sollte eine primäre Bluttrockenheit in diesem, später nur schlecht erreichbaren Bereich der Anastomose erzielt werden. Aus dem gleichen Grunde sollte der Ausgleich eventueller Lumendifferenzen von Spender- und Empfängergefäß durch stets blutungsträchtige Manöver (”mehr/weniger Stechen”; Korrekturinzisionen etc.) im Bereich der Gefäßvorderwand durchgeführt werden. Auch können die großen Gefäße eher etwas länger angelegt werden, da dies später bei der Blutstillung eine bessere Exposition der Hinterwand ermöglicht. Blutungen aus dem Adventitia-losen Bereich zwischen den großen Gefäßen und am Abgang der rechten Pulmonalarterie sollten versorgt werden, indem man Adventitia wieder über diese Bereiche zieht. Eine weitere häufige Blutungsquelle befindet sich an der rechtsatrialen 
 
 Anastomose im Bereich der unteren Hohlvene, da das Vorhofgewebe hier sehr dünn ist. Diesem Umstand muss durch sorgfältige Nahttechnik und nur moderatem Zug beim Führen der Fäden Rechnung getragen werden. Sollte hier ein Nachstich nötig sein, ist auf den Koronarsinus zu achten. Prinzipiell Gleiches gilt für das Gewebe im Bereich des resezierten Herzohres und des angrenzenden Vorhofdaches bei der linksatrialen Anastomose. 
 
-## **11.7 Reperfusion** 
+## **11.7 Reperfusion**
 
 Nach Freigabe der Koronarperfusion beginnt das Herz meist nach kurzer Zeit zu flimmern und wird nach Gabe von 200 mg Xylocain ggf. auch mehrfach defibrilliert. Die sich häufig daran anschließende Phase der Asystolie wird mit einem Ventrikelpacer (Frequenz von 40–60 1/min) überbrückt. Im weiteren Verlauf der Reperfusion entsteht in der Regel zunächst ein Kammer- oder AV-Rhythmus, der schließlich in einen Sinusrhythmus übergeht. Nicht selten benötigt das denervierte Herz bereits an der EKZ Adrenalin in geringer Dosierung, um in einen Sinusrhythmus zu kommen. Die Erholung des Reizbildungs- und Reizleitungssystems kann als stellvertretend für die Erholung des gesamten Myokards betrachtet werden, so dass die Normalisierung des EKG als eine wichtige Orientierungshilfe 
 
@@ -1390,7 +1224,7 @@ Der Operationssitus nach Implantation des Grafts und Dekanülierung. Die ungefä
 
 Während der Reperfusion können die passageren Elektroden auf (Spender) Vorhof und Ventrikel genäht werden. Auch die Luxation des Herzens bei der Implantation, um etwa den linken Ventrikel zu erreichen, ist überflüssig. Ein eventuell noch verbliebenes Pacer- oder AICD-Aggregat kann und soll jetzt explantiert werden, wenngleich für den Verschluss der Tasche die Etablierung der Gerinnung abgewartet werden sollte. Nach Entfernung des Linksvents und Übernähung wird der Einlagestelle wird der linksatriale Druckmesskatheter eingelegt. 
 
-## **11.8 Beenden der extrakorporalen Zirkulation** 
+## **11.8 Beenden der extrakorporalen Zirkulation**
 
 Beim Beenden der extrakorporalen Zirkulation gilt es zu beachten, dass ein transplantiertes Herz ein in weiten Teilen anderes pharmakologisches Management benötigt, als z. B ein koronarkrankes Herz. 
 
@@ -1402,19 +1236,19 @@ Die Drosselung des Rückflusses zur HLM (”Anstauen”) muss unter steter Kontr
 
 Bei stabilen Kreislaufverhältnissen können die Kanülen der HLM gezogen, Protamin verabreicht und die Blutstillung durchgeführt werden. Kleinere Blutungen aus Stichkanälen etc. werden durch vorsichtiges Austamponieren des Situs mit Kompressen gestillt. Es erfolgen die Einlage zweier Mediastinaldrainagen und der schichtweise Wundverschluss unter Verwendung von fortlaufenden Nähten für Faszie, Subkutis und Haut; lediglich die subxiphoidale Faszie sollte bei der immunsuppressionsbedingt verzögerten Wundheilung zur Vermeidung eines Narbenbruchs mit nichtresorbierbarem Nahtmaterial in Einzelknopfnahttechnik genäht werden. Anlage eines Verbandes. 
 
-## **11.9 Literatur** 
+## **11.9 Literatur**
 
 1. Barnard CN. Human cardiac transplantation: An evaluation of the first two operations performed at the Groote Schuur Hospital, Cape Town. Am J Cardiol 1968:22(4):584-96. 
 
 2. Cooley DA, Messmer BJ, Hallman GL et al. Technique and results of human heart transplantation. Langenbecks Arch Chir 1969;326(1):5-24. 
 
-## **12. Herztransplantation und ECMO** 
+# **12. Herztransplantation und ECMO**
 
 Wenngleich der ECMO-Therapie zur Überbrückung zur Herztransplantation eine sehr große Bedeutung zukommen könnte, wird sie vor der Herztransplantation aufgrund mangelnder Priorisierung und medianer HU-Wartezeit in Deutschland von über 120 Tagen praktisch nicht durchgeführt. Vielmehr ist sie sowohl bei Erwachsenen als auch bei Kindern durch permanente Ventrikelunterstützungssysteme ersetzt worden. 
 
 Postoperativ kommt sie bei respiratorischer Insuffizienz und primärer Graft-Dysfunktion zum Einsatz. Die Indikation und die Techniken des ECLS und der ECMO-Therapie sind in der SOP050 “Extrakorporale Unterstützung / Extracorporeal Life Support” ausgeführt. 
 
-## **13. Herztransplantation und Assist Device** 
+# **13. Herztransplantation und Assist Device**
 
 Folgende Überlegungen sollten bei der Festlegung der operativen Strategie durch den Transplanteur erfolgen: 
 
@@ -1430,9 +1264,9 @@ Folgende Überlegungen sollten bei der Festlegung der operativen Strategie durch
 
 Die Driveline des VAD sollte in jedem Fall komplett entfernt werden. Bei Patienten mit lateraler LVADImplantation (auf Aorta descendens) kann der Outflow-Graft ligiert werden und ggf. in situ verbleiben, falls eine komplette Explantation über die mediane Sternotomie unmöglich erscheint. 
 
-## **14. Intensivmedizinisches Management nach Herztransplantation** 
+# **14. Intensivmedizinisches Management nach Herztransplantation**
 
-## **14.1 Einleitung** 
+## **14.1 Einleitung**
 
 Die intensivmedizinische Betreuung von transplantierten Patienten in der unmittelbar perioperativen Phase oder auch im chronischen Verlauf bei neu auftretenden Problemen ist Schwerpunkt der kardiochirurgischen Intensivmedizin. 
 
@@ -1446,13 +1280,13 @@ Die Respiratortherapie dient der Aufrechterhaltung eines adäquaten Gasaustausch
 
 Ein weiterer wichtiger Bestandteil der Intensivtherapie nach Herztransplantation sind die Fortführung der bereits intraoperativ begonnenen Immunsuppression und das Rejektionsmonitoring. Die intensivmedizinische Betreuung nach Transplantation ist aufgrund der Komplexität immer eine interdisziplinäre Aufgabe [1]. 
 
-## **14.2 Übernahme auf Intensivstation** 
+## **14.2 Übernahme auf Intensivstation**
 
 Die Patienten nach Herztransplantation kommen sediert, intubiert und beatmet aus dem Operationsbereich. Eine Isolation der Patienten und strenge Asepsis bzw. Sterilität ist bei allen Maßnahmen dringend erforderlich. 
 
 Transplantierte Patienten werden in separate Einzel- oder Zweibettzimmer aufgenommen. Die Beachtung allgemeiner Empfehlungen für Hygiene für das medizinische Personal vor jeder Prozedur oder Manipulation am Patienten wie eine hygienische Händedesinfektion und das Tragen von keimarmen Handschuhen sind obligat [2]. Ebenso sind die Kittelpflege und das Tragen eines Mundschutzes erforderlich. Dies gilt ebenfalls für Besucher, deren Anzahl jedoch begrenzt bleiben muss. Personen mit Infektionen jeglicher Art ist das Betreten der Intensivstation generell untersagt. 
 
-## **14.3 Hämodynamisches Monitoring und Standardmedikation** 
+## **14.3 Hämodynamisches Monitoring und Standardmedikation**
 
 Die intensivmedizinische Therapie beginnt mit Übernahme des Patienten vom OP-Team. Die genaue Abfolge und die Inhalte der Übergabe sind in der SOP 538: Strukturierte Patientenübergabe spezifiziert. 
 
@@ -1474,7 +1308,7 @@ Die Druckwerte im linken Vorhof (Ziel: 8-12 mmHg), sofern sie über einen liegen
 
 Ischämie und Reperfusion bedingen oft eine diastolische Funktionsstörung mit einem eher restriktiven Füllungsverhalten der Ventrikel. Auf Grund des Reperfusionsschadens ist der Frank-StarlingMechanismus zur Steigerung des Schlagvolumens bei erhöhter Vorlast nur begrenzt intakt [7]. Somit kommt der adäquaten chronotropen Stimulation eine wichtige Bedeutung zum Erreichen eines ausreichenden Herzzeitvolumens zu. Dies wird in der Regel durch ein externes Pacing über die intraoperativ angelegten temporären epikardialen Schrittmacherelektroden erreicht. Bei vorhandenem Sinusrhythmus und intakter AV-Überleitung wird mittels Vorhofstimulation über epikardiale Elektroden initial mit einer Frequenz von 100/min stimuliert. Liegt ein höhergradiges Blockbild vor, so wird atrioventrikulär (sequentiell) stimuliert. 
 
-## **14.4 Volumenersatztherapie und Nierenfunktion** 
+## **14.4 Volumenersatztherapie und Nierenfunktion**
 
 Das Volumenmanagement ist als zentraler Baustein der Intensivbehandlung für den Krankheitsverlauf der Patienten von großer Bedeutung. Bei der Wahl des Volumenersatzes ist nicht nur die Normalisierung der hypovolämiebedingten hämodynamischen Veränderungen zu berücksichtigen. Nebenwirkungen auf den Säure-Basen-Haushalt, das Gerinnungssystem, die Nieren- und Leberfunktion sind für die Wahl des Volumenersatzmittels ebenso von Bedeutung [11]. 
 
@@ -1490,7 +1324,7 @@ Indikationsstellung und Durchführung erfolgen gemäß SOP357 „Akute Nierensch
 
 Die Retentionswerte (Kreatinin, Harnstoff) werden im Rahmen der täglichen Laborabnahmen kontrolliert. Sollte im postoperativen Verlauf weiter eine Nierenersatztherapie erforderlich sein und die Hämodynamik des Patienten mit nur gering dosierten oder ohne Katecholamine stabil sein, wird auf das intermittierende Dialyseverfahren (zunächst täglich, im Verlauf dreimal wöchentlich) gewechselt. Bei eingeschränkter Niereninfunktion muss die Dosierung nephrotoxischer und/oder renal eliminierter Substanzen wie z. B. Antibiotika angepasst werden. Eine Anpassung der immunsupressiven Therapie sollte aufgrund der urämiebedingten Immunsupression ebenfalls überdacht werden. 
 
-## **14.5 Bildgebende Verfahren und Labordiagnostik** 
+## **14.5 Bildgebende Verfahren und Labordiagnostik**
 
 Direkt nach Übernahme auf die Intensivstation wird ein Thorax-Röntgenbild zur Beurteilung der Lage von Drainagen, intravasalen Kathetern, Schrittmacherelektroden und des Tubus erstellt werden Herzsilhouette, Lunge, Mediastinum und knöcherner Thorax beurteilt. Die Indikation für eine Röntgenthoraxaufnahme ist bei eingeschränkter pulmonaler Funktion oder Auffälligkeiten niederschwellig zu stellen. 
 
@@ -1508,7 +1342,7 @@ Die laborchemischen Kontrollen erfolgen gemäß SOP268 Laboruntersuchungen in de
 
 - einmal postoperativ: Hepatitisserologie (angesetzt durch die Transplantationskoordinatoren) 
 
-## **14.6 Echokardiographie** 
+## **14.6 Echokardiographie**
 
 Herztransplantationen sind komplexe Eingriffe mit einem spezifischen Spektrum von Problemen in der intensivmedizinischen Betreuung, zu deren Abklärung und sicheren Bewältigung der Einsatz der Echokardiographie fest etabliert ist [15, 16]. 
 
@@ -1518,7 +1352,7 @@ Die Technik der wiederholten Echokardiographie scheint aktuell die genaueste Met
 
 Echokardiographische Befunde bei einer rechtsventrikulären Dysfunktion sind die eingeschränkte Wandbewegung des rechten Ventrikels, die rechtsventrikuläre Dilatation, die gestörte Bewegung des interventrikulären Septums und der Nachweis einer Trikuspidalklappeninsuffizienz, die Reduktion des RV-Strain, sowie die Reduktion des RV Schlagvolumens. Die Echokardiographie sollte großzügig eingesetzt werden, um hämodynamische Verschlechterungen zielgerichtet diagnostizieren und therapieren zu können. 
 
-## **14.7 Beatmung und respiratorisches Weaning** 
+## **14.7 Beatmung und respiratorisches Weaning**
 
 Die invasive und im Verlauf ggf. nicht-invasive Beatmung ist das zentrale Element zur Sicherstellung einer ausreichenden Oxygenierung und Kohlendioxid-Elimination in der frühen postoperativen Phase. Regelhaft ist eine Beatmungstherapie bis zur hämodynamischen Stabilisierung des Patienten notwendig. 
 
@@ -1550,7 +1384,7 @@ Gründe für eine prolongierte Entwöhnung vom Respirator sind vielfältig und b
 
 Ab dem ersten postoperativen Tag wird eine Frühmobilisation durch Physiotherapeuten angestrebt. 
 
-## **14.8 Postoperative Gerinnungsstörung** 
+## **14.8 Postoperative Gerinnungsstörung**
 
 Viele herztransplantierte Patienten sind im Vorfeld mit einem Assist-System (LVAD, BVAD) als „bridge to transplant“ oder anderen herzchirurgischen Operationen versorgt worden. Dementsprechend ist die präoperative Gerinnungssituation häufig auf Grund der Einnahme von gerinnungshemmenden Mitteln wie Phenprocumon oder Coumadin im Sinne eines erhöhten INR schwierig und die Gefahr einer Blutungsneigung deutlich erhöht [10]. 
 
@@ -1566,7 +1400,7 @@ Sollte es zu keiner vermehrten Nachblutung kommen, so wird 12 Stunden nach Opera
 
 Abhängig vom Nachblutungs- oder Thromboserisiko können individuell andere aPTT-Werte angestrebt werden. 
 
-## **14.9 Herzrhythmusstörungen** 
+## **14.9 Herzrhythmusstörungen**
 
 Bradyarrhythmien und supraventrikuläre Arrhythmien gehören zu den am häufigsten auftretenden Rhythmusstörungen nach Herztransplantationen. Sinusbradykardien werden durch ausreichend hohe Dosierung von chronotroper Stimulation (v. a. Adrenalin) und mittels externer atrialer Stimulation über die liegenden epikardialen Schrittmacherkabel behandelt. Höhergradige AV-Blockierungen erfordern meist ein sequentielles atrioventrikuläres Pacing. 
 
@@ -1578,7 +1412,7 @@ Ist eine pharmakologische Therapie des Vorhofflimmerns indiziert, so ist Amiodar
 
 Bei ventrikulären Rhythmusstörungen werden Amiodaron und Ajmalin verwendet [28]. Neben diesen Maßnahmen ist es erforderlich den Elektrolythaushalt, speziell den Kalium- und Magnesiumspiegel zu kontrollieren und gegebenenfalls zu optimieren. 
 
-## **14.10 Infektkontrolle und antimikrobielle Therapie** 
+## **14.10 Infektkontrolle und antimikrobielle Therapie**
 
 Festgelegt wird die perioperative Antibiotikaprophylaxe durch den internistischen Hintergrunddienst. Grundsätzlich ist nach einer Herztransplantation eines nicht-voroperierten Patienten eine verlängerte perioperative Antibiotikaprophylaxe mit Cefuroxim 3 x 1500 mg i. v. für 7 Tage ausreichend. (Ggf. Anpassung an Nierenfunktion, SOP866 „Dosierung von Antiinfektiva“). 
 
@@ -1592,7 +1426,7 @@ Auf Grund der relevanten Gefahr von Infektionen unter der immunsuppressiven Ther
 
 Bei Bedarf findet auf der Intensivstation eine interdisziplinäre mikrobiologische Visite statt, bei der neueste Befunde besprochen und gezielt antibiogrammgerechte Therapien festgelegt werden. 
 
-## **14.11 Ernährung und Stoffwechsel** 
+## **14.11 Ernährung und Stoffwechsel**
 
 Ernährungsmedizinische Ziele im perioperativen Management sind die Erfassung metabolischer Risiken im Zusammenhang mit der Operation, die Vermeidung längerer Nüchternheit, die frühestmögliche Wiederaufnahme der Nahrungszufuhr, das intensive Blutzuckermonitoring und eine frühe Mobilisation zur Stimulation der Proteinsynthese. Orale Antidiabetika sollten perioperativ pausiert werden. Zur Vermeidung von Hyperglykämien sollte ggf. eine kontinuierliche Insulingabe nach SOP025 „Ernährungstherapie kritisch kranker Intensivpatienten“ erfolgen. Zielwert ist ein Blutzuckerspiegel < 180 mg/dl. Nach Herztransplantation sollte ein oraler Kostaufbau oder eine enterale Ernährung bereits nach 24 Stunden erfolgen [29-32]. 
 
@@ -1604,7 +1438,7 @@ Sowohl nach Eingriffen mit Herz-Lungen-Maschine als auch unter der parenteralen 
 
 Bei terminaler Herzinsuffizienz und nach Einsatz der Herz-Lungen-Maschine kommt es häufig zu funktionell bedeutsamen Hypothyreosen, bei denen im Vergleich zur primären Hypothyreose bei vermindertem fT3 auch das TSH deutlich erniedrigt ist. Zur Erholung der Transplantatfunktion sollte eine frühzeitige Substitution mit T3 erfolgen [30]. 
 
-## **14.12 Pulmonale Hypertonie und ventrikuläre Dysfunktion** 
+## **14.12 Pulmonale Hypertonie und ventrikuläre Dysfunktion**
 
 Die Therapie eines erhöhten pulmonal vaskulären Widerstands nach Herztransplantation ist ein wesentlicher Bestandteil des perioperativen Managements. Häufig findet sich bei Transplantatempfängern vor der Operation ein sekundär erhöhter Pulmonalgefäßwiderstand [33]. Die Erhöhung des pulmonal-vaskulären Widerstandes als Folge einer chronischen Herzinsuffizienz mit gestauter Lungenstrombahn stellt einen der Hauptrisikofaktoren für das primäre Transplantatversagen dar [34, 35]. Die pulmonale Hypertonie und die Rechtherzinsuffizienz haben einen erheblichen Einfluss auf die postoperative Morbidität und Mortalität [36]. 
 
@@ -1640,7 +1474,7 @@ Therapeutische Maßnahmen sind einerseits die Dosiserhöhung von Adrenalin auf �
 
 Zusätzlich sollte mittels atrialer Stimulation eine Herzfrequenz von 100–120 /min unter Kontrolle des HZV angestrebt werden. Bei niedrigem MAD (< 65 mmHg), anhaltender Oligurie und therapierefraktärer Azidose trotz hochdosierter Katecholamingabe ist die Implantation einer intraaortalen Ballonpumpe (IABP) indiziert. Eine mechanische Kreislaufunterstützung wäre auch hier die letzte Option (siehe SOP445 Hämodynamisches Management in der Intensivmedizin). 
 
-## **14.13 Behandlungsalgorithmus bei pulmonaler Hypertonie und Rechtsherzdysfunktion** 
+## **14.13 Behandlungsalgorithmus bei pulmonaler Hypertonie und Rechtsherzdysfunktion**
 
 - Diagnosestellung/Verlaufskontrolle der pulmonalen Hypertonie und Rechtsherzdysfunktion mittels Pulmonaliskatheter (ZVD, MPAP, PCWP, HZV, SvO2) und transösophagealer Echokardiographie, 
 
@@ -1672,7 +1506,7 @@ Zusätzlich sollte mittels atrialer Stimulation eine Herzfrequenz von 100–120 
 
 - Infusion von Inodilatatoren, wie den Phosphodiesterase-III-Inhibitoren, dem Calcium-Sensitizer Levosimendan evtl. in Kombination mit Noradrenalin zur Aufrechterhaltung des rechtskoronaren Perfusionsdrucks. 
 
-## **14.14 Literatur** 
+## **14.14 Literatur**
 
 1. Simsch O, Gromann T, Knosalla C et al. The Intensive Care Management of Patients following Heart Transplantation at the Deutsches Herzzentrum Berlin. Tx Med 2011; 23:177-85. 
 
@@ -1772,17 +1606,17 @@ Zusätzlich sollte mittels atrialer Stimulation eine Herzfrequenz von 100–120 
 
 47. Santise G et al. Levitronix as a short-term salvage treatment for primary graft failure after heart transplantation. J Heart Lung Transplant. 2006; 25(5):495-8. 
 
-## **15. Wundinfektion** 
+# **15. Wundinfektion**
 
-## **15.1 Einleitung** 
+## **15.1 Einleitung**
 
 Durch die zunehmende Alterung der Bevölkerung werden herzchirurgische Eingriffe in der heutigen Zeit bei immer älteren, oft multimorbiden Patienten durchgeführt. Insbesondere herzchirurgische Operationen bei Patienten mit hohem Body-Maß-Index (BMI), Diabetes mellitus oder einem bereits vorliegenden kardiogenen Schock haben das Auftreten von Wundinfektionen häufiger werden lassen [1]. Als weitere Risikofaktoren werden Re-Thorakotomien, lange Intensivstationsaufenthalte und die beidseitige Präparation der Arteria mammaria angegeben [2, 3]. Patienten, die einer Herztransplantation unterzogen werden, weisen aufgrund der postoperativen Immunsuppression ein erhöhtes Risiko für Infektionen auf. Zudem konnte beispielhaft am Zahnstatus gezeigt werden, dass gerade diese Patientenklientel schon präoperativ zu einer erhöhten Rate an Infektionen neigt [4]. 
 
-## **15.2 Inzidenz** 
+## **15.2 Inzidenz**
 
 Die Häufigkeit einer Wundinfektion bei herzchirurgischen Standard-Patienten wird mit 0,5–2 % angegeben [5, 6]. Hierbei handelt es sich jedoch um tiefe Wundinfektionen. Oberflächliche Wundinfektionen werden mit einer Häufigkeit von bis zu 8 % angegeben [6]. Bei Patienten mit einer Herztransplantation werden deutlich größere Häufigkeiten beschrieben. In der Literatur wird eine Inzidenz von 3,9 bis zu 35 % angegeben [6, 7]. 
 
-## **15.3 Klassifikation** 
+## **15.3 Klassifikation**
 
 Im Folgenden wird auf die Symptomatik und die Klassifikation eingegangen. Die typischen Entzündungszeichen sind: Rubor (Rötung), Calor (Überwärmung), Tumor (Schwellung und Exsudation), Dolor (Schmerz) und Functio laesa (Funktionseinschränkung). Bei transplantierten Patienten können einzelne typische Entzündungszeichen durch die Immunsuppression fehlen oder nur in abgeschwächter Form auftreten, was die Diagnostik erschwert [8]. Falls bei diesem speziellen Patientenkollektiv der Verdacht auf eine Wundinfektion geäußert wird, hat es sich als sinnvoll herausgestellt, eine Computertomographie durchzuführen. Hier können Lufteinschlüsse und Flüssigkeitsansammlungen festgestellt werden [8]. 
 
@@ -1800,13 +1634,13 @@ Hier sind neben der Haut und dem subkutanen Fettgewebe tiefere Schichten betroff
 
 Bei diesen sehr tiefen Wundinfektionen sind Geweberäume (z. B. Mediastinum, Pleurahöhlen, Bauchhöhle) betroffen. Die Organe sind ebenfalls infiziert. 
 
-## **15.4 Therapieverfahren** 
+## **15.4 Therapieverfahren**
 
 "Ubi pus, ibi evacua" gilt nach wie vor. Der Diagnosestellung muss unverzüglich eine aggressive chirurgische Therapie folgen. Dabei wird das nekrotische Gewebe entfernt.  Im Anschluss gibt es zwei verschiedene chirurgische Verfahren: Viele Jahre wurde bei einer Mediastinitis die Einlage einer SaugSpül-Drainage mit Re-Verdrahtung des Sternums favorisiert. Später setzte sich zunehmend die 
 
 Vakuum-assistierte Drainage mit späterem, sekundärem Wundverschluss durch. Beide Verfahren werden nachfolgend ausführlicher geschildert und können kombiniert werden. Unabhängig von der gewählten Technik der Weiterbehandlung kommt der mit der Wundrevision verbundenen, mikrobiologischen Diagnostik eine erhebliche Bedeuting zu. Liberal entnommene Gewebebiopsate können helfen, auch bei unauffälligen Abstrichen einen Erregernachweis zu führen und erlauben eine sichere Differenzierung zwischen Kontamination und Infektion. Die Aufarbeitung der Biopsate muss dem zu erwartenden Erreger Rechnung tragen und zum Beispiel auch eine lichtmikroskopische Beguatachtung zum Nachweis von Pilzhyphen beeinhalten. Eine für den individuellen Patienten (mit seiner nicht selten ohnehin schon eingeschränkten Leber- und Nierenfunktion) angepasste, anti-infektive Therapie wird in der Regel erst durch diese Maßnahmen möglich werden. 
 
-## **15.4.1 Saug-Spül-Drainage mit Sternum-Reverdrahtung und Omentum-majus-Hochzug** 
+### **15.4.1 Saug-Spül-Drainage mit Sternum-Reverdrahtung und Omentum-majus-Hochzug**
 
 Zunächst erfolgt ein Debridement des Mediastinums, so dass sämtliches makroskopisch sichtbar infiziertes und nekrotisches Gewebe entfernt wird. Anschließend wird der thorakale Situs mit einem mit Braunol getränkten Bauchtuch abgedeckt. Sodann wird die thorakale Wunde nach distal um circa 10 cm erweitert und nach Durchtrennung von Subkutis und Rektusaponeurose das Peritoneum eröffnet. Ganz besonders im Falle von Voroperationen ist nun Vorsicht geboten: Das Omentum majus wird vorsichtig hervorluxiert und vom Colon transversum abgelöst. Unter Kontrolle der Blutversorgung wird es nun nach cranial luxiert und gegebenenfalls durch eine tangentiale Schnittführung reduziert. Hierbei ist auf eine absolute Spannungsfreiheit zu achten, da ansonsten Spannung auf das Colon transversum oder den Magen ausgeübt wird. 
 
@@ -1824,7 +1658,7 @@ Vor- und Nachteile dieser Technik:
 
 - Nachteilig ist jedoch, dass der schon geschwächte Patient einem 2-Höhleneingriff unterzogen wird. 
 
-## **15.4.2 Vakuum-assistierte Drainage mit sekundärem plastischem Wundverschluss** 
+### **15.4.2 Vakuum-assistierte Drainage mit sekundärem plastischem Wundverschluss**
 
 Eine Alternative stellt die primär offene Wundbehandlung dar. Es konnte gezeigt werden, dass die Vakuum-assistierte Wundversorgung mit späterem plastischem Thoraxverschluss bessere Überlebenschancen für den Patienten ermöglicht [10]. 
 
@@ -1844,11 +1678,11 @@ Vor- und Nachteil dieser Technik:
 
 - Nachteilig ist die Tatsache, dass wiederholte Wundrevisionen mit mehreren Narkosen notwendig sind. 
 
-## **15.5 Schlussfolgerung** 
+## **15.5 Schlussfolgerung**
 
 Wundinfektionen treten bei transplantierten Patienten häufig auf. Aufgrund der Immunsuppression können typische Zeichen der Infektionen fehlen, weshalb besonders bei diesem Patientenkollektiv eine sorgfältige Wundkontrolle wichtig ist. Im Fall einer Infektion sollte eine frühzeitige und aggressive Behandlung durchgeführt werden. 
 
-## **15.6 Literatur** 
+## **15.6 Literatur**
 
 1. Heilmann C, Stahl R, Schneider C et al. Wound complications after median sternotomy: a singlecentre study. Interact Cardiovasc Thorac Surg 2013;16:643-8. 
 
@@ -1870,7 +1704,7 @@ Wundinfektionen treten bei transplantierten Patienten häufig auf. Aufgrund der 
 
 10. Schmid C. Postoperative Sternumkomplikationen. In: Ziemer G, Haverich A, Hrsg. Herzchirurgie. 3. Aufl. Berlin: Springer, 2010: 873-877. 
 
-## **16. Häufige Infektionen nach Herztransplantation** 
+# **16. Häufige Infektionen nach Herztransplantation**
 
 Infektionen sind für ca. 1/3 der Todesfälle im ersten Jahr nach Herztransplantation verantwortlich und sind auch im weiteren Verlauf eine häufige Todesursache bei Organtransplantierten [1]. 
 
@@ -1888,7 +1722,7 @@ Infektionen nach solider Organtransplantation können grob in 3 Zeiträume einge
 
 Zu bedenken sind bei Transplantierten immer Faktoren wie Induktionstherapie mit ATG, Hospitalisierungen und Rejektionsbehandlungen, die die Anfälligkeit für nosokomiale oder opportunistische Erreger verlängern bzw. auch bei länger Transplantierten das Erregerspektrum in diese Richtung verschieben können. 
 
-## **16.1 Multiresistente Erreger** 
+## **16.1 Multiresistente Erreger**
 
 Entsprechend der Definition des European Center for Disease Prevention and Control (ECDC) ist multidrug-resistance (MDR) definiert als Unempfindlichkeit auf mindestens ein Antibiotikum aus drei oder mehr Antibiotikaklassen,  extensively drug-resistance (XDR) als Unempfindlichkeit auf mindestens ein Antibiotikum aus allen bis auf höchstens zwei Antibiotikaklassen und pandrug-resistance (PDR) als Unempfindlichkeit auf alle zugelassenen Antibiotika [3], wobei die infrage kommenden Antibiotikaklassen je nach Erreger variieren. 
 
@@ -1896,11 +1730,11 @@ In Deutschland ist bei multiresistenten gramnegativen Bakterien (MRGN) die Einte
 
 Organempfänger sind durch Faktoren wie häufigere Hospitalisierungen, sekundäre Organdysfunktionen, reduzierten Ernährungsstatus, länger liegende venöse Zugänge und Blasenkatheter, ein infiziertes Herzunterstützungssystem, aber unter Umständen auch durch höheres Alter oder einen Diabetes mellitus häufig anfälliger für eine Kolonisation wie auch für Infektionen mit multiresistenten Erregern [1]. 
 
-## **16.1.1 Prävention** 
+### **16.1.1 Prävention**
 
 Neben regelmäßigem Screening auf eine Kolonisierung mit MDR-Bakterien und gegebenenfalls Dekolonisierungsmaßnahmen sowie strikten Hygienemaßnahmen sollte auf einen restriktiven Einsatz von Antibiotika, d.h. insbesondere auf eine rasche Deeskalation je nach Erregerlage, sowohl vor als auch nach der Transplantation geachtet werden [4, 5]. 
 
-## **16.1.2 Behandlung von Infektionen bei Herztransplantierten** 
+### **16.1.2 Behandlung von Infektionen bei Herztransplantierten**
 
 Die Behandlung richtet sich – wie auch in anderen Patientengruppen – nach Art und Schwere der Infektion. Infektionen können unter Immunsuppression rasch eskalieren und fatale Verläufe nehmen. Bedacht werden muss auch, dass typische Infektzeichen, z.B. Fieber, unter Immunsuppression weniger ausgeprägt sein können. 
 
@@ -1918,7 +1752,7 @@ Zur Frage der Dosisanpassung von Antibiotika bei eingeschränkter Nierenfunktion
 
 Im Zweifelsfall ist ein frühzeitiges Hinzuziehen infektiologischer Expertise (Konsil) sinnvoll. 
 
-## **16.1.3 Behandlung von Infektionen mit MDR gramnegativen Bakterien** 
+### **16.1.3 Behandlung von Infektionen mit MDR gramnegativen Bakterien**
 
 |**Organismus**|**Behandlung**|**Loading**|**Erhaltungsdosis**|**Empfehlungsgrad (A-C)**|
 |---|---|---|---|---|
@@ -2112,7 +1946,7 @@ Ceftarolin||3 x 500 mg
 
 Im Einzelfall s. Fachinformationen bezüglich Dosisanpassung bei Niereninsufffizienz und Kontrolle Blutbild/Transaminasen 
 
-## **16.1.5 Behandlung von Vancomycin-resistenten Enterokokken (VRE)** 
+### **16.1.5 Behandlung von Vancomycin-resistenten Enterokokken (VRE)**
 
 Problematische sind insbesondere E. faecium (VRE), während bei E. faecalis (VRE) mehr Therapieoptionen bestehen. Empfohlen werden (nach [6]): 
 
@@ -2136,7 +1970,7 @@ Gegen E. faecalis (VRE) bestehen noch weitere Therapieoptionen:
 
 Eine Therapie muss immer das Resistogramm, die MHK und möglichst den Resistenzmechanismus berücksichtigen. Sollten die letztgenannten wenig gebräuchlichen Antibiotika in Erwägung gezogen werden, empfiehlt sich eine infektiologische Rücksprache. 
 
-## **16.1.6 Literatur** 
+### **16.1.6 Literatur**
 
 1. Timsit JF et al. Diagnostic and therapeutic approach to infectious diseases in solid organ transplant recipients. Intensive Care Med 2019;45:573-91. 
 
@@ -2158,7 +1992,7 @@ Eine Therapie muss immer das Resistogramm, die MHK und möglichst den Resistenzm
 
 9. Abbott IJ, Peleg AY. Stenotrophomonas, Achromobacter, and Nonmelioid Burkholderia Species: Antimicrobial Resistance and Therapeutic Strategies. Semin Respir Crit Care Med 2015;36:99110. 
 
-## **16.2 Cytomegalievirus (CMV)** 
+## **16.2 Cytomegalievirus (CMV)**
 
 ## **Zusammenfassung** 
 
@@ -2168,7 +2002,7 @@ Die CMV-Erkrankung kann ein buntes Bild an Symptomen hervorrufen. Sie sollte dah
 
 Zur Therapie kommen vorwiegend Ganciclovir bzw. Valganciclovir zum Einsatz. Bei fehlendem Ansprechen der Therapie muss an eine Resistenz gedacht, dieses weiter abgeklärt und die Therapie entsprechend umgestellt werden. 
 
-## **16.2.1 Einleitung** 
+### **16.2.1 Einleitung**
 
 Das Cytomegalievirus (CMV = Humanes Herpesvirus 5/HHV-5) ist ein ubiquitäres DNA-Virus mit einer Seroprävalenz („Durchseuchung“) von 40–60 % in Mitteleuropa und 95–100 % in Teilen Asiens, Südamerikas und Afrikas. 
 
@@ -2176,7 +2010,7 @@ Die Übertragung erfolgt über Schmier- oder Tröpfcheninfektionen, diaplazentar
 
 Während die Infektion bei Immunkompetenten in 75 % asymptomatisch verläuft und sich in den übrigen Fällen als mehr oder weniger stark ausgeprägte „EBV-negative infektiöse Mononukleose“ mit Fieber, Tonsillitis, Lymphadenopathie und/oder Hepatosplenomegalie äußert, kann sich eine Reaktivierung oder auch Primärinfektion bei Immunsupprimierten in schweren Erkrankungen einzelner oder mehrerer Organe äußern und kann bei Patienten nach SOT mit einer erhöhten spezifischen (im Fall der Herztransplantation erhöhtes Risiko für eine Transplantatvaskulopathie [4]) oder unspezifischen (erhöhtes Risiko für bakterielle, andere virale und Pilzinfektionen, post transplant lymphoproliterative disease, Diabetes mellitus, Rejektionen) Morbidität assoziiert sein [1, 2]. 
 
-## **16.2.2 Einteilung** 
+### **16.2.2 Einteilung**
 
 Es wird unterschieden zwischen [1, 3] 
 
@@ -2194,7 +2028,7 @@ Zu bedenken ist auch eine temporär stärkere Immunsuppression, z.B. bei Rejekti
 
 Dieses bunte Bild an möglichen Symptomen und Organbeteiligungen muss im Gegenschluss bei entsprechenden Symptomen bei Immunsupprimierten immer auch an eine CMV-Erkrankung denken lassen [1, 3]. 
 
-## **16.2.3 Diagnostik** 
+### **16.2.3 Diagnostik**
 
 ## _Serologie_ 
 
@@ -2232,7 +2066,7 @@ Der pp65-Antigen-Nachweis wird am DHZC nicht mehr verwendet.
 
 Insbesondere bei der gewebeinvasiven CMV-Erkrankung und hier vor allem bei gastrointestinaler Beteiligung schließt ein fehlender CMV-Nachweis im Blut eine Erkrankung nicht aus; ggfs. müssen andere Materialien (z.B. Stuhl, BAL) oder entsprechende Gewebeproben entnommen und untersucht werden (quantitative PCR, (Immun-)Histopathologie).  [1, 3] 
 
-## **16.2.4 Prävention der CMV-Erkrankung** 
+### **16.2.4 Prävention der CMV-Erkrankung**
 
 Zur Prävention der CMV-Erkrankung nach Transplantation können zwei Strategien gewählt werden [1, 3]: 
 
@@ -2256,7 +2090,7 @@ Nach Beendigung der Prophylaxe wird ein Monitoring (CMV-PCR) 1-2 x/Monat für we
 
 In der Konstellation D-/R- ist keine Prävention und laut Empfehlungen auch keine regelmäßige Labordiagnostik erforderlich. Eine Diagnostik und gegebenenfalls Therapie soll aber bei Verdacht auf eine CMV-Infektion (dann: Primärinfektion) zügig erfolgen. Es sollte zudem regelhaft eine Prophylaxe gegen andere Viruserkrankungen mit Aciclovir erfolgen. [1, 3] 
 
-## **16.2.5 Therapie** 
+### **16.2.5 Therapie**
 
 ## _Zugelassene Virostatika_ 
 
@@ -2294,11 +2128,11 @@ Im Falle schwerer organinvasiver CMV-Erkrankungen und/oder wenn Resistenzen die 
 
 Adoptiver T-Zelltransfer zur Wiederherstellung der zellulären CMV-Immunität wurde bei der SOT bisher nur in Einzelfällen eingesetzt bei der allogenen Stammzelltransplantation häufiger [1]. Auch diese Therapieoption kann im Einzelfall bei nicht beherrschbarer CMV-Infektion diskutiert werden. 
 
-## **16.2.6 Therapeutisches Drugmonitoring** 
+### **16.2.6 Therapeutisches Drugmonitoring**
 
 Zum therapeutischen Drugmonitoring von Ganciclovir gibt es weder in den aktuellen Leitlinien Empfehlungen noch konnte ein Vorteil in klinischen Studien bisher belegt werden. Somit bleibt eine Spiegelbestimmung bei Ganciclovirgabe die Ausnahme und stellt keine Routinediagnostik dar [6]. 
 
-## **16.2.7 Impfung** 
+### **16.2.7 Impfung**
 
 Impfungen gegen CMV sind in Entwicklung, aber bisher noch nicht für den klinischen RoutineEinsatz verfügbar [7]. 
 
@@ -2469,7 +2303,7 @@ Die Gabe von Immunglobulinen kann, insbesondere bei Hypogammaglobulinämie (dies
 
 _Vorgehen bei Verdacht auf Resistenz gegen antivirale Medikament (Proposed algorithm for management of suspected antiviral drug resistance, based on consensus expert opinion, Fig. 2 aus [3])_ 
 
-## **16.2.7 Literatur** 
+### **16.2.7 Literatur**
 
 [1] S2k-Leitlinie 
 
@@ -2485,9 +2319,9 @@ _Vorgehen bei Verdacht auf Resistenz gegen antivirale Medikament (Proposed algor
 
 [6] Plotkin SA et al. The Status of Vaccine Development Against the Human Cytomegalovirus. JID 2020:221(S1):S113–22 
 
-## **16.3 Clostridioides-difficile-Infektion (CDI)** 
+## **16.3 Clostridioides-difficile-Infektion (CDI)**
 
-## **16.3.1 Epidemiologie und Risikofaktoren** 
+### **16.3.1 Epidemiologie und Risikofaktoren**
 
 Clostridioides (früher Clostridium) difficile ist ein obligat anaerob wachsendes, grampositives Stäbchen mit Fähigkeit zur Bildung aerotoleranter Sporen. Krankheitsauslösend wirken die Virulenzfaktoren Enterotoxin A und Cytotoxin B, die zu einer zytotoxischen Schädigung der Intestinalzellen sowie neutrophilen Gewebsinfiltraten und damit zu Diarrhö und Kolitis mit oder ohne Ausbildung von Pseudomembranen führen. Stämme, die keine Toxine bilden können, gelten als apathogen [1]. Das Bakterium ist kein Bestandteil der physiologischen Darmflora, allerdings bei Erwachsenen in 3–7 % und bei Säuglingen in bis zu 80 % der Fälle nachweisbar, ohne dass diese erkrankt wären [2,3]. 
 
@@ -2501,7 +2335,7 @@ Jedes Antibiotikum kann die Bedingungen für eine CDI schaffen.  Die am häufigs
 
 des Gesundheitssystems sowie stattgehabte CDI [1,2,8,12]. 
 
-## **16.3.2 CDI-Diagnose** 
+### **16.3.2 CDI-Diagnose**
 
 Eine mikrobiologische Diagnostik sollte nur bei Patienten mit klinischen Symptomen einer CDI erfolgen, da der Nachweis des Erregers oder der Enterotoxine bei asymptomatischen Patienten keine Bedeutung hat. Hierfür reicht in der Regel eine breiig-flüssige Stuhlprobe; eine Diagnostik aus geformtem Stuhl ist nicht indiziert. In besonderen Situationen, z. B. bei Patienten mit einem Ileus, können Rektalabstriche verwandt werden [12]. 
 
@@ -2515,7 +2349,7 @@ Bildgebende Verfahren wie die Abdomen- Sonografie oder Computertomographie besit
 
 ## **Diagnostischer Algorithmus** 
 
-## **16.3.3 CDI-Behandlung** 
+### **16.3.3 CDI-Behandlung**
 
 Erste Maßnahme sollte, wenn möglich, die Beendigung der auslösenden antibiotischen Therapie sein. Wenn diese fortgesetzt werden muss, um eine andere Infektionserkrankung zu behandeln, sollte versucht werden auf ein Antibiotikaregime mit schmalerem Spektrum oder weniger CDI-Assoziationen zu wechseln. Zudem sind supportive Maßnahmen wie Ausgleich des Flüssigkeits- und Elektrolythaushaltes zu erwägen. Bei Verdacht auf bzw. bei bestätigter CDI ist ein Verzicht auf Motilitätshemmer, inklusive Opiate (soweit möglich) empfehlenswert, insbesondere bei schweren Verläufen (z.B. blutige Diarrhö, Fieber, Megakolon) [12]. 
 
@@ -2573,7 +2407,7 @@ Nach Expertenmeinung gilt, dass 48 Stunden nach Sistieren der klinischen Symptom
 
 für Familienangehörige, Mitbewohner und Pflegende, noch für andere Patienten ein erhöhtes Risiko besteht, und eine Unterbringung in Mehrbettzimmern in Krankenhäusern bzw. eine Entlassung in das häusliche Umfeld oder die Gemeinschaftseinrichtung möglich ist [12]. 
 
-## **16.3.4 Literatur** 
+### **16.3.4 Literatur**
 
 1. Clostridioides (früher Clostridium) difficile. Berlin: RKI, 2019. (accessed on March 12 2021, at https://www.rki.de/DE/Content/Infekt/EpidBull/Merkblaetter/Ratgeber_Clostridium.html 
 
@@ -2603,9 +2437,9 @@ für Familienangehörige, Mitbewohner und Pflegende, noch für andere Patienten 
 
 14. McDonald LC, Gerding DN, Johnson S et al. Clinical Practice Guidelines for Clostridium difficile Infection in Adults and Children: 2017 Update by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA). Clin Infect Dis 2018. 66(7):e1-e48. 
 
-## **16.4 Pneumocystis-Pneumonie (PcP)** 
+## **16.4 Pneumocystis-Pneumonie (PcP)**
 
-## **16.4.1 Epidemiologie und Risikofaktoren** 
+### **16.4.1 Epidemiologie und Risikofaktoren**
 
 Pneumocystis jirovecii, früher P. carinii, ist ein einzelliger Askomyzet (Schlauchpilz), der ubiquitär in der Umwelt vorkommt und aerogen von Mensch zu Mensch übertragen werden kann [1]. P. jirovecii ist ein klassischer opportunistischer Keim bei immunsupprimierten Patienten [2]. Eine PCP stellt mit 50% die häufigste Erstmanifestation und mit 85% auch die häufigste AIDS-definierende Erkrankung dar [3]. Es wird davon ausgegangen, dass es bei Immunkompetenten zu stetigen selbstlimitierenden Reinfektionen kommt, die eine Infektionsquelle für immunkompromittierte Patienten sein können [1]. Die symptomatische PcP ist in aller Regel auf Immunsupprimierte beschränkt. 
 
@@ -2629,7 +2463,7 @@ Bei HIV-negativen, immunsupprimierten Patienten geht eine PcP mit deutlich schwe
 |Weitere monoklonale Antikörper|Alemtuzumab, Rituximab, Tocilizumab|
 |CTLA4-Ig|Belatacept|
 
-## **16.4.2 PcP – Klinik und Diagnosestellung** 
+### **16.4.2 PcP – Klinik und Diagnosestellung**
 
 Die PcP gilt als opportunistische Infektion mit plasmazellulärer interstitieller Pneumonie [3]. PcP-Symptome sind insbesondere Fieber, Dys- und Tachypnoe, trockener Reizhusten, Brustschmerz sowie eine oftmals ausgeprägte Hypoxämie bereits in der Frühphase, die unverhältnismäßig zu den physischen Befunden steht. Der Auskultations- und radiologische Befund können insbesondere in initialen Stadien unauffällig sein [1]. Später zeigen sich radiologisch symmetrische diffuse retikulo-noduläre Verdichtungen des Interstitiums und eventuell eine milchglasartige Trübung [3]. Die Computertomographie ist der Röntgenaufnahme überlegen. Ein spezifisches radiologisches Muster gibt es jedoch nicht [14]. 
 
@@ -2655,7 +2489,7 @@ Serologische Tests, die in Sensitivität/Spezifität der PCR gleichkommen, fehle
 
 - 6) Offene Lungenbiopsien können erwogen werden, wenn die vorausgehenden Tests nicht aufschlussreich waren oder andere Begleiterkrankungen besorgniserregend sind. 
 
-## **16.4.3 PcP-Behandlung** 
+### **16.4.3 PcP-Behandlung**
 
 ## **Praktische Therapieempfehlungen zur Behandlung einer PcP** 
 
@@ -2679,7 +2513,7 @@ Serologische Tests, die in Sensitivität/Spezifität der PCR gleichkommen, fehle
 
 Wichtig: DIE BAL bleibt mind. 1–2 Tage nach Therapiebeginn positiv! 
 
-## **16.4.4 PcP-Prophylaxe** 
+### **16.4.4 PcP-Prophylaxe**
 
 Eine medikamentöse PcP-Prophylaxe wird bei HIV-positiven Patienten und bei bestimmten Krebserkrankungen, nach Organ- oder Stammzelltransplantation, aber auch bei rheumatologischen Erkrankungen mit diversen immunsuppressiven Therapieregimes mit einer Steroiddosis von > 20 mg Prednison-Äquivalent über mehr als 4 Wochen und bei o.g. CD 4 Reduktion empfohlen, wenn mindestens ein weiterer immunsuppressiver Faktor (Grundkrankheit oder zusätzliche immunsupprimierende Medikamente) vorhanden ist [1,17]. Vergleiche diesbezüglich auch Therapieregimes aus Tabelle 1. Eine Pneumocystis-Prophylaxe ist nach Organtransplantation für 6 –12 Monate empfohlen; längere Perioden können in Erwägung gezogen werden. Eine Kombination aus Trimethoprim/Sulfamethoxazol (TMP-SMX) ist das Mittel der Wahl zur Prophylaxe. 
 
@@ -2687,7 +2521,7 @@ Eine medikamentöse PcP-Prophylaxe wird bei HIV-positiven Patienten und bei best
 
 Sowohl im Wirkungs-/Nebenwirkungsspektrum als auch beim Preis ist keine der genannten Alternativen TMP/SMX ebenbürtig. 
 
-## **16.4.5 Literatur** 
+### **16.4.5 Literatur**
 
 1. Kalbitz S, Wendt R, Lübbert C. Pneumocystis-jirovecii-Pneumonie (PcP): Prophylaxe in Zeiten der Arzneimittelverknappung. Dtsch Arztebl 2020; 117(37): [20] 
 
@@ -2725,7 +2559,7 @@ Sowohl im Wirkungs-/Nebenwirkungsspektrum als auch beim Preis ist keine der gena
 
 18. Martin SI, Fishman JA. Pneumocystis Pneumonia in Solid Organ Transplantation. Am J Transplant 2013;13(S4):272-9. 
 
-## **17. Immunsuppression nach Herztransplantation** 
+# **17. Immunsuppression nach Herztransplantation**
 
 **Abbildung 1** . Wirkmechanismen von Immunsuppressiva (aus [1]) 
 
@@ -2735,9 +2569,9 @@ Die Frühphase nach der Transplantation geht aufgrund dessen und da die eingeset
 
 Aktueller Stand ist eine initiale Dreifachtherapie mit einem Calcineurin-Inhibitor (Tacrolimus, Cyclosporin), einem Antimetaboliten der Purinbiosynthese (Mycophenolatmofetil) und Glukokortikoiden. Die Steroidtherapie sollte im Verlauf drastisch reduziert, ggf. ausgeschlichen werden. Die Gabe des m -Tor Inhibitors Everolimus kann im Verlauf bei Nephropathie, Transplantatvaskulopathie oder MMFUnverträglichkeit überdacht werden. 
 
-## **17.1 Substanzklassen** 
+## **17.1 Substanzklassen**
 
-## **17.1.1 Anti-Thymozyten-Gamma-Globulin** 
+### **17.1.1 Anti-Thymozyten-Gamma-Globulin**
 
 ATG ist ein polyklonaler Antikörper vom Kaninchen gegen humane T-Lymphozyten. Die Induktionstherapie am DHZC erfolgt ausschließlich mit ATG. Die Dosierung beträgt 1–1,5 mg/kgKG. Die Gabe erfolgt bei hämodynamischer Stabilität 4 Stunden nach Eintreffen auf der Intensivstation. Insgesamt sollten je nach Risiko für eine akute Rejektion ATG postoperativ verabreicht werden. Die standardisierte Induktionsdosis beträgt 1-4,5mg/kgKG, zumeist auf 1-3 Gaben verteilt. Eine differenzierte Bestimmung der Notwendigkeit einer möglichen 2. oder 3. kann unter Hinzunahme des Differentialblutbildes/T-Cell-Count erfolgen. Der Abstand zwischen den einzelnen Gaben beträgt 24 Stunden. Prinzipiell ist zu sagen, dass je höher das Risiko für eine Abstossungsreaktion (präoperative Immunisierung) ist und je wahrscheinlicher eine Komplikation (z. B. Nierenversagen postoperativ) durch eines der Standardimmunsupressiva, umso eher sollte eine Behandlung mit ATG durchgeführt werden. Weitere Risikofaktoren für eine akute Rejektion sind: 
 
@@ -2769,7 +2603,7 @@ Mit steigender kumulativer ATG Dosis nimmt auch das Risiko für eine PTLD (EBV a
 
 In Einzelfällen (insbesondere kombinierter Herz-Nieren, Herz-Lebertransplantation) kann der Einsatz des IL 2-Rezeptor-Antagonisten Basiliximab (Simulect) peri- und postoperativ als Induktionstherapie erwogen werden. Die Standardtherapie besteht aus 40mg aufgeteilt auf 2 Einzeldosen (20 mg 2 h vor Transplantation, 20 mg 4 d nach Transplantation) [3]. In seiner immunsuppressiven Wirkung deuten die Ergebnisse von Studien darauf hin, dass diese im Vergleich etwas zum ATG reduziert ist, jedoch ist andererseits die Verträglichkeit besser [4]. 
 
-## **17.1.2 Calcineurin-Inhibitoren (Cyclosporin A, Tacrolimus)** 
+### **17.1.2 Calcineurin-Inhibitoren (Cyclosporin A, Tacrolimus)**
 
 Die Calcineurin-Inhibitoren (CNI) sind der zentraler Bestandteil der Basisimmunsupression. Sie hemmen die Calcium-abhängige intrazelluläre Signalübertragung und Komplexbindung an Calcineurin und damit die Produktion von IL-2 und anderen Zytokinen nach Antigenerkennung am T-Zell-Rezeptor. Der Wirkmechanismus von Tacrolimus ähnelt dem von Cyclosporin (CyA), die Effektivität ist jedoch um ein Vielfaches höher. Die wichtigsten Nebenwirkungen von Cyclosporin sind in der frühpostoperativen Phase ein Nierenversagen und arterioläre Medianekrose und Tubulusschädigung. Die nephrotoxische Wirkung ist dosisabhängig. Weitere Nebenwirkungen sind eine arterielle Hypertonie, eingeschränkte Leberfunktion, Hypertrichose, Tremor, Krampfanfälle, Parästhesie, Gingivahyperplasie, Anämie, Hyperkaliämie, Hypomagnesiämie und Hyperlipidämie. Die orale Bioverfügbarkeit des CyA beträgt nur 20–30 %. Die Ausscheidung erfolgt über die Galle. Es erfolgt eine intensive Cytochrom-P450-3A4-abhängige Oxydation 
 
@@ -2795,13 +2629,13 @@ Tacrolimustalspiegel
 
 perioperativ: –8–10 ng/ml Monat 1–6 p. TX –8–10 ng/ml Monat 6– 9 p. TX 8 ng/ml Monat 10–12 p. TX 7–8 ng/ml > Monat 12 p. TX 6–8 ng/ml 
 
-## **17.1.3 Antimetabolite (Mycophenolat-Mofetil (MMF), Cellcept)** 
+### **17.1.3 Antimetabolite (Mycophenolat-Mofetil (MMF), Cellcept)**
 
 MMF wirkt über eine nichtkompetitive, reversible Hemmung der Inosinmonophosphat-Dehydrogenase und damit als selektiver Proliferationshemmer der T- und B-Lymphozyten. Hierdurch kann eine zelluläre und humorale Rejektion inhibiert werden.  Häufig kommt es zu gastrointestinalen und hämatologischen (Leukopenien, Thrombozytopenie (bei Thrombozyten < 70000) Nebenwirkungen. Es kommt zu keiner Hemmung oder Induktion des Cytochrom-Systems. 
 
 Dosierung: 2x 1000 mg bis 2x 1500 mg, je nach Körpergewicht (30–50 mg/kgKG) und Verträglichkeit. Beginn mit Abenddosis (500 mg) aufgrund der gastrointestinalen Nebenwirkungen. Beginn erst, wenn CRP < 4 mg/dl, Thrombozyten > 100000 K/ul. Eine Zielspiegelbestimmung ist generell nicht sinnvoll. Bei Verdacht auf fehlende Medikamentenadhärenz oder fehlende Wirkung des Cellcepts kann in Einzelfällen eine Spiegelbestimmung sinnvoll sein. Hier sollten Spiegel von 2,5–4 mg/dl angestrebt werden [Costanzo 2010]. 
 
-## **17.1.4 Glukokortikoide** 
+### **17.1.4 Glukokortikoide**
 
 Die Wirkung erfolgt über die Blockade der Freisetzung von Interleukin 1 und damit der Hemmung sowohl von zellulären wie auch der humoralen Immunantwort. Nebenwirkungen sind neben Magen-Darm-Ulzera, Diabetes mellitus, Osteoporose und einer Hypertonie sowie Na- und Wasserretention auch das sogenannte Cushing Syndrom. 
 
@@ -2847,7 +2681,7 @@ Prednison H. Im Weiteren erfolgt bei unkompliziertem Verlauf eine Abwärtstitrat
 
 Im Anschluss kann innerhalb der ersten 6 Monate durch Reduktion nach entsprechend stattgehabter Abstoßungsdiagnostik (Myokardbiopsie, Echokardiographie) ein vollständiges Ausschleichen der Steroidtherapie versucht werden. Falls aufgrund von Nebenwirkungen auf z. B. die Therapie mit einem Antimetaboliten (Cellcept) verzichtet werden muss, stellen Glukokortikoide eine sinnvolle Alternative dar. Sehr kritisch sollte ein Ausschleichen der Therapie bei Re-Transplantation oder nach rezidivierenden stattgehabten relevanten Abstoßungsreaktionen (> 2 a) in der zurückliegenden Zeit diskutiert werden. Auch bei CNI-frei behandelten Patienten sollte auf ein vollständiges Ausschleichen der Steroidtherapie verzichtet werden. In diesem Fall soll eine Erhaltungstherapie mit einer Gesamtdosis von 2,5 bis 4 mg mit einer einmal morgendlichen Gabe angestrebt werden. 
 
-## **17.1.5 m-TOR-Inhibitoren (Everolimus)** 
+### **17.1.5 m-TOR-Inhibitoren (Everolimus)**
 
 Inhibition von m-TOR (essentielle Kinase für den Zellzyklus) und damit Hemmung der T-Zell Aktivierung über einen anderen Weg als bei den Calcineurininhibitoren. Hauptnebenwirkungen sind Leuko- und Thrombopenien sowie Hyperlipidämien, Wundheilungsstörungen, und vor allem Hauteffloreszenzen jeder Art sowie (teilweise massive) Ödeme. 
 
@@ -2855,7 +2689,7 @@ Dosierung: 1,5(–3) mg/POD aufgeteilt auf 2 Dosen, Zielspiegel 3–6 ng/ml, bei
 
 Routine-Spiegelkontrolle am 5. Tag nach Erstgabe, dann 2x pro Woche, da lange Halbwertszeit. Zwischenspiegelkontrollen 4–5 Tage nach jeder Dosisänderung. 
 
-## **17.2 Immunsupressives Standardregime** 
+## **17.2 Immunsupressives Standardregime**
 
 Ein Calcineurin-Inhibitor (Tacrolimus oder Cyclosporin A) + Mycophenolatmofetil + Glukokortikoid 
 
@@ -2881,9 +2715,9 @@ Zweiter Schritt: CNI-frei: wenn unter 1. keine Besserung der Nierenfunktion ggf.
 
 [angepasst aus 1-13] 
 
-## **17.3 Abstoßungsreaktionen** 
+## **17.3 Abstoßungsreaktionen**
 
-## **17.3.1 Zelluläre Abstoßung** 
+### **17.3.1 Zelluläre Abstoßung**
 
 Die Schweregradeinteilung der zellulären Rejektion erfolgt aktuell nach einer Überarbeitung aus dem Jahr 2005 [13]: 
 
@@ -2897,7 +2731,7 @@ Jede symptomatische zelluläre Rejektion sollte mittels intravenöser Steroidgab
 
 Asymptomatische Rejektionen ohne echokardiographische Veränderungen müssen nach ähnlichen Kriterien zu den oben genannten, bezüglich einer Therapie evaluiert werden. Sollte sich eine leichte Abstoßung (1R) im Langzeitverlauf bei völlig asymtpomatischem Patienten (1R) kann in Einzelfällen auf eine Therapie verzichtet werden, ist die Anpassung der Basisimunsuppression oft eine ausreichende Therapieeskalation.Ein invasives Quiltyphänomen in der bioptischen Diagnostik kann eine Vorstufe der Rejektion darstellen und sollte in Zusammenschau mit dem klinischen, serologischen und echokardiographischen Gesamtbild interpretiert werden. 
 
-## **17.3.2 Antikörpervermittelte (humorale) Abstoßung** 
+### **17.3.2 Antikörpervermittelte (humorale) Abstoßung**
 
 Bei der humoralen Abstoßung erfolgt nach [13] folgende Einteilung: 
 
@@ -2917,7 +2751,7 @@ Die Abstoßung erfolgt durch Antikörper des Empfängers gegen das Spenderorgan.
 
 Die hyperakute Abstoßung Minuten bis Stunden nach der Transplantation stellt eine Sonderform der Abstoßung dar, bei der präformierte (zumeist HLA-Klasse 1) Antikörper gegen das Spenderorgan vorliegen. 
 
-## **17.4 Medikamentöse Interaktionen Immunsuppression und antimikrobielle Substanzen** 
+## **17.4 Medikamentöse Interaktionen Immunsuppression und antimikrobielle Substanzen**
 
 |**Antimikrobielle**
 **Substanz**|**Immunsuppressivum1**|**Schwere der**
@@ -3082,11 +2916,11 @@ Medikamente in _**FETT**_ sind kontraindiziert
 
 - 11 NRTIs (Nukleosidische Reverse-Transkriptase-Inhibitoren) (AZT= Zidovudin, D4T = Stavudin). Es ist nicht zu erwarten, dass die NRTIs mit CSA, TAC, SRL, EVR eine Wechselwirkung haben. 
 
-## **17.5 Empfehlungen zum Monitoring von Immunsuppressiva-Spiegeln** 
+## **17.5 Empfehlungen zum Monitoring von Immunsuppressiva-Spiegeln**
 
 Quelle: Costanzo 2010 [2] 
 
-## **17.6 Literatur** 
+## **17.6 Literatur**
 
 1. Kobashigawa JA, Patel JK. Immunosuppression for heart transplantation: where are we now? Nat Clin Pract Cardiovasc Med 2006;3(4):203-12. 
 
@@ -3114,7 +2948,7 @@ Quelle: Costanzo 2010 [2]
 
 13. Stewart S, Winters GL, Fishbein MC, et al. Revision of the 1990 working formulation for the standardization of nomenclature in the diagnosis of heart rejection. J Heart Lung Transplant. 2005;24(11):1710-20. 
 
-## **18. Postoperative psychosomatische Betreuung** 
+# **18. Postoperative psychosomatische Betreuung**
 
 Nach der Transplantation erfolgen eine engmaschige psychosomatische Behandlung auf der Intensivstation wie den peripheren Stationen des DHZC und eine Mitbetreuung im Paulinenkrankenhaus. Die wesentlichen Behandlungskonzepte wie psychotherapeutische und psychopharmakologische Interventionen werden an die jeweiligen Rehabilitationseinrichtungen weitervermittelt. Die Interventionen im stationären Setting umfassen basale, supportive Therapieansätze, Diagnose und Behandlung von deliranten Störungen, reaktiven affektiven Syndromen, neurokognitive Trainingseinheiten wie auch Kriseninterventionen. In Remissionsstadien erfolgt die Förderung der Verarbeitung der partiell traumatischen Erlebnisse zur Vermeidung posttraumatischer Störungen und der Aktivierung eigener Ressourcen. Die Angehörigen werden in die Behandlungsprozesse einbezogen bzw. ihrerseits mitbetreut, da sie eine wesentliche Stützungsfunktion innehaben und selbst durch Erschöpfung gefährdet sind. 
 
@@ -3124,9 +2958,9 @@ Die Behandlungsinhalte werden eng mit den Ärzten und den involvierten Klinikmit
 
 Bei Kindern und Jugendlichen sind nach Möglichkeit die nahen Angehörigen in die Weiterbetreuung einzubeziehen um deren Ressourcen zu fördern mit dem Ziel, die anstehenden Entwicklungsschritte und den Umgang mit den Nachsorgeanforderungen zu optimieren. Insbesondere ist die Rücksprache mit den schulischen Einrichtungen, die Erarbeitung beruflicher Perspektiven und die Förderung in Absprache mit den Sozialdiensten von großer Wichtigkeit. 
 
-## **19. Rehabilitation nach Herztransplantation** 
+# **19. Rehabilitation nach Herztransplantation**
 
-## **19.1 Einleitung** 
+## **19.1 Einleitung**
 
 Seit Beginn des Transplantationsprogramms am Deutschen Herzzentrum Berlin im Jahre 1986 werden im nahgelegenen Rehabilitationszentrum Seehof in Teltow (vor 1997 Reha-Klinik Wannsee) nach Entlassung aus der stationären Akutphase Rehabilitationen nach Herztransplantation durchgeführt. Dabei steht die Beseitigung der meist ausgeprägten muskulären Schwäche dieser Patienten im Vordergrund [1, 2]. 
 
@@ -3134,7 +2968,7 @@ Körperliches Training im Rahmen einer Rehabilitation ist nach den Leitlinien de
 
 Im Vergleich zu Patienten mit terminaler Herzinsuffizienz verbessert sich die aerobe Kapazität nach Herztransplantation deutlich. Im Vergleich zur gesunden Normalbevölkerung liegt die Sauerstoffaufnahme von Herztransplantierten jedoch in Studien altersbezogenen nur bei ca. 50–70 % [4]. Im Rahmen kontrollierter Studien konnte durch eine strukturierte kardiologische Rehabilitation (individuelles aerobes Ausdauer- und Krafttraining) die Sauerstoffaufnahme im Vergleich zu Kontrollgruppen mit üblicher Betreuung signifikant gesteigert werden [5, 6]. Dies ist insbesondere bedeutsam, da die maximale Sauerstoffaufnahme als Prädiktor für das Langzeitüberleben der Patienten nach Herztransplantation identifiziert wurde [7, 8]. 
 
-## **19.2 Besonderheiten der Rehabilitation nach Herztransplantation** 
+## **19.2 Besonderheiten der Rehabilitation nach Herztransplantation**
 
 Besonderheiten der Rehabilitation bei Herztransplantierten sind: 
 
@@ -3150,11 +2984,11 @@ Besonderheiten der Rehabilitation bei Herztransplantierten sind:
 
 - die psychosoziale Betreuung unter Einbeziehung der Angehörigen. 
 
-## **19.3 Ziele der stationären Rehabilitation** 
+## **19.3 Ziele der stationären Rehabilitation**
 
 Hauptziele sind das Erreichen einer für die Anforderungen des täglichen Lebens ausreichenden Leistungsfähigkeit und die Wiedereingliederung in das soziale und berufliche Umfeld. Die Durchführung erfolgt in stationärer Form, in einzelnen Fällen auch ganztägig-ambulant über durchschnittlich 3–4 Wochen. 
 
-## **19.4 Diagnostik während der stationären Rehabilitation** 
+## **19.4 Diagnostik während der stationären Rehabilitation**
 
 Die diagnostischen Maßnahmen während der Rehabilitation beziehen sich auf die 4 Gebiete Abstoßung, Infektion, Überwachung bzw. Steuerung der Immunsuppression und Leistungsdiagnostik [3]. 
 
@@ -3178,9 +3012,9 @@ Art und Häufigkeit der Überwachung (Tage pro Woche) während Rehabilitation:
 |---|---|---|---|---|---|---|
 |**7**|**7**|**7**|**7**|**2(- 3)**|**0 - 1**|**1 - 2**|
 
-## **19.5 Maßnahmen der stationären Rehabilitation** 
+## **19.5 Maßnahmen der stationären Rehabilitation**
 
-## **19.5.1 Training** 
+### **19.5.1 Training**
 
 Die zeitlich umfassendste Intervention während der Rehabilitation stellt das Training in Form von Ausdauer-, Kraft-  und Koordinationstraining dar. Es liegen Leitlinien vor, die in der Durchführung die Besonderheiten eines denervierten Herzens berücksichtigen [12-14]. 
 
@@ -3205,15 +3039,15 @@ Trainingsbeispiel (Dauer in Minuten):
 |Atemtherapie bei
 Bedarf|40|||40|||
 
-## **19.5.2 Patientenschulungen** 
+### **19.5.2 Patientenschulungen**
 
 Die Patientenschulungen erfolgen in kleinen geschlossenen Gruppen oder als Einzelbehandlungen. Themen sind die Erkennung einer Abstoßung, Empfehlungen zu Ernährung, Hygieneregeln, Wirkung und Nebenwirkungen von Medikamenten, Vorbereitung auf die häusliche Umgebung in enger Absprache mit dem transplantierenden Zentrum. Eingebunden sind Diätassistenz, Pflegedienst, Psychologen und Ärzte. 
 
-## **19.5.3 Ernährung und Ernährungsberatung** 
+### **19.5.3 Ernährung und Ernährungsberatung**
 
 Die Ernährung ist keimreduziert und entspricht den Empfehlungen der Fachgesellschaften (DGE) und der Diätabteilung des DHZC [18]. Eine Ernährungsberatung findet als Einzeltermin durch die Diätassistenten je nach Bedarf sowie als Gruppenberatung statt. 
 
-## **19.5.4 Psychosoziale Betreuung** 
+### **19.5.4 Psychosoziale Betreuung**
 
 Die psychosoziale Betreuung erfolgt durch Psychologen, Psychotherapeuten, Pflegekräfte und den Sozialdienst. Schwerpunkt ist die Erkennung einer psychischen Belastung, insbesondere die Entwicklung einer Depression oder Angststörung, welche in der frühen Phase nach Herztransplantation eine hohe Prävalenz zeigen und mit dem Auftreten von Komplikationen assoziiert sind [17, 18]. Es werden Hilfen bei der Bewältigung von Ängsten und Gespräche zur Krankheitsbewältigung angeboten. 
 
@@ -3227,13 +3061,13 @@ Der Sozialdienst unterstützt bei der Organisation der häuslichen Versorgung un
 
 Die Nachsorge umfasst die regelmäßige Betreuung durch die Transplantationsambulanz des DHZC, im Einzelfall auch eine intensivierte Rehabilitationsnachsorge (IRENA), die Vermittlung einer Selbsthilfegruppe für Organtransplantierte sowie die Teilnahme an einer ambulanten Herzgruppe. 
 
-## **19.6 Ambulanter Herzsport** 
+## **19.6 Ambulanter Herzsport**
 
 Die Teilnahme an ambulantem Herzsport nach Herztransplantation führt zu einer Steigerung der maximalen Sauerstoffaufnahme und einer Verbesserung der Lebensqualität [5 19-21]. Sowohl in den ersten Monaten nach Transplantation, als auch im Langzeitverlauf konnten weitere positive Effekte des Sports nachgewiesen werden: Eine Auswertung amerikanischer ‚Medicare‘-Krankenkassendaten zeigte, dass eine 6-monatige Herzsportteilnahme im ersten Jahr nach Transplantation die Hospitalisierungsrate um knapp 30 % senken konnte [22]. Bei einer regelmäßigen Teilnahme (über min. 23 Wochen) im längerfristigen Verlauf verbessert sich das Blutdruckprofil, die Glukosetoleranz sowie die chronotrope Kompetenz. Zudem verringert sich das Risiko von schweren Komplikationen, wie Schlaganfällen, Koronarrevaskularisierungen, Herzinfarkten, akuten Rejektionen und Mortalität [2325]. 
 
 Die Patienten werden im Rahmen der Nachsorge bei der Suche einer ambulante Herzsportgruppe ermutigt und unterstützt, mit dem Ziel ein strukturiertes Training und die dauerhafte Integration von Bewegung im Alltag zu erlernen. 
 
-## **19.7 Literatur** 
+## **19.7 Literatur**
 
 1. Bjarnason-Wehrens et al. Leitlinie kö r perliche Aktivitä t zur Sekund ä rpr ä vention und Therapie kardiovaskul ä rer Erkrankungen. Clin Res Cardiol 2009;(Suppl 4):1-44. 
 
@@ -3285,53 +3119,53 @@ Die Patienten werden im Rahmen der Nachsorge bei der Suche einer ambulante Herzs
 
 25. Perrier-Melo RJ et al. High-intensity interval training in heart transplant recipients: a systematic review with meta-analysis. Arq Bras Cardiol 2018;110:188-94. 
 
-## **20. Nachsorge nach Herztransplantation** 
+# **20. Nachsorge nach Herztransplantation**
 
 Um die möglichen Komplikationen (Abstoßung, Infektion, Malignome, Nebenwirkungen der Immunsupressiva) rechtzeitig erkennen zu können, sind regelmäßige Verlaufskontrollen notwendig. Nach dem stationären Aufenthalt folgt eine stationäre Rehabilitation für 3–6 Wochen. Im Anschluss erfolgt die ambulante Betreuung der Patienten in unserer Transplantationsambulanz. Die Vorstellung in der Transplantationsambulanz erfolgt zunächst 14-tägig mit nicht invasiver Abstoßungsdiagnostik (EKG, TTE, Labor einschließlich Immunsuppressionsspiegeln, ggf. Rö-Tx und Klinik). Im weiteren Verlauf wird dieses Intervall je nach Stabilität auf 4 bis 6 Wochen, schließlich auf 3 bis 4 Monate und im Langzeitverlauf bis auf 6 Monate ausgedehnt. 
 
-## **20.1 Invasive Nachsorge** 
+## **20.1 Invasive Nachsorge**
 
 Auf Routinemyokardbiopsien wird nach Herztransplantation verzichtet, da hier die Echokardiographie eine gute, nicht invasive Alternative darstellt. Auch für die kardiale MRT liegen entsprechende Daten vor. Sollte sich jedoch echokardiographisch (ggf. in der cMRT), klinisch, serologisch oder im EKG der Verdacht auf eine Abstoßungsreaktion zeigen, ist die Indikation für eine Endomyokardbiopsie sehr großzügig zu stellen. 
 
 Eine Linksherzkatheter-Diagnostik erfolgt postoperativ (im initialen stationären Aufenthalt) bei einem Spenderalter > 40 Jahre oder bei entsprechenden echokardiographischen und/oder elektrokardiographischen Auffälligkeiten. Im weiteren ambulanten postoperativen Verlauf erfolgt diese alle 2–3 Jahre und bei Auffälligkeiten in den nichtinvasiven Untersuchungen oder bei Beschwerden gegebenenfalls auch in Kombination mit intravaskulärem Ultraschall (erhöht Sensitivität für Transplantatvaskulopathie-Diagnostik). Aufgrund der häufig bestehenden Niereninsuffizienz muss das Risiko eines akuten Nierenversagens gegen das der möglichen Transplantatvaskulopathie abgewogen werden, eine entsprechende nephroprotektive Vorbereitung sollte immer erfolgen. Ca. 25 % der Patienten lehnen einen Routine-HK trotz intensiver Aufklärung ab. Ein Kalk-Scoring im Cor-CT kann nicht als Alternative empfohlen werden, kann jedoch in Einzelfällen zur Unterstützung der Meinungsbildung herangezogen werden. Belastungs-/Langzeit-EKG, Langzeitblutdruckmessung, Stressechokardiographie, Lungenfunktionsuntersuchung, Rechtsherzkatheter werden nach Bedarf durchgeführt. 
 
-## **20.2 Bestimmung der Spiegel der Immunsupression** 
+## **20.2 Bestimmung der Spiegel der Immunsupression**
 
 - im ersten Jahr wöchentlich, bei Stabilität alle 14 Tage, 
 
 - nach dem ersten Jahr Ausdehnung auf einmal monatlich. 
 
-## **20.3 Laborchemische Untersuchungen** 
+## **20.3 Laborchemische Untersuchungen**
 
 Bei jedem Ambulanztermin werden Diff-BB, Nierenretentions- und Leberfunktionsparameter überprüft. Die Bestimmung der CMV-PCR erfolgt im ersten Jahr regelmäßig. Danach wird dies nur noch bei klinischem Verdacht auf CMV-Aktivierung bzw. bei bestimmten Risikokonstellationen kontrolliert (s. SOP144 Ambulante Nachsorge von Patienten nach Herztransplantation). Insbesondere bei CMV-MissMatch-Patienten sollte innerhalb des ersten Jahres immer an eine mögliche CMV-Replikation gedacht werden und entsprechende Kontrollen entsprechend großzügig durchgeführt werden. Es erlaubt zudem, Blutbildveränderungen besser einzuordnen und erleichtert die Steuerung der Immunsuppression. Es erlaubt zudem, Blutbildveränderungen besser einzuordnen und erleichtert die Steuerung der Immunsuppression. HLA-AK-Kontrollen werden nicht routinemäßig durchgeführt (s. SOP144), müssen jedoch in die differentialdiagnostischen Überlegungen einer möglichen Abstoßung(sdiagnostik) immer mit einbezogen werden. 
 
 HSV, Toxoplasmose, VZV, EBV-Diagnostik sind ohne entsprechende Klinik nicht indiziert (Ausnahme: EBV bei Kindern und Jugendlichen (aufgrund des PTLD-Risikos). 
 
-## **20.4 Behandlung einer arteriellen Hypertonie** 
+## **20.4 Behandlung einer arteriellen Hypertonie**
 
 Hier sollte bei erhaltener und stabiler Nierenfunktion primär eine Therapie mit ACE-Hemmern oder Angiotensinrezeptorblockern in Betracht gezogen werden. In nächster Instanz sollte eine Therapie mit Calciumkanalblockern (Amlodipin, Lecarnidipin), Betablockern (Nebivolol, Bisoprolol, Metoprolol), Thiaziddiuretika und direkten Alphablockern (Doxazosin) in Betracht gezogen werden. Wie in jeglichem therapeutischen Setting sollte eine Lebensstilmodifikation (Salzrestriktion (bei ca. 20 % aller Hypertoniker effektiv), Ernährungsumstellung, Gewichtsreduktion), wenn möglich, angewendet werden. Bei stabilem kardialen Befund und fehlender Abstoßung kann auch der Versuch einer Glukokortikoidreduktion, Umstellen der CNI-Therapie (CyA/Tac, CNI-freies Regime) erwogen werden. Der angestrebte Zielblutdruck beträgt < 130/80 mmHg. Explizit muss in diesem Zusammenhang auf das sehr häufige und therapeutisch problematische Auftreten von Ödemen unter Calciumkanalblockern und Everolimus hingewiesen werden. Stationär spielt dies kaum eine Rolle, ambulant hingegen sehr. Mitunter kommt es zu folgenschweren Therapieketten: Ödeme ↑> Diuretikaeinsatz ↑ Therapieresistenz > Erhöhung der Diuretika-Dosis > prärenales Nierenversagen. 
 
-## **20.5 Transplantatvaskulopathie** 
+## **20.5 Transplantatvaskulopathie**
 
 Die Transplantatvaskulopathie (TVP) stellt einen längerfristigen immunologischen Vorgang der Makround Mikrovaskulatur des transplantierten Herzens dar, der teils auch als chronische Abstoßung (gemischt T- und B-Zell-vermittelt) bezeichnet wird und der langfristig der entscheidende Grund für ein mögliches Transplantatversagen ist. Erschwerend kommt bei dieser Erkrankung hinzu, dass keine typischen pektanginösen Beschwerden aufgrund der Denervation des Spenderorgans auftreten. Aufgrund der Überschneidung zur KHK sollte in der Therapie eine Modifikation der KHK-Risikofaktoren erfolgen (Behandlung von Hypertonus, Dyslipidämie, Diabetes mellitus, Niereninsuffizienz) und auf eine Prävention einer CMV-Infektion geachtet werden. Auch scheint die Gabe von MMF und Everolimus protektiv für eine Transplantatvaskulopathie zu sein. In jedem Fall ist eine suffiziente Immunsuppression ein relevanter Faktor zur Prävention. Da die oben erwähnten Risikofaktoren jedoch allesamt das Risikoprofil einer CNI-Therapie widerspiegeln, ist hier ein genaues Abwägen der Strategie nötig (angepasst aus [1, 2]). 
 
-## **20.6 Niereninsuffizienz nach Herztransplantation** 
+## **20.6 Niereninsuffizienz nach Herztransplantation**
 
 Nach Herztransplantation erfolgt regelmäßig laborchemisch und klinisch die Evaluation der renalen Situation. Eine nephrologische Betreuung wird empfohlen ab einer GFR < 30/min und/oder einer relevanten Proteinurie (> 500 mg/24 h). Aufgrund des vor allem initial nach Transplantation deutlichen Muskulaturverlusts sollte auch immer an die Evaluation mittels Cystatin-GFR gedacht werden. Da eine CNI-Therapie sowohl mit irreversiblen als auch reversiblen Nierenfunktionseinschränkungen einhergeht, sollte eine Reduktion der CNI-Dosis vor allem bei Patienten ohne relevante Abstoßungsepisoden in der Anamnese erfolgen oder ggf. eine Umstellung auf ein CNI-freies Regime überlegt werden. Unabhängig davon muss eine strikte Kontrolle weiterer renaler Risikofaktoren erfolgen (Diabetes mellitus, Hypertonus, Hyperlipoproteinämie). Insbesondere eine ACE-HemmerTherapie sollte hier in Betracht gezogen werden (angepasst aus [3, 4]. 
 
-## **20.7 Hyperlipoproteinämie** 
+## **20.7 Hyperlipoproteinämie**
 
 Unabhängig von den Lipidwerten sollte 1–2 Wochen nach Transplantation (bei regulärem Verlauf) eine Therapie mittels Statinen begonnen werden. Aufgrund des Interaktionspotentials mit Calcineurininhibitoren sollte eine initial niedrige Dosierung gewählt werden. Aufgrund des entsprechenden Enzymmetabolismus ist Fluvastatin (20–40 mg) die Therapie der 1. Wahl. Auch Pravastatin (20 mg) erscheint aufgrund der geringen Rate an Myositisfällen geeignet. Simvastatin sollte nicht in einer Dosis > 20 mg verabreicht werden. Als Reservetherapie steht Ezetimibe zur Verfügung [3, 5]. Aufgrund des gegenüber nicht Transplantierten eher noch höheren Rhabdomyolyserisikos werden CK-Kontrollen nach Therapiebeginn empfohlen. 
 
-## **20.8 Diabetes mellitus** 
+## **20.8 Diabetes mellitus**
 
 Je nach Risiko der Patienten soll ein regelmäßiges Screening (am besten oraler Glucosetoleranztest) ggf. HbA1c erfolgen. Auch hier erscheinen Allgemeinmaßnahmen (Diät, Gewichtskontrolle, Sport) zunächst sinnvoll. Des Weiteren muss, falls möglich, eine Reduktion einer noch bestehenden Glukokortikoidtherapie in Betracht gezogen werden. Auch ist das diabetogene Risiko unter Tacrolimus höher als unter Cyclosporin, sodass ein Wechsel in der CNI-Therapie je nach Ausprägung und Kontrollierbarkeit überdacht werden sollte. Bei bestehendem Diabetes mellitus muss ein jährliches Screening auf entsprechende Komplikationen erfolgen (Augen, Füße, Gefäßsystem). (angepasst aus [3, 6, 7]). 
 
-## **20.9 Osteoporoseprophylaxe** 
+## **20.9 Osteoporoseprophylaxe**
 
 Die Gabe von Calcium, Vitamin D sowie die Gabe von Bisphosphonaten bei manifester Osteoporose oder prolongierter Glukokortikoidgabe sind zur Osteoporoseprophylaxe-Therapie indiziert. Seltene Ursachen wie Hypogonadismus oder Hyperparathyreoidismus sollten differentialdiagnostisch bedacht werden. Bei der Gabe von Bisphosphonaten ist auf deren Kontraindikationen (unter anderem GFR < 35 ml/min) und die speziellen Einnahmevorschriften zu achten. Bei dialysepflichtigen Patienten ist hier in enger Rücksprache mit den Kollegen der Nephrologie das Procedere anzupassen. Ein Standardvorgehen bei Dialysepflichtigkeit ist die Gabe von Vitamin D (20.000E alle 2 Wochen). Der RANK Ligang Inhibitor Denosumab ist ebenfalls ein interessanter Therapieansatz, da die über RANK-L gesteuerte Osteoklastenreifung sowohl durch Steroide als auch durch Cyclosporin aktiviert wird und somit eine Hemmung pathophysiologisch sinnvoll erscheint. 
 
-## **20.10 Tumorerkrankungen nach Herztransplantation** 
+## **20.10 Tumorerkrankungen nach Herztransplantation**
 
 ## **I. Dermatologische Vorsorge** 
 
@@ -3349,11 +3183,11 @@ Die Vorsorge für das Kolonkarzinom erfolgt ebenfalls gleich zur Normalbevölker
 
 Eine Herausforderung stellt die Ausbildung von Lymphomen (PTLD – Verdacht auf MGUS und Lymphome) unter immunsuppressiver Therapie dar. Hier spielt die EBV-Infektion eine zentrale Rolle. In den Kontrolluntersuchungen ist auf Lymphknotenschwellungen zu achten, bei neurologischen Auffälligkeiten auch an zerebrale Lymphome zu denken. Zur standardisierten Vorsorge wird einmal jährlich eine Abdomen-Sonographie und eine HNO-Untersuchung empfohlen (angepasst aus [3, 5, 7]). 
 
-## **20.11 Neurologische Komplikationen** 
+## **20.11 Neurologische Komplikationen**
 
 Eine CNI-Therapie kann mit neurologischen Komplikationen vergesellschaftet sein (Epilepsie, posteriore Leukencaphalopathie) und sollte dementsprechend in der Nachsorge adressiert werden (angepasst aus [3, 5, 8]). 
 
-## **20.12 Impfungen** 
+## **20.12 Impfungen**
 
 Innerhalb der ersten 6 Monate nach Herztransplantation sollten Impfungen nur in enger Rücksprache erfolgen. Eine Impfung mit Lebendimpfstoffen wird für transplantierte Patienten nicht empfohlen. Totimpfstoffe können sicher angewendet werden. Folgende Impfungen sind für Patienten nach Transplantation empfohlen: 
 
@@ -3369,11 +3203,11 @@ Innerhalb der ersten 6 Monate nach Herztransplantation sollten Impfungen nur in 
 
 - SARS-CoV-2 (hierfür wird aktuell eine Impfung 3 Monate nach Herztransplantation empfohlen) 
 
-## **20.13 Schwangerschaft nach Organtransplantation** 
+## **20.13 Schwangerschaft nach Organtransplantation**
 
 Eine Schwangerschaft nach Herztransplantation ist aufgrund des erhöhten Risikos für Transplantat und Mutter sowie möglichen teratogenen Wirkungen durch die Immunsuppression immer im Einzelfall zu diskutieren. Generell sollten m-TOR-Inhibitoren und MMF vermieden werden. Azathioprin, Cyclosporin und Glukokortikoide scheinen ein günstigeres Profil zu besitzen. Generell ist von einer RisikoSchwangerschaft mit einer erhöhten Rate an Frühgeburten auszugehen. In jedem Fall ist dies nur unter engmaschiger kardiologischer-transplantationsmedizinischer und gynäkologischer Kontrolle möglich. Eine Vaterschaft unter Immunsuppression ist möglich [5]. 
 
-## **20.14 Sinnvolle Diagnoseaufstellung nach Herztransplantation** 
+## **20.14 Sinnvolle Diagnoseaufstellung nach Herztransplantation**
 
 Nahezu alle Patienten bleiben nach Herztransplantation lebenslang an das transplantierende Zentrum gebunden. Eine strukturierte Erfassung dieser Patienten ist wichtig. Da durch die Therapie mit Immunsuppressiva relevante Nebenerkrankungen entstehen, die andere Erkrankungen unter Umständen aggravieren, muss äußerst schonend auf mögliche Medikamenteninteraktionen eingegangen werden. Ein umfassendes Verständnis der Krankheitsbilder dieser Patienten ist nötig. Ein Aspekt, um dies zu erreichen, ist eine standardisierte Form der Diagnoseaufstellung. Diese soll sich wie folgt gliedern: 
 
@@ -3393,7 +3227,7 @@ Nahezu alle Patienten bleiben nach Herztransplantation lebenslang an das transpl
 
 8. Weitere Begleiterkrankungen. 
 
-## **20.15 Prophylaxen** 
+## **20.15 Prophylaxen**
 
 ## Postoperativ (IPS) 
 
@@ -3423,13 +3257,13 @@ Anmerkung: bei Patienten mit Device-assoziierten Infekten oder bei Patienten mit
 
 ## Ambulante postoperative Prophylaxen 
 
-## 3 Monate 
+# 3 Monate
 
 Valganciclovir bei pos. Spender oder Empfänger, 900mg 1x tgl 
 
 Amphomoronal 2ml Pipetten oder Lutschtabletten, 3x tgl 
 
-## 6 Monate 
+# 6 Monate
 
 Sulfamethoxazol und Trimethoprim (Cotrim) 480 mg alle 2 Tage (6 Monate), Anpassung bei Niereninsuffizienz 
 
@@ -3445,13 +3279,13 @@ ASS zur Prophylaxe einer Transplantatvaskulopathie (ab dem 18. LJ)
 
 Ggf Bisphosponat, z. B Alendronsäure 70 mg 1x/wo 
 
-## **20.16 Selbsthilfeverein Herztransplantation** 
+## **20.16 Selbsthilfeverein Herztransplantation**
 
 **transplantiert e.V.** Zescher Straße 12 12307 Berlin 
 
 Webseite: https://www.transplantiert.info/ 
 
-## **20.17 Literatur** 
+## **20.17 Literatur**
 
 1. Tschöpe C, Messroghli D, Schönrath F et al. Therapie der chronischen Herzinsuffizienz. Was (noch) nicht in den Leitlinien steht. Dtsch Med Wochenschr 2015;140(6):406-12. 
 

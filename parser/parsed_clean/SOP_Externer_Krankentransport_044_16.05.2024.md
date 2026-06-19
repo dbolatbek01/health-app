@@ -7,11 +7,11 @@ Externer Krankentransport
 
 Alle Standorte 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Die vorliegende SOP regelt die von der ZVA Externer Transport der Charité abweichenden Regelungen im Deutschen Herzzentrum der Charité (DHZC) bei externen Krankentransporten. Sie ersetzt die für das DHZB geltende SOP „Bestellung von Krankentransportunternehmen zur Verlegung von Patienten in andere, externe Einrichtungen“. 
 
-## **2. Geltungsbereich / Zielgruppe** 
+# **2. Geltungsbereich / Zielgruppe**
 
 Die Regelungen gelten an allen Standorten des DHZC (CVK Augustenburger Platz (AP) und Mittelallee (MA), CCM, CBF) für 
 
@@ -21,7 +21,7 @@ Die Regelungen gelten an allen Standorten des DHZC (CVK Augustenburger Platz (AP
 
 - c) Patientinnen und Patienten, die für Ihre Fahrten den Krankentransport der CFM wählen. 
 
-## **3. Transportarten und organisatorische Voraussetzungen** 
+# **3. Transportarten und organisatorische Voraussetzungen**
 
 Grundsätzlich gelten hier die Regelungen der ZVA Externer Transport der Charité mit folgenden Ausnahmen: 
 

@@ -7,65 +7,11 @@ CAI Anästhesiologisches Management zur Implantation von mechanischer Kreislaufu
 
 Klinik für Kardioanästhesiologie und Intensivmedizin 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Präoperative Evaluation................................................................................................................... 4|
 |---|---|
-|2.|Primäre Implantation eines dauerhaften LVAD (dLVAD) ................................................................ 4|
-|2.1|Klärung chirurgischer Zugangsweg und Prozedere ........................................................................ 4|
-|2.1.1|Mediane Sternotomie ....................................................................................................................... 4|
-|2.1.2|Links-laterale Thorakotomie ............................................................................................................ 4|
-|2.1.3|Bilateraler Zugang (aktuell eher eine Rarität) .................................................................................. 5|
-|2.2|Klärung der Perfusionsstrategie ...................................................................................................... 5|
-|2.2.1|Implantation mit HLM ....................................................................................................................... 5|
-|2.2.2|Implantation an Impella/Ecmella ...................................................................................................... 5|
-|2.2.3|Implantation Off-Pump ..................................................................................................................... 5|
-|2.3|Narkoseeinleitung ............................................................................................................................ 5|
-|2.4|Perioperatives TEE .......................................................................................................................... 6|
-|2.5|HLM-Abgang .................................................................................................................................... 6|
-|3.|dLVAD-Wechsel .............................................................................................................................. 6|
-|4.|VAD-Komplikationschirurgie ............................................................................................................ 6|
-|4.1|Back-wash-Manöver bei Pumpenthrombose................................................................................... 6|
-|4.2|Outflow-Graft-Stenting bei Stenose ................................................................................................. 7|
-|4.3|Drive-Line-Verlagerung mit Omentumumantelung .......................................................................... 7|
-|5.|BVAD ............................................................................................................................................... 7|
-|5.1|Grundliegendes Konzept ................................................................................................................. 7|
-|5.2|HLM-Abgang .................................................................................................................................... 7|
-|5.3|TEE-Monitoring ................................................................................................................................ 7|
-|6.|Implantation eines temporären LVAD (tLVAD) ................................................................................ 7|
-|6.1|Chirurgische Implantation Impella 5.5/CP ....................................................................................... 7|
-|6.1.1.|Operativer Zugang ........................................................................................................................... 7|
-|6.1.2|Invasive Blutdruckmessung ............................................................................................................. 7|
-|6.1.3|Anästhesieverfahren ........................................................................................................................ 7|
-|6.1.4|Antikoagulation ................................................................................................................................ 8|
-|6.1.5|Perioperatives TEE (in Analgosedierung orientierendes TTE)........................................................ 8|
 
-|6.2|Impella CP per punctionem ............................................................................................................. 8|
 |---|---|
-|6.2.1|Zugang ............................................................................................................................................. 8|
-|6.2.2|Perioperatives TEE (in Analgosedierung orientierendes TTE)........................................................ 8|
-|7.|Implantation eines temporären RVAD (tRVAD) .............................................................................. 9|
-|7.1|Chirurgischer Zugang ...................................................................................................................... 9|
-|7.2|Anästhesiologische Vorbereitung .................................................................................................... 9|
-|7.3|Perioperatives TEE .......................................................................................................................... 9|
-|7.4|Hämodynamisches Management .................................................................................................... 9|
-|7.5|Respiratorische Insuffizienz ............................................................................................................. 9|
-|8.|ECMO/ECLS .................................................................................................................................... 9|
-|8.1|Veno-venöse ECMO ........................................................................................................................ 9|
-|8.2|Veno-arterielles ECLS ................................................................................................................... 10|
-|8.2.1|Zentrale Kanülierung ..................................................................................................................... 10|
-|8.2.2|Periphere Kanülierung ................................................................................................................... 10|
-|9.|Ecmella .......................................................................................................................................... 10|
-|9.1|Prinzipielles Konzept ..................................................................................................................... 10|
-|9.2|Ecmella 1.0 .................................................................................................................................... 10|
-|9.3|Ecmella 2.0 und 2.1 ....................................................................................................................... 10|
-|10.|IABP ............................................................................................................................................... 11|
-|10.1|Chirurgischer Zugang .................................................................................................................... 11|
-|10.2|Perioperatives TEE ........................................................................................................................ 11|
-|10.3|Geräteeinstellungen ....................................................................................................................... 11|
-|11.|Mitgeltende Dokumente ................................................................................................................. 12|
 
-## **1. Präoperative Evaluation** 
+# **1. Präoperative Evaluation**
 
 Das anästhesiologische Management der Patienten ist entsprechend des präoperativen Zustands sehr variabel. Häufige Probleme in der perioperativen Phase: 
 
@@ -85,11 +31,11 @@ Das anästhesiologische Management der Patienten ist entsprechend des präoperat
 
 - Heparininduzierte Thrombozytopenie (s. SOP504 Management HIT II) 
 
-## **2. Primäre Implantation eines dauerhaften LVAD (dLVAD)** 
+# **2. Primäre Implantation eines dauerhaften LVAD (dLVAD)**
 
-## **2.1 Klärung chirurgischer Zugangsweg und Prozedere** 
+## **2.1 Klärung chirurgischer Zugangsweg und Prozedere**
 
-## **2.1.1 Mediane Sternotomie** 
+### **2.1.1 Mediane Sternotomie**
 
 - Standardzugang bei nicht voroperierten Patienten, vorhandenem PFO bzw. signifikantem ASD (regelhaft nach TEER) oder erweiterter OP-Indikation (AKE, TKR, CABG, Extraktion Ventrikelthrombus) 
 
@@ -97,7 +43,7 @@ Das anästhesiologische Management der Patienten ist entsprechend des präoperat
 
 - Je nach operativem Vorgehen in RS mit Chirurgen Rapid Pacing via Flimmerkabel vorbereiten 
 
-## **2.1.2 Links-laterale Thorakotomie** 
+### **2.1.2 Links-laterale Thorakotomie**
 
 - bei voroperierten Patienten, ausreichender RV-Funktion und ausgeschlossenem PFO (bzw. wenn ein interventioneller Verschluss des PFO geplant ist) 
 
@@ -109,7 +55,7 @@ Das anästhesiologische Management der Patienten ist entsprechend des präoperat
 
 - externe Defi-Pads 
 
-## **2.1.3 Bilateraler Zugang (aktuell eher eine Rarität)** 
+### **2.1.3 Bilateraler Zugang (aktuell eher eine Rarität)**
 
 - LVAD-Implantation von links-lateral, Outflow-Prothese an Aorta ascendens via Minithorakotomie rechts 
 
@@ -119,9 +65,9 @@ Das anästhesiologische Management der Patienten ist entsprechend des präoperat
 
 - externe Defi-Pads 
 
-## **2.2 Klärung der Perfusionsstrategie** 
+## **2.2 Klärung der Perfusionsstrategie**
 
-## **2.2.1 Implantation mit HLM** 
+### **2.2.1 Implantation mit HLM**
 
 - Aktuell das Standardverfahren 
 
@@ -131,7 +77,7 @@ Das anästhesiologische Management der Patienten ist entsprechend des präoperat
 
 - _**Cave**_ : Bei peripherem HLM-Anschluss via ECLS-Kanülen und eigenem Auswurf an HLM (bzw. nach LVAD-Start) erhöhte Vigilanz für Oxygenierung obere Körperhälfte (Gefahr des „HarlekinSyndroms“ bei insuffizienter oder gestoppter Beatmung), NIRS obligat 
 
-## **2.2.2 Implantation an Impella/Ecmella** 
+### **2.2.2 Implantation an Impella/Ecmella**
 
 - Als konsekutiver Schritt in zeitlichem Intervall zu initialer Impella-/Ecmella-Implantation, falls kein Wechsel auf HLM notwendig ist (zuvor Ausschluss relevanter AI, PFO / ASD, höhergradiger TI, LVThrombus) 
 
@@ -143,7 +89,7 @@ Das anästhesiologische Management der Patienten ist entsprechend des präoperat
 
 - Rapid Pacing über das Flimmerkabel in enger RS mit Operateur 
 
-## **2.2.3 Implantation Off-Pump** 
+### **2.2.3 Implantation Off-Pump**
 
 - Wird derzeit kaum noch durchgeführt 
 
@@ -153,7 +99,7 @@ Das anästhesiologische Management der Patienten ist entsprechend des präoperat
 
 - Antikoagulation nach RS mit Operateur (i. d. R. 5.000-10.000 IE Heparin als Bolus; bei HIT II s. SOP504 Management HIT II) 
 
-## **2.3 Narkoseeinleitung** 
+## **2.3 Narkoseeinleitung**
 
 Vorgehen nach SOP534 Standardnarkose HLM 
 
@@ -165,7 +111,7 @@ Vorgehen nach SOP534 Standardnarkose HLM
 
 - NIRS-Monitoring bereits vor der Einleitung etablieren 
 
-## **2.4 Perioperatives TEE** 
+## **2.4 Perioperatives TEE**
 
 - präprozedural: RV-Funktion (TAPSE, Kontraktilität, TI, TK-Annulus, RV-Geometrie [S/L-Achse]), RVEDD/LVEDD, _**PFO-/ASD-Ausschluss**_ , _**Ausschluss höhergradiger Aorteninsuffizienz (also nicht mehr als „trace“ bis I°)**_ , LV- und LAA-Thromben 
 
@@ -175,7 +121,7 @@ Vorgehen nach SOP534 Standardnarkose HLM
 
 - TEE-Sonde bis nach Thoraxverschluss belassen 
 
-## **2.5 HLM-Abgang** 
+## **2.5 HLM-Abgang**
 
 Differenzierte Katecholamintherapie primär mit Suprarenin (Dosierung je nach RV-Funktion und in RS Operateur) ± Noradrenalin nach MAD, zusätzlich Milrinon 0,2-0,375 μg/kg/min sowie NTG nach MAD ± Urapidil; s. SOP502 Hämodynamisches Management. 
 
@@ -189,7 +135,7 @@ Differenzierte Katecholamintherapie primär mit Suprarenin (Dosierung je nach RV
 
 - Hämodynamische Zielwerte: MAD 70 mmHg ( _**Cave**_ : rechtskoronare Perfusion, Abnahme des LVAD-Fluss bei MAD > 70 mmHg), LA (bzw. PCWP) ≥ ZVD 
 
-## **3. dLVAD-Wechsel** 
+# **3. dLVAD-Wechsel**
 
 - Bei ausreichender RV-Funktion primär von links-lateral unter Einlungenventilation möglich, externe Defi-Pads, NIRS 
 
@@ -201,9 +147,9 @@ Differenzierte Katecholamintherapie primär mit Suprarenin (Dosierung je nach RV
 
 - _**Cave**_ : hohe Rate an HIT II (s. SOP504 Management HIT II) 
 
-## **4. VAD-Komplikationschirurgie** 
+# **4. VAD-Komplikationschirurgie**
 
-## **4.1 Back-wash-Manöver bei Pumpenthrombose** 
+## **4.1 Back-wash-Manöver bei Pumpenthrombose**
 
 - Intervention in ITN mit invasiver Druckmessung (A. rad. sin.). 
 
@@ -215,13 +161,13 @@ Differenzierte Katecholamintherapie primär mit Suprarenin (Dosierung je nach RV
 
 - Nach dem Back-Wash wird der ausgewaschene Thrombus mittels Angiographie lokalisiert und chirurgisch geborgen (meist arterielles Bett der unteren Extremitäten) 
 
-## **4.2 Outflow-Graft-Stenting bei Stenose** 
+## **4.2 Outflow-Graft-Stenting bei Stenose**
 
 - Intervention in Analgosedierung möglich 
 
 - Invasive Druckmessung ( _**Cave**_ : vorab klären, ob Platzierung eines Claret-Sentinels geplant ist) 
 
-## **4.3 Drive-Line-Verlagerung mit Omentumumantelung** 
+## **4.3 Drive-Line-Verlagerung mit Omentumumantelung**
 
 „Vollverkabelung“ mit Fast-track Narkoseführung (s. SOP525 Eingriffe ohne HLM) 
 
@@ -233,9 +179,9 @@ _**Cave**_ : Wärmemanagement!
 
 - Kurzzeitige Low- bzw. No-Flow-Phase aufgrund Pumpstop während der Kabelverlagerung 
 
-## **5. BVAD** 
+# **5. BVAD**
 
-## **5.1 Grundliegendes Konzept** 
+## **5.1 Grundliegendes Konzept**
 
 - Eine BVAD-Implantation erfolgt in den meisten Fällen aufgrund RV-Dysfunktion im Rahmen einer LVAD-Implantation – dann in der Regel primär mit Levitronix® als zunächst passagerem RVAD 
 
@@ -243,31 +189,31 @@ _**Cave**_ : Wärmemanagement!
 
 - Seltener sind primär geplante BVAD-Implantationen als temporär-permanente Kombination, bzw. primär permanent 
 
-## **5.2 HLM-Abgang** 
+## **5.2 HLM-Abgang**
 
 - Katecholamintherapie primär mit Norepinephrin nach MAD, keine inotrope Unterstützung indiziert 
 
 - _**Cave**_ : Lungenödem bei Fluss RVAD > LVAD zum oder nach dem HLM-Abgang 
 
-## **5.3 TEE-Monitoring** 
+## **5.3 TEE-Monitoring**
 
 Ventrikelfüllung, Septumposition, Kanülenlage. 
 
-## **6. Implantation eines temporären LVAD (tLVAD)** 
+# **6. Implantation eines temporären LVAD (tLVAD)**
 
-## **6.1 Chirurgische Implantation Impella 5.5/CP** 
+## **6.1 Chirurgische Implantation Impella 5.5/CP**
 
-## **6.1.1. Operativer Zugang** 
+### **6.1.1. Operativer Zugang**
 
 Die Implantation erfolgt bevorzugt über die rechte Arteria axillaris. Bei Vorhandensein eines implantierten CIED oder anderen Devices rechts subklavikulär wird regelhaft links axillär implantiert. 
 
-## **6.1.2 Invasive Blutdruckmessung** 
+### **6.1.2 Invasive Blutdruckmessung**
 
 - Für die invasive Blutdruckmessung soll möglichst die kontralaterale Seite, bzw. eine Femoralarterie genutzt werden 
 
 - _**Cave**_ : Ausklemmen der A. axillaris intraprozedural, iatrogene (Teil-)Obstruktion der A. axillaris durch den Impella-Schaft postprozedural 
 
-## **6.1.3 Anästhesieverfahren** 
+### **6.1.3 Anästhesieverfahren**
 
 - Die Implantation kann bei kooperativen und respiratorisch kompensierten Patienten in RS Operateur in Lokalanästhesie mit Analgosedierung durchgeführt werden. Hierzu wird z. B. eine Remifentanil-Infusion empfohlen; Start im Einleitungsraum; periprozedural 0,02-0,05 µg/kg/min 
 
@@ -277,11 +223,11 @@ Die Implantation erfolgt bevorzugt über die rechte Arteria axillaris. Bei Vorha
 
 - Schmerzhafte Phase: subkutane Tunnelung der Gefäßprothese 
 
-## **6.1.4 Antikoagulation** 
+### **6.1.4 Antikoagulation**
 
 Heparinisierung nach RS Operateur, Ziel ACT 200-250 s. 
 
-## **6.1.5 Perioperatives TEE (in Analgosedierung orientierendes TTE)** 
+### **6.1.5 Perioperatives TEE (in Analgosedierung orientierendes TTE)**
 
 - Navigation während des Vorschieben des Drahts und des Katheters bis in die Aortenwurzel, Passage der Aortenklappe, Platzierung des Pigtail- oder Headhunter-Katheters im LV, Ausrichtung von der Mitralklappe weg zur Spitze des LV (ME LV LAX bzw. parasternal LAX oder apikal LAX) 
 
@@ -295,13 +241,13 @@ Heparinisierung nach RS Operateur, Ziel ACT 200-250 s.
 
 **Bild 1. A.** Impella 5.5 in ME LAX (TEE); **B.** Impella CP in PLAX (TTE)[1] 
 
-## **6.2 Impella CP per punctionem** 
+## **6.2 Impella CP per punctionem**
 
-## **6.2.1 Zugang** 
+### **6.2.1 Zugang**
 
 Die Implantation erfolgt über die A. femoralis per punctionem unter röntgenologischer Kontrolle. TEE zur Kontrolle der Insertionstiefe und der Position. 
 
-## **6.2.2 Perioperatives TEE (in Analgosedierung orientierendes TTE)** 
+### **6.2.2 Perioperatives TEE (in Analgosedierung orientierendes TTE)**
 
 - Navigation während des Vorschieben des Drahts und des Katheters bis in die Aortenwurzel, Passage der Aortenklappe, Platzierung des Pigtail- oder Headhunter-Katheters im LV, Ausrichtung von der Mitralklappe weg in die Spitze des LV (ME LV LAX bzw. parasternal LAX oder apical LAX). 
 
@@ -315,15 +261,15 @@ Die Implantation erfolgt über die A. femoralis per punctionem unter röntgenolo
 
 > 1 Wu IY, Wyrobek JA, Naka Y, Dickstein ML, Glance LG. Perioperative Management of Patients Receiving Shortterm Mechanical Circulatory Support with the Transvalvular Heart Pump. Anesthesiology. 2022 May 1;136(5):829842 
 
-## **7. Implantation eines temporären RVAD (tRVAD)** 
+# **7. Implantation eines temporären RVAD (tRVAD)**
 
 Hier unterscheidet man, chirurgisch gesehen, zwischen tRVAD mit dualer Kanüle (jugulär), tRVAD mit zwei Kanülen (jugulär + femoral) und tRVAD-Implantation bei offenem Thorax über eine Rohrprothese (PA) und transkutaner femoraler/jugulärer Kanüle. Aus anästhesiologischer Sicht unterscheiden sich die Verfahren nur unwesentlich, sodass das prinzipielle Management zusammengefasst unten dargestellt wird. 
 
-## **7.1 Chirurgischer Zugang** 
+## **7.1 Chirurgischer Zugang**
 
 Bzgl. Funktionsprinzip und Implantationstechnik s. SOP055 Implantation Kurzzeit-MCS. 
 
-## **7.2 Anästhesiologische Vorbereitung** 
+## **7.2 Anästhesiologische Vorbereitung**
 
 - Da die VJID den einzig möglichen Zugangsweg für die Dual-Lumen Kanüle (bzw. PA-Kanüle) eines transkutanen RVADs darstellt, ist ggf. die Neuanlage von ZVK und venöser Schleuse notwendig, falls bei Indikationsstellung über dieses Gefäß instrumentiert 
 
@@ -331,7 +277,7 @@ Bzgl. Funktionsprinzip und Implantationstechnik s. SOP055 Implantation Kurzzeit-
 
 - Nach RS mit Operateur wird ggf. ein steriler Instrumententisch auf der Kopfseite platziert, was die Manipulationen mit dem Seldingerdraht und der RVAD-Kanüle erleichtert 
 
-## **7.3** 
+# **7.3**
 
 ## **Perioperatives TEE** 
 
@@ -341,19 +287,19 @@ Bzgl. Funktionsprinzip und Implantationstechnik s. SOP055 Implantation Kurzzeit-
 
 - Beim Start des tRVAD Kontrolle des atrialen Septums und Größe des rechten Vorhofs (Qualitätskontrolle bezüglich richtigem Anschluss des RVAD an die Kanüle!) 
 
-## **7.4 Hämodynamisches Management** 
+## **7.4 Hämodynamisches Management**
 
 - Anpassung des RVAD-Flusses je nach Füllungszustand des RV / LV, RV-Restfunktion 
 
 - Nach dem Start des RVAD ggf. Inotropika zügig reduzieren, bzw. gegen Vasopressoren tauschen 
 
-## **7.5 Respiratorische Insuffizienz** 
+## **7.5 Respiratorische Insuffizienz**
 
 Bei insuffizientem Gasaustausch (Horovitz-Index < 100 und hohe Beatmungsinvasivität) besteht die Möglichkeit, einen Oxygenator in die Zirkulation zu integrieren (sog. OxyRVAD, Funktion aus respiratorischer Sicht wie bei einer VV-ECMO). 
 
-## **8. ECMO/ECLS** 
+# **8. ECMO/ECLS**
 
-## **8.1 Veno-venöse ECMO** 
+## **8.1 Veno-venöse ECMO**
 
 - Reine Unterstützung / Übernahme des Gasaustausches (nur bei suffizienter rechtsventrikulärer Funktion möglich), im DHZC v. a. bei / nach DLTX; Beatmung mit lungenprotektivem Regime und möglichst niedriger FiO2 
 
@@ -363,17 +309,17 @@ Bei insuffizientem Gasaustausch (Horovitz-Index < 100 und hohe Beatmungsinvasivi
 
 - 2 Kanülen - Kontrolle des Abstandes in Echo / Röntgen 
 
-## **8.2 Veno-arterielles ECLS** 
+## **8.2 Veno-arterielles ECLS**
 
 Variable Übernahme von Gasaustausch und kardialer Funktion 
 
-## **8.2.1 Zentrale Kanülierung** 
+### **8.2.1 Zentrale Kanülierung**
 
 - venös RA, arteriell Aorta ascendens 
 
 - ggf. Verwendung der HLM-Kanülen ( _**Cave**_ : keine Heparinbeschichtung!) 
 
-## **8.2.2 Periphere Kanülierung** 
+### **8.2.2 Periphere Kanülierung**
 
 - lange venöse Kanüle bis in RA (Spitze optimal in VCS - TEE-Kontrolle!) 
 
@@ -383,9 +329,9 @@ Variable Übernahme von Gasaustausch und kardialer Funktion
 
 - _**Cave**_ : „Harlekin-Syndrom“! Bei inkompletter kardialer Entlastung (Auswurf des LV) immer suffiziente Ventilation notwendig und Monitoring einer ausreichenden Oxygenierung von oberer Körperhälfte / Kopf über BGA aus rechter A. rad. bzw. SpO2-Messung an rechter Hand / Ohrläppchen und NIRS-Monitoring, daher NIRS-Optoden belassen und auf Intensivstation mitgeben. 
 
-## **9. Ecmella** 
+# **9. Ecmella**
 
-## **9.1 Prinzipielles Konzept** 
+## **9.1 Prinzipielles Konzept**
 
 - Das Ecmella-System ist eine Kombination aus Impella und ECLS 
 
@@ -395,11 +341,11 @@ Variable Übernahme von Gasaustausch und kardialer Funktion
 
 - Bei Ecmella 2.1 erfolgt zusätzlich zur Ecmella 2.0 die venöse Drainage über die V. jugularis rechts 
 
-## **9.2 Ecmella 1.0** 
+## **9.2 Ecmella 1.0**
 
 Management wie bei Impella (5.5 und / oder CP) und bei peripherem ECLS. 
 
-## **9.3 Ecmella 2.0 und 2.1** 
+## **9.3 Ecmella 2.0 und 2.1**
 
 - Management grundsätzlich wie bei Impella (5.5 und/oder CP) und bei peripherem ECLS 
 
@@ -407,21 +353,21 @@ Management wie bei Impella (5.5 und / oder CP) und bei peripherem ECLS.
 
 - Bei Ecmella 2.1 sollten (analog zum transkutanen RVAD) die zentralvenösen Zugänge primär über die V. jugularis interna sinistra gelegt werden, da die venöse Drainagekanüle in der V.  jugularis interna dextra platziert werden muss. Bereits über die VJID instrumentierte und bestückte Zugänge müssen demnach zunächst umplatziert werden. 
 
-## **10. IABP** 
+# **10. IABP**
 
 In DHZC derzeit nur im Kontext LV-Unloading eingesetzt. Aktuell stehen nur die Geräte der Serie Sensation der Fa. Maquet® zur Verfügung. Je nach Körpergröße des Patienten wird die entsprechende Pumpe gewählt: Sensation 7 Fr. 34 cc bei KG 152-162 cm, Sensation 7 Fr. 40 cc bei KG 162-183 cm, Sensation Plus 8 Fr. 50 cc bei KG >162 cm. 
 
-## **10.1 Chirurgischer Zugang** 
+## **10.1 Chirurgischer Zugang**
 
 IABP wird i. d. R. perkutan via A. femoralis, bzw. ähnlich wie bei Ecmella 2.0 oder 2.1, via Y-Graft in die A. axillaris in die Aorta descendens plaziert. 
 
-## **10.2 Perioperatives TEE** 
+## **10.2 Perioperatives TEE**
 
 - Navigation beim Platzieren des Führungdrahtes in die Aorta descendens (Desc aortic SAX und Desc aortic LAX) 
 
 - Kontrolle der Ballonposition (distal des Abgangs der A. subclavia sinistra) 
 
-## **10.3 Geräteeinstellungen** 
+## **10.3 Geräteeinstellungen**
 
 Wahl der richtigen Triggerquelle (primär Automatic, bei Signalstörungen ggf. Manueller Triggerwechsel. _**Cave**_ : geänderte bzw. fehlende Pulsatilität der arteriellen Kurve an ECLS; EKG-Signalstörungen durch Elektrokauter. 
 
@@ -433,7 +379,7 @@ Wahl der richtigen Triggerquelle (primär Automatic, bei Signalstörungen ggf. M
 
 **Bild 3.** Pathologischer Kurvenverlauf bei zu später Inflation (A), zu früher Inflation (B), zu später Deflation (C) und zu früher Deflation (D)[3] 
 
-## **11. Mitgeltende Dokumente** 
+# **11. Mitgeltende Dokumente**
 
 SOP055 Implantation eines kurzzeitigen mechanischen Kreislaufunterstützungssystems (MCS): SOP501 Gerinnungsmanagement SOP502 CAI Hämodynamisches Management in der Anästhesie SOP504 Management von Patienten mit Hit II SOP525 Perioperative antimikrobielle Prophylaxe (PAP) SOP533 Perioperative antimikrobielle Prophylaxe (PAP) SOP534 Standardnarkose HLM SOP537 Bolusapplikation Stickstoffmonoxid (iNO) 
 

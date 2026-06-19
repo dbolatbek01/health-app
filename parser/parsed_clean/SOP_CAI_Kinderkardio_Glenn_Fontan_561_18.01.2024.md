@@ -9,20 +9,9 @@ CAI Kinderkardioanästhesiologie Glenn/Fontan
 
 Klinik für Kardioanästhesiologie und Intensivmedizin 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Indikation ......................................................................................................................................... 3|
 |---|---|
-|2.|Narkoseführung / Gerinnungsmanagement .................................................................................... 3|
-|2.1|Narkoseeinleitung ............................................................................................................................ 3|
-|2.2|Narkoseführung / Gerinnungsmanagement post-HLM .................................................................... 3|
-|2.2.1|Vor HLM-Abgang ............................................................................................................................. 3|
-|2.2.2|HLM-Abgang .................................................................................................................................... 4|
-|2.2.3|Gerinnungsmanagement ................................................................................................................. 4|
-|3.|Narkoseausleitung / Transport auf IPS AHF ................................................................................... 4|
-|4.|Mitgeltende Dokumente ................................................................................................................... 4|
 
-## **1. Indikation** 
+# **1. Indikation**
 
 Es handelt sich hierbei in der Regel um die 1. bzw. 2. Folgeoperation nach Norwood-Operation bei HLHS oder bei anderen Vitien mit univentrikulärem Therapiepfad (1. Norwood mit BT- oder Sano-Shunt; 2. bidirektionaler Glenn; 3. Fontan-Komplettierung oder „total cavopulmonary connection“ = TCPC). 
 
@@ -32,11 +21,11 @@ Gelegentlich ist die Glenn-Operation auch die primäre OP mit dem Ziel einer Fon
 
 Die Glenn-Operation wird in der Regel im Alter von 3-6 Monaten an HLM, aber ohne Aortenklemmung durchgeführt, die Fontan-Komplettierung in der Regel im Vorschulalter. 
 
-## **2. Narkoseführung / Gerinnungsmanagement** 
+# **2. Narkoseführung / Gerinnungsmanagement**
 
 Gemäß SOP564 CAI Kinderkardioanästhesiologie Standard-HLM bzw. SOP560 CAI Kinderkardioanästhesiologie Fast Track. 
 
-## **2.1 Narkoseeinleitung** 
+## **2.1 Narkoseeinleitung**
 
 - FiO2 in der Regel hoch bei zyanotischem Vitium, im Anschluss ans Atemwegsmanagement Reduktion gemäß BGA und Hämodynamik 
 
@@ -56,9 +45,9 @@ Gemäß SOP564 CAI Kinderkardioanästhesiologie Standard-HLM bzw. SOP560 CAI Kin
 
 - Bereitstellung der EKs im OP vor Schnitt gemäß SOP564 CAI Kinderkardioanästhesiologie Standard HLM 
 
-## **2.2 Narkoseführung / Gerinnungsmanagement post-HLM** 
+## **2.2 Narkoseführung / Gerinnungsmanagement post-HLM**
 
-## **2.2.1 Vor HLM-Abgang** 
+### **2.2.1 Vor HLM-Abgang**
 
 - Ggf. ROTEM-Analyse und Blutbild 
 
@@ -66,7 +55,7 @@ Gemäß SOP564 CAI Kinderkardioanästhesiologie Standard-HLM bzw. SOP560 CAI Kin
 
 - Epikardiale SM-Elektroden anschließen/testen 
 
-## **2.2.2 HLM-Abgang** 
+### **2.2.2 HLM-Abgang**
 
 - Norepinephrin, Epinephrin, Milrinon nach Bedarf 
 
@@ -82,11 +71,11 @@ Gemäß SOP564 CAI Kinderkardioanästhesiologie Standard-HLM bzw. SOP560 CAI Kin
 
 - Ziel PAP < 20 mmHg, bzw. TPG (PAP - LA) < 10 mmHg 
 
-## **2.2.3 Gerinnungsmanagement** 
+### **2.2.3 Gerinnungsmanagement**
 
 Protamin (Gesamtmenge bis HLM-Blut verabreicht)  ACT und zentralvenöse BGA ca. 15 min nach Protamingabe; weitere Gerinnungssubstitution eher zurückhaltend und entsprechend ROTEM Analyse. 
 
-## **3. Narkoseausleitung / Transport auf IPS AHF** 
+# **3. Narkoseausleitung / Transport auf IPS AHF**
 
 - Extubation im OP angestrebt, da der pulmonale Blutfluss durch die mechanische Beatmung reduziert wird (s. SOP560 CAI Kinderkardioanästhesiologie Fast Track) 
 
@@ -94,7 +83,7 @@ Protamin (Gesamtmenge bis HLM-Blut verabreicht)  ACT und zentralvenöse BGA c
 
 - NO-Applikation wird mit Extubation beendet 
 
-## **4. Mitgeltende Dokumente** 
+# **4. Mitgeltende Dokumente**
 
 SOP560 CAI Kinderkardioanästhesiologie Fast Track SOP564 CAI Kinderkardioanästhesiologie Standard-HLM 
 
