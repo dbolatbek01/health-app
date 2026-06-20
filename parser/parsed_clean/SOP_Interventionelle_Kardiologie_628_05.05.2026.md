@@ -10,23 +10,11 @@ Die folgenden Bestimmungen gelten für Koronarangiografien und Interventionen in
 
 Die Regelungen umfassen die gesamte Prozesskette von der Vorbereitung über die Durchführung bis hin zur Nachsorge. 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Patientenaufklärung ....................................................................................................................................... 2|
 |---|---|
-|2.|HK-Planung/Patientenvorbereitung ........................................................................................................... 2|
-|3.|HK- Untersuchungen allgemein ................................................................................................................... 3|
-|4.|Invasive Koronare Funktionstestung (DFR/iFR/FFR, Coroventis) ......................................................... 8|
-|5.|Intravaskuläre Bildgebung (OCT/IVUS) ..................................................................................................... 11|
-|6.|PTCA ................................................................................................................................................................... 15|
-|7.|LV-/RV-Myokardbiopsie: ............................................................................................................................... 16|
-|8.|LAAC ................................................................................................................................................................... 18|
-|11.|Nachsorge ........................................................................................................................................................ 19|
-|12.|Literaturverzeichnis ...................................................................................................................................... 20|
 
 **SOP Interventionelle Kardiologie** 
 
-## **1. Patientenaufklärung** 
+# **1. Patientenaufklärung**
 
 Die Aufklärung richtet sich an die aufklärungsfähigen Patient:innen bzw. an die gesetzlich vertretungsberechtigte Person. Die Aufklärung hat individuell und patientenorientiert zu erfolgen und muss alle relevanten Risiken der Koronarangiographie und die Möglichkeit einer perkutanen transluminalen Koronarangioplastie (PTCA) sowie gegebenenfalls erforderliche weiterführende Maßnahmen – beispielsweise Adenosingabe zur fraktionellen Flussreserve (FFR) oder intravaskuläre Bildgebungsverfahren – beinhalten. 
 
@@ -40,7 +28,7 @@ Bei vorbekannten und geplanten Eingriffen an hochgradigen Hauptstammstenosen und
 
 Für diese Fälle kann der Standard-PCI Aufklärungsbogen verwendet und auf diesem zusätzlich handschriftlich vermerkt werden, dass „geplant Herzunterstützungssysteme oder Atherektomie-Verfahren“ zum Einsatz kommen werden. „Dies geht mit einem höheren Prozedurrisiko einher“ etc. 
 
-## **2. HK-Planung/Patientenvorbereitung** 
+# **2. HK-Planung/Patientenvorbereitung**
 
 ## **Planung und Anmeldung** 
 
@@ -78,7 +66,7 @@ In Notfällen ist der Ärztliche Dienst zur sofortigen Übergabe direkt vor Ort.
 
 Der HK-Funktionsdienst fährt alle im Saal benötigten Geräte, einschließlich des Ultraschallgeräts, hoch und überprüft die Räumlichkeiten täglich anhand der „Checkliste HKL-Räume“ (siehe Anhang). Zudem bereitet er das Perikardpunktionsset sowie den passageren Schrittmacher vollständig vor. Auch die Anmeldung im CCWBefundungsprogramm wird vom HK-Funktionsdienst übernommen. 
 
-## **3. HK- Untersuchungen allgemein** 
+# **3. HK- Untersuchungen allgemein**
 
 Nach erfolgter Indikationsstellung, sowie nach entsprechender Aufklärung und Vorbereitung des Patienten findet die entsprechende Herzkatheteruntersuchung statt. Diese wird unter sterilen Bedingungen durchgeführt. Das bereits eingewiesene Herzkatheterpersonal (Ärztlicher Dienst und Funktionsdienst) trägt die entsprechende Strahlenschutzkleidung und handelt stets nach der Strahlenschutzund Hygieneverordnung. 
 
@@ -183,8 +171,6 @@ RAO 30°
 LAO 30°, CRAN 30° RAO 30°, CRAN 30° 
 
 RAO 30° CAUD 30°  LAO 30-40°, CAUD 30°
-**----- End of picture text -----**
-
 
 ## **Qualitätsempfehlung für die maximal zulässige KM-Menge:** 
 
@@ -200,7 +186,7 @@ Koronarangiographie                                                     1800 cGy
 
 **SOP Interventionelle Kardiologie** 
 
-## **4. Invasive Koronare Funktionstestung (DFR/iFR/FFR, Coroventis)** 
+# **4. Invasive Koronare Funktionstestung (DFR/iFR/FFR, Coroventis)**
 
 Neben der rein angiographischen Beurteilung von Pathologien der koronaren Makro- und Mikrozirkulation wird evidenzbasiert und abhängig von spezifischen Befundkonstellationen eine erweiterte funktionelle Diagnostik empfohlen. Bei intermediären Stenosen zwischen 40% und 80% in der Koronarangiographie wird eine Druckdrahtmessung entweder in Ruhe (RFR oder DFR) oder unter Hyperämie mit Adenosin (FFR) ( **Klasse IA** )[4, 5] empfohlen. Dabei handelt es sich um folgende Verfahren: 
 
@@ -316,7 +302,7 @@ In der unten gezeigten Abbildung ist das Coroventis-Interface dargestellt, mit d
 
 Quelle: Abbott Cardiovascular; 
 
-## **5. Intravaskuläre Bildgebung (OCT/IVUS)** 
+# **5. Intravaskuläre Bildgebung (OCT/IVUS)**
 
 ## **Indikation:** 
 
@@ -442,7 +428,7 @@ Eine Post-PCI OCT Bildgebung ist besonders wichtig, weil sie das Ergebnis der PT
 
 Man kann für die OCT BIldgebung den MLD MAX Algorithmus benutzen um generell die StentExpansion zu optimieren (siehe Abbildung unten)[22] . 
 
-## **6. PTCA** 
+# **6. PTCA**
 
 ## **Während der PTCA ist es extrem wichtig, dass eine ACT zwischen 250-300ms erreicht wird.** 
 
@@ -527,7 +513,7 @@ Ausrichtung|
 
 - Loading mit entsprechendem Thrombozytenaggregationshemmer je nach Indikation[1, 5] 
 
-## **7. LV-/RV-Myokardbiopsie** 
+# **7. LV-/RV-Myokardbiopsie**
 
 Die Indikationsstellung für eine Myokardbiopsie ist im Konsensuspapier „Heart Failure Association of the ESC, Heart Failure Society of America and Japanese Heart Failure Society Position statement on endomyocardial biopsy“[23] zusammengefaßt. Grundsätzlich erfolgt die Indikationsstellung in Übereinstimmung mit den publizierten Leitlinien (Klasse Ib bzw. IIa C-Indikationen), insbesondere Erstdiagnose einer Herzinsuffizienz mit eingeschränkter systolische LV-Funktion mit hämodynamischer Beeinträchtigung und/oder ohne Besserung auf Standard-Herzinsuffizienztherapie; oder >3 Monate bestehende Herzinsuffizienz mit Rhythmusereignissen (AV-Block, VT) bzw. fehlendem Ansprechen auf Standard-Herzinsuffizienztherapie. Weitere Indikationen, wie der V.a. eine kardiale Speichererkrankung und nach HTX sind in dem o.g. Konsensuspapier zusammengefasst. 
 
@@ -623,7 +609,7 @@ Geltungsbereich: Herzkatheterlabore
 
    - 
 
-## **8. LAAC** 
+# **8. LAAC**
 
 ## **Vorbereitung** 
 
@@ -683,7 +669,7 @@ Geltungsbereich: Herzkatheterlabore
 
 Geltungsbereich: Herzkatheterlabore 
 
-## **9. PFO/ASD Verschluss** 
+# **9. PFO/ASD Verschluss**
 
 ## **Prozedur** 
 
@@ -701,7 +687,7 @@ Geltungsbereich: Herzkatheterlabore
 
 - Bei der Auswahl des Implantates bzw. der Implantationstechnik sollte die anatomischen Gegebenheiten (Größe Fossa Ovalis, PFO Morphologie, Angrenzende Strukturen wie Septum sekundum oder Aorta) bzw. patientenindividuelle Faktoren (Nitinolallergie etc) berücksichtigt werden. 
 
-## **10. MCS Therapie** 
+# **10. MCS Therapie**
 
 - Als perkutane Unterstützungssysteme stehen in den HK-Laboren des DHZC VA-ECMO-Systeme sowie Mikroaxialpumpen (Impella CP, Impella 5.0, Impella RP) zur Verfügung. 
 
@@ -727,7 +713,7 @@ protected PCI, kardiogener Schock, ECPR
 
 gesonderte Aufklärung über eine MCS-Therapie bei elektiven Patienten 
 
-## **11. Nachsorge** 
+# **11. Nachsorge**
 
 ## **Verschluss** 
 
@@ -753,7 +739,7 @@ Der HK-Funktionsdienst schließt die Dokumentation ab, während der zuständige 
 
 Am Ende der Untersuchung sollte ein abschließender Befund durch den untersuchenden Arzt freigegeben werden, der eine definitive Diagnose sowie das weitere Prozedere beinhaltet. Der Befund sollte auch die angewandten Methoden und wichtige Materialien beinhalten, um die Abrechnung der Untersuchung sicherzustellen. Zur Freigabe des Befundes gehört auch die ärztliche Überprüfung der OPS-Kodierung. Bei Notfällen ist das Ausfüllen des Herzinfarktregisters obligat. Auch das Qualitätsmodul (BQS) ist mit der Erstellung des Befundes auszufüllen. 
 
-## **12. Literaturverzeichnis** 
+# **12. Literaturverzeichnis**
 
 1. Byrne RA, Rossello X, Coughlan JJ, Barbato E, Berry C, Chieffo A et al. 2023 ESC Guidelines for the management of acute coronary syndromes. Eur Heart J 2023; **44** (38):3720–3826. 
 

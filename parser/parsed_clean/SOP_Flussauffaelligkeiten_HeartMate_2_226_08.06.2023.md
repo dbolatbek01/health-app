@@ -47,6 +47,4 @@ Systemwechsel, Pumpenwechsel
 Stent
 ggf. HU-Listung auf HeartMate 3
 ggf. HU-Listung
-**----- End of picture text -----**
-
 

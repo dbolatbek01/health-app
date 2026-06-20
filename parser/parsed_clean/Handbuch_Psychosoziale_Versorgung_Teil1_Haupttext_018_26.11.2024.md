@@ -3,81 +3,14 @@
 
 Psychosoziale Versorgung von Patienten vor Herztransplantation, kombinierter HerzLungentransplantation und Lungentransplantation Teil 1 Haupttext 
 
-## **Inhaltsverzeichnis** 
-
-|Präambel ...................................................................................................................................................... 5|Präambel ...................................................................................................................................................... 5|
 |---|---|
-|1.|Rechtliche Rahmenbedingungen der Organallokation .................................................................... 6|
-|2.|Rechtliche / ethische Rahmenbedingungen der psychosozialen Versorgung ................................ 6|
-|2.1|Vorgaben Transplantationsgesetz ................................................................................................... 6|
-|2.2|Vorgaben Richtlinien der Bundesärztekammer ............................................................................... 6|
 |2.2.1|Beteiligung psychosozialer Fachgruppen laut Richtlinie der BÄK für die Wartelistenführung und|
-||Organvermittlung zur Lungentransplantation .................................................................................. 7|
 |2.2.2|Beteiligung psychosozialer Fachgruppen laut Richtlinie der BÄK für die Wartelistenführung und|
-||Organvermittlung zur Herz- und Herz-Lungentransplantation......................................................... 7|
-|2.3|Berufsethische Grundprinzipien ...................................................................................................... 7|
-|2.4|Ziel der psychosozialen Evaluation ................................................................................................. 8|
-|2.5|Die psychosoziale Versorgung am DHZC ....................................................................................... 8|
-|3.|Relevante Leitlinien, Richtlinien und Empfehlungen ....................................................................... 8|
-|4.|Das psychosoziale Evaluationsgespräch ........................................................................................ 9|
-|4.1|Qualifikationen der durchführenden Personen ................................................................................ 9|
-|4.2|Gesprächszweck und Gesprächsinhalte ......................................................................................... 9|
-|4.2.1|Beurteilungskriterien Leitlinie DGPM / DKPM ............................................................................... 10|
-|4.2.2|Beurteilungskriterien internationaler Fachgesellschaften .............................................................. 11|
-|4.3|Befähigung zur Einwilligung nach Aufklärung ............................................................................... 11|
-|4.4|Umsetzung und Vorgehen am DHZC ............................................................................................ 11|
-|5.|Durchführung und Frequenz der psychosozialen Evaluationsgespräche ..................................... 12|
-|5.1|Empfehlungen der nationalen und internationalen Fachgesellschaften ........................................ 12|
-|5.2|Umsetzung und Vorgehen am DHZC ............................................................................................ 13|
-|5.2.1|Psychosoziale Evaluationsgespräche bei ambulanter Vorstellung ............................................... 13|
-|5.2.2|Psychosoziale Evaluationsgespräche bei stationärem Aufenthalt ................................................ 14|
-|6.|Die psychosoziale Evaluation als fachliche Handlungsgrundlage ................................................ 14|
-|6.1|Leitlinienempfehlungen nach DGPM / DKPM ............................................................................... 15|
-|6.2|Beurteilung von psychischen Störungen ....................................................................................... 15|
-|6.3|Fazit und Vorgehensweise am DHZC ........................................................................................... 16|
-|7.|Der psychosoziale Evaluationsbericht ........................................................................................... 16|
 
-|8.|Risikofaktoren, Kontraindikationen und Handlungsempfehlungen ................................................ 17|
 |---|---|
-|8.1|Psychosoziale Risikofaktoren für Morbidität und Mortalität ........................................................... 17|
-|8.1.1|Adipositas ...................................................................................................................................... 17|
-|8.1.2|Depression und Angst ................................................................................................................... 17|
-|8.1.3|Substanzkonsumstörungen ........................................................................................................... 18|
-|8.1.3.1|Richtlinien der Bundsärztekammer (substanzübergreifend) ......................................................... 18|
-|8.1.3.2|Alkohol ........................................................................................................................................... 18|
-|8.1.3.3|Tabak ............................................................................................................................................. 19|
-|8.1.3.4|Cannabis ........................................................................................................................................ 20|
-|8.1.3.5|Opiate (Substitutionstherapie) ....................................................................................................... 21|
-|8.1.3.6|Medikamentenbezogene Störungen .............................................................................................. 21|
-|8.1.3.7|Sonstige illegale Substanzen ........................................................................................................ 22|
-|8.1.3.8|Delir ................................................................................................................................................ 23|
-|8.2|Behandlungsadhärenz und Risikofaktoren für Non-Adhärenz ...................................................... 23|
-|8.2.1|Leitlinienempfehlungen nach DGPM / DKPM ............................................................................... 23|
-|8.2.2|Richtlinien der Bundesärztekammer .............................................................................................. 24|
-|8.3|Übersicht psychosozialer Kontraindikationen ................................................................................ 25|
-|9.|Koordination psychosozialer Maßnahmen und Verlaufsmonitoring .............................................. 25|
-|9.1|Empfehlungen der internationalen Fachgesellschaften ................................................................ 25|
-|9.2|Umsetzung und Vorgehen am DHZC ............................................................................................ 26|
 |10.|Richtlinien zur Vorgehensweise bei Substanzabhängigkeit oder schädlichem Substanzkonsum 27|
-|10.1|Empfehlungen der internationalen Fachgesellschaften ................................................................ 27|
-|10.2|Umsetzung und Vorgehen am DHZC ............................................................................................ 27|
-|11.|Kulturelle Aspekte und Sprache .................................................................................................... 28|
-|11.1|Empfehlungen der internationalen Fachgesellschaften ................................................................ 28|
-|11.2|Umsetzung und Vorgehen am DHZC ............................................................................................ 28|
-|11.2.1|Gesprächsführung ......................................................................................................................... 28|
-|11.2.2|Psychosoziale Situation ................................................................................................................. 29|
-|12.|Unterstützende Fragebögen und Messinstrumente ...................................................................... 29|
-|12.1|Kognitives Screening ..................................................................................................................... 29|
-|12.2|Alkohol und Rauchen ..................................................................................................................... 30|
 
-|12.2.1|Alkoholabhängigkeit ....................................................................................................................... 30|
 |---|---|
-|12.2.2|Tabakabhängigkeit ........................................................................................................................ 30|
-|12.3|Depressivität und Angst ................................................................................................................. 31|
-|12.3.1|Depressivität .................................................................................................................................. 31|
-|12.3.2|Angst .............................................................................................................................................. 31|
-|12.4|Gesundheitsbezogene Lebensqualität .......................................................................................... 31|
-|13.|Literatur .......................................................................................................................................... 32|
 
 ## **Präambel** 
 
@@ -131,7 +64,7 @@ DOI: 10.1016/j.healun.2022.10.015
 
 The 2018 ISHLT / APM / AST / ICCAC / STSW recommendations for the psychosocial evaluation of adult cardiothoracic transplant candidates and candidates for long-term mechanical circulatory support[13] DOI: 10.1016/j.healun.2018.03.005 
 
-## **1. Rechtliche Rahmenbedingungen der Organallokation** 
+# **1. Rechtliche Rahmenbedingungen der Organallokation**
 
 Rechtliche Rahmenbedingungen zur Organallokation bei Patienten vor Herz-, HerzLungentransplantation und Lungentransplantation am Deutschen Herzzentrum Berlin (DHZC) sind für Deutschland im Transplantationsgesetz (TPG, in Kraft seit 1.12.1997)[1] und entsprechend in den Richtlinien für die Wartelistenführung und Organvermittlung der Bundesärztekammer (BÄK) verankert, derzeit: 
 
@@ -145,13 +78,13 @@ www.bundesaerztekammer.de/organtransplantation
 
 Wir bitten alle in diesem Bereich tätigen Mitarbeitenden, die Richtlinien in der Gesamtheit durchzulesen. Für die psychosoziale Versorgung direkt relevante Passagen sind in Anhang 1 zusammengefasst. 
 
-## **2. Rechtliche & ethische Rahmenbedingungen der psychosozialen Versorgung** 
+# **2. Rechtliche & ethische Rahmenbedingungen der psychosozialen Versorgung**
 
-## **2.1 Vorgaben Transplantationsgesetz** 
+## **2.1 Vorgaben Transplantationsgesetz**
 
 In § 10 Abs. 2 Nr. 7 TPG ist festgelegt, dass die Transplantationszentren verpflichtet sind, vor und nach einer Organübertragung Maßnahmen für eine erforderliche psychische Betreuung der Patienten im Krankenhaus sicherzustellen. Weiterhin ist in § 12 Abs. 3 S. 1 TPG festgelegt, dass Organe insbesondere nach Erfolgsaussicht und Dringlichkeit zu vergeben sind. Nicht medizinische Kriterien finden in diesem Zusammenhang zunächst keine explizite Berücksichtigung, Kriterien nach dem aktuellen Stand der Erkenntnisse der medizinischen Wissenschaft zur Aufnahme auf die Warteliste werden nach § 16 Abs. 1 Nr. 2 TPG durch die BÄK in Richtlinien festgestellt. 
 
-## **2.2 Vorgaben in Richtlinien der Bundesärztekammer** 
+## **2.2 Vorgaben in Richtlinien der Bundesärztekammer**
 
 Aufgrund des Mangels an Spenderorganen im Verhältnis zu der Anzahl der Personen, die ein Spenderorgan benötigen, kommt es zu Wartelisten für eine Organtransplantation und zum Versterben von Menschen während der Wartezeit. Im Jahr 2023 lag die Wahrscheinlichkeit, innerhalb der ersten 3 Jahre während der Wartezeit zu versterben, europaweit bei 15 % im Fall von Herztransplantationen bzw. bei 11 % im Fall von Lungentransplantationen[14] . 
 
@@ -163,7 +96,7 @@ Hierbei ist organübergreifend eine psychosoziale Evaluation nur indikativ im Fa
 
 _Psychotherapie, einen Facharzt für Psychiatrie und Psychotherapie oder einen Psychologischen Psychotherapeuten erfolgen.“_[3] 
 
-## **2.2.1 Beteiligung psychosozialer Fachgruppen laut Richtlinie der BÄK für die Wartelistenführung und Organvermittlung zur Lungentransplantation** 
+### **2.2.1 Beteiligung psychosozialer Fachgruppen laut Richtlinie der BÄK für die Wartelistenführung und Organvermittlung zur Lungentransplantation**
 
 In der Richtlinie zur Lungentransplantation ist die Notwendigkeit der Beteiligung psychosozialer Fachgruppen wie folgt verankert: 
 
@@ -177,7 +110,7 @@ In der Richtlinie zur Lungentransplantation ist die Notwendigkeit der Beteiligun
 
 - A.III.3.1: Zur Beurteilung eines möglichen schädlichen Gebrauchs bzw. Abhängigkeitssyndroms und der Bereitschaft und der Fähigkeit des Patienten, sich an Behandlungsabsprachen zu halten, Stellungnahme durch Facharzt für Psychosomatische Medizin und Psychotherapie, Facharzt für Psychiatrie und Psychotherapie oder Psychologischer Psychotherapeut, jeweils mit hinreichender Erfahrung im Bereich der Transplantationspsychologie / -psychosomatik / -psychiatrie. 
 
-## **2.2.2 Beteiligung psychosozialer Fachgruppen laut Richtlinie der BÄK für die Wartelistenführung und Organvermittlung zur Herz- und Herz-Lungentransplantation** 
+### **2.2.2 Beteiligung psychosozialer Fachgruppen laut Richtlinie der BÄK für die Wartelistenführung und Organvermittlung zur Herz- und Herz-Lungentransplantation**
 
 In der Richtlinie zur Herz- und Herz-Lungentransplantation ist die Beteiligung psychosozialer Fachgruppen wie folgt verankert: 
 
@@ -185,7 +118,7 @@ In der Richtlinie zur Herz- und Herz-Lungentransplantation ist die Beteiligung p
 
 - A.II.3.1: Psychosomatiker / Psychotherapeut / Psychiater als optionales Mitglied der Transplantationskonferenz 
 
-## **2.3 Berufsethische Grundprinzipien** 
+## **2.3 Berufsethische Grundprinzipien**
 
 Die oben ausgeführten rechtlichen Rahmenbedingungen sind insbesondere hinsichtlich des Kriteriums „Erfolgsaussicht“ vor dem Hintergrund der Lebenswertindifferenz (Erläuterung siehe Fußnote[1] ) und der 
 
@@ -195,13 +128,13 @@ gleichberechtigten Teilhabe am Allokationsverfahren Gegenstand rechtswissenschaf
 
 Berufsethischer Ausgangspunkt für die psychologische Betreuung von Patienten, die für eine Transplantation am DHZC vorgesehen sind, sind die ethischen Grundprinzipien des Berufsverbandes Deutscher Psychologinnen und Psychologen e.V. (BDP) und der Deutschen Gesellschaft für Psychologie e.V. (DGP)[4] , der „Meta-Code of Ethics der European Federation of Psychologists‘ Association“ (EFPA)[5] und die „Ethical Principles of Psychologists and Code of Conduct der American Psychological Association“ (APA)[6] . Diese setzen wir bei am DHZC arbeitenden Psychologen als bekannt voraus. 
 
-## **2.4 Ziel der psychosozialen Evaluation** 
+## **2.4 Ziel der psychosozialen Evaluation**
 
 Den ethischen Grundprinzipien zufolge sind Psychologen innerhalb der gesetzlichen Rahmenbedingungen dem Wohlergehen derjenigen Personen verpflichtet, mit denen sie arbeiten. In Hinblick auf den gesetzlichen Auftrag der Stellungnahme führt dies zu einem ethischen Spannungsfeld, da eine solche Stellungnahme (nachfolgend: psychosoziale Evaluation) zur Entscheidung der interdisziplinären Transplantationskonferenz beitragen kann, eine Aufnahme des Patienten auf die Warteliste (vorübergehend) abzulehnen. Somit kann die Stellungnahme direkte Folgen für die Gesundheit und das Überleben des Patienten haben. 
 
 Ausgangspunkt der psychologischen Arbeit mit Patienten, die für eine Transplantation vorgesehen sind, muss entsprechend eine psychologische Unterstützung sein, die zum Ziel hat, dass der Patient psychosoziale Barrieren, die einem Behandlungserfolg im Weg stehen könnten, überwindet. Die psychosoziale Evaluation bildet hierfür die fachliche Handlungsgrundlage. 
 
-## **2.5 Die psychosoziale Versorgung am DHZC** 
+## **2.5 Die psychosoziale Versorgung am DHZC**
 
 Entsprechend dieser Zielsetzung ist es wichtig, eine bestmögliche psychosoziale Betreuung der Patienten zu gewährleisten und am DHZC die Rahmenbedingungen zu schaffen, um die Berufsintegrität der Psychologen sicher zu stellen. Dabei ist als höchster Standard eine personelle Trennung zwischen der psychosozialen Evaluation und der psychologischen Betreuung (Heilung / Linderung, Bemühung um Behandlungsadhärenz) sowie entsprechend getrennter Dokumentation zu sehen, um einer möglichen Rollenkollision vorzubeugen. 
 
@@ -217,7 +150,7 @@ Entsprechend der bisher angeführten rechtlichen und ethischen Grundlagen wird d
 
 - Enger fachlicher Austausch mit anderen Berufsgruppen des gesamten interdisziplinären Versorgungsteams 
 
-## **3. Relevante Leitlinien, Richtlinien und Empfehlungen** 
+# **3. Relevante Leitlinien, Richtlinien und Empfehlungen**
 
 Grundlage für die psychosoziale Versorgung von Patienten, die für eine Herztransplantation, eine HerzLungentransplantation oder eine Lungentransplantation am DHZC vorgesehen sind, bilden die folgenden Leitlinien, Richtlinien und Empfehlungen: 
 
@@ -239,15 +172,15 @@ Grundlage für die psychosoziale Versorgung von Patienten, die für eine Herztra
 
 Wir bitten alle in diesem Bereich tätigen Mitarbeitenden, die oben genannten Leitlinien, Richtlinien und Empfehlungen in der Gesamtheit durchzulesen. 
 
-## **4. Das psychosoziale Evaluationsgespräch** 
+# **4. Das psychosoziale Evaluationsgespräch**
 
-## **4.1 Qualifikationen der durchführenden Personen** 
+## **4.1 Qualifikationen der durchführenden Personen**
 
 In den Richtlinien der Bundesärztekammer sind die unter Punkt 2 genannten Berufsgruppen spezifiziert. Gemäß der „LL Psychosoziale Diagnostik und Behandlung bei Organtransplantation“ umfasst dies auch Psychologen ohne psychotherapeutische Approbation unter Supervision und Diplom- oder Master-ofScience-Psychologen mit Schwerpunkt klinischer Psychologie und mindestens 3-jähriger Tätigkeit im Bereich der Transplantationsmedizin (Empfehlung 3.3)[7] . 
 
 Nach Empfehlungen von ISHLT / APM / AST / ICCAC / STSW soll die durchführende Person grundsätzlich ein angemessenes formales Training in einem für die psychosoziale Evaluation relevanten Gesundheitsberuf haben, lizenziert sein und sofern möglich über eine entsprechende Spezialisierung verfügen. Weiterhin soll sich die Person ausreichend mit dem Thema befasst haben (inklusive dem jeweiligen Transplantationsprogramm, den örtlichen Richtlinien und Vorgehensweisen sowie den ISHLTEmpfehlungen), bevor unabhängige Evaluationen durchgeführt werden. Fortlaufende Weiterbildungen in diesem Bereich sollen laut diesen Empfehlungen von dem jeweiligen Transplantationsprogramm gemäß örtlicher Qualifikationskriterien unterstützt werden[13] . 
 
-## **4.2 Gesprächszweck und Gesprächsinhalte** 
+## **4.2 Gesprächszweck und Gesprächsinhalte**
 
 In der „LL Psychosoziale Diagnostik und Behandlung bei Organtransplantation“ heißt es: 
 
@@ -257,7 +190,7 @@ Die Evaluation soll auf Grundlage des bio-psychosozialen Modells Auskunft geben 
 
 Folgende organübergreifende Beurteilungskriterien werden in dieser Leitlinie definiert (Tab. 1), wobei sogenannte „ _kritische Ergebnisse“_ nicht grundsätzlich als Ausschlusskriterium für die Aufnahme in die Transplantationswarteliste gewertet werden (Empfehlung 6.2), sondern die Grundlage für Handlungsempfehlungen bilden[7] . 
 
-## **4.2.1 Beurteilungskriterien Leitlinie DGPM / DKPM** 
+### **4.2.1 Beurteilungskriterien Leitlinie DGPM / DKPM**
 
 **Tabelle 1. Beurteilungskriterien einer psychosozialen Evaluation** 
 
@@ -313,7 +246,7 @@ Intelligenzminderung)ohne ausreichende Unterstützung|
 
 Quelle: S3-Leitlinie Psychosoziale Diagnostik und Behandlung von Patientinnen und Patienten vor und nach Organtransplantation, S. 72f. 
 
-## **4.2.2 Beurteilungskriterien Internationaler Fachgesellschaften** 
+### **4.2.2 Beurteilungskriterien Internationaler Fachgesellschaften**
 
 In den Empfehlungen von ISHLT / APM / AST / ICCAC / STSW werden als Rationale für die psychosoziale Evaluation die folgenden drei Punkte genannt[13] : 
 
@@ -343,7 +276,7 @@ Es werden neun Themenfelder mit mehreren Unterpunkten spezifiziert:
 
 9. Sozialanamnese 
 
-## **4.3 Befähigung zur Einwilligung nach Aufklärung** 
+## **4.3 Befähigung zur Einwilligung nach Aufklärung**
 
 Gemäß Empfehlungen von ISHLT / APM / AST / ICCAC / STSW muss der Patient über den Gesprächszweck und die Gesprächsziele informiert werden und darüber, dass es sich hierbei um einen Teilaspekt der Gesamtevaluation für die Transplantationseignung handelt. 
 
@@ -351,7 +284,7 @@ Besteht der Verdacht auf kognitive Einschränkungen, soll die durchführende Per
 
 Die durchführende Person soll daher abwägen, inwiefern zusätzliche Maßnahmen (bspw. edukative Strategien vorangehend an die Evaluation, die dem Niveau des Patienten entsprechen, medizinische Behandlung) notwendig sind, bevor eine Einwilligung nach Aufklärung bzw. eine Erhebung des kognitiven Status möglich ist. Die Option, Patienten an geeignete Institutionen für eine formale Evaluation zu überweisen, soll entsprechend gewährleistet sein (bspw. zum Zweck einer neurokognitiven Evaluation nach auffälligem Screening)[13] . 
 
-## **4.4 Umsetzung und Vorgehen am DHZC** 
+## **4.4 Umsetzung und Vorgehen am DHZC**
 
 Sowohl die oben aufgeführten Beurteilungskriterien nach „LL Psychosoziale Diagnostik und Behandlung bei Organtransplantation“ als auch die Themenfelder nach Empfehlungen von ISHLT / APM / AST / ICCAC / STSW bilden die Grundlage für die Gesprächsführung und Dokumentation im Rahmen der psychosozialen Evaluation am DHZC. Eine Integration der jeweiligen Themenbereiche aus beiden Quellen findet sich in Anhang 2. Die Befähigung zur Einwilligung nach Aufklärung ist gemäß Punkt 4.3 sicherzustellen. Wenn der Patient als nicht einwilligungsfähig eingestuft wird, ist bei volljährigen Patienten ein Betreuer für Gesundheitsangelegenheiten beim zuständigen Betreuungsgericht anzustreben. 
 
@@ -369,9 +302,9 @@ Entsprechend dieser Empfehlungen wird der Patient zu Gesprächsbeginn über alle
 
 - Der Rahmen eines psychologischen supportiv-edukativen bzw. in indizierten Fällen psychotherapeutischen Betreuungsangebots beinhaltet ebenfalls, dass innerhalb des Behandlungsteams und für die Bewertung der Listeneignung keine Vertraulichkeit gewährleistet ist. Die Schweigepflicht besteht lediglich gegenüber anderen Dritten. 
 
-## **5. Durchführung und Frequenz der psychosozialen Evaluationsgespräche** 
+# **5. Durchführung und Frequenz der psychosozialen Evaluationsgespräche**
 
-## **5.1 Empfehlungen der nationalen und internationalen Fachgesellschaften** 
+## **5.1 Empfehlungen der nationalen und internationalen Fachgesellschaften**
 
 Entsprechend der „LL Psychosoziale Diagnostik und Behandlung bei Organtransplantation“ soll bei allen Patienten vor Aufnahme in die Warteliste zur Organtransplantation eine psychosoziale Evaluation durch einen „Mental Health Professional“ erfolgen (Empfehlung 4.10). 
 
@@ -387,13 +320,13 @@ Kann eine psychosoziale Evaluation nur eingeschränkt mittels Patientengespräch
 
 Weiterhin sollen Patienten in regelmäßigen Intervallen und bei Bedarf erneut evaluiert werden, um die psychosozialen Informationen zu aktualisieren[13] . 
 
-## **5.2 Umsetzung und Vorgehen am DHZC** 
+## **5.2 Umsetzung und Vorgehen am DHZC**
 
 Am DHZC werden standardmäßig Screeninginstrumente verwendet (siehe Punkt 11), bei Verdacht auf psychische Störungen wird ein strukturiertes Interview durchgeführt (SCID-V-CV[18] ). Wo notwendig können zusätzlich fremdanamnestische Angaben erhoben werden. 
 
 Für die psychosoziale Evaluation von  Transplantationspatienten wird standardmäßig das im Folgenden ausgeführte Schema angewendet. 
 
-## **5.2.1 Psychosoziale Evaluationsgespräche bei ambulanter Vorstellung** 
+### **5.2.1 Psychosoziale Evaluationsgespräche bei ambulanter Vorstellung**
 
 - Routinemäßiges Erstgespräch zur psychosozialen Evaluation bei erstmaliger Vorstellung in der Transplantationsambulanz: 
 
@@ -413,7 +346,7 @@ Für die psychosoziale Evaluation von  Transplantationspatienten wird standardm�
 
 Notwendigkeit, schnell und flexibel auf die psychosozialen Bedürfnisse der Patienten zu reagieren und eine adäquate Unterstützung in die Wege zu leiten. 
 
-## **5.2.2 Psychosoziale Evaluationsgespräche bei stationärem Aufenthalt** 
+### **5.2.2 Psychosoziale Evaluationsgespräche bei stationärem Aufenthalt**
 
 Primäres Ziel ist die ambulante Evaluation der Patienten. Sollte dies aus dringenden medizinischen Gründen nicht möglich sein, gilt folgendes: 
 
@@ -433,7 +366,7 @@ Primäres Ziel ist die ambulante Evaluation der Patienten. Sollte dies aus dring
 
    - Bestehen aus psychosozialer Sicht Handlungsempfehlungen, bzw. gibt es (vorübergehende) Kontraindikationen, so erfolgen weitere Folgekontakte zur psychosozialen Evaluation nach Maßgabe des interdisziplinären Behandlungsteams, bzw. der Transplantationskonferenz, im Regelfall alle 6 Monate. Die Häufigkeit der Folgekontakte hängt auch von dem individuellen Bedarf des Patienten ab und wird unter Berücksichtigung der individuellen medizinischen und psychosozialen Situation des Patienten festgelegt. Insbesondere die zeitliche Dynamik muss berücksichtigt werden mit dem Ziel, eine möglichst geringe zeitliche Verzögerung im Zeitpunkt der Listung aufgrund von psychosozialem Handlungsbedarf zu erreichen (siehe Punkt 8). Dies unterstreicht die Notwendigkeit, schnell und flexibel auf die psychosozialen Bedürfnisse der Patienten zu reagieren und eine adäquate Unterstützung in die Wege zu leiten. 
 
-## **6. Die psychosoziale Evaluation als fachliche Handlungsgrundlage** 
+# **6. Die psychosoziale Evaluation als fachliche Handlungsgrundlage**
 
 Nach „LL Psychosoziale Diagnostik und Behandlung bei Organtransplantation“ umfassen psychosoziale Maßnahmen im Rahmen der Behandlung von Transplantationspatienten die 
 
@@ -443,13 +376,13 @@ _Sozialpädagogen, Pflegende, Physiotherapeuten, Ergotherapeuten und Seelsorgern
 
 Weiterhin wird beschrieben, dass Menschen mit psychischen Störungen und insbesondere mit substanzbezogenen Störungen Stigmatisierung und Diskriminierung ausgesetzt seien, diese Störungen jedoch bei fachgerechter Behandlung gut behandelbar seien. Auch bei schweren psychischen Störungen könne durch eine integrierte psychosoziale Versorgung häufig eine stabile Situation hergestellt werden, die eine Organtransplantation ermöglicht. In jedem Fall sei zu vermeiden, dass Transplantationspatienten aufgrund von Unwissen oder stigmatisierender Einstellungen eine Aufnahme in die Warteliste verwehrt wird[7] . 
 
-## **6.1 Leitlinienempfehlungen nach DGPM / DKPM** 
+## **6.1 Leitlinienempfehlungen nach DGPM / DKPM**
 
 **Tabelle 2. Leitlinienempfehlungen zur Notwendigkeit der psychosozialen Versorgung 3.2** Transplantationspatienten sind in allen Phasen der Behandlung mit körperlichen, psychischen und sozialen Herausforderungen und Belastungen konfrontiert. _**EK, starker Konsens**_ **3.5** Transplantationspatienten wünschen sich psychosoziale Unterstützung. Diese Wünsche sollen in der Versorgung berücksichtigt werden. Dazu sollte die Unterstützung, bzw. Versorgung der Patienten durch Psychologen, Ärzten, Pflegende, Sozialarbeiteren und Seelsorgeren sowie die Unterstützung durch Selbsthilfe zählen. _**Ek, starker Konsens**_ **4.1** In allen Transplantationszentren und kooperierenden Krankenhäusern und Rehabilitationseinrichtungen soll eine Bedarfsgerechte psychosoziale Versorgung dieser Patienten sichergestellt werden. _**EK, starker Konsens**_ **4.2** In der stationären Wartezeit und in der unmittelbaren stationären Posttransplantationsphase sollen psychische Störungen in der behandelnden Institution durch geeignete Interventionen therapiert werden. _**EK, starker Konsens**_ **4. 3** Transplantationspatienten sollen in allen Phasen der Behandlung Informationen zu wohnortnahen, qualifizierten Unterstützungs- und Behandlungsangeboten erhalten. _**EK, starker Konsens**_ **4.8** Transplantationszentren, kooperierende Krankenhäuser und Rehabilitationseinrichtungen sollen eng mit Selbsthilfegruppen zusammenarbeiten. Dazu sollen die Kliniken Absprechpartneren bennen und bekannt machen. _**EK, starker Konsens**_ **4.9** Transplantationszentren und kooperierende Krankenhäuser und Rehabilitationseinrichtungen sollten Tranplantationspatienten und ihre Angehörigen auf Selbsthilfegruppen hinweisen. _**EK, starker Konsens** EK: Expertenkonsens. Starker Konsens: > 95 % der Stimmberechtigten_ 
 
 Quelle: „LL Psychosoziale Diagnostik und Behandlung bei Organtransplantation“, S. 27ff. 
 
-## **6.2 Beurteilung von psychischen Störungen** 
+## **6.2 Beurteilung von psychischen Störungen**
 
 Psychische Störungen werden gemäß Poppe (2014) grundsätzlich nur selten als Kontraindikation betrachtet[19] . Die Diagnose einer psychischen Störung ist laut der Autorin als Voraussetzung für eine entsprechende Behandlung zu sehen, die notwendig sein kann, um Patienten gut durch den Transplantationsprozess begleiten zu können. In manchen Fällen kann dies zu einer längeren Wartezeit führen, um eine psychische Stabilisierung zu ermöglichen. So beschreibt sie (Übersetzung durch die Verfasserin): 
 
@@ -457,11 +390,11 @@ _„[…] Wichtig ist hierbei, dass die psychologische Evaluation keine Schwarz-
 
 _das Verhalten in Bezug auf die Gesundheit durch entsprechende Begleitung eine Entwicklung durchlaufen kann. Darum ist die wichtigste Konsequenz aus einer guten, psychologischen Evaluation nicht das Stellen von Kontraindikationen, sondern das Bereitstellen einer Behandlung oder Begleitung auf Maß, die den Patienten auf den Eingriff vorbereitet und ihn durch den Prozess begleiten kann. Zugleich muss jedoch realisiert werden, dass das Motivieren zu Behandlungsadhärenz und gutem Gesundheitsverhalten, essentielle Elemente dieser Herangehensweise, manchmal durch Faktoren erschwert wird, die nicht so einfach modifizierbar sind, bspw. die Persönlichkeit oder Psychopathologie des Patienten. […]“_ (siehe Anhang 10). 
 
-## **6.3 Fazit und Vorgehensweise am DHZC** 
+## **6.3 Fazit und Vorgehensweise am DHZC**
 
 Zusammenfassend ist die psychosoziale Evaluation als Handlungsgrundlage für eine individualisierte, leitliniengerechte Unterstützung der Patienten zu sehen. Hierbei ist wichtig zu beachten, dass die Eignung des Patienten zu einer Organtransplantation im Rahmen der Transplantationskonferenz beschlossen wird. Die psychosoziale Situation des Patienten wird gemäß Richtlinien der BÄK durch die schriftliche Stellungnahme, bzw. durch den Fachvertreter als Mitglied der Transplantationskonferenz bei dieser Entscheidung berücksichtigt. Psychosoziale Daten sind weiterhin probabilistischer Natur und können nicht in Isolation betrachtet werden, das Transplantationsteam soll daher informierte Entscheidungen treffen und den Gefahren eines impliziten Biases gegen Untergruppen der Population Aufmerksamkeit widmen[10] . 
 
-## **7. Der psychosoziale Evaluationsbericht** 
+# **7. Der psychosoziale Evaluationsbericht**
 
 Laut „LL Psychosoziale Diagnostik und Behandlung bei Organtransplantation“ sollen die Ergebnisse der psychosozialen Evaluation in einer schriftlichen Stellungnahme dokumentiert werden. Sie sollen, soweit indiziert, Empfehlungen zu psychosozialen Behandlungsmaßnahmen enthalten und in der Weiterbehandlung der Patienten berücksichtigung finden (Empfehlung 6.6)[7] . 
 
@@ -475,13 +408,13 @@ Die Empfehlungen richten sich nach verfügbarer Evidenz bzw. verfügbaren Leitli
 
 Entsprechend der Empfehlung, Leitfäden und Checklisten zu verwenden, gibt es am DHZC eine Berichtvorlage (Anhang 3), die alle psychosozialen Themebereiche nach „LL Psychosoziale Diagnostik und Behandlung bei Organtransplantation“ bzw. Richtlinien von ISHLT / APM / AST  / ICCAC / STSW aufgreift, sowie entsprechende Satzbausteine (Anhang 4). 
 
-## **8. Risikofaktoren, Kontraindikationen und Handlungsempfehlungen** 
+# **8. Risikofaktoren, Kontraindikationen und Handlungsempfehlungen**
 
-## **8.1 Psychosoziale Risikofaktoren für Morbidität und Mortalität** 
+## **8.1 Psychosoziale Risikofaktoren für Morbidität und Mortalität**
 
 (Übersicht der verwendeten Leitlinien, Richtlinien und Empfehlungen siehe Anhang 5) 
 
-## **8.1.1 Adipositas** 
+### **8.1.1 Adipositas**
 
 Laut Richtlinien der BÄK  für die Wartelistenführung und Organvermittlung zur Lungentransplantation (A.III.3) muss die Entscheidung zur Aufnahme in die Warteliste im Kontext von allgemeinen Risiken operativer Eingriffe bewertet werden, wozu auch ausgeprägte Adipositas zählt[3] . 
 
@@ -497,7 +430,7 @@ Aus psychosozialer Sicht ist die Adipositas am DHZC als Risikofaktor zu werten u
 
 Aufgrund der großen Bedeutsamkeit von Adipositas für die medizinische Gesamtsituation einerseits und der Beteiligung psychischer Faktoren bei der Entstehung, Aufrechterhaltung und Behandlung andererseits werden entsprechend die psychosozialen Aspekte evaluiert und daraus abgeleitete Handlungsempfehlungen gemeinsam mit dem behandelnden Arzt unter Berücksichtigung der medizinischen, insbesondere der internistischen Situation und der individuellen Bedürfnisse des Patienten formuliert. Aus psychosozialer Sicht kann ein Behandlungsbeginn, bzw. –abschluss bei hoher medizinischer Dringlichkeit grundsätzlich auch nach Aufnahme auf die Warteliste erfolgen. 
 
-## **8.1.2 Depression und Angst** 
+### **8.1.2 Depression und Angst**
 
 Laut „LL Psychosoziale Diagnostik und Behandlung bei Organtransplantation“ ist Depressivität als Risikofaktor für eine erhöhte Gesamtmortalität zu betrachten, der Zusammenhang ist ausgeprägter bei Depressivität nach Transplantation als bei Depressivität vor Transplantation. Eine Angstsymptomatik ist aufgrund von mangelnder Evidenz nicht als Risikofaktor zu betrachten. Sowohl depressive Störungen, als auch Angsstörungen sollen in jeder Transplantationsbehandlungsphase nach entsprechender S3-Leitlinie behandelt werden. Bei einer Indikation für psychopharmakologische Behandlung soll die somatische Komorbidität und Medikamenteninteraktionen berücksichtigt werden[7] . 
 
@@ -515,15 +448,15 @@ Ein Behandlungsbeginn kann bei hoher medizinischer Dringlichkeit auch nach Aufna
 
 Eine schwere Depression mit Suizidalität ist als vorrübergehende Kontraindikation zu werten, eine Aufnahme auf die Warteliste ist nach Verbesserung der Symptomatik möglich. 
 
-## **8.1.3 Substanzkonsumstörungen** 
+### **8.1.3 Substanzkonsumstörungen**
 
-## **8.1.3.1 Richtlinien der Bundsärztekammer (substanzübergreifend)** 
+### **8.1.3.1 Richtlinien der Bundsärztekammer (substanzübergreifend)**
 
 In der Richtlinie der BÄK für die Wartelistenführung und Organvermittlung zur Herz- und kombinierten HerzLungentransplantation ist die Substanzabstinenz nicht explizit als Voraussetzung für eine Aufnahme auf die Warteliste formuliert, das Nichteinhalten ärztlicher Empfehlungen zu Substanzkonsum findet jedoch im Rahmen der Behandlungsadhärenz als Risikofaktor Erwähnung[2] . 
 
 In der Richtlinie der BÄK für die Wartelistenführung und Organvermittlung zur Lungentransplantation sind v.a. Tabakrauch, Cannabis, Alkohol, Kokain, Opiate und andere psychoaktive Substanzen mit Abhängigkeitspotential als schädliche Substanzen definiert. Zur Beurteilung des schädlichen Gebrauchs bzw. Abhängigkeit ist laut Richtlinien die Stellungnahme eines Facharztes für Psychosomatische Medizin und Psychotherapie, eines Facharztes für Psychiatrie und Psychotherapie oder eines psychologischen Psychotherapeuten, jeweils mit hinreichender Erfahrung im Bereich der Transplantationspsychologie / -psychosomatik / -psychiatrie erforderlich, die Handlungsempfehlungen enthält. Weiterhin ist der Ausschluss von der Transplantation aufgrund von fortbestehendem Konsum von Suchtmitteln als grundsätzlich vorrübergehender Natur beschrieben. Im Falle des schädlichen Gebrauchs oder bei Abhängigkeitssyndrom ist ein 6-monatiger Abstinenzzeitraum festgelegt, der laborchemisch zu unterstützen ist. Die Wartezeit kann laut Richtlinie in Einzelfällen aus medizinischen Gründen von der Transplantationskonferenz durch Antrag an die BÄK verkürzt werden. Patienten mit schädlichem Gebrauch und Abhängigkeitssyndrom in der Vorgeschichte sollen nur bei negativem laborchemischem Nachweis der entsprechenden Substanzen auf die Warteliste aufgenommen werden. Labor- und Verhaltenskontrollen sollen in diesem Fall auch weiterhin während der Wartezeit auf der Transplantationsliste mindestens jährlich erfolgen. Bei Hinweis auf fortgesetzten Konsum schädlicher Substanzen ist der Patient „nicht “ transplantabel (NT) zu melden und erneut zu evaluieren[3] . 
 
-## **8.1.3.2 Alkohol** 
+### **8.1.3.2 Alkohol**
 
 Laut „LL Psychosoziale Diagnostik und Behandlung bei Organtransplantation“ wurden Auswirkungen des Alkoholkonsums auf Mortalität und Morbidität bisher ausschließlich bei Lebertransplantationspatienten ausreichend untersucht, weshalb kein Statement zu Alkoholkonsum als Risikofaktor formuliert wurde. Aufgrund der substantiellen individuellen und gesellschaftlichen Auswirkungen riskanten Alkohlkonsums soll dieser jedoch während des gesamten Transplantationsprozesses erfasst und dokumentiert werden. Die leitliniengerechte Behandlung von riskantem, schädlichem oder abhängigem Konsum soll zudem angeboten werden. Weiterhin sollen Transplantationspatienten mit alkoholassoziierten Lebererkrankungen zur absoluten Alkoholabstinenz motiviert werden[7] . 
 
@@ -543,7 +476,7 @@ In diesem Fall kann vor Lungentransplantation in der Regel eine Aufnahme auf die
 
 Im Fall einer Herztransplantation ist die Aufnahme auf die Warteliste bei schädlichem Gebrauch bzw. bei Abhängigkeitssyndrom nach erfolgreicher, leitliniengerechter Behandlung möglich. Bei hoher medizinischer Dringlichkeit kann die Aufnahme auf die Warteliste vor Beendigung der Behandlung unter Berücksichtigung des individuellen Rückfallrisikos empfohlen werden. 
 
-## **8.1.3.3 Tabak** 
+### **8.1.3.3 Tabak**
 
 Laut „LL Psychosoziale Diagnostik und Behandlung bei Organtransplantation“ geht ein fortgesetzter Tabakkonsum mit einer erhöhten Morbidität und Mortalität einher und ist somit als Risikofaktor zu werten, weshalb ein Rauchstopp sinnvolles Behandlungsziel ist. Der Tabakkonsum soll während des gesamten Transplantationsprozesses erfasst und dokumentiert werden sowie eine leitliniengerechte Tabakentwöhnung mit psychosozialer und medikamentöser Unterstützung angeboten werden[7] . 
 
@@ -563,7 +496,7 @@ Im Fall einer Herztransplantation ist die Aufnahme auf die Warteliste im Fall de
 
 Aufgrund des hohen Suchtpotentials von Nikotin soll auch bei nicht schädlichem Gebrauch bzw. fehlender Abhängigkeit eine unmittelbare Abstinenz empfohlen werden bzw. kann eine Abstinenzvereinbarung mit dem Patienten getroffen werden. Dies gilt für sämtliche Formen des Nikotinskonsums (inkl. Mittels elektrischer Zigarette, Vaporizer, Heater) oder Nikotinersatztherapie außerhalb einer leitliniengerechten Anwendung. 
 
-## **8.1.3.4 Cannabis** 
+### **8.1.3.4 Cannabis**
 
 Laut „LL Psychosoziale Diagnostik und Behandlung bei Organtransplantation“ ist die Evidenz hinsichtlich Morbidität und Mortalität begrenzt, weshalb keine Aussage zu Cannabis als Risikofaktor formuliert wurde. Cannabiskonsum soll analog zu Alkohol und Tabak während des Transplantationsprozesses erfasst und dokumentiert werden und über transplantationsspezifische Risiken aufgeklärt werden. Bei fortgesetztem Cannabiskonsum soll eine spezifische therapeutische Behandlungsoption angeboten / vermittelt werden[7] . 
 
@@ -585,7 +518,7 @@ Im Fall einer Herztransplantation ist die Aufnahme auf die Warteliste im Fall de
 
 Bei Anwendung von Cannabis oder Cannabisprodukten aufgrund einer medizinischen Indikation muss eine Einzelfallprüfung erfolgen. 
 
-## **8.1.3.5 Opiate (Substitutionstherapie)** 
+### **8.1.3.5 Opiate (Substitutionstherapie)**
 
 Laut „LL Psychosoziale Diagnostik und Behandlung bei Organtransplantation“ ist die Evidenzlage zur Substitutionsbehandlung insgesamt gering, weshalb keine Aussage zur Substitution als Risikofaktor formuliert wurde. Zugleich gibt es laut Leitlinie keine evidenzbasierte Begründung, die rechtfertigt, die Substitutionsdosis über eine suchtmedizinische Indikation hinaus zu reduzieren / auszuschleichen oder den betroffenen Patienten eine Transplantation vorzuenthalten, wenn sie sich in kontrollierter Substitutionsbehandlung befinden[7] . 
 
@@ -603,7 +536,7 @@ Eine Aufnahme auf die Warteliste kann im Fall einer vorgesehenen Lungentransplan
 
 Im Fall einer Herztransplantation und einer kombinierten Herz-Lungentransplantation wird die gleiche Vorgehensweise festgelegt. 
 
-## **8.1.3.6 Medikamentenbezogene Störungen** 
+### **8.1.3.6 Medikamentenbezogene Störungen**
 
 Laut „LL Psychosoziale Diagnostik und Behandlung bei Organtransplantation“ ist eine dauerhafte Therapie mit Opiaten als Risikofaktor für Morbidität und Mortalität zu werten und sollte regelmäßig hinsichtlich der Indikation evaluiert werden. 
 
@@ -625,7 +558,7 @@ Im Fall einer Herztransplantation ist die Aufnahme auf die Warteliste nach erfol
 
 Eine verordnungsgerechte Einnahme von psychoaktiven Medikamenten ist nicht als Kontraindikation zu werten, sollte jedoch hinsichtlich Indikation und Alternativen durch den verschreibenden Arzt überprüft werden. Handlungsempfehlungen dahingehend werden gemeinsam mit dem behandelnden Arzt des DHZC formuliert. 
 
-## **8.1.3.7 Sonstige illegale Substanzen** 
+### **8.1.3.7 Sonstige illegale Substanzen**
 
 Laut „LL Psychosoziale Diagnostik und Behandlung bei Organtransplantation“ ist die Evidenzlage zu sonstigen illegalen Substanzen (bspw. Kokain, Amphetamin) gering, weshalb keine Aussage  zu sonstigen illegalen Substanzen als Risikofaktor formuliert wurde. Der Konsum kann jedoch aus medizinischer Sicht eine Kontraindikation darstellen (bspw. Aufgrund des kardiovaskulären Komplikationsrisikos bei Kokainkonsum). 
 
@@ -649,7 +582,7 @@ Im Fall einer Herztransplantation ist die Aufnahme auf die Warteliste nach erfol
 
 Aufgrund des hohen Suchtpotentials vieler psychoaktiver Substanzen soll auch bei nicht schädlichem Gebrauch bzw. fehlender Abhängigkeit eine unmittelbare Abstinenz empfohlen werden bzw. kann eine Abstinenzvereinbarung mit dem Patienten getroffen werden. 
 
-## **8.1.3.8 Delir** 
+### **8.1.3.8 Delir**
 
 Laut „LL Psychosoziale Diagnostik und Behandlung bei Organtransplantation“ haben Transplantationspatienten prä-, peri-, als auch postoperativ ein erhöhtes Delirrisiko, welches sich auf Morbidität und Mortalität auswirken kann. Entsprechend sollen Patienten während stationärer Behandlungen regelmäßig und gezielt auf eine Delirsymptomatik hin untersucht werden und gemäß aktueller S3-Leitlinie „Analgesie, Sedierung und Delirmanagement in der Intensivmedizin“ behandelt werden, wobei nicht pharmakologische präventive Maßnahmen im Vordergrund stehen[7,20] . 
 
@@ -663,11 +596,11 @@ Bei nicht pharmakologischen Interventionen (bspw. kognitive Stimulation, Einbind
 
 Die Listung anhaltend deliranter Patienten zur thorakalen Transplantation ist nicht möglich. Die adäquate Behandlung des Delirs geht somit einer möglichen Listung und abschließenden psychosozialer Evaluation voraus. 
 
-## **8.2 Behandlungsadhärenz und Risikofaktoren für Non-Adhärenz** 
+## **8.2 Behandlungsadhärenz und Risikofaktoren für Non-Adhärenz**
 
 (Übersicht der verwendeten Leitlinien, Richtlinien und Empfehlungen siehe Anhang 5) 
 
-## **8.2.1 Leitlinienempfehlungen nach DGPM / DKPM** 
+### **8.2.1 Leitlinienempfehlungen nach DGPM / DKPM**
 
 Laut „LL Psychosoziale Diagnostik und Behandlung bei Organtransplantation“ besteht kein Konsens, ab welchem Grad der Abweichung vom Medikamentenregime bzw. Abweichung von nicht medikamentösen Behandlungsempfehlungen von Non-Adhärenz zu sprechen ist. Weiterhin ist die Non-Adhärenz in der Einnahme von Immunsupressiva mit einem erhöhtem Risiko von Abstoßungsreaktionen und erhöhter Mortalität verbunden. Gemäß Studienlage kann bereits eine Adhärenz von <= 98 % zu einer Verschlechterung des Krankheitsverlaufs führen. Zu den möglichen modifizierbaren Risikofaktoren für eine Non-Adhärenz in der Einnahme von Immunsuppressiva zählen (wobei weitere wissenschaftliche Studien notwendig sind): Depressivität, Angst sowie negative Einstellungen und Erwartungen. Zu den nicht 
 
@@ -679,7 +612,7 @@ modifizierbaren Risikofaktoren gehören männliches Geschlecht, jüngeres Alter 
 
 Quelle: S3-Leitlinie Psychosoziale Diagnostik und Behandlung von Patientinnen und Patienten vor und nach Organtransplantation, S.80ff. 
 
-## **8.2.2 Richtlinien der Bundesärztekammer** 
+### **8.2.2 Richtlinien der Bundesärztekammer**
 
 In den Richtlinien der BÄK für die Wartelistenführung und Organvermittlung zur Herz- und HerzLungentransplantation und für die Wartelistenführung und Organvermittlung zur Lungentransplantation ist eine unzureichende Adhärenz, d. h. die mangelnde Übereinstimmung des Verhaltens des Patienten mit den vereinbarten Behandlungswegen und -zielen, als mögliche Kontraindikation beschrieben. 
 
@@ -703,13 +636,13 @@ Modifizierbare Risikofaktoren für eine Non-Adhärenz in der Einnahme immunsuppr
 
 Entsprechenden Handlungsempfehlungen zur Modifikation des jeweiligen Risikofaktors bzw. zu präventiven Maßnahmen sollen gemeinsam mit dem ärztlichen Behandlungsteam und mit dem Patienten formuliert werden. 
 
-## **8.3 Übersicht psychosozialer Kontraindikationen** 
+## **8.3 Übersicht psychosozialer Kontraindikationen**
 
 Ein Überblick über die Kontraindikationen aus den verschiedenen Leitlinien, Richtlinien und Empfehlungen sowie die Vorgehensweise am DHZC findet sich in Anhang 6. Die Vorgehensweise zur Formulierung psychosozialer Kontraindikationen basiert auf einer Integration der verfügbaren Leit- und Richtlinien, wobei die „LL Psychosoziale Diagnostik und Behandlung bei Organtransplantation“ (da integrativ) sowie die Richtlinien der BÄK (da rechtsverbindlich) relativ stärker ins Gewicht fallen. 
 
-## **9. Koordination psychosozialer Maßnahmen und Verlaufsmonitoring** 
+# **9. Koordination psychosozialer Maßnahmen und Verlaufsmonitoring**
 
-## **9.1 Empfehlungen der internationalen Fachgesellschaften** 
+## **9.1 Empfehlungen der internationalen Fachgesellschaften**
 
 Die Implementierung, der Fortschritt und die Ergebnisse von Handlungsempfehlungen sollen laut Empfehlungen von ISHLT / APM / AST / ICCAC / STSW überwacht werden, sodass eine zeitnahe Aktualisierung für das Transplantationsteam möglich ist. Dies gilt besonders für Interventionen, die implementiert wurden, um Kontraindikationen aufzulösen. 
 
@@ -721,7 +654,7 @@ Es ist Aufgabe der zuständigen evaluierenden Person, vorab zu spezifizieren, wa
 
 Erfolgskriterien müssen möglicherweise die medizinische Dringlichkeit berücksichtigen, beispielsweise durch eine Verschiebung des Behandlungsabschlusses auf die Zeit nach einer Transplantation. Dies ermöglicht eine dynamische Anpassung der Bewertung an die sich verändernden Bedürfnisse und Umstände des Patienten im Verlauf des Transplantationsprozesses[13] . 
 
-## **9.2 Umsetzung und Vorgehen am DHZC** 
+## **9.2 Umsetzung und Vorgehen am DHZC**
 
 Um die medizinische Situation bei der Formulierung von Handlungsempfehlungen und Festlegung von Erfolgskriterien angemessen berücksichtigen zu können, ist ein enger Austausch mit dem ärztlichen und pflegerischen Behandlungsteam erforderlich. 
 
@@ -749,9 +682,9 @@ Jedem Patienten wird ein Fallführer zugeteilt, der auf sämtlichen Berichten ve
 
 Ein fachlicher Austausch und / oder eine Intervision und ggf. eine Konsultation zwischen Fachkollegen ist insbesondere bei psychosozialen Risikofaktoren bzw. (vorübergehenden) Kontraindikationen zu ermöglichen. Dies kann bei Bedarf die unabhängige psychosoziale Evaluation durch einen zweiten Psychologen nach dem 4-Augen-Prinzip umfassen. 
 
-## **10. Richtlinien zur Vorgehensweise bei Substanzabhängigkeit oder schädlichem Substanzkonsum** 
+# **10. Richtlinien zur Vorgehensweise bei Substanzabhängigkeit oder schädlichem Substanzkonsum**
 
-## **10.1 Empfehlungen der internationalen Fachgesellschaften** 
+## **10.1 Empfehlungen der internationalen Fachgesellschaften**
 
 Gemäß Punkt 8 muss das Erstgespräch zur psychosozialen Evaluation vor Transplantation den Status zu Substanzgebrauch umfassen. Im Einzelnen werden laut Empfehlungen von ISHLT / APM / AST / ICCAC / STSW die folgenden Aspekte erfragt[13] : 
 
@@ -773,7 +706,7 @@ Gemäß Punkt 8 muss das Erstgespräch zur psychosozialen Evaluation vor Transpl
 
 - Substanzgebrauch direkter Familienmitglieder 
 
-## **10.2 Umsetzung und Vorgehen am DHZC** 
+## **10.2 Umsetzung und Vorgehen am DHZC**
 
 Zeigt sich im Erstgespräch der Verdacht auf schädlichen Substanzkonsum oder Abhängigkeit in der Vergangenheit oder aktuell, so ist die Bedeutung der Abstinenz für die zeitnahe Listung im Dialog mit dem Patienten hervorzuheben und eine leitliniengerechte Psychodiagnostik durchzuführen. Abhängig von der Einsicht und Abstinenzmotivation des Patienten soll nach Möglichkeit bereits bei dem psychosozialen Erstgespräch eine Abstinenzvereinbarung mit dem Patienten getroffen werden. 
 
@@ -807,19 +740,19 @@ Eine Kurzübersicht der Leitlinie Screening, Diagnose und Behandlung alkoholbezo
 
 - In bestimmten Fällen kann eine Objektivierung mittels laborchemischen Nachweises aus psychologischer Sicht hilfreich sein, bspw. um die Bereitschaft zur Verhaltensänderung zu unterstützen oder bei hohem Rückfallrisiko. In diesen Fällen ist eine zusätzliche Testanordnung durch Psychologen sinnvoll. 
 
-## **11. Kulturelle Aspekte und Sprache** 
+# **11. Kulturelle Aspekte und Sprache**
 
-## **11.1 Empfehlungen der internationalen Fachgesellschaften** 
+## **11.1 Empfehlungen der internationalen Fachgesellschaften**
 
 Laut Empfehlungen von ISHLT / APM / AST / ICCAC / STSW können Sprachbarrieren die Erhebung des kognitiven Status, bzw. die Fähigkeit zur Einwilligung nach Aufklärung beeinträchtigen und soll entsprechend der Einsatz einer Sprachmittlung zu diesem Zweck erwogen werden. 
 
 Den Patienten soll weiterhin ermöglicht werden, vollständig und ohne Sprachbarrieren an dem psychosozialen Evaluationsgespräch teilzunehmen. Sind Sprachbarrieren vorhanden, soll eine Sprachmittlung durch eine Person eingesetzt werden, die keine (indirekte oder direkte) persönliche Beziehung zum Patienten hat[13] . 
 
-## **11.2 Umsetzung und Vorgehen am DHZC** 
+## **11.2 Umsetzung und Vorgehen am DHZC**
 
 Die psychosoziale Evaluation vor Transplantation ist grundsätzlich kultursensitiv zu gestalten, sowohl in der Gesprächsführung als auch bezogen auf die psychosoziale Situation, in der sich ein Patient befindet. 
 
-## **11.2.1 Gesprächsführung** 
+### **11.2.1 Gesprächsführung**
 
 Eine Sprachmittlung zur Aufhebung etwaiger Sprachbarrieren ist eine wichtige Voraussetzung für eine gleichberechtigte Teilhabe an der Gesundheitsversorgung. Dementsprechend muss bei psychosozialen Evaluationsgesprächen sowie bei der Umsetzung von Handlungsempfehlungen bei Bedarf eine 
 
@@ -831,25 +764,25 @@ _„Nach Zusammenschau dieser Argumente und Befunde vertreten wir die Ansicht, d
 
 Kenntnisse von kulturell geprägten Kommunikationsstilen, siehe beispielsweise Schinkel und Kollegen (2018)[21] sowie ein Bewusstsein für die (strukturelle) Benachteiligung marginalisierter Gruppen sehen wir als Grundvoraussetzung für eine kultursensitive psychosoziale Evaluation. Entsprechende Kompetenzen in der psychologischen Gesprächsführung unterstützen wir auf formaler Ebene durch Fort- und Weiterbildungen. 
 
-## **11.2.2 Psychosoziale Situation** 
+### **11.2.2 Psychosoziale Situation**
 
 Menschen mit Migrationshintergrund können vielfältige Barrieren der gesellschaftlichen Teilhabe erleben, die sich durch ökonomische, (psycho-) soziale und Umweltfaktoren negativ auf die gesundheitliche Situation und Versorgung auswirken können[22-25] . Dementsprechend ist eine psychosoziale Evaluation, die etwaige Barrieren identifiziert, wichtig für die bestmögliche Unterstützung der Patienten. 
 
 Die Formulierung entsprechender Handlungsempfehlungen und deren Umsetzung im Rahmen der Realitäten der Versorgungsstrukturen kann auf diesem Weg einer Kulturalisierung und Diskriminierung der Patienten entgegenwirken. 
 
-## **12. Unterstützende Fragebögen und Messinstrumente** 
+# **12. Unterstützende Fragebögen und Messinstrumente**
 
 Gemäß „LL Psychosoziale Diagnostik und Behandlung bei Organtransplantation“ soll die Wahrscheinlichkeit einer psychischen Störung mittels Screening-Fragen im Anamnesegespräch oder standardisierter Fragebögen in allen Phasen der Transplantationsbehandlung eingeschätzt werden (Empfehlung 6.8) und bei positivem Screening auf das Vorliegen psychischer Störungen untersucht werden (Empfehlung 6.9)[7] . Zur unterstützenden Quantifizierung der psychosozialen Situation werden die folgenden Instrumente verwendet: 
 
-## **12.1 Kognitives Screening** 
+## **12.1 Kognitives Screening**
 
 Bei Verdacht auf kognitive Einschränkung sind standardisierte Screening-Tools sinnvoll für die orientierende Einschätzung zusätzlich zu anamnestischen, bzw. fremdanamnestischen Angaben und können eine Entscheidungshilfe darstellen, ob eine weiterführende Diagnostik notwendig ist[26] . Wir empfehlen die Verwendung des Montreal Cognitive Assessment (MoCA)[27] , welches in verschiedenen Sprachen sowohl als digitale Anwendung als auch als Paper-und-Pencil-Version frei verfügbar ist unter folgender Website: https://mocacognition.com/ 
 
 Das MoCA hat gegenüber anderen kognitiven Screening-Instrumenten eine höhere Sensitivität bei milden kognitiven Einschränkungen[28] . Demographisch korrigierte Normwerte zur Verbesserung der Spezifizität für den deutschsprachigen MoCA sowie einen Online-Rechner für den demographisch korrigierten Standardwert finden sich hier: https://www.mocatest.ch/de 
 
-## **12.2 Alkohol und Rauchen** 
+## **12.2 Alkohol und Rauchen**
 
-## **12.2.1 Alkoholabhängigkeit** 
+### **12.2.1 Alkoholabhängigkeit**
 
 Zum Screening von riskantem Alkoholkonsum, schädlichem Alkoholgebrauch oder Alkoholabhängigkeit wird die deutsche Version des Alcohol Use Disorders Identification Test (AUDIT) eingesetzt beziehungsweise die entsprechende Kurzform (AUDIT-C), wenn die Langfassung zu aufwendig ist. Der Einsatz des Fragebogens wird in der S3-Leitlinie „Screening, Diagnose und Behandlung alkoholbezogener Störungen“ in allen medizinischen und psychosozialen Settings empfohlen (Empfehlungsgrad: KKP)[16] . Die interne Konsistenz-Reliabilität der deutschen Übersetzung (Langfassung) liegt bei α=.81[29] , die RetestReliabilität liegt bei r=.95[30] . 
 
@@ -877,7 +810,7 @@ In Ergänzung zum AUDIT wird die Alkoholanamnese als folgt erhoben:
 
 Entsprechende laborchemische Nachweise gemäß Richtlinie unterstützen eine erfolgreiche Alkoholentwöhnung bei schädlichem Gebrauch oder Abhängigkeit ergänzend. 
 
-## **12.2.2 Tabakabhängigkeit** 
+### **12.2.2 Tabakabhängigkeit**
 
 Für die Einschätzung der Stärke der Tabakabhängigkeit eignet sich der Fagerström-Test für Zigarettenabhängigkeit (FTZA)[32] , welcher in der S3-Leitlinie „Rauchen und Tabakabhängigkeit: Screening, Diagnostik und Behandlung“ zur weiterführenden Diagnostik empfohlen wird (Empfehlungsgrad A)[9] . Die interne Konsistenz Reliabilität der deutschen Übersetzung liegt bei α = .61, die Retest-Reliabilität liegt bei r = .88[32] . Der Test misst am ehesten motivationale Aspekte der Abhängigkeit und ist prädiktiv für Abstinenzversuche und Rückfälle, zeigt jedoch eine unklare Faktorenstruktur[33] . 
 
@@ -915,15 +848,15 @@ In Ergänzung zum FTZA wird die Raucheranamnese, angelehnt an die S3-Leitlinie, 
 
 Entsprechende laborchemische Nachweise gemäß Richtlinie unterstützen eine erfolgreiche Tabakentwöhnung bei schädlichem Gebrauch oder Abhängigkeit ergänzend. 
 
-## **12.3 Depressivität und Angst** 
+## **12.3 Depressivität und Angst**
 
-## **12.3.1 Depressivität** 
+### **12.3.1 Depressivität**
 
 Zum Screening von depressiven Symptomen eignet sich die deutsche Version des Patient Health Questionnaire 9 (PHQ-9), welches in der S3-Leitlinie „Unipolare Depression“ als geeignetes und zeitökonomisches Screening-Instrument empfohlen wird[34] . 
 
 Die interne Konsistenz Reliabilität der deutschen Übersetzung (Langfassung) liegt bei α = .88, der Test zeigt zudem eine hohe Sensitivität (95 %) und Spezifizität (86 %) für die Diagnose einer Major Depression bei Menschen im allgemeinmedizinischen Setting: ein Cut-Off von ≥ 11 (Major Depression) bzw. ≥ 9 (depressive Störungen) scheint hierbei gerechtfertigt[35] . Bei Menschen mit COPD sowie in älteren Menschen zeigt sich eine eindimensionale Faktorenstruktur[35,36] . 
 
-## **12.3.2 Angst** 
+### **12.3.2 Angst**
 
 Zum Screening von Symptomen einer generalisierten Angststörung eignet sich die deutsche Version des Generalized Anxiety Disorder Assessment-7 (GAD-7), welches in der S3-Leitlinie „Behandlung von Angststörungen“ als geeignetes Screening-Instrument empfohlen wird[37] . 
 
@@ -933,7 +866,7 @@ In der Originalpublikation werden die Ergebnisse wie folgt klassifiziert: keine 
 
 In einer für die deutsche Allgemeinbevölkerung repräsentativen Stichprobe ergab sich zudem eine eindimensionale Faktorenstruktur[40] , Menschen mit COPD, ebenso für eine Stichprobe von Menschen im allgemeinmedizinischen Setting[41] . 
 
-## **12.4 Gesundheitsbezogene Lebensqualität** 
+## **12.4 Gesundheitsbezogene Lebensqualität**
 
 Für die Erhebung der gesundheitsbezogenen Lebensqualität eignet sich die deutsche Version des EQ-5D5L[42,43] . Dieser Fragebogen misst die Lebensqualität anhand von 5 Fragen zu Beweglichkeit/Mobilität, Für Sich Sorgen, Alltägliche Tätigkeiten, Schmerzen/körperliche Beschwerden, Angst/Niedergeschlagenheit. Jede Frage kann auf einer 5-Punkte-Skala beantwortet werden (kein / leicht / mäßig / groß / extrem), die Punkte werden jedoch nicht summiert, sondern kombiniert, um den Gesundheitszustand zu beschreiben (bspw., 11111 für einen optimalen Gesundheitszustand, den annähernd 50 % der Normalbevölkerung erreichen)[43] . 
 
@@ -943,7 +876,7 @@ Einzelwerte und Indexwerte zeigten bei Dialysepatienten eine zufriedenstellende 
 
 Zusätzlich enthält der Fragebogen eine visuelle Analogskala zur subjektiven Einschätzung des Gesundheitszustands auf einer Skala von 0 (Minimum) bis 100 (Maximum). 
 
-## **13. Literatur** 
+# **13. Literatur**
 
 1. Gesetz über die Spende, Entnahme und Übertragung von Organen und Geweben (Transplantationsgesetz - TPG). https://www.gesetze-im-internet.de/tpg/BJNR263100997.html 
 

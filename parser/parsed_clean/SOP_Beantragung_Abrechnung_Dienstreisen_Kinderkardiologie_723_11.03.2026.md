@@ -1,18 +1,18 @@
 **Beantragung und Abrechnung von Dienstreisen in der Kinderkardiologie** 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Fristgerechte Genehmigung und Entscheidung über eine Kostenübernahme durch LOM-Mittel (Leistungsorientierte Mittel) oder andere Drittmittel durch den Klinikdirektor. 
 
-## **2. Prozessverantwortliche Person** 
+# **2. Prozessverantwortliche Person**
 
-## **3. Geltungsbereich/Zielgruppe** 
+# **3. Geltungsbereich/Zielgruppe**
 
 MitarbeiterInnen der Klinik für Angeborene Herzfehler – Kinderkardiologie Deutsches Herzzentrum der Charité (DHZC). 
 
-## **4. Prozessbeschreibung** 
+# **4. Prozessbeschreibung**
 
-## **4.1 Voraussetzungen für die Kostenübernahme** 
+## **4.1 Voraussetzungen für die Kostenübernahme**
 
 Die Voraussetzung für eine Genehmigung eines Dienstreiseantrags ist die Kompatibilität mit dem Dienstplan. Eine Kostenübernahme kann zusätzlich zur Dienstfreistellung vorbehaltlich der Verfügbarkeit der LOM-Mittel genehmigt werden. 
 
@@ -30,7 +30,7 @@ Die Übernahme von Reisekosten erfolgt primär und prioritär bei **aktiver** Te
 
 **Hinweis:** Bei einer Teilnahme **ohne aktiven Beitrag** entscheidet der Abteilungsleiter im Einzelfall über die Möglichkeit einer Kostenübernahme. 
 
-## **4.2 Zeitablauf und Fristen** 
+## **4.2 Zeitablauf und Fristen**
 
 1. **Abstract-Einreichung:** Beachtung der Deadlines von DGPK, AEPC, DGK, CSI Frankfurt, EURO ACHD, EuroELSO, ISHLT, Pedirhythm, EHRA, ESC. 
 
@@ -44,7 +44,7 @@ SOP-Nr. 723
 
 **Beantragung und Abrechnung von Dienstreisen in der Kinderkardiologie** 
 
-## **4.3 Budgetierung und Kostenarten** 
+## **4.3 Budgetierung und Kostenarten**
 
 Die Finanzierung erfolgt präferentiell über die LOM-Mittel der Abteilung. Die Entscheidung über die Kostenübernahme erfolgt in Abhängigkeit von den verfügbaren Drittmitteln. Priorisiert werden die Kostenübernahme der Teilnahmegebühr und der Reisekosten, Kosten für die Unterbringung können optional je nach Budget-Auslastung ebenfalls erstattet werden. 
 
@@ -65,7 +65,7 @@ gesonderten Begründung.|
 |**Unterkunft**||
 |||
 
-## **4.4 Verfahrensablauf** 
+## **4.4 Verfahrensablauf**
 
 **Schritt 1:** Einreichung des Beitrags bei der Fachgesellschaft. 
 
@@ -79,7 +79,7 @@ gesonderten Begründung.|
 
    - **Wichtig** : Es wird erwartet, dass alle verfügbaren Unterstützungsmöglichkeiten (Young-DZHK, eigene Reisemittel (Drittmittel)) genutzt werden. 
 
-## **5. Checkliste für Antragsteller** 
+# **5. Checkliste für Antragsteller**
 
 - [ ] Ist die Dienstreise im Rahmen des Dienstplans einplanbar? 
 

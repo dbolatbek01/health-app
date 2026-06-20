@@ -6,7 +6,7 @@ Die bisherige Fassung wurde mit Einschluss der Kliniken für Kardiologie, Angiol
 
 Ein Leitfaden zur spezifischen Echokardiographie bei speziellen Krankheitsbildern ist in Arbeit. 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Die Zielsetzung dieser SOP ist es, den Untersuchungsablauf einer transthorakalen Echokardiographie in einem standardisierten Untersuchungsprotokoll festzulegen. 
 
@@ -16,7 +16,7 @@ Nach Durchführung einer standardisierten Echokardiographie besteht ergänzend d
 
 Messungen sollten überwiegend am Echo-Gerät durchgeführt werden. Sie können aber auch nach der Untersuchung an der Computer-Workstation (TOMTEC) erfolgen. In jedem Fall ist die Dokumentation aller Messungen im System (Standbild bzw. Loop) unabdingbar, damit die Qualitätskontrolle und die Nachvollziehbarkeit der Befunde immer erfolgen kann. 
 
-## **2. Qualitätskriterien** 
+# **2. Qualitätskriterien**
 
 Die gespeicherte Untersuchung soll selbsterklärende Darstellungen des Herzens und der vorliegenden Pathologie enthalten. 
 
@@ -56,7 +56,7 @@ Sollte die Schallqualität nicht ausreichen, um dies zu gewährleisten, wird die
 
 **Transthorakale Echokardiographie** Geltungsbereich: Kliniken für Kardiologie, Angiologie und Intensivmedizin; Klinik für Herz-, Thorax- und Gefäßchirurgie 
 
-## **3. Untersuchungsvorbereitung (durch Arzt/Ärztin, Physician Assistent, MFA/MTA)** 
+# **3. Untersuchungsvorbereitung (durch Arzt/Ärztin, Physician Assistent, MFA/MTA)**
 
 - Vor Patientenkontakt Klärung der Fragestellung und Sichtung der Vorbefunde 
 
@@ -80,7 +80,7 @@ Sollte die Schallqualität nicht ausreichen, um dies zu gewährleisten, wird die
 
 - Anlage des EKGs, Dokumentation des Rhythmus als Standbild, wenn Rhythmusstörungen vorliegen 
 
-## **4. Untersuchungsablauf** 
+# **4. Untersuchungsablauf**
 
 Die Standardebenen sollten möglichst in der Reihenfolge, wie unten dargestellt, angelotet werden, sofern die Untersuchungsbedingungen dieses erlauben, und eine ausreichende Schallqualität vorliegt. 
 
@@ -124,7 +124,7 @@ a) **Untersuchung immer mit EKG-Ableitung** (bis auf wenige klinisch bedingte Au
 
 **Transthorakale Echokardiographie** Geltungsbereich: Kliniken für Kardiologie, Angiologie und Intensivmedizin; Klinik für Herz-, Thorax- und Gefäßchirurgie 
 
-## **5. Standardisierte echokardiographische Untersuchung** 
+# **5. Standardisierte echokardiographische Untersuchung**
 
 - Beginn der Untersuchung von parasternal, apikal, oder subkostal (Campus-interne Regelung) 
 
@@ -134,7 +134,7 @@ a) **Untersuchung immer mit EKG-Ableitung** (bis auf wenige klinisch bedingte Au
 
 - Grundsätzlich erfolgt zunächst die vollständige echokardiographische Untersuchung mit Dokumentation des Datensatzes und im Anschluss daran die erweiterte Erfassung der pathologischen Befunde, wie z.B. die genaue Quantifizierung eines Klappenvitiums oder eine weiterführende Funktionsanalyse, wie z.B. die Strain-Analyse. 
 
-## **5.1 Apikale Anlotungen mit Aufzeichnung** 
+## **5.1 Apikale Anlotungen mit Aufzeichnung**
 
 - vom apikalen 4-Kammerblick ausgehend zunächst triplane 3-D Aufzeichnung der apikalen Blicke (zur Überprüfung der korrekten standardisierten Anlotung) 
 
@@ -146,7 +146,7 @@ a) **Untersuchung immer mit EKG-Ableitung** (bis auf wenige klinisch bedingte Au
 
 - Apikale lange Achse (aLAX) 
 
-## **5.2 Apikaler 4-Kammerblick (4-KB)** 
+## **5.2 Apikaler 4-Kammerblick (4-KB)**
 
 - 2-D-Loop mit Fokussierung auf Darstellung LV und LA 
 
@@ -174,7 +174,7 @@ a) **Untersuchung immer mit EKG-Ableitung** (bis auf wenige klinisch bedingte Au
 
 - Gewebe-Doppler mit PW-Doppler des TK-Annulus (S`Vmax) 
 
-## **5.3 Apikaler 5-Kammerblick (5-KB)** 
+## **5.3 Apikaler 5-Kammerblick (5-KB)**
 
 - 2-D-Loop 
 
@@ -184,7 +184,7 @@ a) **Untersuchung immer mit EKG-Ableitung** (bis auf wenige klinisch bedingte Au
 
 - PW-Doppler LVOT, wenn nicht im 3-KB durchgeführt 
 
-## **5.4 Apikaler 2-Kammerblick (2-KB)** 
+## **5.4 Apikaler 2-Kammerblick (2-KB)**
 
 - 2-D-Loop 
 
@@ -196,7 +196,7 @@ a) **Untersuchung immer mit EKG-Ableitung** (bis auf wenige klinisch bedingte Au
 
 - CW-Doppler Mitralklappe, bei zuvor nicht aussagekräftigem Signal 
 
-## **5.5 Apikale lange Achse (aLAX)** 
+## **5.5 Apikale lange Achse (aLAX)**
 
 - 2-D-Loop 
 
@@ -210,7 +210,7 @@ a) **Untersuchung immer mit EKG-Ableitung** (bis auf wenige klinisch bedingte Au
 
 **Transthorakale Echokardiographie** Geltungsbereich: Kliniken für Kardiologie, Angiologie und Intensivmedizin; Klinik für Herz-, Thorax- und Gefäßchirurgie 
 
-## **5.6 Parasternale lange Achse (pLAX)** 
+## **5.6 Parasternale lange Achse (pLAX)**
 
 - 2-D-Loop 
 
@@ -234,7 +234,7 @@ a) **Untersuchung immer mit EKG-Ableitung** (bis auf wenige klinisch bedingte Au
 
 - Diameterbestimmung LVOT = Ao-Annulus (mitt-systolisch) 
 
-## **5.7 Parasternale kurze Achse (SAX)** 
+## **5.7 Parasternale kurze Achse (SAX)**
 
 - Aortenklappenhöhe 2-D-Loop fokussiert auf Aortenklappe 
 
@@ -250,7 +250,7 @@ a) **Untersuchung immer mit EKG-Ableitung** (bis auf wenige klinisch bedingte Au
 
 - Herzspitzenhöhe 2-D-Loop 
 
-## **5.8 Subkostaler Blick (SKB)** 
+## **5.8 Subkostaler Blick (SKB)**
 
 - 2-D-Loop (hohe Eindringtiefe) mit Darstellung des gesamten Herzens, einschließlich des Perikards 
 
@@ -266,7 +266,7 @@ a) **Untersuchung immer mit EKG-Ableitung** (bis auf wenige klinisch bedingte Au
 
 - 2D-Loop 4-5 Zyklen Darstellung der V. cava inferior längs mit Sniff (forcierter Inspiration) 
 
-## **5.9 Suprasternaler Blick (SSB)** 
+## **5.9 Suprasternaler Blick (SSB)**
 
 Anlotung nur bei bestimmten Fragestellungen 
 
@@ -276,7 +276,7 @@ Anlotung nur bei bestimmten Fragestellungen
 
 - Beurteilung von angeborenen Vitien 
 
-## **5.10 Fokussierte Echokardiographie** 
+## **5.10 Fokussierte Echokardiographie**
 
 - möglich bei Vorliegen von kompletten Vorbefunden (nicht älter als 6 Monate) 
 
@@ -286,7 +286,7 @@ Anlotung nur bei bestimmten Fragestellungen
 
 dabei aber kritischer Blick, ob reduzierte Untersuchung hinsichtlich der Fragestellung oder Symptomatik der Patientinnen und Patienten ausreichend ist, ob ggf. eine Dynamik zu der dokumentierten Voruntersuchung auffällt. 
 
-## **5.11** 
+# **5.11**
 
 ## **Zusätzliche fakultative Untersuchungen** 
 
@@ -298,11 +298,11 @@ dabei aber kritischer Blick, ob reduzierte Untersuchung hinsichtlich der Fragest
 
 Geltungsbereich: Kliniken für Kardiologie, Angiologie und Intensivmedizin; Klinik für Herz-, Thorax- und Gefäßchirurgie 
 
-## **6. Größenbestimmungen und Funktionsprüfungen der Herzhöhle** 
+# **6. Größenbestimmungen und Funktionsprüfungen der Herzhöhle**
 
-## **6.1 Linker Ventrikel** 
+## **6.1 Linker Ventrikel**
 
-## **6.1.1 Parameter für Größe, Volumen, Wanddicke und Masse** 
+### **6.1.1 Parameter für Größe, Volumen, Wanddicke und Masse**
 
 - Bestimmung der LV-Größe enddiastolisch und endsystolisch im M-Mode oder 2-D-Echo in der pLAX 
 
@@ -320,7 +320,7 @@ Geltungsbereich: Kliniken für Kardiologie, Angiologie und Intensivmedizin; Klin
 
 ## Normalwerte 
 
-## **6.1.2 Systolische Funktion** 
+### **6.1.2 Systolische Funktion**
 
 - Bestimmung der LVEF mittels Scheibchensummationsmethode nach Simpson biplan im 4-KB und 2-KB (sowie bei klinischem Nutzen/ guter Schallbarkeit multiplan per 3-D-Echo) 
 
@@ -350,7 +350,7 @@ Normalwerte
 
 Normalwerte 
 
-## **6.1.3 Diastolische Funktion** 
+### **6.1.3 Diastolische Funktion**
 
 - zur diastolischen Funktionsprüfung Bestimmung mehrerer unterschiedlicher Parameter notwendig 
 
@@ -388,15 +388,15 @@ Gesonderte Prüfung der diastolischen Funktion und Bestimmung des LV-Füllungsdr
 
 ## **Spezielle Graduierung der diastolischen LV-Funktion nach folgendem Schema** 
 
-## **6.2 Linker Vorhof** 
+## **6.2 Linker Vorhof**
 
-## **6.2.1 Parameter für Größe und Volumen** 
+### **6.2.1 Parameter für Größe und Volumen**
 
 - LA-Größenbestimmung AP im M-Mode oder 2-D-Echo in LAX als Einzelmessung wenig zuverlässig, auch Flächenberechnung im 4-KB und 2-KB nicht ausreichend 
 
 - Volumenbestimmung notwendig biplan nach Simpson im 4-KB und 2-KB und auf Körperoberfläche bezogen (LAVI biplan) 
 
-## **6.2.2 Funktion – LA-Strain** 
+### **6.2.2 Funktion – LA-Strain**
 
    - LA-Funktions-Analyse mittels Strain durch Bestimmung von: 
 
@@ -422,9 +422,9 @@ Normalwerte
 
 Aus [2] 
 
-## **6.3 Rechter Ventrikel** 
+## **6.3 Rechter Ventrikel**
 
-## **6.3.1 Parameter für Größe, Volumen und Wanddicke** 
+### **6.3.1 Parameter für Größe, Volumen und Wanddicke**
 
 - bei jeder Untersuchung mindestens eine RV-Größe angeben 
 
@@ -446,7 +446,7 @@ Aus [2]
 
 Normalwerte für Größe 
 
-## **6.3.2 Funktion – TAPSE, RV S´, FAC, EF im 3-D-Echo** 
+### **6.3.2 Funktion – TAPSE, RV S´, FAC, EF im 3-D-Echo**
 
 - TAPSE oder S` (TVI) – longitudinaler Funktionsparameter 
 
@@ -464,7 +464,7 @@ Normalwerte für Funktion
 
 Geltungsbereich: Kliniken für Kardiologie, Angiologie und Intensivmedizin; Klinik für Herz-, Thorax- und Gefäßchirurgie 
 
-## **6.4 Anlotung der Vena cava inferior zur ZVD (RAP) – Abschätzung** 
+## **6.4 Anlotung der Vena cava inferior zur ZVD (RAP) – Abschätzung**
 
 |**Abschätzung des ZVD**|||||
 |---|---|---|---|---|
@@ -472,11 +472,11 @@ Geltungsbereich: Kliniken für Kardiologie, Angiologie und Intensivmedizin; Klin
 |Weite Vena cava inf.|≤ 21 mm|≤ 21 mm|< 21 mm|> 21 mm|
 |Kollaps der VCI|> 50 %|< 50 %|> 50 %|< 50 %|
 
-## **6.5. Anlotung der Lebervenen** 
+## **6.5. Anlotung der Lebervenen**
 
 Bei spezifischer Fragestellung, z.B. Graduierung der Trikuspidalklappeninsuffizienz 
 
-## **6.6 Anlotung der Aortenwurzel und der Aorta** 
+## **6.6 Anlotung der Aortenwurzel und der Aorta**
 
 - 1 Annulus (Messung mittsystolisch, inner edge to inner edge) 
 
@@ -486,7 +486,7 @@ Bei spezifischer Fragestellung, z.B. Graduierung der Trikuspidalklappeninsuffizi
 
 - 4 Aorta ascendens (Messung enddiastolisch, leading edge to leading edge) 
 
-## **6.7 Anlotung der Pulmonalvenen** 
+## **6.7 Anlotung der Pulmonalvenen**
 
 Pulmonalvenen-Einstromprofil: Darstellung und Interpretation des Profils bei speziellen Fragestellungen z.B. zur Abschätzung des LAP bei diastolischer Funktionsprüfung, bei Graduierung der Mitralklappeninsuffizienz Bestimmung von 
 
@@ -502,7 +502,7 @@ PVa: Pulmonalvenenfluss bei Vorhofkontraktion
 
 Geltungsbereich: Kliniken für Kardiologie, Angiologie und Intensivmedizin; Klinik für Herz-, Thorax- und Gefäßchirurgie 
 
-## **6.8 Anlotung der Pulmonalarterie** 
+## **6.8 Anlotung der Pulmonalarterie**
 
 Durchmesser der Pulmonalarterien 
 
@@ -512,7 +512,7 @@ Durchmesser der Pulmonalarterien
 
 - c proximale li. Pulmonalarterie: 2,1 cm ± 0,4 cm 
 
-## **7. Notwendige Mess-Parameter** 
+# **7. Notwendige Mess-Parameter**
 
 ## **Linker Ventrikel** 
 
@@ -586,9 +586,9 @@ Diameter (maximale Weite 1cm ab RA) (mm) Atemvariabilität (%)
 
 ZVD-Abschätzung (mmHg) 
 
-## **8. Dokumentation und Befundung** 
+# **8. Dokumentation und Befundung**
 
-## **8.1 Dokumentation, Befunderstellung und Archivierung** 
+## **8.1 Dokumentation, Befunderstellung und Archivierung**
 
 ## Monitorbild 
 
@@ -628,7 +628,7 @@ Anforderungen an eine EDV-Befundsoftware auf Basis des Datensatzes
 
 **Transthorakale Echokardiographie** Geltungsbereich: Kliniken für Kardiologie, Angiologie und Intensivmedizin; Klinik für Herz-, Thorax- und Gefäßchirurgie 
 
-## **8.2 Notwendige Informationen im Befund einer transthorakalen Echokardiographie** 
+## **8.2 Notwendige Informationen im Befund einer transthorakalen Echokardiographie**
 
 |Name des Untersuchers
 Name der Institution
@@ -659,7 +659,7 @@ Medikamentenapplikationen
 ˗u.a. Sedativa, Analgetika,
 Antiallergika||
 
-## **9. Archivierung** 
+# **9. Archivierung**
 
 - digitale Archivierung der kompletten Untersuchung Grundvoraussetzung 
 
@@ -669,7 +669,7 @@ Antiallergika||
 
 - nach der Berufsmusterverordnung Pflicht zur Archivierung der Bilddaten und der Befunde für 10 Jahre 
 
-## **10. Literatur** 
+# **10. Literatur**
 
 1. Hagendorff, A et al. Manual zur Indikation und Durchführung der Echokardiographie – Update 2020 der Deutschen Gesellschaft für Kardiologie. Kardiologe 2020;14:396–431. https://link.springer.com/article/10.1007/s12181-020-00402-3. 
 

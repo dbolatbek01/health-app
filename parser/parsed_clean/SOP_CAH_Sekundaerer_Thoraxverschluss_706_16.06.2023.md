@@ -7,19 +7,13 @@ Sekundärer Thoraxverschluss
 
 Klinik für Chirurgie angeborener Herzfehler – Kinderherzchirurgie 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Ziel ................................................................................................................................................... 3|
 |---|---|
-|2.|Indikation und OP-Management ...................................................................................................... 3|
-|3.|Erforderliche Materialien .................................................................................................................. 3|
-|4.|Operationsverlauf ............................................................................................................................ 4|
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Die vorliegende SOP definiert für den sekundären Thoraxverschluss Ablauf und Struktur sowie die Aufgaben aller beteiligten Mitarbeiter:innen. 
 
-## **2. Indikation und OP-Management** 
+# **2. Indikation und OP-Management**
 
 Zuerst wird die Indikation zum sekundären Thoraxverschluss von der Klinik für Chirurgie Angeborener Herzfehler – Kinderherzchirurgie (CAH) und von der Klinik für Angeborene Herzfehler – Kinderkardiologie (AHF) gemeinsam gestellt. Anschließend sind der Ort (Kinder-Intensivpflegestation oder OP) und der gewünschte Zeitpunkt des Verschlusses zu beschließen. Die Abteilung CAH bespricht mit dem OP-Management (DECT 2710) oder dem chirurgischen Hausdienst (DECT 2330) den weiteren Ablauf. 
 
@@ -37,7 +31,7 @@ Rückkopplung und Information der folgenden Abteilungen:
 
 Bei Organisation durch den CAH-Arztdienst in Rücksprache mit dem chirurgischen Hausdienst: Information aller oben genannten Fachdisziplinen durch den CAH-Arztdienst. 
 
-## **3. Erforderliche Materialien** 
+# **3. Erforderliche Materialien**
 
 - Kinder-Notfallsieb 
 
@@ -71,7 +65,7 @@ bis 15 kg Sternum 3er Draht, ggf. Xyphoid Vicryl 0 CT-1, Faszie/Subkutan Vicryl 
 
 - ab 30 kg Sternum 5er Draht, ggf. Xyphoid Vicryl 0 CT-1, Faszie/Subkutan Vicryl 2/0 SH oder Vicryl 0 CT-1, Hautnaht Monocryl 4/0 CPS-2 oder Ethilon FS-2 
 
-## **4. Operationsverlauf** 
+# **4. Operationsverlauf**
 
 - Lagerung Patient:in durch Operateur:in, Assistent:in 
 

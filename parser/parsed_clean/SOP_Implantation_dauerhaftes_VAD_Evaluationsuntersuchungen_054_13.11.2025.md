@@ -4,7 +4,7 @@ Geltungsbereich: Klinik HTG, VAD-Team
 
 Änderungen zur Vorversion sind gelb markiert. 
 
-## **1. Leitliniengerechte Indikationsstellung** 
+# **1. Leitliniengerechte Indikationsstellung**
 
 Die Vorstellung der Patienten von extern erfolgt in der Regel bei stabilem Befinden über die Prä-AssistSprechstunde oder die Herzinsuffizienz-Sprechstunde der kardiologischen Ambulanz. Über stationäre Übernahmen wird nach oberärztlicher Rücksprache entschieden. 
 
@@ -16,7 +16,7 @@ Saeed D et al. The 2023 International Society for Heart and Lung Transplantation
 
 Potapov E et al. 2019 EACTS Expert Consensus on long-term mechanical circulatory support. Doi 10.1093/ejcts/ezz098 
 
-## **1.1 Indikation für eine LVAD-Implantation** 
+## **1.1 Indikation für eine LVAD-Implantation**
 
 ## **Patienten, die für die Implantation eines LVAD infrage kommen** 
 
@@ -36,7 +36,7 @@ a Stabiler psychosozialer Hintergrund, d.h. nachweisliches Verständnis der Tech
 
 Nach ESC Pocket Guidelines. Akute und chronische Herzinsuffizienz, Version 2021. (Tab. 5) 
 
-## **1.2 Kontraindikation für eine VAD-Implantation** 
+## **1.2 Kontraindikation für eine VAD-Implantation**
 
 Maligne Erkrankung oder andere chronische Erkrankungen mit einer Lebenserwartung < 1 Jahr: 
 
@@ -54,11 +54,11 @@ Maligne Erkrankung oder andere chronische Erkrankungen mit einer Lebenserwartung
 
 **SOP Implantation eines dauerhaften Herzunterstützungssystems (VAD) geplant: Evaluationsuntersuchungen** 
 
-## **1.3 Indikation für eine BVAD- oder TAH-Implantation** 
+## **1.3 Indikation für eine BVAD- oder TAH-Implantation**
 
 Bei Patienten mit einer chronischen biventrikulären Herzinsuffizienz oder bei Patienten mit einer restriktiven/hypertrophen Kardiomyopathie sollte die Indikation für die Implantation eines BVAD oder eines TAH überprüft werden. Die unter 1.1 und 1.2 genannten Kontraindikationen gelten auch hier. 
 
-## **2. Evaluationsdiagnostik bei Erstvorstellung** 
+# **2. Evaluationsdiagnostik bei Erstvorstellung**
 
 |**2.**
 **Evaluationsdiagnostik bei**|**Erstvorstellung**|
@@ -104,7 +104,7 @@ Die in der Transplantations-/Herzinsuffizienzkonferenz und im MCS-Board getroffe
 
 **SOP Implantation eines dauerhaften Herzunterstützungssystems (VAD) geplant: Evaluationsuntersuchungen** 
 
-## **2.1 Erweiterte Evaluationsdiagnostik bei stabilen Patienten (INTERMACS Level 4 und 5)** 
+## **2.1 Erweiterte Evaluationsdiagnostik bei stabilen Patienten (INTERMACS Level 4 und 5)**
 
 |**Spezielle Laboruntersuchungen**|Blutgruppe, Hepatitis A-, B-, C,
 Beta-HCG, PSA, Alpha-Fetoprotein, Urinstix
@@ -136,7 +136,7 @@ durchzuführen|
 
 Bei einer Änderung der Schwere des Krankheitsbilds erfolgt eine umgehende Reevaluation des Patienten. Diesbezüglich wird auch auf die SOP051 Therapie mit inotropen und vasoaktiven Substanzen auf den peripheren Stationen verwiesen. 
 
-## **2.2 Evaluationsdiagnostik bei instabilen Patienten (INTERMACS Level 1 bis 3)** 
+## **2.2 Evaluationsdiagnostik bei instabilen Patienten (INTERMACS Level 1 bis 3)**
 
 Bei Katecholamin- oder Impella-pflichtigen Patienten müssen die Evaluationsuntersuchungen oberärztlich abgesprochen und in Abhängigkeit des klinischen Zustands angepasst werden. Unabdingbar sind jedoch neben der o.g. kardialen Diagnostik eine Computertomographie von Kopf, Thorax und Abdomen, eine Gastroskopie, die laborchemische urologische Diagnostik sowie eine psychosomatische Evaluation des Patienten oder seiner Angehörigen bzw. seiner Betreuungsperson. 
 

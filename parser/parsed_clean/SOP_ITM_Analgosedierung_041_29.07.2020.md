@@ -13,28 +13,9 @@ Organisationseinheiten IPS, PACU, Anästhesie
 
 Sedierungsschema 
 
-Änderungshistorie
-Version  gültig ab  Verfasser  Freigabe  Änderungsgrund  Wiedervorlage
 Brecht, S.
-**----- End of picture text -----**
 
-
-## **Inhaltsverzeichnis** 
-
-|Mitgeltende Unterlagen ................................................................................................................................ 3|Mitgeltende Unterlagen ................................................................................................................................ 3|
 |---|---|
-|1.|Grundlagen ...................................................................................................................................... 3|
-|1.1|Ziel ................................................................................................................................................... 3|
-|1.2|Dokumentation und Visite ................................................................................................................ 3|
-|2.|Patientenpfade Analgosedierung .................................................................................................... 4|
-|2.1|Fast-Track-Operation: Anästhesie ................................................................................................... 4|
-|2.2|Konventionelle Operation: Anästhesie ............................................................................................ 4|
-|2.3|Ausgedehnte Eingriffe: fortgesetzter Bedarf von Analgosedierung und invasiver Beatmung ......... 5|
-|2.3.1|Leichte Sedierung (RASS -1 bis -2) ................................................................................................ 5|
-|2.3.2|Tiefe Sedierung (RASS < -2) ........................................................................................................... 5|
-|3.|Sedierungsweaning ......................................................................................................................... 6|
-|4.|Tag-Nacht-Rhythmus ....................................................................................................................... 6|
-|5.|Inkrafttreten ...................................................................................................................................... 6|
 
 Aus Gründen der besseren Lesbarkeit wird die männliche Schreibform verwendet. Es werden jedoch alle Geschlechter gleichermaßen angesprochen. 
 
@@ -42,15 +23,15 @@ Aus Gründen der besseren Lesbarkeit wird die männliche Schreibform verwendet. 
 
 SOP042 Delir SOP500 Postoperative Akut-Schmerztherapie erwachsener Patienten 
 
-## **1. Grundlagen** 
+# **1. Grundlagen**
 
-## **1.1 Ziel** 
+## **1.1 Ziel**
 
 Der intensivmedizinisch behandelte Patient soll wach, aufmerksam, schmerz-, angst- und delirfrei sein, um an seiner Behandlung und Genesung aktiv teilnehmen zu können. 
 
 Diese SOP regelt zusammen mit der SOP042 Delir und der SOP500 Postoperative AkutSchmerztherapie erwachsener Patienten das adäquate patientenspezifische Sedierungs-, Delir- und Schmerzmanagement unter Berücksichtigung der jeweiligen, gegenseitigen Beeinflussung. Als wesentlicher Punkt gilt dabei die Vermeidung von Übersedierung und Delir, da diese nachweisbar eine Verlängerung des Intensiv- und Krankenhausaufenthaltes nach sich ziehen und den gesamten Heilungsverlauf negativ beeinflussen. 
 
-## **1.2 Dokumentation und Visite** 
+## **1.2 Dokumentation und Visite**
 
 Bei jeder Aufnahme sowie bei jeder Visite werden das Sedierungsziel, die Indikation sowie die dafür genutzten pharmakologischen Substanzen festgelegt (s. Punkt 2.) und anhand eines Sollwerts der Richmond Agitation and Sedation Scale (RASS) im m.life-Verlauf dokumentiert. In der Regel entspricht dies einem Wert von RASS 0 bis -1. 
 
@@ -66,7 +47,7 @@ Es gelten dafür die Prinzipien der SOP500 Postoperative Akut-Schmerztherapie er
 
 Die Dokumentation erfolgt einmal pro Schicht sowie vor und nach jeder Änderung der Schmerztherapie bzw. Bolusgabe durch die zuständige Pflegekraft. Der zuständige Arzt ordnet die Schmerztherapie einschließlich einer Bedarfsmedikation an. 
 
-## **2. Patientenpfade Analgosedierung** 
+# **2. Patientenpfade Analgosedierung**
 
 Aufgrund des unterschiedlichen Spektrums an Komorbiditäten, möglichen prozedurspezifischen Komplikationen und der zu erwartenden Dauer von Analgosedierung und invasiver Beatmung werden folgende Patientenpfade unterschieden: 
 
@@ -76,7 +57,7 @@ Aufgrund des unterschiedlichen Spektrums an Komorbiditäten, möglichen prozedur
 
 - **Ausgedehnte Eingriffe: fortgesetzter Bedarf von Analgosedierung und invasiver Beatmung** 
 
-## **2.1 Fast-Track-Operation: Anästhesie** 
+## **2.1 Fast-Track-Operation: Anästhesie**
 
 Patienten, die im Fast-Track-Konzept behandelt werden, sollen unter fortgesetzter Narkose (d. h. mit laufenden Propofol- und Remifentanil-Perfusoren) in die weiterbehandelnde Einheit (PACU/IPS) verlegt werden. Es erfolgen **keine Bolusgaben von Remifentanil** . 
 
@@ -86,7 +67,7 @@ Aufgrund des häufig sehr abrupten Erwachens ist es notwendig, dass sich eine Pf
 
 Die weitere Schmerztherapie erfolgt nach SOP500 Akut-Schmerztherapie. 
 
-## **2.2 Konventionelle Operation: Anästhesie** 
+## **2.2 Konventionelle Operation: Anästhesie**
 
 Patienten, die intraoperativ konventionell behandelt wurden, sollen unter fortgesetzter Narkose (d. h. mit Propofol- und Sufentanil-(0,5 mg/50 ml)-Perfusoren) in die weiterbehandelnde Einheit (AWR/IPS) verlegt werden. 
 
@@ -98,7 +79,7 @@ Sobald die entsprechenden Kriterien erreicht sind, wird die gegebenenfalls noch 
 
 Die weitere Schmerztherapie erfolgt nach SOP500 Akut-Schmerztherapie. 
 
-## **2.3 Ausgedehnte Eingriffe: fortgesetzter Bedarf von Analgosedierung und invasiver Beatmung** 
+## **2.3 Ausgedehnte Eingriffe: fortgesetzter Bedarf von Analgosedierung und invasiver Beatmung**
 
 Ist nach Ende der Operation eine fortgesetzte Analgosedierung notwendig, wird der Patient unter fortgesetzter Narkose (d. h. mit Propofol- und Sufentanil-Perfusoren) in die weiterbehandelnde Einheit (AWR/IPS) verlegt. 
 
@@ -112,7 +93,7 @@ Typische Indikationen sind u.a. „offener Thorax“/zentrale ECMO, schwere Oxyg
 
 Die Titrierung der Sedativa und Analgetika bis zur gewünschten Sedierungstiefe erfolgt eigenständig durch die verantwortliche Pflegekraft in enger Rückkopplung mit dem verantwortlichen Arzt. 
 
-## **2.3.1 Leichte Sedierung (RASS -1 bis -2)** 
+### **2.3.1 Leichte Sedierung (RASS -1 bis -2)**
 
 Ist eine leichte Sedierung notwendig, wird die Sufentanilgabe mit einer Dosierung von 1 µg/kg/h fortgesetzt und die Propofolgabe beendet. Sollte der Patient keine zeitgerechte (< 120 min.) Aufwachreaktion zeigen, wird die Sufentanildosierung auf 0,5 µg/kg/h reduziert und ggf. im weiteren Verlauf pausiert und ab Erreichen des Ziel-RASS erneut gestartet und im Verlauf dem Bedarf angepasst (i.d.R. 0,25  - 1 µg/kg/h). 
 
@@ -126,7 +107,7 @@ Symptomorientiert kann die Gabe von weiteren Medikamenten notwendig sein:
 
 - **fehlende Adaptation an invasive Beatmung:** als Ultima Ratio nach Optimierung der Ventilatoreinstellungen (frühzeitige Reduktion von PEEP bei suffizienter Oxygenierung und frühzeitige Umstellung auf assistierte Spontanatmung) **Propofol** 1–2 (max. 4) mg/kg/h 
 
-## **2.3.2 Tiefe Sedierung (RASS < -2)** 
+### **2.3.2 Tiefe Sedierung (RASS < -2)**
 
 Ist eine tiefe Sedierung unumgänglich erfolgt zusätzlich zur Sufentanilgabe (1 µg/kg/h) eine bedarfsadaptierte Gabe von Sedativa: 
 
@@ -142,7 +123,7 @@ Die Indikation zur tiefen Sedierung soll einmal pro Schicht reevaluiert und ggf.
 
 Alle Patienten mit kontinuierlicher i.v.-Gabe eines Opioids erhalten eine **Obstipationsprophylaxe** . 
 
-## **3. Sedierungsweaning** 
+# **3. Sedierungsweaning**
 
 Das Sedierungsweaning im Rahmen des Fast-Track-Konzepts und nach konventioneller Operation ohne längeren Sedierungsbedarf ist unter Punkt 2.1 und 2.2 beschrieben. 
 
@@ -150,7 +131,7 @@ Im Rahmen einer länger andauernden Sedierung wird nach Wegfall der Sedierungsin
 
 Die Gabe eines Sedativums (Propofol oder Midazolam) wird beendet. Dabei muss insbesondere nach längerer Gabe von Midazolam auf eine Entzugssymptomatik (u. a. Unruhe, Angst/Panik, Delir, Krampfanfälle) geachtet werden. Ggf. sollte frühzeitig die Gabe von Dexmedetomidin zur Therapie einer vegetativen Symptomatik erfolgen (Dosierung s.o.). Ein u. U. auftretendes Delir wird entsprechend der SOP Delir behandelt. Ist darunter keine ausreichende Symptomkontrolle eines Benzodiazepin-Entzuges erreichbar, kann die erneute Gabe von Midazolam in geringer Dosis (z. B. die Hälfte der vorangegangenen Dosis) notwendig sein. Die Gabe sollte im Anschluss symptomadaptiert täglich reduziert werden. 
 
-## **4. Tag-Nacht-Rhythmus** 
+# **4. Tag-Nacht-Rhythmus**
 
 Die Erhaltung bzw. Wiederherstellung eines normalen Tag-Nacht-Rhythmus ist von entscheidender Bedeutung für den Genesungsprozess und trägt in erheblichem Maß zur Delir-Prophylaxe bei. Nicht medikamentöse Therapien haben dabei die größte Bedeutung (s. SOP042 Delir). 
 
@@ -166,7 +147,7 @@ Bisher gibt es keine ausreichende Evidenz, dass medikamentös ein physiologische
 
    - Alternative: 12,5–25 mg Melperon p. o./p. S. (Cave: QT-Zeit-Verlängerung) 
 
-## **5. Inkrafttreten** 
+# **5. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

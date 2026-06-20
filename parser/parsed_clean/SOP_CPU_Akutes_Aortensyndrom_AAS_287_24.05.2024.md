@@ -12,29 +12,17 @@ Zentrale Notaufnahmen der Charité CCM und CVK
 
 Deutsches Herzzentrum der Charité: Chest Pain Unit 
 
-## **Inhaltsverzeichnis** 
+2.0  01.04.2024  01.04.2027
 
-|1.|Ziel ................................................................................................................................................... 3|
 |---|---|
-|2.|Hintergrund ...................................................................................................................................... 3|
-|2.1|Zuweisungen in die Charité ............................................................................................................. 3|
-|2.2|Klinik ................................................................................................................................................ 3|
-|2.3|Prähospitale Strategie ..................................................................................................................... 4|
-|3.|Vorgehen ......................................................................................................................................... 4|
-|3.1|Zentrale Notaufnahme CVK Bereich Chirurgie ............................................................................... 4|
-|3.1.1|Alarmierung ..................................................................................................................................... 4|
-|3.1.2|Schockraum ..................................................................................................................................... 4|
-|3.2|Zentrale Notaufnahme CVK, Bereich Innere Medizin (Sonderfall) .................................................. 6|
-|3.3|Zentrale Notaufnahme CCM ............................................................................................................ 6|
-|4.|Literatur ............................................................................................................................................ 7|
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Sicherstellung von Versorgungsprozessen und -standards bei Patienten mit Verdacht auf ein Akutes Aortensyndrom (AAS). 
 
-## **2. Hintergrund** 
+# **2. Hintergrund**
 
-## **2.1 Zuweisungen in die Charité** 
+## **2.1 Zuweisungen in die Charité**
 
 1. Durch Rettungsdienst, 
 
@@ -42,7 +30,7 @@ Sicherstellung von Versorgungsprozessen und -standards bei Patienten mit Verdach
 
 Der Verdacht auf das Vorliegen eines AAS wird im Rettungsdienst nach SOP der Berliner Feuerwehr auf dem Boden klinischer Symptome geäußert und der Patient entsprechend des Risikoprofils disponiert[1] . 
 
-## **2.2 Präklinische Einschätzung bzw. Symptome, die auf ein AAS hinweisen können** 
+## **2.2 Präklinische Einschätzung bzw. Symptome, die auf ein AAS hinweisen können**
 
 - Plötzlich einsetzender Brust-/Rückenschmerz, 
 
@@ -62,7 +50,7 @@ Screenshot aus: Medizinische Handlungsanweisungen Berliner Notfallrettung, 6. ak
 
 > 1 SOP-Handbuch 2024: Medizinische Handlungsanweisungen Berliner Notfallrettung, 6.Akt. Aufl. 2024, S. 60-1. https://www.berliner-feuerwehr.de/service/mediathek/fachthemen/ 
 
-## **2.3 Prähospitale Strategie** 
+## **2.3 Prähospitale Strategie**
 
 Die medikamentöse Behandlung beinhaltet die O2-Gabe (Ziel SpO2 > 94 %), Schmerztherapie (ggfs. Morphin), 
 
@@ -76,11 +64,11 @@ Für Gabe von Antifibrinolytika besteht keine Evidenzgradempfehlung.
 
 - Voranmeldung nach Standard über Notfallhotline der ZNA am CVK, Fachbereich Chirurgie (030-45060 000 – Stichwort Aortenalarm). 
 
-## **3. Vorgehen** 
+# **3. Vorgehen**
 
-## **3.1 Zentrale Notaufnahme CVK Fachbereich Chirurgie** 
+## **3.1 Zentrale Notaufnahme CVK Fachbereich Chirurgie**
 
-## **3.1.1 Alarmierung** 
+### **3.1.1 Alarmierung**
 
 - **Ankündigung** via 030-450-600 00 (Notfallhotline ZNA CVK Fachbereich Chirurgie). (Bei Ankündigung via 030-450-600 01 (Notfallhotline ZNA CVK Fachbereich Innere Medizin) erfolgt der Hinweis zum Anfahren des Bereiches Chirurgie und eine entsprechende interne Info an die 030450-600 00). 
 
@@ -112,7 +100,7 @@ Bei traumatischen Aortenverletzungen wird ein Traumaalarm ausgelöst!
 
 OA Herzchirurgie (W2) (wird via Aortentelefon informiert), Neurologie, Radiologie (CT-Assistent oder Bereitschaftsdienst), MTRA, Pflege Trauma OP, IPS Bettenkoordinator Süd, OP Koordination, Rettungsstellen-Dienstarzt ZNA-Süd Bereich Chirurgie. 
 
-## **3.1.2 Schockraum** 
+### **3.1.2 Schockraum**
 
 - Übergabe durch Rettungsdienst 
 
@@ -130,7 +118,7 @@ OA Herzchirurgie (W2) (wird via Aortentelefon informiert), Neurologie, Radiologi
 
 ## **Risiko für AAS (re-)evaluieren nach drei Kategorien** _**(entspricht dem Vorgehen in Präklinik)**_ 
 
-## 1. Anamnese 
+# 1. Anamnese
 
 - Bekanntes Marfan-Syndrom oder andere Erkrankungen des Bindegewebes 
 
@@ -140,7 +128,7 @@ OA Herzchirurgie (W2) (wird via Aortentelefon informiert), Neurologie, Radiologi
 
 - Bekanntes thorakales Aortenaneurysma, Zustand nach Operation an der Aorta oder nach einem herzchirurgischen Eingriff 
 
-## 2. Schmerzsymptomatik 
+# 2. Schmerzsymptomatik
 
 Thorakale abdominelle und/oder Rückenschmerzen mit 
 
@@ -152,7 +140,7 @@ Thorakale abdominelle und/oder Rückenschmerzen mit
 
 - **Cave: Symptomarmes Intervall möglich!** 
 
-## 3. Klinische Zeichen 
+# 3. Klinische Zeichen
 
 - Hinweis auf Perfusionsdefizit: 
 
@@ -168,7 +156,7 @@ Thorakale abdominelle und/oder Rückenschmerzen mit
 
 - Schock/Hypotension 
 
-## 4. Risiko- Score-Berechnung 
+# 4. Risiko- Score-Berechnung
 
 Treffen in einer Risikokategorie (Anamnese, Schmerz, Klinik) ein oder mehr Kriterien zu, so wird der Kategorie ein Risikopunkt zugewiesen. Pro Risikokategorie kann maximal 1 Punkt erreicht werden. Der Score kann somit Werte von 0 bis 3 erreichen. Hohes Risiko für AAS bei insgesamt ≥ 2 Punkten! 
 
@@ -180,7 +168,7 @@ Treffen in einer Risikokategorie (Anamnese, Schmerz, Klinik) ein oder mehr Krite
 
 3. Weitere Ressourcen in Anwesenheit notwendig? 
 
-## 5. Diagnostik nach Schockraumphase 
+# 5. Diagnostik nach Schockraumphase
 
 ## **Niedriges Risiko (0-1 Punkt)** 
 
@@ -214,7 +202,7 @@ Tel.: 97-2710 (AvD Anästhesiologie DHZC)
 
 Die anästhesiologische Versorgung inkl. notwendiger Transporte erfolgen durch Anästhesiologie CC7 bis zur Übergabe an die Kardioanästhesiologie. 
 
-## **3.2 Zentrale Notaufnahme CVK, Bereich Innere Medizin (Sonderfall)** 
+## **3.2 Zentrale Notaufnahme CVK, Bereich Innere Medizin (Sonderfall)**
 
 - Bei Ankündigung via 030-450-60001 (Notfallhotline Bereich Innere ZNA) erfolgt der Hinweis zum Anfahren des Bereichs Chirurgie und eine entsprechende interne Info an die 030-450-60000. 
 
@@ -232,7 +220,7 @@ Die anästhesiologische Versorgung inkl. notwendiger Transporte erfolgen durch A
 
 Aortentelefon 97-2007 und ggf. der Gefäßchirurgie 552 779/775. 
 
-## **3.3 Zentrale Notaufnahme CCM** 
+## **3.3 Zentrale Notaufnahme CCM**
 
 Sollte eine Ankündigung eines Verdachts auf Aortendissektion via NEF-Telefon erfolgen, muss die Information an den Notarzt erfolgen, dass der Patient bevorzugt ins CVK, Bereich Chirurgie transportiert werden sollte und er dort unter 450 60000 vorangemeldet werden muss! 
 
@@ -258,7 +246,7 @@ CT- Bildgebung
 
 - Ausschluss AAS: Procedere durch OAvD Innere Medizin. 
 
-## **4. Literatur** 
+# **4. Literatur**
 
 1. 2022 ACC/AHA guideline for the diagnosis and management of aortic disease: A report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines. Circulation. 2022 Dec 13;146(24):e334-e482. DOI: 10.1016/j.jacc.2022.08.004 
 

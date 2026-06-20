@@ -7,5 +7,5 @@ Flussauffälligkeiten und Systemthrombose HeartMate 3: Detektion und Behandlung 
 
 Klinik für Herz-, Thorax- und Gefäßchirurgie: Arztdienst VAD-Team 
 
-## **1. Algorithmus Flussauffälligkeiten bei Patienten mit HeartMate 3** 
+# **1. Algorithmus Flussauffälligkeiten bei Patienten mit HeartMate 3**
 

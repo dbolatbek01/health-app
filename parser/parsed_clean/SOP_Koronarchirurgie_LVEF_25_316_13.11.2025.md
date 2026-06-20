@@ -3,19 +3,19 @@
 
 Geltungsbereich: AD HTG + CAI 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Regelung zum Vorgehen für Patienten mit koronarer Herzkrankheit (KHK) und linksventrikulärer Ejektionsfraktion (LVEF) ≤ 25 % ohne strukturell hochgradiges Klappenvitium. 
 
 Patienten mit KHK und höchstgradig reduzierter LVEF (definiert als LVEEF ≤ 25 % in der transthorakalen/transösophagealen Echokardiographie (TTE/TEE) oder Herz-Magnetresonanztomographie (KardioMRT)) sind Hochrisikopatienten mit deutlich erhöhter Sterblichkeit auch nach einer Revaskularisation. Diese Patienten bedürfen einer interdisziplinären Besprechung und Entscheidung im Herzinsuffizienz-Team. 
 
-## **2. Geltungsbereich / Zielgruppe** 
+# **2. Geltungsbereich / Zielgruppe**
 
 Standort CVK Augustenburger Platz (AP) und Mittelallee (MA): Alle Mitarbeitende im Arztdienst der Klinik für Herz-, Thorax- und Gefäßchirurgie (HTG) und der Klinik für Kardioanästhesiologie und Intensivmedizin (CAI). 
 
-## **3. Planmäßige Einbestellung** 
+# **3. Planmäßige Einbestellung**
 
-## **3.1 Präoperative Fragestellung** 
+## **3.1 Präoperative Fragestellung**
 
 Für eine qualifizierte Entscheidung sollten bei planmäßig einbestellten Patienten, die nicht katecholaminpflichtig sind, folgende Fragen IMMER präoperativ geklärt werden: 
 
@@ -29,7 +29,7 @@ Für eine qualifizierte Entscheidung sollten bei planmäßig einbestellten Patie
 
 - e) Gibt es weitere operative Risikofaktoren, die präoperativ abgeklärt/optimiert werden müssen (z. B. Anämie)? 
 
-## **3.2 Vorstellung im Herzinsuffizienzboard** 
+## **3.2 Vorstellung im Herzinsuffizienzboard**
 
 Im Herzinsuffizienzboard (HI-Board) vorgestellt werden Patienten mit einer hochsymptomatischen Herzinsuffizienz (NYHA III bis IV), bei denen 
 
@@ -63,7 +63,7 @@ Die Begründung für die Therapiestrategie wird nach der Diskussion im DHZC-HI-T
 
 Verschlechtert sich der planmäßig aufgenommene Patient hämodynamisch oder entwickelt er einen Myokardinfarkt, wird er als Notfall eingestuft und entsprechend Kapitel 4 dieser SOP behandelt. 
 
-## **4. Notfallmäßige Übernahme** 
+# **4. Notfallmäßige Übernahme**
 
 - a) Patienten mit einem Nicht-ST-Hebungsinfarkt (NSTEMI) oder ST-Streckenhebungs-Myokardinfarkt (STEMI) UND mit stabiler Hämodynamik ohne Zeichen eines kardiogenen Schocks (SCAI-Klassifikation Stufe A) sollten schnellstmöglich, primär interventionell, revaskularisiert werden. Bei Unklarheiten über die Art der Revaskularisation (PCI vs. ACBP) entscheiden der diensthabende Chirurg und der interventionell diensthabende Kardiologe im Konsensus. 
 
@@ -73,7 +73,7 @@ Verschlechtert sich der planmäßig aufgenommene Patient hämodynamisch oder ent
 
 - d) Patienten im kardiogenen Schock ohne Zeichen eines Myokardinfarkts werden entsprechend der SOP234 „Kurzzeit-MCS kardiogener Schock“ versorgt. 
 
-## **6. Mitgeltende Dokumente** 
+# **6. Mitgeltende Dokumente**
 
 SOP234 Schwerer kardiogener Schock: Therapie mit kurzzeitiger mechanischer Kreislaufunterstützung (Kurzzeit-MCS) 
 

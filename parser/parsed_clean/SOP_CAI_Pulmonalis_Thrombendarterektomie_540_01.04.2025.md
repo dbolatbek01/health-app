@@ -5,34 +5,13 @@ CAI Pulmonalis-Thrombendarterektomie
 
 **Version Freigabe Erstellung Prüfung Freigabe Wiedervorlage** 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Einleitung ......................................................................................................................................... 3|
 |---|---|
-|1.1|Definition .......................................................................................................................................... 3|
-|1.2|Relevante Parameter ....................................................................................................................... 3|
-|1.3|Indexierte Parameter ....................................................................................................................... 3|
-|2.|Patientenvorbereitung, Prämedikation ............................................................................................ 4|
-|3.|Monitoring und anästhesiologisches Regime .................................................................................. 4|
-|3.1|Monitoringstandard .......................................................................................................................... 4|
-|3.2|Atemweg .......................................................................................................................................... 5|
-|3.3|Tranexamsäure ................................................................................................................................ 5|
-|3.4|Methylprednisolon ............................................................................................................................ 5|
-|4.|TEE .................................................................................................................................................. 5|
-|5.|Operationsverlauf, Kreislaufstillstand (DHCA)................................................................................. 6|
-|5.1|Antikoagulation ................................................................................................................................ 6|
-|5.2|CPB und DHCA ............................................................................................................................... 6|
-|5.3|Reperfusion ..................................................................................................................................... 7|
-|5.4|Checkliste vor DHCA ....................................................................................................................... 7|
-|6.|Weaning von EKZ, hämodynamisches und Komplikationsmanagement ........................................ 7|
-|7.|Gerinnungstherapie ......................................................................................................................... 8|
-|8.|Mitgeltende Dokumente ................................................................................................................... 8|
 
 Änderungen zu Version 2.0 sind gelb markiert. 
 
-## **1. Einleitung** 
+# **1. Einleitung**
 
-## **1.1 Definition** 
+## **1.1 Definition**
 
 Pulmonale Hypertonie ist laut aktuellen Guidelines global definiert als ein mittlerer pulmonalarterieller Druck > 20 mmHg in Ruhe. Bei einem nicht isoliert postkapillären Geschehen muss zudem ein pulmonalvaskulärer Widerstand (PVR) von > 2 Woods units (WU) nachgewiesen werden. 
 
@@ -42,11 +21,11 @@ Die pulmonale (Thromb)endarterektomie, kurz Pulmonalis-(T)EA, ist die effektivst
 
 Um hierfür ein optimales und vor allem blutleeres Operationsfeld zu erzielen, wird insbesondere bei peripheren Resektionstiefen (Subsegmentebene) aufgrund der an HLM nicht unterbrochenen bronchialen Zirkulation ein totaler Kreislaufstillstand in tiefer Hypothermie (DHCA) initiiert. Da sich zudem bei einigen CTEPH-Patienten signifikante bronchopulmonale Kollateralen zur Perfusion der embolisierten Gefäßgebiete ausgebildet haben, kann regelhaft nur in komplettem Kreislaufstillstand ein adäquater Situs mit ausreichender Visualisierung generiert werden. Eine selektive Kopfperfusion ist bei dieser Operation aufgrund der angestrebten Blutleere nicht vorgesehen. 
 
-## **1.2 Relevante Parameter** 
+## **1.2 Relevante Parameter**
 
 > [𝑷][ [mmHg]] 𝑷 𝑷𝑷 [WU] =[𝒎𝒎𝑷𝑷𝒎𝒎𝑷𝑷 [mmHg] −𝑷] 𝑷𝑷𝑪𝑪 [l/min] 𝑷 𝑷𝑷 [WU] ∗79,9 = 𝑷 𝑷𝑷 [dyn ∗s ∗cm[−5] ] 
 
-## **1.3 Indexierte Parameter** 
+## **1.3 Indexierte Parameter**
 
 𝑷 𝑷 = 1 [WU ∗m[2] ] = 79,9 [dyn ∗s ∗cm[−5] ∗m[2] ] 
 
@@ -54,7 +33,7 @@ Um hierfür ein optimales und vor allem blutleeres Operationsfeld zu erzielen, w
 
 > 1 Bonderman D et al. Risk factors for chronic thromboembolic pulmonary hypertension. Eur Respir J 2009;33:325–31 2 Madani MM et al. Pulmonary Endarterectomy for Chronic Thromboembolic Disease. Card Surg 2006;11(4):264-74 3 Kwan WC et al. Pulmonary vascular resistance index: Getting the units right and why it matters. Clin Cardiol 2019;42:334-8 
 
-## **2. Patientenvorbereitung, Prämedikation** 
+# **2. Patientenvorbereitung, Prämedikation**
 
 CTEPH ist eine Erkrankung, die z. T. auf einer transienten oder permanenten Hyperkoagulabilität bei den betroffenen Patienten basiert. Erworbene oder angeborene Thrombophilien sollten im Rahmen der präoperativen Visiten gezielt abgefragt werden. 
 
@@ -62,11 +41,11 @@ Die Patienten werden nach Abteilungsstandard aufgeklärt (SOP520 Anästhesieaufk
 
 Häufig nehmen die Patienten Medikamente ein, welche den pulmonalarteriellen Druck senken sollen. Ein hierfür erst seit kürzerer Zeit zugelassenes und oft in der Indikation verschriebenes Präparat ist Riociguat (Adempas®), dessen Wirkmechanismus die direkte NO-unabhängige Stimulation der löslichen Guanylatzyklase ist. Die blutdrucksenkende Wirkung von Nitraten kann bei Patienten, die Riociguat einnehmen potenziert werden. Einige der wesentlichen Nebenwirkungen sind häufig Hämoptoe, Epistaxis und gelegentlich Lungenblutung. 
 
-## **3. Monitoring und anästhesiologisches Regime** 
+# **3. Monitoring und anästhesiologisches Regime**
 
 Die SOP534 CAI Standardnarkose bei HLM gilt grundlegend auch bei Pulmonalis-(T)EA. Abweichende Maßnahmen und Instrumentierungen werden hier dargestellt. 
 
-## **3.1 Monitoringstandard** 
+## **3.1 Monitoringstandard**
 
 - 5-Kanal-EKG 
 
@@ -112,19 +91,19 @@ Die nasopharyngeale Temperaturmessung sollte vor Heparinisierung platziert werde
 
 Das EEG-Monitoring ist für den Nachweis auf Isoelektrizität vor komplettem Kreislaufstillstand essentiell, bei Anlage der Elektroden sollte daher akribisch auf eine saubere Ableitung geachtet werden. Das Miterfassen von Haar unter einer Elektrode kann ein sauberes Monitoring bereits kompromittieren. 
 
-## **3.2 Atemweg** 
+## **3.2 Atemweg**
 
 Die Atemwegssicherung erfolgt mit einem Endotrachealtubus mit möglichst großzügigem Innendurchmesser (z. B. 7,5-8,0 ID bei ♀ respektive 8,0-9,0 ID bei ♂), adaptiert an die individuelle anatomische Situation. 
 
-## **3.3 Tranexamsäure** 
+## **3.3 Tranexamsäure**
 
 Das Tranexamsäure-Regime gemäß SOP534 CAI Standardnarkose HLM wird bei den potentiell hyperkoagulablen Patienten mit CTEPH modifiziert. Einer der zugrundeliegenden Mechanismen bei CTEPH ist eine Fibrinolysestörung, so dass eine kompetitive Plasminhemmung nicht wünschenswert erscheint. In Tierversuchen konnte die Applikation von Tranexamsäure nach experimentell induzierter Lungenarterienembolie ein CTEPH-ähnliches klinisches Bild hervorrufen[4] . Daher wird auf die Bolusgabe verzichtet und lediglich eine Dauerinfusion von 1 mg/kg/h appliziert. Auf das potentielle Auftreten einer Hyperfibrinolyse sollte bei der ROTEM-Diagnostik nach Wiedererwärmung entsprechend unbedingt geachtet werden. 
 
-## **3.4 Methylprednisolon** 
+## **3.4 Methylprednisolon**
 
 Nach der Einleitung und vor Initiierung der EKZ werden 30 mg/kgKG, aber maximal 2 g Methylprednisolon verabreicht. Die Evidenz für den Einsatz von Steroiden ist nicht eindeutig, allerdings ist dieses Vorgehen in allen high-volume Zentren weiterhin etablierter Standard. Die Applikation sollte allerdings zwingend vor HLM-Beginn erfolgten, da für eine spätere Gabe kein Outcome-Effekt gezeigt werden konnte. 
 
-## **4. TEE** 
+# **4. TEE**
 
 Es gilt die SOP506 CAI Perioperative TEE. Besonderer Augenmerk ist auf die Evaluierung der Rechtsherzfunktion, die Identifizierung etwaiger intrakardialer oder zentraler pulmonalarterieller Thromben und den Ausschluss eines evtl. vorliegenden PFO (erhöhte Inzidenz von ca. 35% bei CTEPHPatienten) zu legen. Begleitende signifikante Klappenvitien sollten ebenfalls ausgeschlossen oder ggf. adressiert werden. 
 
@@ -132,15 +111,15 @@ Häufig ist der rechte Ventrikel bei diesen Patienten erheblich hypertrophiert u
 
 > 4 Moser KM et al. Chronic pulmonary thromboembolism in dogs treated with tranexamic acid. Circulation 1991;83(4):1371-9 
 
-## **5. Operationsverlauf, Kreislaufstillstand (DHCA)** 
+# **5. Operationsverlauf, Kreislaufstillstand (DHCA)**
 
-## **5.1 Antikoagulation** 
+## **5.1 Antikoagulation**
 
 Aufgrund der unterstellt Operationsdauer sollte 
 
 abgesprochen werden. Empfohlen werden 500 IE/kgKG. Der kardiopulmonale Bypass (CPB) wird nicht vor Erreichen der Ziel-ACT von 480“ intiiert. Bei Patienten mit nachgewiesener Thrombophilie, z. B. Antiphospholipidsyndrom (APS) ist darüber hinaus eine Messung des Heparinlevels mittels HepCon® wünschenswert. Angestrebt wird ein Level von mind. 4 IE/ml, bei APS aufgrund der fehlenden Aussagekraft der ACT-Messung sogar um 6 IE/ml. 
 
-## **5.2 CPB und DHCA** 
+## **5.2 CPB und DHCA**
 
 Das Primingvolumen der HLM enthält bei P-(T)EA eine Flasche Humanalbumin 20%. Da es sich hierbei um ein chargendokumentationspflichtiges Medikament handelt, wird die entsprechende Chargennummer dem Anästhesie-Team zur Hinterlegung im PDMS von der mitgeteilt. Vor venöser Kanülierung wird ein eventuell eingeschwemmter PAK auf Vorhofebene zurückgezogen. 
 
@@ -162,13 +141,13 @@ Dreiwegehähne sämtlicher Zugänge (insbesondere der Druckmessleitungen) vor Pu
 
 Laufende Infusionen/Perfusoren werden während DHCA gestoppt, um die Ausbildung von Infusatund/oder Medikamentenpools zu vermeiden. Ggf. kann es erforderlich sein, durch dosiertes Blähen der Lunge (Pmax. per APL-Ventil 20 cmH2O) die Pulmonalisstrombahn zu exsangiunieren. 
 
-## **5.3 Reperfusion** 
+## **5.3 Reperfusion**
 
 Die DHCA-Zyklen sollten nach längstens 20 Minuten unterbrochen und eine Reperfusionsphase von mind. 10-15 min. vor einem erneuten Kreislaufstillstand eingehalten werden. 
 
 Nach Beendigung der PEA auf einer Seite erfolgt vor dem Verschluss eine Wasserprobe, bei der die offene Pulmonalarterie mit Ringerlösung gefüllt wird und ein Valsalva-Manöver mit einem Pmax von 30 cm H2O (per APL-Ventil) durchgeführt wird, um eine mögliche Perforation zu identifizieren. 
 
-## **5.4 Checkliste vor DHCA** 
+## **5.4 Checkliste vor DHCA**
 
 - Zieltemperatur ≤ 18°C erreicht? 
 
@@ -180,7 +159,7 @@ Nach Beendigung der PEA auf einer Seite erfolgt vor dem Verschluss eine Wasserpr
 
 - Druckmessleitungen verschlossen? 
 
-## **6. Weaning von EKZ, hämodynamisches und Komplikationsmanagement** 
+# **6. Weaning von EKZ, hämodynamisches und Komplikationsmanagement**
 
 Im Rahmen der Wiedererwärmung sollte die Perfusattemperatur 37°C und die Differenz von Ein- und Auslasstemperatur[6] , alternativ Einlass- und Bluttemperatur (Swan Ganz), 10°C nicht überschreiten. Im Idealfall werden durch die bei Prozeduren in DHCA sowohl Aus- (Routine) als auch Einlasstemperatur (zusätzliche Messung) abgegriffen. 
 
@@ -216,7 +195,7 @@ Oftmals kann nach Erzielen adäquater Hämostase der Bronchusblocker unter Visua
 
 Ist die Einschränkung von Ventilation und / oder Oxygenierung persistierend sollte in Abhängigkeit von der biventrikulären Funktion ein ECLS erwogen werden. Je nach Konstellation kommen vaECMO, in seltenen Fällen RVAD mit Oxygenator oder vvECMO in Frage. 
 
-## **7. Gerinnungstherapie** 
+# **7. Gerinnungstherapie**
 
 Da, wie bereits angedeutet, Patienten mit CTEPH häufig an einer manifesten oder latenten Hyperkoagulabilität leiden, ist trotz langer Perfusionsdauer und tiefer Hypothermie eine präemptive oder empirische Gerinnungssubstitution kontraindiziert. 
 
@@ -226,7 +205,7 @@ Bereits vor dem Weaning von der extrakorporalen Zirkulation, bei Erreichen einer
 
 Nach Antagonisierung von Heparin erfolgt eine erneute Gerinnungskontrolle mittels ACT, ROTEM (mit EXTEM, FIBTEM, INTEM, HEPTEM und idealerweise APTEM) sowie plasmatischer Gerinnung. Eine sich ergebende Substitutionsindikation wird anhand SOP501 therapiert. 
 
-## **8. Mitgeltende Dokumente** 
+# **8. Mitgeltende Dokumente**
 
 SOP501 CAI Gerinnungsmanagement SOP502 CAI Hämodynamisches Management SOP507 CAI Atemwegsmanagement SOP520 CAI Anästhesieaufklärung und Prämedikation bei Erwachsenen SOP534 CAI Standardnarkose HLM SOP537 CAI Bolusapplikation Stickstoffmonoxid 
 

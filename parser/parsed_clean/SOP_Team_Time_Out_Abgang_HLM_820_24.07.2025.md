@@ -6,17 +6,17 @@ ch: CAI, HTG,
 
 Erweiterung um Kap. 2.2 Anteil Herzchirurgie. 
 
-## **1.** 
+# **1.**
 
 ## **Ziel** 
 
 Zur Vermeidung von kritischen Events beim Abgang von der Herz-Lungen-Maschine (HLM) erfolgt unter Leitung des verantwortlichen Mitarbeitenden der ein Team Time Out vor Beginn der Flussreduktion an der HLM. Die Dokumentation erfolgt im elektronischen HLM-Protokoll. 
 
-## **2. Praktische Durchführung** 
+# **2. Praktische Durchführung**
 
 Die Checkliste ist in die Anteile der verantwortlichen Berufsgruppen strukturiert: 
 
-## **2.1 Anteil** 
+## **2.1 Anteil**
 
 - Temperatur ≥ 36°C 
 
@@ -24,7 +24,7 @@ Die Checkliste ist in die Anteile der verantwortlichen Berufsgruppen strukturier
 
 - Hkt >25 % 
 
-## **2.2 Anteil Herzchirurgie** 
+## **2.2 Anteil Herzchirurgie**
 
 - Schrittmacherdrähte platziert 
 
@@ -34,7 +34,7 @@ Die Checkliste ist in die Anteile der verantwortlichen Berufsgruppen strukturier
 
 - Bei Klappeneingriff erste Begutachtung einer regelrechten Funktion erfolgt (TEE-Begutachtung zusammen mit Kardioanästhesie) 
 
-## **2.3 Anteil Kardioanästhesiologie** 
+## **2.3 Anteil Kardioanästhesiologie**
 
 - Schrittmacher getestet resp. Pacing-Möglichkeit vorhanden 
 

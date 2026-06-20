@@ -9,48 +9,13 @@ Organisationseinheit IPS
 
 **Änderungshistorie Version gültig ab Verfasser Freigabe Änderungsgrund Wiedervorlage** 1.0 12.12.2019 Ersterstellung 01.12.2021 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Zielwerte der Herz-Kreislauf-Therapie ............................................................................................. 3|
 |---|---|
-|1.1|Cardiac Output ................................................................................................................................. 3|
-|1.2|Hämodynamische Zielwerte ............................................................................................................ 3|
-|1.3|Akuter kardiogener Schock ............................................................................................................. 3|
-|2.|Preloadoptimierung / Volumentherapie ........................................................................................... 3|
-|3.|Nachlastoptimierung ........................................................................................................................ 4|
-|3.1|Peripherer Widerstand ..................................................................................................................... 4|
-|3.2|Vasopressor-Therapie ..................................................................................................................... 4|
-|3.3|Vasoplegie ....................................................................................................................................... 4|
-|3.4|Septische Vasoplegie ...................................................................................................................... 5|
-|4.|Linksherzinsuffizienz ........................................................................................................................ 5|
-|4.1|Akuter kardiogener Schock / Postkardiotomie kardiogener Schock (PCCS) .................................. 5|
-|4.2|Differentialtherapie des akuten kardiogenen Schocks gemäß S3-Leitlinie ..................................... 6|
-|4.4|Linksherzinsuffizienz bei linksventrikulärer konzentrischer Hypertrophie ....................................... 6|
-|4.5|SAM (systolic anterior motion des AML) ......................................................................................... 6|
-|5.|Dekompensierte chronische Linksherzinsuffizienz .......................................................................... 7|
-|6.|Rechtsventrikuläre Insuffizienz ........................................................................................................ 7|
-|6.1|Vorlastoptimierung ........................................................................................................................... 7|
-|6.2|Inotropika ......................................................................................................................................... 7|
-|6.3|Nachlastoptimierung ........................................................................................................................ 8|
-|6.3.1|Therapie exazerbierender Faktoren ................................................................................................ 8|
-|6.3.2|Stickstoffmonoxid inhalativ (iNO) ..................................................................................................... 8|
-|6.3.3|Iloprost inhalativ (Ventavis®) ........................................................................................................... 8|
-|6.3.4|Milrinon inhalativ .............................................................................................................................. 8|
-|6.3.5|Sildenafil .......................................................................................................................................... 8|
-|6.4|IABP ................................................................................................................................................. 8|
-|6.5|Mechanische Kreislaufunterstützung ............................................................................................... 8|
-|7.|Medikation ....................................................................................................................................... 9|
-|7.1|Anwendungshinweise Katecholamine ............................................................................................. 9|
-|7.2|Anwendungshinweise Phosphodiesterase III-Inhibitoren ................................................................... 9|
-|7.3|Anwendungshinweise systemische Vasodilatatoren ....................................................................... 9|
-|7.4|Anwendungshinweise inhalative Vasodilatatoren ............................................................................ 10|
-|8.|Inkrafttreten .................................................................................................................................... 10|
 
 Aus Gründen der besseren Lesbarkeit wird auf die gleichzeitige Verwendung männlicher und weiblicher Sprachformen verzichtet. Sämtliche Personenbezeichnungen gelten für beiderlei Geschlecht. 
 
-## **1. Zielwerte der Herz-Kreislauf-Therapie** 
+# **1. Zielwerte der Herz-Kreislauf-Therapie**
 
-## **1.1 Cardiac Output** 
+## **1.1 Cardiac Output**
 
 Die fünf Hauptdeterminanten des Cardiac Output sind 
 
@@ -64,7 +29,7 @@ Die fünf Hauptdeterminanten des Cardiac Output sind
 
 - Nachlast 
 
-## **1.2 Hämodynamische Zielwerte** 
+## **1.2 Hämodynamische Zielwerte**
 
 Anzustrebende Zielwerte der Herz-Kreislauftherapie[1] 
 
@@ -86,7 +51,7 @@ Anzustrebende Zielwerte der Herz-Kreislauftherapie[1]
 
 Frequenz- und Rhythmusoptimierung mit dem Ziel eines Sinusrhythmus. 
 
-## **1.3 Akuter kardiogener Schock** 
+## **1.3 Akuter kardiogener Schock**
 
 Surrogatparameter für einen kardiogenen Schock 
 
@@ -100,7 +65,7 @@ Surrogatparameter für einen kardiogenen Schock
 
 **CAVE** : MAP ist bei erhöhtem peripherem Widerstand (SVR – s. Kapitel 3.1) kein geeigneter Surrogatparameter. 
 
-## **2. Preloadoptimierung / Volumentherapie** 
+# **2. Preloadoptimierung / Volumentherapie**
 
 Grundlage jeder Herz-Kreislauftherapie ist die Vorlastoptimierung, respektive als deren Grundlage die Abschätzung der Volumenreagibilität. Das kardiale Preload ist definiert als die enddiastolische Spannung des linken Ventrikels. Klassische Surrogatparameter in absteigender Validität sind LVEDP, LAP, PCWP, diastol. PAP. Sämtliche statischen, volumen- bzw. druckbasierten Füllungsparameter (dies gilt im Besonderen für den ZVD) sind allerdings kein verlässlicher Prädiktor der „volume responsiveness“. Das Ansprechen flow-basierter (Schlagvolumen, HZV) oder die Messung sog. „dynamischer“ Vorlastparameter (Schlagvolumenvariation, Pulse Pressure Variation, aber auch Systolic Pressure Variation) eignen sich besser zur Abschätzung der Volumenreagibilität. Die hierfür im DHZB zur Anwendung kommenden Modalitäten sind die Echokardiographie sowie der ThermodilutionsPAK, klinisch kann auch ein leg-raising-Test eingesetzt werden. 
 
@@ -108,7 +73,7 @@ Grundlage jeder Herz-Kreislauftherapie ist die Vorlastoptimierung, respektive al
 
 Hinsichtlich des Volumenersatzmittels existiert keine Evidenz für eine Überlegenheit von Kolloiden, d. h. Gelatine oder Albumin gegenüber Kristalloiden. Eine Assoziation der vorgenannten Substanzen mit akuter Niereninsuffizienz im rein periinterventionellen Kontext ist hingegen ebenfalls nicht hinreichend belegt.[2] HAES kommt im DHZB aufgrund des kontrollierten Zugangs aktuell nicht zur Anwendung. Isotone Kochsalzlösung als Volumenersatz ist aufgrund der Gefahr einer hyperchlorämischen Azidose zu vermeiden, was auch bei niereninsuffizienten Patienten im Regelfall ohne die Gefahr einer klinisch relevanten Hyperkaliämie durchführbar ist. Es sollten generell balanzierte, isotonische Vollelektrolytlösungen zum Einsatz kommen. 
 
-## **3. Nachlastoptimierung 3.1 Peripherer Widerstand** 
+# **3. Nachlastoptimierung 3.1 Peripherer Widerstand**
 
 Der periphere Widerstand lässt sich bei eingeschwemmtem Swan-Ganz mit folgender Formel bestimmen: 
 
@@ -116,7 +81,7 @@ SVR (dyn*s*cm[-5] ) = [MAP - ZVD (mmHg)] * 80 / HZV (l/min)
 
 Normalwert 900–1400 dyn×sec×cm−5 
 
-## **3.2 Vasopressor-Therapie** 
+## **3.2 Vasopressor-Therapie**
 
 Als primärer Vasopressor kommt Noradrenalin zum Einsatz. Bei notwendigen Dosierungen über 0,3 µg/kg/min sollte die Hinzunahme von Vasopressin-Analoga erwogen werden. Vasopressin als Neurohypophysenhormon ist auch bekannt unter den Namen ADH (antidiuretisches Hormon), AVP (Arginin Vasopressin) oder Argipressin. 
 
@@ -126,7 +91,7 @@ Terlipressin: 0,7-1,6 µg/kg/h Vasopressin / Argipressin: 2-4 IU/h (max. 6 IU/h)
 
 Im vasoplegischen Schock ist es basierend auf aktuellen Untersuchungen ggf. sinnvoll, bei einer Vasopressin-Dosis von ≤ 3 (-4) IU/h zunächst die Norepinephrindosis zu weanen, bevor die Vasopressin-Laufrate weiter reduziert wird.[3] 
 
-## **3.3 Vasoplegie** 
+## **3.3 Vasoplegie**
 
 Bei therapierefraktärem vasoplegischen Syndrom (MAP < 50 mmHg, CI > 2.5 l/min/m[2] , SVR < 800 dyn*s*cm[−5] trotz hoher Noradrenalininfusionsrate > 0.5 μg/kg/min in Abwesenheit eines offensichtlich infektiösen Geschehens) kann die Applikation von Methylenblau erwogen werden. 
 
@@ -144,15 +109,15 @@ ggf. nachfolgend Infusion: 0,25 mg/kg/h bis max. 5 mg/kg/d Gesamtdosis
 
 Beim Einsatz von Methylenblau handelt es sich um eine sog. „off label“-Anwendung, da die Substanz für diese Indikation nicht zugelassen ist. Kontraindikationen sind genauestens zu beachten und der Einsatz mit dem Oberarzt bzw. 1. Dienst abzusprechen. 
 
-## **3.4 Septische Vasoplegie** 
+## **3.4 Septische Vasoplegie**
 
 Im Falle einer therapierefraktären Vasoplegie auf der anzunehmenden Basis eines primär septischen Geschehens kann gemäß den Leitlinien der Surviving Sepsis Campaign die Gabe von Steroiden erwogen werden.[5] 
 
 Hydrocortison: 100 mg Bolus gefolgt von 200 mg/d per infusionem 
 
-## **4. Linksherzinsuffizienz** 
+# **4. Linksherzinsuffizienz**
 
-## **4.1 Akuter kardiogener Schock / Postkardiotomie kardiogener Schock (PCCS)** 
+## **4.1 Akuter kardiogener Schock / Postkardiotomie kardiogener Schock (PCCS)**
 
 Ein Postkardiotomie kardiogener Schock oder PCCS präsentiert sich postoperativ mit den oben beschriebenen Parametern (s. 1.3). Prädiktoren eines PCCS können sein: 
 
@@ -186,7 +151,7 @@ Die initiale symptomatische Therapie basiert auf Adrenalin, Nitroglycerin und PD
 
 mangelndem koronaren Perfusionsdruck basiert, sollten Vasokonstriktoren zur Funktionsverbesserung eingesetzt werden. Bei Zeichen einer regionalen Myokardischämie muss eine selektive Koronarangiographie diskutiert werden. Bei ausgereizter medikamentöser Therapie (Adrenalin > 0.2 µg/kg/min etc., s. u.) ist eine mechanische Unterstützung (IABP, ECMO, Impella) zu diskutieren. 
 
-## **4.2 Differentialtherapie des akuten kardiogenen Schocks gemäß S3-Leitlinie**[6] 
+## **4.2 Differentialtherapie des akuten kardiogenen Schocks gemäß S3-Leitlinie**[6]
 
 - 4.2.1 LAP / PCWP < 5 mmHg (bzw. LVEDAI < 5 cm[2] /m[2] )*: Vorlastoptimierung 
 
@@ -218,7 +183,7 @@ mangelndem koronaren Perfusionsdruck basiert, sollten Vasokonstriktoren zur Funk
 
 Der Einsatz von Vasodilatatoren wie PDE III-Hemmstoffen (oder auch Nitroglycerin) kann bei Patienten mit begleitender pulmonaler Erkrankung (z.B. Infiltrate, Atelektasen) durch Aufhebung der hypoxischen Vaskonstriktion eine weitere Verschlechterung des Gasaustauschs (Hypoxämie!) bewirken. Adrenalin kann aufgrund der metabolischen Effekte einer α2-Stimulation zu Hyperglykämie und Laktaterhöhung führen. 
 
-## **4.4 Linksherzinsuffizienz bei linksventrikulärer konzentrischer Hypertrophie** 
+## **4.4 Linksherzinsuffizienz bei linksventrikulärer konzentrischer Hypertrophie**
 
 Kombination von positiv inotrop und positiv lusitrop wirksamen Substanzen 
 
@@ -226,7 +191,7 @@ Kombination von positiv inotrop und positiv lusitrop wirksamen Substanzen
 
 - Adrenalin + PDE-Inhibitor III +/- NTG 
 
-## **4.5 SAM (systolic anterior motion des AML)** 
+## **4.5 SAM (systolic anterior motion des AML)**
 
 SAM präsentiert sich als Low-cardiac-output Syndrom (niedrige Schlagvolumina, LAP > 15 mmHg, Laktaterhöhung), wobei sich die Hämodynamik nach Gabe von Sympathomimetika / Inotropika, insbesondere. Adrenalin verschlechtert. Eine definitive Diagnostik ist nur mit einem bildgebenden Verfahren möglich (TTE / TEE). Echokardiographisch zeigt sich SAM als eine dynamische LVOTObstruktion durch das anteriore Mitralsegel bei i. d. Regel gleichzeitiger, höhergradiger Mitralklappeninsuffizienz. 
 
@@ -234,11 +199,11 @@ SAM tritt typischerweise bei Patienten mit hypertropher obstruktiver Kardiomyopa
 
 > 6 S3-Leitlinie: Intensivmedizinische Versorgung herzchirurgischer Patienten – Hämodynamisches Monitoring und Herz-Kreislauf. Stand 01.12.2017, gültig bis 30.11.2022. (AWMF Registernummer 001-016). 
 
-## **5. Dekompensierte chronische Linksherzinsuffizienz** 
+# **5. Dekompensierte chronische Linksherzinsuffizienz**
 
 - Bei Patienten mit einer chronischen Herzinsuffizienz kommt es zu einer Downregulation von β Rezeptoren. Zusätzlich besteht häufig eine Therapie mit β-Blockern. Demzufolge kann es bei Einsatz von gemischten α- und β-Agonisten zu einem dominanten α-mimetischen Effekt kommen. Bei diesem Patientengut kann der primäre Einsatz eines PDE-III-Inhibitors vorteilhaft sein. Zu beachten ist in dieser Situation das deutlich erhöhte Auftreten ventrikulärer Herzrhythmusstörungen bei Patienten mit KHK unter Milrinon. Dies sollte in die therapeutische Abwägung unbedingt einfliessen. Bei erhaltener oder erhöhter linksventrikulärer Nachlast, muss eine positiv inotrope Therapie aufgrund der deutlich erhöhten Mortalität hierdurch vermieden werden. Es empfiehlt sich eine entsprechende Nachlastsenkung (s. perspektivisch SOP Herzinsuffizienz). 
 
-## **6. Rechtsventrikuläre Insuffizienz** 
+# **6. Rechtsventrikuläre Insuffizienz**
 
 Klinische Präsentation der Rechtsherzinsuffizienz: 
 
@@ -248,11 +213,11 @@ Quantifizierung der RV-Nachlast via Swan-Ganz (s.u.) respektive echokardiographi
 
 ## **Therapiekonzepte:** 
 
-## **6.1 Vorlastoptimierung** 
+## **6.1 Vorlastoptimierung**
 
 Vorsichtige Vorlastoptimierung, Ziel-ZVD 10 - 12 (15) mmHg. Bei Bedarf Volumenentzug. 
 
-## **6.2 Inotropika** 
+## **6.2 Inotropika**
 
 - 6.2.1 MAP > 70 mmHg: 
 
@@ -264,7 +229,7 @@ Vorsichtige Vorlastoptimierung, Ziel-ZVD 10 - 12 (15) mmHg. Bei Bedarf Volumenen
 
       - ggf. Nitroglycerin 
 
-## 6.2.2 MAP < 70 mmHg: 
+### 6.2.2 MAP < 70 mmHg:
 
 - Noradrenalin 
 
@@ -280,37 +245,37 @@ Aufgrund der systolischen ventrikulären Interdependenz ist sowohl ein unverhäl
 
 > 7 Harjola VP et al. Contemporary management of acute right ventricular failure: a statement from the Heart Failure Association and the Working Group on Pulmonary Circulation and Right Ventricular Function of the European Society of Cardiology. Eur J Heart Fail 2016;18:226–241 
 
-## **6.3 Nachlastoptimierung** 
+## **6.3 Nachlastoptimierung**
 
 Der pulmonalvaskuläre Widerstand lässt sich bei eingeschwemmtem Swan-Ganz mit folgender Formel bestimmen: 
 
 PVR (dyn*s*cm[-5] ) = [MPAP - PCWP (mmHg)] * 80 / HZV (l/min) Normalwert 45–120 dyn×sec×cm−5 
 
-## **6.3.1 Therapie exazerbierender Faktoren** 
+### **6.3.1 Therapie exazerbierender Faktoren**
 
 Hyperkapnie, Hypoxämie, Azidose; Vermeidung hypoxischer Vasokonstriktion durch hohe FiO2; Beatmung mit niedrigem intrathorakalem Druck (Relevant ist der Atemmitteldruck, die PVR ist am niedrigsten bei funktioneller Residualkapazität), CAVE: Atelektasen erhöhen den PVR durch hypoxische Vasokonstriktion. D.h. es muss ein ausreichender PEEP gewählt werden, um Atelektasen zu rekrutieren und erneute Atelektasenbildung möglichst zu vermeiden. 
 
-## **6.3.2 Stickstoffmonoxid inhalativ (iNO)** 
+### **6.3.2 Stickstoffmonoxid inhalativ (iNO)**
 
 Maximale PVR-Senkung bei 20–40 ppm **Cave** : Rebound-PHT nach abruptem Absetzen möglich 
 
-## **6.3.3 Iloprost inhalativ (Ventavis®)** 
+### **6.3.3 Iloprost inhalativ (Ventavis®)**
 
 Synthetisches Epoprostenolderivat (Prostacyclin / PGI2) mit arteriell vasodilatativer Wirkung, NW: Thrombozytenaggregationshemmung, bei inhalativer Anwendung minimal 
 
-## **6.3.4 Milrinon inhalativ** 
+### **6.3.4 Milrinon inhalativ**
 
 Wirkung analog systemischer Anwendung, jedoch ohne signifikante systemische Vasodilatation. Deutlich kostengünstiger als Ventavis®. Dosierung s.u. 
 
-## **6.3.5 Sildenafil** 
+### **6.3.5 Sildenafil**
 
 Frühzeitige Kombination der inhalativen Vasodilatatoren (iNO, Iloprost) mit dem Phosphodiesterase-VInhibitor Sildenafil  3x25 mg  p.o zur Augmentation hämodynamischer Effekte und der Vermeidung von Rebound-Phänomenen 
 
-## **6.4 IABP** 
+## **6.4 IABP**
 
 Intraaortale Ballongegenpulsation (der versagende RV hat aufgrund erhöhten intraventrikulären Drucks eine reduzierte systolische Koronarperfusion und ist daher ähnlich wie der LV überproportional vom diastolischen Koronarfluss abhängig)[11] 
 
-## **6.5 Mechanische Kreislaufunterstützung** 
+## **6.5 Mechanische Kreislaufunterstützung**
 
 Bei ausgereizter medikamentöser Therapie und fortbestehendem kardiogenem Schock rechtsventrikuläre mechanische Unterstützung ( temp. RVAD / va-ECMO, Impella) 
 
@@ -322,7 +287,7 @@ Bei ausgereizter medikamentöser Therapie und fortbestehendem kardiogenem Schock
 
 > 11 Boeken U et al. Intraaortic Balloon Pumping in Patients with Right Ventricular Insufficiency after Cardiac Surgery: Parameters to Predict Failure of IABP Support. Thorac Cardiov Surg 2009;57:324-328 
 
-## **7. Medikation** 
+# **7. Medikation**
 
 Dosierungsrichtlinien: 
 
@@ -339,11 +304,11 @@ Dosierungsrichtlinien:
 |Nitroglycerin|keine|10 - 200µg/min|
 |Nitroprussidnatrium|keine|0,5 - 5 µg/kg/min|
 
-## **7.1 Anwendungshinweise Katecholamine** 
+## **7.1 Anwendungshinweise Katecholamine**
 
 - 7.1.1 Die Kombination von _partiellen_ (Dobutamin) und _reinen_ (Adrenalin) Agonisten am β-Rezeptor führt in mittleren bis höheren Dosierungen zu subadditiven Effekten und sollte daher vermieden werden.[12] Außer in der Phase der „Deeskalation“ der Katecholamintherapie. 
 
-## **7.2     Anwendungshinweise Phosphodiesterase III-Inhibitoren** 
+## **7.2     Anwendungshinweise Phosphodiesterase III-Inhibitoren**
 
 - 7.2.1 Milrinon 
 
@@ -353,7 +318,7 @@ Dosisreduktion bei Niereninsuffizienz (s. Fachinformation), CAVE: ventrikuläre 
 
 Aufgrund der deutlichen längeren HWZ und der Notwendigkeit eines separaten Zugangsweges wird Enoximon perioperativ ausschließlich bolusweise appliziert, bei kontinuierlicher Gabe Milrinon verwenden. Dosisreduktion bei Niereninsuffizienz 
 
-## **7.3 Anwendungshinweise systemische Vasodilatatoren** 
+## **7.3 Anwendungshinweise systemische Vasodilatatoren**
 
 - 7.3.1 Nitroprussidnatrium 
 
@@ -363,25 +328,25 @@ Kontrolle der Thiocyanatspiegel, insbesondere bei Niereninsuffizienz (max. 10 mg
 
 > 12 Prielipp RC et al. Dobutamine Antagonizes Epinephrine's Biochemical and Cardiotonic Effects: Results of an In Vitro Model Using Human Lymphocytes and a Clinical Study in Patients Recovering from Cardiac Surgery. Anesthesiology 1998;89:49-57 
 
-## **7.4     Anwendungshinweise inhalative Vasodilatatoren** 
+## **7.4     Anwendungshinweise inhalative Vasodilatatoren**
 
 - 7.4.1 Stickstoffmonoxid (iNO) 
 
 Cave: Rebound-PHT bei abruptem Absetzen möglich, daher fraktioniertes Weaning obligate NO2- und Methämoglobin-Überwachung Bevorzugte Anwendung als pulsatile, atemsynchrone Zumischung (COM-Verbindung EKU NO-A zu Draeger-Beatmungsgerät etablieren) Dosierungsrichtlinie: zur Oxygenierungsverbesserung 5–15 ppm meist ausreichend, PAPSenkung 20–40 ppm 
 
-## 7.4.2 Iloprost (Ventavis©) 
+### 7.4.2 Iloprost (Ventavis©)
 
 Intermittierende Verneblung aufgrund längerdauernder pulmonal-vasodilatierender Wirkung möglich. Jet-Vernebler mit O2-Fluss von 8 l/min (um die kleinstmögliche Tröpfchengröße für eine optimale alveoläre Distribution zu erzielen) 
 
 Dosierung: 5 (-10) µg inhalativ, alle 4–6 h wiederholbar 
 
-## 7.4.3 Milrinon inhalativ 
+### 7.4.3 Milrinon inhalativ
 
 Jet-Vernebler mit O2-Fluss von 8 l/min 
 
 Dosierung: 2,5–5 mg (bei prophylaktischer Gabe vor HLM sind 50–80 µg/kgKG beschrieben)[13] 
 
-## **8. Inkrafttreten** 
+# **8. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

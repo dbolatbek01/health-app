@@ -32,7 +32,7 @@ arité, DHZC und Charité – Universitätsmedizin Berlin
 
 Geltungsbereich: Klinik HTG, VAD-Team 
 
-## **1. Hintergrund und Ziel** 
+# **1. Hintergrund und Ziel**
 
 Bei Patienten mit einem schweren kardiogenen Schock/Low Cardiac Output während oder nach einem herzchirurgischen Eingriff ist die frühzeitige Anwendung einer temporären (kurzzeitigen) mechanischen Kreislaufunterstützung (KurzzeitMCS) entscheidend. 
 
@@ -48,15 +48,15 @@ Der Vasoactive-Inotropic Score (VIS) dient als Basis für die Entscheidung und w
 
 (in mcg/kg/min): VIS = Dobutamin + 10 x Milrinon + 100 x Epinephrin + 100 x Norepinephrin + 10,000 x IU/kg/min Vasopressin 
 
-## **2. MCS-Systeme zur temporären Anwendung** 
+# **2. MCS-Systeme zur temporären Anwendung**
 
 Als kurzzeitige linksventrikuläre Unterstützungssysteme (LVAD) kommen im DHZC zurzeit die im Folgenden beschriebenen MCS-Systeme zur Anwendung. 
 
-## **2.1 Intraaortale Ballonpumpe (IABP)** 
+## **2.1 Intraaortale Ballonpumpe (IABP)**
 
 Die alleinige Anwendung der IABPist nicht effektiv und wird bei Patienten im schweren kardiogenen Schock nicht empfohlen. Die IABP sollte bei Kontraindikationen für eine Therapie mit mAFP, z. B. bei Vorliegen einer mechanischen Aortenklappenprothese, zur Entlastung des LV während der ECLS-Behandlung zum Einsatz kommen. 
 
-## **2.2 Mikroaxialflusspumpen** 
+## **2.2 Mikroaxialflusspumpen**
 
 Im DHZC werden aktuell die Mikroaxialflusspumpen Impella CP, Impella 5.5 und Impella RP vorgehalten. 
 
@@ -72,11 +72,11 @@ Zusätzlich steht das Modell **Impella RP** zur Verfügung, eine mAFP zur Unters
 
 **Schwerer kardiogener Schock nach herzchirurgischem Eingriff: Behandlung mit kurzzeitiger mechanischer Kreislaufunterstützung** 
 
-## **2.3 v-a-ECLS** 
+## **2.3 v-a-ECLS**
 
 Die veno-arterielle extrakorporale Unterstützung besteht klassisch aus einer Zentrifugalpumpe mit Oxygenator, einem Wärmeaustauscher sowie zu- und abführenden Schläuchen, womit das Blut aus dem rechten Vorhof entnommen, oxygeniert und über die A. femoralis/A.axillaris oder direkt in die Aorta ascendens zurückgegeben werden kann. Damit kann die Funktion des Herzens und der Lungen unterstützt bzw. ersetzt werden. Für ausführliche Informationen zu ECLS “ siehe SOP050 Extrakorporale Unterstützung/Extracorporeal Life Support . 
 
-## **2.4 ECMELLA** 
+## **2.4 ECMELLA**
 
 Das ECMELLA-Konzept ist eine Kombination aus v-a-ECLS und Impella-Pumpe. Während die v-a-ECLS eine systemische und respiratorische Unterstützung darstellt, wird die Impella-Pumpe zur direkten linksventrikulären Entlastung implantiert. 
 
@@ -86,7 +86,7 @@ Nur ein arterieller Zugang wird bei der Konfiguration ECMELLA 2.0 verwendet, wob
 
 Eine Weiterentwicklung dieser Konfiguration ist das Konzept ECMELLA 2.1 mit der A. axillaris als arteriellem Zugang und der V. jugularis interna (selten v. subclavia) als venösem Zugang. Diese Konfiguration erlaubt eine vollständige Mobilisierung des Patienten direkt nach Implantation. 
 
-## **2.5 RVAD** 
+## **2.5 RVAD**
 
 Ein rechtsventrikuläres Assist Device (RVAD) kann isoliert die rechtsventrikuläre Funktion ersetzen und in Kombination mit einem Oxygenator auch zur Behandlung einer pulmonalen Insuffizienz eingesetzt werden. 
 
@@ -96,7 +96,7 @@ Beim verschlossenen Thorax sollte eine ProtekDuo[TM] -Kanüle in die Pulmonalart
 
 Ebenso ist es möglich, eine direkte RV-Unterstützung mittels Implantation einer Impella RP durchzuführen. Eine respiratorische Unterstützung mittels Oxygenator kann dabei jedoch nicht etabliert werden. Genauso ist eine vollständige Mobilisierung des Patienten aufgrund des femoralen Zugangs und der relevanten Dislokationsgefahr nicht möglich. 
 
-## **3. Indikationen für die Kurzzeit-MCS** 
+# **3. Indikationen für die Kurzzeit-MCS**
 
 Während des herzchirurgischen Eingriffs oder im Operationssaal und auf Intensivstation liegt die Indikation in denfolgenden Gegebenheiten vor: 
 
@@ -138,7 +138,7 @@ Vor Implantation der Kurzzeit-MCS sollten behebbare Ursachen ausgeschlossen werd
 
 Bei Verdacht auf ein Koronarproblem (Ostiumverlegung nach AKE oder Verzug nach Wurzelersatz, RCx-Stenose nach MKR, Abknicken eines Bypass nach Perikardverschluss, Bypass- oder Koronarverschluss nach CABG oder ähnliches) sollte immer eine Koronarangiographie und ggf. Intervention erfolgen. Der Zeitpunkt der Koronarangiographie (vor oder nach der MCS-Implantation) ist von der hämodynamischen Situation des Patienten abhängig. 
 
-## **4. Kontraindikationen für die Implantation eines Kurzzeit-MCS** 
+# **4. Kontraindikationen für die Implantation eines Kurzzeit-MCS**
 
 - Zeichen schwerer zerebralen Schädigung 
 
@@ -158,7 +158,7 @@ Bei Verdacht auf ein Koronarproblem (Ostiumverlegung nach AKE oder Verzug nach W
 
 Die Entscheidung über das Fortführen der Therapie (MCS-Implantation) oder über das Einleiten der palliativen Behandlung wird in einem Team bestehend aus dem Operateur, Anästhesisten oder Intensivmediziner, VAD-Chirurgen und zuständiger Pflegekraft getroffen. 
 
-## **5. Pathologische Besonderheiten des Postkardiotomiesyndroms** 
+# **5. Pathologische Besonderheiten des Postkardiotomiesyndroms**
 
 **Im Fall eines Postkardiotomiesyndroms (PCS) nach CABG bei akutem Myokardinfarkt** besteht ein hohes Risiko für Herzrhythmusstörungen und nicht selten sind beide Ventrikel betroffen. In diesen Fällen sollte primär die Implantation einer ECMELLA angestrebt werden. Bei Patienten mit einem isolierten RCA-Infarkt (Dissektion, Ostienverschluss/-verzug) und isoliertem Rechtsherzversagen sollte eine VA-ECLS bzw. ein (oxy)-RVAD implantiert werden. 
 
@@ -172,7 +172,7 @@ Bei **Vorliegen einer mechanischen Aortenklappenprothese** sollte eine IABP in K
 
 Bei **Vorliegen eines flottierenden LV-Thrombus** sollte eine IABP in Kombination mit einer v-a-ECLS implantiert werden Für diese Kombination sollte eine schärfere Antikoagulation geführt werden. 
 
-## **6. Chirurgische Technik** 
+# **6. Chirurgische Technik**
 
 Die Ziele der Behandlung des klassischen Postkardiotomiesyndroms mit temporärer mechanischer Kreislaufunterstützung sind: 
 
@@ -182,7 +182,7 @@ Die Ziele der Behandlung des klassischen Postkardiotomiesyndroms mit temporärer
 
 - Durchführung eines nrimärer Thoraxverschluss 
 
-## **6.1 Implantation während herzchirurgischem Eingriff/im Operationssaal** 
+## **6.1 Implantation während herzchirurgischem Eingriff/im Operationssaal**
 
 Indikation und Systemauswahl sind in Anlage 1 beschrieben, die chirurgische Technik in der SOP055. 
 
@@ -190,17 +190,17 @@ Indikation und Systemauswahl sind in Anlage 1 beschrieben, die chirurgische Tech
 
 Falls das Sternum bereits verdrahtet ist kann das Sternum zur Entlastung des Herzens ggf. wiedereröffnet werden. Anschließend erfolgt, falls notwendig, die Anlage des tMCS-Systems und der Thoraxverschluss. 
 
-## **6.2 Indikation nach herzchirurgischem Eingriff/auf Intensivstation** 
+## **6.2 Indikation nach herzchirurgischem Eingriff/auf Intensivstation**
 
 - a) Bei laufender Reanimation (Herz-Druck-Massage oder medikamentös) und nach Ausschluss akut behebbarer Ursachen erfolgt die periphere Kanülierung für eine v-a-ECLS und eine anschließende Impella 5.5-Implantation über die A. axillaris, alternativ kann eine Impella CP über die A. femoralis implantiert werden (ECMELLA 1.0). Bei Zustand nach mechanischem Aortenklappenersatz erfolgt die Implantation einer IABP nach v-a-ECLS-Implantation. Anschließend erfolgt eine notwendige Diagnostik, inklusive Koronarangiographie beim V.a. Koronarproblem. 
 
 - b) Falls der Zustand des Patienten es zulässt (protrahierte Verschlechterung, keine Reanimationssituation), sollte der Patient in den Operationssaal transferiert werden und eine ECMELLA 2.0 oder 2.1 wie in der SOP055 beschrieben etabliert werden. 
 
-## **7. Deeskalation und Entwöhnung** 
+# **7. Deeskalation und Entwöhnung**
 
 Nach der Stabilisierung des Patienten sollte täglich die Möglichkeit einer Deeskalation der Kurzzeit-MCS evaluiert werden. Die Deeskalation und Entwöhnung von Kurzzeit-MCS in verschiedenen Konfigurationen ist in der SOP234 geregelt. 
 
-## **8. Literatur** 
+# **8. Literatur**
 
 1. Eulert-Grehn JJ et al. ECMELLA 2.0: single arterial access technique for a staged approach in cardiogenic shock. Ann Thorac Surg 2021;111:e135–7. 
 
@@ -228,7 +228,7 @@ Nach der Stabilisierung des Patienten sollte täglich die Möglichkeit einer Dee
 
 13. Stein LH et al. Algorithmic management of postcardiotomy shock with mechanical support: Bring a map, a plan, and your parachute – and know how to use all three. JTCVS Open 2021;8:55-65. 
 
-## **9. Mitgeltende Dokumente** 
+# **9. Mitgeltende Dokumente**
 
 SOP234 Schwerer kardiogener Schock: Therapie mit temporärer mechanischer Kreislaufunterstützung SOP050 Extrakorporale Unterstützung / Extracorporeal Life Support SOP055 Implantation eines kurzzeitigen MCS: Zeitpunkt, Indikation, Technik 
 

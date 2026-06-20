@@ -9,13 +9,9 @@ Umsetzung der rechtlichen Vorgaben bei Anwendung ionisierender Strahlung am Mens
 
 Deutsches Herzzentrum der Charité alle Standorte 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Hintergrund ...................................................................................................................................... 3|
 |---|---|
-|2.|Ziel ................................................................................................................................................... 3|
 
-## **1. Hintergrund** 
+# **1. Hintergrund**
 
 § 145 der Strahlenschutzverordnung (StrlSchV)[1] definiert berechtigte Personen, welche ionisierende Strahlung am Menschen anwenden dürfen. Hierbei ist festgelegt, dass approbierte Ärzte und Ärztinnen oder Ärzte und Ärztinnen mit vorübergehender Berufserlaubnis ionisierende Strahlung am Menschen anwenden dürfen, wenn sie: 
 
@@ -25,7 +21,7 @@ Deutsches Herzzentrum der Charité alle Standorte
 
 2. auf ihrem speziellen Arbeitsgebiet über die für die Anwendung ionisierender Strahlung erforderlichen Kenntnisse im Strahlenschutz verfügen **UND unter ständiger Aufsicht und Verantwortung** eines Arztes oder einer Ärztin im Besitz der für die Anwendung erforderlichen Fachkunde im Strahlenschutz tätig sind. 
 
-## **2. Ziel** 
+# **2. Ziel**
 
 Auf Basis dieser rechtlichen Grundlage wird folgende Dienstanweisung an alle ärztlichen Mitarbeiterinnen und Mitarbeiter des Deutschen Herzzentrums der Charité erlassen: 
 

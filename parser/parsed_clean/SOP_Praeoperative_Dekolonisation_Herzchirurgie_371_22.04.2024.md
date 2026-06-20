@@ -7,27 +7,15 @@ Präoperative Dekolonisationsbehandlung vor elektiver Herzchirurgie
 
 Klinik für Herz-, Thorax- und Gefäßchirurgie 
 
-## **Änderungshistorie** 
-
-## **Inhaltsverzeichnis** 
-
-|1.|Hintergrund und Ziel ........................................................................................................................ 3|
 |---|---|
-|2.|Zielgruppe ........................................................................................................................................ 3|
-|3.|Ablauf der Behandlung .................................................................................................................... 3|
-|3.1|Generelle präoperative Dekolonisation ........................................................................................... 3|
-|3.2|Dekolonisation bei bekannter MRSA-Anamnese ............................................................................ 4|
-|4.|Dokumentation ................................................................................................................................. 4|
-|5.|Hinweise .......................................................................................................................................... 4|
-|6.|Mitgeltende Dokumente ................................................................................................................... 4|
 
-## **1. Hintergrund und Ziel** 
+# **1. Hintergrund und Ziel**
 
 Im DHZC wird vor elektiven herzchirurgischen Eingriffen grundsätzlich eine antiseptische präoperative Dekolonisationsbehandlung bei erwachsenen Patienten durchgeführt, um die körpereigene Bakterienflora vor dem Eingriff zu reduzieren und somit das Risiko postoperativer Wundinfektionen zu senken. Die Behandlung beinhaltet die Anwendung von antiseptisch getränkten Waschhandschuhen zur Körperpflege und eines antiseptischen Nasengels. 
 
 Die vorliegende SOP gilt als Ergänzung zum Leitfaden der Krankenhaushygiene des Instituts für Hygiene und Umweltmedizin der Charité. 
 
-## **2. Zielgruppe** 
+# **2. Zielgruppe**
 
 In die Maßnahme werden erwachsene Patienten vor folgenden elektiven herzchirurgischen Eingriffen einbezogen: 
 
@@ -41,9 +29,9 @@ In die Maßnahme werden erwachsene Patienten vor folgenden elektiven herzchirurg
 
 Die Maßnahmen zur MRSA-Sanierung bei Neugeborenen, Säuglingen und Kindern sind in der gleichnamigen SOP448 geregelt. 
 
-## **3. Ablauf der Behandlung** 
+# **3. Ablauf der Behandlung**
 
-## **3.1 Generelle präoperative Dekolonisation** 
+## **3.1 Generelle präoperative Dekolonisation**
 
 Die Patienten erhalten am Vortag der Operation ein Dekolonisationsset und werden über die Anwendung informiert. Dieses besteht aus: 
 
@@ -75,7 +63,7 @@ auch noch mittags und/oder abends verwendet werden.
 Nasenabstrich prästationär, spätestens bei Aufnahme – Mupirocin-
 Nasensalbe (Turixin®) anstelle von Octenisan®-Nasensalbe.|
 
-## **3.2 Dekolonisation bei bekannter MRSA-Anamnese** 
+## **3.2 Dekolonisation bei bekannter MRSA-Anamnese**
 
 Abweichend zur generellen präoperativen Dekolonisation wird bei Patienten mit bekannter MRSAKolonisation VOR dem Eingriff mit der gezielten MRSA-Dekolonisation begonnen: 
 
@@ -85,13 +73,13 @@ Abweichend zur generellen präoperativen Dekolonisation wird bei Patienten mit b
 
 - antiseptische Mundspüllösung mit Chlorhexidin 
 
-## **4. Dokumentation** 
+# **4. Dokumentation**
 
 Die Dokumentation der Maßnahmen erfolgt in m.life unter: 
 
 _Pflege > OP-Vorbereitung > präoperative Dekolonisationsbehandlung_ 
 
-## **5. Hinweise** 
+# **5. Hinweise**
 
 Folgende Hinweise sind zu beachten: 
 
@@ -103,7 +91,7 @@ Folgende Hinweise sind zu beachten:
 
 - Vor Organtransplantationen sollte die Maßnahme im Rahmen der OP-Vorbereitung durchgeführt werden. 
 
-## **6. Mitgeltende Dokumente** 
+# **6. Mitgeltende Dokumente**
 
 SOP448 MRSA-Sanierungsmaßnahmen bei Neugeborenen, Säuglingen und Kindern Leitfaden der Krankenhaushygiene der Charité 
 

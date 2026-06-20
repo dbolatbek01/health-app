@@ -1,24 +1,24 @@
 **SOP Durchleuchtung mit dem BV Veradius im OP** 
 
-## **1. Ziel und Zweck** 
+# **1. Ziel und Zweck**
 
 Diese SOP regelt die Durchführung der Durchleuchtung für Implantationen (Herzschrittmacher, ICD, Port, Stentprothesen, Stents), zur Fremdkörperlokalisation und für die intraoperative Angiographiekontrolle (z.B. aorto-koronare und periphere Bypässe). 
 
-## **2. Gesetze, Verordnungen, Leitlinien** 
+# **2. Gesetze, Verordnungen, Leitlinien**
 
 Gesetz zum Schutz vor der schädlichen Wirkung ionisierender Strahlung (Strahlenschutzgesetz – StrlSchG) Verordnung zum Schutz vor der schädlichen Wirkung ionisierender Strahlung (Strahlenschutzverordnung - StrlSchV) Leitlinien für die Überweisung zur Durchführung von Bild gebenden Verfahren (Strahlenschutz 118) Leitlinie der Bundesärztekammer zur Qualitätssicherung in der Röntgendiagnostik. Qualitätskriterien röntgendiagnostischer Untersuchungen 
 
-## **3. Indikation, Kontraindikation** 
+# **3. Indikation, Kontraindikation**
 
 Die Indikation ergibt sich aus der Notwendigkeit der Operation. Die Indikation und der fachkundige Arzt, der die rechtfertigende Indikation stellt, sind zu dokumentieren. Als Kontraindikation gilt eine Schwangerschaft. 
 
-## **4. Begriffe, Abkürzungen** 
+# **4. Begriffe, Abkürzungen**
 
 a = anterior p = posterior BV =  Bildverstärker (C-Bogen) DL = Durchleuchtung DRW = Diagnostische Referenzwerte 
 
 ICD = Implantierbarer Cardioverter Defibrillator LAO = Left Anterior Oblique RAO = Right Anterior Oblique SM = Herzschrittmacher 
 
-## **5. Patientenadministration und Patientenvorbereitung** 
+# **5. Patientenadministration und Patientenvorbereitung**
 
 ## **Patientenadministration** 
 
@@ -42,9 +42,9 @@ ICD = Implantierbarer Cardioverter Defibrillator LAO = Left Anterior Oblique RAO
 
 Geltungsbereich:  OP-Bereich DHZC 
 
-## **6. Untersuchungsablauf (schematisch)** 
+# **6. Untersuchungsablauf (schematisch)**
 
-## **7. Lagerung** 
+# **7. Lagerung**
 
 - Patient in Rückenlage, Arme an- oder ausgelagert 
 
@@ -54,7 +54,7 @@ Geltungsbereich:  OP-Bereich DHZC
 
 - Atemkommando ggf. auf Anweisung des Operateurs 
 
-## **8. Einstelltechnik** 
+# **8. Einstelltechnik**
 
 - Durchleuchtung p.-a., ggf. LAO, RAO 
 
@@ -64,7 +64,7 @@ Geltungsbereich:  OP-Bereich DHZC
 
 Geltungsbereich:  OP-Bereich DHZC 
 
-## **9. Durchleuchtungstechnik** 
+# **9. Durchleuchtungstechnik**
 
 - Einstellen des Organprogramms am BV 
 
@@ -76,7 +76,7 @@ Geltungsbereich:  OP-Bereich DHZC
 
 - Einstellung der Untersuchungsprogramme (Subtraktion, road map etc) auf Anweisung des Operateurs bzw. durch den Operateur mit dem Fußschalter 
 
-## **10. Bildnachbearbeitung** 
+# **10. Bildnachbearbeitung**
 
 - Serienwiederholungen durch den Operateur mit der Fernbedienung bzw. auf Anweisung des Operateurs 
 
@@ -84,7 +84,7 @@ Geltungsbereich:  OP-Bereich DHZC
 
 - Helligkeit, Kontrast, Änderung des Maskenbildes, Pixelshift, Kantenanhebung, anatomischer Hintergrund 
 
-## **11. Strahlenschutzmittel Patient** 
+# **11. Strahlenschutzmittel Patient**
 
 - Strahlenschutzmittel für den Patient sind grundsätzlich außerhalb des Nutzstrahlenfeldes zu positionieren 
 
@@ -92,7 +92,7 @@ Geltungsbereich:  OP-Bereich DHZC
 
 - wenn möglich Hodenkapsel 
 
-## **12. Diagnostische Referenzwerte** 
+# **12. Diagnostische Referenzwerte**
 
 |**Untersuchungsart**|**DFP [cGy*cm²] bzw. [µGy*m²]**|
 |---|---|
@@ -122,7 +122,7 @@ Defibrillatoren)
 
 Geltungsbereich:  OP-Bereich DHZC 
 
-## **13. Dokumentation, Befundung, Leistungserfassung** 
+# **13. Dokumentation, Befundung, Leistungserfassung**
 
 Die Dokumentation und die Befundung erfolgen im RIS. 
 

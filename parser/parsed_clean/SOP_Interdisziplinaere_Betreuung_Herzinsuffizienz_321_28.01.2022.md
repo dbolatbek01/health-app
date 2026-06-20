@@ -37,19 +37,7 @@ Aktualisierung
 Aktualisierung
 31.12.2023|||
 
-## **Inhaltsverzeichnis** 
-
-|Änderungen zu Version 3.0 .......................................................................................................................... 3|Änderungen zu Version 3.0 .......................................................................................................................... 3|
 |---|---|
-|1.|Einführung ....................................................................................................................................... 4|
-|2.|Betroffene Patientengruppen ........................................................................................................... 4|
-|3.|SHI-Team ........................................................................................................................................ 5|
-|4.|SHI-Konferenz ................................................................................................................................. 6|
-|5.|SHI-Telefon ...................................................................................................................................... 6|
-|6.|Weitere Aufgaben des SHI-Teams .................................................................................................. 7|
-|7.|SHI-Koordinator ............................................................................................................................... 7|
-|8.|Weiterführende Literatur .................................................................................................................. 7|
-|9.|Inkrafttreten ...................................................................................................................................... 7|
 
 ## **Änderungen zu Version 3.0** 
 
@@ -61,7 +49,7 @@ Kapitel 2 Betroffene Patientengruppen: Vollständig überarbeitet
 
 Kapitel 8 Weiterführende Literatur: Aktualisiert 
 
-## **1. Einführung** 
+# **1. Einführung**
 
 Die schwere Herzinsuffizienz (SHI) stellt ein komplexes und schwerwiegendes Krankheitsbild dar, welches bei Patienten mit unterschiedlicher kardialer Grunderkrankung auftreten kann und eine Vielzahl von pharmakologischen, interventionellen und chirurgischen Maßnahmen erfordert. 
 
@@ -69,7 +57,7 @@ Die kardiovaskulären Kliniken (Kardiologie, Kardiochirurgie, Angeborene Herzfeh
 
 Derzeit existieren drei Ambulanzen für schwere Herzinsuffizienz (Kardiologie und Kardiochirurgie DHZB, Kardiologie CVK). Perspektivisch sollen diese in eine interdisziplinäre SHI-Ambulanz im zukünftigen Deutschen Herzzentrum Charité Berlin (DHZC) zusammengefasst werden. Bis dahin verbleiben die derzeitigen Ambulanzen, die jedoch durch das neue, klinikübergreifende SHI-Team und die SHI-Konferenz verbunden werden. 
 
-## **2. Betroffene Patientengruppen** 
+# **2. Betroffene Patientengruppen**
 
 Patienten sollen nach den Vorgaben dieses Dokuments interdisziplinär betreut werden, wenn alle vier der folgenden Merkmale vorliegen: 
 
@@ -107,7 +95,7 @@ Die einzelnen Schritte des Behandlungsprozesses innerhalb des überregionalen He
 
 **Abbildung 1** : Interdisziplinärer Behandlungsprozess für schwere Herzinsuffizienz 
 
-## **3. SHI-Team** 
+# **3. SHI-Team**
 
 Das SHI-Team setzt sich zusammen aus Vertretern der Kardiologie und der Kardiochirurgie. Zusätzlich hinzugezogen werden bei entsprechenden Fragestellungen Vertreter folgender Disziplinen: 
 
@@ -121,7 +109,7 @@ Das SHI-Team setzt sich zusammen aus Vertretern der Kardiologie und der Kardioch
 
 - Psychosomatik/Psychotherapie 
 
-## **4. SHI-Konferenz** 
+# **4. SHI-Konferenz**
 
 Interdisziplinär zu beurteilende Patienten werden ein- oder mehrmals in Sitzungen des SHI-Teams besprochen. Die Sitzungen des SHI-Teams finden in der Regel mehrmals pro Monat statt und werden durch einen SHI-Koordinator organisiert (siehe Kap. 7). 
 
@@ -139,7 +127,7 @@ Im Protokoll sind auch die Einschätzung und die Empfehlungen der Konferenz zu d
 
 Das Protokoll wird an alle Teilnehmer der Sitzung und deren Stellvertreter versandt. Änderungs- und Ergänzungswünsche werden integriert. Die Freigabe erfolgt zu Beginn der Folgesitzung. Das so finalisierte Protokoll wird vom Organisator im PDF-Format an zentraler Stelle archiviert. Alle im Rahmen dieser Regelungen getroffenen patientenbezogenen Empfehlungen werden dem ggf. vorstellenden externen Arzt sowie ggf. dem Hausarzt schriftlich mitgeteilt. 
 
-## **5. SHI-Telefon** 
+# **5. SHI-Telefon**
 
 Das SHI-Team ist verantwortlich für die Aufrechterhaltung eines übergreifenden Rufdienstes mit einheitlichem Intranet- und Internet-Auftritt und einheitlicher Telefonnummer („SHI-Telefon“) als zentrale Anlaufstelle für Fragen von hausinternen, campusinternen und externen ärztlichen Kollegen zu 
 
@@ -147,15 +135,15 @@ Patienten mit SHI. Über diese zentrale Anlaufstelle werden die Anrufe entgegeng
 
 An dem Rufdienst beteiligen sich Oberärzte der Disziplinen Kardiologie und Kardiochirurgie. Die Erstellung des Dienstplanes wird durch den SHI-Koordinator organisiert. Den Diensthabenden stehen aktuelle Informationen zur Bettensituation, Zugriff auf elektronische Patientendaten sowie Durchwahlnummern zu den diensthabenden Stationsärzten aller relevanten kardiologischen, kardiochirurgischen und kinderkardiologischen Abteilungen auf dem Campus zur Verfügung. 
 
-## **6. Weitere Aufgaben des SHI-Teams** 
+# **6. Weitere Aufgaben des SHI-Teams**
 
 Zu den weiteren Aufgaben des SHI-Teams gehören die Erarbeitung von internen Arbeitsanweisungen/SOPs für den Bereich SHI (z. B. Versorgung von kreislaufinstabilen Patienten mit akuter Herzinsuffizienz; diagnostisches und therapeutisches Vorgehen bei V. a. Myokarditis), die Durchführung von Fort- und Weiterbildungsveranstaltungen zum Thema SHI sowie die Durchführung interdisziplinärer Visiten auf kardiologischen, kinderkardiologischen und kardiochirurgischen Stationen mit SHI-Patienten. 
 
-## **7. SHI-Koordinator** 
+# **7. SHI-Koordinator**
 
 Der SHI-Koordinator koordiniert die Arbeit des SHI-Teams. Er verfügt dazu über Erfahrung mit der Behandlung von Patienten mit SHI und mit der Organisation interdisziplinärer Abläufe. Zu seinen Aufgaben gehören die Organisation der SHI-Konferenz (Erstellung einer Liste der zu besprechenden Fälle, elektronische Bereitstellung aller notwendigen Befunde zur Besprechung während der Konferenz, Archivierung und Zusendung der Sitzungs-Protokolle), der organisatorische Teil des SHITelefons (Erstellung eines Dienstplans, Erstellung einer tagesaktuellen Liste mit Ansprechpartnern und Kontaktdaten der zur Verfügung stehenden ambulanten und stationären Ressourcen) sowie die statistische Aufbereitung und Auswertung der Aktivitäten des SHI-Teams. 
 
-## **8. Weiterführende Literatur** 
+# **8. Weiterführende Literatur**
 
 1. McDonaghTA et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J 2021;42(36):3599-3726 
 
@@ -167,7 +155,7 @@ Der SHI-Koordinator koordiniert die Arbeit des SHI-Teams. Er verfügt dazu über
 
 5. Ertl, G. et al. Aufbau und Organisation von Herzinsuffizienz-Netzwerken (HF-NETs) und Herzinsuffizienz-Einheiten („Heart Failure Units“, HFUs) zur Optimierung der Behandlung der akuten und chronischen Herzinsuffizienz. Kardiologe (2016) 10: 222-235. 
 
-## **9. Inkrafttreten** 
+# **9. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

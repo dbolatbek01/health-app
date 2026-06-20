@@ -9,41 +9,7 @@ Röntgen im Herzkatheterlabor und Hybrid-OP
 
 Diese SOP gilt für alle Beschäftigten der Herzkatheterlabore und Hybrid-OPs 
 
-## **Änderungshistorie** 
-
-|**Version**|**Erstellung**|**Verfasser**|**Freigabe**|**Änderungsgrund**|**Wiedervorlage**|
-|---|---|---|---|---|---|
-|1.0|07.03.2018|Dentzer, J.|Polle, M.|Ersterstellung||
-|2.0|25.10.2018|Dentzer, J.|Polle, M.|Überarbeitung|25.10.2020|
-
-## **Inhaltsverzeichnis** 
-
-|Mitgeltende Unterlagen ................................................................................................................................ 3|Mitgeltende Unterlagen ................................................................................................................................ 3|
 |---|---|
-|1.|Hintergrund ...................................................................................................................................... 3|
-|2.|Gesetzliche Vorgaben ..................................................................................................................... 3|
-|3.|Geltungsbereich ............................................................................................................................... 3|
-|4.|Strahlenschutzverantwortliche und Strahlenschutzbevollmächtigte ............................................... 4|
-|5.|Strahlenschutzbeauftragte und Stellvertretungen ........................................................................... 4|
-|6.|Berechtigte Personen ...................................................................................................................... 4|
-|7.|Technische Angaben zu den eingesetzten Geräten ....................................................................... 5|
-|8.|Allgemeine Richtlinien und Anweisungen ........................................................................................ 7|
-|8.1|Indikationen zur Katheteruntersuchung ........................................................................................... 7|
-|8.2|Kontraindikationen ........................................................................................................................... 8|
-|8.3|Informationen und Unterlagen ......................................................................................................... 8|
-|8.4|Vorbereitung des Patienten ............................................................................................................. 8|
-|8.5|Standard-Projektionen ..................................................................................................................... 9|
-|8.6|Strahlenschutz ................................................................................................................................. 9|
-|8.7|Reduktion der Strahlenexposition .................................................................................................... 9|
-|8.8|Strahlenschutz des Personals ....................................................................................................... 10|
-|8.9|Schulungs- und Überwachungsmaßnahmen ................................................................................ 10|
-|10.|Diagnostische Referenzwerte ........................................................................................................ 10|
-|11.|Kontrastmittel (Anhaltspunkte) ...................................................................................................... 11|
-|12.|Patientenversorgung nach der Untersuchung ............................................................................... 11|
-|13.|Dokumentation ............................................................................................................................... 11|
-|14.|Archivierung ................................................................................................................................... 11|
-|15.|Qualitätssicherung an der Röntgenanlage .................................................................................... 12|
-|16.|Inkrafttreten .................................................................................................................................... 12|
 
 ## **Mitgeltende Unterlagen** 
 
@@ -51,11 +17,11 @@ Strahlenschutzverordnung – Verordnung zum Schutz vor der schädlichen Wirkung 
 
 https://www.gesetze-im-internet.de/strlschv_2018/ 
 
-## **1. Hintergrund** 
+# **1. Hintergrund**
 
 Diese SOP gilt als Arbeitsanweisung gemäß Abschnitt 8 „Anwendung ionisierender Strahlung oder radioaktiver Stoffe am Menschen“ der aktuellen Fassung der Verordnung zum Schutz vor der schädlichen Wirkung ionisierender Strahlung (Strahlenschutzverordnung - StrlSchV) für eine Röntgeneinrichtung zur Anwendung von Röntgenstrahlen am Menschen. 
 
-## **2. Gesetzliche Vorgaben** 
+# **2. Gesetzliche Vorgaben**
 
 Für jede Röntgeneinrichtung zur Anwendung von Röntgenstrahlung am Menschen sind schriftliche Arbeitsanweisungen für die an dieser Einrichtung häufig vorgenommenen Untersuchungen oder Behandlungen zu erstellen. Die Arbeitsanweisungen sind für die dort tätigen Personen zur jederzeitigen Einsicht bereitzuhalten und auf Anforderung den zuständigen Stellen zu übersenden 
 
@@ -63,7 +29,7 @@ Es wird empfohlen, auch für seltene Verfahren eine Arbeitsanweisung zu erstelle
 
 Die Verantwortung für die Umsetzung der Maßnahmen obliegt dem Strahlenschutzbeauftragten und dem Strahlenschutzverantwortlichen. 
 
-## **3. Geltungsbereich** 
+# **3. Geltungsbereich**
 
 Diese schriftliche Arbeitsanweisung gilt für folgende Institution: Deutsches Herzzentrum Berlin, Augustenburger Platz 1, 13353 Berlin. 
 
@@ -79,13 +45,13 @@ Diese Arbeitsanweisung ist gültig für den Einsatz der folgenden kardiologische
 |OP6|0.2326|Erdgeschoss|
 |OP8|0.2350|Erdgeschoss|
 
-## **4. Strahlenschutzverantwortliche und Strahlenschutzbevollmächtigte** 
+# **4. Strahlenschutzverantwortliche und Strahlenschutzbevollmächtigte**
 
 Strahlenschutzbevollmächtigte: Frau 
 
 Tel.: 030/4593-1726 
 
-## **5. Strahlenschutzbeauftragte und Stellvertretungen** 
+# **5. Strahlenschutzbeauftragte und Stellvertretungen**
 
 Strahlenschutzbeauftragter für die Röntgenstrahlenanwendung am Patienten: 
 
@@ -95,7 +61,7 @@ Strahlenschutzbeauftragter bei physikalischen, technischen und Strahlenschutzfra
 
 Weiterer Strahlenschutzbeauftragter bei physikalischen, technischen und Strahlenschutzfragen: 
 
-## **6. Berechtigte Personen** 
+# **6. Berechtigte Personen**
 
 Zur Anwendung von Röntgenstrahlung am Menschen sind gemäß Röntgenverordnung in oben genannter Röntgeneinrichtung folgende Personen berechtigt: 
 
@@ -117,7 +83,7 @@ Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass für Anlagen zur Er
 
 (2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass bei der Konstanzprüfung die Prüfmittel verwendet werden, die bei der Abnahmeprüfung für die Bestimmung der Bezugswerte verwendet wurden. 
 
-## **7. Technische Angaben zu den eingesetzten Geräten** 
+# **7. Technische Angaben zu den eingesetzten Geräten**
 
 ## **Herzkatheter 1** 
 
@@ -230,7 +196,7 @@ _Abhängigkeit zum Organprogram_|
 |Programme und Abschaltdosen|_Sicherheitsabschaltung ≤600mAs / 60KWs_|
 |Brennfleckgröße|_0,4 / 0,7_|
 
-## **8. Allgemeine Richtlinien und Anweisungen** 
+# **8. Allgemeine Richtlinien und Anweisungen**
 
 Ziel der Arbeitsanweisung ist eine verbesserte Umsetzung, Dokumentation und Qualitätssicherung bei der medizinischen Anwendung von Röntgenstrahlung am Menschen, die zu einer möglichst geringen Strahlenbelastung für den Patienten führt. 
 
@@ -238,7 +204,7 @@ Diesem Ziel dient die Vorgabe diagnostischer Referenzwerte, die vom Bundesamt f�
 
 Vom Bundesamt für Strahlenschutz (BfS) werden regelmäßig die aktuellen Diagnostischen Referenzwerte (DRW) auf Basis von StrlSchV und EURATOM-Richtlinie veröffentlicht. Die Dosiswerte gelten für Untersuchungen an Standardpatienten. Im Einzelfall können höhere Werte auftreten; diese sollen laut BfS begründet werden. Die DRW orientieren sich in erster Linie am Dosisflächenprodukt (DFP), ggf. aber auch an der Einfallsdosis. Kardangiographiegeräte müssen über ein DFP-Messgerät verfügen. 
 
-## **8.1 Indikationen zur Katheteruntersuchung** 
+## **8.1 Indikationen zur Katheteruntersuchung**
 
 Die Indikation zur Untersuchung/Behandlung kann nur durch den nach der StrlSchV fachkundigen Arzt gestellt werden. Das Papier „Orientierungshilfe für radiologische und nuklearmedizinische Untersuchungen“ der Strahlenschutzkommission (SSK) gibt hierfür Empfehlungen zur indikationsabhängigen Auswahl von bildgebenden Untersuchungen (www.ssk.de). 
 
@@ -258,11 +224,11 @@ Der Untersuchungen umfassen unter anderem diagnostische Darstellung und/oder the
 
 - den elektrischen Leitungsbahnen des Herzens 
 
-## **8.2 Kontraindikationen** 
+## **8.2 Kontraindikationen**
 
 Ausschließende Kriterien für die Anwendung einer Röntgenstrahlung sind grundsätzlich vor Beginn der Untersuchung festzustellen. In erster Linie ist dies eine bestehende Schwangerschaft. Sollte dennoch eine Anwendung notwendig sein, so ist die Indikation besonders streng zu prüfen. 
 
-## **8.3 Informationen und Unterlagen** 
+## **8.3 Informationen und Unterlagen**
 
 Folgende Informationen und Unterlagen sind vor der Untersuchung notwendig oder sollen geprüft werden, ob sie benötigt werden: 
 
@@ -298,7 +264,7 @@ Folgende Informationen und Unterlagen sind vor der Untersuchung notwendig oder s
 
 - problemrelevante Arztberichte 
 
-## **8.4 Vorbereitung des Patienten** 
+## **8.4 Vorbereitung des Patienten**
 
 - nüchtern, je nach Indikation 
 
@@ -314,7 +280,7 @@ Folgende Informationen und Unterlagen sind vor der Untersuchung notwendig oder s
 
 - sterile Abdeckung 
 
-## **8.5 Standard-Projektionen** 
+## **8.5 Standard-Projektionen**
 
 Standardprojektionen sind RAO 30° und LAO 45 bis 60° (45° aufgrund der Strahlenbelastung zu bevorzugen). Die Projektionen „PA caudal“ bzw. „PA cranial“ (mit jeweils ca. 15° Angulation nach caudal oder cranial) bieten für die Koronargefäße eine gute Darstellung mit erheblich niedriger Strahlenbelastung für den Untersucher als hemiaxiale Projektionen (ca. 30–45° RAO und/oder LAOProjektionen). 
 
@@ -336,11 +302,11 @@ Alle weiteren Projektionen können je nach Anatomie und Bedarf angewendet werden
 
 _Cranial = Richtungsbezeichnung. Cranial bedeutet schädelwärts oder den Schädel betreffend Caudal = Richtungsbezeichnung. Caudal bedeutet steißwärts oder die Lende betreffend. LIH  =   Last Image Hold = im DL-System gespeichertes letztes Durchleuchtungsbild_ 
 
-## **8.6 Strahlenschutz** 
+## **8.6 Strahlenschutz**
 
 Siehe auch Schächinger V et al. Leitlinie zum Einrichten und Betreiben von Herzkatheterlaboren und Hybrid-Operationssälen/Hybrid-Laboren. 3. Auflage 2015. Kardiologe 2015;9(1):89-123. 
 
-## **8.7 Reduktion der Strahlenexposition** 
+## **8.7 Reduktion der Strahlenexposition**
 
 - Lagerung des Patienten auf Bleiabdeckung oder Bleigummimatte in den Bereichen, die nicht durchleuchtet werden müssen (z.b. Beine unterhalb der Punktionsstelle bei femoralem Zugang) 
 
@@ -372,7 +338,7 @@ Siehe auch Schächinger V et al. Leitlinie zum Einrichten und Betreiben von Herz
 
 - Bei Zwei-Ebenen-Systemen ggf. eine Ebene abschalten, wenn die Dokumentation nicht benötigt wird (z.B. während einer Koronarintervention, wenn eine Ebene eine klare Darstellung des Verlaufes erlaubt) 
 
-## **8.8 Strahlenschutz des Personals** 
+## **8.8 Strahlenschutz des Personals**
 
 - Rundumschürzen wie Mantelschürzen und `Rock und Weste` bedeuten einen optimierten Strahlenschutz, da die Strahlenexposition hier aus mehreren Richtungen erfolgen kann (mindestens 0.35 mm Pb-Gleichwert) 
 
@@ -386,7 +352,7 @@ Siehe auch Schächinger V et al. Leitlinie zum Einrichten und Betreiben von Herz
 
 - Mitarbeiter, welche während der Strahlenanwendung nicht unbedingt erforderlich sind, verlassen den Untersuchungsraum. 
 
-## **8.9 Schulungs- und Überwachungsmaßnahmen** 
+## **8.9 Schulungs- und Überwachungsmaßnahmen**
 
 - jährliche Unterweisung im Strahlenschutz (Anwesenheitsbuch) 
 
@@ -394,7 +360,7 @@ Siehe auch Schächinger V et al. Leitlinie zum Einrichten und Betreiben von Herz
 
 - ggf. Fingerringdosimeter 
 
-## **9. Diagnostische Referenzwerte** 
+# **9. Diagnostische Referenzwerte**
 
 Bekanntmachung des Bundesamtes für Strahlenschutz vom 22.6.2016, sowie Aktualisierung der diagnostischen Referenzwerte für interventionell-radiologische Eingriffe am Erwachsenen vom 16. August 2018: 
 
@@ -413,7 +379,7 @@ Die diagnostischen Referenzwerte (DRW) dienen als obere Richtwerte, die im Durch
 |PTA Oberschenkel und Knie|4000|
 |PTA Unterschenkel und Fuß|2500|
 
-## **10. Kontrastmittel (Anhaltspunkte)** 
+# **10. Kontrastmittel (Anhaltspunkte)**
 
 - Diagnostischer HK: ca. 50–80 ml 
 
@@ -423,7 +389,7 @@ Die diagnostischen Referenzwerte (DRW) dienen als obere Richtwerte, die im Durch
 
 - Ventrikulographie in Abhängigkeit von der bildgebenden Vordiagnostik des Myokards 
 
-## **11. Patientenversorgung nach der Untersuchung** 
+# **11. Patientenversorgung nach der Untersuchung**
 
 - Druckverband (in Abhängigkeit von evtl. Verschluss-System und Zugangsweg) 
 
@@ -431,7 +397,7 @@ Die diagnostischen Referenzwerte (DRW) dienen als obere Richtwerte, die im Durch
 
 - PCI-Patienten über Nacht (stationär oder Praxisklinik) 
 
-## **12. Dokumentation** 
+# **12. Dokumentation**
 
 Die Dokumentation erfolgt im EDV-System nach DIN-Norm 6827-5. 
 
@@ -453,7 +419,7 @@ Zur Dokumentation gehören:
 
 - Qualitätssicherung 
 
-## **13. Archivierung** 
+# **13. Archivierung**
 
 Archivierung der Befunde gemäß StrlSchV, DIN und Ausführungen des Bundesamtes für Sicherheit in der Informationstechnik (BSI) – Mindestdauer 10 Jahre. 
 
@@ -467,13 +433,13 @@ Elektronisches Dokumentationssystem für Bilder: IntelliSpace Cardiovascular von
 
 Archivierung der Herzkatheter-Bilder (10 Jahre) im Hauseigenen PACS 
 
-## **14. Qualitätssicherung an der Röntgenanlage** 
+# **14. Qualitätssicherung an der Röntgenanlage**
 
 - regelmäßige Konstanzprüfung gemäß StrlSchV § 130 Maßnahmen zur Qualitätssicherung durch ärztliche und zahnärztliche Stellen, 
 
 - Sachverständigenprüfung nach StrlSchV § 88 Wartung und Prüfung 
 
-## **15. Inkrafttreten** 
+# **15. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

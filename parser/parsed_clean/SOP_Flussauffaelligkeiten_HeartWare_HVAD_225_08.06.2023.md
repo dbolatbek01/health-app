@@ -26,8 +26,6 @@ Ja
 Nein
 Ergebnis /
 weiter
-**----- End of picture text -----**
-
 
 „Hohe-Leistung“-Alarm oder Symptome von neu aufgetretenem Herzversagen oder
 Leistung 1W über Vorwert anhaltend niedrige Flusswerte >2l/min unter mittlerem Vorwert
@@ -53,6 +51,4 @@ Normalisierung Pumpenwechsel
 Leistung / Hämolyse  auf HeartMate 3
 Normalisierung INR-Zielbereich Orale Antikoag. Korrektur-OP
 des Akustikspektrums erhöhen und Entlassung des Ausflussgrafts
-**----- End of picture text -----**
-
 

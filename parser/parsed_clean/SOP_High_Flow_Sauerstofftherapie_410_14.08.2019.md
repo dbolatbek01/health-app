@@ -11,21 +11,11 @@ Organisationseinheit IPS
 
 **Änderungshistorie Version gültig ab Verfasser Freigabe Änderungsgrund Wiedervorlage** 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Wirkweise ........................................................................................................................................ 3|
 |---|---|
-|2.|Indikation ......................................................................................................................................... 3|
-|3.|Kontraindikation ............................................................................................................................... 3|
-|4.|Durchführung ................................................................................................................................... 3|
-|4.1|Aufbau (TNI softFLOW 50) .............................................................................................................. 3|
-|4.2|Einstellungen ................................................................................................................................... 3|
-|5.|Literatur ............................................................................................................................................ 4|
-|6.|Inkrafttreten ...................................................................................................................................... 4|
 
 Aus Gründen der besseren Lesbarkeit wird auf die gleichzeitige Verwendung männlicher und weiblicher Sprachformen verzichtet. Sämtliche Personenbezeichnungen gelten für beiderlei Geschlecht. 
 
-## **1. Wirkweise** 
+# **1. Wirkweise**
 
 - Verbesserung der Oxygenierung → konstante FiO2, konstanter PEEP 
 
@@ -41,7 +31,7 @@ Aus Gründen der besseren Lesbarkeit wird auf die gleichzeitige Verwendung männ
 
 - Variabel im klinischen Einsatz mit maximaler hygienischer Sicherheit 
 
-## **2. Indikation** 
+# **2. Indikation**
 
 - Oxygenierungsstörung 
 
@@ -51,7 +41,7 @@ Aus Gründen der besseren Lesbarkeit wird auf die gleichzeitige Verwendung männ
 
 - Schlafapnoe 
 
-## **3. Kontraindikation** 
+# **3. Kontraindikation**
 
 - Verschluss der oberen Atemwege 
 
@@ -59,13 +49,13 @@ Aus Gründen der besseren Lesbarkeit wird auf die gleichzeitige Verwendung männ
 
 - Epileptische Anfälle 
 
-## **4. Durchführung** 
+# **4. Durchführung**
 
-## **4.1 Aufbau (TNI softFLOW 50)** 
+## **4.1 Aufbau (TNI softFLOW 50)**
 
 Detaillierte Aufbauanleitung im Befeuchter Klinik-Hygieneset (REF 40620040) 
 
-## **4.2 Einstellungen** 
+## **4.2 Einstellungen**
 
 - Flussmenge von 20 bis 50 l/min 
 
@@ -75,7 +65,7 @@ Detaillierte Aufbauanleitung im Befeuchter Klinik-Hygieneset (REF 40620040)
 
 - − Variabel im klinischen Einsatz mit maximaler hygienischer Sicherheit 
 
-## **5. Literatur** 
+# **5. Literatur**
 
 1. S3-Leitlinie Invasive Beatmung und Einsatz extrakorporaler Verfahren bei akuter respiratorischer Insuffizienz 1. Auflage, Langversion, Stand 04.12.2017 
 
@@ -85,7 +75,7 @@ Detaillierte Aufbauanleitung im Befeuchter Klinik-Hygieneset (REF 40620040)
 
 4. Respir Care. 2017 Sep;62(9):1193-1202. doi: 10.4187/respcare.05473. Epub 2017 Aug 14. 
 
-## **6. Inkrafttreten** 
+# **6. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

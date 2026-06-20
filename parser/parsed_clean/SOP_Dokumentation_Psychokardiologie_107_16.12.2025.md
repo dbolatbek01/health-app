@@ -1,18 +1,18 @@
 **Dokumentation in der Psychokardiologie** 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Die vorliegende SOP definiert die verbindlichen Vorgaben zur ambulanten und stationären Dokumentation im Arbeitsbereich Psychokardiologie **.** Ziel ist es, eine einheitliche, nachvollziehbare und prüfbare Dokumentation sicherzustellen, die den internen Qualitätsstandards und regulatorischen Anforderungen entspricht. 
 
-## **2. Geltungsbereich / Zielgruppe** 
+# **2. Geltungsbereich / Zielgruppe**
 
 Diese SOP gilt für alle Mitarbeitenden im Arbeitsbereich Psychokardiologie sowie für alle internen Beteiligten, die an der Erstellung, Bearbeitung oder Prüfung von Dokumentationen in diesem Bereich beteiligt sind. 
 
-## **3. Prozessbeschreibung** 
+# **3. Prozessbeschreibung**
 
 Dieser Prozess beschreibt die Vorgehensweise zur Erstellung, Bearbeitung und Archivierung von Dokumentationen im ambulanten und stationären Bereich des Deutschen Herzzentrums der Charité. Ziel ist es, eine einheitliche und nachvollziehbare Dokumentation sicherzustellen, die alle regulatorischen und internen Qualitätsstandards erfüllt. 
 
-## **3.1 Ambulante Dokumentation (HSA) – Psychosoziale Evaluationsberichte vor einer thorakalen Organtransplantation** 
+## **3.1 Ambulante Dokumentation (HSA) – Psychosoziale Evaluationsberichte vor einer thorakalen Organtransplantation**
 
 ||||||
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ täts-management|SAP, Psychosoziale
 Evaluationsbe-
 richte|Einmal im Quartal|
 
-## **3.2 Ambulante Dokumentation (HSA) – Sonstige Patientenkontakte** 
+## **3.2 Ambulante Dokumentation (HSA) – Sonstige Patientenkontakte**
 
 ||||||
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ management|SAP, Berichtswesen|Halbjährlich|
 
 Geltungsbereich: Psychokardiologie 
 
-## **3.3 Stationäre Dokumentation (Konsile) – Psychosoziale Evaluationsberichte vor einer thorakalen Organtransplantation** 
+## **3.3 Stationäre Dokumentation (Konsile) – Psychosoziale Evaluationsberichte vor einer thorakalen Organtransplantation**
 
 ||||||
 |---|---|---|---|---|
@@ -140,7 +140,7 @@ an das Team|Teaminternes Quali-
 tätsmanagement|Psychosoziale Eva-
 luationsberichte|Halbjährlich|
 
-## **3.4 Stationäre Dokumentation (Konsile) – alle anderen Patientenkontakte** 
+## **3.4 Stationäre Dokumentation (Konsile) – alle anderen Patientenkontakte**
 
 ||||||
 |---|---|---|---|---|

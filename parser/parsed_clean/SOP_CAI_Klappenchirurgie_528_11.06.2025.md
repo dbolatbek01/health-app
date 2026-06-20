@@ -1,6 +1,6 @@
 **CAI Klappenchirurgie** 
 
-## **1. Herzklappen** 
+# **1. Herzklappen**
 
 Für alle kardiochirurgischen Eingriffe an den Herzklappen gilt: 
 
@@ -18,7 +18,7 @@ Für alle kardiochirurgischen Eingriffe an den Herzklappen gilt:
 
 - Anlage temporärer epikardialer Schrittmacherelektroden 
 
-## **2. Minimalinvasive Chirurgie (MIC)** 
+# **2. Minimalinvasive Chirurgie (MIC)**
 
 Für MIC-Eingriffe gilt zudem: 
 
@@ -44,11 +44,11 @@ Für MIC-Eingriffe gilt zudem:
 
 - Anlage temporärer epikardialer Schrittmacherelektroden indiziert bei TKR/E, Kryoablation bzw. immer bei Rhythmusproblematik nach Aorta auf; im Falle von Re-MIC bei Schrittmacherindikation transvenöses Vorgehen, entweder primär jugulär durch Anästhesie oder sekundär transfemoral durch Chirurgie 
 
-## **3. Robotic MIC** 
+# **3. Robotic MIC**
 
 - s. SOP532 “CAI Robotic Cardiac Surgery” 
 
-## **4. Trikuspidalklappe** 
+# **4. Trikuspidalklappe**
 
 Für Eingriffe an der Trikuspidalklappe gilt zudem 
 
@@ -56,7 +56,7 @@ Für Eingriffe an der Trikuspidalklappe gilt zudem
 
 - Swan-Ganz in Rücksprache mit dem Operateur 
 
-## **5. Reoperation** 
+# **5. Reoperation**
 
 Für Re-Eingriffe gilt zudem 
 

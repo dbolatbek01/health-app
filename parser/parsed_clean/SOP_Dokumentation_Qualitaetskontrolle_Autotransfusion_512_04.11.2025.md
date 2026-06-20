@@ -1,12 +1,12 @@
 ## Dokumentation und Qualitätskontrolle Maschinelle Autotransfusion
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Umsetzung des Anhangs G2a des QM-Handbuchs Anwendung von Blutprodukten in den OP-Bereichen des DHZC. 
 
-## **2. Dokumentation** 
+# **2. Dokumentation**
 
-## **2.1 Torin-Formular „Maschinelle Autotransfusion“** 
+## **2.1 Torin-Formular „Maschinelle Autotransfusion“**
 
 Das Formular findet sich unter den Sicherheitschecklisten auf dem Narkoseprotokoll. Dokumentiert werden müssen bzw. werden automatisch durch Torin dokumentiert: 
 
@@ -60,13 +60,13 @@ Die Herstellung ist nach § 67 Absatz 1 Arzneimittelgesetz (AMG) der zuständige
 
 Nach Anpassung erfolgt eine Unterschrift durch den verantwortlichen Arzt / die verantwortliche Ärztin. 
 
-## **2.2 m.life-Dokumentation** 
+## **2.2 m.life-Dokumentation**
 
 In m.life erfolgt nur eine Dokumentation des retransfundierten aufbereiteten Blutvolumens. 
 
 ## Dokumentation und Qualitätskontrolle Maschinelle Autotransfusion
 
-## **2.3 Zuständigkeit** 
+## **2.3 Zuständigkeit**
 
 Für die Dokumentationsabschnitte „MAT-Daten OP“ sowie „MAT-Materialdokumentation OP“ ist primär der Anästhesie-FD verantwortlich. 
 
@@ -74,13 +74,13 @@ Für den Dokumentationsblock „MAT-Parameter gesamte OP“ sind FD und AD Anäs
 
 Für die m.life-Dokumentation sind beide Berufsgruppen des Anästhesie-Teams verantwortlich. 
 
-## **3. Qualitätskontrolle** 
+# **3. Qualitätskontrolle**
 
-## **3.1 Praktische Durchführung** 
+## **3.1 Praktische Durchführung**
 
 Die praktische Durchführung ist in Anhang 2 konkretisiert. Die Verantwortung für die monatliche Durchführung liegt bei den beauftragten Mitarbeitenden des Funktions- sowie Arztdienstes Anästhesie. 
 
-## **3.2 Dokumentation** 
+## **3.2 Dokumentation**
 
 Die Qualitätskontrolle (QK) erfolgt entsprechend des Charité-Standards einmal pro Monat für jeden CellSaver. Durch Setzen des Hakens „Qualitätskontrolle durchgeführt“ wird auf dem Formular der benötigte Dokumentationsblock ergänzt: 
 
@@ -88,7 +88,7 @@ Die „MAT-Qualitätsdaten OP“ werden durch das Anästhesieteam dokumentiert, 
 
 Die Ergänzung der „MAT-Qualitätskontrolle ZTB“ erfolgt durch das QS-Team des ZTB, nachdem die erforderlichen Laborwerte vorliegen. Dies bestätigt abschließend auch die Vollständigkeit der QK-Daten. Die Bewertung der MAT-QK-Daten erfolgt durch den TV und den QBH des DHZC im Regelfall quartalsweise. 
 
-## **4. Mitgeltende Dokumente** 
+# **4. Mitgeltende Dokumente**
 
 - Qualitätsmanagement Handbuch für die Anwendung von Blutprodukten 
 
@@ -96,7 +96,7 @@ Die Ergänzung der „MAT-Qualitätskontrolle ZTB“ erfolgt durch das QS-Team d
 
 ## **Anhang 1. step-by-step Dokumentationsanleitung** 
 
-## **1. Dokumentation des Routineinsatzes** 
+# **1. Dokumentation des Routineinsatzes**
 
 1. Auswahl des Cell-Savers beim Start der Dokumentation sowie 
 
@@ -122,7 +122,7 @@ Abschließend bestätigt der verantwortliche Arzt nach Anpassung des hinterlegte
 
 ## Dokumentation und Qualitätskontrolle Maschinelle Autotransfusion
 
-## **2. Dokumentation der Qualitätskontrolle** 
+# **2. Dokumentation der Qualitätskontrolle**
 
 Durch Markierung von Qualitätskontrolle durchgeführt öffnet sich der Dokumentationsblock „MATQualitätsdaten OP“ unterhalb der Unterschrift des verantwortlichen Arztes / der verantwortlichen Ärztin: 
 
@@ -138,19 +138,19 @@ Die Daten unter „MAT-Qualitätskontrolle ZTB“ werden durch Mitarbeitende des
 
 ## **Anhang 2. Praktische Durchführung der Qualitätskontrolle** 
 
-## **1. Durchführung der Qualitätskontrolle** 
+# **1. Durchführung der Qualitätskontrolle**
 
 Die Abnahme der Qualitätskontrollen sollte immer aus einer komplett gefüllten Glocke erfolgen. Man muss zwischen einer „Endaufbereitung“ und einer „Zwischenaufbereitung“ unterscheiden. 
 
-## **2. Endaufbereitung** 
+# **2. Endaufbereitung**
 
 Bei der Endaufbereitung ist in der Regel das zu verarbeitende Volumen so groß, dass mehrere Waschvorgänge erforderlich sind, um dieses gänzlich zu verarbeiten. Somit erfolgt die Probenentnahme einerseits aus dem gesamten zu verarbeitenden Volumen und andererseits aus dem kompletten AEKVolumen (AEK = autologes Erythrozytenkonzentrat). 
 
-## **3. Zwischenaufbereitung, Aufbereitung einer Glocke** 
+# **3. Zwischenaufbereitung, Aufbereitung einer Glocke**
 
 Die Probenentnahme erfolgt nur aus dem verarbeiteten Volumen einer Glocke (das Volumen, was benötigt wurde, um die frühestens 2. Glocke komplett zu füllen) und dem kompletten AEK-Volumen, das aus dieser Glocke entstanden ist (der Retransfusionsbeutel sollte also vorher geleert worden sein). 
 
-## **4. Vorsichtsmaßnahmen bei der Probenentnahme** 
+# **4. Vorsichtsmaßnahmen bei der Probenentnahme**
 
 - Die Proben bitte nicht in der Blutungsphase abnehmen 
 
@@ -160,7 +160,7 @@ Die Probenentnahme erfolgt nur aus dem verarbeiteten Volumen einer Glocke (das V
 
 - Eine Probenentnahme aus dem 1. Lauf („aus der 1. Glocke“), sollte wegen der Sedimentbildung vermieden werden 
 
-## **5. Durchführung der Entnahme am Reservoir** 
+# **5. Durchführung der Entnahme am Reservoir**
 
 - Das MAT-QM-Set wird steril zwischen dem Waschset-Anschluss-Port am Reservoir und der WaschsetLeitung angeschlossen 
 
@@ -180,7 +180,7 @@ Die Probenentnahme erfolgt nur aus dem verarbeiteten Volumen einer Glocke (das V
 
 - Drei-Wege-Hahn verschließen und die Monovetten abnehmen und beschriften 
 
-## **6. Durchführung der Entnahme aus dem Retransfusionsbeutel** 
+# **6. Durchführung der Entnahme aus dem Retransfusionsbeutel**
 
 - Den Retransfusionsbeutel vorsichtig durchmischen 
 

@@ -1,7 +1,7 @@
 
 **Pflege: Präoperative Vorbereitung von Transplantationspatienten** 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Eine Herz-, Lungen- oder kombinierte Herz-Lungentransplantation erfolgt, sobald ein Spenderorgan verfügbar ist und wird wie eine Notfalloperation behandelt. 
 
@@ -13,27 +13,27 @@ Die wichtigsten Ziele für die präoperative pflegerische Vorbereitung bei der T
 
 - Priorisierung pflegerischer Maßnahmen unter Berücksichtigung der Patientenbedürfnisse 
 
-## **2. Prozessverantwortliche Person** 
+# **2. Prozessverantwortliche Person**
 
 Pflegefachkräfte 
 
-## **3. Geltungsbereich / Zielgruppe** 
+# **3. Geltungsbereich / Zielgruppe**
 
 Alle bettenführenden Bereiche des DHZC. 
 
-## **4. Begriffsdefinitionen** 
+# **4. Begriffsdefinitionen**
 
 Die Herztransplantation ist ein chirurgischer Eingriff, bei dem das erkrankte Herz durch ein gesundes Spenderherz ersetzt wird. Diese Maßnahme wird in der Regel bei Patienten durchgeführt, die an schwerem Herzversagen leiden und bei denen andere therapeutische Optionen wie Medikamente oder mechanische Unterstützungssysteme nicht mehr ausreichend wirksam sind. 
 
-## **5. Prozessbeschreibung** 
+# **5. Prozessbeschreibung**
 
-## **5.1 Patientenankündigung** 
+## **5.1 Patientenankündigung**
 
 Der TX-Koordinator kündigt den prä-TX-Patienten an: 
 
 → Erfragen der Stammdaten: Name, Vorname, Geburtsdatum, HTX oder LTX, voraussichtliche Ankunft des Patienten und voraussichtliche OP-Uhrzeit. 
 
-## **5.2 Informationsweitergabe** 
+## **5.2 Informationsweitergabe**
 
 Folgende Funktionsbereiche werden mit Übermittlung der Patientendaten informiert: 
 
@@ -43,7 +43,7 @@ Folgende Funktionsbereiche werden mit Übermittlung der Patientendaten informier
 
 - Röntgen (zur Terminabsprache) 
 
-## **5.3 Vorbereitung zur Patientenaufnahme** 
+## **5.3 Vorbereitung zur Patientenaufnahme**
 
 Folgende Unterlagen und Materialien werden angelegt, vorbereitet und bereitgestellt: 
 
@@ -64,8 +64,6 @@ Folgende Unterlagen und Materialien werden angelegt, vorbereitet und bereitgeste
 - Laborpaket in Lauris (TX-Vorbereitung Herz, Herz-Lunge oder TX-Vorbereitung Lunge), MRSA - Screening und Covid-Schnelltest (AG-Test) 
 
 g
-**----- End of picture text -----**
-
 
 ## Pflege: Präoperative Vorbereitung von Transplantationspatienten
 
@@ -73,7 +71,7 @@ g
 
 **Achtung** : Alle Blutentnahme-Röhrchen müssen eine Mindestfüllmenge von 2 ml Blut haben. 
 
-## **5.4 Patientenübernahme** 
+## **5.4 Patientenübernahme**
 
 - Telefonische Information an Anmeldung über Ankunft des Patienten und Faxen der notwendigen Unterlagen (ggf. selbst Kurzaufnahme in SAP tätigen, wenn Anmeldung unbesetzt, mind. 2 Bögen mit Patientenetiketten ausdrucken) 
 
@@ -109,7 +107,7 @@ g
 
 - Patienteneigene Wäsche verpacken und mit Plombe versehen, Plombennummer im Wertsachenbuch und in SAP und/oder M-Life dokumentieren 
 
-## **5.5 Abruf in den OP** 
+## **5.5 Abruf in den OP**
 
 - Gabe von Immunsuppressiva nach ärztl. Anordnung (Achtung: bei Sandimmun-Lösung® keinen Plastikbecher oder Strohhalm benutzen); Prograf (Tacrolismus) i.v. als Perfusor verabreichen oder als Fertiggspritze mit in den OP geben 
 
@@ -119,13 +117,13 @@ g
 
 - **Transport in den OP** : Übergabe des Patienten und der erforderlichen Unterlagen erfolgt persönlich durch die zuständige Pflegekraft an die Transportkraft. Bei Bedarf gemeinsamer Transport 
 
-## **5.6 Nachbereitung** 
+## **5.6 Nachbereitung**
 
 - Bettplatz erst dann abrüsten, sobald die finale Bestätigung des OPs eingetroffen ist und der Patient auch wirklich operiert wird. 
 
 - Materialien anschließend entsorgen. 
 
-## **6. Dokumentation** 
+# **6. Dokumentation**
 
 Eintrag in m.life unter: Pflege/OP-Vorbereitung, Team Time Out Verlegung über SAP. 
 

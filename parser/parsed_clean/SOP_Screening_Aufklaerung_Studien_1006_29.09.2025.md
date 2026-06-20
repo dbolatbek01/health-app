@@ -4,27 +4,13 @@
 
 **Screening, Aufklärung, Einwilligung und** Geltungsbereich: **Einschluss von volljährigen Patienten im Rahmen** Klinische Studien, alle **klinischer Studien (PS-SOP-PI-01)** Standorte 
 
-## **Inhaltsverzeichnis** 
-
-|1|Ziel .................................................................................................................................................. 3|
 |---|---|
-|2|Prozessverantwortliche Person und Verantwortlichkeiten ................................................................. 3|
-|2.1|Prozessverantwortliche Person ......................................................................................................... 3|
-|2.2|Verantwortlichkeiten: ........................................................................................................................ 3|
-|3|Geltungsbereich / Zielgruppe ........................................................................................................... 3|
-|4|Definitionen ..................................................................................................................................... 3|
-|5|Prozessbeschreibung ...................................................................................................................... 4|
-|5.1|Identifikation potentieller Studienteilnehmer (Screening) ................................................................... 4|
-|5.2|Patientenansprache und Durchführung der Patientenaufklärung ....................................................... 5|
 ||5.2.1
 Vorbedingungen und Vorbereitung .......................................................................... 5|
 ||5.2.2
 Zu verwendende Aufklärungsunterlagen.................................................................. 6|
 ||5.2.3
 Das Aufklärungsgespräch ....................................................................................... 7|
-|5.3|Einholung der Patienteneinwilligung .................................................................................................. 8|
-|5.4|Formaler Patienteneinschluss (Patientenregistrierung) .................................................................... 10|
-|5.5|Dokumentationen ........................................................................................................................... 11|
 ||5.5.1
 Dokumentation des Aufklärungs- und Einwilligungsprozesses ................................ 11|
 ||5.5.2
@@ -33,28 +19,22 @@ Dokumentation in der Patientenakte .............................................
 Dokumentation in den Studiendokumenten ............................................................ 11|
 ||5.5.4
 Markierung des Studienpatienten im KIS ............................................................... 12|
-|5.6|Randomisierung ............................................................................................................................. 12|
-|5.7|Umgang mit Einwilligungserklärungen im Rahmen von Studien des DZHK...................................... 12|
-|6|Mitgeltende Dokumente ................................................................................................................. 12|
-|7|Anlage ........................................................................................................................................... 13|
-|8|Abkürzungen und Begriffsdefinitionen ............................................................................................ 13|
-|9|Änderungshistorie .......................................................................................................................... 13|
 
 **Screening, Aufklärung, Einwilligung und Einschluss von volljährigen Patienten im Rahmen klinischer Studien (PS-SOP-PI-01)** 
 
 Geltungsbereich: Klinische Studien, alle Standorte 
 
-## **1 Ziel** 
+# **1 Ziel**
 
 Diese SOP legt die Schritte und Anforderungen für das Screening von potenziellen Studienteilnehmern, die Patientenaufklärung und -einwilligung sowie den Patienteneinschluss im Rahmen klinischer Studien fest. Ziel ist es, sicherzustellen, dass alle Prozesse im Einklang mit den ethischen Richtlinien, gesetzlichen Bestimmungen und dem Studienprotokoll durchgeführt werden. 
 
-## **2 Prozessverantwortliche Person und Verantwortlichkeiten** 
+# **2 Prozessverantwortliche Person und Verantwortlichkeiten**
 
-## **2.1 Prozessverantwortliche Person** 
+## **2.1 Prozessverantwortliche Person**
 
 Die lokale Leitung der studiendurchführenden Abteilung sowie der Hauptprüfer der spezifischen Studie. 
 
-## **2.2 Verantwortlichkeiten:** 
+## **2.2 Verantwortlichkeiten:**
 
 |**2.2**
 **Verantwortlichkeiten:**||
@@ -70,11 +50,11 @@ mentation der Einwilligung.|
 Study Nurses|Unterstützung der aufklärenden Person im Rahmen der Dokumen-
 tation des Aufklärungs-und Einwilligungsprozesses.|
 
-## **3 Geltungsbereich / Zielgruppe** 
+# **3 Geltungsbereich / Zielgruppe**
 
 Diese SOP ist standortübergreifend für alle Mitarbeiter des DHZC verbindlich, die in die Vorbereitung und Durchführung klinischer Studien involviert sind. Sie gilt für alle klinischen Studien (inkl. Biobanking, Sub-Studien), unabhängig von ihrem Studiendesign. 
 
-## **4 Definitionen** 
+# **4 Definitionen**
 
 |**4**
 **Definitionen**||
@@ -105,9 +85,9 @@ sind.|
 
 Geltungsbereich: Klinische Studien, alle Standorte 
 
-## **5 Prozessbeschreibung** 
+# **5 Prozessbeschreibung**
 
-## **5.1 Identifikation potentieller Studienteilnehmer (Screening)** 
+## **5.1 Identifikation potentieller Studienteilnehmer (Screening)**
 
 Das aktive Screening potenzieller Studienpatienten erfolgt unter Berücksichtigung der infrastrukturellen Gegebenheiten der jeweiligen Klinik und unter Nutzung verschiedener Rekrutierungsquellen. Diese können sein: 
 
@@ -171,9 +151,9 @@ Potenzielle Studienteilnehmer, die zum aktuellen Zeitpunkt die Ein- und Ausschlu
 
 Die Übernahme von Annahmen bzw. erfolgreich geprüft einen späteren Zeitpunkt ist nicht zulässig und entspricht Vorgaben. 
 
-## **5.2 Patientenansprache und Durchführung der Patientenaufklärung** 
+## **5.2 Patientenansprache und Durchführung der Patientenaufklärung**
 
-## 5.2.1 Vorbedingungen und Vorbereitung 
+### 5.2.1 Vorbedingungen und Vorbereitung
 
 Die Ansprache potentieller Studienpatienten und die entsprechende Aufklärung ist ein äußerst sensibler Bereich. Die Einwilligung zur Teilnahme an einer klinischen Studie setzt eine umfassende Aufklärung über mögliche Nebenwirkungen, unsichere Ergebnisse und unvorhergesehene Komplikationen voraus, die den potentiellen Patienten vorab in verständlicher Form mitgeteilt werden müssen. 
 
@@ -186,27 +166,27 @@ Die Ansprache potentieller Studienpatienten und die entsprechende Aufklärung is
 
 Die folgenden Punkte stellen daher die grundlegenden Anforderungen an jede Patientenaufklärung und jedes Aufklärungsgespräches dar, die zwingend zu beachten sind: 
 
-## 1. Freiwilligkeit 
+# 1. Freiwilligkeit
 
 Die Patienten müssen darüber informiert werden, dass die Teilnahme an der Studie völlig freiwillig ist. Es ist ausdrücklich darauf hinzuweisen, dass eine Nicht-Teilnahme keine Auswirkungen auf die weitere medizinische Behandlung hat. Des Weiteren muss klar kommuniziert werden, dass die Patienten ihre Studienteilnahme jederzeit und ohne Konsequenzen widerrufen können. 
 
-## 2. Vertraulichkeit 
+# 2. Vertraulichkeit
 
 Die Wahrung der Privatsphäre und der Datenschutz sind sehr wichtig. Es muss transparent gemacht werden, wie persönliche Daten verarbeitet und geschützt werden. 
 
-## 3. Ansprechbarkeit 
+# 3. Ansprechbarkeit
 
 Während der Ansprache und auch während der Studie sollten die Patienten jederzeit die Möglichkeit haben, Fragen zu stellen. Ein Ansprechpartner sollte den Studienpatienten jederzeit zur Verfügung stehen, um bei Unsicherheiten oder Unklarheiten Hilfestellung leisten zu können. 
 
-## 4. Empathie und Respekt 
+# 4. Empathie und Respekt
 
 Eine respektvolle, verständnisvolle und einfühlsame Kommunikation ist entscheidend. Studienpatienten könnten sich wegen gesundheitlicher Probleme oder einer Unsicherheit bezüglich der Studie Sorgen machen, daher sollte die Ansprache nicht nur ehrlich, sondern insbesondere geduldig, respektvoll und ohne Druck/Zwang erfolgen. Der Wunsch nach Rücksprache mit Angehörigen bzw. Vertrauenspersonen ist zwingend Folge zu leisten. 
 
-## 5. Ärztliche Verantwortlichkeit 
+# 5. Ärztliche Verantwortlichkeit
 
 Die Aufklärung potentieller Studienpatienten ist eine Aufgabe der ärztlichen Mitglieder der Prüfgruppe. Nur diese dürfen, in Übereinstimmung und unter Berücksichtigung des entsprechenden Delegation-Logs, diese Tätigkeit ausüben. 
 
-## 5.2.2 Zu verwendende Aufklärungsunterlagen 
+### 5.2.2 Zu verwendende Aufklärungsunterlagen
 
 Vor jedem Aufklärungsgespräch ist darauf zu achten, dass die aktuellste, von den zuständigen Behörden genehmigte Patienteninformation sowie die entsprechende Einwilligungserklärung verwendet werden. 
 
@@ -222,7 +202,7 @@ Die verwendeten Aufklärungsunterlagen müssen die Adresse der durchführenden E
 
 Studienkoordination 
 
-## 5.2.3 Das Aufklärungsgespräch 
+### 5.2.3 Das Aufklärungsgespräch
 
 Es ist sicherzustellen, dass der Patient bei vollem Bewusstsein und Einwilligungsfähigkeit ist. Bevorstehende oder zurückliegende Diagnostiken/Interventionen sind vorab zu prüfen und zeitlich entsprechend zu berücksichtigen. Bei Unsicherheit ist das Aufklärungsgespräch auf den darauffolgenden Tag zu verschieben. 
 
@@ -283,7 +263,7 @@ Im Anschluss an das Aufklärungsgespräch ist dem Patienten ausreichend Bedenkze
 
 Ärztliche Mitglieder der Prüfgruppe (aufklärende Person) 
 
-## **5.3 Einholung der Patienteneinwilligung** 
+## **5.3 Einholung der Patienteneinwilligung**
 
 Im Vorfeld der Patienteneinwilligung ist die Einwilligungsfähigkeit des Patienten zu überprüfen (insbesondere, wenn die Einwilligung an einem der darauffolgenden Tage nach der Studienaufklärung erfolgt). Der Patient muss in einem Zustand sein, der es ihm ermöglicht, eine informierte und autonome Entscheidung zu treffen. 
 
@@ -363,7 +343,7 @@ Zusätzlich ist dem Patienten die Versicherungsbescheinigung (sofern zutreffend)
 
 Sollten im Studienprotokoll, Patienteninformation oder der Einwilligungserklärung zusätzliche Dokumente/Broschüren/Übersichten erwähnt werden, die für den Studienteilnehmer bestimmt sind, sind ihm diese zusätzlich auszuhändigen (z.B. Patiententagebuch, Gebrauchsinformationen). 
 
-## **5.4 Formaler Patienteneinschluss (Patientenregistrierung)** 
+## **5.4 Formaler Patienteneinschluss (Patientenregistrierung)**
 
 Der formale Patienteneinschluss, d.h. die Registrierung des Patienten erfolgt immer gemäß den Angaben im zugrundeliegenden Studienprotokoll. 
 
@@ -383,9 +363,9 @@ Studienkoordination
 
 Geltungsbereich: Klinische Studien, alle Standorte 
 
-## **5.5 Dokumentationen** 
+## **5.5 Dokumentationen**
 
-## 5.5.1 Dokumentation des Aufklärungs- und Einwilligungsprozesses 
+### 5.5.1 Dokumentation des Aufklärungs- und Einwilligungsprozesses
 
 Im Anschluss an die Patientenaufklärung und -einwilligung ist der Aufklärungs- und Einwilligungsprozess nachweislich zu dokumentieren. 
 
@@ -399,7 +379,7 @@ Das vollständig ausgefüllte und signierte Dokument zur Dokumentation des Aufkl
 
 Studienkoordination 
 
-## 5.5.2 Dokumentation in der Patientenakte 
+### 5.5.2 Dokumentation in der Patientenakte
 
 Die Studienteilnahme und das Datum der Einwilligung ist in der Patientenakte sowie im Arztbrief des zugrundeliegenden Aufenthaltes (ambulant o- der stationär) – zusammen mit einer kurzen Erläuterung der Studie und einer Kontaktadresse für Rückfragen behandelnder Ärzte - zu dokumentieren. 
 
@@ -413,7 +393,7 @@ Darüber hinaus ist zu dokumentieren, welche Unterlagen/Dokumente dem Patienten 
 
 Ärztliche Mitglieder der Prüfgruppe (aufklärende Person) 
 
-## 5.5.3 Dokumentation in den Studiendokumenten 
+### 5.5.3 Dokumentation in den Studiendokumenten
 
 Sobald der Patient in die Studie eingeschlossen wurde, ist der Patient im studienspezifischen Patientenidentifikations-Log zu dokumentieren. Die Eintragung muss, gemäß den Anforderungen des Logs, vollständig erfolgen. 
 
@@ -435,7 +415,7 @@ Sind gemäß Studienprotokoll zusätzliche und studienspezifische Dokumentatione
 
 Studienkoordination 
 
-## 5.5.4 Markierung des Studienpatienten im KIS 
+### 5.5.4 Markierung des Studienpatienten im KIS
 
 Im Rahmen der regulatorischen Erfordernisse und im Kontext der Patientensicherheit ist eine Markierung von Studienteilnehmern im KIS zwingend durchzuführen (siehe ZVA „Markierung von Studienteilnehmenden im KIS“) 
 
@@ -443,17 +423,17 @@ Im Rahmen der regulatorischen Erfordernisse und im Kontext der Patientensicherhe
 
 Studienkoordination 
 
-## **5.6 Randomisierung** 
+## **5.6 Randomisierung**
 
 An dieser Stelle soll auf die entsprechende SOP „PS-SOP-PM-01 Randomisierung im Rahmen einer klinischen Studie“ verwiesen werden. 
 
-## **5.7 Umgang mit Einwilligungserklärungen im Rahmen von Studien des DZHK** 
+## **5.7 Umgang mit Einwilligungserklärungen im Rahmen von Studien des DZHK**
 
 Gemäß den Prozessen des DZHK sind Einwilligungserklärungen im Rahmen der Registrierung eines neuen Studienteilnehmers in SecuTrial hochzuladen. Hierfür wird die Einwilligungserklärungen vorab eingescannt und in einem zugriffsgeschützten Bereich (C é-Server) der Prüfstelle abgelegt oder an die personengebundene E adresse der Studienkoordination gesendet. Nach dem prozesskonformen Upload sind die Ei gungserklärungen **unverzüglich** vom Charité-Server bzw. dem E - Postfach zu löschen. Die Löschung ist durch die löschende Person entsprechend zu dokumentieren. 
 
 Studienkoordination 
 
-## **6 Mitgeltende Dokumente** 
+# **6 Mitgeltende Dokumente**
 
 ## ZVA „Markierung von Studienteilnehmenden im KIS“ 
 
@@ -463,11 +443,11 @@ PS-SOP-PM-01 (Randomisierung im Rahmen einer klinischen Studie)
 
 Geltungsbereich: Klinische Studien, alle Standorte 
 
-## **7 Anlage** 
+# **7 Anlage**
 
 Anlage 1 Dokumentation des Aufklärungs- und Einwilligungsprozesses (PS-TP-PT-01) 
 
-## **8 Abkürzungen und Begriffsdefinitionen** 
+# **8 Abkürzungen und Begriffsdefinitionen**
 
 |AMG|Arzneimittelgesetz|
 |---|---|
@@ -480,26 +460,6 @@ mular|
 _Note to File_|
 |SOP|_Standard Operating Procedure_|
 |ZVA|Zentrale Verwaltungsanweisung|
-
-## **9 Änderungshistorie** 
-
-|Version|Änderungsgrund bzw. Kurzbeschreibung (Abschnitt) der Änderungen|
-|---|---|
-|V1.0|
-Ersterstellung|
-|V2.0|
-Anpassung an Richtlinien und generelle Überarbeitung aller Abschnitte|
-|||
-
-Alle Anpassungen an dieser SOP werden lückenlos im Excel-Änderungsprotokoll (Formblatt FATP-QM-02) dokumentiert. 
-
-Die aktuelle Version des Änderungsprotokolls ist gemeinsam mit dieser SOP im zentralen QMRepository (\DHZC\FO\Studien\Studienzentrale\0-FS-QMS) abgelegt. Bei jeder Überarbeitung ist das Protokoll vor Freigabe zu aktualisieren und zusammen mit der neuen SOP-Version einzureichen. Vorherige Versionen des Änderungsprotokolls bleiben archiviert und sind für Audits mindestens 10 Jahre elektronisch verfügbar. 
-
-|Version:
-2.0|SOP-Nr.: 1006|Letzte Überprüfung|Letzte Überprüfung|||||||||Seite
-13 von 13|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||||||
 
 ## **Dokumentation des Aufklärungs- und Einwilligungsprozesses** 
 

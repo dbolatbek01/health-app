@@ -7,27 +7,7 @@
 
 Klinik für Herz-, Thorax- und Gefäßchirurgie Klinik für Kardioanästhesiologie und Intensivmedizin 
 
-## **Inhaltsverzeichnis** 
-
-|Änderungen zur Vorversion .......................................................................................................................... 3|Änderungen zur Vorversion .......................................................................................................................... 3|
 |---|---|
-|1.|Ziel ................................................................................................................................................... 3|
-|2.|Patientenübernahme ....................................................................................................................... 3|
-|2.1|Zuständigkeit ................................................................................................................................... 3|
-|2.2|Entscheidung ................................................................................................................................... 3|
-|2.3|Information Aortentelefon ................................................................................................................ 3|
-|2.4|Information intern ............................................................................................................................. 3|
-|2.5|Maßnahmen bei eingeschränkten OP-Kapazitäten ......................................................................... 3|
-|3.|Aufgabenablauf AvD Aortentelefon ................................................................................................. 4|
-|3.1|Kontaktaufnahme Zuweiser ............................................................................................................ 4|
-|3.2|Kontaktaufnahme Leitstelle ............................................................................................................. 4|
-|3.3|Digitales Aortenprotokoll (Online-Formular) .................................................................................... 4|
-|3.4|Laborwerte ....................................................................................................................................... 4|
-|3.5|Bilddaten .......................................................................................................................................... 4|
-|3.6|Dokumentation ................................................................................................................................. 4|
-|3.7|Information Hubschrauberlandeplatz ............................................................................................... 5|
-|4.|Kontaktdaten .................................................................................................................................... 5|
-|Anhang: Kliniken mit VPN-Anbindung für den digitalen Bildtransfer ............................................................ 6||
 
 ## **Änderungen zur Vorversion** 
 
@@ -35,29 +15,29 @@ Kapitel 2.1 Zuständigkeit neu eingefügt.
 
 Kapitel 2.2 Änderung: „ab 16:00 Uhr durch den ersten chirurgischen Hausdienst“ (vorher: durch diensthabenden OA), Rücksprache mit dem diensthabenden Gefäßchirurgen DHZC Kapitel 2.5 Zuweisung an die Gefäßchirurgie Charité neu eingefügt. Kapitel 4 Kontaktdaten aktualisiert. 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Die vorliegende SOP regelt das Vorgehen für die Aufnahme von Patienten mit Akuten Aortensyndromen (AAS) im DHZC. 
 
-## **2. Patientenübernahme** 
+# **2. Patientenübernahme**
 
-## **2.1 Zuständigkeit** 
+## **2.1 Zuständigkeit**
 
 Bei jedem Verdacht auf ein AAS muss die Übernahme über das Aortentelefon des DHZC besprochen werden: 
 
 von EXTERN: (030) 4593 2007 von Charité INTERN: 97-2007 von DHZC INTERN (Standort AP): 2007 
 
-## **2.2 Entscheidung** 
+## **2.2 Entscheidung**
 
 Die Entscheidung zur Aufnahme von Patienten mit AAS erfolgt, nach telefonischer Rücksprache mit dem Arzt vom Dienst = AvD des Aortentelefons, durch den koordinierenden Oberarzt der Herzchirurgie, ab 16:00 Uhr durch den ersten herzchirurgischen Hausdienst. 
 
 **Achtung** : Bei Aufnahme nach 16:00 Uhr muss bei allen Fällen außer akuten Aortendissektionen Typ A Rücksprache mit dem diensthabenden Gefäßchirurgen im DHZC erfolgen. 
 
-## **2.3 Information Aortentelefon** 
+## **2.3 Information Aortentelefon**
 
 Diese informieren sofort den AvD des Aortentelefons und übermitteln die Kontaktdaten des zuständigen Ansprechpartners der zuweisenden Klinik. 
 
-## **2.4 Information intern** 
+## **2.4 Information intern**
 
 Weitere Informationen erfolgen dann ausschließlich über den AvD des Aortentelefons. 
 
@@ -71,37 +51,37 @@ Regelmäßige Weitergabe der Informationen und etwaigen Veränderungen über Ank
 
 - AvD der Herz-, Thorax-, und Gefäßchirurgie 
 
-## **2.5 Maßnahmen bei eingeschränkten OP-Kapazitäten** 
+## **2.5 Maßnahmen bei eingeschränkten OP-Kapazitäten**
 
 Alle Fälle von AAS müssen im DHZC aufgenommen werden. 
 
 Bei eingeschränkten OP-Kapazitäten besteht für alle anderen Aortensyndrome (AS) (ausgenommen Aorta ascendens und Aortenbogen) die Möglichkeit, nach Rücksprache mit dem diensthabenden Gefäßchirurgen des DHZC an die Kollegen der Gefäßchirurgie der Charité zu überweisen. Die Kontaktdaten sind unter Punkt 4 aufgeführt. 
 
-## **3. Aufgabenablauf AvD Aortentelefon** 
+# **3. Aufgabenablauf AvD Aortentelefon**
 
-## **3.1 Kontaktaufnahme Zuweiser** 
+## **3.1 Kontaktaufnahme Zuweiser**
 
 Es erfolgt eine sofortige Kontaktaufnahme mit der zuweisenden Klinik. Den zuweisenden Kollegen wird mitgeteilt, dass man der alleinige Ansprechkontakt für diesen Notfall ist und dass sämtliche Kommunikation und Entscheidungen über den AvD des Aortentelefons erfolgen. 
 
-## **3.2 Kontaktaufnahme Leitstelle** 
+## **3.2 Kontaktaufnahme Leitstelle**
 
 Die Kontaktaufnahme mit der zuständigen Leitstelle des Rettungsdienstes erfolgt durch den AvD Aortentelefon. Stichwort: „Akute Typ A Aortendissektion (ATAAD) oder AAS“, Notfallverlegung ins DHZC. **Achtung:** Bei Verlegung mit der Diagnose oAAS (insbesondere ATAAD) in das DHZC muss von der Leitstelle innerhalb von 15 Minuten ein Rettungsmittel zur Verfügung gestellt werden (gesetzliche Hilfsfrist). 
 
-## **3.3 Digitales Aortenprotokoll (Online-Formular)** 
+## **3.3 Digitales Aortenprotokoll (Online-Formular)**
 
 Die zuweisenden Kollegen füllen sofort nach Übernahmeentscheidung das digitale Aortenprotokoll (Aortentelefon Online-Formular) aus, abzurufen auf der Webseite des DHZC unter https://www.dhzb.de/service/im-notfall/ 
 
-## **3.4 Laborwerte** 
+## **3.4 Laborwerte**
 
 Es werden folgende Laborwerte von der zuweisenden Einrichtung benötigt: Großes Blutbild, aktuelle Gerinnung, CK, CK-MB, D-Dimere und Troponin. Informationen zur Einstellung des Zielblutdrucks und der Medikamentenempfehlungen findet der Zuweiser auf der DHZC-Webseite unter https://www.dhzb.de/de/service/im-notfall/ (→ Notfallmanagement). 
 
 **Hinweis:** Keine Transportverzögerung durch Anlage von zusätzlichen Kathetern und Zugängen. Der sofortige Transport hat oberste Priorität. 
 
-## **3.5 Bilddaten** 
+## **3.5 Bilddaten**
 
 Im Anschluss werden die Möglichkeiten des digitalen Bilddatentransfers besprochen. Die CD mit den radiologischen Bilddaten muss unabhängig davon immer mitgegeben werden. Die Kliniken mit VPNAnbindung sind im Anhang gelistet. 
 
-## **3.6 Dokumentation** 
+## **3.6 Dokumentation**
 
 Sobald der Zuweiser das digitale Aortenprotokoll online ausgefüllt und abgeschickt hat, geht dieses über einen automatisierten Faxversand an 
 
@@ -129,11 +109,11 @@ Die Protokolle müssen in der Rettungsstelle vom administrativen Patientenmanage
 
 Die Protokolle werden durch den aufnehmenden Arzt der WD1i in SAP hinterlegt. 
 
-## **3.7 Information Hubschrauberlandeplatz** 
+## **3.7 Information Hubschrauberlandeplatz**
 
 Bei Patientenübernahme informiert die Patientenaufnahme des DHZC immer (24/7, auch nachts) die Koordination des Hubschrauberlandeplatzes der Charité Campus Virchow Klinikum. 
 
-## **4. Kontaktdaten** 
+# **4. Kontaktdaten**
 
 ## **DHZC** 
 

@@ -33,22 +33,7 @@ Polle, M.
 Aktualisierung
 15.06.2021|||
 
-## **Inhaltsverzeichnis** 
-
-|Änderungen zu Version 6.0 .......................................................................................................................... 3|Änderungen zu Version 6.0 .......................................................................................................................... 3|
 |---|---|
-|Mitgeltende Unterlagen ................................................................................................................................ 4||
-|1.|Ziel und Zweck ................................................................................................................................. 4|
-|2.|Mitgeltende Gesetze, Verordnungen, Leitlinien .............................................................................. 4|
-|3.|Indikation, Kontraindikation ............................................................................................................. 4|
-|4.|Patientenvorbereitung ...................................................................................................................... 4|
-|5.|Untersuchungsablauf ....................................................................................................................... 5|
-|6.|Einstelltechnik .................................................................................................................................. 6|
-|7.|Aufnahmetechnik ............................................................................................................................. 6|
-|8.|Strahlenschutz ................................................................................................................................. 6|
-|9.|Bildverarbeitung, Bildbearbeitung .................................................................................................... 7|
-|10.|Dokumentation, Befundung, Leistungserfassung ............................................................................ 8|
-|11.|Inkrafttreten ...................................................................................................................................... 8|
 
 ## **Änderungen zu Version 6.0** 
 
@@ -64,7 +49,7 @@ _Die digitale Röntgenanforderung wird mit ausgefüllter ROE-Nummer abgeschlosse
 
 SOP145 Anforderung und Befundung von Röntgenaufnahmen SOP058 Hygienehandbuch Liste aller Ärzte mit Fachkunde im Strahlenschutz (im Intranet) 
 
-## **1. Ziel und Zweck** 
+# **1. Ziel und Zweck**
 
 Erstellung einer kontrastreichen Röntgen-Übersichtsaufnahme des Thorax und des Mediastinalraums am liegenden oder sitzenden Patienten im Bett zur Erkennung von krankhaften Veränderungen oder Abnormitäten. 
 
@@ -72,7 +57,7 @@ Diese SOP gilt für die Aufnahme "Bett-Thorax ap“ im Liegen oder Sitzen auf St
 
 **Achtung** : Diese SOP gilt nur für Röntgenuntersuchungen von erwachsenen Patienten. 
 
-## **2. Mitgeltende Gesetze, Verordnungen, Leitlinien** 
+# **2. Mitgeltende Gesetze, Verordnungen, Leitlinien**
 
 1. Gesetz zum Schutz vor der schädlichen Wirkung ionisierender Strahlung (Strahlenschutzgesetz – StrlSchG) 
 
@@ -80,7 +65,7 @@ Diese SOP gilt für die Aufnahme "Bett-Thorax ap“ im Liegen oder Sitzen auf St
 
 3. Leitlinien für die Überweisung zur Durchführung von Bild gebenden Verfahren (Strahlenschutz 118) 4. Leitlinie der Bundesärztekammer zur Qualitätssicherung in der Röntgendiagnostik. Qualitätskriterien röntgendiagnostischer Untersuchungen 
 
-## **3. Indikation, Kontraindikation** 
+# **3. Indikation, Kontraindikation**
 
 ## **Indikation** 
 
@@ -98,7 +83,7 @@ Diese SOP gilt für die Aufnahme "Bett-Thorax ap“ im Liegen oder Sitzen auf St
 
 - DA-Untersuchung 
 
-## **4. Patientenvorbereitung** 
+# **4. Patientenvorbereitung**
 
 - Schwangerschaftsausschluss 
 
@@ -108,9 +93,9 @@ Diese SOP gilt für die Aufnahme "Bett-Thorax ap“ im Liegen oder Sitzen auf St
 
 - Strahlenschutz 
 
-## **5. Untersuchungsablauf** 
+# **5. Untersuchungsablauf**
 
-## **6. Einstelltechnik** 
+# **6. Einstelltechnik**
 
 ## **Liegend a.p.** 
 
@@ -156,7 +141,7 @@ Falls notwendig kann die Aufnahme auch sitzend a.p. angefertigt werden (stark lu
 
 - Zeichen, Einblendung, Atemkommando: s.o. 
 
-## **7.** 
+# **7.**
 
 ## **Aufnahmetechnik** 
 
@@ -169,15 +154,15 @@ Falls notwendig kann die Aufnahme auch sitzend a.p. angefertigt werden (stark lu
 |**a.p.**|35 x 43||digital|130|105 - 113|1,0 – 1,25|15|
 |**sitzend**|35 x 43||digital|150-180|105 - 113|1,25|15|
 
-## **8. Strahlenschutz** 
+# **8. Strahlenschutz**
 
 - Bleigummiabdeckung der an die Einblendung des Nutzstrahlenfeldes anschließenden Körperabschnitte 
 
 - evtl. weitere im Raum befindliche Patienten mit Gonadenschutz versehen, fahrbare Strahlenschutzwände zu den benachbarten Patienten 
 
-## **9. Bildverarbeitung, Bildbearbeitung** 
+# **9. Bildverarbeitung, Bildbearbeitung**
 
-## **10. Dokumentation, Befundung, Leistungserfassung** 
+# **10. Dokumentation, Befundung, Leistungserfassung**
 
 Die Dokumentation und die Befundung erfolgen im RIS (CardIS). 
 
@@ -211,7 +196,7 @@ Die Archivierung erfolgt über das hausinterne PACS (ISCV) sowie Versand an Jive
 
 Die elektronische Röntgenanforderung wird mit ausgefüllter ROE-Nummer abgeschlossen und ist in der digitalen Krankenakte des Patienten gespeichert. (Aufbewahrungspflicht). 
 
-## **11. Inkrafttreten** 
+# **11. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

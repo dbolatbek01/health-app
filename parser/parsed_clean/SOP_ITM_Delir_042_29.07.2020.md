@@ -13,23 +13,9 @@ Organisationseinheiten HTG, Anästhesie
 
 Therapieschema des hyperaktiven Delirs 
 
-Änderungshistorie
-Version  gültig ab  Verfasser  Freigabe  Änderungsgrund  Wiedervorlage
 Brecht, S.
-**----- End of picture text -----**
 
-
-## **Inhaltsverzeichnis** 
-
-|Mitgeltende Unterlagen ................................................................................................................................ 3|Mitgeltende Unterlagen ................................................................................................................................ 3|
 |---|---|
-|1.|Grundlagen ...................................................................................................................................... 3|
-|1.1|Ziel ................................................................................................................................................... 3|
-|1.2|Dokumentation und Visite ................................................................................................................ 3|
-|2.|Prophylaxe ....................................................................................................................................... 3|
-|3.|Diagnose .......................................................................................................................................... 4|
-|4.|Therapie ........................................................................................................................................... 5|
-|5.|Inkrafttreten ...................................................................................................................................... 5|
 
 Aus Gründen der besseren Lesbarkeit wird die männliche Schreibform verwendet. Es werden jedoch alle Geschlechter gleichermaßen angesprochen. 
 
@@ -37,19 +23,19 @@ Aus Gründen der besseren Lesbarkeit wird die männliche Schreibform verwendet. 
 
 SOP041 Analgosedierung SOP500 Postoperative Akut-Schmerztherapie erwachsener Patienten SOP520 Anästhesieaufklärung und Prämedikation bei Erwachsenen 
 
-## **1. Grundlagen** 
+# **1. Grundlagen**
 
-## **1.1 Ziel** 
+## **1.1 Ziel**
 
 Das Delir ist eine Organdysfunktion des Gehirns mit multifaktorieller Ursache. 
 
 Insbesondere nach kardiochirurgischen Eingriffen ist die Delirinzidenz mit bis zu 50 % sehr hoch und korreliert mit Morbidität und Mortalität. Während die prädisponierenden Faktoren wie z. B. Alter, neurologische Vorerkrankungen und Art des Eingriffs in der Regel nicht zu beeinflussen sind, kann das Behandlungsteam die präzipitierenden Faktoren, die im weiteren Verlauf auf den Patienten einwirken, in der Regel modifizieren. 
 
-## **1.2 Dokumentation und Visite** 
+## **1.2 Dokumentation und Visite**
 
 Entsprechend der SOP041 Analgosedierung wird bei jeder Visite das Sedierungsziel festgelegt. Ab einem RASS von -2 wird durch die zuständige Pflegekraft einmal pro Schicht und bei Veränderungen des klinischen Zustands ein Delir-Screening mit Hilfe der Intensive Care Delirium Screening Checklist (ICDSC) durchgeführt (m.life: Neuropaket E). Ein Wert von 1 bis 3 Punkten kann ein Hinweis auf ein subsyndromales Delir sein und gilt als Risiko für die Entwicklung eines hyperaktiven Delirs. Ab einem Wert von 4 Punkten ist von einem manifesten Delir auszugehen und es sollte umgehend die symptomorientierte Therapie begonnen werden (s. Kapitel 4). 
 
-## **2. Prophylaxe** 
+# **2. Prophylaxe**
 
 Durch **Vermeidung von tiefer Sedierung** kann die Delir-Inzidenz signifikant gesenkt werden. Eine adäquate Schmerztherapie ist eine weitere Maßnahme, um ein Delir zu vermeiden oder zu verkürzen. Dafür gelten die SOP041 Analgosedierung und SOP500 postoperative Schmerztherapie. Dabei sollte beachtet werden, dass Patienten, die aufgrund ihres Delirs hinsichtlich ihres Schmerzempfindens nicht sicher evaluiert werden können und invasiv beatmet sind, eine kontinuierliche Gabe von Opiaten erhalten. Zeigen die Patienten bei potentiell schmerzhaften Stimuli (Lagerungsmaßnahmen, Absaugen usw.) eine Schmerz- oder Abwehrreaktion, erhalten die Patienten eine Bolusgabe des Opiats, aber keine Vertiefung der Sedierung. 
 
@@ -111,7 +97,7 @@ Daneben haben nicht medikamentöse Therapien die größte Bedeutung in der Proph
 
    - ausreichende Beleuchtung tagsüber (Fenster nicht verdunkeln, Licht nicht dimmen) 
 
-## **3. Diagnose** 
+# **3. Diagnose**
 
 Bei erweckbaren Patienten (RASS ≥ -2) wird einmal pro Schicht oder bei Veränderung des klinischen Zustandes ein Delir-Screening mit Hilfe der Intensive Care Delirium Screening Checklist (ICDSC) durchgeführt. Ein Wert von 1 bis 3 Punkten kann ein Hinweis auf ein subsyndromales Delir sein. Ab einem Wert von 4 Punkten ist von einem manifesten Delir auszugehen. 
 
@@ -135,7 +121,7 @@ Nach Diagnosestellung muss umgehend nach reversiblen Auslösern eines Delirs ges
 
 Sofern ein möglicher Auslöser identifiziert werden kann, wird dieser umgehend therapiert. Dazu gehört auch der **Ausschluss eines Status nonconvulsivus** im Rahmen eines hypoaktiven Delirs. 
 
-## **4. Therapie** 
+# **4. Therapie**
 
 Auch nach Diagnosestellung ist der wichtigste Therapieansatz die **Fortführung der unter Punkt 2.** genannten Maßnahmen. 
 
@@ -177,7 +163,7 @@ Eine Ausnahme bildet das akute **Alkoholentzugsdelir** , welches primär mit **L
 
 - **Vitamin B12** (intial 1 mg i.v., dann 1 mg i.m./Woche) 
 
-## **5. Inkrafttreten** 
+# **5. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

@@ -7,23 +7,7 @@ Protokollbasierte Beatmungsentwöhnung zur geplanten Extubation (Weaning) (Weani
 
 Standort Augustenburger Platz Intensivstationen WD1i und WD2i 
 
-## **Inhaltsverzeichnis** 
-
-|Präambel ...................................................................................................................................................... 3|Präambel ...................................................................................................................................................... 3|
 |---|---|
-|1.|Ziel ................................................................................................................................................... 3|
-|2.|Geltungsbereich / Zielgruppe .......................................................................................................... 3|
-|3.|Prozessverantwortliche Personen ................................................................................................... 3|
-|4.|Abkürzungsverzeichnis .................................................................................................................... 4|
-|5.|Vorgehen bei der protokollbasierten Beatmungsentwöhnung ........................................................ 5|
-|5.1|Spontanatmungsversuch ................................................................................................................. 6|
-|5.1.1|Kriterien zur Erfassung der Spontanatmungskapazität ................................................................... 6|
-|5.1.2|Durchführung des Spontanatmungsversuchs ................................................................................. 6|
-|5.1.3|Vorgehen bei gescheitertem Spontanatmungsversuch .................................................................. 7|
-|5.2|Beatmungsentwöhnung ................................................................................................................... 8|
-|5.3|Therapiestrategien in der prolongierten Beatmungsentwöhnung ................................................... 9|
-|6.|Dokumentation und Datenerhebung .............................................................................................. 10|
-|7.|Literatur .......................................................................................................................................... 10|
 
 ## **Präambel** 
 
@@ -31,17 +15,17 @@ Die vorliegende SOP wurde in Anlehnung an die gleichnamige SOP der Klinik AIS Ce
 
 Besonderheiten der Intensivstationen WD1i/WD2i des DHZC Standort Augustenburger Platz angepasst. 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Die protokollbasierte Entwöhnung beschreibt ein standardisiertes Vorgehen zur Einschätzung der Spontanatmungskapazität des Patienten als Grundlage für die Entscheidung für eine Extubation. Damit sollen frustrane Extubationsversuche und hohe Reintubationsraten, die ein erhöhtes Risiko für   den Erwerb einer nosokomialen Pneumonie darstellen, sowie die Provokation einer Erschöpfung der Atemmuskulatur vermieden werden. Zudem dient die tägliche Einschätzung der Spontanatmungskapazität der Reevaluierung der maschinellen Unterstützung der Beatmung und der Identifikation des optimalen Zeitpunkts für zügiges und erfolgreiches Weaning von maschineller Unterstützung. 
 
 Diese SOP gilt für die Behandlung aller Patienten mit invasiver und nicht invasiver Beatmung (NIV). 
 
-## **2. Geltungsbereich / Zielgruppe** 
+# **2. Geltungsbereich / Zielgruppe**
 
 Die vorliegende SOP gilt für alle Ärzte, Pflegekräfte, Atemtherapeuten, Physiotherapeuten der Intensivstationen des DHZC WD1i und WD2i in Zusammenarbeit mit weiteren beteiligten Berufsgruppen (Logopädie, Ergotherapie, Psychologie). 
 
-## **3. Prozessverantwortliche Personen** 
+# **3. Prozessverantwortliche Personen**
 
 |**Einschätzung der Entwöhnungsbereitschaft ( "Readiness to Wean")**|**Einschätzung der Entwöhnungsbereitschaft ( "Readiness to Wean")**|
 |---|---|
@@ -138,7 +122,7 @@ KontrolleWeaning-Dokumentation|
 |||
 |||
 
-## **4. Abkürzungsverzeichnis** 
+# **4. Abkürzungsverzeichnis**
 
 |AF|Atemfrequenz|
 |---|---|
@@ -154,7 +138,7 @@ KontrolleWeaning-Dokumentation|
 
 ID Innendurchmesser paCO2 Arterieller Kohlendioxidpartialdruck paO2 Arterieller Sauerstoffpartialdruck PDMS Patientendaten-Managementsystem PEEP Positiver endexspiratorischer Druck RASS Richmond Agitation Sedation Scale RSBI Rapid Shallow Breathing Index SBT Spontaneous Breathing Trial (Spontanatmungsversuch) SpO2 Pulsoxymetrische Sauerstoffsättigung ScvO2 Zentralvenöse Sauerstoffsättigung SvO2 Gemischtvenöse Sauerstoffsättigung SOP Standard Operation Procedure TK Trachealkanüle Vt Tidalvolumen 
 
-## **5. Vorgehen bei der protokollbasierten Beatmungsentwöhnung** 
+# **5. Vorgehen bei der protokollbasierten Beatmungsentwöhnung**
 
 Phasen der invasiven Positiv-Druckbeatmung und Beginn der Entwöhnung 
 
@@ -172,9 +156,9 @@ Phasen der invasiven Positiv-Druckbeatmung und Beginn der Entwöhnung
 
 Algorithmus zur protokollbasierten Beatmungsentwöhnung [1] 
 
-## **5.1 Spontanatmungsversuch** 
+## **5.1 Spontanatmungsversuch**
 
-## **5.1.1 Kriterien zur Erfassung der Spontanatmungskapazität** 
+### **5.1.1 Kriterien zur Erfassung der Spontanatmungskapazität**
 
 **Tabelle 2.** Voraussetzung für die Durchführung eines Spontanatmungsversuchs (SBT) 
 
@@ -219,7 +203,7 @@ Patienten|PDMS|
 ||Schutzreflexe(Husten und Schlucken)vorhanden|Arzt|
 |**Metabolische Kriterien**|Temperatur < 38,5°C|PDMS|
 
-## **5.1.2 Durchführung des Spontanatmungsversuchs** 
+### **5.1.2 Durchführung des Spontanatmungsversuchs**
 
 **Tabelle 3.** Durchführungsschritte des Spontanatmungsversuchs 
 
@@ -262,7 +246,7 @@ erreicht.|Arzt/Pflege|
 |**Extubationskriterien**|||
 ||||
 
-## **5.1.3  Vorgehen bei gescheitertem Spontanatmungsversuch** 
+### **5.1.3  Vorgehen bei gescheitertem Spontanatmungsversuch**
 
 Nach einem gescheitertem SBT ist eine systematische Suche nach potenziell reversiblen Ursachen durchzuführen (Tab. 4). 
 
@@ -334,7 +318,7 @@ sollte angestrebt werden.(Einzelfallentscheidung) [8,9]|
 Erschöpfung innerhalb von 24 h|
 |Nicht invasive Beatmung erforderlich?|ja/nein|
 
-## **5.2 Beatmungsentwöhnung** 
+## **5.2 Beatmungsentwöhnung**
 
 Patienten im Weaning, mittlerweile tracheotomiert, können in folgenden Stufen von der Beatmung entwöhnt werden. 
 
@@ -369,7 +353,7 @@ Wenn > 3 Minuten:
 
 - Respiratorische Azidose/Hyperkapnie, bzw. CO 2-Anstieg ist als Maß für die Erschöpfung zu sehen (siehe BGA) 
 
-## **5.3 Therapiestrategien in der prolongierten Beatmungsentwöhnung** 
+## **5.3 Therapiestrategien in der prolongierten Beatmungsentwöhnung**
 
 Gelingt die Entwöhnung von der Beatmung innerhalb der ersten 7 Tage und 3 frustranen Spontanatmungsversuchen nach erstem Spontanatmungsversuch nicht, folgen die Strategien zur Entwöhnung von der Beatmung der S2k-Leitlinie zum prolongierten Weaning [5]. Die wichtigsten Therapieprinzipien zusammengefasst: 
 
@@ -389,7 +373,7 @@ Gelingt die Entwöhnung von der Beatmung innerhalb der ersten 7 Tage und 3 frust
 
 - Aufgrund der Geräteausrüstung werden in der Regel folgende Beatmungsmodi während der prolongierten Entwöhnung eingesetzt: `o` Kombination aus kontrollierter und druckunterstützter Spontanatmung (BIPAP-ASB/BiLevel-ASB) `o` Druckunterstützte Beatmung (ASB) 
 
-## **6. Dokumentation und Datenerhebung** 
+# **6. Dokumentation und Datenerhebung**
 
 Dokumentation im PDMS: 
 
@@ -413,7 +397,7 @@ RSB/BGA am Ende des Spontanatmungsversuches
 
 - Wöchentliche Teamsitzung (PDMS) 
 
-## **7. Literatur** 
+# **7. Literatur**
 
 1. Spies C et al., Hrsg. SOPs in Anästhesie, Intensivmedizin, Notfallmedizin und Schmerztherapie. 2. Aufl. Kap. 21 Intensivmedizin. Stuttgart: Thieme, 2024: S. 759. 
 

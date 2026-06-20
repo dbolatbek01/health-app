@@ -7,18 +7,13 @@ Weiterreichung von Rettungsdienstprotokollen der Berliner Feuerwehr (Rettungsdie
 
 Patientenaufnahme Alle Stationen 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Hintergrund ...................................................................................................................................... 3|
 |---|---|
-|2.|Vorgehen ......................................................................................................................................... 3|
-|3.|Flussdiagramm eingehende Rettungsdienstprotokolle ................................................................... 3|
 
-## **1. Hintergrund** 
+# **1. Hintergrund**
 
 Die Berliner Feuerwehr hat die Dokumentation ihrer Einsätze auf eine elektronische Datenübermittlung umgestellt. Diese Dokumentation wird nach Abschluss des Einsatzes vom Notarzt erstellt anschließend an das Deutsche Herzzentrum der Charité (DHZC) übermittelt. 
 
-## **2. Vorgehen** 
+# **2. Vorgehen**
 
 Im DHZC wurde dafür die E -Adresse Rettungsdienstprotokolle@dhzc-charite.de eingerichtet. Die eingehenden E s werden automatisiert an die Fax-Nummer 1003 weitergeleitet und gehen in der Patientenaufnahme ein. Diese ist für die Weitergabe der eingegangenen Dokumente an die aufnehmende Station verantwortlich. 
 
@@ -26,7 +21,7 @@ Die Dokumentation trifft damit regelhaft nach Eintreffen des Patienten im DHZC e
 
 Dokumentationen, welche nicht einem im DHZC befindliche Patienten zugeordnet werden können, verbleiben in der Aufnahme bis zur Klärung des Aufenthaltsorts des Patienten. 
 
-## **3. Flussdiagramm eingehende Rettungsdienstprotokolle** 
+# **3. Flussdiagramm eingehende Rettungsdienstprotokolle**
 
 Patient kommt mit
 1
@@ -48,6 +43,4 @@ Aufnahme auf das FAX der Station geschickt  e auf FAX ), DHZC
 sendet FAX auf die
 Station
 * NAW = Notarztwagen
-**----- End of picture text -----**
-
 

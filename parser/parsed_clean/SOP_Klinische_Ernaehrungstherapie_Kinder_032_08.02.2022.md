@@ -9,62 +9,23 @@ Klinische Ernährungstherapie bei Kindern
 
 Klinik für Angeborene Herzfehler – Kinderkardiologie: Arztdienst, Pflegedienst 
 
-Änderungshistorie
-Version  Erstellt
 1.1  01.02.2022  Layout Kap. 6  31.12.2023
-**----- End of picture text -----**
 
-
-## **Inhaltsverzeichnis** 
-
-|Mitgeltende Dokumente ................................................................................................................................ 4|Mitgeltende Dokumente ................................................................................................................................ 4|
 |---|---|
-|1.|Einleitung ......................................................................................................................................... 4|
-|2.|Ernährungstherapeutische Ziele ...................................................................................................... 4|
-|2.1|Volumen ........................................................................................................................................... 5|
-|2.2|Kalorien ............................................................................................................................................ 5|
-|2.3|Kohlenhydrate .................................................................................................................................. 5|
-|2.4|Eiweiß, Aminosäuren ....................................................................................................................... 5|
-|2.5|Lipide ............................................................................................................................................... 5|
-|2.6|Mikronährstoffe ................................................................................................................................ 5|
-|2.7|Besondere Umstände ...................................................................................................................... 6|
-|3.|Applikationsweg und Start der Substratzufuhr ................................................................................ 6|
-|4.|Enterale Ernährung .......................................................................................................................... 6|
-|4.1|Nahrungsart ..................................................................................................................................... 6|
-|4.2|Protokoll zum Nahrungsaufbau ....................................................................................................... 7|
-|4.3|Gängige Nahrungsergänzungsmittel ............................................................................................... 8|
-|4.4|Maßnahmen bei Problemen ............................................................................................................ 8|
-|4.4.1|Übelkeit/Erbrechen .......................................................................................................................... 8|
-|4.4.2|GI-Blutung ........................................................................................................................................ 9|
-|4.4.3|Obstipation/Stuhlverhalt................................................................................................................... 9|
-|4.4.4|Auffälliges Abdomen ........................................................................................................................ 9|
-|5.|Parenterale Ernährung .................................................................................................................. 10|
-|5.1|Präoperativ .................................................................................................................................... 10|
-|5.2|Postoperativ ................................................................................................................................... 10|
-|5.3|Kohlenhydrate ................................................................................................................................ 11|
-|5.4|Aminosäuren .................................................................................................................................. 11|
-|5.5|Lipide ............................................................................................................................................. 11|
-|5.6|Mikronährstoffe .............................................................................................................................. 11|
-|5.7|Elektrolytbedarf, Elektrolytlösungen .............................................................................................. 12|
-|5.8|Labordiagnostik bei total parenteraler Ernährung ......................................................................... 12|
 
-|5.9|Fertigmixe ...................................................................................................................................... 12|
 |---|---|
-|6.|Algorithmus zum postoperativen Nahrungsaufbau ....................................................................... 13|
-|7.|Literatur .......................................................................................................................................... 15|
-|8.|Inkrafttreten .................................................................................................................................... 15|
 
 ## **Mitgeltende Dokumente** 
 
 SOP025 Ernährungstherapie kritisch kranker Intensivpatienten 
 
-## **1. Einleitung** 
+# **1. Einleitung**
 
 Vorliegende Handlungsanweisung zur enteralen und parenteralen Ernährung gilt für Kinder bis zum 18. Lebensjahr. Sie basiert im Wesentlichen auf den publizierten Leitlinien der European Society of Pediatric and Neonatal Intensive Care (ESPNIC) [1], der European Society for Paediatric Gastroenterology Hepatology and Nutrition (ESPGHAN) [2]  und der European Society for Clinical Nutrition and Metabolism (ESPEN) [3] sowie der gemeinsamen Stellungnahme der Ernährungskommissionen der Österreichischen Gesellschaft für Kinder- und Jugendheilkunde (ÖGKJ), der Deutschen Gesellschaft für Kinder- und Jugendmedizin (DGKJ), der Schweizerischen Gesellschaft für Pädiatrie (SGP) und der Deutschen Gesellschaft für Ernährungsmedizin (DGEM) [4]. 
 
 Diese SOP spiegelt die aktuelle Studienlage wider und fasst die Empfehlungen verschiedener internationaler Gesellschaften zusammen, die in der Regel aber einen niedrigen Evidenzgrad aufweisen. Für die Ernährung von Erwachsenen wird auf die S2k-Leitlinie der DGEM (Deutsche Gesellschaft für Ernährungsmedizin) [5 und die SOP025 Ernährungstherapie kritisch kranker Intensivpatienten verwiesen. 
 
-## **2. Ernährungstherapeutische Ziele** 
+# **2. Ernährungstherapeutische Ziele**
 
 - Energiebereitstellung wichtig für Erhalt des Grundumsatzes (Thermoregulation, Atmung, Kreislauf, etc.) und Aktivität (-> Lebensqualität) 
 
@@ -104,7 +65,7 @@ Diese SOP spiegelt die aktuelle Studienlage wider und fasst die Empfehlungen ver
 
 - bei längeren stationären Verläufen wiederholt inkl. Perzentilen bzw. BMI, z.B. alle 1-2 Tage Gewicht, alle 7–14 Tage KL/KU bei Sgl. nach NW I/am Berlin Heart 
 
-## **2.1 Volumen** 
+## **2.1 Volumen**
 
 - Grundbedarf nach 4,2,1-Regel abschätzen 
 
@@ -114,7 +75,7 @@ Diese SOP spiegelt die aktuelle Studienlage wider und fasst die Empfehlungen ver
 
    - 1 ml/kg/h für jedes kg KG > 20 kg + 60 ml/h (für erste 20 kg) 
 
-## **2.2 Kalorien** 
+## **2.2 Kalorien**
 
 - Bedarfsberechnung nach Lebensalter (s. Tabelle 1) 
 
@@ -126,7 +87,7 @@ Diese SOP spiegelt die aktuelle Studienlage wider und fasst die Empfehlungen ver
 
    - Ziele: Gedeihen/Ernährungszustand perzentilengerecht 
 
-## **2.3 Kohlenhydrate** 
+## **2.3 Kohlenhydrate**
 
 - Ca. 55 (40-60%) der Gesamtkalorien; 4 kcal/g 
 
@@ -136,7 +97,7 @@ Diese SOP spiegelt die aktuelle Studienlage wider und fasst die Empfehlungen ver
 
 - RQ 1, d.h. verhältnismäßig viel CO2-Abatmung bzw. Atemarbeit/kcal Energie -> evtl. KH-Reduktion bei resp. Problemen 
 
-## **2.4 Eiweiß, Aminosäuren** 
+## **2.4 Eiweiß, Aminosäuren**
 
 - Ca. 15% der Gesamtkalorien; 4 kcal/g 
 
@@ -148,7 +109,7 @@ Diese SOP spiegelt die aktuelle Studienlage wider und fasst die Empfehlungen ver
 
 - Bedenke Verluste via Chylus, Wunden, etc. 
 
-## **2.5 Lipide** 
+## **2.5 Lipide**
 
 - Ca. 20–30% der Gesamtkalorien; 9 kcal/g 
 
@@ -156,7 +117,7 @@ Diese SOP spiegelt die aktuelle Studienlage wider und fasst die Empfehlungen ver
 
 - Beinhalten essentielle Fettsäuren (insb. Linol- und Linolensäure) 
 
-## **2.6 Mikronährstoffe** 
+## **2.6 Mikronährstoffe**
 
 - Bei enteraler Ernährung bereits ausreichend zugesetzt 
 
@@ -185,7 +146,7 @@ g/kg/d)|–|90–120|8,5–14
 |7–12 J.|30–40|**1,5**–2|40–55|55–65|4–5,5|1–2|2–3|
 |12–18 J.|20–30|**0,7**–1,5|25–40|30–55|3–4,5|1–2|1–2,5|
 
-## **2.7 Besondere Umstände** 
+## **2.7 Besondere Umstände**
 
 - schwere intestinale Dysfunktion: frühe parenterale Ernährung 
 
@@ -227,7 +188,7 @@ g/kg/d)|–|90–120|8,5–14
 
    - ggf. hydrolysierte Nahrung 
 
-## **3. Applikationsweg und Start der Substratzufuhr** 
+# **3. Applikationsweg und Start der Substratzufuhr**
 
 - Ziel: selbstständig und vollständig oral 
 
@@ -253,9 +214,9 @@ g/kg/d)|–|90–120|8,5–14
 
 - Vollständige parenterale Ernährung vermeiden (mindestens trophic feeding) 
 
-## **4. Enterale Ernährung** 
+# **4. Enterale Ernährung**
 
-## **4.1 Nahrungsart** 
+## **4.1 Nahrungsart**
 
 - FG < 1,8 kg: FG-Nahrung (z.B. Prematil) 
 
@@ -277,7 +238,7 @@ g/kg/d)|–|90–120|8,5–14
 
 - bei enteraler Ernährung gastrale Bolusgaben; falls nicht möglich ggf. kontinuierliche gastr. Gabe möglich, alternativ Jejunalsonde (dann immer kontinuierlich) 
 
-## **4.2 Protokoll zum Nahrungsaufbau** 
+## **4.2 Protokoll zum Nahrungsaufbau**
 
 - Nahrung ist bestes und natürlichstes Prokinetikum 
 
@@ -347,7 +308,7 @@ g/kg/d)|–|90–120|8,5–14
 Fibre|ab 6 J.|100|13|3,8|3,4|
 |Nutrison Protein Plus|ab 6 J.,eiweißreich|125|14,2|6,3|4,9|
 
-## **4.3 Gängige Nahrungsergänzungsmittel** 
+## **4.3 Gängige Nahrungsergänzungsmittel**
 
 - bei FG und Sgl. gerne EW (ZNS-Wachstum), später eher Fette (Energie) 
 
@@ -381,9 +342,9 @@ Fibre|ab 6 J.|100|13|3,8|3,4|
 
    - Pulver, z.B. Aptamil Eiweiß+ 3,38 kcal/g (EW 0,82 g/g) 
 
-## **4.4 Maßnahmen bei Problemen** 
+## **4.4 Maßnahmen bei Problemen**
 
-## **4.4.1 Übelkeit/Erbrechen** 
+### **4.4.1 Übelkeit/Erbrechen**
 
 - GI-Ursache? Hinweis auf Ileus, Gastroenteritis, NEC, etc. 
 
@@ -405,7 +366,7 @@ Fibre|ab 6 J.|100|13|3,8|3,4|
 
 `o` Dimenhydrinat i.v. 1-1,5 mg/kg i.v.  (max. 62 mg) alle 8h (62 mg/10 ml) 
 
-## **4.4.2 GI-Blutung** 
+### **4.4.2 GI-Blutung**
 
 - Ursache? obere versus untere GI-Blutung, Antikoagulation, etc. 
 
@@ -415,7 +376,7 @@ Fibre|ab 6 J.|100|13|3,8|3,4|
 
 - Dx/Th: Endoskopie 
 
-## **4.4.3 Obstipation/Stuhlverhalt** 
+### **4.4.3 Obstipation/Stuhlverhalt**
 
 - regelmäßiges Abführen (mind. alle 3 Tage) 
 
@@ -451,7 +412,7 @@ Fibre|ab 6 J.|100|13|3,8|3,4|
 
    - alternativ/supportiv bei Erw. MCP 3 x 10 mg i.v. über max 5 Tage (cave: EPMS), ggf. Neostigmin (s.c. periumbilical, ggf. i.v.) 
 
-## **4.4.4 Auffälliges Abdomen** 
+### **4.4.4 Auffälliges Abdomen**
 
 - Messung von Bauchumfang, checke: Venenzeichnung, Flankenrötung, Darmgeräusche, Magenrest 
 
@@ -465,9 +426,9 @@ Fibre|ab 6 J.|100|13|3,8|3,4|
 
 - Th: Karenz & parenterale Ernährung, Antibiotika, KiChi-Konsil 
 
-## **5. Parenterale Ernährung** 
+# **5. Parenterale Ernährung**
 
-## **5.1 Präoperativ** 
+## **5.1 Präoperativ**
 
 Nüchternzeiten vor OP: 6-4-1-Regel 
 
@@ -481,7 +442,7 @@ Nüchternzeiten vor OP: 6-4-1-Regel
 
 - z.B. 250 ml Glu 12,5% (200 ml Glu 10% + 50 ml Glu 20%) auf Erhaltungsdosis 
 
-## **5.2 Postoperativ** 
+## **5.2 Postoperativ**
 
 0. POT E’lyt-Substitution (Na, K, Ca, Ph, Mg) und ggf. Glukose 
 
@@ -541,7 +502,7 @@ Nüchternzeiten vor OP: 6-4-1-Regel
 
    - Beachte enterale Ernährung bei Berechnung der Infusion 
 
-## **5.3 Kohlenhydrate** 
+## **5.3 Kohlenhydrate**
 
 - im Kindermix Glukose 70% (um Flüssigkeit zu sparen) 
 
@@ -553,7 +514,7 @@ Nüchternzeiten vor OP: 6-4-1-Regel
 
 - nur bei Hypoglykämien Steigerung auf max.  17 g/kg/d (sonst Lipogenese -> Steatose der Leber), dann ggf. Hypoglykämie-Dx (BGA, Insulin, C-Peptid, GH, Cortisol, FS, Ketonkörper, organ. Säuren i. Urin, Acylcarnitine) 
 
-## **5.4 Aminosäuren** 
+## **5.4 Aminosäuren**
 
 - nie AS ohne KH 
 
@@ -567,7 +528,7 @@ Nüchternzeiten vor OP: 6-4-1-Regel
 
 - beachte Eiweißverluste via Chylus, Aszites, große Wunden 
 
-## **5.5 Lipide** 
+## **5.5 Lipide**
 
 - i.v. SMOF-Lipide besser/weniger hepatotoxisch (Sojabohnenöl, MCT, Olivenöl, Fischöl: mittelkettige Triglyceride, ungesättigte Fettsäuren) 
 
@@ -583,7 +544,7 @@ Nüchternzeiten vor OP: 6-4-1-Regel
 
    - Ziel: Sgl. < 265 mg/dl; ältere Kinder < 400 mg/dl 
 
-## **5.6 Mikronährstoffe** 
+## **5.6 Mikronährstoffe**
 
 - Vitamine (in Lipidlösung) 
 
@@ -609,7 +570,7 @@ Nüchternzeiten vor OP: 6-4-1-Regel
 
    - ggf. Zinkmangel? (Bestimmung von alk. Phosphatase, ggf. ZinkSerum), Selenmangel? (Koenzym), Vit-D-Status, etc. 
 
-## **5.7 Elektrolytbedarf, Elektrolytlösungen** 
+## **5.7 Elektrolytbedarf, Elektrolytlösungen**
 
 - Natrium 2–4 mmol/kg/d; NaCl 5,85% 1 ml = 1 mmol 
 
@@ -621,7 +582,7 @@ Nüchternzeiten vor OP: 6-4-1-Regel
 
 - Phosphat 0-6 Mo 0,7-1,3 mmol/kg/d, > 6 Mo. 0,2-0,7 mmol/kg/d; NaPh 1 ml = 1 mmol Ph + 2 mmol Na 
 
-## **5.8 Labordiagnostik bei total parenteraler Ernährung** 
+## **5.8 Labordiagnostik bei total parenteraler Ernährung**
 
 - mind. 2-4 wöchentlich, bei Änderungen des Infusionsregimes häufiger 
 
@@ -631,7 +592,7 @@ Nüchternzeiten vor OP: 6-4-1-Regel
 
    - TGZ, Chol, HbA1c, Alb, Krea, HS, alk. Ph (ind. Marker für Ca, Ph, Zink), TSH, fT4, Hb, MCH, Ferritin, Bili (gesamt/direkt), Cholinestarase, INR, GOT/GPT, γ-GT, CRP 
 
-## **5.9 Fertigmixe** 
+## **5.9 Fertigmixe**
 
 - Olimel: keine Studien mit Kindern 
 
@@ -647,7 +608,7 @@ Nüchternzeiten vor OP: 6-4-1-Regel
 |Olimel 5,7%(3K)|2 l|1070|110|56,9|40|35|30|3,5|1310|
 |Olimel 7,6%(3K)|2 l|950|73,3|75,9|35|35|30|3,5|1270|
 
-## **6. Algorithmus zum postoperativen Nahrungsaufbau** 
+# **6. Algorithmus zum postoperativen Nahrungsaufbau**
 
 |**Enteraler Nahrungsaufbau:**|**Enteraler Nahrungsaufbau:**|**Enteraler Nahrungsaufbau:**||||||||
 |---|---|---|---|---|---|---|---|---|---|
@@ -703,7 +664,7 @@ Tag 0||Tag 1||Tag 2|Tag 3|Tag 4|Tag 5||
 ||12 – 18 J.||20-30|**0,7**– 1,5|30 – 55|3 – 4,5|1 – 2|1 – 2,5||
 |||In Erholungsphase: ± 10-40 % je nach Ernährungszustand/Verbrauch/Wachstum||||||||
 
-## **7. Literatur** 
+# **7. Literatur**
 
 1. Tume LN et al. Nutritional support for children during critical illness: European Society of Pediatric and Neonatal Intensive Care (ESPNIC) metabolism, endocrine and nutrition section position statement and clinical recommendations. Intensive Care Med 2020;46(3):411-25. 
 
@@ -715,7 +676,7 @@ Tag 0||Tag 1||Tag 2|Tag 3|Tag 4|Tag 5||
 
 5. Elke G et al. DGEM-Leitlinie: „Klinische Ernährung in der Intensivmedizin“. S2k-Leitlinie (AWMFRegisternummer 073-004) der Deutschen Gesellschaft für Ernährungsmedizin (DGEM). Aktuel Ernahrungsmed 2018;43:341408. 
 
-## **8. Inkrafttreten** 
+# **8. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

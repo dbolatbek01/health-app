@@ -11,11 +11,11 @@ SHIP Klinik für Herz-, Thorax- und Gefäßchirurgie
 
 Formular Evaluation vor TAVI bei LVAD-Patienten (FORM062) 
 
-## **1. Allgemeines** 
+# **1. Allgemeines**
 
 Die Transkatheter-Aortenklappenimplantation (TAVI) bei hochgradiger Aortenklappeninsuffizienz (AI) am Linksventrikulären Unterstützungssystem (LVAD) ist eine akzeptierte Behandlungsstrategie, bleibt aber ein experimentelles Verfahren. Der Nutzen dieses Eingriffs ist noch nicht durch größere Studien eindeutig belegt. Die Implantation sollte deshalb nur als individueller Therapieversuch bei ausgewählten symptomatischen Patienten erwogen werden, bei denen eine anderweitige technische Lösung oder HUListung zur Transplantation nicht indiziert bzw. nicht möglich ist (s. Punkt 5 Flussdiagramm). 
 
-## **2. Voruntersuchungen für Entscheidung zur TAVI** 
+# **2. Voruntersuchungen für Entscheidung zur TAVI**
 
 Der Verdacht auf eine höhergradige, funktionell wirksame AI entsteht meist in Zusammenschau auf Klinik, Abfrage des Devices und Echokardiographie. Vor der endgültigen Entscheidung, ob eine TAVI sinnvoll sein könnte, sind folgende Untersuchungen erforderlich: 
 
@@ -41,11 +41,11 @@ Der Verdacht auf eine höhergradige, funktionell wirksame AI entsteht meist in Z
 
 **Achtung** : Für die mit * gekennzeichneten Untersuchungen sind die Angaben im Einzelnen im Formular Evaluation vor TAVI bei LVAD-Patienten (FORM062) zu machen. Das bildschirmausfüllbare Formular ist als Anlage angefügt und im Intranet in der Rubrik Dokumente → Formulare → SHIP separat abrufbar. 
 
-## **3. TAVI Ja/Nein** 
+# **3. TAVI Ja/Nein**
 
 Interdisziplinär erfolgt die Entscheidung für oder gegen die TAVI. Unabhängig davon sollten alle Patienten, bei denen diese Prozedur in Erwägung gezogen wurde, weiterverfolgt werden. 
 
-## **4. Follow-Up** 
+# **4. Follow-Up**
 
 Jeder Patient, bei dem eine TAVI durchgeführt oder eine solche Prozedur erwogen wurde, sollte sich nach 3 Monaten in der Ambulanz vorstellen. Dann erfolgen folgende Untersuchungen: 
 
@@ -67,7 +67,7 @@ Jeder Patient, bei dem eine TAVI durchgeführt oder eine solche Prozedur erwogen
 
 Nachfolgend wird sich der Patient routinemäßig alle 3–6 Monate in der Ambulanz vorstellen. Es werden die Üblichen Ambulanzuntersuchungen durchgeführt. 
 
-## **5. Behandlungsalgorithmus** 
+# **5. Behandlungsalgorithmus**
 
 ## **Evaluation vor TAVI bei LVAD-Patienten** 
 

@@ -8,45 +8,27 @@ Geltungsbereich: Klinische Studien, alle Standorte
 
 Geltungsbereich: Klinische Studien, alle Standorte 
 
-## **Inhaltsverzeichnis** 
-
-|1||Ziel .................................................................................................................................. 3|
 |---|---|---|
-|2||Prozessverantwortliche Person ........................................................................................ 3|
-|3||Geltungsbereich / Zielgruppe ............................................................................................ 3|
-|4||Verantwortlichkeiten gemäß der VO (EU) 536 / 2014......................................................... 3|
-|5||Begriffsdefinition .............................................................................................................. 4|
-|6||Prozessbeschreibung....................................................................................................... 4|
-||6.1|Empfang und formale Erstprüfung ............................................................................................... 4|
-||6.2|Initiale Durchsicht ........................................................................................................................ 5|
-||6.3|Verteilung innerhalb der Prüfgruppe............................................................................................. 5|
-||6.4|Umsetzung der Maßnahmen und Rückmeldung ans Monitoring ................................................... 5|
-||6.5|Abschluss und Dokumentation ..................................................................................................... 6|
-||6.6|Abschließende Evaluation und CAPA .......................................................................................... 6|
-|7||Mitgeltende Dokumente ................................................................................................... 7|
-|8||Anlagen zur SOP ............................................................................................................. 7|
-|9||Abkürzungsverzeichnis .................................................................................................... 7|
-|10||Änderungshistorie ............................................................................................................ 7|
 
 **Management von Follow-Up Letter im Rahmen einer klinischen Studie aus der Perspektive eines Prüfzentrums (Management Follow-Up Letter) (PSSOP-SM-01)** 
 
 Geltungsbereich: Klinische Studien, alle Standorte 
 
-## **1 Ziel** 
+# **1 Ziel**
 
 Die vorliegende SOP beschreibt das Verfahren zum Umgang mit Follow-Up-Letter in klinischen Studien aus der Perspektive eines Prüfzentrums. 
 
 Sie soll sicherstellen, dass die Ergebnisse des Monitorings in angemessener Weise evaluiert, dokumentiert und, sofern erforderlich, notwendige Maßnahmen innerhalb einer zweckmäßigen Frist ergriffen werden. Darüber hinaus soll die SOP gewährleistet, dass alle relevanten Informationen an den Hauptprüfer und die Mitglieder des Studienteams kommuniziert werden. 
 
-## **2 Prozessverantwortliche Person** 
+# **2 Prozessverantwortliche Person**
 
 Hauptprüfer und der/die hauptverantwortliche Studienkoordinator/Study Nurse der zugrundeliegenden Studie fungieren als prozessverantwortliche Personen. 
 
-## **3 Geltungsbereich / Zielgruppe** 
+# **3 Geltungsbereich / Zielgruppe**
 
 Diese SOP gilt standortübergreifend für alle Mitarbeitenden des Deutschen Herzzentrums der Charité (DHZC), die in klinische Studien involviert sind, und findet Anwendung auf alle Studien mit akademischem oder industriellem Auftraggeber, bei denen der Standort als Prüfzentrum beteiligt ist. Ihre Anwendung ist unabhängig von der jeweiligen Sponsorinstitution. 
 
-## **4 Verantwortlichkeiten gemäß der VO (EU) 536 / 2014** 
+# **4 Verantwortlichkeiten gemäß der VO (EU) 536 / 2014**
 
 |**Hauptprüfer**|Beim Hauptprüfer handelt es sich um den verantwortlichen Leiter
 eines Prüferteams, das die klinische Prüfung an einer Prüfstelle
@@ -75,7 +57,7 @@ direkt mit der Durchführung der klinischen Prüfung beteiligt sind.|
 
 Geltungsbereich: Klinische Studien, alle Standorte 
 
-## **5 Begriffsdefinition** 
+# **5 Begriffsdefinition**
 
 |**5**
 **Begriffsdefinition**||
@@ -107,9 +89,9 @@ nehmender oder die Zuverlässigkeit und Belastbarkeit der im
 Rahmen der klinischen Prüfung gewonnenen Daten wahrschein-
 lich erheblich beeinträchtigt wird.|
 
-## **6 Prozessbeschreibung** 
+# **6 Prozessbeschreibung**
 
-## **6.1 Empfang und formale Erstprüfung** 
+## **6.1 Empfang und formale Erstprüfung**
 
 Nach Erhalt des Follow-Up Letters ist eine Überprüfung auf Vollständigkeit durchzuführen. Dabei ist zu beachten, dass Follow-Up Letter je nach Monitor oder Sponsor in ihrer Struktur und ihrem Umfang variieren können. Es muss sichergestellt werden, dass jeder Follow-Up Letter fortlaufend korrekte Seitenzahlen aufweist, Datum und Signatur des Monitors und mindestens die folgenden Abschnitte enthält: 
 
@@ -139,13 +121,13 @@ Geltungsbereich: Klinische Studien, alle Standorte
 
 Abweichungen sind dem Monitor sowie dem Hauptprüfer innerhalb von zwei Werktagen nach Empfang mitzuteilen. 
 
-## **6.2 Initiale Durchsicht** 
+## **6.2 Initiale Durchsicht**
 
 Im Anschluss an die formale Erstprüfung erfolgt eine initiale Durchsicht des Follow-Up Letter. Diese soll mit besonderer Sorgfalt durchgeführt werden, um ein fundiertes Verständnis der dargelegten Ergebnisse zu erlangen. Besonderes Augenmerk ist auf kritische Aspekte oder identifizierte Mängel zu legen, die ggf. eine sofortige Intervention durch die Prüfgruppe oder den Hauptprüfer erforderlich machen. 
 
 Verantwortliche Studienkoordination 
 
-## **6.3 Verteilung innerhalb der Prüfgruppe** 
+## **6.3 Verteilung innerhalb der Prüfgruppe**
 
 Im Anschluss ist sicherzustellen, dass alle Mitglieder der Prüfgruppe über den Erhalt des Follow-Up Letter informiert werden. Es ist zu gewährleisten, dass der Follow-Up Letter – sofern dies nicht bereits durch den initialen Versand des Monitors erfolgt ist – allen Mitgliedern der Prüfgruppe zur Verfügung gestellt wird. Die Information und Bereitstellung des gemäß Abschnitt 6.1 vollständigen Follow-Up Letter muss innerhalb eines Werktages erfolgen und ist zu dokumentieren. 
 
@@ -155,7 +137,7 @@ Der Hauptprüfer ist verpflichtet, den Erhalt und die Kenntnisnahme des Follow-U
 
 Hauptprüfer 
 
-## **6.4 Umsetzung der Maßnahmen und Rückmeldung ans Monitoring** 
+## **6.4 Umsetzung der Maßnahmen und Rückmeldung ans Monitoring**
 
 Die im Follow-Up Letter adressierten Mängel und Maßnahmen sind innerhalb von vier Wochen nach vollständigem Erhalt (vgl. 5.1) vollständig zu bearbeiten und zu klären. 
 
@@ -181,7 +163,7 @@ Hauptprüfer
 
 Nach der vollständigen Umsetzung der im Follow-Up Letter adressierten Verantwortliche Mängel und Maßnahmen ist das Maßnahmenprotokoll (ggf. Vorlage des StudienkoordinaSponsors verwenden) vom Hauptprüfer zu überprüfen und anschließend tion zu unterzeichnen. Das Dokument ist dem Monitor bzw. dem Sponsor im Hauptprüfer Anschluss pe zu übermitteln. Sollte der Hauptprüfer nicht der Absender der E n, ist dieser in Kopie zu setzen. 
 
-## **6.5 Abschluss und Dokumentation** 
+## **6.5 Abschluss und Dokumentation**
 
 Sämtliche Dokumentationen im Zusammenhang mit dem zugrundeliegenden Follow-Up Letter sind vollständig im ISF abzulegen. Dazu gehören insbesondere: 
 
@@ -197,7 +179,7 @@ Verantwortliche Studienkoordination
 
 **CAVE:** Es ist darauf hinzuweisen, dass der Follow-Up Letter und die daraus resultierenden Maßnahmen im Rahmen interner oder externer Audits bzw. Inspektionen überprüft werden können. Dabei ist sicherzustellen, - dass sämtliche Dokumentationen und umgesetzten Maßnahmen den re - gulatorischen Anforderungen entsprechen sowie vollständig und nachvoll ziehbar sind. 
 
-## **6.6 Abschließende Evaluation und CAPA** 
+## **6.6 Abschließende Evaluation und CAPA**
 
 In Abhängigkeit der identifizierten Mängel und dessen Schwere ist innerhalb einer Frist von zwei Wochen, ein Corrective and Preventive Action (CAPA)-Plan zu erstellen, der detailliert beschreibt, wie die identifizierten 
 
@@ -222,7 +204,7 @@ Die CAPA ist diese anschließend dem ISF und dem Follow-Up Letter hinzuzufügen.
 
 Verantwortliche Studienkoordination 
 
-## **7 Mitgeltende Dokumente** 
+# **7 Mitgeltende Dokumente**
 
 - ZVA Serious Breaches – Meldung, Bewertung und Administration im CTIS 
 
@@ -230,23 +212,15 @@ Verantwortliche Studienkoordination
 
 - ZVA-Zusatz Übersicht Serious Breach 
 
-## **8 Anlagen zur SOP** 
+# **8 Anlagen zur SOP**
 
 Anlage 1: Maßnahmenprotokoll Monitoring (PS-TP-SM-01) 
 
 Anlage 2: Bestätigung der Kenntnisnahme (PS-TP-SM-02) 
 
-## **9 Abkürzungsverzeichnis** 
+# **9 Abkürzungsverzeichnis**
 
 CAPA (Corrective and Preventive Action) ISF Investigator Site File 
-
-## **10 Änderungshistorie** 
-
-**Version Änderungsgrund bzw. Kurzbeschreibung (Abschnitt) der Änderungen** V01 Ersterstellung 
-
-Alle Anpassungen an dieser SOP werden lückenlos im Excel-Änderungsprotokoll (Formblatt FATP-QM-02) dokumentiert. 
-
-Die aktuelle Version des Änderungsprotokolls ist gemeinsam mit dieser SOP im zentralen QMRepository (\DHZC\FO\Studien\Studienzentrale\0-FS-QMS) der DHZC Studienzentrale abgelegt. Bei jeder Überarbeitung ist das Protokoll vor Freigabe zu aktualisieren und zusammen mit der neuen SOP-Version einzureichen. Vorherige Versionen des Änderungsprotokolls bleiben archiviert und sind für Audits mindestens 10 Jahre elektronisch verfügbar. 
 
 ## **Maßnahmenprotokoll Monitoring** 
 

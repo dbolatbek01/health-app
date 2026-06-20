@@ -7,29 +7,19 @@ Interdisziplinäre Bettenbesprechung W1I, W2I HC, WD1I und WD2I (Bettenbesprechu
 
 Klinik für Herz, Thorax- und Gefäßchirurgie Klink für Kardioanästhesiologie und Intensivmedizin Pflegedienst Intensivmedizin DHZC CVK 
 
-## **Änderungshistorie** 
-
-## **Inhaltsverzeichnis** 
-
-|1.|Ziel ................................................................................................................................................... 3|
 |---|---|
-|2.|Prozessbeschreibung ...................................................................................................................... 3|
-|2.1|Zeitpunkt und Format ....................................................................................................................... 3|
-|2.2|Teilnehmer:innen ............................................................................................................................. 3|
-|2.3|Ablauf ............................................................................................................................................... 3|
-|3.|Mitgeltende Dokumente ................................................................................................................... 3|
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Die interdisziplinäre Besprechung dient der standortübergreifenden Planung der für das operative sowie interventionelle Programm benötigten Intensivbettenkapazität für Patient:innen mit Ausnahme der CAH. 
 
-## **2. Prozessbeschreibung** 
+# **2. Prozessbeschreibung**
 
-## **2.1 Zeitpunkt und Format** 
+## **2.1 Zeitpunkt und Format**
 
 Die Intensivbettenbesprechung erfolgt werktäglich um 08:30 Uhr sowie um 11:00 Uhr online via CISCO-Meeting-App: https://vc.charite.de/invited.sf?id=700306 Passcode: 057352 
 
-## **2.2 Teilnehmer:innen** 
+## **2.2 Teilnehmer:innen**
 
 Folgende Rollen sind obligatorische Teilnehmer:innen (*fakultativ): 
 
@@ -43,7 +33,7 @@ Folgende Rollen sind obligatorische Teilnehmer:innen (*fakultativ):
 |W2I|Oberärzt:in / Schichtleitung|Patientenmanager:in*|
 |WD2|Oberärzt:in / Schichtleitung||
 
-## **2.3 Ablauf** 
+## **2.3 Ablauf**
 
 Vor Beginn des 08:30-Uhr-Termins tragen die Oberärzt:innen der Stationen die geplanten Verlegungen auf die nachversorgenden Einheiten in die Bettenkoordinationstabelle in eine mit dem Tagesdatum versehene Dateiversion (JJMMTT_Bettenkoord-ITM.xlsx) auf dem Sharepoint ein. Die Übernahmekapazitäten des PKH, der W6 und der WD3u/i werden vom oberärztlichen Dienst der WD1I abgefragt und eingepflegt. 
 
@@ -65,7 +55,7 @@ sowie Hybrid-Reservebetten|OP-Koordination / OP-Planung|
 |**Teil 2: Zuteilung der Patient: innen und interne Verlegungen**||
 |Zuteilungder Patient:innen auf die Stationen|OÄ WD1I und OP-Koordination|
 
-## **3. Mitgeltende Dokumente** 
+# **3. Mitgeltende Dokumente**
 
 „JJMMTT_Bettenkoord-ITM.xlsx“ 
 

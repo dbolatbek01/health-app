@@ -7,19 +7,19 @@ Wundkonsil: Kriterien und Ablauf
 
 DHZC alle Standorte: Pflegedienst 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Mit der vorliegenden SOP soll eine umfassende Wundbeurteilung- und Versorgung von Patienten im Bereich des DHZC gewährleistet werden. Sie legt die Kriterien fest, bei denen **die Verantwortlichen des Zentralen Wundmanagements am DHZC** hinzuziehen sind (Wundkonsil). 
 
-## **2. Prozessverantwortliche Person** 
+# **2. Prozessverantwortliche Person**
 
 Stationsleitungen, Wundbeauftragte DHZC alle Standorte 
 
-## **3. Geltungsbereich / Zielgruppe** 
+# **3. Geltungsbereich / Zielgruppe**
 
 Pflegedienst 
 
-## **4. Kriterien** 
+# **4. Kriterien**
 
 Hinweis: Bei Dekubitus Kategorie/Grad 1–3 erfolgt grundsätzlich eine Meldung an die Stationsleitung und/oder an die/den Wundbeauftragte/n. 
 
@@ -37,7 +37,7 @@ Ein Wundkonsil wird in folgenden Fällen angefordert (schematische Darstellung i
 
 6. Bei Unsicherheit der Mitarbeitenden, um welche Wundart es sich handelt oder welche Versorgung sie vornehmen sollen. 
 
-## **5. Kontaktdaten** 
+# **5. Kontaktdaten**
 
 Herr Thomas Blum Frau Mariett Müller Tel. (97) 1713 Tel. (97) 1714 Thomas.blum@dhzc-charite.de Mariett.mueller@dhzc-charite.de 
 

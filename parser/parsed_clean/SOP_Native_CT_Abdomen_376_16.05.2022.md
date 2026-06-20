@@ -11,36 +11,17 @@ Klinik für Herz-, Thorax- und Gefäßchirurgie Klinik für Innere Medizin – K
 
 Röntgenabteilung 
 
-## **Änderungshistorie** 
-
-## **Inhaltsverzeichnis** 
-
-|1.|Ziel und Zweck ................................................................................................................................. 3|
 |---|---|
-|2.|Anwendungsbereich ........................................................................................................................ 3|
-|3.|Indikation ......................................................................................................................................... 3|
-|4.|Mitgeltende Unterlagen.................................................................................................................... 3|
-|5.|Begriffe und Abkürzungen ............................................................................................................... 3|
-|6.|Patientenvorbereitung...................................................................................................................... 4|
-|7.|Aufnahmeart .................................................................................................................................... 4|
-|8.|Patientenlagerung und Patienteneinstellung ................................................................................... 4|
-|9.|Untersuchungs- und Rekonstruktionsparameter (axiale Schnittbilder) ........................................... 5|
-|10.|Untersuchungsablauf: Durchführung ............................................................................................... 5|
-|11.|Diagnostische Referenzwerte für CT-Untersuchungen an Erwachsenen ....................................... 5|
-|12.|Untersuchungsablauf: Verantwortlichkeiten .................................................................................... 6|
-|13.|Bildbearbeitung, Bildbeurteilung, Befundung .................................................................................. 7|
-|14.|Dokumentation und Leistungserfassung ......................................................................................... 7|
-|15.|Inkrafttreten ...................................................................................................................................... 7|
 
-## **1. Ziel und Zweck** 
+# **1. Ziel und Zweck**
 
 Erstellung eines nativen, hochauflösenden Computertomogramms des Abdomens zur Erkennung oder zum Ausschluss von pathologischen oder pathophysiologischen Veränderungen sowie zur präoperativen Darstellung des OP-Situs und zur postoperativen Kontrolle. 
 
-## **2. Anwendungsbereich** 
+# **2. Anwendungsbereich**
 
 Diese Arbeitsanweisung gilt für die Vorbereitung, Durchführung, Assistenz, Nachverarbeitung, Befundung und Archivierung (Bilder, Protokoll und Befund) der nativen computertomographischen Abdomen-Untersuchung am Computertomographen SOMATOM Definition Flash der Firma Siemens. Sie gilt nur für CT-Untersuchungen von erwachsenen Patienten. 
 
-## **3. Indikation** 
+# **3. Indikation**
 
 Zur Indikationsstellung wird auf die Leitlinien für die Überweisung zur Durchführung von bildgebenden Verfahren verwiesen. 
 
@@ -48,7 +29,7 @@ Zur Indikationsstellung wird auf die Leitlinien für die Überweisung zur Durchf
 
 absolute Kontraindikation: Plausibilitätsprüfung relative Kontraindikation: Schwangerschaft, Voruntersuchung unmittelbar vorher 
 
-## **4. Mitgeltende Unterlagen** 
+# **4. Mitgeltende Unterlagen**
 
 Auf folgende ergänzende und weiterführende Unterlagen in ihrer jeweiligen aktuellen Fassung wird verwiesen: 
 
@@ -66,13 +47,13 @@ Auf folgende ergänzende und weiterführende Unterlagen in ihrer jeweiligen aktu
 
 7. Verordnung zum Schutz vor der schädlichen Wirkung ionisierender Strahlung (Strahlenschutzverordnung - StrlSchV) 
 
-## **5. Begriffe und Abkürzungen** 
+# **5. Begriffe und Abkürzungen**
 
 CT Computertomographie, Computertomograph CTDIvol CT-Dosis-Index bezogen auf das exponierte Volumen in mGy DLP Dosis-Längen-Produkt in mGy*cm DRW Diagnostiche Referenzwerte Gantry Ringtunnel, z.B. eines Computertomographen 
 
 HU Hounsfield Unit ist die Einheit, die die Abschwächung von Röntgenstrahlung in Gewebe  beschreibt und für die Darstellung in einem Graustufenbild benutzt wird JiveX zusätzliches temporäres Archiv, hat einen geeigneteren Dicomviewer MPPS Modality Performed Procedure Steps PACS Picture Archiving and Communication System (ISCV) RIS Radiologisches Informationssystem (CardIS) Syngo.via Server-basiertes Bildbefundungssystem 
 
-## **6. Patientenvorbereitung** 
+# **6. Patientenvorbereitung**
 
 - Schwangerschaftsausschluss 
 
@@ -84,13 +65,13 @@ HU Hounsfield Unit ist die Einheit, die die Abschwächung von Röntgenstrahlung 
 
 - bei intubiertem, nicht ansprechbarem Patienten Dokumentation, dass keine Aufklärung möglich war. 
 
-## **7. Aufnahmeart** 
+# **7. Aufnahmeart**
 
 Aufgenommen wird ein Volumen, das CT als Spirale mit dem Mehrzeilen-CT SOMATOM Definition Flash der Firma Siemens. 
 
 Die Entscheidung, welches Untersuchungsprotokoll (Flash, Dünnschicht usw.) angewandt wird, trifft der für den Computertomographen zuständige Arzt. 
 
-## **8.   Patientenlagerung und Patienteneinstellung** 
+# **8.   Patientenlagerung und Patienteneinstellung**
 
 ## **Lagerung:** 
 
@@ -114,7 +95,7 @@ Die Entscheidung, welches Untersuchungsprotokoll (Flash, Dünnschicht usw.) ange
 
 - Positionstaste Null betätigen 
 
-## **9. Untersuchungs- und Rekonstruktionsparameter (axiale Schnittbilder)** 
+# **9. Untersuchungs- und Rekonstruktionsparameter (axiale Schnittbilder)**
 
 ## **Untersuchungsparameter** 
 
@@ -142,7 +123,7 @@ Die Länge des Untersuchungsbereiches ergibt sich aus den anatomischen Merkmalen
 |Faltungskern|kernel|I 31 f mittel weich|I 31 f mittel weich|
 |Fenstername||Mediastinum|Mediastinum|
 
-## **10. Untersuchungsablauf: Durchführung** 
+# **10. Untersuchungsablauf: Durchführung**
 
 1. Die Topogrammlänge dem Patienten anpassen, größer als das Zielvolumen in der Länge. Das Zielvolumen von der Zwerchfell Kuppel bis unterhalb der Symphyse aufnehmen, das Topogramm nach Erreichen des Zielvolumens ggf. von Hand stoppen. 
 
@@ -160,7 +141,7 @@ Die Länge des Untersuchungsbereiches ergibt sich aus den anatomischen Merkmalen
 
 7. Befundung. 
 
-## **11. Diagnostische Referenzwerte für CT-Untersuchungen an Erwachsenen** 
+# **11. Diagnostische Referenzwerte für CT-Untersuchungen an Erwachsenen**
 
 |pro Scan-Serie
 CT-Untersuchungsart|CTDIvol [mGy]
@@ -169,7 +150,7 @@ pro Scanserie|
 |---|---|---|
 |Abdomen|15|700|
 
-## **12. Untersuchungsablauf: Verantwortlichkeiten** 
+# **12. Untersuchungsablauf: Verantwortlichkeiten**
 
 Verantwortlichkeiten
 Arzt mit Mitarbeiter
@@ -189,10 +170,8 @@ Bilderstellung X X
 Bilddaten ins PACS, JiveX und an syngo.via senden X X
 Befundung im RIS X
 Dokumentation und Leistungserfassung X X
-**----- End of picture text -----**
 
-
-## **13. Bildbearbeitung, Bildbeurteilung, Befundung** 
+# **13. Bildbearbeitung, Bildbeurteilung, Befundung**
 
 Die Bilderstellung wird vom Röntgenassistenzpersonal unmittelbar nach der Patientenversorgung vorgenommen. Die aus den Rohdaten rekonstruierten axialen Schichten werden an das PACS, JiveX und an Syngo.via versandt. 
 
@@ -200,13 +179,13 @@ Die zur Befundung notwendige Bildbearbeitung und/oder Bildverarbeitung erfolgt d
 
 senden. Die schriftliche Befundung erfolgt im RIS. 
 
-## **14. Dokumentation und Leistungserfassung** 
+# **14. Dokumentation und Leistungserfassung**
 
 Die Dokumentation, Befundung und Leistungserfassung erfolgen im RIS. Die Dokumentation dosisrelevanter Parameter, die zu einer Dosisabschätzung benötigt werden (RöV § 28 Aufzeichnungspflichten), stammen aus dem Patientenprotokoll der Untersuchung und werden von Hand ins RIS übertragen. Eventuelle dosisrelevante Abweichungen vom Untersuchungsablauf (z. B. Arme angelagert und warum) müssen im RIS (Kommentare Freitext) dokumentiert werden. Überschreitungen der diagnostischen Referenzwerte müssen im RIS begründet werden. 
 
 Der CT-Anforderungsschein (digital), der ausgefüllte und 2fach unterschriebene Aufklärungsbogen (erst Arzt, dann Patient) sowie der gedruckte und unterschriebene Befund kommen in die Patientenakte. Die Befunde und die Protokolle werden digital im RIS, die Bilddaten sowohl im PACS als auch temporär im JiveX archiviert. Ältere Vorgänge (prä-RIS, prä-PACS) lagern archiviert im Zentralarchiv des DHZB. 
 
-## **15. Inkrafttreten** 
+# **15. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

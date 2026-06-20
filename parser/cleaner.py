@@ -10,6 +10,9 @@ FULL_LINE_JUNK = [
     r"Seite\s*(<br>)?\s*\d+\s+von\s+\d+",
     # Пустые картинки
     r"\*\*==>\s*picture\s*\[\d+\s*x\s*\d+\]\s*intentionally omitted\s*<==\*\*",
+    # Строки оглавления: | Titel ......... 5|
+    r"\|.*\.{5,}.*\|+\s*$",
+    r"#{1,4}\s+\**\s*Inhaltsverzeichnis\**",
     # Маркеры picture text — только одиночные (без данных)
     r"\*\*-+\s*(Start|End) of picture text\s*-+\*\*(<br>)?",
     # br-склеенные footer-артефакты: Version ... <br> --- End of picture text ---
@@ -17,7 +20,7 @@ FULL_LINE_JUNK = [
     # Идентификаторы документов DHZC/DHZB
     r"(DHZC|DHZB)[\w/]*\s*[I|/].*?Version\s+Nr\.\s*[\d\.]+.*",
     # Таблицы истории версий (все варианты заголовков)
-    r"(\*\*)?Änderungshistorie(\*\*)?",
+    r"(##\s+)?(\*\*)?Änderungshistorie(\*\*)?",
     r"(\*\*)?Version\s+(Freigabe am|Freigabedatum|Erstellt|gültig ab|Erstellung).*",
     r"## \*\*Version\s+Freigabe am\*\*",
     r"\*\*Änderungshistorie\s+Version\s+Freigabe am\*\*",
@@ -47,6 +50,12 @@ TABLE_FOOTER_PATTERNS = [
 CAMPUS_LINE_RE = re.compile(r"^\s*Campus:.*", re.IGNORECASE)
 BOLD_FRAGMENT_RE = re.compile(r"\*\*(.+?)\*\*")
 
+# Заголовки которые нужно удалять вместе со всем содержимым до следующего заголовка
+# Например: # **9 Änderungshistorie**, # **8 Änderungshistorie**
+BLOCK_HEADING_JUNK_RE = re.compile(
+    r"^#{1,4}\s+\**\s*\d*\s*Änderungshistorie\**\s*$", re.IGNORECASE
+)
+
 
 def is_table_footer(line):
     if not line.strip().startswith("|"):
@@ -64,6 +73,31 @@ def is_table_footer(line):
     return len(real_cells) == 0
 
 
+def fix_heading_hierarchy(line):
+    """
+    Восстанавливает иерархию заголовков на основе нумерации.
+    ## **4. Physiologie**  -> # **4. Physiologie**
+    ## **4.1 Venovenöse** -> ## **4.1 Venovenöse**  (без изменений)
+    ## **13.2.1 Entwöhnung** -> ### **13.2.1 Entwöhnung**
+    Работает как с bold (**text**), так и без.
+    """
+    if not line.startswith("## "):
+        return line
+    content = line[3:].strip()
+    # Убираем ** для анализа нумерации, потом вернём
+    inner = content.lstrip("*").lstrip().rstrip("*").rstrip()
+    match = re.match(r"^(\d+(?:\.\d+)*)[.\s]", inner)
+    if not match:
+        return line
+    dots = match.group(1).count(".")
+    if dots == 0:
+        return f"# {content}"
+    elif dots == 1:
+        return f"## {content}"
+    else:
+        return f"### {content}"
+ 
+ 
 def clean_campus_line(line):
     bolds = BOLD_FRAGMENT_RE.findall(line)
     if not bolds:
@@ -76,13 +110,29 @@ def clean_campus_line(line):
 
 
 def clean_text(text):
+    text = re.sub(r"<br\s*/?>", "\n", text)
     lines = text.split("\n")
     out = []
     removed = 0
     rescued = 0
+    skip_block = False  # True когда находимся внутри мусорного блока
 
     for line in lines:
         stripped = line.strip()
+
+        # Проверяем: это заголовок-блок мусора (# **9 Änderungshistorie**)?
+        if BLOCK_HEADING_JUNK_RE.match(stripped):
+            skip_block = True
+            removed += 1
+            continue
+
+        # Если мы внутри мусорного блока — пропускаем до следующего заголовка
+        if skip_block:
+            if stripped.startswith("#"):
+                skip_block = False  # Новый заголовок — выходим из режима пропуска
+            else:
+                removed += 1
+                continue
 
         if not stripped:
             out.append(line)
@@ -105,11 +155,10 @@ def clean_text(text):
             removed += 1
             continue
 
-        out.append(line)
+        out.append(fix_heading_hierarchy(line))
 
     cleaned = "\n".join(out)
     cleaned = re.sub(r"\n{3,}", "\n\n", cleaned)
-    cleaned = re.sub(r"<br\s*/?>", "\n", cleaned)
     return cleaned, removed, rescued
 
 

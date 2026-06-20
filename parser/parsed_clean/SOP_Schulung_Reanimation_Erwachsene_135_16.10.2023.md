@@ -9,24 +9,17 @@ Schulung zur kardiopulmonalen Reanimation beim Erwachsenen
 
 DHZC Standort CVK Arztdienst Pflegedienst Nicht ärztliche Gesundheitsberufe Angestellte im Verwaltungsbereich 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Einleitung ......................................................................................................................................... 3|
 |---|---|
-|2.|Zielsetzung ...................................................................................................................................... 3|
-|3.|Basic Life Support (BLS) ................................................................................................................. 3|
-|4.|Advanced Life Support (ALS) .......................................................................................................... 4|
-|5.|Literatur ............................................................................................................................................ 4|
 
-## **1. Einleitung** 
+# **1. Einleitung**
 
 Der European Resuscitation Council (ERC) definiert in seinen aktuellen Reanimationsleitlinien [1] Indikatoren für qualitativ hochwertige Reanimationsschulungen. Angehörige von Gesundheitsberufen sollten regelmäßig in den Fertigkeiten des Basic Life Support (BLS) und Advanced Life Support (ALS) auf hohem Qualitätsniveau geschult werden, um das Patienten-Outcome nach Kreislaufstillstand zu verbessern [2]. Hierbei müssen im Kontext kardiochirurgisch versorgter Patient:innen Abweichungen vom konventionellen Reanimationsalgorithmus [3] sowie spezielle Fragestellungen (z.B. implantierte VAD) Berücksichtigung finden. 
 
-## **2. Zielsetzung** 
+# **2. Zielsetzung**
 
 Zielsetzung dieser SOP ist die Definition der Qualitätsmerkmale der Inhouse-Schulungsformate BLS und ALS für Erwachsene in Bezug auf die Lehrinhalte und zeitlichen Umfänge, (Nach-)Schulungs-Intervalle, Trainerqualifikation sowie Mitarbeiterzielgruppen für den DHZC-Standort CVK. 
 
-## **3. Basic Life Support (BLS)** 
+# **3. Basic Life Support (BLS)**
 
 |**Lehrinhalte**|Theoretische und praktische Unterweisung in den BLS-
 Algorithmus nach aktuellen ERC-Leitlinien und SOPs
@@ -52,7 +45,7 @@ Herzkatherlabor)|
 
 Mit Abschluss der BLS-Schulung erhält jede:r Mitarbeitende ein Zertifikat über die Teilnahme. 
 
-## **4. Advanced Life Support (ALS)** 
+# **4. Advanced Life Support (ALS)**
 
 |**Lehrinhalte**|Theoretische und praktische Unterweisung in den BLS- und ALS-
 Algorithmus nach aktuellen ERC-Reanimationsleitlinien und
@@ -85,7 +78,7 @@ ergibt|
 
 Der ALS-Kurs ist seit 2014 fortlaufend mit aktuell drei Punkten bei der Berliner Ärztekammer zertifiziert. Mit Abschluss der ALS-Schulung erhält jede:r Mitarbeitende ein Zertifikat über die Teilnahme. 
 
-## **5. Literatur** 
+# **5. Literatur**
 
 1. ERC-Reanimationsleitlinien 2021. Notfall + Rettungsmedizin 2021;24(4): 271-772. https://link.springer.com/journal/10049/volumes-and-issues/24-4 
 

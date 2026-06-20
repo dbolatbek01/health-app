@@ -9,34 +9,13 @@ Chirurgie der Aorta ascendens und des Aortenbogens
 
 Klinik für Kardioanästhesiologie und Intensivmedizin 
 
-## **Änderungshistorie** 
-
-## **Inhaltsverzeichnis** 
-
-|Mitgeltende Dokumente ................................................................................................................................ 3|Mitgeltende Dokumente ................................................................................................................................ 3|
 |---|---|
-|1.|Indikationen und Art der chirurgischen Eingriffe .............................................................................. 3|
-|2.|OP-Vorbereitung, insbesondere bei dringlichen OPs und Not-OPs ................................................ 4|
-|3.|Narkoseeinleitung ............................................................................................................................ 4|
-|4.|Gefäßzugänge ................................................................................................................................. 5|
-|4.1|Arterielle Druckmessung.................................................................................................................. 5|
-|4.2|Zentralvenöse Instrumentierung ...................................................................................................... 5|
-|4.3|Temperaturmessung ........................................................................................................................ 5|
-|5.|Neuromonitoring .............................................................................................................................. 5|
-|6.|Transösophageale Echokardiographie (TEE) ................................................................................. 5|
-|7.|Intraoperatives Management ........................................................................................................... 6|
-|8.|Hypothermie, Kreislaufstillstand (DHCA) ......................................................................................... 6|
-|8.1|Teilbogen-/Bogenersatz .................................................................................................................. 6|
-|8.2|Selektive retrograde zerebrale Perfusion ........................................................................................ 7|
-|8.3|Zusätzliches Procedere bei DHCA ohne selektive zerebrale Perfusion ......................................... 7|
-|9.|Literatur ............................................................................................................................................ 8|
-|10.|Inkrafttreten ...................................................................................................................................... 8|
 
 ## **Mitgeltende Dokumente** 
 
 SOP501 Gerinnungsmanagement (ANÄ: ITM) SOP505 Neuromonitoring (ANÄ) SOP506 Perioperative transösophageale Echokardiographie (ANÄ) SOP533 Perioperative Antibiotikaprophylaxe (ANÄ: HTG) SOP534 Standardnarkose HLM (ANÄ: HTG) 
 
-## **1. Indikationen und Art der chirurgischen Eingriffe** 
+# **1. Indikationen und Art der chirurgischen Eingriffe**
 
 ## **Aneurysma der Aorta ascendens** 
 
@@ -52,7 +31,7 @@ Notoperation! Das Mortalitätsrisiko steigt nach initialem Schmerzereignis um ca
 
 **Abbildung 1** : Versorgung mittels Frozen Elephant Trunk nach Pich r 2007 [1] 
 
-## **2. OP-Vorbereitung, insbesondere bei dringlichen OPs und Not-OPs** 
+# **2. OP-Vorbereitung, insbesondere bei dringlichen OPs und Not-OPs**
 
 ## **Blutdruck-Einstellung** 
 
@@ -76,7 +55,7 @@ Mittel der ersten Wahl sind hierbei kurzwirksame Betablocker wie Esmolol (zu fin
 
 - Die Übernahme in den OP erfolgt nach Rücksprache mit dem verantwortlichen Kardiochirurgen. 
 
-## **3. Narkoseeinleitung** 
+# **3. Narkoseeinleitung**
 
 - Blutdruckschwankungen möglichst gering halten! 
 
@@ -88,9 +67,9 @@ Mittel der ersten Wahl sind hierbei kurzwirksame Betablocker wie Esmolol (zu fin
 
 - externe Defibrillator-Elektroden bei Re-Eingriffen oder auf Wunsch des Operateurs/der Operateurin 
 
-## **4. Gefäßzugänge** 
+# **4. Gefäßzugänge**
 
-## **4.1 Arterielle Druckmessung** 
+## **4.1 Arterielle Druckmessung**
 
 - Eingriffe an **Aorta ascendens** : i. d. R. eine Lokalisation ausreichend 
 
@@ -98,7 +77,7 @@ Mittel der ersten Wahl sind hierbei kurzwirksame Betablocker wie Esmolol (zu fin
 
 - **Typ-A-Dissektion** : i. d. R. A. radialis links und eine A. femoralis bei geplanter Kanülierung der A. axillaris rechts, ggf. auch Kanülierung der A. radialis rechts auf Wunsch des Operateurs (s. o.) 
 
-## **4.2 Zentralvenöse Instrumentierung** 
+## **4.2 Zentralvenöse Instrumentierung**
 
 - **elektiver Eingriff** : s. SOP534 Standardnarkose HLM (ANÄ: HTG) 
 
@@ -106,11 +85,11 @@ Mittel der ersten Wahl sind hierbei kurzwirksame Betablocker wie Esmolol (zu fin
 
 - Indikation für **Pulmonalarterienkatheter** : s. SOP534 Standardnarkose HLM (ANÄ: HTG) 
 
-## **4.3 Temperaturmessung** 
+## **4.3 Temperaturmessung**
 
 Bei allen Eingriffen in Hypothermie zweite Messung nasopharyngeal als Näherungswert für zerebrale Temperatur. 
 
-## **5. Neuromonitoring** 
+# **5. Neuromonitoring**
 
 - s. SOP505 Neuromonitoring (ANÄ) 
 
@@ -120,7 +99,7 @@ Bei allen Eingriffen in Hypothermie zweite Messung nasopharyngeal als Näherungs
 
 - Bei V. a. Stealphänomen Hinweis an Operateur (Klemmung der kontralateralen A. carotis und Ao. subclavia) 
 
-## **6. Transösophageale Echokardiographie (TEE)** 
+# **6. Transösophageale Echokardiographie (TEE)**
 
 - s. SOP506 Perioperative transösophageale Echokardiographie (ANÄ), besonderer Fokus auf: 
 
@@ -148,7 +127,7 @@ Bei allen Eingriffen in Hypothermie zweite Messung nasopharyngeal als Näherungs
 
 - Gefahr der Dissektion bei Kanülierung des Aortenbogens und nach Dekanülierung 
 
-## **7. Intraoperatives Management** 
+# **7. Intraoperatives Management**
 
 **Perioperative Antibiotikaprophylaxe** : s. entsprechende SOP533 PAP (ANÄ: HTG) 
 
@@ -158,9 +137,9 @@ Bei allen Eingriffen in Hypothermie zweite Messung nasopharyngeal als Näherungs
 
 **Gerinnungsmanagement** : ausreichend TKs bereitstellen lassen (Gerinnungsanamnese / Multiplate würdigen), ROTEM nach Wiedererwärmung (>35 °C), ggf. Level 1 bereitstellen; Gerinnungsmanagement nach SOP501 Gerinnungsmanagement (ANÄ: ITM) 
 
-## **8. Hypothermie, Kreislaufstillstand (DHCA)** 
+# **8. Hypothermie, Kreislaufstillstand (DHCA)**
 
-## **8.1 Teilbogen-/Bogenersatz** 
+## **8.1 Teilbogen-/Bogenersatz**
 
 Bevorzugte Strategie beim **Teilbogen-/Bogenersatz** : distaler Kreislaufstillstand in milder bis moderater Hypothermie (24–28°C) mit selektiver antegrader cerebraler Perfusion (SACP). Arterielle Kanülierung für die HLM i. d. R. über die A. axillaris rechts, darüber während des distalen Kreislaufstillstands antegrade Kopfperfusion mit ca. 10 ml/kgKG/min; Perfusionsdruck 40–60 mmHg; unbedingt NIRS + EEG-Überwachung. 
 
@@ -180,11 +159,11 @@ Bei Bedarf NTG (ggf. Nitroprussidnatrium) während Kühl- und Wiedererwärmungsp
 
 Reduktion der Narkosemedikation während SACP in moderater Hypothermie (auf ca. 20% bei geringerem Verteilungsvolumen), Narkose nach Ende des distalen HLM-Stillstands wieder dem EEGVerlauf anpassen 
 
-## **8.2 Selektive retrograde zerebrale Perfusion** 
+## **8.2 Selektive retrograde zerebrale Perfusion**
 
 Bei selektiver **retrograder** zerebraler Perfusion während DHCA erfolgt die Perfusion retrograd über die Vena cava superior  ZVD < 25 mmHg, sonst erhöhte Gefahr der Hirnödembildung und zerebralen Schädigung (Fluss etwa 300 – 500 ml/min). Sonstiges Vorgehen wie 8.1. und externe Kopfkühlung 
 
-## **8.3 Zusätzliches Procedere bei DHCA ohne selektive zerebrale Perfusion** 
+## **8.3 Zusätzliches Procedere bei DHCA ohne selektive zerebrale Perfusion**
 
 1000 mg Methylprednisolon vor Beginn HLM 
 
@@ -202,13 +181,13 @@ Während DHCA BGA in pH stat Kallibrierung verwenden
 
 **Unbedingtes Vermeiden einer cerebralen Hyperthermie!** Wiedererwärmung auf maximal 36.5 °C nasopharyngeal (eher gewisse Hypothermie akzeptieren, da mit besserem neurologischen Outcome assoziiert) und langsame Wiedererwärmung (ca. 0.5 °C/min), Temperaturdifferenz Blut zu nasopharyngeal maximal 10°C (Perfusat-Temperatur < 38 °C) 
 
-## **9. Literatur** 
+# **9. Literatur**
 
 1. Pichlmaier MA et al. The frozen elephant trunk technique. Multimed Man Cardiothorac Surg 2007;2007(329):mmcts.2006.001990. 
 
 2. Reed H et al. Aortic Surgery and Deep-Hypothermic Circulatory Arrest: Anesthetic Update. Semin Cardiothorac Vasc Anesth 2014;18(2):137-45. 
 
-## **10. Inkrafttreten** 
+# **10. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

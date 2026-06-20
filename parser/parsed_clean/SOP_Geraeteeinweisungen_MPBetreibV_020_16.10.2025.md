@@ -5,21 +5,21 @@ Geltungsbereich: Alle MPProdukte-Anwender:innen
 
 Änderungen zur Vorversion: Anpassung der mitgeltenden Formulare an aktuelle MPBetreibV, Layout 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Sicherstellung der ordnungsgemäßen Durchführung von Geräteeinweisungen gemäß MedizinprodukteBetreiberverordnung (MPBetreibV) im Deutschen Herzzentrum der Charité (DHZC). 
 
-## **2. Prozessverantwortliche Personen** 
+# **2. Prozessverantwortliche Personen**
 
 Alle Mitarbeitenden des DHZC (inkl. Fremd-/Leasingpersonal), die Medizinprodukte anwenden sowie Medizinprodukte-Verantwortliche (MP-Verantwortliche), Medizinprodukte-Beauftragte (MP-Beauftragte), stellvertretende MP-Beauftragte sowie die Koordinationsstelle der Medizinprodukte-Einweisung des DHZC. 
 
-## **3. Geltungsbereich / Zielgruppe** 
+# **3. Geltungsbereich / Zielgruppe**
 
 Alle Standorte des DHZC. 
 
-## **4. Prozessbeschreibung** 
+# **4. Prozessbeschreibung**
 
-## **4.1 Grundsätzliche Organisation von Ein- und Unterweisungen im DHZC** 
+## **4.1 Grundsätzliche Organisation von Ein- und Unterweisungen im DHZC**
 
 - Die Verantwortung für die ordnungsgemäße Umsetzung der u. g. Ein- und Unterweisungen liegt bei den jeweiligen MP-Beauftragten bzw. stellvertretenden MP-Beauftragten der einzelnen Bereiche (Intensivstationen, Normalstationen, Hochschulambulanzen, Funktionsbereiche [OP, HK]). 
 
@@ -27,7 +27,7 @@ Alle Standorte des DHZC.
 
 - Die genauen Abläufe für Ein- und Unterweisungen werden stationsspezifisch geregelt (z.B. Aushändigung von Gerätelisten, Laufzetteln etc. an die Mitarbeitenden, Fristen für Einweisungen) und müssen von neuen Mitarbeitenden bei den MP-Beauftragten bzw. stellvertretenden MPBeauftragten erfragt werden. 
 
-## **4.2 Geräteeinweisungen gemäß MPBetreibV** 
+## **4.2 Geräteeinweisungen gemäß MPBetreibV**
 
 - Die MP-Verantwortlichen (Ärztliche und Pflegerische Leitungen der Kliniken, Institutsdirektor:innen) benennen die MP-Beauftragten. Dies erfolgt schriftlich mit dem Vordruck FORM048. 
 
@@ -51,7 +51,7 @@ Organisation und Dokumentation von Geräteeinweisungen, Führung von Gerätelist
 
 Geltungsbereich: Alle MPProdukte-Anwender:innen 
 
-## **4.3 Einweisung in Medizinprodukte der Anlage 1 MPBetreibV** 
+## **4.3 Einweisung in Medizinprodukte der Anlage 1 MPBetreibV**
 
 - z.B. Beatmungsgerät, Infusionspumpe. 
 
@@ -59,7 +59,7 @@ Geltungsbereich: Alle MPProdukte-Anwender:innen
 
 - Schriftliche Dokumentation von Erst- und Folgeeinweisungen auf DHZC-Formular „MPGPersonaleinweisung“ FORM057 (nach Gerätetyp) und FORM146 (nach Eingewiesener Person); Einpflegen in MT-Data (s.u.). 
 
-## **4.4 Einweisung in aktive, nicht der Anlage 1 MPBetreibV zugeordnete Medizinprodukte** 
+## **4.4 Einweisung in aktive, nicht der Anlage 1 MPBetreibV zugeordnete Medizinprodukte**
 
 - z.B. batteriebetriebenes Blutdruckmessgerät, Pulsoximeter. 
 
@@ -67,7 +67,7 @@ Geltungsbereich: Alle MPProdukte-Anwender:innen
 
 - Nicht selbsterklärend: Einweisung durch (geeignete) Person, schriftliche Dokumentation auf DHZCFormular „Bestätigung Anwendereinweisung nach § 4 MPBetreibV“ FORM058; Einpflegen in MT-Data (s.u.). 
 
-## **4.5 Einweisung in nicht aktive Medizinprodukte** 
+## **4.5 Einweisung in nicht aktive Medizinprodukte**
 
 - (z.B. mechanisches Bett, Rollstuhl). 
 
@@ -75,19 +75,19 @@ Geltungsbereich: Alle MPProdukte-Anwender:innen
 
 - Nicht selbsterklärend: Einweisung durch (geeignete) Person, schriftliche Dokumentation auf DHZCFormular „Bestätigung Anwendereinweisung nach § 4 MPBetreibV“ FORM058; Einpflegen in MT-Data (s.u.) empfohlen. 
 
-## **4.6 Dokumentation erfolgter Einweisungen in MT-Data** 
+## **4.6 Dokumentation erfolgter Einweisungen in MT-Data**
 
 - Das Original einer erfolgten Einweisung verbleibt bei den MP-Beauftragten bzw. stellvertretenden MPBeauftragten in den Bereichen; 
 
 - Die Einweisungsnachweise werden als Scan per E an die Koordinationsstelle der MedizinprodukteEinweisung des DHZC gesandt: mp-einweisungsa rtung@dhzc-charite.de und dort in das zum Monitoring genutzte Programm MT-Data eingepflegt. 
 
-## **4.7 Aufgaben der Koordinationsstelle der MP-Einweisung des DHZC** 
+## **4.7 Aufgaben der Koordinationsstelle der MP-Einweisung des DHZC**
 
 - Einpflegen der Einweisungsnachweise und quartalsweises Reporting des Einweisungsstands durch an die MP-Beauftragten und Verantwortlichen. 
 
 - Bei Bedarf wird für die Mitarbeitenden auf Nachfrage bei der MP-Koordination jederzeit ein Gerätepass ausgestellt. 
 
-## **5. Mitgeltende Dokumente** 
+# **5. Mitgeltende Dokumente**
 
 FORM048 Medizinprodukte – Benennung zum Medizinproduktebeauftragten 
 

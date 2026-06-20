@@ -7,29 +7,11 @@ Spinalkatheter: IPS postoperativ /Komplikationsmanagement
 
 Institut für Anästhesiologie, IPS 1/2 
 
-## **Änderungshistorie** 
-
-## **Inhaltsverzeichnis** 
-
-|1.|Maßnahmen bei Übernahme des Patienten .................................................................................... 3|
 |---|---|
-|2.|weitere Kontrollen ............................................................................................................................ 3|
-|3.|Zielparameter ................................................................................................................................... 3|
-|4.|Umlagerung, Transport und Mobilisation ......................................................................................... 3|
-|5.|Beenden der Liquordrainage ........................................................................................................... 4|
-|6.|Komplikationsmanagement ............................................................................................................. 4|
-|6.1|Neurologisches Defizit ..................................................................................................................... 4|
-|6.2|Blutig tingierter Liquor ...................................................................................................................... 5|
-|6.3|V. a. Infektion ................................................................................................................................... 5|
-|6.4|postspinaler Kopfschmerz / Duraleck .............................................................................................. 5|
-|6.5|Diskonnektion .................................................................................................................................. 5|
-|6.6|Verband abgelöst oder durchfeuchtet ............................................................................................. 5|
-|6.7|Kein Liquor zu drainieren oder keine ICP-Kurve am Monitor darstellbar ........................................ 5|
-|7.|Inkrafttreten ...................................................................................................................................... 6|
 
 Aus Gründen der besseren Lesbarkeit wird die männliche Schreibform verwendet. Es werden jedoch alle Geschlechter gleichermaßen angesprochen. 
 
-## **1. Maßnahmen bei Übernahme des Patienten** 
+# **1. Maßnahmen bei Übernahme des Patienten**
 
 - Oberkörper-Hochlagerung 30° 
 
@@ -47,7 +29,7 @@ Aus Gründen der besseren Lesbarkeit wird die männliche Schreibform verwendet. 
 
 **CAVE!** prophylaktische Antikoagulation nur mit unfraktioniertem Heparin i.v. **CAVE!** die Lagerung des Patienten beeinflusst die Drainage 
 
-## **2. Weitere Kontrollen** 
+# **2. Weitere Kontrollen**
 
 ## _**Praktischer Hinweis**_ 
 
@@ -63,7 +45,7 @@ CSFP, MAP, ZVD, Liquor (Drainagemenge / Beschaffenheit / Farbe) und Neurostatus 
 
 - _**keine**_ Verlegung des Patienten von IPS mit liegendem Spinalkatheter 
 
-## **3. Zielparameter** 
+# **3. Zielparameter**
 
 So lange der Patient sediert und nicht ausreichend neurologisch beurteilbar ist: 
 
@@ -73,7 +55,7 @@ So lange der Patient sediert und nicht ausreichend neurologisch beurteilbar ist:
 
 - CSFP < 15 mmHg, stündlich Ablassen von 10 ml Liquor Wenn CSFP > 15 mmHg  Drainage von weiteren 10 ml (maximal 20 ml/h), ggf. MAP erhöhen bis SCPP > 70 mmHg (SCPP = MAP - CSFP) 
 
-## **4. Umlagerung, Transport und Mobilisation** 
+# **4. Umlagerung, Transport und Mobilisation**
 
 ## _Umlagerung des Patienten:_ 
 
@@ -97,7 +79,7 @@ Der wache Patient ist auch mit liegendem Spinalkatheter prinzipiell bis an die B
 
 - Das Liquordrainage-System muss spannungsfrei geführt werden, um eine Dislokation des Spinalkatheters zu verhindern 
 
-## **5. Beenden der Liquordrainage** 
+# **5. Beenden der Liquordrainage**
 
 - Wenn der Patient neurologisch sicher beurteilbar ist und kein pathologischer Befund besteht: Rücksprache mit Operateur und anästhesiologischem Oberarzt  ggf. Liquordrainage beenden. 
 
@@ -109,9 +91,9 @@ Der wache Patient ist auch mit liegendem Spinalkatheter prinzipiell bis an die B
 
 - Am Tag nach Entfernung des Spinalkatheters erfolgt eine Abschlussvisite durch die Anästhesie. 
 
-## **6. Komplikationsmanagement** 
+# **6. Komplikationsmanagement**
 
-## **6.1 Neurologisches Defizit** 
+## **6.1 Neurologisches Defizit**
 
 - _**Unverzügliche**_ Information des zuständigen Operateurs sowie des anästhesiologischen Oberarztes (Tel. 2710 o. 2611) 
 
@@ -133,7 +115,7 @@ Der wache Patient ist auch mit liegendem Spinalkatheter prinzipiell bis an die B
 
    - _**dringend**_ Bildgebung zur Differentialdiagnostik (Mittel der 1. Wahl: MRT zur Differenzierung Ischämie vs. Blutung, wenn MRT nicht möglich CT zum Ausschluss Hämatom), neurochirurgisches Konsil 
 
-## **6.2 Blutig tingierter Liquor** 
+## **6.2 Blutig tingierter Liquor**
 
 - _**sofortige**_ Information des anästhesiologischen Oberarztes (Tel. 2710 o. 2611) 
 
@@ -145,7 +127,7 @@ Der wache Patient ist auch mit liegendem Spinalkatheter prinzipiell bis an die B
 
 - Bei eingeschränkter neurologischer Beurteilbarkeit cCT zum Ausschluss einer SAB 
 
-## **6.3 V. a. Infektion** 
+## **6.3 V. a. Infektion**
 
 - klinische Zeichen einer lokalen Infektion: Einstichstelle gerötet oder eitrig, Rückenschmerzen, Klopfschmerz über der Wirbelsäule 
 
@@ -159,13 +141,13 @@ Der wache Patient ist auch mit liegendem Spinalkatheter prinzipiell bis an die B
 
 - Bei V. a. eine Device-assoziierte Meningitis: Indikation zur _**unmittelbaren**_ kalkulierten Antibiotikatherapie, z. B. Meropenem + Vancomycin (RS OA ITS / Anästhesiologie zur Abstimmung hinsichtlich antimikrobieller Komedikation / Vorgeschichte) 
 
-## **6.4 postspinaler Kopfschmerz / Duraleck** 
+## **6.4 postspinaler Kopfschmerz / Duraleck**
 
 - _Symptomatik_ : lageabhängiger (bis zu 15 min nach Aufrichten, rasche Besserung im Liegen) Schwindel und Kopf-/Rückenschmerzen (bilateral, occipital und frontal), DD: Infektion (s. o.) oder ICB  bei jeder atypischen Symptomatik cMRT 
 
 - _Therapie_ nach Rücksprache OA Anästhesiologie: ausreichende Hydrierung des Patienten, Paracetamol fest 4x 1 g/d p. o. / i.v., ggf. zusätzlich Coffein 3x 100 mg/d p. o., frühestens nach 72 h Blood-Patch erwägen 
 
-## **6.5 Diskonnektion** 
+## **6.5 Diskonnektion**
 
 - Katheter _**sofort**_ mit atraumatischer Klemme abklemmen 
 
@@ -175,13 +157,13 @@ Der wache Patient ist auch mit liegendem Spinalkatheter prinzipiell bis an die B
 
 - _**Unverzügliche**_ Information des anästhesiologischen OA (Tel. 2710 o. 2611) 
 
-## **6.6 Verband abgelöst oder durchfeuchtet** 
+## **6.6 Verband abgelöst oder durchfeuchtet**
 
 - Information des anästhesiologischen OA (Tel. 2710 o. 2611) (Liquorleckage?) 
 
 - unmittelbare Desinfektion und Anlage eines neuen Verbandes, dabei unbedingt durchsichtiges Verbandsmaterial über der Punktionsstelle verwenden 
 
-## **6.7** 
+# **6.7**
 
 ## **Kein Liquor zu drainieren oder keine ICP-Kurve am Monitor darstellbar** 
 
@@ -193,7 +175,7 @@ Der wache Patient ist auch mit liegendem Spinalkatheter prinzipiell bis an die B
 
 - Information des anästhesiologischen OA (Tel. 2710 o. 2611) 
 
-## **7. Inkrafttreten** 
+# **7. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

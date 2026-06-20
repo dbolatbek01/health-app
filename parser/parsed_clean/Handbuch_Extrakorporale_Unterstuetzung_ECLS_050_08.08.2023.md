@@ -5,49 +5,12 @@ Extrakorporale Unterstützung / Extracorporeal Life Support (ECLS)
 
 **Geltungsbereich** DHZC 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Einführung ....................................................................................................................................... 4|
 |---|---|
-|2.|Nomenklatur .................................................................................................................................... 4|
-|3.|Technische Voraussetzungen ......................................................................................................... 5|
-|4.|Physiologie ...................................................................................................................................... 7|
-|4.1|Venovenöse (v-v) ECMO ................................................................................................................. 7|
-|4.2|Venoarterielle (v-a) ECMO .............................................................................................................. 8|
-|4.3|Venopulmonalarterielle (v-p) ECMO ................................................................................................ 9|
-|5.|Indikationen ..................................................................................................................................... 9|
-|5.1|Kardial ............................................................................................................................................ 10|
-|5.2|Pulmonal ........................................................................................................................................ 10|
-|6.|Kontraindikationen, teils relativ ...................................................................................................... 10|
-|7.|Implantation ................................................................................................................................... 11|
-|7.1|Anästhesie ..................................................................................................................................... 11|
-|7.2|Beatmung ...................................................................................................................................... 11|
-|7.3|Kanülierungstechnik ...................................................................................................................... 11|
-|8.|Linksventrikulärer Vent .................................................................................................................. 12|
-|8.1|Indikationen ................................................................................................................................... 13|
 |8.2|Mögliche Techniken zur operativen Platzierung eines Vent-Katheters mit Anschluss an den|
-||venösen Schenkel des v-a ECMO ................................................................................................. 13|
-|8.3|Alternative Techniken bei Kontraindiktion für Impella-Implantation .............................................. 13|
-|9.|Gerinnungskontrolle ....................................................................................................................... 13|
-|10.|Hämolyse ....................................................................................................................................... 14|
-|11.|ECMELLA-Konfiguration................................................................................................................ 15|
-|12.|ECMO-Anwendung klinisch ........................................................................................................... 15|
-|12.1|Venovenöse (v-v) ECMO ............................................................................................................... 15|
-|12.2|Venoarterielle (v-a) ECMO ............................................................................................................ 16|
-|13.|Entwöhnung von ECMO ................................................................................................................ 17|
-|13.1|Venovenöse (v-v) ECMO ............................................................................................................... 17|
-|13.2|Venoarterielle (v-a) ECMO ............................................................................................................ 17|
 
-|13.2.1|Entwöhnung und weitere Therapieplanung bei v-a ECMO .......................................................... 18|
 |---|---|
-|13.2.2|Überprüfung der Lungenfunktion an v-a ECMO ........................................................................... 18|
-|14.|Explantation ................................................................................................................................... 19|
-|15.|Troubleshooting ............................................................................................................................. 19|
-|16.|Praktische Tipps ............................................................................................................................ 21|
-|17.|Literatur .......................................................................................................................................... 22|
-|18.|Mitgeltende Dokumente ................................................................................................................. 22|
 
-## **1. Einführung** 
+# **1. Einführung**
 
 Die extrakorporale Kreislaufunterstützung, englisch Extracorporeal Life Support (ECLS), ist ein technisches Verfahren zur vorübergehenden Unterstützung bis hin zum vollständigen Ersatz von Herzund/oder Lungenfunktion und kann darüber hinaus zur Regulierung der Körpertemperatur Verwendung finden. 
 
@@ -59,7 +22,7 @@ Im Vergleich zum VAD (zurzeit HeartMate3 oder BerlinHeart Excor) bietet die ECLS
 
 Das vorliegende Handbuch liefert eine kurze Übersicht über die technischen Aspekte und die Möglichkeiten und Grenzen der Therapie mit ECLS im klinischen Alltag. Darüber hinaus sollen Empfehlungen für typische Szenarien gegeben werden, um eine möglichst zügige Behandlung der üblicherweise kritisch kranken Patienten zu ermöglichen. 
 
-## **2. Nomenklatur** 
+# **2. Nomenklatur**
 
 Aktuell wird die Nomenklatur der ELSO empfohlen: 
 
@@ -73,7 +36,7 @@ Muss die Kanülierung aufgerüstet werden, wird die folgende Schreibweise gebrau
 
 Eine v-a ECMO mit venöser Präoxygenierung würden dann als v-va ECMO gekennzeichnet werden. 
 
-## **3. Technische Voraussetzungen** 
+# **3. Technische Voraussetzungen**
 
 ## **Zentrifugalpumpen** 
 
@@ -133,11 +96,11 @@ Je nach Kanülendesign werden auch passende Punktionskanülen, Seldingerdrähte 
 
 **Abbildung 3** . Kanülen und weitere Komponenten 
 
-## **4. Physiologie** 
+# **4. Physiologie**
 
 Nach dem Ort der Reinfusion des Blutes unterscheidet man zwischen venovenöser (v-v), venoarterieller (v-a) und venopulmonalarterieller (v-p) ECMO. 
 
-## **4.1 Venovenöse (v-v) ECMO** 
+## **4.1 Venovenöse (v-v) ECMO**
 
 Zur Behandlung eines isolierten Lungenversagens kommt in der Regel die v-v ECMO zum Einsatz. Es wird hierbei das Blut venös, z. B. über eine in der unteren Hohlvene liegende Kanüle drainiert, oxygeniert, von Kohlendioxid befreit, temperiert und dann erneut venös zurückgegeben, z. B. über die rechte Vena jugularis interna. Der Lungenkreislauf wird so von bereits oxygeniertem Blut durchströmt, welches nach Passage des linken Herzens dann in die systemische Zirkulation gelangt. 
 
@@ -149,7 +112,7 @@ Die arteriell gemessenen Blutgase des Patienten sind von verschiedenen Faktoren 
 
 **Abbildung 4.** Venovenöse (v-v) ECMO (angepasst aus [3]) 
 
-## **4.2 Venoarterielle (v-a) ECMO** 
+## **4.2 Venoarterielle (v-a) ECMO**
 
 Mit v-a ECMO können Patienten im Falle eines Herzversagens oder kombinierten Herz- und Lungenversagens unterstützt werden. Die Drainage des Blutes erfolgt hierbei ebenfalls venös, zur Reinfusion wird aber ein arterielles Gefäß, z. B. die A. femoralis communis, A. axillaris oder Aorta ascendens kanüliert. 
 
@@ -157,7 +120,7 @@ Bei nicht öffnender Aortenklappe ist in diesem Modus ein vollständiger Ersatz 
 
 **Abbildung 5** . Venoarterielle (v-a) ECMO (angepasst aus [3]) 
 
-## **4.3 Venopulmonalarterielle (v-p) ECMO** 
+## **4.3 Venopulmonalarterielle (v-p) ECMO**
 
 Insbesondere zur Therapie einer passageren Dysfunktion des rechten Ventrikels, kann ein v-p ECMO eingesetzt werden. Die venöse Hergabe erfolgt hierbei analog zum v-v bzw. v-a ECMO regelhaft durch eine über die Femoral- oder Jugularvene eingebrachte Drainagekanüle. Die Rückgabekanüle wird entweder über eine andere Femoral- oder Jugularvene durch den rechten Ventrikel in die Pulmonalarterie oder im Rahmen herzchirurgischer Eingriffe über eine Gefäßprothese auf die Pulmonalarterie direkt in diese eingebracht. 
 
@@ -165,11 +128,11 @@ Mit der ProtekDuo-Kanüle (s. 3.5) steht auch hier eine perkutane zweilumige Kan
 
 Beide Kanülierungstechniken ermöglichen in Abhängigkeit von der nativen Lungenfunktion die Konfiguration mit und ohne Oxygenator. 
 
-## **5. Indikationen** 
+# **5. Indikationen**
 
 Die Indikation für den Einsatz der v-a ECMO sind in SOP234 „Schwerer kardiogener Schock: Therapie mit Kurzzeit-MCS“ und SOP057 Schwerer kardiogener Schock nach herzchirurgischem Eingriff: Behandlung mit Kurzzeit-MCS“ beschrieben. Prinzipiell werden folgende Indikationen berücksichtigt: 
 
-## **5.1 Kardial** 
+## **5.1 Kardial**
 
 - Schwere Herzinsuffizienz mit Low-Cardiac-Output-Syndrom jeglicher Genese, z.B.: 
 
@@ -201,7 +164,7 @@ Die Indikation für den Einsatz der v-a ECMO sind in SOP234 „Schwerer kardioge
 
 - Relatives Low-Cardiac output Syndrom: Bei Patientinnen und Patienten mit ausgeprägtem SIRS kann bei parallel bestehend eingeschränktem nativen Herzzeitvolumen nach Optimierung der konservativen Therapie ein v-a ECMO im Einzelfall zur Optimierung der Perfusion sinnvoll sein 
 
-## **5.2 Pulmonal** 
+## **5.2 Pulmonal**
 
 - Akutes, reversibles respiratorisches Versagen (z. B. ARDS, Lungen-/Thorax-Trauma) als „bridge to recovery" 
 
@@ -209,7 +172,7 @@ Die Indikation für den Einsatz der v-a ECMO sind in SOP234 „Schwerer kardioge
 
 - Transplantatversagen nach Lungentransplantation 
 
-## **6. Kontraindikationen, teils relativ** 
+# **6. Kontraindikationen, teils relativ**
 
 - Alter > 75 Jahre 
 
@@ -227,15 +190,15 @@ Die Indikation für den Einsatz der v-a ECMO sind in SOP234 „Schwerer kardioge
 
 - Vorliegen einer entsprechend verfassten Patientenverfügung 
 
-## **7. Implantation** 
+# **7. Implantation**
 
 Die Implantation ist an jedem Ort möglich, an den das ECMO-System transportiert werden kann, z. B. im Katheterlabor, im Operationssaal oder auf der Intensivstation. 
 
-## **7.1 Anästhesie** 
+## **7.1 Anästhesie**
 
 Die Wahl des Anästhesieverfahrens richtet sich nach dem Zustand des Patienten und hat zum Ziel, den Patienten gegen sämtliche während des Eingriffs auftretende Situationen zuverlässig abzuschirmen. Bei wachen Patienten sollte die Implantation des ECMO-Systems bevorzugt in Lokalanästhesie durchgeführt werden. 
 
-## **7.2 Beatmung** 
+## **7.2 Beatmung**
 
 Während der Implantation muss eine Aspiration von Luft über die venöse Kanüle unbedingt vermieden werden. Eine forcierte, spontane Eigenatmung des Patienten mit stark negativen, intrathorakalen Drücken sollte aus diesem Grund bei wachen Patienten vermieden werden. 
 
@@ -243,7 +206,7 @@ Bei beatmeten Patienten sollte nach der Implantation so schonend wie möglich be
 
 In diesem Fall sollte zuerst eine Optimierung der Beatmung (z.B. durch Rekrutierung, Punktion von relevanten Ergüssen, Sekretmanagement, Steigerung des FiO2) vorgenommen werden. Falls es hierunter nicht zu einer relevanten Verbesserung kommt, sollte zeitnah eine zusätzliche venöse Rückgabe-Kanüle in den rechten Vorhof eingebracht werden (v-va ECMO). 
 
-## **7.3 Kanülierungstechnik** 
+## **7.3 Kanülierungstechnik**
 
 ## **Zentral** 
 
@@ -273,7 +236,7 @@ Peripher durch Punktion implantierte venöse Kanülen lassen sich einfach entfer
 
 Wie bereits erwähnt kann es bei Kanülierung von Arteria femoralis oder seltener der A. axillaris zu einer kritischen Verminderung der Extremitätenperfusion kommen. Als Folge können Kompartmentsyndrom und Extremitätenverlust oder therapieresistente, neuropathische Schmerzen auftreten. Die Perfusion der unteren Extremität kann z. B. über perkutan eingebrachte 8 Fr.-Kanülen (z. B. Super Arrow-Flex Schleusen) erfolgen. Ein Fluss von etwa 150–300 ml ist hierfür erforderlich. 
 
-## **8. Linksventrikulärer Vent** 
+# **8. Linksventrikulärer Vent**
 
 Myokardiale Dysfunktion und gesteigerte Nachlast des linken Ventrikels (durch die ECMO) können zu linksventrikulärer Distension mit steigendem LVEDD, LVEDP, damit erhöhter Wandspannung und zunehmendem myokardialen Sauerstoffbedarf führen. Eine Erholung der Herzfunktion kann unter diesen Umständen unmöglich sein. 
 
@@ -283,7 +246,7 @@ Aufgrund der aktuellen Studienlage sollte bei allen Patienten mit v-a ECMO eine 
 
 Mittel der Wahl ist am DHZC aktuell das Impella-System (CP oder 5.5). Bei Kontraindikationen können alternative Techniken zum Einsatz kommen (siehe SOP234 und SOP057). 
 
-## **8.1 Indikationen** 
+## **8.1 Indikationen**
 
 - Vorhandensein einer v-a ECMO 
 
@@ -295,7 +258,7 @@ Mittel der Wahl ist am DHZC aktuell das Impella-System (CP oder 5.5). Bei Kontra
 
    - Ggf. bei kombiniertem Herz- und Lungenversagen mit erhaltener Pulsatilität (zur Vermeidung einer zentralen Hypoxie) 
 
-## **8.2 Mögliche Techniken zur operativen Platzierung eines Vent-Katheters mit Anschluss an den** 
+## **8.2 Mögliche Techniken zur operativen Platzierung eines Vent-Katheters mit Anschluss an den**
 
 ## **venösen Schenkel des v-a ECMO** 
 
@@ -303,7 +266,7 @@ Mittel der Wahl ist am DHZC aktuell das Impella-System (CP oder 5.5). Bei Kontra
 
 - Herzspitzen-Vent via linkslaterale Mini-Thorakotomie 
 
-## **8.3 Alternative Techniken bei Kontraindiktion für Impella-Implantation** 
+## **8.3 Alternative Techniken bei Kontraindiktion für Impella-Implantation**
 
 Kontraindikationen sind: 
 
@@ -331,7 +294,7 @@ Kontraindikationen sind:
 
 - Im DHZC ist als führendes Verfahren die Impella-Implantation angesehen. 
 
-## **9. Gerinnungskontrolle** 
+# **9. Gerinnungskontrolle**
 
 Ziel der Antikoagulation ist die Reduktion thrombembolischer Ereignisse bei möglichst geringem Blutungsrisiko. 
 
@@ -369,7 +332,7 @@ Exemplarisch sind im klinischen Alltag zwei Extreme bezüglich des Antikoagulant
 
 Zum anderen Patienten, die nach Implantation eines mechanischen Composite-Grafts mit v-a ECMO und durch einen Vent entlasteten linken Ventrikel bei nicht öffnender Klappenprothese und trotz massiver Antikoagulation eine Thrombose von Graft und Koronararterien erleiden. 
 
-## **10. Hämolyse** 
+# **10. Hämolyse**
 
 Die Hämolyse stellt eine lebensbedrohliche Komplikation dar, die, wenn sie nicht erkannt oder behandelt wird, zum Multiorganversagen (MODS) und folglich zum Tod von Patienten führen kann. 
 
@@ -415,7 +378,7 @@ Nach jeder Intervention erfolgt im kurzfristigen Verlauf die klinische und labor
 
 Eine schwere Hämolyse (dunkler Urin oder Anurie) muss schnellstmöglich behoben werden, da schwere systemische Nebenwirkungen wie SIRS, akute Nierenschädigung und hämodynamische Konsequenzen drohen. 
 
-## **11. ECMELLA-Konfiguration** 
+# **11. ECMELLA-Konfiguration**
 
 Eine Kombination aus ECMO und Impella als temporärer LVAD bezeichnet man als ECMELLA. Bei allen peripher angelegten v-a ECMO sollte eine zusätzliche LV-Entlastung durch Impella innerhalb von 2 Stunden angestrebt werden. 
 
@@ -423,9 +386,9 @@ Bei Patienten mit v-a ECMO-Indikation ohne laufende HDM sollte nach Möglichkeit
 
 Zur Indikationsstellung für verschiedene temporäre MCS siehe SOP234 und SOP057. 
 
-## **12. ECMO-Anwendung klinisch** 
+# **12. ECMO-Anwendung klinisch**
 
-## **12.1 Venovenöse (v-v) ECMO** 
+## **12.1 Venovenöse (v-v) ECMO**
 
 Die v-v ECMO findet Anwendung zu Behandlung des isolierten Lungenversagens. Auch bei exzellenter Funktion des Systems sind in der Regel ohne maschinelle Beatmung keine normalen Blutgase zu erreichen. In jedem Fall sollten aber auch ganz ohne native Lungenfunktion eine arterielle Sauerstoffsättigung von über 80 % und ein pO2 von über 50 mmHg zu erreichen sein. Die Kohlendioxidelimination wird in der Regel kein Problem darstellen. „Bessere" Blutgase sind – einen ausreichenden Hämoglobinspiegel vorausgesetzt – in aller Regel nicht nötig. 
 
@@ -445,7 +408,7 @@ Der Einsatz einer Doppellumenkanüle (z. B. Elite® Kanüle, Avalon Laboratories
 
 Sollte sich im Verlauf trotz allem ein Rechtsherzversagen entwickeln, können die venösen Kanülen belassen werden und durch zusätzliches Einbringen einer arteriellen Kanüle eine Änderung des Systems in eine venoarterielle Konfiguration erfolgen. Hierbei ist dann aber besonderes Augenmerk auf das Vermeiden einer zentralen Hypoxie (d.h. das Auswerfen von nicht oxygeniertem Blut in die Aortenwurzel mit nachfolgender Hypoxie von Myokard und zentralem Nervensystem) zu legen, zum Beispiel durch Kanülierung der Arteria axillaris. 
 
-## **12.2 Venoarterielle (v-a) ECMO** 
+## **12.2 Venoarterielle (v-a) ECMO**
 
 Bei Patienten mit myokardialem Versagen ist das Ziel der ECMO-Therapie entweder die Organerholung oder aber die Unterstützung bis zur Implantation einer dauerhaften mechanischen Kreislaufunterstützung. Klinische Kriterien für die Indikationsstellung sind in SOP234 und SOP057 beschrieben. Einen unter Umständen sehr dankbaren Sonderfall stellt die Implantation einer v-a ECMO während einer kardiopulmonalen Reanimation oder eines Herzkatheter-Zwischenfalls dar. Im Katheterlabor bietet sich die Anlage des ECMO und ggf. eines ECMELLA 1.0 Systems unter Durchleuchtung je nach klinischem Zustand des Patienten (siehe SOP234). 
 
@@ -463,9 +426,9 @@ Das Vorliegen einer zentralen Hypoxie macht ein Umkanulieren auf die A. axillari
 
 Zum Schluss sollte die Entlastung des linken Ventrikels bevorzugt mittels Impella wie oben beschrieben durchgeführt werden. 
 
-## **13. Entwöhnung von ECMO** 
+# **13. Entwöhnung von ECMO**
 
-## **13.1 Venovenöse (v-v) ECMO** 
+## **13.1 Venovenöse (v-v) ECMO**
 
 ## Prinzipien 
 
@@ -479,7 +442,7 @@ Zum Schluss sollte die Entlastung des linken Ventrikels bevorzugt mittels Impell
 
 - Bei unzureichender BGA Gasfluss wieder erhöhen. Bei zufriedenstellender BGA ECMO-Fluss weiter belassen, Gasfluss abschalten, erneute BGA nach einer Stunde. Falls auch ohne Gasfluss ein zufriedenstellender Gasaustauscherreicht werden kann, folgt die Explantation. 
 
-## **13.2 Venoarterielle (v-a) ECMO** 
+## **13.2 Venoarterielle (v-a) ECMO**
 
 Eine Entwöhnung von der v-a ECMO sollte innerhalb der ersten Woche erfolgen. Das Vorgehen ist in SOP234 beschrieben und erfolgt i.d.R. durch Zuhilfenahme der Impella (ECMELLA-Konfiguration). Ohne Impella ist sie unwahrscheinlich bei LVEF < 25%. Die Grunderkrankung sollte behandelt werden (z. B. Immunsuppression bei akuter Myokarditis, Bromocriptin-Behandlung bei postpartum KMP, Entgiftung bei Vergiftung, Revaskularisation bei AMI usw.). Die Entwöhnung sollte nach 3–5 Tagen Unterstützung begonnen werden. 
 
@@ -503,13 +466,13 @@ Eine Entwöhnung von der v-a ECMO sollte innerhalb der ersten Woche erfolgen. Da
 
 - Explantation wie unten beschrieben 
 
-## **13.2.1 Entwöhnung und weitere Therapieplanung bei v-a ECMO** 
+### **13.2.1 Entwöhnung und weitere Therapieplanung bei v-a ECMO**
 
 Bei Patienten mit akuter Verschlechterung einer bereits bekannten chronischen Herzinsuffizienz (z. B. ischämische, dilatative, toxische oder restriktive KMP) ist eine ausreichende myokardiale Erholung nicht zu erwarten. In diesem Fall stellt die ECMO in ECMELLA Konfiguration bei ausgewählten Patienten eine Überbrückung bis zur permanenten VAD-Implantation dar. Für eine weiterführende VAD-Therapie sind, soweit beurteilbar, neurologisch intakte Patienten ohne irreversibles Leber- und Lungenversagen geeignet. 
 
 Der Patientenwunsch und/oder der seiner Angehörigen soll in die Entscheidung einbezogen werden. Bei Patienten mit einer akuten Herzinsuffizienz (z. B. postpartum KMP, fulminante Myokarditis, Takotsubo, akuter Myokardinfarkt, Intoxikation) ist eine myokardiale Erholung möglich und soll angestrebt werden. 
 
-## **13.2.2 Überprüfung der Lungenfunktion an v-a ECMO** 
+### **13.2.2 Überprüfung der Lungenfunktion an v-a ECMO**
 
 Vor der Entwöhnung muss die Lungenfunktion überprüft werden. Das ist bei laufender ECMO nicht immer eindeutig möglich. Während der ECMO-Reduktion kann es aufgrund des myokardialen Versagens zu einer Lungenstauung kommen, die eine Beurteilung erschwert. Folgende Parameter können auch bei laufender ECMO Hinweise auf die Güte der Lungenfunktion geben: 
 
@@ -545,7 +508,7 @@ Folgende Varianten stehen unter anderem zur Wahl:
 
 2. Kommt der Patient nicht für eine weiterführende Therapie in Frage, wird interdisziplinär eine Therapiezieländerung konsentiert. 
 
-## **14. Explantation** 
+# **14. Explantation**
 
 Die ECMO-Explantation ist überwiegend eine geplante Operation und soll, wenn es kein Notfall-Eingriff ist, im OP-Saal unter kontrollierten Bedingungen stattfinden. Folgende Punkte müssen beachtet werden: 
 
@@ -559,7 +522,7 @@ Die ECMO-Explantation ist überwiegend eine geplante Operation und soll, wenn es
 
 - ˗ Nach der Entfernung der perkutan gelegten venösen Kanüle wird die Punktionsstelle manuell komprimiert. 
 
-## **15. Troubleshooting** 
+# **15. Troubleshooting**
 
 **Telefonnummern für Standorte MA und AP** DECT 2128 DECT chirurgischer Hausdienst 2330 DECT Arztdienst lntensivmedizin Kinderkardiologie 2836 
 
@@ -605,7 +568,7 @@ Vor dem Wechsel des Systems sollen alle weiteren Unterstützungen hochgefahren w
 
 Ziel: Gesamtzeit für Systemwechsel max. 30–45 Sek. 
 
-## **16. Praktische Tipps** 
+# **16. Praktische Tipps**
 
 ## **Vorbereitung** 
 
@@ -649,7 +612,7 @@ Bei hohem Blutungsrisiko kann bei einem beschichteten ECMO-Systern vorübergehen
 
 Venöse Gefäße ausreichend weit aufdilatieren, d. h. bei 23er Kanüle mit einem 24er Dilatator. Eine größere Blutungsneigung ist nicht zu befürchten, das Risiko einer Verletzung der Vene aber deutlich geringer. 
 
-## **17. Literatur** 
+# **17. Literatur**
 
 - [1] Conrad SA et al. The Extracorporeal Life Support Organization Maastricht Treaty for Nomenclature in Extracorporeal Life Support. A Position Paper of the Extracorporeal Life Support Organization. Am J Respir Crit Care Med 2018;198(4): 447-51. https://pubmed.ncbi.nlm.nih.gov/29614239/ 
 
@@ -673,7 +636,7 @@ https://pubmed.ncbi.nlm.nih.gov/16915115/
 
 - [8] Kormos et al. Updated definitions of adverse events for trials and registries of mechanical circulatory support: A consensus statement of the mechanical circulatory support academic research consortium. J Heart Lung Transplant 2020;39(8):735-50. https://pubmed.ncbi.nlm.nih.gov/32386998/ 
 
-## **18. Mitgeltende Dokumente** 
+# **18. Mitgeltende Dokumente**
 
 SOP057 Schwerer kardiogener Schock nach herzchirurgischem Eingriff: Behandlung mit kurzzeitiger mechanischer Kreislaufunterstützung 
 

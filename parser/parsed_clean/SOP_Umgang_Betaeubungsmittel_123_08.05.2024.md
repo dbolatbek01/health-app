@@ -9,41 +9,8 @@ Umgang mit Betäubungsmitteln
 
 Krankenversorgung: Klinikleitungen, Arztdienst und Pflegedienst 
 
-## **Inhaltsverzeichnis** 
-
 |**Inhaltsverzeichnis**|**Inhaltsverzeichnis**|
 |---|---|
-|Änderungen zur Vorversion .......................................................................................................................... 3||
-|1.|Ziel ................................................................................................................................................... 3|
-|2.|Prozessverantwortliche Person ....................................................................................................... 3|
-|3.|Geltungsbereich ............................................................................................................................... 3|
-|4.|Begriffsdefinitionen .......................................................................................................................... 3|
-|5.|Betäubungsmittelanforderungsscheine ........................................................................................... 3|
-|5.1|Verschreibung, Bestellung, Verwendung ........................................................................................ 3|
-|5.2|Aufbewahrung Betäubungsmittelanforderungsbuch ....................................................................... 4|
-|5.3|Ausfüllen Betäubungsmittelanforderungsschein ............................................................................. 4|
-|6.|Anforderung und Lieferung Betäubungsmittel ................................................................................. 5|
-|7.|Dokumentation ................................................................................................................................. 6|
-|7.1|Nachweisführung ............................................................................................................................. 6|
-|7.2|Bezeichnung .................................................................................................................................... 6|
-|7.3|Eintragungen ................................................................................................................................... 6|
-|7.3.1|Zugänge ........................................................................................................................................... 7|
-|7.3.2|Abgänge .......................................................................................................................................... 7|
-|7.3.3|Restmengen .................................................................................................................................... 7|
-|7.3.4|Änderungen ..................................................................................................................................... 7|
-|7.3.5|Mehrfachlagerorte ............................................................................................................................ 7|
-|7.4|Kontrolle Betäubungsmittelbestand ................................................................................................. 7|
-|7.4.1|Abgleich aktueller Betäubungsmittelbestand/Abteilungsbestand .................................................... 7|
-|7.4.2|Abgleich bei Mehrfachlagerorten ..................................................................................................... 8|
-|7.4.3|Monatsabschluss ............................................................................................................................. 8|
-|7.4.4|Interne Revision ............................................................................................................................... 8|
-|7.5|Aufbewahrungsfrist .......................................................................................................................... 8|
-|8.|Weitergabe von Betäubungsmitteln an andere Bereiche ................................................................ 9|
-|9.|Mitgabe von Betäubungsmitteln an Patienten bei Entlassung ........................................................ 9|
-|10.|Aufbewahrung von Betäubungsmitteln ............................................................................................ 9|
-|11.|Vernichtung von Betäubungsmitteln ................................................................................................ 9|
-|12.|Rückgabe von Betäubungsmitteln an die Apotheke ...................................................................... 10|
-|13.|Mitgeltende Dokumente ................................................................................................................. 10|
 
 ## **Änderungen zur Vorversion** 
 
@@ -51,25 +18,25 @@ Neu eingefügt unter 7.4.1:
 
 Absatz 2: Bei verschlossenen Packungen ist bei jeder Kontrolle zu überprüfen, dass das Medikamentensiegel unversehrt ist. Bei bereits geöffneten Siegel muss der Inhalt der Packung gezählt werden. 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Korrekter Umgang mit Betäubungsmitteln am Deutschen Herzzentrum der Charité (DHZC). 
 
-## **2. Prozessverantwortliche Person** 
+# **2. Prozessverantwortliche Person**
 
 Klinikdirektoren 
 
-## **3. Geltungsbereich** 
+# **3. Geltungsbereich**
 
 Krankenversorgung 
 
-## **4. Begriffsdefinitionen** 
+# **4. Begriffsdefinitionen**
 
 Apotheke: Apotheke der Charité – Universitätsmedizin Berlin CFM-Transportdienst: Materialtransport der Charité CFM Facility Management GmbH Konzernrevision: Abteilung des Geschäftsbereichs „Datenschutz und Governance“ der Charité – Universitätsmedizin Berlin 
 
-## **5. Betäubungsmittelanforderungsscheine** 
+# **5. Betäubungsmittelanforderungsscheine**
 
-## **5.1 Verschreibung, Bestellung, Verwendung** 
+## **5.1 Verschreibung, Bestellung, Verwendung**
 
 ## Verschreibung 
 
@@ -109,11 +76,11 @@ Für den Stationsbedarf darf nur der Arzt Betäubungsmittel verschreiben, der ei
 
 Die Namen der verschreibungsberechtigten Ärzte sind schriftlich niederzulegen und den jeweiligen pflegerischen Stationsleitungen bzw. Leitungen der Funktionsdienste der Abteilung in schriftlicher Form bekanntzugeben. 
 
-## **5.2 Aufbewahrung Betäubungsmittelanforderungsbuch** 
+## **5.2 Aufbewahrung Betäubungsmittelanforderungsbuch**
 
 Die BtM-Anforderungsbücher müssen verschlossen und gegen unbefugte Entwendung gesichert aufbewahrt werden. 
 
-## **5.3 Ausfüllen Betäubungsmittelanforderungsschein** 
+## **5.3 Ausfüllen Betäubungsmittelanforderungsschein**
 
 ## **Pflichtangaben** 
 
@@ -163,7 +130,7 @@ Die Teile I und II des BtM-Anforderungsscheins sind zur Vorlage in der Apotheke 
 
 Das BtM-Anforderungsbuch mit dem Teil III der Stationsverschreibungen (bzw. den Teilen I bis III fehlerhaft ausgefertigter Anforderungsscheine) ist vom anfordernden Arzt drei Jahre, von der letzten Eintragung an gerechnet, aufzubewahren. 
 
-## **6. Anforderung und Lieferung Betäubungsmittel** 
+# **6. Anforderung und Lieferung Betäubungsmittel**
 
 1. Die Lieferung von Betäubungsmitteln aus der Apotheke darf nur erfolgen, wenn das Original des BtM-Anforderungsscheins vor der Auslieferung dort vorliegt. 
 
@@ -189,13 +156,13 @@ Das BtM-Anforderungsbuch mit dem Teil III der Stationsverschreibungen (bzw. den 
 
 12. Die gelieferten Betäubungsmittel werden von der Pflegeleitung oder Schichtkoordination unverzüglich im BtM-Schrank eingeschlossen und der Zugang sofort auf der BtM-Nachweiskarte bzw. im BtM-Nachweisbuch dokumentiert. 
 
-## **7. Dokumentation** 
+# **7. Dokumentation**
 
-## **7.1 Nachweisführung** 
+## **7.1 Nachweisführung**
 
 Für die Nachweisführung der Betäubungsmittel auf den Stationen und Abteilungen sind ausschließlich Vordrucke nach amtlichem Formblatt (BtM-Nachweiskarten) zu verwenden. Diese sind über den Einkauf (SRM-Anwendungsportal) unter der Bestellnummer 320370 anzufordern. Bei interdisziplinär belegten Stationen ist für jeden medizinischen Fachbereich eine eigene Dokumentation zu führen. 
 
-## **7.2 Bezeichnung** 
+## **7.2 Bezeichnung**
 
 Jede Karte und jede Seite des BtM-Buchs muss mit der korrekten und vollständigen Bezeichnung des gelieferten Betäubungsmittels, der Darreichungsform, bei abgeteilten Formen dem Betäubungsmittelgehalt pro Darreichungsform und einem Stempel mit Stationsbezeichnung und kompletter Anschrift versehen sein. 
 
@@ -205,15 +172,15 @@ Im Inhaltsverzeichnis der BtM-Bücher sind hinter der Bezeichnung des Betäubung
 
 Das Entfernen von Seiten aus dem fortlaufend nummerierten Buch ist unzulässig. 
 
-## **7.3 Eintragungen** 
+## **7.3 Eintragungen**
 
 Eintragungen auf diesen Formblättern sind unverzüglich nach jeder Bestandsänderung des Betäubungsmittels vorzunehmen. 
 
-## **7.3.1 Zugänge** 
+### **7.3.1 Zugänge**
 
 Bei Zugängen sind dauerhaft das Datum, die Menge des Betäubungsmittels sowie die Herkunft einzutragen, darüber hinaus der Name des verschreibenden Arztes sowie der sich nach dem Zugang ergebende Bestand und die Nummer des zur Bestellung verwendeten BtM-Anforderungsscheins. Die Eintragung ist von der Pflegeleitung oder der Schichtkoordination mit ihrem Namen, ihrer Unterschrift und der Uhrzeit mit dem Vermerk „Zugang aus Apotheke“ mit rotem Kugelschreiber zu dokumentieren. 
 
-## **7.3.2 Abgänge** 
+### **7.3.2 Abgänge**
 
 Bei Abgängen sind dauerhaft (die Verwendung von Aufklebern ist nicht zulässig) und getrennt für jeden Patienten, bei dem das Arzneimittel appliziert wurde, Datum und Menge, Name, Vorname und Geburtsdatum des Patienten sowie der sich nach dem Abgang ergebende Bestand einzutragen. Sollten sich zur selben Zeit zwei Patienten mit gleichem Vor- und Nachnamen auf der Station aufhalten, ist als Unterscheidungsmerkmal zusätzlich die Anschrift einzutragen. 
 
@@ -225,23 +192,23 @@ Die Eintragung ist von der Pflegekraft mit ihrem Namen und ihrer Unterschrift zu
 
 Die Erstentnahme eines Betäubungsmittels muss zwingend mit der einmaligen Aufnahmenummer des jeweiligen Patienten handschriftlich direkt auf der BtM-Karte erfolgen. 
 
-## **7.3.3 Restmengen** 
+### **7.3.3 Restmengen**
 
 Restmengen sowie nicht mehr verwendungsfähige Betäubungsmittel müssen in Gegenwart von zwei Zeugen (insgesamt also drei Mitarbeitern) vernichtet und die verworfene Menge im BtM-Nachweis von den drei beteiligten Mitarbeitern mit ihren Namen und ihren Unterschriften dokumentiert werden. Die Dokumentation der Vernichtung ist drei Jahre aufzubewahren, § 16 BtMG. 
 
-## **7.3.4 Änderungen** 
+### **7.3.4 Änderungen**
 
 Änderungen eines vorhandenen Eintrags sind in derselben Zeile nicht statthaft. Bei fehlerhafter Dokumentation oder Ausgabe von Betäubungsmitteln ist dies in der nächsten freien Zeile mit den Patientendaten, einem Kommentar (z.B. „Fehleintrag Zeile 3, geänderte Dosierung“) und der Unterschrift der Schichtkoordination sowie eines weiteren Zeugen zu dokumentieren. Die Rückführung eines zuvor entnommenen, original verpackten und nicht verwendeten Betäubungsmittels in den Gesamtbestand muss rechnerisch als Zugang korrigiert werden. Ebenso sind Rechenfehler in der nächsten freien Zeile mit dem Vermerk auf die fehlerhafte Zeile von zwei Zeugen und deren Unterschriften zu korrigieren. 
 
 Der korrekte Gesamtbestand muss dokumentiert, kontrolliert und unterschrieben werden. 
 
-## **7.3.5 Mehrfachlagerorte** 
+### **7.3.5 Mehrfachlagerorte**
 
 In Bereichen wie der Anästhesie mit mehreren Lagerorten für Betäubungsmittel (Haupt- und Subdepots) werden Zugänge aus der Apotheke, Abgänge an die Subdepots sowie Rückgaben an die Apotheke auf der jeweiligen Karteikarte bzw. im Nachweisbuch des Hauptdepots dokumentiert. Auf der Karteikarte oder im Nachweisbuch des bzw. der Subdepots werden Zugänge aus dem Hauptdepot, die patientenbezogenen Abgänge, Vernichtungen sowie Rückgaben an das Hauptdepot aufgezeichnet. 
 
-## **7.4 Kontrolle Betäubungsmittelbestand** 
+## **7.4 Kontrolle Betäubungsmittelbestand**
 
-## **7.4.1 Abgleich aktueller Betäubungsmittelbestand/Abteilungsbestand** 
+### **7.4.1 Abgleich aktueller Betäubungsmittelbestand/Abteilungsbestand**
 
 Bei jedem Schichtwechsel, mindestens aber einmal täglich, ist der aktuelle Betäubungsmittelbestand von zwei Pflegekräften oder Funktionsdienstmitarbeitern des Bereichs zu zählen und mit dem dokumentierten Abteilungsbestand zu vergleichen. 
 
@@ -253,23 +220,23 @@ Längere Überprüfungsintervalle sind in Abteilungen mit einem sehr geringen Ve
 
 Unstimmigkeiten oder Unregelmäßigkeiten, die sich nicht kurzfristig klären lassen und die nicht auf Dokumentationsfehlern beruhen, sind dem Klinikdirektor, dem Pflegedirektor oder der CISORM Funktionsdienst-Leitung und dem Ärztlichen Direktor zu melden. 
 
-## **7.4.2 Abgleich bei Mehrfachlagerorten** 
+### **7.4.2 Abgleich bei Mehrfachlagerorten**
 
 In Bereichen wie der Anästhesie mit mehreren Lagerorten für Betäubungsmittel (Haupt- und Subdepots) erfolgt die Kontrolle des Hauptdepots werktags einmal täglich durch die leitende Pflegekraft oder ihre Stellvertretung. Die Bestandskontrolle der Subdepots wird mind. einmal täglich und nach Tagesabschluss des Arbeitsplatzes von dem zuständigen Funktionsdienstmitarbeiter vorgenommen. Alle weiteren Bestimmungen wie die Plausibilitätsprüfung und die Dokumentation der Kontrolle bleiben hiervon unberührt. 
 
-## **7.4.3 Monatsabschluss** 
+### **7.4.3 Monatsabschluss**
 
 Am Ende eines jeden Kalendermonats hat der für die Station/Abteilung verantwortliche (verschreibungsberechtigte) Arzt die Eintragungen auf den BtM-Karten bzw. im BtM-Buch auf Plausibilität sowie den Bestand jedes Betäubungsmittels zu überprüfen und mit Datum und Unterschrift abzuzeichnen, § 13 Abs. 2 BtMVV. 
 
-## **7.4.4 Interne Revision** 
+### **7.4.4 Interne Revision**
 
 Mitarbeiter der Abteilung Konzernrevision, GB Datenschutz und Governance sind berechtigt, jederzeit und unangemeldet die Betäubungsmittelbestände sowie sämtliche Dokumentationsunterlagen einzusehen und Ihre Richtigkeit zu überprüfen. 
 
-## **7.5 Aufbewahrungsfrist** 
+## **7.5 Aufbewahrungsfrist**
 
 Die Aufbewahrungsfrist für die Dokumentationsunterlagen beträgt, vom Datum der letzten Eintragung an gerechnet, 3 Jahre. 
 
-## **8. Weitergabe von Betäubungsmitteln an andere Bereiche** 
+# **8. Weitergabe von Betäubungsmitteln an andere Bereiche**
 
 Jede Abteilung bzw. Station ist dafür verantwortlich, nur eine notwendige und ausreichende Menge an Betäubungsmitteln vorrätig zu halten. 
 
@@ -277,23 +244,23 @@ Bei bereichsüberschreitenden Patientenverlegungen dürfen keine angefangenen Bt
 
 Überschreitet der Bedarf unvorhergesehen die Vorratshaltung, können bei Eilbedürftigkeit von einer anderen Abteilung oder Station Betäubungsmittel beschafft werden. In diesem Fall ist wie folgt vorzugehen: der abgebende Bereich dokumentiert den Vorgang auf der entsprechenden BtM-Karte bzw. im BtM-Buch als Abgang mit dem Vermerk „ABGABE AN STATION / ABTLG. ...“, der empfangende Bereich dokumentiert den Zugang mit dem Vermerk „ZUGANG VON STATION / ABTEILUNG ...“. Die Eintragungen werden unter Vorlage der BtM-Bücher bzw. der Karteikarten beider Abteilungen jeweils von Pflegekräften, Funktionsdienstmitarbeitenden oder Ärzten beider Abteilungen gegengezeichnet. Eine Rückgabe des Betäubungsmittels ist nicht erforderlich. 
 
-## **9. Mitgabe von Betäubungsmitteln an Patienten bei Entlassung** 
+# **9. Mitgabe von Betäubungsmitteln an Patienten bei Entlassung**
 
 Aus betäubungsmittelrechtlicher Sicht ist das Mitgeben von Betäubungsmitteln nicht statthaft. In notwendigen Fällen muss die Versorgung daher über eine ärztliche Betäubungsmittelverschreibung im Wege eines BtM-Rezepts gesichert werden. Das BtM-Rezept kann nur von einer öffentlichen Apotheke eingelöst werden. 
 
-## **10. Aufbewahrung von Betäubungsmitteln** 
+# **10. Aufbewahrung von Betäubungsmitteln**
 
 Betäubungsmittel sind verschlossen in für Dritte nicht zugänglichen Schränken nach der Richtlinie 4114K (1.07) der Bundesopiumstelle des BfArM aufzubewahren. Betäubungsmittelmengen, die höchstens dem durchschnittlichen Tagesbedarf einer Teileinheit entsprechen und ständig griffbereit sein müssen, sind durch Einschließen so zu sichern, dass eine schnelle Entwendung wesentlich erschwert wird. 
 
 Die Schlüssel für die BtM-Schränke werden von der Stations- bzw. Funktionsdienstleitung bzw. in ihrer Abwesenheit von ihrer Stellvertretung / der Schichtleitung persönlich mitgeführt. Die Aufbewahrung der entsprechenden Schlüssel ist durch einen schriftlichen Verteilerplan zu regeln. Abweichend hiervon ist es in Bereichen, die nicht in einem kontinuierlichen Drei-Schicht-System arbeiten (z. B. Funktionsbereiche), zulässig, den Schlüssel für die BtM-Schränke in einem verschlossenen Fach in einem zusätzlich verschlossenen Raum aufzubewahren. Eine transpondergesteuerte Raumschließung wird ausdrücklich empfohlen. 
 
-## **11. Vernichtung von Betäubungsmitteln** 
+# **11. Vernichtung von Betäubungsmitteln**
 
 Betäubungsmittel müssen in Gegenwart von zwei Zeugen (insgesamt also drei Mitarbeitern) so vernichtet werden, dass eine Wiedergewinnung ausgeschlossen und der Schutz von Mensch und Umwelt sichergestellt ist. 
 
 Die Vernichtung ist im Betäubungsmittelbuch bzw. auf der BtM-Nachweiskarte mit den Namen und den Unterschriften der drei an der Vernichtung beteiligten Mitarbeiter zu dokumentieren. Ein entsprechendes Merkblatt zur Verfahrensweise „Richtlinie zur Vernichtung von BtM“ findet sich auf der Intranet-Seite der Apotheke (https://intranet.charite.de/apotheke/bereiche_der_apotheke/betaeubungsmittel/). 
 
-## **12. Rückgabe von Betäubungsmitteln an die Apotheke** 
+# **12. Rückgabe von Betäubungsmitteln an die Apotheke**
 
 Eine Rückgabe von Betäubungsmitteln an die Apotheke ist nur in folgenden Fällen möglich: 
 
@@ -309,7 +276,7 @@ Die Apotheke prüft die Rücknahmefähigkeit der angegebenen Artikel und teilt d
 
 Nach dem Eintreffen und der Überprüfung der Rücksendung in der Apotheke übermittelt diese dem Absender eine Empfangsbestätigung in Form eines SAP-Rücknahmescheins (Gutschrift). 
 
-## **13. Mitgeltende Dokumente** 
+# **13. Mitgeltende Dokumente**
 
 Grundlagen für den Umgang mit Betäubungsmitteln (BtM) sind das Betäubungsmittelgesetz (BtMG) sowie die Betäubungsmittel-Verschreibungsverordnung (BtMVV) in den jeweils aktuell gültigen Fassungen. 
 

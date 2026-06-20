@@ -1,8 +1,8 @@
 **CAI: Koronarchirurgie** 
 
-## **1. Allgemeines** 
+# **1. Allgemeines**
 
-## **1.1 Ischämiedetektion** 
+## **1.1 Ischämiedetektion**
 
 Das simultane Monitoring von zwei Ableitungen erhöht die Sensitivität zur Ischämieerkennung von 66-75 % (nur Ableitung V5) auf 76-95 % (Ableitung II und V5). Wir verwenden im OP eine _modifizierte Positionierung nach Mason-Likar_ mit 5 Elektroden für 7 Ableitungen, wovon **II** und **V5/6** parallel auf dem Monitor dargestellt werden sollten. Für eine aussagekräftige Ableitung ist die korrekte Position der **R** -, **L** -, **F** - sowie der Brustwandelektrode ( **C** ) entscheidend. 
 
@@ -20,27 +20,27 @@ Das Verteilen sämtlicher Elektroden auf beide Schulterblätter jedoch führt a)
 
 - Beckenkamm li.  **grün** 
 
-## **1.2 TEE** 
+## **1.2 TEE**
 
 Grundsätzlich indiziert bei jeglicher Koronarchirurgie (s. SOP506 Perioperative TEE); Aufdeckung zuvor nicht diagnostizierter Pathologien (z. B. valvuläre Fehlfunktion, intrakardiale Shunts/Thromben, Atherome der Ao. ascendens, etc.), Platzierungshilfe für femoral eingebrachte HLM-Kanülen oder ECLS-Devices (z. B. Impella®), Erfassung und Monitoring des Volumenstatus und der prä-, intra- und postoperativen myokardialen Funktion u. a. 
 
-## **1.3 Invasive Blutdruckmessung** 
+## **1.3 Invasive Blutdruckmessung**
 
 A. radialis des linken Arms häufig als Graft vorgesehen, daher kritische Prüfung in TORIN; wenn keine explizite Angabe der Graft-Entnahmeorte Klärung mit Operateur:in vor Punktion 
 
-## **1.4 Pulmonalarterienkatheter** 
+## **1.4 Pulmonalarterienkatheter**
 
 Kein Outcome-Vorteil in der Koronarchirurgie nachgewiesen. Bei deutlich eingeschränkter Myokardfunktion (LVEF << 30%), LCOS, pulmonaler Hypertension, schwerer RV-Dysfunktion jedoch liberale Indikationsstellung auch im Hinblick auf nachversorgende Einheiten. 
 
 **CAI: Koronarchirurgie** 
 
-## **2. Aortokoronarer Bypass on-pump mit medianer Sternotomie „CABG“** 
+# **2. Aortokoronarer Bypass on-pump mit medianer Sternotomie „CABG“**
 
 - Standard HLM gemäß SOP534 CAI Standardnarkose bei Operationen mit Einsatz der HLM 
 
 - Wärmemanagement gemäß SOP510 CAI Wärmemanagement bei kardiochirurgischen Eingriffen, Prewarming in der Einleitung nur bei Patientenwunsch im Komfortsinne 
 
-## **3. Aortokoronarer Bypass off-pump mit medianer Sternotomie „OPCAB“** 
+# **3. Aortokoronarer Bypass off-pump mit medianer Sternotomie „OPCAB“**
 
 Bei der OPCAB-Technik wird die Revaskularisierung komplett ohne Einsatz der Herzlungenmaschine durchgeführt. Für die Koronaranastomosen muss insbesondere bei RCX- und RIVP-Anschlüssen das Herz z. T. nicht unerheblich luxiert werden, um das Zielgefäß adäquat zu exponieren und für die mikrochirurgische Anastomose zu stabilisieren. Hierfür kommen verschiedene Stabilisatoren und Retraktoren zum Einsatz. Diese Luxationen können zu deutlichen Einschränkungen des Schlagvolumens und der Koronarperfusion, sowie zu transienten valvulären Insuffizienzen führen. Bei schlechter Kollateralisierung des Zielgefäßes kann dessen temporäre Ausklemmung für die Anastomose ebenfalls eine ausgeprägte hämodynamische Kompromittierung verursachen, weshalb bei Auftreten von malignen HRST und per se bei proximalen RCA-Anastomosen die Einlage eines Shunts indiziert sein kann. 
 
@@ -62,7 +62,7 @@ Bei der OPCAB-Technik wird die Revaskularisierung komplett ohne Einsatz der Herz
 
 **Cave** : oft unterschätzter Blutverlust 
 
-## **4. Single Vessel, Multivessel mit lateraler Thorakotomie „MI(D)CAB“** 
+# **4. Single Vessel, Multivessel mit lateraler Thorakotomie „MI(D)CAB“**
 
 Revaskularisierung über eine linkslaterale Minithorakotomie. Der Operateur / die Operateurin arbeitet von links. Die klassische MIDCAB-Anastomose ist LIMA-RIVA. Weitere Gefäße können i. d. R. als T-Graft mit einem Radialarterien-Interponat versorgt werden, ausnahmsweise ist mittels Heartstring®-Technik auch eine proximale Anastomose zu verwirklichen. 
 
@@ -90,11 +90,11 @@ Von subxiphoidal wird ein Retraktor eingebracht, der analog zum OPCAB-Instrument
 
 - Am OP-Ende vollständige Entfernung des Bronchusblockers und Rekrutieren der linken Lunge 
 
-## **5. Robotic** 
+# **5. Robotic**
 
 s. SOP532 CAI Robotic Cardiac Surgery. 
 
-## **6. Mitgeltende Dokumente** 
+# **6. Mitgeltende Dokumente**
 
 SOP503 CAI Heparin- und Protamin-Management SOP506 CAI Perioperative TEE SOP510 CAI Wärmemanagement bei kardiochirurgischen Eingriffen SOP532 CAI Robotic Cardiac Surgery SOP534 CAI Standardnarkose bei Operationen mit Einsatz der Herz-Lungen-Maschine 
 

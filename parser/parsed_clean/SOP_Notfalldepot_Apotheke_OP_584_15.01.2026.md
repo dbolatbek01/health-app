@@ -1,6 +1,6 @@
 **SOP Notfalldepot Apotheke OP AP DHZC** 
 
-## **1. Zweckbestimmung & Funktionsweise** 
+# **1. Zweckbestimmung & Funktionsweise**
 
 Das Notfalldepot Apotheke im OP-Bereich Augustenburger Platz stellt die Versorgung des OP-Bereichs AP des DHZC mit Gerinnungsprodukten sowie Cyanokit sicher. Bei Engpässen kann auf das Notfalldepot der WD1i zugegriffen werden, einzelne Produkte (bspw. NovoSeven, Faktor VIII) werden unverändert nur im Notfalldepot der W1i vorgehalten. 
 
@@ -16,9 +16,9 @@ Bei Entnahme aus dem Notfalldepot erfolgt durch Scannen des Patientenetiketts ei
 
 Eine Inventur des Notfalldepots erfolgt regelmäßig durch Apothekenmitarbeitende, bei Rückfragen stehen die verantwortlichen Mitarbeiterinnen der Apotheke zur Verfügung. 
 
-## **2. Zugang & Scanprozess** 
+# **2. Zugang & Scanprozess**
 
-## **2.1 Zugang zum Depotkühlschrank** 
+## **2.1 Zugang zum Depotkühlschrank**
 
 Die Entriegelung der Tür des Notfalldepot-Kühlschranks erfolgt für die Mitarbeitenden des AnästhesieFunktionsdienstes über einen RFID-Transponder von Kirsch, welcher sich an den BtM-Schlüsseln der 
 
@@ -30,11 +30,11 @@ Die Entriegelung der Tür des Notfalldepot-Kühlschranks erfolgt für die Mitarb
 
 befindet. Für den Arztdienst Anästhesie sowie Apothekenmitarbeitende existiert darüber hinaus eine Zugangsmöglichkeit per PIN-Eingabe. Administratorzugang haben die Ersteller der SOP. 
 
-## **2.2 Scanprozess bei Entnahme aus dem Notfalldepot** 
+## **2.2 Scanprozess bei Entnahme aus dem Notfalldepot**
 
 Der Scanprozess wird durch eine personalisierte Anmeldung an dem Zebra-Scanner gestartet und erfolgt entsprechend der in Anlage 1 beschriebenen Schritte. Besteht eine Notwendigkeit patientennah zu scannen, erfolgt dies analog 2.3 – die Scanner verbleiben durchgehend bei den Depot-Kühlschränken. 
 
-## **2.3 Alternativ: patientennahe Dokumentation in SAP** 
+## **2.3 Alternativ: patientennahe Dokumentation in SAP**
 
 In SAP kann patientenkonkret unter Medikation über die Funktionalität Depot Scan 
 
@@ -42,27 +42,27 @@ In SAP kann patientenkonkret unter Medikation über die Funktionalität Depot Sc
 
 eine Weboberfläche aufgerufen werden, welche nach Auswahl des Werks 266 auch eine Dokumentation an den OP-Ampel-PCs mit 2D-Scanner ermöglicht. 
 
-## **3. Sonderfälle** 
+# **3. Sonderfälle**
 
-## **3.1 Bestand Notfalldepot OP AP nicht ausreichend** 
+## **3.1 Bestand Notfalldepot OP AP nicht ausreichend**
 
 Über den RFID-Transponder ist auch ein Zugang zum Notfalldepot auf der WD1i möglich (Lagerraum neben Pflege-Stützpunkt WD1i). Der Verbrauch **muss** in diesem Fall über SAP (s. 2.3) unter Auswahl des Werks _**265**_ dokumentiert werden, um eine Nachbestellung in das korrekte Notfalldepot sicherzustellen. 
 
-## **3.2 Manuelle Dokumentation bei IT-Ausfall** 
+## **3.2 Manuelle Dokumentation bei IT-Ausfall**
 
 Sollte ein Scanprozess technisch nicht realisierbar sein, kann im Ausnahmefall eine Dokumentation auf dem in Anlage 2 hinterlegten Formular erfolgen. Dafür sind zwingend ein Patientenetikett sowie die DatamatrixCodes der entnommenen Produkte erforderlich. 
 
-## **3.3 Rückbuchung nicht verabreichter Produkte** 
+## **3.3 Rückbuchung nicht verabreichter Produkte**
 
 Eine Rückbuchung ist aktuell noch nicht über einen Scanprozess möglich. Bereits auf einen Fall gebuchte und dann nicht benötigte Produkte werden im Kühlschrank der PACU in dem entsprechend gekennzeichneten Fach zwischengelagert. Die Rückbuchung durch die Apotheke wird dann durch einen Depotverantwortlichen veranlasst. 
 
-## **3.4 DHZC-externe Abgabe** 
+## **3.4 DHZC-externe Abgabe**
 
 Eine Abgabe an Bereiche außerhalb des DHZC ist nicht vorgesehen, sollte diese zwingend erforderlich sein, ist folgender Entscheidungsbaum zu berücksichtigen. Bei Abgabe für einen stationären Charité-Fall ist der Prozess entsprechend 2. (analog DHZC-Patienten). 
 
 Ist bei externer Abgabe ein externes Transportunternehmen involviert, ist folgende Dokumentation erforderlich. Bei Charité-externer Abgabe erfolgt die Nachbestellung per Fax . 
 
-## **4. Arztfreigabe Nachbestellungen** 
+# **4. Arztfreigabe Nachbestellungen**
 
 Verantwortlich für die Arztfreigabe der Nachbestellungen sind werktäglich 
 
@@ -76,7 +76,7 @@ sowie samstags der OA Anästhesie zusammen mit der Apothekenfreigabe.
 
 Dies erfolgt im Anwendungsportal unter „Depot – Freigabe Nachbestellung“: 
 
-## **5. Depotverantwortliche Mitarbeitende** 
+# **5. Depotverantwortliche Mitarbeitende**
 
 Depotverantwortlich sind primär der FD und AD der PACU. Dies beinhaltet die 
 
@@ -90,27 +90,27 @@ Depotverantwortlich sind primär der FD und AD der PACU. Dies beinhaltet die
 
 ## **Anlage 1: Scanprozess** 
 
-## **1. Anmeldung bekannter Nutzer** 
+# **1. Anmeldung bekannter Nutzer**
 
-## **2. Login mit PIN** 
-
-**SOP Notfalldepot Apotheke OP AP DHZC** 
-
-## **3. Öffnen des Scan-Moduls** 
-
-## **4. Fallnummer scannen** 
+# **2. Login mit PIN**
 
 **SOP Notfalldepot Apotheke OP AP DHZC** 
 
-## **5. Datamatrix Code scannen** 
+# **3. Öffnen des Scan-Moduls**
+
+# **4. Fallnummer scannen**
+
+**SOP Notfalldepot Apotheke OP AP DHZC** 
+
+# **5. Datamatrix Code scannen**
 
 ## Datamatrix-Code: 
 
 **SOP Notfalldepot Apotheke OP AP DHZC** 
 
-## **6. Entnommene Menge dokumentieren** 
+# **6. Entnommene Menge dokumentieren**
 
-## **7. Weiteres Medikament scannen** 
+# **7. Weiteres Medikament scannen**
 
 **SOP Notfalldepot Apotheke OP AP DHZC** 
 

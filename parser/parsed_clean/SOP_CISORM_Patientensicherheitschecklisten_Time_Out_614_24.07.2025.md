@@ -4,19 +4,19 @@
 
 Vereinheitlichung der DHZC-OP-Dokumentation an den Standorten AP und MA. 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Der Einsatz von OP-Checklisten als Instrument des Risikomanagements wird in der QualitätsmanagementRichtlinie des Gemeinsamen Bundesausschusses (https://www.g-ba.de/richtlinien/87/) verpflichtend definiert und dient dem Ziel der Sicherstellung einer maximalen Patientensicherheit. 
 
 Die Umsetzung dieser SOP ist bei sämtlichen Eingriffen, die unter Beteiligung der Kardioanästhesiologie an OP- und Hybrid-OP-Arbeitsplätzen erfolgen, verbindlich vorgeschrieben. 
 
-## **2. Prozessverantwortliche Personen** 
+# **2. Prozessverantwortliche Personen**
 
 Prozessverantwortliche Personen sind die Funktionsdienstleitungen und die pflegerischen und ärztlichen Leitungen des Cardiac Intervention Suite and Operating Room Management (CISORM) und der Stationen. 
 
-## **3. Prozessbeschreibung** 
+# **3. Prozessbeschreibung**
 
-## **3.1 Vor dem Transport in den OP** 
+## **3.1 Vor dem Transport in den OP**
 
 |**Durchführung**|Pflegedienst Station|Pflegedienst Station|
 |---|---|---|
@@ -26,7 +26,7 @@ Prozessverantwortliche Personen sind die Funktionsdienstleitungen und die pflege
 |**Inhalte**|Stationen DHZC AP|s. Anhang 1|
 ||Stationen DHZC MA|s. OP-Checkliste|
 
-## **3.2 Bei Übernahme in den OP** 
+## **3.2 Bei Übernahme in den OP**
 
 |**Durchführung**|Lagerungs-FD / OP-FD: wird bei bei direkter Übernahme durch Anästhesieteam durch 3.3.
 ersetzt|Lagerungs-FD / OP-FD: wird bei bei direkter Übernahme durch Anästhesieteam durch 3.3.
@@ -37,7 +37,7 @@ ersetzt|
 |**Dokumentation**|Alle Arbeitsplätze|Formular „Check-In (Schleuse)“ s. Anhang 2|
 |**Inhalte**|Torin|s. Anhang 2|
 
-## **3.3 Vor Narkoseeinleitung** 
+## **3.3 Vor Narkoseeinleitung**
 
 |**Durchführung**|Anästhesie-Team (AD und FD Anästhesie)|Anästhesie-Team (AD und FD Anästhesie)|
 |---|---|---|
@@ -47,7 +47,7 @@ ersetzt|
 
 **Patientensicherheitschecklisten und Team-Time-Out für OP- und Hybrid-OP-Bereiche (OP-Checklisten)** 
 
-## **3.4 Vor Hautschnitt: Team-Time-Out** 
+## **3.4 Vor Hautschnitt: Team-Time-Out**
 
 |**Durchführung**|OP-Team (Operateur:in initiiert und OP-FD fragt ab und dokumentiert)|OP-Team (Operateur:in initiiert und OP-FD fragt ab und dokumentiert)|
 |---|---|---|
@@ -55,7 +55,7 @@ ersetzt|
 |**Dokumentation**|Dokumentation in Torin|Torin: Formular „Team-Time-Out“|
 |**Inhalte**|Torin|s. Anhang 4|
 
-## **3.5 Vor Verlassen des OP** 
+## **3.5 Vor Verlassen des OP**
 
 |**Durchführung**|Fakultativ: OP- und Anästhesieteam (ggf. inklusive|Fakultativ: OP- und Anästhesieteam (ggf. inklusive|||
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ ersetzt|
 |**Dokumentation**|Dokumentation in Torin|Torin: Formular „Sign-Out“|||
 |**Inhalte**|Torin|s. Anhang 5|||
 
-## **4. Mitgeltende Dokumente** 
+# **4. Mitgeltende Dokumente**
 
 SOP580 CAI: Dokumentation in der Anästhesie 
 

@@ -1,6 +1,6 @@
 ## Pflege: Bewegungs- und Mobilisationsplan
 
-## **1. Hintergrund und Ziel** 
+# **1. Hintergrund und Ziel**
 
 Die (Früh-)Mobilisation und Lagerungstherapie dient als Prävention von pulmonalen und muskulären Funktionseinschränkungen bei Patienten mit Immobilität. Die aktuelle Studienlage bestätigt, dass Frühmobilisation die Mortalität verringert und zu kürzeren Krankenhausaufenthalte führen kann[1,2] . Bereits die ersten zwei Tage einer Immobilität können zu eingeschränkter peripherer Perfusion, Muskelrigidität, Dekubitalulzera und daraus resultierend zu einem verzögerten Genesungsprozess führen. Daraus ergeben sich folgende Ziele: 
 
@@ -18,21 +18,21 @@ Die (Früh-)Mobilisation und Lagerungstherapie dient als Prävention von pulmona
 
 Die allgemeinen Maßnahmen zur Infektionshygiene sind im Leitfaden der Krankenhaushygiene festgelegt. 
 
-## **2. Prozessverantwortliche Person** 
+# **2. Prozessverantwortliche Person**
 
 Pflegefachkräfte, Pflegefachassistentinnen- und assistenten, Physiotherapeutinnen und -therapeuten 
 
-## **3. Geltungsbereich / Zielgruppe** 
+# **3. Geltungsbereich / Zielgruppe**
 
 Alle bettenführenden Bereiche des DHZC. 
 
-## **4. Begriffsdefinitionen** 
+# **4. Begriffsdefinitionen**
 
 Die „Mobilität“ wird laut WHO definiert als das Vermögen eines Lebewesens sich fortzubewegen und unterschiedliche Haltungen einzunehmen, Objekte zu tragen, zu bewegen oder zu manipulieren, zu laufen, zu rennen oder zu klettern und das Vermögen, verschiedene Transportmittel nutzen zu können. In der Pflege versteht man unter Mobilität die Fähigkeit, sich selbstständig (oder auch mit Hilfsmitteln) fortzubewegen und Lagewechsel des Körpers durchzuführen. 
 
 Unter Immobilität versteht man, dass ein Patient nicht oder nur eingeschränkt in der Lage ist, sich selbständig fortzubewegen oder einen Lagewechsel im Bett durchzuführen. 
 
-## **5. Prozessbeschreibung** 
+# **5. Prozessbeschreibung**
 
 Ein Bewegungs- und Mobilisationsplan wird durch das Team der Physiotherapie und der Pflege individuell für den Patienten entwickelt und angepasst. Er erfüllt die Anforderungen an einen individuellen Bewegungsplan gemäß Expertenstandard Dekubitusprophylaxe DNQP. Dieser bildet die Grundlage für den gesamtem Behandlungsprozess. 
 
@@ -50,7 +50,7 @@ Ein Bewegungs- und Mobilisationsplan wird durch das Team der Physiotherapie und 
 
 ## Pflege: Bewegungs- und Mobilisationsplan
 
-## **6. Dokumentation** 
+# **6. Dokumentation**
 
 Die Dokumentation erfolgt durch EDV- gestützte Dokumentationssysteme (SAP, M-Life, COPRA). M-Life Dokumentation 
 
@@ -85,6 +85,4 @@ Lagerungsmaßnahmen werden im stationären Bereich im Mobilisations- und Positio
 **CAVE** : Bei Patienten mit einer Sternotomie sollen Druck- und Zugkräfte auf das Sternum vermieden werden. 
 
 g
-**----- End of picture text -----**
-
 

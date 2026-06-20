@@ -1,6 +1,6 @@
 ## Pflege: Thromboseprophylaxe
 
-## **1. Hintergrund und Ziel** 
+# **1. Hintergrund und Ziel**
 
 Bei Patienten mit operativen Eingriffen sowie akuten oder chronischen Erkrankungen wie Herzrhythmusstörungen oder Herzinsuffizienz besteht ein erhöhtes Risiko für venöse Thrombosen. Die Risikoeinschätzung erfolgt anhand spezifischer Faktoren. Die Indikation zur venösen Thromboembolieprophylaxe sollte individuell und risikoadaptiert erfolgen (S3-Leitlinie Prophylaxe der venösen Thromboembolie (VTE), 2015). 
 
@@ -18,23 +18,23 @@ Um Thromboembolien zu vermeiden, werden spezifische, auf den Patienten abgestimm
 
 Diese SOP gilt für die Versorgung von Patienten jeden Alters in der operativen und nicht operativen Medizin, die aufgrund ihrer Erkrankung oder Intervention ein Risiko für Thrombosen aufweisen. Die für Charité und DHZC geltenden krankenhaushygienischen Standards sind im Leitfaden der Krankenhaushygiene ausgeführt. 
 
-## **2. Prozessverantwortliche Person** 
+# **2. Prozessverantwortliche Person**
 
 Pflegefachkräfte, Pflegefachassistentinnen und -assistenten, Physiotherapeutinnen und -therapeuten (in Bezug auf Bewegungsübungen) 
 
-## **3.** 
+# **3.**
 
 ## **Geltungsbereich / Zielgruppe** 
 
 Alle bettenführenden Bereiche des DHZC. 
 
-## **4. Begriffsdefinitionen** 
+# **4. Begriffsdefinitionen**
 
 Thromboseprophylaxe bezeichnet die Gesamtheit der Maßnahmen, die darauf abzielen, die Entstehung von Thrombosen zu verhindern. Eine Thrombose ist die Bildung eines Blutgerinnsels (Thrombus) in einem Blutgefäß, das zu einer Behinderung des Blutflusses führen kann. 
 
-## **5. Prozessbeschreibung** 
+# **5. Prozessbeschreibung**
 
-## **5.1 Prophylaxestrategien** 
+## **5.1 Prophylaxestrategien**
 
 Die Prophylaxe umfasst verschiedene Strategien, die individuell an die Risikofaktoren des Patienten angepasst werden, und lässt sich in drei Hauptkategorien unterteilen: 
 
@@ -46,7 +46,7 @@ Die Prophylaxe umfasst verschiedene Strategien, die individuell an die Risikofak
 
 **Pflege: Thromboseprophylaxe** 
 
-## **5.2 Wahl und Risikoeinschätzung** 
+## **5.2 Wahl und Risikoeinschätzung**
 
 Die Wahl der spezifischen Prophylaxemaßnahmen erfolgt auf Grundlage einer umfassenden Risikoeinschätzung, die Faktoren wie Vorerkrankungen, Immobilität, größere operative Eingriffe, Medikamenteneinnahme, Schwangerschaft und Nikotinabusus berücksichtigt. Ziel der Thromboseprophylaxe ist es, Thromboembolien und deren potenziell lebensbedrohliche Folgen zu vermeiden. 
 
@@ -58,7 +58,7 @@ Beinschwellung, Schmerzen, Spannungsgefühl, verstärkte oberflächliche Venenze
 
 Bei immobilisierten Patienten und/oder solchen mit schweren Systemerkrankungen wie Tumorerkrankungen kann eine Thrombose auch symptomarm oder asymptomatisch verlaufen. In diesen Fällen beträgt die Sensitivität der genannten Zeichen nur 0-20% (Quelle: AWMF-S2k-Leitlinie: Diagnostik und Therapie der Venenthrombose und Lungenembolie). 
 
-## **5.3 Thromboseprophylaxe** 
+## **5.3 Thromboseprophylaxe**
 
 Bei Patienten mit niedrigem Thromboserisiko gelten die allgemeinen Basismaßnahmen. Bei Patienten mit mittlerem bis hohem Thromboserisiko wird eine medikamentöse Prophylaxe durchgeführt, die mit den Basismaßnahmen kombiniert wird. Ziel der Basismaßnahmen ist es, die Blutströmungsgeschwindigkeit in den Venen zu erhöhen und der Thrombosebildung vorzubeugen. 
 
@@ -83,8 +83,6 @@ Patienten, ausgeprägte Herzrhythmusstörungen, frühere TVT|
 |Achten auf Umfang, Temperaturunterschiede, Farbe und Schmerzen||
 
 g
-**----- End of picture text -----**
-
 
 **Pflege: Thromboseprophylaxe** 
 
@@ -110,7 +108,7 @@ Thrombininhibitoren
 Vitamin-K-Antagonisten
 Orale Antikoagulanzien|
 
-## **5.4 Antithrombosestrümpfe und Kompressionsverbände** 
+## **5.4 Antithrombosestrümpfe und Kompressionsverbände**
 
 **Cave:** Bei Patienten mit bekannter arterieller Verschlusskrankheit, Sensibilitätsstörungen und Drucknekrosen sind AT-Strümpfe sowie das Wickeln der Beine kontraindiziert. 
 
@@ -134,7 +132,7 @@ anlegen|
 Arbeitsfläche reinigen (Wischdesinfektion)
 Hygienische Händedesinfektion|
 
-## **6. Dokumentation** 
+# **6. Dokumentation**
 
 Die durchgeführten Maßnahmen werden in den Patientendokumentationssystemen SAP, M-Life und/oder COPRA) dokumentiert. 
 

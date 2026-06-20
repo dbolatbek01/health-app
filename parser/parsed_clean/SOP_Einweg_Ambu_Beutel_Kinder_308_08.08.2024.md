@@ -7,17 +7,17 @@ Einweg-Beatmungsbeutel:  Hygienegerechte Anwendung bei Kindern (Ambu-Beutel Kind
 
 Klinik für Angeborene Herzfehler – Kinderkardiologie 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Hygienegerechtes Vorgehen bei der Anwendung von Ambu-Beuteln bei Neugeborenen, Säuglingen und Kindern. Es gelten die aktuellen krankenhaushygienischen Standards der Versorgung, die das Institut für Hygiene und Umweltmedizin der Charité im Leitfaden der Krankenhaushygiene festlegt. 
 
-## **2. Definition** 
+# **2. Definition**
 
 Ein Beatmungsbeutel ist ein Hilfsmittel zur manuellen Beatmung von Patienten mit Atemstillstand oder insuffizienter Atmung. Er besteht aus einem Hohlkörper, der zur Beatmung zusammengedrückt werden muss, und einem Ventil mit genormtem Ansatzstück für die Beatmungsmaske oder einen Tubus. Seine Anwendung vermindert das Infektionsrisiko. 
 
 Entwickelt wurde der Beatmungsbeutel 1956 vom Unternehmen Ambu A/S in Zusammenarbeit mit dem dänischen Anästhesisten Henning Ruben. Er wird daher allgemein als Ambu-Beutel oder Ruben-Beutel bezeichnet. 
 
-## **3. Material** 
+# **3. Material**
 
 - ˗ Altersgerechter Beatmungsbeutel, 
 
@@ -31,7 +31,7 @@ Entwickelt wurde der Beatmungsbeutel 1956 vom Unternehmen Ambu A/S in Zusammenar
 
 Modell Ambu® SPUR® II Kinder 330 023 000 DE mit allen zusammengesetzten Materialien 
 
-## **4.** 
+# **4.**
 
 ## **Anwendung** 
 

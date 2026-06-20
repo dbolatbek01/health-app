@@ -7,26 +7,7 @@ Röntgen-Thoraxaufnahme bei Kleinkindern und Jugendlichen stehend (Kinder-Thorax
 
 Diese SOP gilt für den Röntgen-Thorax-Arbeitsplatz 
 
-## **Inhaltsverzeichnis** 
-
-|Änderungen zu Version 1.0 .......................................................................................................................... 3|Änderungen zu Version 1.0 .......................................................................................................................... 3|
 |---|---|
-|Mitgeltende Unterlagen ................................................................................................................................ 4||
-|1.|Ziel und Zweck ................................................................................................................................. 4|
-|2.|Mitgeltende Gesetze, Verordnungen, Leitlinien, Empfehlungen ..................................................... 4|
-|3.|Indikation, Kontraindikation ............................................................................................................. 4|
-|4.|Patientenadministration, Patientenvorbereitung .............................................................................. 4|
-|5.|Untersuchungsablauf (schematisch) ............................................................................................... 5|
-|6.|Einstelltechnik .................................................................................................................................. 6|
-|7.|Lagerung .......................................................................................................................................... 6|
-|7.1|Aufnahme posterior-anterior (p.a.) .................................................................................................. 6|
-|7.2|Aufnahme anterior-posterior (a.p.) .................................................................................................. 6|
-|7.3|Aufnahme lateral (nur auf Anforderung) .......................................................................................... 7|
-|8.|Aufnahmetechnik ............................................................................................................................. 7|
-|9.|Strahlenschutz ................................................................................................................................. 7|
-|10.|Bildverarbeitung, Bildbearbeitung .................................................................................................... 8|
-|11.|Dokumentation, Befundung, Leistungserfassung ............................................................................ 9|
-|12.|Inkrafttreten ...................................................................................................................................... 9|
 
 ## **Änderungen zu Version 1.0** 
 
@@ -38,11 +19,11 @@ _Die digitale Röntgenanforderung wird mit ausgefüllter ROE-Nummer abgeschlosse
 
 SOP145 Anforderung und Befundung von Röntgenaufnahmen SOP058 Hygienehandbuch Liste aller Ärzte mit Fachkunde im Strahlenschutz 
 
-## **1. Ziel und Zweck** 
+# **1. Ziel und Zweck**
 
 Durchführung einer kontrastreichen Thorax-Übersichtsaufnahme im Stehen bei Kleinkindern und Jugendlichen. 
 
-## **2. Mitgeltende Gesetze, Verordnungen, Leitlinien, Empfehlungen** 
+# **2. Mitgeltende Gesetze, Verordnungen, Leitlinien, Empfehlungen**
 
 1. Gesetz zum Schutz vor der schädlichen Wirkung ionisierender Strahlung (Strahlenschutzgesetz – StrlSchG) 
 
@@ -52,7 +33,7 @@ Durchführung einer kontrastreichen Thorax-Übersichtsaufnahme im Stehen bei Kle
 
 5. Bildgebende Diagnostik beim Kind – Strahlenschutz, Rechtfertigung und Effektivität. Empfehlung der Strahlenschutzkommission (SSK) 
 
-## **3. Indikation, Kontraindikation** 
+# **3. Indikation, Kontraindikation**
 
 ## **Indikation** 
 
@@ -66,7 +47,7 @@ Weitere Indikationen siehe Leitlinien für die Überweisung zur Durchführung vo
 
 Voraufnahmen unmittelbar vorher, DA-Untersuchung, Schwangerschaft (strenge Indikationsstellung mit Begründung) 
 
-## **4. Patientenadministration, Patientenvorbereitung** 
+# **4. Patientenadministration, Patientenvorbereitung**
 
 ## **Patientenadministration** 
 
@@ -90,9 +71,9 @@ Kind und Eltern sind über den Untersuchungsablauf zu informieren.
 
 - Schwangerschaftsausschluss sofern erforderlich 
 
-## **5. Untersuchungsablauf (schematisch)** 
+# **5. Untersuchungsablauf (schematisch)**
 
-## **6. Einstelltechnik** 
+# **6. Einstelltechnik**
 
 Die automatische Nachlaufsteuerung ist aktiviert. Patientenidentifikation beim Betreten des Raumes. 
 
@@ -100,11 +81,11 @@ Die Aufnahme der Thoraxorgane bei Kindern und Jugendlichen unterliegt einer sehr
 
 Die seitliche Aufnahme ist nur bei besonderer Fragestellung und nach Auswertung der a.-p./p.-a.Aufnahme indiziert. 
 
-## **7. Lagerung** 
+# **7. Lagerung**
 
 Angestrebt wird eine p.-a.-Aufnahme. Da Kleinkinder jedoch ruhiger bzw. leichter abzulenken sind, wenn sie in den Raum schauen (und nicht gegen das Stativ) und die Atmung besser beobachtet werden kann, ist es oft sinnvoller, bei kleineren Kindern die Thoraxaufnahmen a.-p. anzufertigen. 
 
-## **7.1 Aufnahme posterior-anterior (p.a.)** 
+## **7.1 Aufnahme posterior-anterior (p.a.)**
 
 Das Kind steht mit der Brust symmetrisch an der Rasterlade. 
 
@@ -112,13 +93,13 @@ Hände mit dem Handrücken in die Hüfte stemmen lassen und Schultern nach vorne
 
 Zentralstrahl: Mitte der Wirbelsäule Obere Begrenzung: Winkel zwischen Hals und Schulter (ca. 7. HWK) Einblendung: seitlich bis zu den Hautgrenzen Auf exakte Einblendung achten. Oberbauchorgane, Schilddrüse und Armknochen mit blutbildendem Knochenmark ausblenden Seitenbezeichnung: L/R Atemkommando: Aufnahme in Inspiration und Atemstillstand. Sollte ein Atemkommando nicht befolgt werden können, muss durch Beobachten der Atmung die Aufnahme in Inspiration ausgelöst werden. 
 
-## **7.2 Aufnahme anterior-posterior (a.p.)** 
+## **7.2 Aufnahme anterior-posterior (a.p.)**
 
 Das Kind steht mit dem Rücken symmetrisch an der Detektorlade. Die Arme sind neben dem Körper. 
 
 Zentralstrahl: senkrecht auf Sternum-Mitte auf Höhe der Brustwarzen (a.-p.) Obere Begrenzung: Winkel zwischen Hals und Schulter (ca. 7. HWK) Einblendung: seitlich bis zu den Hautgrenzen Auf exakte Einblendung achten. Oberbauchorgane, Schilddrüse und Armknochen mit blutbildendem Knochenmark ausblenden Seitenbezeichnung L/R Atemkommando: Aufnahme in Inspiration und Atemstillstand. Sollte ein Atemkommando nicht befolgt werden können, muss durch Beobachten der Atmung die Aufnahme in Inspiration ausgelöst werden 
 
-## **7.3 Aufnahme lateral (nur auf Anforderung)** 
+## **7.3 Aufnahme lateral (nur auf Anforderung)**
 
 Kind steht rein seitlich mit der linken Körperseite an der Detektorlade. Die Arme werden über dem Kopf verschränkt oder greifen den Haltegriff am Wandstativ. 
 
@@ -126,7 +107,7 @@ Zentralstrahl: senkrecht auf die hintere Axillarlinie, in Höhe der Brustwarzen 
 
 Bei Abweichung vom Standard: Kennzeichnung (z. B. Exspiration) Alle Aufnahmen werden im Stehen durchgeführt. 
 
-## **8. Aufnahmetechnik** 
+# **8. Aufnahmetechnik**
 
 Der Abstand zum Rasterwandgerät beträgt immer 200 cm, es wird mit wechselndem Fokus gearbeitet. Auf den Einsatz von Streustrahlenrastern soll bei kleinen Kindern verzichtet werden. Erst ab einem Objektdurchmesser von > 15 cm und damit einem Alter von 8–12 Jahren sind Streustrahlenraster erforderlich. 
 
@@ -158,13 +139,13 @@ Der Abstand zum Rasterwandgerät beträgt immer 200 cm, es wird mit wechselndem 
 5|Auto||0,1 - 0,2|250|
 |40|
 
-## **9. Strahlenschutz** 
+# **9. Strahlenschutz**
 
 - Bleigummiabdeckung der an die Einblendung des Nutzstrahlenfeldes anschließenden Körperabschnitte 
 
-## **10. Bildverarbeitung, Bildbearbeitung** 
+# **10. Bildverarbeitung, Bildbearbeitung**
 
-## **11. Dokumentation, Befundung, Leistungserfassung** 
+# **11. Dokumentation, Befundung, Leistungserfassung**
 
 Die Dokumentation und die Befundung erfolgen im RIS (CardIS). 
 
@@ -202,7 +183,7 @@ Die Archivierung erfolgt über das hausinterne PACS (ISCV).
 
 Die elektronische Röntgenanforderung wird mit ausgefüllter ROE-Nummer abgeschlossen und ist in der digitalen Krankenakte des Patienten gespeichert. (Aufbewahrungspflicht). 
 
-## **12. Inkrafttreten** 
+# **12. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

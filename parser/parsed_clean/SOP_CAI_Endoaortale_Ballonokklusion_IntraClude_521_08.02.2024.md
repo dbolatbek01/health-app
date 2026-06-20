@@ -7,25 +7,15 @@ CAI Endoaortale Ballonokklusion mit IntraClude (intra-aortic occlusion device) (
 
 Klinik für Kardioanästhesiologie und Intensivmedizin, CISORM 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Indikation ......................................................................................................................................... 3|
 |---|---|
-|2.|Zusätzliche/abweichende Vorbereitungen....................................................................................... 3|
-|2.1|Invasive Druckmessung................................................................................................................... 3|
-|2.2|Bilaterales NIRS-Monitoring (Masimo) ............................................................................................ 3|
-|2.3|TEE AV LAX/Ao. asc. LAX .............................................................................................................. 3|
-|3.|Intraoperativer Ablauf des Endoclampings ...................................................................................... 3|
-|4.|kontinuierliches Monitoring in der Klemmphase .............................................................................. 4|
-|5.|Schulungsmaterial/TEE-Loops ........................................................................................................ 4|
 
-## **1. Indikation** 
+# **1. Indikation**
 
 MIC-Eingriffe an AV-Klappen, atriale Tumoren und Septumdefekte via laterale Minithorakotomie (MIC MKR/E; MIC TKR/E, Myxomexstirpation etc.); s. a. entsprechende Spezifikationen im OP-Plan 
 
-## **2. Zusätzliche/abweichende Vorbereitungen** 
+# **2. Zusätzliche/abweichende Vorbereitungen**
 
-## **2.1 Invasive Druckmessung** 
+## **2.1 Invasive Druckmessung**
 
 Statham mit 4 simultanen Druckaufnehmern unter Verwendung folgender Kurvenbezeichnung am Philips Monitoring: 
 
@@ -41,17 +31,17 @@ Dieses Setting gewährleistet die vergleichende Darstellung eines sicher distal 
 
 _**Cave**_ : bei Patienten mit der anatomischen Besonderheit einer A. lusoria (Urspung der A. subclavia re. aus der Aorta descendens) ist diese Vergleichbarkeit nicht gegeben! 
 
-## **2.2 Bilaterales NIRS-Monitoring (Masimo)** 
+## **2.2 Bilaterales NIRS-Monitoring (Masimo)**
 
 Erforderlich, um unilaterale Minderperfusionen ebenfalls als Hinweis auf eine potentielle Ballonmigration (NIRS re. < li.) frühzeitig zu detektieren. 
 
-## **2.3 TEE AV LAX/Ao. asc. LAX** 
+## **2.3 TEE AV LAX/Ao. asc. LAX**
 
 - Ausschluss höhergradiger Aortenklappeninsuffizienz (bei AI > I° zusätzlich retrograde Kardioplegiekanüle über Sinus coronarius erforderlich) 
 
 - Bestimmung des Diameters der Ao. asc, (InctraClude formal bei Ø 20–42 mm einsetzbar, oft bei > 40 mm bereits instabil) 
 
-## **3. Intraoperativer Ablauf des Endoclampings** 
+# **3. Intraoperativer Ablauf des Endoclampings**
 
 Zum Endoclamping und zur Kardioplegieapplikation besteht Saalanwesenheitspflicht für den Anästhesiefunktionsdienst. 
 
@@ -75,7 +65,7 @@ _**Cave**_ : Dämpfung/Ausfall des **ABP** in Relation zum **FAP** zeigt eine po
 
 8. Nach Applikation der Kardioplegie fällt der Wurzeldruck erneut, durch Betätigung des Ventrikelund Wurzelvents sollte es zum Unterdruck ( **PAP** = **?** ) kommen. Wenn dies nicht der Fall ist, ist eine Undichtigkeit des Ballons durch Migration in die Aortenwurzel oder Unterfüllung als Ursache möglich  Anziehen des Ballons, ggf. „top-up“ der Ballonfüllmenge durch Operateur und Monitoring der Ballonposition in ME AV LAX / Ao. asc. LAX 
 
-## **4. kontinuierliches Monitoring in der Klemmphase** 
+# **4. kontinuierliches Monitoring in der Klemmphase**
 
 ||**distale Migration**
 - Druck A. radialis re. (**ABP**)**<**A. femoralis (**FAP**)
@@ -108,7 +98,7 @@ MAD
 senken
 (Rücksprache weitere Maßnahmen mit Operateur)|
 
-## **5. Schulungsmaterial/TEE-Loops** 
+# **5. Schulungsmaterial/TEE-Loops**
 
 Zu finden unter X:\Dokumente Anästhesie\ThruPort Team Training December 2014 in der Combox. 
 

@@ -9,36 +9,7 @@ Intensivpflegestationen und Station H3
 
 **Änderungshistorie Version gültig ab Verfasser Freigabe Änderungsgrund Wiedervorlage** 
 
-## **Inhaltsverzeichnis** 
-
-|Mitgeltende Unterlagen ................................................................................................................................ 3|Mitgeltende Unterlagen ................................................................................................................................ 3|
 |---|---|
-|1.|Zielsetzung ...................................................................................................................................... 3|
-|2.|Definition .......................................................................................................................................... 3|
-|3.|Risikofaktoren und Risikostratifizierung ........................................................................................... 4|
-|3.1|Risikofaktoren in der Kardiochirurgie ............................................................................................... 4|
-|3.2|Risikostratifizierung ............................................................................................................................ 5|
-|4.|Prävention, Diagnostik und therapeutische Strategien ................................................................... 6|
-|4.1|Prävention und Früherkennung .......................................................................................................... 6|
-|4.1.1|Nephrotoxische Medikamente ............................................................................................................ 6|
-|4.1.2|Volumenstatus und hämodynamisches Monitoring ............................................................................ 6|
-|4.2|Diagnostik und konservativ therapeutische Optionen – der oligurische Patient ................................ 7|
-|4.3|Stellenwert von Diuretika .................................................................................................................... 8|
-|5.|Nierenersatzverfahren ..................................................................................................................... 8|
-|5.1|Indikationen für Nierenersatzverfahren .............................................................................................. 8|
-|5.2|Beginn der Nierenersatztherapie ........................................................................................................ 8|
-|5.3|Modalitäten .......................................................................................................................................... 9|
-|5.3.1|Kontinuierliche Nierenersatzverfahren (CRRT) ................................................................................... 9|
-|5.3.2|Intermittierende Hämodialyse (IHD) .................................................................................................... 9|
-|5.3.3|Wechsel von CRRT auf IHD ................................................................................................................ 9|
-|5.4|Dosis ................................................................................................................................................... 9|
-|5.5|Blutfluss ............................................................................................................................................ 10|
-|5.6|Ultrafiltration und Entzug ................................................................................................................... 10|
-|5.7|Antikoagulation ................................................................................................................................. 10|
-|5.9|Beendigung der Nierenersatztherapie.............................................................................................. 10|
-|5.10|Ernährung während Nierenersatztherapie ....................................................................................... 10|
-|6.|Quellen........................................................................................................................................... 11|
-|7.|Inkrafttreten .................................................................................................................................... 11|
 
 Aus Gründen der besseren Lesbarkeit wird die männliche Schreibform verwendet. Es werden jedoch alle Geschlechter gleichermaßen angesprochen. 
 
@@ -46,7 +17,7 @@ Aus Gründen der besseren Lesbarkeit wird die männliche Schreibform verwendet. 
 
 SOP025 Ernährungstherapie kritisch kranker Patienten SOP356 Nierenersatztherapie am Deutschen Herzzentrum Berlin SOP445 Hämodynamisches Management in der Intensivmedizin 
 
-## **1. Zielsetzung** 
+# **1. Zielsetzung**
 
 Diese SOP adressiert Risikofaktoren und Assessment der akuten Nierenschädigung (Acute Kidney Injury, AKI) sowie die Modalitäten und Verfahren der Nierenersatztherapie im intensivmedizinischen Umfeld des DHZB. Die AKI ist ein Krankheitsbild mit maßgeblich negativem Einfluss auf die perioperative Morbidität und Mortalität, sodass einem adäquaten Management eine wesentliche Bedeutung zukommt. 
 
@@ -70,7 +41,7 @@ Prinzipiell geeignete Nierenersatzverfahren in o.g. Situationen sind:
 
 - Intermittierende Hämodialyse (IHD) 
 
-## **2. Definition** 
+# **2. Definition**
 
 Die AKI wird in drei Stadien eingeteilt (Tab. 1). 
 
@@ -89,9 +60,9 @@ _oder_
 ≥ 0,5 mg/dL|< 0,3 ml/kgKG/h über mehr als 24 h
 oder Anurie > 1 2h|
 
-## **3. Risikofaktoren und Risikostratifizierung** 
+# **3. Risikofaktoren und Risikostratifizierung**
 
-## **3.1     Risikofaktoren in der Kardiochirurgie** 
+## **3.1     Risikofaktoren in der Kardiochirurgie**
 
 Die AKI weist in der Kardiochirurgie eine vergleichsweise höhere Inzidenz als in anderen operativen Fächern auf. Bis zu 39 % der Patienten entwickeln postoperativ eine AKI [2]. Neben allgemeinen Risikofaktoren für die Entwicklung einer AKI gibt es weitere, spezifische für den kardiochirurgischen Bereich (Tab. 2). 
 
@@ -115,7 +86,7 @@ spezifische Risikofaktoren|Präoperative IABP
 Operationen mit kardiopulmonalem Bypass
 Bypass-Zeit|
 
-## **3.2     Risikostratifizierung** 
+## **3.2     Risikostratifizierung**
 
 Unter Zuhilfenahme des Scores nach Jiang et al [3] (Tab. 3) kann eine Vorhersage über die Entwicklung einer Nierenersatzverfahren-bedürftigen AKI bei kardiochirurgischen Patienten abgeschätzt werden. Hierbei kann eine Evaluation bzw. Reevaluation präoperativ, bei Aufnahme auf die Intensivstation sowie 24 Stunden nach Aufnahme auf die Intensivstation erfolgen. 
 
@@ -152,13 +123,13 @@ chirurgischer Eingriff|1|
 |2-3 Pkt.: Mittleres Risiko||5-9 Pkt.: Mittleres Risiko||5-9 Pkt.: Mittleres Risiko||
 |≥4 Pkt.: Hohes Risiko||≥10 Pkt.: Hohes Risiko||≥10 Pkt.: Hohes Risiko||
 
-## **4. Prävention, Diagnostik und therapeutische Strategien** 
+# **4. Prävention, Diagnostik und therapeutische Strategien**
 
-## **4.1     Prävention und Früherkennung** 
+## **4.1     Prävention und Früherkennung**
 
 Die nach aktueller Definition zur Diagnose einer AKI herangezogenen Parameter sind die wenig spezifische quantitative Urinausscheidung sowie das Serumkreatinin. Letzteres zeigt eine deutliche zeitliche Latenz zwischen AKI und Anstieg des Serumspiegels. Neuere Biomarker mit der Möglichkeit einer zeitnahen Diagnosestellung sind bislang klinisch nicht flächendeckend etabliert, sodass der Prävention und Vermeidung einer weiteren Verschlechterung eine besondere Bedeutung zukommen. Da bislang keine präventiven oder therapeutischen Ansätze in großen klinischen Studien die Inzidenz eines Herzchirurgie-assoziierten Nierenversagens reduzieren konnten empfiehlt die KDIGO insbesondere bei identifizierten Hochrisikopatienten die Anwendung eines Bundles (Abb.1) basierend auf dem aktuellen pathophysiologischen Verständnisses des CS-AKI. Eine kleine monozentrische Studie liefert einen Hinweis dafür, dass hierdurch die Inzidenz einer AKI bei herzchirurgischen Patienten verringert werden kann [4]. Des Weiteren wird die frühestmögliche Einleitung der BundleMaßnahmen zum Verhindern von irreversiblen renalen Schädigungen empfohlen und ein adäquater MAD > 65 mmHg und eine ausreichende Kalorienzufuhr von 20-30 kcal/kgKG/d sollten avisiert werden. 
 
-## **4.1.1  Nephrotoxische Medikamente** 
+### **4.1.1  Nephrotoxische Medikamente**
 
 Vermeiden bzw. Absetzen nephrotoxischer Substanzen, sofern in Nutzen-Risiko-Abwägung die Primärindikation der Medikation das zulässt: 
 
@@ -173,11 +144,11 @@ Vermeiden bzw. Absetzen nephrotoxischer Substanzen, sofern in Nutzen-Risiko-Abw�
 
 Siehe SOP 445 Hämodynamisches Management in der Intensivmedizin 
 
-## **4.1.2  Volumenstatus und hämodynamisches Monitoring** 
+### **4.1.2  Volumenstatus und hämodynamisches Monitoring**
 
 _Abbildung 1. KDIGO-Bundles zur Prävention, sowie diagnostisches und therapeutisches Assessment der AKI. Adaptiert nach [1]._ 
 
-## **4.2     Diagnostik und konservativ therapeutische Optionen – der oligurische Patient** 
+## **4.2     Diagnostik und konservativ therapeutische Optionen – der oligurische Patient**
 
 _Lack of urine output in the acutely hypovolemic patient is renal success, not renal failure. Ronald V. r, MD_ 
 
@@ -185,7 +156,7 @@ _Lack of urine output in the acutely hypovolemic patient is renal success, not r
 
 _Abb.2: Diagnostisches und therapeutisches Schema für postoperative Oligurie. DK – Dauerkatheter, CI – Cardiac Index, MAD – mittlerer arterieller Druck, CK – Creatinkinase, RRT – renal replacement therapy. *Im Rahmen eines intrarenalen Nierenversagens kommen vielfältige weitere, bezogen auf den postoperativen kardiochirurgischen Patienten aber nachrangige Differentialdiagnosen in Betracht._ 
 
-## **4.3     Stellenwert von Diuretika** 
+## **4.3     Stellenwert von Diuretika**
 
 - Diuretika sollen nicht eingesetzt werden, um eine AKI zu verhindern oder zu behandeln 
 
@@ -197,9 +168,9 @@ _Abb.2: Diagnostisches und therapeutisches Schema für postoperative Oligurie. D
 
    - Drohende AKI durch Rhabdomyolyse/Creatinkinase („Crush-Niere“). Hier gibt es Hinweise, dass ein hoher renaler Flüssigkeitsdurchsatz („Niere spülen“) vorteilhaft sein kann. Primär wird der Fokus auf eine ausreichende Hydratisierung des Patienten mittels balancierten, isotonen Kristalloiden gelegt, ggf. ergänzt um Schleifendiuretika zur Bilanzierung. Hat der Patient unter der Hydratisierung spontan eine ausreichende Diurese bringt die zusätzliche Gabe von Diuretika keinen Benefit. 
 
-## **5. Nierenersatzverfahren** 
+# **5. Nierenersatzverfahren**
 
-## **5.1     Indikationen für Nierenersatzverfahren** 
+## **5.1     Indikationen für Nierenersatzverfahren**
 
 - Absolute Indikationen 
 
@@ -225,7 +196,7 @@ _Abb.2: Diagnostisches und therapeutisches Schema für postoperative Oligurie. D
 
    - Respiratorische Insuffizienz, radiologisch pulmonales Ödem 
 
-## **5.2     Beginn der Nierenersatztherapie** 
+## **5.2     Beginn der Nierenersatztherapie**
 
 Der optimale Zeitpunkt für den Beginn einer RRT ist nach wie vor Gegenstand kontroverser Diskussion. 
 
@@ -237,11 +208,11 @@ Mehrere Studien adressierten kürzlich die Fragestellung einer zeitnahen verglic
 
 **Der konkrete Beginn sowie die patientenbezogene Adaptation einer RRT erfolgt in Rücksprache mit dem diensthabenden OA/FA m. Zusatzbezeichnung Intensivmedizin.** 
 
-## **5.3    Modalitäten** 
+## **5.3    Modalitäten**
 
 Wenngleich Langzeitdaten noch ausstehen scheint für kritisch kranke Patienten mit einer AKI zumindest eine initiale Nierenersatztherapie mit einem CRRT bezogen auf die renale Erholung und das Risiko einer dauerhaften Dialyseabhängigkeit von Vorteil zu sein [8,9]. Des Weiteren profitieren kreislaufinstabile bzw. katecholaminpflichtige Patienten aus hämodynamischer Perspektive von einem kontinuierlichen Verfahren, sodass bei diesen Patienten primär eine CRRT indiziert wird. 
 
-## **5.3.1 Kontinuierliche Nierenersatzverfahren (CRRT)** 
+### **5.3.1 Kontinuierliche Nierenersatzverfahren (CRRT)**
 
 - Kontinuierliche veno-venöse Hämodialyse (CVVHD) 
 
@@ -261,7 +232,7 @@ Wenngleich Langzeitdaten noch ausstehen scheint für kritisch kranke Patienten m
 
 Vergleichende Studien haben keinen Outcome-Vorteil für ein spezielles Verfahren aufzeigen können. Da im Rahmen kardiochirurgischer Krankheitsbilder jedoch gehäuft auch erhöhte CreatinkinaseSpiegel im Serum und konsekutive Myoglobinämien (insbesondere Aortendissektionen,aAkute Koronarsyndrome etc.) auftreten, scheint eine primäre Kombination im Sinne einer **CVVHDF** pathophysiologisch sinnvoll und wird daher als primäres Verfahren angewendet. 
 
-## **5.3.2 Intermittierende Hämodialyse (IHD)** 
+### **5.3.2 Intermittierende Hämodialyse (IHD)**
 
 - Primär für kreislaufstabile Patienten geeignet 
 
@@ -271,11 +242,11 @@ Vergleichende Studien haben keinen Outcome-Vorteil für ein spezielles Verfahren
 
 - Elimination vorwiegend effektiv für kleinmolekulare Substanzen (Elektrolyte, Harnstoff etc.) 
 
-## **5.3.3 Wechsel von CRRT auf IHD** 
+### **5.3.3 Wechsel von CRRT auf IHD**
 
 Nach hämodynamischer Stabilisierung ist ein Wechsel auf ein diskontinuierliches Verfahren aus unter 5.3.2 genannten Gesichtspunkten sinnvoll. Auch sind pharmakokinetische Interaktionen wie die veränderte Clearance von Medikamenten an IHD geringer und besser untersucht. 
 
-## **5.4     Dosis** 
+## **5.4     Dosis**
 
 Das CRRT soll die endogene Eliminationsfunktion der Niere ersetzen. Ein Surrogatparameter der Clearance stellt in diesem Zusammenhang die Ablaufdosis dar, welche sich aus Dialysat, Substituat und Entzug zusammensetzt. Die von der KGIDO empfohlene Ablaufdosis beträgt 20-25 ml/kgKG/h. Um Unterbrechungen der CRRT zu berücksichtigen sollte eine **Ablaufdosis von 30-35 ml/kgKG/h** am Gerät eingestellt werden. 
 
@@ -285,19 +256,19 @@ Bei ausgeprägter Hyperkaliämie oder metabolischer Azidose mit vitaler Bedrohun
 
 Bezüglich des Verhältnisses aus prä-/postfilter-Substituat und -Dialysat gibt es keine belastbaren Daten, was einen vorteilhaften Effekt anginge. Insofern kann hier eine pathophysiologisch sinnvolle Anpassung des Verhältnisses bezogen auf die differenzierte Eliminationsindikation erfolgen. 
 
-## **5.5     Blutfluss** 
+## **5.5     Blutfluss**
 
 - Der initiale Blutfluss beträgt 130 ml/min. 
 
 - Soll auf eine systemische Antikoagulation verzichtet werden, kann eine Erhöhung der Blutflussrate (je nach Möglichkeit) die Filterlaufzeit verlängern (Achtung: Inflow-Pressure!,Thrombopenie-Risiko). 
 
-## **5.6    Ultrafiltration und Entzug** 
+## **5.6    Ultrafiltration und Entzug**
 
 - Einstellung des Entzugs/UFs nach Bilanzziel. Dabei müssen Eigendiurese und Medikamentengaben/Ernährung in die Berechnung mit einbezogen werden. 
 
 - **CAVE** : eine Filtrationsfraktion (FF) von > 20 % erhöht den transmembranösen Druck im Filter und reduziert damit möglicherweise die Filterlaufzeit. D.h. bei hohem Entzug sollten u. U. der Blutfluss und/oder die Prädilution gesteigert werden. 
 
-## **5.7     Antikoagulation** 
+## **5.7     Antikoagulation**
 
 - Die Antikoagulation erfolgt systemisch mittels Heparin (bzw. ersatzweise mit Argatroban bei Vorliegen einer Heparin-induzierten Thrombozytopenie). 
 
@@ -313,7 +284,7 @@ Bezüglich des Verhältnisses aus prä-/postfilter-Substituat und -Dialysat gibt
 
 - Soll auf eine systemische Antikoagulation verzichtet werden, kann eine Erhöhung der Blutflussrate (je nach Möglichkeit) die Filterlaufzeit verlängern (Achtung: Inflow-Pressure!,Thrombopenie-Risiko). 
 
-## **5.8     Zugang** 
+## **5.8     Zugang**
 
 RRTs im Rahmen einer AKI werden standardmäßig über passagere Dialysekatheter (ShaldonKatheter) durchgeführt. 
 
@@ -327,15 +298,15 @@ Anlage-Orte für Shaldon-Katheter (in dieser Reihenfolge):
 
 Die Vv. subclaviae sind zu vermeiden und werden nicht routinemäßig für diese Indikation punktiert. Grund hierfür ist unter anderem die deutlich erhöhte Stenoserate im weiteren Verlauf, was insbesondere bei einer notwendigen Shunt-Versorgung massive Probleme darstellen kann. 
 
-## **5.9     Beendigung der Nierenersatztherapie** 
+## **5.9     Beendigung der Nierenersatztherapie**
 
 Es existieren kaum belastbare Daten zur Beendigung einer RRT. Ein Auslassversuch scheint gerechtfertigt bei einer Eigendiurese von > 400ml/d ohne Diuretika und ausgeglichener Metabolik. 
 
-## **5.10   Ernährung während Nierenersatztherapie** 
+## **5.10   Ernährung während Nierenersatztherapie**
 
 Besonderheiten bzgl. der Ernährung von kritisch kranken Patienten mit RRT sind in der SOP 025 Ernährungstherapie kritisch kranker Intensivpatienten hinterlegt. 
 
-## **6. Quellen** 
+# **6. Quellen**
 
 - 1 Khwaja A et al. KDIGO clinical practice guidelines for acute kidney injury. Nephron Clin Pract 2012;120:c179–c84. 
 
@@ -365,7 +336,7 @@ https://pubmed.ncbi.nlm.nih.gov/27209269/
 
 - 9 Liang KV et al. Modality of RRT and recovery of kidney function after AKI in patients surviving to hospital discharge. Clin J Am Soc Nephrol 2016;11:30–8. https://doi.org/10.2215/CJN.01290215 
 
-## **7. Inkrafttreten** 
+# **7. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

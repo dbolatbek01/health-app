@@ -1,7 +1,7 @@
 
 **CISORM: OP-Tische** 
 
-## **1. Geräteeinweisung und Sicherheitscheck** 
+# **1. Geräteeinweisung und Sicherheitscheck**
 
 Nur Mitarbeitende, die nach Medizinproduktegesetz (MPG) eine Bedienungseinweisung für die OP-Tische durch einen MPG-Beauftragten erhalten haben, sind berechtigt, technische Funktionseinstellungen am Maquet-Magnus- System vorzunehmen. 
 
@@ -15,7 +15,7 @@ Vor jeder Inbetriebnahme muss ein Check-up durchgeführt werden:
 
 - Funktionsüberprüfung der Fernbedienung für Transporter 
 
-## **2. Belastbarkeit der OP-Tische** 
+# **2. Belastbarkeit der OP-Tische**
 
 - Standard-OP-Tisch: 
 
@@ -33,7 +33,7 @@ bis 240 kg (inklusive Lafette / Transporter) bis 360 kg (auf Säule – cave: Be
 
 - bis 280 kg 
 
-## **3. OP-Tisch-Vorbereitung** 
+# **3. OP-Tisch-Vorbereitung**
 
 Die gesamte OP-Tischfläche ist mit einer durchgehenden viskoelastischen Tempur-Auflage versehen (gemäß DIN EN ISO 9001). Das Kopfteil des OP-Tisches ist wegen der gewünschten Beweglichkeit mit einem separaten Tempur-Narkose-Kissen versehen. 
 
@@ -59,7 +59,7 @@ Die gesamte OP-Tischfläche ist mit einer durchgehenden viskoelastischen Tempur-
 
 **CISORM: OP-Tische** 
 
-## **4. Lagerungshilfsmittel und OP-Tischzubehör** 
+# **4. Lagerungshilfsmittel und OP-Tischzubehör**
 
 Tempur Narkosekissen 
 

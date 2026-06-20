@@ -13,16 +13,10 @@ Standorte CVK, Paulinenkrankenhaus Klinik für Kardioanästhesiologie und Intens
 
 Version  Freigabe  Erstellung  Prüfung  Freigabe  Wiedervorlage
 Krukenkamp, S.
-**----- End of picture text -----**
 
-
-## **Inhaltsverzeichnis** 
-
-|1.|Einsatz der maschinellen Autotransfusion (MAT) ........................................................................... 3|
 |---|---|
-|2.|Thoraxdrainagen .............................................................................................................................. 3|
 
-## **1. Einsatz der maschinellen Autotransfusion (MAT)** 
+# **1. Einsatz der maschinellen Autotransfusion (MAT)**
 
 Die maschinelle Autotransfusion (MAT) wird bei sämtlichen Eingriffsformen im DHZC prinzipiell vorgehalten, ein zeitnaher Einsatz bei unerwarteten Blutungen ist grundsätzlich gewährleistet. Jeder Operationssaal im DHZC (Standorte CVK und PKH) ist hierzu mit einem Gerät zur maschinellen Autotransfusion (Cellsaver) ausgestattet. Um einen ökonomischen Einsatz des notwendigen Einmalmaterials zu gewährleisten, wird das Gerät aber nicht präemptiv, sondern bedarfsangepasst aufgerüstet: 
 
@@ -44,7 +38,7 @@ Das Set zur Wiederaufbereitung des Wundbluts („Glocke“) wird in der ungeöff
 
 Eine MAT ist bei Verdacht auf eine bakterielle Kontamination des Operationsgebiets oder dessen Nachweis sowie bei Verdacht auf eine Bakteriämie (z. B. Sepsis) nicht zulässig. Bei Operationen unter Anwendung der Herz-Lungen-Maschine, beispielsweise der operative Herzklappenersatz aufgrund einer Endokarditis, kann _nach Aufklärung der Patient:innen_ hingegen der Einsatz der MAT gerechtfertigt sein.[1] 
 
-## **2. Thoraxdrainagen** 
+# **2. Thoraxdrainagen**
 
 Sämtliche Thoraxdrainagen werden nach OP-Ende mit dem passiven Primed® Thoraxdrainagesystem „SINAPI“, alternativ mit den aktiven Systemen von Medela® oder Atmos® verbunden. Eine standardmäßige Konnektion von Thoraxdrainagen mit dem Cellsaver-Reservoir ist seltenen Ausnahmefällen vorbehalten. Diese Ausnahmen können sein: 
 

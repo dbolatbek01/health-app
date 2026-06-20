@@ -2,11 +2,11 @@
 
 Änderungen zur Vorversion sind gelb markiert. 
 
-## **1. Indikationen** 
+# **1. Indikationen**
 
 Indikationsstellung durch Operateur: z. B. bei MIC-MKR/TKR, MIC-TKR sowie Eingriffen im Bereich des rechten Vorhofs. 
 
-## **2. Zusätzlich benötigte Materialien** 
+# **2. Zusätzlich benötigte Materialien**
 
 In den Einleitungen 1, 2, 3 und 4 befindet sich im Katheterschrank eine Schublade („SVC-Kanüle“) mit den zusätzlich benötigten Materialien. 
 
@@ -40,7 +40,7 @@ Vorbereitung 500 ml NaCl 0,9 % mit 10.000 IE Heparin Vorbereitung 5000 IE Hepari
 
 Saal-Ultraschallgerät mit bezogener TEE-Sonde in der Einleitung, zusätzlich ggf. Punktions-Ultraschall Venue (falls nicht verfügbar: Linearschallkopf für Vivid E95 oder Philips CVxi) 
 
-## **3. Vorgehen bei Anlage der SVC-Kanüle** 
+# **3. Vorgehen bei Anlage der SVC-Kanüle**
 
 1. Abnahme der Hepcon HDR-Bestimmung nach Anlage der Arterie bei CAH-Patienten, ggf. Baseline-ACT bei HTG-Patienten 
 
@@ -75,7 +75,7 @@ VJID⌀|||keine Doppelpunktion|
 
 10. Spülung der venösen Kanüle mit Heparin-Lösung und proximale Klemmung (vor Sideport), sterile Verschlusskappe, Annaht und zusätzliche Tabaksbeutelnaht (zum Verschluss nach Entfernung) - Spülinfusion wird an Kanüle belassen (zum Füllen der HLM-Linie) 
 
-## **4. Intraoperatives Management** 
+# **4. Intraoperatives Management**
 
 1. Nach Anreichen der SVC-Drainage-Linie durch vor Abdeckung des Patienten, _**antegrade**_ Füllung der Linie durch Anästhesie über den Dreiwegehahn bei noch geklemmter SVC-Kanüle. _**Cave**_ : Die Linie wird aus Sicherheitsgründen _**niemals retrograd**_ geprimed! 
 

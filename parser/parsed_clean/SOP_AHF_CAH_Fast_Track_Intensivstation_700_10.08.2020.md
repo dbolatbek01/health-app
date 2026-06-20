@@ -9,15 +9,7 @@ AHF CAH – Fast Track Intensivstation
 
 Klinik für Angeborene Herzfehler – Kinderkardiologie Klinik für Chirurgie Angeborener Herzfehler – Kinderherzchirurgie 
 
-## **Änderungshistorie** 
-
-## **Inhaltsverzeichnis** 
-
-|Änderungen zu Version 2.0 .......................................................................................................................... 3|Änderungen zu Version 2.0 .......................................................................................................................... 3|
 |---|---|
-|1.|Zweck............................................................................................................................................... 4|
-|2.|Prozessbeschreibung ...................................................................................................................... 4|
-|3.|Inkrafttreten ...................................................................................................................................... 4|
 
 Aus Gründen der besseren Lesbarkeit wird die männliche Schreibform verwendet. Es werden jedoch alle Geschlechter gleichermaßen angesprochen. 
 
@@ -25,7 +17,7 @@ Aus Gründen der besseren Lesbarkeit wird die männliche Schreibform verwendet. 
 
 Korrektur Punkt 2. Weitere Schmerztherapie in den ersten 24 Std.: Catapresan-Perfusor gelöscht, jetzt: **Clonidin** -Perfusor 
 
-## **1. Zweck** 
+# **1. Zweck**
 
 Beschreibung der Patientenversorgung, die zur frühen Extubation innerhalb von 2 Stunden nach Aufnahme auf die IPS geplant sind. 
 
@@ -33,7 +25,7 @@ Diese SOP ergänzt die SOP560 CAH Fast-Track der Anästhesie.
 
 Für die Erstellung und Aktualisierung ist der OA der IPS-AHF verantwortlich. 
 
-## **2. Prozessbeschreibung** 
+# **2. Prozessbeschreibung**
 
 - Bettplatz vorbereiten 
 
@@ -77,7 +69,7 @@ Bei anhaltender Übelkeit oder anhaltendem Erbrechen Disoprivan 0,3 mg/kg als Bo
 
 Bei Wohlbefinden ab 2 Std. postoperativ schluckweise (oral) Tee möglich. 
 
-## **3. Inkrafttreten** 
+# **3. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

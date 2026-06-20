@@ -41,18 +41,9 @@ Layout|||
 Layout
 31.12.2022|||
 
-## **Inhaltsverzeichnis** 
-
-|1.|Hintergrund ...................................................................................................................................... 3|
 |---|---|
-|2.|Durchführung und Zeitfenster der Dialyseerbringung ..................................................................... 3|
-|3.|Unterscheidung der Patientenszenarien ......................................................................................... 3|
-|4.|Behandlungsdurchführung chronischer Dialysen ............................................................................ 3|
-|5.|Behandlungsdurchführung akuter Dialysen..................................................................................... 4|
-|6.|Durchführung von Notfall-Plasmapheresen..................................................................................... 4|
-|Anhang. Ansprechpersonen für die ärztliche Betreuung der Nierenersatztherapie am DHZC CVK/AP ..... 5||
 
-## **1. Hintergrund** 
+# **1. Hintergrund**
 
 Die Organisation und Durchführung der intermittierenden (nicht kontinuierlichen) Dialysen unterscheidet sich deutlich von den ausschließlich im Intensivbereich verwendeten kontinuierlichen Verfahren. Beide Methoden sind wesentlicher Bestandteil der medizinischen Versorgung im DHZC. 
 
@@ -60,7 +51,7 @@ Die vorliegende SOP bildet die Strukturen der nicht kontinuierlichen Verfahren a
 
 Die Verfahren für die kontinuierliche Nierenersatztherapie sind in der SOP357 Kontinuierliche Nierenersatztherapie in der ITM ausgeführt. 
 
-## **2. Durchführung und Zeitfenster der Dialyseerbringung** 
+# **2. Durchführung und Zeitfenster der Dialyseerbringung**
 
 Die Erbringung der Dialysen erfolgt regulär in definierten Zeitfenstern. 
 
@@ -77,7 +68,7 @@ Planbare Einbestellungen für diagnostische oder therapeutische Eingriffe sind s
 
 Sollte eine dringende medizinische Ausnahme eine Dialyse außerhalb sämtlicher unter A, B und C genannten Zeitfenster (in der Nacht, am Sonntag) notwendig machen, besteht als Alternative die Rufbereitschaft des Dialyseteams täglich ab 20:15 Uhr – 07:30 Uhr , samstags ab 17:30 Uhr. Der Rufbereitschaftsplan hängt auf der WD1i, WD2i und WD3u/i aus. 
 
-## **3. Unterscheidung der Patientenszenarien** 
+# **3. Unterscheidung der Patientenszenarien**
 
 Im DHZC tritt nierenersatzpflichtiges Nierenversagen in zwei Situationen auf: 
 
@@ -85,7 +76,7 @@ Im DHZC tritt nierenersatzpflichtiges Nierenversagen in zwei Situationen auf:
 
 2. Akutes Nierenversagen von zuvor nicht dialysepflichtigen Patienten. Diese Patienten werden überwiegend mit kontinuierlichen Verfahren, aber auch mit intermittierenden Dialysen behandelt (sogenannte „akute“ Dialysen). 
 
-## **4. Behandlungsdurchführung chronischer Dialysen** 
+# **4. Behandlungsdurchführung chronischer Dialysen**
 
 - Die ärztliche Betreuung der Nierenersatztherapie im DHZC erfolgt durch einen erfahrenen Intensivmediziner der Klinik für Herz-, Thorax-, und Gefäßchirurgie, der interdisziplinären kardiovaskulären Intensivmedizin oder der Klinik für Kardiologie, Angiologie und Intensivmedizin. Sie beinhaltet Visite, Indikationsstellung, Verordnung und Supervision (keinen Auf- und Abbau von Geräten). Die entsprechenden Kolleginnen und Kollegen sind im Anhang gelistet. 
 
@@ -117,7 +108,7 @@ Im DHZC tritt nierenersatzpflichtiges Nierenversagen in zwei Situationen auf:
 
 - Materialbedarf wird in enger Absprache zwischen den Ärzten und dem Dialysepersonal festgelegt und durch die zuständigen Mitarbeiter des DHZC regelmäßig bestellt und überprüft. 
 
-## **5. Behandlungsdurchführung akuter Dialysen** 
+# **5. Behandlungsdurchführung akuter Dialysen**
 
 - Die ärztliche Betreuung der Nierenersatztherapie im DHZC erfolgt durch den jeweils zuständigen Intensivmediziner wie oben auch für die chronischen Dialysen beschrieben. 
 
@@ -129,7 +120,7 @@ Im DHZC tritt nierenersatzpflichtiges Nierenversagen in zwei Situationen auf:
 
 Die Durchführung akuter intermittierender Hämodialysen erfolgt analog zu den chronischen Dialysen (s. Punkt 4). 
 
-## **6. Durchführung von Notfall-Plasmapheresen** 
+# **6. Durchführung von Notfall-Plasmapheresen**
 
 Plasmapheresen können auf den Stationen WD1i, WD2i und WD3u/i durchgeführt werden. Diese werden vom pflegerischen Dialyseteam durchgeführt. Die Anordnung und Unterstützung bei der Durchführung erfolgt in Rücksprache mit dem transplantationsmedizinisch-internistischen Hintergrunddienst. 
 
@@ -140,8 +131,8 @@ Plasmapheresen können auf den Stationen WD1i, WD2i und WD3u/i durchgeführt wer
 Fries, Denis 4593 2257 
 
 Weller, Karsten  4593 2111
-**----- End of picture text -----**
 
+Patientenetikett
 
 ## **Behandlungsprotokoll Dialyse** 
 
@@ -160,12 +151,8 @@ Dialysator
 Besonderheiten
 K-Konz. mval/l
 Vorspritze IE
-**----- End of picture text -----**
-
 
 [Arzt/Ärztin]
-**----- End of picture text -----**
-
 
 ||||Station|Station|Station||Datum|Datum|Datum|||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|

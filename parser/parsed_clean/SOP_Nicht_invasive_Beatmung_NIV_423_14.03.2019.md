@@ -20,22 +20,11 @@ Organisationseinheit IPS
 |||||||
 |||Franke, B.||||
 
-## **Inhaltsverzeichnis** 
-
-|1.|Indikationen ..................................................................................................................................... 3|
 |---|---|
-|2.|Kontraindikationen ........................................................................................................................... 3|
-|3.|Maßnahmen am Bett und Auswahl der Masken ............................................................................. 3|
-|4.|Kriterien für Fortführung oder Abbruch ............................................................................................ 4|
-|4.1|Erfolgskriterien ................................................................................................................................. 4|
-|4.2|Abbruchkriterien ............................................................................................................................... 4|
-|5.|Umgang mit den Masken ................................................................................................................. 4|
-|6.|Weiterführende Literatur .................................................................................................................. 4|
-|7.|Inkrafttreten ...................................................................................................................................... 4|
 
 Aus Gründen der besseren Lesbarkeit wird auf die gleichzeitige Verwendung männlicher und weiblicher Sprachformen verzichtet. Sämtliche Personenbezeichnungen gelten für beiderlei Geschlecht. 
 
-## **1. Indikationen** 
+# **1. Indikationen**
 
 - Entwöhnung nach Langzeitbeatmung 
 
@@ -61,7 +50,7 @@ Bei Vorliegen einer oder mehrerer dieser Indikationen:
 
 → Information Team Atmungstherapie: Telefon 2069 → Einleitung NIV 
 
-## **2. Kontraindikationen** 
+# **2. Kontraindikationen**
 
 - fehlende Schutzreflexe 
 
@@ -91,7 +80,7 @@ Bei Vorliegen einer oder mehrerer dieser Indikationen:
 
 → Einleitung Intubation 
 
-## **3. Maßnahmen am Bett und Auswahl der Masken** 
+# **3. Maßnahmen am Bett und Auswahl der Masken**
 
 1. Patienten informieren 
 
@@ -107,11 +96,11 @@ Bei Vorliegen einer oder mehrerer dieser Indikationen:
 
 - Nasenmaske: bei TX-Patienten im Verlauf und auf Station H3 
 
-## **4. Kriterien für Fortführung oder Abbruch** 
+# **4. Kriterien für Fortführung oder Abbruch**
 
 Nach 60 Minuten Maskenanwendung sollte die Gesamtsituation neu bewertet werden. Über Fortführung oder Abbruch der Maskenanwendung entscheiden bestimmte Kriterien. 
 
-## **4.1 Erfolgskriterien** 
+## **4.1 Erfolgskriterien**
 
 - Besserung der Dyspnoe 
 
@@ -129,7 +118,7 @@ Nach 60 Minuten Maskenanwendung sollte die Gesamtsituation neu bewertet werden. 
 
 → Fortführung der NIV nach Anordnung 
 
-## **4.2 Abbruchkriterien** 
+## **4.2 Abbruchkriterien**
 
 - deutlicher Anstieg des pCO2 über Ausgangswert 
 
@@ -155,17 +144,17 @@ Nach 60 Minuten Maskenanwendung sollte die Gesamtsituation neu bewertet werden. 
 
 → Abbruch NIV und Intubation 
 
-## **5. Umgang mit den Masken** 
+# **5. Umgang mit den Masken**
 
 - bei Verlegung auf IPS II oder H3 Masken mitgeben 
 
 - verunreinigte Masken oder nicht gebrauchte Masken in den Steri geben 
 
-## **6. Weiterführende Literatur** 
+# **6. Weiterführende Literatur**
 
 S3-Leitlinie "Nichtinvasive Beatmung als Therapie der akuten respiratorischen Insuffizienz". Stand 10.07.2015, gültig bis 31.12.2019. AWMF-Leitlinien-Register Nr. 020/004. https://www.awmf.org/leitlinien/detail/ll/020-004.html 
 
-## **7. Inkrafttreten** 
+# **7. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

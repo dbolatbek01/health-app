@@ -17,20 +17,9 @@ Charité Facility Management (CFM) / AEMP
 
 Anlage 1 Bestellschreiben an die Firma Fittkau (Textvorlage) Anlage 2 Stellungnahme an BfArM (Textvorlage) Anlage 3 Erklärung Informationspflicht Firma Fittkau Anlage 4 Information und Einwilligungserklärung zur LVAD-Explantation mit Herzverschlussstopfen Anlage 5 Risikobetrachtung Aufbereitung Herzverschlussstopfen Anlage 6 Arbeitsanweisung Aufbereitung Herzverschlussstopfen (CFM) 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Hintergrund und Ziel ........................................................................................................................ 3|
 |---|---|
-|2.|Bestellung und Lieferung ................................................................................................................. 3|
-|2.1|Bestellvorgang ................................................................................................................................. 3|
-|2.2|Annahme und Dokumentation der Lieferung ................................................................................... 3|
-|3.|Operationstermin ............................................................................................................................. 4|
-|4.|Aufbereitung .................................................................................................................................... 4|
-|5.|Aufklärung und Einwilligung des Patienten ..................................................................................... 4|
-|6.|Implantation und Nachsorge ............................................................................................................ 4|
-|7.|Informationspflicht BfArM................................................................................................................. 4|
 
-## **1. Hintergrund und Ziel** 
+# **1. Hintergrund und Ziel**
 
 Bei Patienten, bei denen es nach Implantation eines linksventrikulären Herzunterstützungssystems (LVAD) zur Erholung des Herzmuskels bzw. der Ventrikelfunktion kommt, besteht die Möglichkeit und die Notwendigkeit, die zuvor implantierte HeartWare-HVAD- oder HeartMate-3-Pumpe zu explantieren. 
 
@@ -42,9 +31,9 @@ Der Herzverschlussstopfen wird von der Firma Fittkau nach Spezifikation des leit
 
 Die vorliegende SOP regelt das Vorgehen bei der Bestellung, der Verwendung des individuell angefertigten Herzverschlussstopfens der Firma Fittkau und bei der Dokumentation des Vorgangs einschließlich einer Nachbeobachtungszeit von bis zu einem Jahr. 
 
-## **2. Bestellung und Lieferung** 
+# **2. Bestellung und Lieferung**
 
-## **2.1** 
+# **2.1**
 
 ## **Bestellvorgang** 
 
@@ -58,7 +47,7 @@ Die vorliegende SOP regelt das Vorgehen bei der Bestellung, der Verwendung des i
 
 5. Der leitende VAD-Chirurg schickt zur Abwicklung des offiziellen Bestellvorgangs eine Beschaffungsanforderung (BAF) an den Einkauf. Der Einkauf hat dafür Sorge zu tragen, dass die der BAF angefügte Informationspflicht (Anlage 3) mit der Bestellung an die Firma Fittkau weitergegeben wird. 
 
-## **2.2 Annahme und Dokumentation der Lieferung** 
+## **2.2 Annahme und Dokumentation der Lieferung**
 
 Die Lieferung des Herzverschlussstopfens wird von der 
 
@@ -66,11 +55,11 @@ entgegengenommen.
 
 Die Genehmigung des BfArM und die unterschriebene Verpflichtungserklärung der Firma Fittkau ist von den Mitarbeitenden der in der Krankenakte abzulegen bzw. zu dokumentieren. Danach erfolgt die Information des VAD-Teams über den Erhalt des Verschlussstopfens durch die 
 
-## **3. Operationstermin** 
+# **3. Operationstermin**
 
 Die Operation muss maximal 2 Wochen nach Erhalt der Genehmigung des BfArM stattfinden. 
 
-## **4. Aufbereitung** 
+# **4. Aufbereitung**
 
 Der Herzverschlussstopfen wird durch die an die Aufbereitungseinheit für Medizinprodukte (AEMP) der Charité CFM Facility Management GmbH zur Erststerilisation weitergeleitet. 
 
@@ -82,11 +71,11 @@ Zur Dokumentation wird die Arbeitsanweisung der Charité CFM Facility Management
 
 Nach erfolgter Aufbereitung durch die AEMP wird der Herzverschlussstopfen wieder der übergeben. 
 
-## **5. Aufklärung und Einwilligung des Patienten** 
+# **5. Aufklärung und Einwilligung des Patienten**
 
 Die Aufklärung und Einwilligung des Patienten über die Verwendung des nicht CE-zertifizierten Produkts erfolgt durch einen Arzt des VAD-Teams unter Verwendung des Formulars „Information und Einwilligungserklärung zur LVAD-Explantation unter Verwendung eines individuell angefertigten Herzverschlussstopfens“ (Anlage 4, Formular EINW163). Die von Patient und aufklärendem Arzt datierte und unterschriebene Einwilligungserklärung muss im Original der Patientenakte beigefügt werden. 
 
-## **6. Implantation und Nachsorge** 
+# **6. Implantation und Nachsorge**
 
 Bei Explantation des Herzunterstützungssystems unter Verwendung des individuell angefertigten Herzverschlussstopfens ist die Seriennummer des Herzverschlussstopfens zwingend in der Patientenakte zu dokumentieren. 
 
@@ -96,7 +85,7 @@ Bei Entlassung wird dem Patienten das Original des Implantatausweises durch eine
 
 Die Nachsorge und Kontrolle erfolgt in der VAD-Ambulanz und sollte im ersten postoperativen Jahr zunächst nach 3, 6 und 12 Monaten erfolgen. 
 
-## **7. Informationspflicht BfArM** 
+# **7. Informationspflicht BfArM**
 
 Das BfArM ist über das Ergebnis der Prozedur sowie über die Folgeuntersuchungen des ersten postoperativen Jahres zu informieren. 
 
@@ -188,19 +177,19 @@ DHZC I 2023-11
 
 Sie leiden an einer schweren Erkrankung des Herzmuskels, die medikamentös nicht mehr beherrschbar war. Wir hatten Ihnen deshalb ein sogenanntes „Kunstherz“ (Left Ventricular Assist Device, LVAD) eingesetzt.  In Ihrem Fall kam es zu einer Erholung des Herzmuskels, weshalb wir Ihnen jetzt die LVADEntfernung (= Explantation) empfehlen. Hierfür stehen verschiedene chirurgische Möglichkeiten zur Verfügung. 
 
-## **1. Komplette Entfernung von Pumpe, Ausflussprothese und Steuerungskabel** 
+# **1. Komplette Entfernung von Pumpe, Ausflussprothese und Steuerungskabel**
 
 Diese Variante kann nur durch die Wiedereröffnung des Brustbeins und ausschließlich mit Einsatz der Herz-Lungen-Maschine durchgeführt werden. Der Fixationsring an der Herzspitze wird komplett entfernt und die Eröffnung an der Herzspitze wird übernäht. Dabei geht in diesem Bereich ein Teil des Herzmuskels verloren. Das könnte zur Verschlechterung der Herzfunktion nach Entfernung der Pumpe führen. 
 
 Dieser Eingriff ist für den Patienten sehr belastend und mit einem sehr hohen Risiko einer Verletzung der inneren Organe und/oder einer Blutung verbunden. Außerdem ist dieser Eingriff mit einem höheren Infektionsrisiko und einem längeren Krankenhausaufenthalt verbunden. 
 
-## **2. Entfernen von Pumpe und Steuerungskabel und Belassen eines Teils der Ausflussprothese mit Einsatz der Herz-Lungen-Maschine** 
+# **2. Entfernen von Pumpe und Steuerungskabel und Belassen eines Teils der Ausflussprothese mit Einsatz der Herz-Lungen-Maschine**
 
 über einen Schnitt links unter der Brust zwischen den Rippen. Bei dieser Variante wird der Fixationsring an der Herzspitze komplett entfernt und die Eröffnung an der Herzspitze wird übernäht. Dabei geht in diesem Bereich ein Teil des Herzmuskels verloren. Das könnte zur Verschlechterung der Herzfunktion nach Entfernung der Pumpe führen. 
 
 Dieser Eingriff ist für den Patienten sehr belastend und mit einem sehr hohen Risiko einer Verletzung der inneren Organe und/oder einer Blutung verbunden. Außerdem ist dieser Eingriff mit einem höheren Infektionsrisiko und einem längeren Krankenhausaufenthalt verbunden. 
 
-## **3. Entfernen von Pumpe und Steuerungskabel und Belassen eines Teils der Ausflussprothese ohne Einsatz der Herz-Lungen-Maschine** 
+# **3. Entfernen von Pumpe und Steuerungskabel und Belassen eines Teils der Ausflussprothese ohne Einsatz der Herz-Lungen-Maschine**
 
 über einen Schnitt links unter der Brust zwischen den Rippen. Im Gegensatz zu den ersten zwei Varianten wird der Fixationsring am der Herzspitze belassen und die Eröffnung an der Herzspitze wird durch einen speziell dafür konstruierten und individuell für Sie angefertigten Herzverschlussstopfen verschlossen, der von der Firma Fittkau Metallgestaltung GmbH hergestellt wird. Dabei geht kein Herzmuskel verloren. Damit reduziert sich das Risiko einer Verschlechterung der Herzfunktion nach Entfernung der Pumpe, ist jedoch nicht vollständig aufgehoben. 
 
@@ -288,7 +277,7 @@ DHZC I EINW163-01 I 2023-11
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-## **1 Ziel der Bewertung** 
+# **1 Ziel der Bewertung**
 
 ## **Projekthintergrund** 
 
@@ -340,7 +329,7 @@ Potapov vom DHZB, und mit Unterstützung von Medidee Services Deutschland GmbH w
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-## **1.1 Involvierte Personen** 
+## **1.1 Involvierte Personen**
 
 Die folgenden Personen waren in Informationsbeschaffung, Risikoanalyse, Prozessentwicklung und Freigabe involviert: 
 
@@ -374,7 +363,7 @@ DHZB|
 |Sabine Hübler||Kommissarische Verwaltungsleitung
 Deutsches Herzzentrum Berlin|
 
-## **1.2 Referenzdokumente** 
+## **1.2 Referenzdokumente**
 
 Die folgenden Normen und Richtlinien sind für die Aufbereitung und Sterilisation des Herzstopfens relevant: 
 
@@ -390,7 +379,7 @@ Die folgenden Normen und Richtlinien sind für die Aufbereitung und Sterilisatio
 
 - EN 285:2015 
 
-## **2 Produktbeschreibung** 
+# **2 Produktbeschreibung**
 
 Herzverschlussstopfen werden von der Firma Fittkau Metallgestaltung GmbH nach Spezifikation leitender Chirurgen des DHZB in Kleinstserien bzw. individuell hergestellt. Sie werden nach der Explantation einer Herzpumpe verwendet, um die zurückbleibende Öffnung im linken Ventrikel des Patientenherzes zu verschließen und gleichzeitig eine erneute Implantierung einer Herzpumpe zu ermöglichen. Weiterhin bleibt bei der Verwendung eines Herzverschlussstopfens die Explantation des, an der Herzwand angenähten Ringes aus, welche das Patientenherz durch Verwendung einer Herz-Lungen-Maschine während der Operation zusätzlich belasten würde. Bisher wurden am DHZB in den letzten 10 Jahren 41 Implantationen des HeartWare – Stopfens vorgenommen und 2 Implantationen des HeartMate 
 
@@ -406,11 +395,11 @@ Vor der Implantation wird dem Stopfen im OP ein O-Ring aus medizinischem Silikon
 
 Herzverschlussstopfen werden mit einer, eigens für den jeweiligen Stopfentyp angefertigten Herzverschlussstopfenzange aus Edelstahl eingesetzt. Die Zangen werden ebenfalls nach Spezifikation leitender Chirurgen des DHZB hergestellt. Als Basis für die Anfertigung dient bereits als Medizinprodukte zugelassenes OP-Besteck. 
 
-## **3 Bewertung der Produktparameter** 
+# **3 Bewertung der Produktparameter**
 
 In diesem Abschnitt werden die, für die Erstaufbereitung wichtigen Produktparameter im Vergleich zu den am DHZB validierten Aufbereitungsverfahren bewertet sowie die Anwendbarkeit der, für die Aufbereitung der Produkte geplanten Prozessparameter (Reinigung, Desinfektion, Sterilisation), Prozesschemikalien und Verpackungssysteme geprüft 
 
-## **3.1 Produktparameter** 
+## **3.1 Produktparameter**
 
 |**Produkt**|**Produktparameter**|**Parameterbeschreibung**|
 |---|---|---|
@@ -435,7 +424,7 @@ aufdieZange.|
 
 **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-## **3.2 Prozessparameter** 
+## **3.2 Prozessparameter**
 
 |**Prozess**|**Prozessparameter**|**Parameterbeschreibung**|
 |---|---|---|
@@ -456,7 +445,7 @@ chemischer Indikator Klasse
 6|
 ||Programm|Instrumente|
 
-## **3.3 Vergleich mit validierten Instrumenten des DHZB** 
+## **3.3 Vergleich mit validierten Instrumenten des DHZB**
 
 Alle aufzubereitenden Produkte, Herzverschlussstopfen HeartWare/HeartMate3, O-Ringe, Zangen sowie Innensechskant-Schlüssel (HeartMate3) zeigen Ähnlichkeiten zu anderen Medizinprodukten des DHZB, welche mit den angewandten Aufbereitungsprozessen (Kapitel 3.2) validiert wurden. 
 
@@ -494,15 +483,15 @@ Kleinteile, wie die verwendeten O-Ringe aus medizinischem Silikon werden in klei
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-## **4 Risikobewertung** 
+# **4 Risikobewertung**
 
 Zur Identifizierung der möglichen Risiken, welche in Zusammenhang mit der Aufbereitung der Herzverschlussstopfen für das HeartWare und das HeartMate-System stehen, wurde zuerst eine allgemeine Gefährdungsanalyse (Anhang 7.1) in Anlehnung an die ISO 14971:2019 und den TR 24971:2020 Anhang A durchgeführt. Die ermittelten Gefährdungen wurden anschließend im Rahmen einer Risikoanalyse (Kapitel 4.1, Anhang 7.2) betrachtet und durch Maßnahmen im Rahmen der Erstaufbereitung mitigiert. Weitere Risiken, die sich aus den Vorgaben des RKI zum Aufbereitungsprozess ergaben (Kapitel 4.2), wurden ebenfalls in der Risikoanalyse betrachtet. 
 
-## **4.1 Risikoanalyse** 
+## **4.1 Risikoanalyse**
 
 Die Risikoanalyse (Anhang 7.2) ergab, dass die Herzverschlussstopfen, sowie die verwendeten O-Ringe als Einmalprodukte zu betrachten sind und nicht wiederaufbereitet werden dürfen. Die Zangen, welche zur Implantation der Stopfen verwendet werden, können problemlos wiederaufbereitet werden und unterliegen keiner Beschränkung. Zusätzlich werden Stopfen und Zangen, künftig zusätzlich als worst-case Produkte bei der Validierung der Aufbereitungsprozesse in die Referenzchargen aufgenommen. Weiterhin wurde festgelegt, dass die Aufbereitung ausschließlich durch geschultes Personal mit Fachkunde 2 Ausbildung durchgeführt werden darf. 
 
-## **4.2 Risikoklassifizierung nach Richtlinie des RKI** 
+## **4.2 Risikoklassifizierung nach Richtlinie des RKI**
 
 Die Richtlinie der KRINKO, des RKI und des BfArM zu Anforderungen an die Hygiene bei der Aufbereitung von Medizinprodukten (im Folgenden als RKI-Richtlinie bezeichnet), schreibt vor eine Risikobewertung und Einstufung des Medizinproduktes vor der Aufbereitung durchzuführen und zu dokumentieren (RKI Richtlinie Kapitel 1.2.1). Die Verantwortlichkeit für die Einstufung und die Festlegung der Aufbereitung liegt beim Betreiber des Produktes (MPG, MPBetreiBV), unter Berücksichtigung der Angaben des Herstellers. Von Seiten des Herstellers stehen keine Angaben zur Aufbereitung zur Verfügung, weshalb die Aufbereitung des Herzverschlussstopfens einer detaillierten Risikoanalyse (Kapitel 4.1) durch den Betreiber bedarf. 
 
@@ -534,7 +523,7 @@ Da die Herzverschlussstopfenzangen (Edelstahl), die verwendeten O-Ringe (medizin
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-## **5 Aufbereitungprozess** 
+# **5 Aufbereitungprozess**
 
 Der in Kapitel 8 „Anhang – Aufbereitungsprozess“ dargestellte Prozessablauf beschreibt die Prozessschritte und In-Prozess-Kontrollen denen Herzverschlussstopfen, O-Ringe, Herzverschlussstopfenzangen und Sechskantschlüssel bei der Erstaufbereitung unterzogen werden. Der Aufbereitungsprozess basiert auf der Risikoklassifizierung des RKI (siehe Kapitel 4.2) und der zuvor durchgeführten Risikoanalyse (siehe Kapitel 4.1, Anhang 7) und wurde in enger Zusammenarbeit der verantwortlichen Chirurgen, der Leitung AEMP und der Abteilung Hygiene entwickelt. Der dargestellte Prozessablauf wird als eigenständige Arbeitsanweisung in das Qualitätsmanagement des DHZB aufgenommen und dient gleichzeitig als Checkliste zur Prozessdokumentation. Zusammen mit den Chargenprotokollen von Reinigung/Desinfektion und Sterilisation wird die ausgefüllte und freigegeben die Patientenakte aufgenommen. 
 
@@ -576,7 +565,7 @@ Der Prozess ist aus der Perspektive der Leitung der AEMP und der Sektion Hygiene
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-## **6 Zusammenfassung** 
+# **6 Zusammenfassung**
 
 Im Rahmen der Sonderzulassung eines Herzverschlussstopfens gemäß Artikel 59 MDR wurde in enger Zusammenarbeit mit der Leitung der AEMP, sowie der Abteilung Hygiene des DHZB eine Risikobewertung durchgeführt und ein Aufbereitungsprozess entwickelt. Die Durchführbarkeit des Aufbereitungsprozesses wurde abschließend validiert. Hierzu wurde zuerst eine Risikoklassifizierung des Medizinproduktes entsprechend der Richtlinie des RKI - Punkt 1.2.1 (siehe Kapitel 4.2) vorgenommen, sowie eine Risikoanalyse für die Herzverschlussstopfen für das HeartWare – System und das HeartMate 3 – System durchgeführt (siehe Kapitel 4.1 / 4.2). Ebenso wurden alle, für die Implantation der Stopfen notwendigen Medizinprodukte betrachtet – Herzverschlussstopfenzange, O-Ringe, Innensechskantschlüssel, sowie die verwendete Verpackung der Medizinprodukte (siehe Kapitel 4.1 / 5 / Anhang 8). Weiterhin wurde die Produktverträglichkeit mit den zur Anwendung kommenden Aufbereitungsprozessen (Reinigung, Desinfektion und Sterilisation) sowie die Wirksamkeit der Aufbereitungsverfahren diskutiert und bewertet (siehe Kapitel 3.1 / 3.3 / 4.1 / 4.2 / 5 / Anhang 8). Im Verlauf der Risikobetrachtung wurden mögliche Begrenzungen oder Einschränkungen bei der Aufbereitung des Medizinproduktes festgelegt (siehe Kapitel 4.1 / Anhang 7). 
 
@@ -619,11 +608,11 @@ Deutsches Herzzentrum Berlin|06.11.2020||
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-## **7 Anhang - Risikoanalyse** 
+# **7 Anhang - Risikoanalyse**
 
 Zur Identifizierung der möglichen Risiken, welche in Zusammenhang mit der Aufbereitung der Herzverschlussstopfen für das HeartWare und das HeartMate-System stehen, wurde zuerst eine allgemeine Gefährdungsanalyse (Kapitel 7.1) in Anlehnung an die ISO 14971:2019 und den TR24971:2020 Anhang A durchgeführt. Die ermittelten Gefährdungen wurden anschließend im Rahmen einer Risikoanalyse (Kapitel 4.1, 7.2) betrachtet und durch Maßnahmen im Rahmen der Erstaufbereitung mitigiert. Weitere Risiken, die sich aus dem Aufbereitungsprozess ergeben, werden in der Risikoanalyse betrachtet. Folgend werden beide Verschlussstopfen als „Herzverschlussstopfen“ referenziert. 
 
-## **7.1 Allgemeine Gefährdungsanalyse** 
+## **7.1 Allgemeine Gefährdungsanalyse**
 
 |**#**|**Sicherheitsrelevante**
 **Produkteigenschaften**|**Anwendbarkeit**|**Beschreibung/Rationale**|**Identifizierte Gefährdung**|
@@ -1333,7 +1322,7 @@ Nein|Es sind keine elektronischen Bauteile verbaut.||
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-## **8 Anhang - Aufbereitungsprozess** 
+# **8 Anhang - Aufbereitungsprozess**
 
 Die folgende Tabelle beschreibt die unterschiedlichen Prozessschritte und In-Prozess-Kontrollen denen Herzverschlussstopfen, O-Ringe und Herzverschlussstopfenzange bei der Aufbereitung unterzogen werden. Der Aufbereitungsprozess basiert auf der Risikoklassifizierung des RKI und der zuvor durchgeführten Risikoanalyse. Er wird als eigenständige Arbeitsanweisung in das Qualitätsmanagement des DHZB aufgenommen und dient gleichzeitig als Checkliste zur Prozessdokumentation. Zusammen mit den Chargenprotokollen von Reinigung/Desinfektion und Sterilisation wird die ausgefüllte und freigegeben 
 
@@ -1662,7 +1651,7 @@ den OP||
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-## **8.1 Dokumentation Validierungscharge** 
+## **8.1 Dokumentation Validierungscharge**
 
 Prozessdiagramm RDG 16 - Parameter 
 
@@ -1698,7 +1687,7 @@ Chargenetikett
 
 ## **RISIKOBETRACHTUNG AUFBEREITUNG HERZVERSCHLUSSSTOPFEN** 
 
-## **8.2 Prozessablauf - Checkliste** 
+## **8.2 Prozessablauf - Checkliste**
 
 46 
 
@@ -1863,8 +1852,6 @@ das Verpacken
 vorbereitet
 Verpacken der desinfizierten Güter zur
 Sterilisation
-**----- End of picture text -----**
-
 
 Erstellt: Hiestermann, K. Kelterborn, K. QB 3.0 05.03.2025 
 

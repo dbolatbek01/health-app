@@ -1,6 +1,6 @@
 **Pflege: Inhalationstherapie, IPPB-Atemtraining, CPAP-Maske** 
 
-## **1. Hintergrund und Ziel** 
+# **1. Hintergrund und Ziel**
 
 Die Atmung ist ein zentraler Prozess im menschlichen Körper, der durch die Atemmuskulatur die Inspiration, Exspiration und den Gasaustausch in der Lunge ermöglicht. Atemtraining und entsprechende Atemtherapeutika sind besonders relevant für Patienten mit Herzkrankheiten wie Herzinsuffizienz oder koronaren Herzkrankheiten sowie für Personen mit chronisch obstruktiven Lungenerkrankungen (COPD). 
 
@@ -16,15 +16,15 @@ Besonders kritisch ist das Risiko von respiratorischer Muskelschwäche insbesond
 
 5. Patientenaufklärung: Vermittlung von Wissen über die Erkrankungen und die Bedeutung von Atemübungen zur Selbsthilfe und Verbesserung der Lebensqualität. 
 
-## **2. Prozessverantwortliche Person** 
+# **2. Prozessverantwortliche Person**
 
 Pflegefachkräfte, Physiotherapeutinnen und -therapeuten, Atmungstherapeutinnen und -therapeuten. 
 
-## **3. Geltungsbereich / Zielgruppe** 
+# **3. Geltungsbereich / Zielgruppe**
 
 Alle bettenführenden Bereiche des DHZC. 
 
-## **4. Begriffsdefinitionen** 
+# **4. Begriffsdefinitionen**
 
 Patienten mit chronischen Lungenerkrankungen haben häufig eine ineffiziente Atmung. Atemtraining hat das Ziel, die Lungenfunktion zu verbessern. Maßnahmen zur Steigerung der Lungenvitalkapazität können die Behandlungserfolge bei Atemwegserkrankungen erhöhen. 
 
@@ -34,7 +34,7 @@ Patienten mit chronischen Lungenerkrankungen haben häufig eine ineffiziente Atm
 
 **Inhalationstherapie:** Therapieoption zur Linderung von Symptomen bei Patienten mit Atemwegserkrankungen. Durch die Inhalation von Aerosolen gelangen die Wirkstoffe direkt in die Atemwege um dort ihre Wirkung effizient zu entfalten. 
 
-## **5. Prozessbeschreibung** 
+# **5. Prozessbeschreibung**
 
 Bei allen aufgeführten Maßnahmen ist auf die Anwendung der Gerätschaften nach den Funktionsbeschreibungen der Medizinprodukteverordnung (siehe Geräteunterweisung) zu achten und durchzuführen. Idealerweise wird der Patient in eine atemunterstützende Position gebracht (evtl. Sitzposition, A-, V-, T-, Drainagelagerung). Eine hygienische Händedesinfektion wird vor, zwischen und nach jeder Tätigkeit gemäß Leitfaden der Krankenhaushygiene durchgeführt. 
 
@@ -47,7 +47,7 @@ Bei allen aufgeführten Maßnahmen ist auf die Anwendung der Gerätschaften nach
 
 Geltungsbereich: Pflege 
 
-## **5.1 Inhalationstherapie** 
+## **5.1 Inhalationstherapie**
 
 Die Durchführung erfolgt mit Verneblersystemen, die einen ununterbrochenen Flow erzeugen. 
 
@@ -69,7 +69,7 @@ Die Durchführung erfolgt mit Verneblersystemen, die einen ununterbrochenen Flow
 
 - Dauer abhängig von Inhalationsmenge und Angaben im Medikamentenbeipackzettel (10-15 Min.) 
 
-## **5.2 IPPB-Therapie (B)** 
+## **5.2 IPPB-Therapie (B)**
 
 Atemtraining mit einem druckgesteuerten Atemtherapiegerät (IPPB) zur Unterstützung des spontan atmenden Patienten. Nach jeder Anwendung erfolgt ein Gerätefilterwechsel. 
 
@@ -89,7 +89,7 @@ Atemtraining mit einem druckgesteuerten Atemtherapiegerät (IPPB) zur Unterstüt
 
 - Atemfrequenz und Vitalzeichen beobachten 
 
-## **5.3 CPAP-Therapie** 
+## **5.3 CPAP-Therapie**
 
 - Anwendung nach ärztlicher Anordnung, 
 
@@ -103,7 +103,7 @@ Atemtraining mit einem druckgesteuerten Atemtherapiegerät (IPPB) zur Unterstüt
 
 - Bei Kindern und kognitiv eingeschränkten Patienten ist die Anlage einer Magensonde obligat 
 
-## **6. Nachbereitung** 
+# **6. Nachbereitung**
 
 - Rest-Inhalationslösung verwerfen 
 
@@ -113,7 +113,7 @@ Atemtraining mit einem druckgesteuerten Atemtherapiegerät (IPPB) zur Unterstüt
 
 - Inhalationssystemwechsel nach 24 Stunden 
 
-## **7. Dokumentation** 
+# **7. Dokumentation**
 
 Die Dokumentation erfolgt in den Patientendokumentationssystemen m.life, SAP und/oder COPRA. m.life: Pflege → Pflegedokumentation → Pneumonieprophylaxe. Bereichsabhängig zusätzliche Dokumentation auf Seite „Ventilation“ 
 

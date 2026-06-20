@@ -9,24 +9,15 @@ Antithrombozytäre Therapie peri- und postinterventionell
 
 Klinik für Kardiologie, Angiologie und Intensivmedizin Klinik für Herz-, Thorax- und Gefäßchirurgie 
 
-## **Inhaltsverzeichnis** 
-
-||Ziel ................................................................................................................................................... 3|
 |---|---|
-|1.|Koronare Herzerkrankung ............................................................................................................... 3|
-|1.1|Patienten ohne Indikation für eine orale Antikoagulation (AOK) ..................................................... 3|
-|1.2|PCI bei Patienten mit Indikation für eine AOK ................................................................................. 3|
-|2.|TAVI, TMVI, MitraClip, TriClip und Cardioband ............................................................................... 4|
-|3.|LAA-Verschluss ............................................................................................................................... 4|
-|4.|PFO-Verschluss ............................................................................................................................... 4|
 
 ## **Ziel** 
 
 Vereinheitlichung der antithrombozytären Therapiestrategien auf dem Gebiet der interventionellen Kardiologie und strukturellen Herzerkrankungen. 
 
-## **1. Koronare Herzerkrankung** 
+# **1. Koronare Herzerkrankung**
 
-## **1.1 Patienten ohne Indikation für eine orale Antikoagulation (AOK)** 
+## **1.1 Patienten ohne Indikation für eine orale Antikoagulation (AOK)**
 
 |**Myokardinfarkt**|12 Monate ASS plus Ticagrelor oder Prasugrel (cave: KI),
 ASS dauerhaft|
@@ -38,14 +29,12 @@ ASS dauerhaft|
 (individuelle Einzelfallentscheidung Blutungsrisiko vs.
 Ischämierisiko nach Vorgabe Interventionalist:in)|
 
-## **1.2 PCI bei Patienten mit Indikation für eine AOK** 
+## **1.2 PCI bei Patienten mit Indikation für eine AOK**
 
 Entlassung 6 Monate 12 Monate
 stabile
 KHK Tripletherapie (N)OAK plus Clopidogrel (N)OAK
 ACS Tripletherapie (N)OAK plus Clopidogrel (N)OAK
-**----- End of picture text -----**
-
 
 **Tripletherapie mit (N)OAK* plus ASS und Clopidogrel**** für maximal einen Monat (Standard: bis zur Entlassung, max. eine Woche), dann duale Therapie mit (N)OAK plus Clopidogrel bis 12 Monate nach PCI (Standard: sechs Monate bei stabiler KHK, 12 Monate bei ACS), anschließend Monotherapie mit (N)OAK (bei stabilem Verlauf), ggf. Dosis des NOAK anpassen 
 
@@ -113,17 +102,17 @@ für ein hohes Blutungsrisiko bei Indikation zur Tripletherapie sprechen:
 
 - ggf. interventionellen Vorhofohrverschluss evaluieren 
 
-## **2. TAVI, TMVI, MitraClip, TriClip und Cardioband** 
+# **2. TAVI, TMVI, MitraClip, TriClip und Cardioband**
 
 **keine Indikation für OAK TAVI:** SAPT (ASS 100 mg/d) dauerhaft als Standard 
 
 **TMVI (TENDYNE, Valve-in-Ring/Valve):** 6-Monate VKA, danach Entscheidung über weitere Therapie (VKA, DOAC, Beendigung), häufig dauerhafte DOAC/VKA Therapie erforderlich **AV-Klappen:** ASS plus Clopidogrel für 3 Monate, ASS dauerhaft **Indikation für OAK** OAK mono (ggf. in Einzelfällen periprozedural Einmalgabe von 250 mg ASS) 
 
-## **3. LAA-Verschluss** 
+# **3. LAA-Verschluss**
 
 ASS und Clopidogrel für 3 Monate, Kontroll-TEE nach 3 Monaten, anschließend ASS (in Abhängigkeit des Blutungsrisikos) für 12 Monate bis dauerhaft. 
 
-## **4. PFO-Verschluss** 
+# **4. PFO-Verschluss**
 
 ASS und Clopidogrel für 3 Monate (bei nahtbasiertem Verschluss 4 Wochen), ggf. Kontroll-TEE nach 3 Monaten, anschließend ASS für mindestens 12 Monate/dauerhaft (Einzelfallentscheidung). 
 

@@ -16,25 +16,7 @@ Diese SOP gilt für den Röntgen-Thorax-Arbeitsplatz
 |5.0|01.02.2014|Noll, T.|Höhn, T.|||
 |6.0|09.11.2018|Dentzer, J.|Polle, M.|Aktualisierung|09.11.2020|
 
-## **Inhaltsverzeichnis** 
-
-|Änderungen zu Version 7.0 .......................................................................................................................... 3|Änderungen zu Version 7.0 .......................................................................................................................... 3|
 |---|---|
-|Mitgeltende Unterlagen ................................................................................................................................ 4||
-|1.|Ziel und Zweck ................................................................................................................................. 4|
-|2.|Mitgeltende Gesetze, Verordnungen, Leitlinien .............................................................................. 4|
-|3.|Indikation, Kontraindikation ............................................................................................................. 4|
-|4.|Patientenadministration, Patientenvorbereitung .............................................................................. 4|
-|5.|Untersuchungsablauf (schematisch) ............................................................................................... 5|
-|6.|Einstelltechnik .................................................................................................................................. 6|
-|7.|Lagerung .......................................................................................................................................... 6|
-|7.1|Lagerung posterior-anterior (p.a.) .................................................................................................... 6|
-|7.2|Lagerung seitlich .............................................................................................................................. 6|
-|8.|Aufnahmetechnik ............................................................................................................................. 6|
-|9.|Strahlenschutz ................................................................................................................................. 6|
-|10.|Bildverarbeitung, Bildbearbeitung .................................................................................................... 7|
-|11.|Dokumentation, Befundung, Leistungserfassung ............................................................................ 8|
-|12.|Inkrafttreten ...................................................................................................................................... 8|
 
 ## **Änderungen zu Version 7.0** 
 
@@ -46,13 +28,13 @@ _Die digitale Röntgenanforderung wird mit ausgefüllter ROE-Nummer abgeschlosse
 
 SOP145 Anforderung und Befundung von Röntgenaufnahmen SOP058 Hygienehandbuch Liste aller Ärzte mit Fachkunde im Strahlenschutz (im Intranet) 
 
-## **1. Ziel und Zweck** 
+# **1. Ziel und Zweck**
 
 Erstellung einer kontrastreichen Thorax-Übersichtsaufnahme und des Mediastinalraums zur Erkennung von krankhaften Veränderungen oder Abnormitäten. 
 
 Diese Arbeitsanweisung gilt nur für Röntgenuntersuchungen im Stehen von **erwachsenen** Patienten. 
 
-## **2. Mitgeltende Gesetze, Verordnungen, Leitlinien** 
+# **2. Mitgeltende Gesetze, Verordnungen, Leitlinien**
 
 1. Gesetz zum Schutz vor der schädlichen Wirkung ionisierender Strahlung (Strahlenschutzgesetz – StrlSchG) 
 
@@ -60,7 +42,7 @@ Diese Arbeitsanweisung gilt nur für Röntgenuntersuchungen im Stehen von **erwa
 
 3. Leitlinien für die Überweisung zur Durchführung von Bild gebenden Verfahren (Strahlenschutz 118) 4. Leitlinie der Bundesärztekammer zur Qualitätssicherung in der Röntgendiagnostik. Qualitätskriterien röntgendiagnostischer Untersuchungen 
 
-## **3. Indikation, Kontraindikation** 
+# **3. Indikation, Kontraindikation**
 
 ## **Indikation** 
 
@@ -74,7 +56,7 @@ Siehe Leitlinien für die Überweisung zur Durchführung von bildgebenden Verfah
 
 - DA-Untersuchung 
 
-## **4. Patientenadministration, Patientenvorbereitung** 
+# **4. Patientenadministration, Patientenvorbereitung**
 
 ## **Patientenadministration** 
 
@@ -96,21 +78,21 @@ Siehe Leitlinien für die Überweisung zur Durchführung von bildgebenden Verfah
 
 - „Rasta-Zöpfe“ 
 
-## **5. Untersuchungsablauf (schematisch)** 
+# **5. Untersuchungsablauf (schematisch)**
 
-## **6. Einstelltechnik** 
+# **6. Einstelltechnik**
 
 Die automatische Nachlaufsteuerung ist aktiviert. Patientenidentifikation beim Betreten des Raums. 
 
-## **7. Lagerung** 
+# **7. Lagerung**
 
-## **7.1 Lagerung posterior-anterior (p.a.)** 
+## **7.1 Lagerung posterior-anterior (p.a.)**
 
 Patient steht mit der Brust symmetrisch am Wandstativ. Der Detektor wird umfasst, damit sich die Schulterblätter möglichst neben der Thoraxwand einstellen und ein sicherer Halt gegeben ist. Die Schultern werden nach vorne und unten gezogen. 
 
 Zentralstrahl: senkrecht auf Detektormitte Obere Begrenzung: Winkel zwischen Hals und Schulter (ca. 7. HWK) Einblendung: seitlich bis zu den Hautgrenzen Atemkommando: Inspiration 
 
-## **7.2 Lagerung seitlich** 
+## **7.2 Lagerung seitlich**
 
 Patient steht rein seitlich – mit der linken Seite – am Wandstativ und legt die Arme (hält sich fest) an der dafür vorgesehenen Halterung. Bauch etwas einziehen lassen und Oberkörper leicht nach vorne beugen (ähnlich einem Katzenbuckel), Kinn strecken. 
 
@@ -120,7 +102,7 @@ Zentralstrahl: senkrecht auf Detektormitte Längszentralstrahl: durch die vorder
 
 Bei Abweichung vom Standard: Kennzeichnung (z. B. Exspiration) Alle Aufnahmen werden grundsätzlich im Stehen durchgeführt. Nur in Notfällen kann auch im Sitzen geröntgt werden. 
 
-## **8. Aufnahmetechnik** 
+# **8. Aufnahmetechnik**
 
 |**Aufnahme**|**Detektor**|**Fokus**|
 **Raster**|**Abstand cm**|
@@ -135,13 +117,13 @@ Al|250|
 Al|250|
 |40|
 
-## **9. Strahlenschutz** 
+# **9. Strahlenschutz**
 
 - Bleigummiabdeckung der an die Einblendung des Nutzstrahlenfeldes anschließenden Körperabschnitte 
 
-## **10. Bildverarbeitung, Bildbearbeitung** 
+# **10. Bildverarbeitung, Bildbearbeitung**
 
-## **11. Dokumentation, Befundung, Leistungserfassung** 
+# **11. Dokumentation, Befundung, Leistungserfassung**
 
 Die Dokumentation und die Befundung erfolgen im RIS (CardIS). Für jede Aufnahme sind die variablen Daten anzugeben: 
 
@@ -179,7 +161,7 @@ Die Archivierung erfolgt über das hausinterne PACS (ISCV).
 
 Die digitale Röntgenanforderung wird mit ausgefüllter ROE-Nummer abgeschlossen und ist in der digitalen Krankenakte des Patienten gespeichert (Aufbewahrungspflicht). 
 
-## **12. Inkrafttreten** 
+# **12. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

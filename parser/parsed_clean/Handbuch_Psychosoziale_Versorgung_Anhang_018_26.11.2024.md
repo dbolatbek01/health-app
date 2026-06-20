@@ -3,19 +3,17 @@
 
 Teil 2 Anhänge 
 
-## **Inhaltsverzeichnis** 
-
 Anhang 1. Für die psychosoziale Versorgung relevante Passagen aus den Richtlinien der Bundesärztekammer ..................................................................................................................................... 3 Anhang 2. Beurteilungskriterien für die psychosoziale Evaluation nach DGPM/DKPM und Empfehlungen internationaler Fachgesellschaften .............................................................................................................. 13 Anhang 3. Berichtvorlage ............................................................................................................................ 16 Anhang 4. Berichtvorlage mit Satzbausteinen ............................................................................................ 19 Anhang 5. Risikofaktoren für Mortalität und Morbidität und weitere psychosoziale Themenbereiche, Systematik nach DGPM/DKPM ................................................................................................................... 33 Anhang 6. Kontraindikationen nach Richtlinien, Leitlinien und Empfehlungen: Vorgehensweise am DHZC ..................................................................................................................................................................... 58 Anhang 7. Kurzübersicht der S3-LL „Screening, Diagnose und Behandlung alkoholbezogener Störungen“ und Vorgehensweise am DHZC .................................................................................................................. 61 Anhang 8. Kurzübersicht der S3-LL “ Rauchen und Tabakabhängigkeit: Screening, Diagnostik und Behandlung” und Vorgehensweise am DHZC ............................................................................................ 66 Anhang 9. Positionspapier zur Aufnahme von Sprachmittlung in den Leistungskatalog der Gesetzlichen Krankenkassen (GKV) bzw. ins SGB V ....................................................................................................... 74 Anhang 10. Übersetzung des Artikels „Transplantatiepatiënten: psychologische evaluatie en begeleiding“ (C. Poppe, 2014) aus dem Niederländischen ............................................................................................. 84 
 
 ## **Anhang 1. Für die psychosoziale Versorgung relevante Passagen aus den** 
 
 ## **Richtlinien der Bundesärztekammer** 
 
-## **1. Auszüge der Richtlinie für die Wartelistenführung und Organvermittlung zur Lungentransplantation** 
+# **1. Auszüge der Richtlinie für die Wartelistenführung und Organvermittlung zur Lungentransplantation**
 
 DOI:10.3238/arztebl.2023.RiliOrgaWlOvLungeTx20230121 
 
-## **1.1 Behandlungsadhärenz** 
+## **1.1 Behandlungsadhärenz**
 
 **A.I.4:** „[…] Auch unzureichende oder sogar fehlende Adhärenz, d. h. die mangelnde Übereinstimmung des Verhaltens des Patienten mit den vereinbarten Behandlungszielen und -wegen, kann eine Kontraindikation begründen. Adhärenz eines potentiellen Organempfängers erfasst über seine Zustimmung zur Transplantation hinaus seine Bereitschaft und Möglichkeit, an den erforderlichen Vor- und Nachuntersuchungen und -behandlungen mitzuwirken. Die Adhärenz kann im Laufe der Zeit schwanken, wofür es unterschiedliche krankheitsbezogene, therapiebezogene, gesundheitssystembedingte, sozioökonomische und patientenbezogene Gründe geben kann, die nicht allein in der Verantwortung des Patienten liegen. Bei Hinweisen auf Non-Adhärenz muss ärztlicherseits das Thema offen und vorwurfsfrei angesprochen werden. Mögliche Barrieren sind zu identifizieren und die Verbesserung der Adhärenz ist als gemeinsames Ziel zu definieren. Gemeinsam mit dem Patienten sind individuell passende Strategien festzulegen, regelmäßig zu evaluieren und ggf. anzupassen. Anhaltende Non-Adhärenz schließt die Transplantation aus. Bevor die Aufnahme in die Warteliste aus diesem Grund durch die Transplantationskonferenz endgültig abgelehnt wird, ist die Stellungnahme eines Mental Health Professionals[1] einzuholen und in die Entscheidung zur Aufnahme in die Warteliste durch die interdisziplinäre Transplantationskonferenz einzubeziehen. Auch nach der Aufnahme in die Warteliste sowie nach der Transplantation muss die Adhärenz im Rahmen der Kontrolluntersuchungen evaluiert werden. Die behandelnden Ärzte müssen stets auf die Adhärenz achten und Behandlungsziele und -wege ggf. erneut ansprechen.“ 
 
@@ -27,7 +25,7 @@ Anhang 1. Für die psychosoziale Versorgung relevante Passagen aus den Richtlini
 
 immunsuppressiven Medikation kann mit einem erhöhten Risiko von Abstoßungsreaktionen und erhöhter Mortalität verbunden sein. Dies trifft auch für das Nichteinhalten ärztlicher Gesundheitsempfehlungen wie Ernährung, körperliche Aktivität, Substanzkonsum, Termineinhaltung, Überwachen eigener Vitalfunktionen (Blutdruck, Lungenfunktion) und die Durchführung notwendiger diagnostischer Tests zu. Mögliche Adhärenzbarrieren sollten Anlass zur weiteren Klärung und Vereinbarung individueller Therapieanpassung mit dem Patienten geben [AT3–AT14]. Für die psychosozial behandelnden Berufsgruppen im engeren Sinn gibt es im deutschen Sprachraum keinen zusammenfassenden Begriff. In dieser Richtlinie wird daher der im angloamerikanischen Sprachraum gebräuchliche Terminus des „Mental Health Professionals“ (MHP) verwandt, der Fachkräfte mit den in der Fußnote Nr. 1 genannten Qualifikationen einschließt.“ 
 
-## **1.2 Aufnahme in die Warteliste zur Organtransplantation** 
+## **1.2 Aufnahme in die Warteliste zur Organtransplantation**
 
 **A.I.5** : „Die Entscheidung über die Aufnahme eines Patienten in die Warteliste, ihre Führung sowie über die Abmeldung eines Patienten trifft eine ständige, interdisziplinäre und organspezifische Transplantationskonferenz des Transplantationszentrums. Dies erfolgt im Rahmen des jeweiligen Behandlungsspektrums und unter Berücksichtigung der individuellen Situation des Patienten. […] Die Mitglieder der interdisziplinären Transplantationskonferenz sind der Vermittlungsstelle namentlich zu benennen und sind für alle vermittlungsrelevanten Meldungen und Entscheidungen verantwortlich. Sie unterzeichnen insbesondere die Entscheidung über die Aufnahme eines Patienten in die Warteliste und übermitteln das Dokument als Grundlage für die Anmeldung der Vermittlungsstelle. Die ärztliche Leitung des Klinikums ist darüber zugleich schriftlich, einschließlich eventuell abweichender Stellungnahmen, in Kenntnis zu setzen. Diese kann ggf. ein Votum einer externen Transplantationskonferenz einholen.“ 
 
@@ -47,7 +45,7 @@ Anhang 1. Für die psychosoziale Versorgung relevante Passagen aus den Richtlini
 
 **A.II.1.f** : „Chancengleichheit der Organzuteilung bedeutet zum einen, dass die Aussicht auf ein vermitteltes Organ insbesondere nicht von Wohnort, sozialem Status, finanzieller Situation und der Aufnahme in die Warteliste eines bestimmten Transplantationszentrums abhängen darf. Zum anderen sollen schicksalhafte Nachteile möglichst ausgeglichen werden. Dem dienen unter anderem die Berücksichtigung der Wartezeit und die relative Bevorzugung von Patienten mit einer seltenen Blutgruppe oder bestimmten medizinischen Merkmalen wie seltene Gewebeeigenschaften und Unverträglichkeiten.“ 
 
-## **1.3 Zusammensetzung der Transplantationskonferenz** 
+## **1.3 Zusammensetzung der Transplantationskonferenz**
 
 **A.III.1.2** : „Eine beschlussfähige Transplantationskonferenz (s. I Nr. 5) besteht für den Bereich der Lungentransplantation aus fünf stimmberechtigten Mitgliedern. Der interdisziplinären Transplantationskonferenz gemäß dieser Richtlinie gehören an: 
 
@@ -69,7 +67,7 @@ jeweils ein
 
 **b.II.2.1** : „[…] Ebenfalls unabdingbar ist die Beteiligung eines Facharztes für Psychosomatische Medizin und Psychotherapie, eines Facharztes für Psychiatrie und Psychotherapie oder eines Psychologischen Psychotherapeuten. Mit den weiter differenzierten Kriterien für die Aufnahme in die Warteliste und der Betreuung während der Wartezeit sind die spezifischen Kenntnisse dieser Fachgruppe für die Beurteilung des Patienten vor und nach der Transplantation von zentraler Bedeutung. Im Gesamtkonzept ist es notwendig, die Bedeutung weiterer Disziplinen wie der Intensivmedizin, der Pflege und der Transplantationskoordination zu stärken.“ 
 
-## **1.4 Gründe für die Aufnahme auf die Warteliste** 
+## **1.4 Gründe für die Aufnahme auf die Warteliste**
 
 **A.III.2** : „Eine Lungentransplantation kann angezeigt sein bei nicht rückbildungsfähiger, fortschreitender, das Leben des Patienten gefährdender Lungenerkrankung, wenn keine akzeptable Behandlungsalternative besteht, die Erkrankung durch die Transplantation mit hinreichender Aussicht auf Erfolg behandelt werden kann und keine Gegenanzeigen gegen eine Transplantation vorliegen. Patienten können in die Warteliste zur Lungentransplantation aufgenommen werden, wenn die Überlebenswahrscheinlichkeit oder die Lebensqualität nach Einschätzung der interdisziplinären Transplantationskonferenz mit Transplantation größer ist als ohne. […] Aufgrund der Häufigkeit von psychischen Begleiterkrankungen bei potentiellen 
 
@@ -79,7 +77,7 @@ Empfängern zur Lungentransplantation, die in die Warteliste aufgenommen werden 
 
 **b.II.2.2** : „[…] In internationalen Studien zur Häufigkeit psychischer Begleiterkrankungen mit negativen Auswirkungen auf den Transplantationserfolg bei Lungenpatienten zum Zeitpunkt der Aufnahme in die Warteliste variiert der Anteil von Patienten mit psychischen Störungen zwischen einem Viertel (25 %) und mehr als zwei Drittel (67,6 %) (14, 44). Im Vordergrund stehen in zwei Arbeiten mit 113 Wartelistenpatienten und 155 Lungentransplantierten Angststörungen und depressive Störungen je mit bis zu 40 % (18, 44), in 16 % waren sogar beide Störungen gleichzeitig vorhanden. Psychische Begleiterkrankungen nach Transplantation waren bei 3 von 4 Patienten bereits vor Lungentransplantation beschrieben (44). Aufgrund dieses hohen Anteils an Patienten mit psychischen Begleiterkrankungen ist eine psychosoziale Evaluation bei allen Patienten vor einer Aufnahme in die Warteliste zur Lungentransplantation dringend erforderlich. Die hier notwendige fachgerechte Diagnostik dieser in der Regel sehr komplexen Störungen muss in Form intensiver klinisch- psychodiagnostischer Interviews durch einen Facharzt für Psychosomatische Medizin und Psychotherapie, einen Facharzt für Psychiatrie und Psychotherapie oder einen Psychologischen Psychotherapeuten durchgeführt werden. Für eine standardisierte Zusammenfassung der Ergebnisse der Interviews sollten standardisierte Verfahren herangezogen werden. Bei Leber- und Lungentransplantierten wurde hier vielfach die „Transplant Evaluation Rating Scale“ (TERS) eingesetzt (19, 47). Mit der TERS werden 10 Dimensionen (u. a. psychische Erkrankungen, Substanzmissbrauch, Adhärenz, Gesundheitsverhalten, familiäre/soziale Unterstützung und Bewältigungsstrategien) abgebildet, die nach Experteneinschätzung für die erfolgreiche Bewältigung der Herausforderungen vor und nach einer Transplantation bedeutsam sind. Diese Skala kann zur standardisierten Ergebniszusammenfassung empfohlen werden und sie ist auch dazu geeignet, Ergebnisse zwischen verschiedenen Zentren zu vergleichen. Es liegen einige Studien zur Zuverlässigkeit dieses Instruments vor, die zufriedenstellende Ergebnisse erbracht haben. In der klinischen Praxis hat sich die TERS durchaus als ein nützliches Instrument erwiesen, welches die psychosoziale Evaluation der Transplantationskandidaten mit wertvollen Erkenntnissen ergänzt und unterstützt. Das Ergebnis dieser Skala in einem Summenwert zusammenzufassen und einen kritischen Wert (Cut-off-Wert) als ein Maß für die Akzeptanz eines Patienten als geeigneten Transplantationskandidaten zu definieren, ist aufgrund der Studienlage allerdings derzeit nicht begründbar (18, 44).“ 
 
-## **1.5 Einschränkungen der Aufnahme in die Warteliste** 
+## **1.5 Einschränkungen der Aufnahme in die Warteliste**
 
 **A.III.3** : „Generell muss die Entscheidung zur Aufnahme in die Warteliste im Kontext von allgemeinen Risiken operativer Eingriffe bewertet werden. Hierzu zählen beispielsweise ausgeprägte Adipositas, schwere muskuläre Dekonditionierung ohne Rehabilitationspotential, kardiovaskuläre u. a. Begleiterkrankungen. Darüber hinaus können die im Folgenden (s. III.3.1 – III.3.4) genannten Befunde, Erkrankungen oder Umstände das Operationsrisiko erheblich erhöhen oder den längerfristigen Erfolg der Transplantation in Frage stellen. In begründeten Ausnahmefällen kann in solchen Fällen in Abwägung von Dringlichkeit und Erfolgsaussicht einer Transplantation die interdisziplinäre Transplantationskonferenz (s. III.1) entscheiden, dennoch die Aufnahme des Patienten in die Warteliste zu befürworten. Da solche Entscheidungen für die Weiterentwicklung der Richtlinie von Bedeutung sein können, ist die Ständige Kommission Organtransplantation besonders in den im Folgenden genannten Fällen unverzüglich von der Entscheidung der Aufnahme in die Warteliste zu unterrichten: 
 
@@ -93,7 +91,7 @@ Empfängern zur Lungentransplantation, die in die Warteliste aufgenommen werden 
 
 Anhang 1. Für die psychosoziale Versorgung relevante Passagen aus den Richtlinien der Bundesärztekammer 
 
-## **1.6 Schädlicher Substanzgebrauch und Abhängigkeitssyndrome** 
+## **1.6 Schädlicher Substanzgebrauch und Abhängigkeitssyndrome**
 
 **A.III.3.1** : „Für eine Lungentransplantation relevante schädliche Substanzen sind v. a. der Tabakrauch, Cannabis, Alkohol, Kokain, Opiate u. a. psychoaktive Substanzen mit Abhängigkeitspotential. Zur Beurteilung eines möglichen schädlichen Gebrauchs bzw. Abhängigkeitssyndroms, der Bereitschaft und der Fähigkeit des Patienten, sich an Behandlungsabsprachen zu halten, wird eine Stellungnahme (Facharzt für Psychosomatische Medizin und Psychotherapie, Facharzt für Psychiatrie und Psychotherapie oder Psychologischer Psychotherapeut, jeweils mit hinreichender Erfahrung im Bereich der Transplantationspsychologie/-psychosomatik/psychiatrie), unter Berücksichtigung der aktuell vorhandenen Laborparameter zum Nachweis der entsprechenden schädlichen Substanz eingeholt. Diese Stellungnahme enthält auch Vorschläge zur weiteren suchttherapeutischen Betreuung und Behandlung. Es sollen psychotherapeutische Hilfestellungen, z. B. ambulante oder stationäre Tabakrauch- oder Alkoholentwöhnungsprogramme, ggf. bei Tabakrauchen auch medikamentöse Unterstützungsverfahren (z. B. Nikotinersatzpräparate, Bupropion, Vareniclin) angeboten werden. Diese Patienten sollten nach erfolgreicher Therapie die Möglichkeit bekommen, am jeweiligen Zentrum für die Transplantation erneut beurteilt zu werden. Bei der psychischen Untersuchung sollen dem Patienten auch mögliche Ansprechpartner im Falle späterer Belastungssituationen, z. B. während der Wartezeit oder unmittelbar nach Transplantation, genannt werden. Der Ausschluss von der Transplantation aufgrund von fortbestehendem Konsum von Suchtmitteln ist in der Regel vorübergehender Natur. Sollte ein anamnestisch festgestellter schädlicher Substanzgebrauch bzw. ein Abhängigkeitssyndrom (z. B. Rauchen, Alkohol, andere schädliche Substanzen) vorliegen, erfolgt die Aufnahme in die Warteliste erst dann, wenn der Patient für mindestens 6 Monate Abstinenz eingehalten hat. Die Verantwortung der Beurteilung der Abstinenz liegt beim Transplantationszentrum. Der Nachweis ist laborchemisch zu unterstützen. Als Laborparameter zur Beurteilung fortgesetzten Rauchens dient der Nachweis von Cotinin im Serum oder Urin, zur Beurteilung des Alkoholkonsums dienen Ethylglucuronid im Urin oder Phosphatidylethanol im Blut. In gleicher Weise helfen Urinmetabolite beim Nachweis des schädlichen Gebrauchs (bzw. Abhängigkeitssyndroms) anderer schädlicher Substanzen ebenso wie die toxikologische Analyse ungebleichter Haarproben ausreichender Länge. Patienten mit schädlichem Gebrauch und Abhängigkeitssyndrom in der Vorgeschichte sollen nur bei negativem laborchemischem Nachweis der entsprechenden Substanzen in die Warteliste aufgenommen werden. Labor- und Verhaltenskontrollen sollen bei schädlichem Gebrauch bzw. Abhängigkeitssyndromen in der Vorgeschichte auch in der Warteliste mindestens jährlich erfolgen. Bei Hinweis auf fortgesetzten Konsum schädlicher Substanzen ist der Patient „nicht transplantabel“ (NT) zu melden und erneut zu evaluieren. Diese Evaluation beinhaltet eine erneute transplantationsbezogene psychologische Diagnostik und ggf. therapeutische Intervention.“ 
 
@@ -123,11 +121,11 @@ Anhang 1. Für die psychosoziale Versorgung relevante Passagen aus den Richtlini
 
 Anhang 1. Für die psychosoziale Versorgung relevante Passagen aus den Richtlinien der Bundesärztekammer 
 
-## **2. Auszüge der Richtlinie für die Wartelistenführung und Organvermittlung zu Herz- und Herz-Lungentransplantation** 
+# **2. Auszüge der Richtlinie für die Wartelistenführung und Organvermittlung zu Herz- und Herz-Lungentransplantation**
 
 DOI:10.3238/arztebl.2023.RiliOrgaWlOvHerzTx20230121 
 
-## **2.1 Behandlungsadhärenz** 
+## **2.1 Behandlungsadhärenz**
 
 **A.I.4** .: „[…] Auch unzureichende oder sogar fehlende Adhärenz, d. h. die mangelnde Übereinstimmung des Verhaltens des Patienten mit den vereinbarten Behandlungszielen und -wegen, kann eine Kontraindikation begründen. Adhärenz eines potentiellen Organempfängers erfasst über seine Zustimmung zur Transplantation hinaus seine Bereitschaft und Möglichkeit, an den erforderlichen Vorund Nachuntersuchungen und -behandlungen mitzuwirken. Die Adhärenz kann im Laufe der Zeit schwanken, wofür es unterschiedliche krankheitsbezogene, therapiebezogene, gesundheitssystembedingte, sozioökonomische und patientenbezogene Gründe geben kann, die nicht allein in der Verantwortung des Patienten liegen. Bei Hinweisen auf Non-Adhärenz muss ärztlicherseits das Thema offen und vorwurfsfrei angesprochen werden. Mögliche Barrieren sind zu identifizieren und die Verbesserung der Adhärenz ist als gemeinsames Ziel zu definieren. Gemeinsam mit dem Patienten sind individuell passende Strategien festzulegen, regelmäßig zu evaluieren und ggf. anzupassen. Anhaltende Non-Adhärenz schließt die Transplantation aus. Bevor die Aufnahme in die Warteliste aus diesem Grund durch die Transplantationskonferenz endgültig abgelehnt wird, ist die Stellungnahme eines Mental Health Professionals[1] einzuholen und in die Entscheidung zur Aufnahme in die Warteliste durch die interdisziplinäre Transplantationskonferenz einzubeziehen. Auch nach der Aufnahme in die Warteliste sowie nach der Transplantation muss die Adhärenz im Rahmen der Kontrolluntersuchungen evaluiert werden. Die behandelnden Ärzte müssen stets auf die Adhärenz achten und Behandlungsziele und - wege ggf. erneut ansprechen.“ 
 
@@ -139,7 +137,7 @@ Anhang 1. Für die psychosoziale Versorgung relevante Passagen aus den Richtlini
 
 gebräuchliche Terminus des „Mental Health Professionals“ (MHP) verwandt, der Fachkräfte mit den in der Fußnote Nr. 1 genannten Qualifikationen einschließt.“ 
 
-## **2.2 Aufnahme in die Warteliste zur Organtransplantation** 
+## **2.2 Aufnahme in die Warteliste zur Organtransplantation**
 
 **A.I.5:** „Die Entscheidung über die Aufnahme eines Patienten in die Warteliste, ihre Führung sowie über die Abmeldung eines Patienten trifft eine ständige, interdisziplinäre und organspezifische Transplantationskonferenz des Transplantationszentrums. Dies erfolgt im Rahmen des jeweiligen Behandlungsspektrums und unter Berücksichtigung der individuellen Situation des Patienten. […] Die Mitglieder der interdisziplinären Transplantationskonferenz sind der Vermittlungsstelle namentlich zu benennen und sind für alle vermittlungsrelevanten Meldungen und Entscheidungen verantwortlich. Sie unterzeichnen insbesondere die Entscheidung über die Aufnahme eines Patienten in die Warteliste und übermitteln das Dokument als Grundlage für die Anmeldung der Vermittlungsstelle. Die ärztliche Leitung des Klinikums ist darüber zugleich schriftlich, einschließlich eventuell abweichender Stellungnahmen, in Kenntnis zu setzen. Diese kann ggf. ein Votum einer externen Transplantationskonferenz einholen.“ 
 
@@ -159,7 +157,7 @@ Anhang 1. Für die psychosoziale Versorgung relevante Passagen aus den Richtlini
 
 **A.II.1.f** : „Chancengleichheit der Organzuteilung bedeutet zum einen, dass die Aussicht auf ein vermitteltes Organ insbesondere nicht von Wohnort, sozialem Status, finanzieller Situation und der Aufnahme in die Warteliste eines bestimmten Transplantationszentrums abhängen darf. Zum anderen sollen schicksalhafte Nachteile möglichst ausgeglichen werden. Dem dienen unter anderem die Berücksichtigung der Wartezeit und die relative Bevorzugung von Patienten mit einer seltenen Blutgruppe oder bestimmten medizinischen Merkmalen wie seltene Gewebeeigenschaften und Unverträglichkeiten“. 
 
-## **2.3 Zusammensetzung der Transplantationskonferenz** 
+## **2.3 Zusammensetzung der Transplantationskonferenz**
 
 **A.III.3.1** : „Der interdisziplinären Transplantationskonferenz nach Kapitel I. Ziff. 5 des Allgemeinen Teils dieser Richtlinien gehören an: 
 
@@ -3853,7 +3851,7 @@ Eine stationäre Behandlung in Form einer körperlichen Entgiftung oder qualifiz
 
 1. (zu erwartende) schwere Entzugssymptome 
 
-## 2. **schwere und multiple somatische oder psychische Begleit- oder Folgeerkrankungen** 
+# 2. **schwere und multiple somatische oder psychische Begleit- oder Folgeerkrankungen**
 
 3. Suizidalität 
 
@@ -3961,7 +3959,7 @@ Bei allen Transplantationspatienten am DHZC soll in jedem psychologischen Gespr�
 
 - f) Älteren Personen (50+) sollen eher intensivere Behandlungsformen der Tabakabhängigkeit (kombinierte Methoden incl. psychologischer Beratung, Medikation und langfristiger Begleitung) angeboten werden. Empfehlungsgrad: A, LoE: 1b (aus systematischer Recherche) 
 
-## **1. Motivationsbehandlung und Kurzinterventionen** 
+# **1. Motivationsbehandlung und Kurzinterventionen**
 
 - a) In der medizinischen, pflegerischen und psychosozialen Gesundheitsversorgung soll Kurzberatung für Raucherinnen und Raucher zur Erreichung des Rauchstopps angeboten werden. Empfehlungsgrad: A LoE: 1a (aus systematischer Recherche) 
 
@@ -3979,7 +3977,7 @@ Bei allen Transplantationspatienten am DHZC soll in jedem psychologischen Gespr�
 
 Anhang 8. Kurzübersicht S3-LL “ Rauchen und Tabakabhängigkeit: Screening, Diagnostik und Behandlung” / Vorgehensweise am DHZC 
 
-## **2. Harm Reduction** 
+# **2. Harm Reduction**
 
 - a) E-Zigaretten sollten zur Reduktion des Zigarettenkonsums nicht angeboten werden. Empfehlungsgrad: KKP 
 
@@ -3987,7 +3985,7 @@ Anhang 8. Kurzübersicht S3-LL “ Rauchen und Tabakabhängigkeit: Screening, Di
 
 - c) Raucherinnen und Rauchern, die ihren Tabakkonsum reduzieren wollen, ihn aber nicht aufgeben wollen oder aufgeben können, sollte als Hilfeleistung Nikotinersatztherapie angeboten werden. Empfehlungsgrad: B LoE: 1a 
 
-## **3. Psychotherapeutische Interventionen** 
+# **3. Psychotherapeutische Interventionen**
 
 - a) Verhaltenstherapeutische Gruppeninterventionen zur Erreichung der Tabakabstinenz sollen in der medizinischen, psychotherapeutischen und psychosozialen Gesundheitsversorgung angeboten werden. Empfehlungsgrad: A LoE: 1a 
 
@@ -3997,7 +3995,7 @@ Anhang 8. Kurzübersicht S3-LL “ Rauchen und Tabakabhängigkeit: Screening, Di
 
 - d) Bei Personen mit hoher Tabakabhängigkeit sollen bei vorliegender Indikation (z.B. Tabakentzugssyndrom) bzw. Bedarf Kombinationstherapien aus Psychotherapie und Pharmakotherapie angeboten werden. Empfehlungsgrad: A LoE: 1a 
 
-## **4. Arzneimittel zur Entzugsbehandlung und Rückfallprophylaxe** 
+# **4. Arzneimittel zur Entzugsbehandlung und Rückfallprophylaxe**
 
 - a) Der Einsatz der Nikotinersatztherapie (Nikotinkaugummi, Nikotininhaler, Nikotinlutschtablette, Nikotinnasalspray, Nikotinmundspray und Nikotinpflaster) soll angeboten werden. Empfehlungsgrad: A LoE: 1a 
 
@@ -4075,11 +4073,11 @@ Poppe, C. (2014). Transplantatiepatiënten: psychologische evaluatie en begeleid
 
 (Übersetzt durch Ferentzi, H.) 
 
-## **1. Einleitung** 
+# **1. Einleitung**
 
 In Anbetracht dem zunehmenden Erfolg von Transplantationen und der anhaltenden Knappheit von Spenderorganen ist ein gutes Screening der in Frage kommenden Patienten wichtig. Nebst medizinischen und klinischen Faktoren spielt die mentale und psychologische Funktionsfähigkeit eine zunehmende Rolle. Eine gute Diagnostik von psychologischen Risikofaktoren vor einer Transplantation hat einen wichtigen Einfluss auf die Behandlungsadhärenz und damit auf die Reduktion der Mortalität. Die Inzidenz von Schwierigkeiten mit der Behandlungsadhärenz wird auf 20%-50% geschätzt. Darüber hinaus gibt es verschiedene Studien, die zeigen, dass ein gutes, diagnostisches psychologisches Screening in Hinblick auf Stress und Coping wichtig ist, da beide Faktoren die Lebensqualität und das medizinische Outcome stark beeinflussen. Trotz der Tatsache, dass dies wiederholt aufgezeigt wurde, gibt es bisher keine Eindeutigkeit, was die Kriterien der psychologischen Beurteilung betrifft. Dennoch werden an den meisten Zentren die Patienten neben einer vollständigen medizinischen Evaluation auch eine psychosoziale Evaluation erhalten. 
 
-## **2. Psychodiagnostische Evaluation** 
+# **2. Psychodiagnostische Evaluation**
 
 Im Transplantationszentrum des UZ Gent wird diese Evaluation durch einen Psychologen (ein Psychologe des Zentrums) durchgeführt und besteht aus einer ausführlichen Anamnese, ggf. ergänzt durch standardisierte, diagnostische Fragebögen. In der Anamnese werden Informationen zu Krankheitsgeschichte, Gesundheitsverhalten, Behandlungsadhärenz, Alkohol-, Medikamenten-, Drogengebrauch, sozialem und professionellem Kontext, psychiatrischer Vorgeschichte und heutigem mentaler Zustand gesammelt. Die ergänzenden diagnostischen Fragebögen werden eingesetzt um die Diagnostik zu präzisieren, indem ein Vergleich zu einer Normgruppe gezogen wird in Bezug auf depressive, Angstsymptome, Krankheitskognitionen und Coping, gesundheitsbezogene Lebensqualität usw. Gegebenenfalls macht eine erneute Fragebogenerhebung nach der Transplantation Sinn. Zielstellung der psychologischen Evaluation ist die Evaluation von Coping, die Diagnostik von Psychopathologien und die Untersuchung der Motivation, sich einer Transplantation zu unterziehen. 
 
@@ -4133,7 +4131,7 @@ Vor der Transplantation macht sich der Psychologe ein Bild davon, inwiefern die 
 
 Anhang 10. Übersetzung des Artikels „Transplantatiepatiënten: psychologische evaluatie en begeleiding“ (C. Poppe, 2014) aus dem Niederländischen 
 
-## **3. Umgang mit dem Leben als Transplantierte Person** 
+# **3. Umgang mit dem Leben als Transplantierte Person**
 
 Im Moment einer psychodiagnostischen Evaluation wird dem Leben nach der Transplantation und den entsprechenden Richtlinien bereits viel Aufmerksamkeit geschenkt. Es wird empfohlen, die Patienten während des gesamten Prozesses (sowohl vor als auch nach der Transplantation) psychologisch zu begleiten, vor allem, weil dies einen positiven Effekt auf die Lebensqualität der Patienten hat. Bei einer Befragung von Leberpatienten, die in Frage kommen für eine Transplantation, gibt fast die Hälfte an, diese Art der Unterstützung zu benötigen. In der Praxis ergibt sich die psychologische Begleitung bei Nachfrage des Patienten oder der Angehörigen, dem behandelnden Arzt oder bei entsprechender Notwendigkeit (lange Krankenhausaufenthalte, vorab bestehende Psychopathologie etc.). 
 
@@ -4173,7 +4171,7 @@ Anhang 10. Übersetzung des Artikels „Transplantatiepatiënten: psychologische
 
 Prädiktoren für das Ergebnis einer Transplantation sind als klinische und soziodemographische Faktoren und eine multidisziplinäre Betreuung stark empfohlen wird, bleiben Studien zu den Effekten einer psychologischen Begleitung und Therapie beschränkt bis nahezu nicht existent. Dies ist einerseits dem Umstand geschuldet, dass eine objektive Messung (durch die Abhängigkeit von Selbstreport) und andererseits der Herausforderung, welche Parameter ausschlaggebend sind. Es gibt Strömungen, die davon ausgehen, dass die therapeutischen Techniken ausschlaggebend sind, während andere die Betonung auf die Person des Therapeuten oder die therapeutische Beziehung legen. Zukünftige Studien sind notwendig. Zum Schluss muss betont werden, dass die Begleitung eines Patienten der den Umgang mit dem Leben eines Transplantierten lernen muss ein multidisziplinäres Unterfangen ist, wo alle Teammitglieder einen Beitrag liefern müssen. Die Autoren denken, dass die psychodiagnostische Evaluation vor der Transplantation einen wesentlichen Beitrag liefert, eine gute maßgeschneiderte Begleitung nach der Transplantation durch das ganze Team zu ermöglichen. 
 
-## **4. Diskussion** 
+# **4. Diskussion**
 
 Durch die psychologische Evaluation von Transplantationspatienten darzustellen, haben die Autoren dargestellt warum diese einen essentiellen Teil der Behandlung ausmacht. Wichtig ist hierbei, dass die psychologische Evaluation keine Schwarz-Weiß Entscheidungen ermöglicht über das Verhalten des Patienten in der Zukunft, entgegengesetzt der Erwartungen von Transplantationsmitarbeitern zum Beispiel in Hinblick auf Abstinenz. Eine diagnostische Evaluation ist eine „aktuelle Sachlage“ über das psychologische Funktionieren von Patienten und die Motivation zu gesundem Verhalten. Man muss davon ausgehen, dass Menschen sich in konstanter Veränderung befinden und lernen, wodurch das Verhalten in Bezug auf die Gesundheit eine Evolution durchlaufen kann durch entsprechende Begleitung. Darum ist die wichtigste Folge einer guten, psychologischen Evaluation nicht das Stellen von Kontraindikationen, sondern die Tatsache, dass eine Behandlung oder Begleitung auf Maß bereitgestellt werden kann, die den Patienten auf den Eingriff vorbereitet und ihn durch den Prozess begleiten kann. Zugleich muss jedoch realisiert werden, dann das Motivieren zu Behandlungsadhärenz und ein gutes Gesundheitsverhalten (essentielle Elemente dieser Herangehensweise) manchmal erschwert wird durch Faktoren, die nicht so einfach modifizierbar sind, bspw. die Persönlichkeit oder Psychopathologie des Patienten. Es ist wichtig, dass der Effekt der psychologischen Behandlung und die ausschlaggebenden Parameter mehr untersucht werden, um die Bedeutung wissenschaftlich untermauern zu können. 
 

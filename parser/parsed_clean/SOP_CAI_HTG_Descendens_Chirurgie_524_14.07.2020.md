@@ -7,55 +7,27 @@ Descendens-Chirurgie
 
 **Geltungsbereich** Institut für Anästhesiologie 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Indikationen / Art der chirurgischen Eingriffe ................................................................................... 3|
 |---|---|
-|1.1|Thorakales Aortenaneurysma / Aneurysma der Aorta descendens (TAA) ..................................... 3|
-|1.2|Typ-B-Dissektion ............................................................................................................................. 3|
-|1.3|Bauchaortenaneurysma / Abdominelles Aortenaneurysma (BAA) ................................................. 3|
-|2.|OP-Vorbereitung .............................................................................................................................. 3|
-|3.|Narkoseeinleitung ............................................................................................................................ 4|
-|4.|(Gefäß-)Zugänge ............................................................................................................................. 4|
-|4.1|Arterielle Druckmessung.................................................................................................................. 4|
-|4.2|Zentralvenöse Katheter ................................................................................................................... 4|
-|4.3|Magensonde .................................................................................................................................... 5|
-|4.4|Temperaturmessung ........................................................................................................................ 5|
-|5.|Neuromonitoring .............................................................................................................................. 5|
-|6.|Spinalkatheter .................................................................................................................................. 5|
-|7.|TEE .................................................................................................................................................. 5|
-|7.1|TAAE:............................................................................................................................................... 5|
-|7.2|Typ-B-Dissektion: ............................................................................................................................ 5|
-|7.3|BAE .................................................................................................................................................. 6|
-|8|Intraoperatives Management ........................................................................................................... 6|
-|8.1|Hämodynamik .................................................................................................................................. 6|
-|8.2|Gerinnungsmanagement ................................................................................................................. 7|
-|8.3|Temperaturmanagement ................................................................................................................. 7|
-|8.4|Nierenfunktion .................................................................................................................................. 7|
-|8.5|Engmaschige BGA-/BZ-Kontrollen .................................................................................................. 7|
-|8.6|Besonderheiten bei DHCA............................................................................................................... 7|
-|8.7|Gerinnungsmanagement nach DHCA ............................................................................................. 8|
-|9.|Inkrafttreten ...................................................................................................................................... 8|
 
 Aus Gründen der besseren Lesbarkeit wird die männliche Schreibform verwendet. Es werden jedoch alle Geschlechter gleichermaßen angesprochen. 
 
-## **1. Indikationen / Art der chirurgischen Eingriffe** 
+# **1. Indikationen / Art der chirurgischen Eingriffe**
 
-## **1.1 Thorakales Aortenaneurysma / Aneurysma der Aorta descendens (TAA)** 
+## **1.1 Thorakales Aortenaneurysma / Aneurysma der Aorta descendens (TAA)**
 
 Einteilung nach Crawford, Versorgung operativ (Thorakoabdomineller Aortenersatz, TAAE) mittels Rohrprothese oder Homograft oder interventionell (thoracic endovascular aortic repair, TEVAR); Entscheidung abhängig von u. a. der Konfiguration und Ausdehnung des Aneurysmas sowie der Möglichkeit der Schaffung einer proximalen „Landing Zone“ für die sichere Stent-Implantation (z. B. Carotis-Subclavia-Bypass bei geplanter Überstentung der A. subclavia sin.), je nach Eingriff hohes Risiko (bei Notfalleingriffen bis 40 %) für eine postoperative Paraplegie durch eine spinale Ischämie („Spinalis-Anterior-Syndrom“); daher bei TAAE regelhaft Anlage eines Spinalkatheters und intraoperatives Neuromonitoring mittels evozierter Potentiale, bei TEVAR nach Indikationsstellung durch Operateur; 
 
 Operatives Vorgehen bei TAAE: i. d. R. Operation in Normothermie mit HLM-assistierter, distaler Perfusion via femoraler Kanülierung links und selektiver Organperfusion; bei fehlender Möglichkeit des proximalen Abklemmes der Aorta descendens ggf. Operation in tiefer Hypothermie mit HerzKreislaufstillstand (deep hypothermic cardiac arrest, DHCA) 
 
-## **1.2 Typ-B-Dissektion** 
+## **1.2 Typ-B-Dissektion**
 
 (Stanford-Klassifikation): häufig dringliche Operation bei sekundären Organminderperfusionen, i. d. R. TEVAR, ggf. mit Carotis-Subclavia-Bypass 
 
-## **1.3 Bauchaortenaneurysma / Abdominelles Aortenaneurysma (BAA)** 
+## **1.3 Bauchaortenaneurysma / Abdominelles Aortenaneurysma (BAA)**
 
 Einteilung in infrarenal (ca. 95 %) und para-/suprarenal (juxtarenal) (ca. 5 %), Operation durch Ersatz mittels Rohrprothese oder Y-Prothese mit biiliacaler Anastomose (Bauchaortenersatz, BAE, u. U. auch mit Homograft) oder interventionell (endovascular aortic repair, EVAR); prinzipielle OP-Indikation: Durchmesser >5,5 cm, schnelles Wachstum ≥0,5 cm/6 Monate, ≥1 cm/12 Monate, Mitbeteiligung peripherer Arterien, symptomatisches oder rupturiertes Aneurysma; i. d. R. hohes kardiovaskuläres Risiko (perioperative Mortalität bei elektiven Eingriffen: BAE 3 - 5%, EVAR: 0,5 - 2%, bei rupturierten Aneurysmata sehr hohe prähospitale und perioperative Mortalität: >50 %) und hohes Risiko für Nierenfunktionsstörungen, insb. bei juxtarenalen Aneurysmata 
 
-## **2. OP-Vorbereitung** 
+# **2. OP-Vorbereitung**
 
 - orientierender **neurologischer** Status (Vigilanz, Pupillen, Seitendifferenz Sensibilität / Motorik) 
 
@@ -69,7 +41,7 @@ Einteilung in infrarenal (ca. 95 %) und para-/suprarenal (juxtarenal) (ca. 5 %),
 
 Hypotension (syst. BD 80 mmHg) und restriktive Volumentherapie bis zum Klemmen der Aorta um den weiteren Blutverlust zu minimieren und eine Dilutionskoagulopathie zu vermeiden 
 
-## **3. Narkoseeinleitung** 
+# **3. Narkoseeinleitung**
 
 - EEG-Messung (+ NIRS bei TAAE / Carotis-Subclavia-Bypass) **vor Narkosebeginn** 
 
@@ -93,9 +65,9 @@ Hypotension (syst. BD 80 mmHg) und restriktive Volumentherapie bis zum Klemmen d
 
 - bei **rupturiertem BAA** mit hämorrhagischem Schock ggf. Narkoseeinleitung erst nach sterilem Abwaschen und Abdecken sowie Anlage der zentralen Katheter in LA 
 
-## **4. (Gefäß-)Zugänge** 
+# **4. (Gefäß-)Zugänge**
 
-## **4.1 Arterielle Druckmessung** 
+## **4.1 Arterielle Druckmessung**
 
 - TAAE: i. d. R. Aa. rad. dex. und fem. dex. 
 
@@ -105,7 +77,7 @@ Hypotension (syst. BD 80 mmHg) und restriktive Volumentherapie bis zum Klemmen d
 
 - BAE: eine Druckmessung an beliebiger oberer Extremität 
 
-## **4.2 Zentralvenöse Katheter** 
+## **4.2 Zentralvenöse Katheter**
 
 - TAAE: 4-Lumen-ZVK, MAC-Schleuse, wenn möglich V. jug. sin. aufgrund der Rechtsseitenlagerung 
 
@@ -115,15 +87,15 @@ Hypotension (syst. BD 80 mmHg) und restriktive Volumentherapie bis zum Klemmen d
 
 - Carotis-Subclavia-Bypass: linke Halsseite freilassen! 
 
-## **4.3 Magensonde** 
+## **4.3 Magensonde**
 
 - bei BAE (sofern kein TEE) zur Entlastung des Magens. TAAE werden grundsätzlich mit TEE betreut (ausgenommen Kontraindikationen; dann Magensonde zur leichteren Identifikation des Ösophagus). 
 
-## **4.4 Temperaturmessung** 
+## **4.4 Temperaturmessung**
 
 - bei allen Eingriffen in Hypothermie bzw. mit distaler Perfusion zweite Messung nasopharyngeal als Näherungswert für cerebrale Temperatur 
 
-## **5. Neuromonitoring** 
+# **5. Neuromonitoring**
 
 - s. SOP 505 Neuromonitoring 
 
@@ -145,15 +117,15 @@ Hypotension (syst. BD 80 mmHg) und restriktive Volumentherapie bis zum Klemmen d
 
    6. Ggf. Reimplantation von nicht blutenden Intercostalgefäßen 
 
-## **6. Spinalkatheter** 
+# **6. Spinalkatheter**
 
 Spinalkatheteranlage bei TAAE regelhaft am Vortag der OP mit anschließender Überwachung auf IPS; bei TEVAR und erhöhtem Risiko für eine Paraplegie nach kritischer Risiko-Nutzen-Abwägung; Indikationsstellung durch Operateur (s. SOP 570 Spinalkatheter (TAAE / TEVAR)) 
 
-## **7. TEE** 
+# **7. TEE**
 
 S. SOP 506 Perioperative transo sophageale Echokardiografie, besonderer Fokus auf: 
 
-## **7.1 TAAE:** 
+## **7.1 TAAE:**
 
 - Füllungsstatus während distaler Perfusion und zum HLM-Weaning 
 
@@ -161,13 +133,13 @@ S. SOP 506 Perioperative transo sophageale Echokardiografie, besonderer Fokus au
 
 - Platzierung der venösen Kanüle 
 
-## **7.2 Typ-B-Dissektion:** 
+## **7.2 Typ-B-Dissektion:**
 
 - Identifikation von wahrem und falschem Lumen 
 
 - Identifikation des Drahtes im wahren Lumen 
 
-## **7.3 BAE** 
+## **7.3 BAE**
 
 - Füllungsstatus während Klemmen und Freigeben der Aorta 
 
@@ -175,11 +147,11 @@ S. SOP 506 Perioperative transo sophageale Echokardiografie, besonderer Fokus au
 
 - Dissektion der Ao. desc. durch Klemmen 
 
-## **8 Intraoperatives Management** 
+# **8 Intraoperatives Management**
 
-## **8.1 Hämodynamik** 
+## **8.1 Hämodynamik**
 
-## **8.1.1 TAAE:** 
+### **8.1.1 TAAE:**
 
 - Aufrechterhaltung einer Normotonie primär mittels Volumengabe bis zur HLM-assistierten, distalen Perfusion (ggf. mit selektiver Organperfusion), sekundär mittels Noradrenalin (s. SOP 502 Ha modynamisches Management); Katecholamine in Rücksprache mit der rechtzeitig vor Klemmen der Aorta und Beginn der distalen Perfusion beenden (drohende überschießende Hypertension bei drastischer Nachlasterhöhung durch Aortenklemme!) 
 
@@ -189,47 +161,47 @@ S. SOP 506 Perioperative transo sophageale Echokardiografie, besonderer Fokus au
 
 - bei Zeichen einer spinalen Ischämie (Abfall der evozierten Potentiale) / Anstieg des CSFP in Rücksprache mit Operateur MAD steigern (z. B. 100 mmHg), weiteres Vorgehen s. SOP 570 Spinalkatheter (TAAE / TEVAR) 
 
-## **8.1.2. TEVAR:** 
+### **8.1.2. TEVAR:**
 
 - bis zum Freisetzen des Stents Normotonie sicherstellen: primär mittels Volumengabe, sekundär mittels Noradrenalin (s. SOP 502 Ha modynamisches Management), ggf. auf Wunsch des Operateurs während Freisetzung des Endostents und ggf. zur Nachdilatation Ziel-MAP 50 – 60 mmHg, nach Freisetzen des Stents Ziel-MAD >80 mmHg 
 
 - bei Zeichen einer spinalen Ischämie (Abfall der evozierten Potentiale, Anstieg des CSFP) in Rücksprache mit Operateur MAD steigern (z. B. 100 mmHg), weiteres Vorgehen s. SOP 570 Spinalkatheter (TAAE / TEVAR). 
 
-## **8.1.3. BAE:** 
+### **8.1.3. BAE:**
 
 - u. U. erhebliche Nachlasterhöhung durch Klemmen der abdominellen Aorta (abhängig von der Höhe der Platzierung und ggf. chronischem Verschluss der Aorta) mit entsprechendem Risiko für Myokardischämien und hypertensive Entgleisungen, ggf. NTG oder Niprussidnatrium, keine exzessive BD-Senkung (MAD >70 - 80 mmHg) um die viszerale und spinale Perfusion nicht zu gefährden 
 
 - häufig deutliche Vor- und Nachlastsenkung durch Wiedereröffnung der Aorta (arterielle und venöse Dilatation, metabolische Entgleisung nach Reperfusion): Volumenexpansion und ggf. „prophylaktischer NA-Bolus“ zum Entfernen der Aortenklemme, bei eingeschränkter kardialer Funktion in Rücksprache mit Operateur langsames Freigeben der Aorta, weitere Therapie nach SOP 502 Ha modynamisches Management; bei therapierefraktärer Hypotonie erneutes Klemmen der Aorta und Optimierung der Hämodynamik vor langsamer Freigabe der distalen Perfusion; AMV anpassen 
 
-## **8.2 Gerinnungsmanagement** 
+## **8.2 Gerinnungsmanagement**
 
-## **8.2.1. TAAE:** 
+### **8.2.1. TAAE:**
 
 - vor HLM zur distalen Perfusion Heparin s. SOP 534 Standardnarkose HLM, nach HLM-Ende Abnahme ROTEM, Gerinnung, BB; weiteres Vorgehen s. SOP 501 Gerinnungsmanagement 
 
-## **8.2.2. TEVAR:** 
+### **8.2.2. TEVAR:**
 
 - 100 IE/kgKG Heparin-Bolus auf Ansage des Operateurs, Ziel-ACT > 250 s, Kontrolle alle 30 Minuten, Antagonisierung nach Rücksprache Operateur 
 
-## **8.2.3. BAE:** 
+### **8.2.3. BAE:**
 
 - nach Rücksprache mit Operateur Heparin-Bolus (i. d. R: 50 - 100 IE/kgKG) vor Klemmen der Aorta; bei rupturiertem BAA mit hämorrhagischem Schock primär Transfusion von EKs und FFPs im Verhältnis 1:1, ggf. Beginn mit Notfallkonserven 0 neg., weiteres Procedere nach SOP 501 Gerinnungsmanagement 
 
-## **8.3 Temperaturmanagement** 
+## **8.3 Temperaturmanagement**
 
 Ggf. Level 1, kurze Wärmedecke 
 
-## **8.4 Nierenfunktion** 
+## **8.4 Nierenfunktion**
 
 Alle Eingriffe an der Aorta descendens und Bauchaorta haben durch die u. U. passager unterbrochene Nierenperfusion bzw. durch die Kontrastmittelexposition ein erhöhtes Risiko für ein akutes Nierenversagen; um das Risiko nicht weiter zu steigern, ist ein adäquates Volumen- und Blutdruckmanagement essentiell, Hypovolämie und Anämie sind im gesamtem Operationsverlauf unbedingt zu vermeiden, Ziel-MAP >60 - 70 mmHg während der gesamten OP  bei chron. arteriellem Hypertonus ggf. höher (Ausnahme: permissive Hypotonie bei rupturierten Aneurysmata, s. o.). 
 
-## **8.5 Engmaschige BGA-/BZ-Kontrollen** 
+## **8.5 Engmaschige BGA-/BZ-Kontrollen**
 
 - Erfassung eventueller Organminderperfusion (Azidose, Laktat, SzvO2) 
 
 - BZ unter 150 mg/dl halten, Hypoglykämie unbedingt vermeide 
 
-## **8.6 Besonderheiten bei DHCA** 
+## **8.6 Besonderheiten bei DHCA**
 
 - 1000 mg Methylprednisolon vor Beginn HLM 
 
@@ -249,7 +221,7 @@ Anwendungshinweis für Nitroprussidnatrium: lichtgeschütze Infusion über separ
 
 Cave: **Unbedingtes Vermeiden einer cerebralen Hyperthermie** : Wiedererwärmung auf **maximal 36.5°C** nasopharyngeal (eher gewisse Hypothermie akzeptieren, da vermutlich neuroprotektiv) und langsame Wiedererwärmung (ca. 0,5 °C/min), Temperaturdifferenz Blut zu nasopharyngeal maximal 10° (Perfusattemperatur <38 °C) 
 
-## **8.7 Gerinnungsmanagement nach DHCA** 
+## **8.7 Gerinnungsmanagement nach DHCA**
 
 - ROTEM und kleines Blutbild nach Wiedererwärmung (>35 °C) 
 
@@ -259,7 +231,7 @@ Cave: **Unbedingtes Vermeiden einer cerebralen Hyperthermie** : Wiedererwärmung
 
 - Gerinnungsmanagement nach SOP 501 Gerinnungsmanagement 
 
-## **9. Inkrafttreten** 
+# **9. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

@@ -32,8 +32,6 @@ Klinik für Kardiologie, Angiologie und Intensivmedizin Standort CVK AP
 Klinisch kein Hinweis für  Klinisch V.a.  STEMI
 kardiovaskuläre   kardiovaskuläre Ursache
 Ursache der Symptomatik  der Symptomatik
-**----- End of picture text -----**
-
 
 - MVZ Chest Pain Unit Herzkatheter 
 

@@ -13,25 +13,7 @@ Klinik für Kardioanästhesiologie und Intensivmedizin: Arztdienst Klinik für H
 
 Dokumentation der telefonischen Patientenaufklärung zum Controllerwechsel HeartWare HVAD (FORM393) 
 
-## **Inhaltsverzeichnis** 
-
-|Änderungen zu Version 1.0 .......................................................................................................................... 3|Änderungen zu Version 1.0 .......................................................................................................................... 3|
 |---|---|
-|1.|Ziel ................................................................................................................................................... 4|
-|2.|Funktionsweise ................................................................................................................................ 4|
-|3.|Prästationärer Ablauf ....................................................................................................................... 5|
-|3.1|Reguläre Einbestellung.................................................................................................................... 5|
-|3.2|Verweigerung der Aufnahme ........................................................................................................... 5|
-|3.3|Verweigerung des Controllerwechsels in OP-Vorbereitung ............................................................ 5|
-|4.|OP-Planung und OP-Vorbereitung .................................................................................................. 5|
-|4.1|OP-Planung ..................................................................................................................................... 5|
-|4.2|Stationäre Vorbereitung ................................................................................................................... 5|
-|4.3|Anästhesiologische Vorbereitung .................................................................................................... 5|
-|4.4|Kardiotechnische Vorbereitung ....................................................................................................... 6|
-|5.|Prozedurales Management ............................................................................................................. 6|
-|5.1|Instrumentierung .............................................................................................................................. 6|
-|5.2|Problemloser Verlauf ....................................................................................................................... 6|
-|5.3|Komplizierter Verlauf ....................................................................................................................... 6|
 
 ## **Änderungen zu Version 1.0** 
 
@@ -41,7 +23,7 @@ Kapitel 1. Ziel Diese SOP bezieht sich ausschließlich auf den Controllerwechsel
 
 Neu eingefügt: Kapitel 3.3 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Diese SOP bezieht sich ausschließlich auf den Controllerwechsel des HeartWare-HVAD-Systems der Firma Medtronic, speziell aufgrund des Alarms „Steuereinheit Fehler – Anrufen“, aber auch aus anderen Gründen, die einen Controllertausch erfordern. 
 
@@ -55,7 +37,7 @@ Aus der Problematik einer u. U. nach Controllerwechsel nicht wieder anlaufenden 
 
 Diese SOP beschreibt die entsprechenden Vorbereitungen und Maßnahmen. 
 
-## **2. Funktionsweise** 
+# **2. Funktionsweise**
 
 Die interne Batterie der Steuereinheit (Controller) des Medtronic-HeartWare-HVAD-Systems hat den ausschließlichen Zweck, einen akustischen Alarm zu ermöglichen, wenn beide Stromquellen am Controller abgezogen werden. 
 
@@ -75,19 +57,19 @@ Der Controller muss ausgewechselt werden, um einen regelrechten Betrieb zu errei
 
 > 2 U.S. Food & Drug Administration News Release: FDA Alerts Health Care Providers to Stop New Implants of Certain Ventricular Assist Device System 
 
-## **3. Prästationärer Ablauf** 
+# **3. Prästationärer Ablauf**
 
-## **3.1 Reguläre Einbestellung** 
+## **3.1 Reguläre Einbestellung**
 
 Bei Alarmen des HVAD-Systems erfolgt regulär ein Anruf der Patient:innen auf der technischen/medizinischen Hotline des VAD-Teams. Wird im Rahmen dieses Gesprächs festgestellt, dass es sich um die beschriebene Alarmsituation aufgrund einer verringerten Kapazität der internen Batterie handelt, erfolgt die **sofortige** Einbestellung ins DHZC und Aufnahme auf Station W6. Der Stationsarztdienst informiert den OP-Planer/chirurgischen Hausdienst. 
 
 **Hinweis** : Der Controllerwechsel ist eine planbare Prozedur und kein medizinischer Notfall. 
 
-## **3.2 Verweigerung der Aufnahme** 
+## **3.2 Verweigerung der Aufnahme**
 
 Verweigern Patient:innen die stationäre Aufnahme werden sie über die Risiken aufgeklärt und das Gespräch mithilfe des Formulars „Dokumentation der telefonischen Patientenaufklärung zum Controllerwechsel HeartWare HVAD“ (FORM393) mit Dauer, Datum und Uhrzeit dokumentiert, als Anlage angefügt und als bildschirmausfüllbare Version im Intranet hinterlegt. Das Formular wird in der Patientendokumentation hinterlegt. 
 
-## **3.3 Verweigerung des Controllerwechsels in OP-Vorbereitung** 
+## **3.3 Verweigerung des Controllerwechsels in OP-Vorbereitung**
 
 Verweigern Patient:innen den Controllerwechsel in OP-Vorbereitung kann der Controllerwechsel ohne weitere Vorkehrungen am Bett unter folgenden Voraussetzungen durchgeführt werden: 
 
@@ -97,27 +79,27 @@ c) Die Aufklärung erfolgte durch eine Ärztin/einen Arzt,
 
 d) Die Zustimmung der Patient:innen wurde dokumentiert (OPS Kodierung 8-852.1 und OP-Bericht). 
 
-## **4. OP-Planung und OP-Vorbereitung** 
+# **4. OP-Planung und OP-Vorbereitung**
 
-## **4.1 OP-Planung** 
+## **4.1 OP-Planung**
 
 Der Controllerwechsel wird routinemäßig an erster Stelle in einer OP-Einleitung verplant. Seitens der ist ein ECLS-System für den Notfall bereitzustellen. Im Saal können generische Vorbereitungen für den nächsten Punkt im OP-Plan getroffen werden, solange das vorbereitete Instrumentarium und Einmalmaterial auch für einen notfallmäßigen Pumpenwechsel in Rechtsseitenlage verwendet werden könnte und hierbei keine größeren Mengen von Verbrauchsmaterial verworfen werden müssten. 
 
-## **4.2 Stationäre Vorbereitung** 
+## **4.2 Stationäre Vorbereitung**
 
 Die Patient:innen werden über die erforderliche Maßnahme und deren Risiken durch den AvD/Stationsarztdienst aufgeklärt, die Aufklärung wird dokumentiert. Standard-Labor und Kreuzblut werden abgenommen und eine Echokardiographie durchgeführt. Darüber hinaus ist bei entsprechender Anamnese eine aktuelle HIT-Testung mittels ELISA durchzuführen (muss bis 11:00 Uhr am Vortag im Labor eingehen). Eine Optimierung des INR-Wertes sollte angestrebt werden. 
 
-## **4.3 Anästhesiologische Vorbereitung** 
+## **4.3 Anästhesiologische Vorbereitung**
 
 Die Patient:innen werden am Vortag des Wechsels von der Anästhesiologie über die komplette Instrumentierung (invasive Blutdruckmessung sowie zwei Sicherheitsdrähte 0,035 Fr arteriell bzw. venös) und das Vorgehen (wach in Lokalanästhesie und ggf. Verfahrenswechsel auf ITN mit ZVK, Einführschleuse und TEE bei Notwendigkeit eines Pumpenwechsels) aufgeklärt. 
 
-## **4.4 Kardiotechnische Vorbereitung** 
+## **4.4 Kardiotechnische Vorbereitung**
 
 Das VAD-Team bereitet einen neuen Controller aus dem für diesen Zweck angelegten Gerätepool zum Tausch vor (Programmierung der patientenspezifischen Einstellung). Dieser Controller wird der Patientin/dem Patienten bei Verlegung in den OP mitgegeben. 
 
-## **5. Prozedurales Management** 
+# **5. Prozedurales Management**
 
-## **5.1 Instrumentierung** 
+## **5.1 Instrumentierung**
 
 Komplette Instrumentierung in Lokalanästhesie im Wachzustand, ggf. leichte (!) Analgosedierung mit Remifentanil 
 
@@ -127,11 +109,11 @@ Komplette Instrumentierung in Lokalanästhesie im Wachzustand, ggf. leichte (!) 
 
 Der Controllerwechsel wird durch die nach Komplettierung der Zugänge nur in Anwesenheit eines VAD-Chirurgen und eines ers für die notfallmäßige Implementierung eines ECLS durchgeführt. Die OP-Funktionsdienste verbleiben im Stand-by. 
 
-## **5.2 Problemloser Verlauf** 
+## **5.2 Problemloser Verlauf**
 
 Nach Controllerwechsel mit _problemlosem Wiederanlaufen des HVAD_ erneute Entfernung sämtlicher gelegter Zugänge in der Einleitung, ggf. Druckverband Leiste und Rückverlegung auf die W6. 
 
-## **5.3 Komplizierter Verlauf** 
+## **5.3 Komplizierter Verlauf**
 
 Bei Ausbleiben des Wiederanlaufens des HVAD erfolgt eine zügige hämodynamische Stabilisierung soweit möglich bzw. erforderlich. Je nach hämodynamischer Situation bei dysfunktionalem LVAD erfolgt die gemeinsame Evaluation, ob notfallmäßig die sofortige Etablierung eines ECLS notwendig ist oder erst nach Verbringung in den OP bzw. nach Lagerung und Abwaschen/Abdecken der Patientin/des Patienten. 
 

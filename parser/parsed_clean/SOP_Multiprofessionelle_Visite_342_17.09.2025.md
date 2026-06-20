@@ -1,6 +1,6 @@
 **Multiprofessionelle Visite** 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Im Rahmen der DHZC-Strategie setzen wir definierte Qualitätskriterien um. 
 
@@ -10,15 +10,15 @@ Daher ist es unabdingbar, dass die Visiten regelmäßig und strukturiert durchge
 
 Die Visite fördert darüber hinaus den Teamzusammenhalt über alle Ebenen und Fachbereiche hinweg. Sie ist ein integraler Bestandteil unserer Strategie zur Stärkung des „Wir-Gefühls“ und unterstützt die Etablierung einer professionellen und wertschätzenden Zusammenarbeit. 
 
-## **2. Prozessverantwortliche Person** 
+# **2. Prozessverantwortliche Person**
 
 Alle am Behandlungsprozess beteiligte Personen. 
 
-## **3. Geltungsbereich / Zielgruppe** 
+# **3. Geltungsbereich / Zielgruppe**
 
 Alle bettenführenden Stationen des DHZC. 
 
-## **4. Begriffsdefinition Multiprofessionelle Visite** 
+# **4. Begriffsdefinition Multiprofessionelle Visite**
 
 Die Visite (lat. visitare = besuchen) ist eine strukturierte bettseitige Fallbesprechung, die regelmäßig bestenfalls täglich (optional mithilfe einer Checkliste) durchgeführt wird. 
 
@@ -32,9 +32,9 @@ Es ist wichtig, darauf hinzuweisen, dass die multiprofessionelle Visite berufsin
 
 **Multiprofessionelle Visite** 
 
-## **5. Prozessbeschreibung** 
+# **5. Prozessbeschreibung**
 
-## **5.1 Multiprofessionelle Visite** 
+## **5.1 Multiprofessionelle Visite**
 
 Für eine effektive Durchführung der multiprofessionellen Visite müssen bestimmte Voraussetzungen und Rahmenbedingungen erfüllt sein. Im ersten Schritt ist es unerlässlich, in Abstimmung mit allen beteiligten Professionen ein definiertes Zeitfenster für die Visite festzulegen. Dieses Zeitfenster ist verbindlich, für alle an der multiprofessionellen Visite beteiligten Personen. Die Zusammensetzung des Teams kann variieren, jedoch ist die Anwesenheit, der für die Patient:innen verantwortlichen Pflegefachperson und Ärzt:innen zwingend notwendig. Je nach Bedarf können weitere Berufsgruppen oder auch Angehörige (z.B. Pädiatrie) in die Visite eingebunden werden. 
 
@@ -46,7 +46,7 @@ Gemeinsam werden kurz- und langfristige Behandlungsziele festgelegt. Durch das g
 
 Die genaue Gestaltung der Visite, einschließlich Form und Ablauf, kann stationsspezifisch angepasst werden, um die individuellen Anforderungen der Station zu berücksichtigen. Dabei muss sichergestellt werden, dass die Visite keine anderen Prozesse einschränkt. 
 
-## **5.2 Tafelvisite** 
+## **5.2 Tafelvisite**
 
 Wenn während der Implementierungsphase der multiprofessionellen Visite festgestellt wird, dass die personellen Ressourcen vorrübergehende nicht ausreichen, ist eine Tafelvisite durchzuführen. Allerdings muss festgelegt werden, wann die multiprofessionelle Visite in absehbarer Zukunft etabliert wird. Die Tafelvisite kann darüber hinaus auch zusätzlich zur multiprofessionellen Visite bestehen bleiben. 
 
@@ -68,11 +68,11 @@ Zusätzlich werden auch geplante Zugänge der Patient:innen thematisiert. Ziel d
 
 Die Tafelvisite ersetzt nicht die bettseitige Visite durch die behandelnden Ärzt:innen. 
 
-## **5.3 Dokumentation** 
+## **5.3 Dokumentation**
 
 Die Tagesziele und festgelegten Maßnahmen sind zeitnah in das entsprechende Kurven – und KIS-System einzutragen. 
 
-## **6. Anlagen** 
+# **6. Anlagen**
 
 Anlage 1: SBAR-Schema 
 

@@ -13,47 +13,41 @@ Alle Mitarbeiter der OP-Bereiche sowie aller daran beteiligten Abteilungen
 |1.0|01.06.2017|Eike, C./Henkel, C:|OP-Konferenz|Ersterstellung|01.08.2018|
 |2.0|0108.2018|Eike, C./Henkel, C.|OPM|Überarbeitung|01.08.2020|
 
-## **Inhaltsverzeichnis** 
-
-|1.|Verantwortung für die Patientenlagerung ........................................................................................ 3|
 |---|---|
-|2.|Zuständigkeiten ............................................................................................................................... 4|
-|3.|Lagerung von Säuglingen und Kleinkindern .................................................................................... 5|
-|4.|Inkrafttreten ...................................................................................................................................... 8|
 
 Aus Gründen der besseren Lesbarkeit wird auf die gleichzeitige Verwendung männlicher und weiblicher Sprachformen verzichtet. Sämtliche Personenbezeichnungen gelten für beiderlei Geschlecht. 
 
-## **1. Verantwortung für die Patientenlagerung** 
+# **1. Verantwortung für die Patientenlagerung**
 
 Zwischen dem Berufsverband Deutscher Anästhesisten und dem Berufsverband der Deutschen Chirurgen gibt es seit August 1982 eine Vereinbarung über die Zusammenarbeit bei der postoperativen Patientenversorgung. Die Vereinbarung differenziert und konkretisiert die Aufgabenteilung und die Verantwortung für die Lagerung des Patienten. Unterschieden werden vier Lagerungsphasen, die sich am zeitlichen Ablauf der Zusammenarbeit zwischen Chirurg, Anästhesist und OP-Pflege orientieren. In allen vier Phasen geht es ausschließlich um die Verantwortung für die Lagerung. 
 
-## **1.1 Präoperative Lagerung (1. Phase)** 
+## **1.1 Präoperative Lagerung (1. Phase)**
 
 Der Anästhesist ist für die Lagerung des Patienten zur Einleitung des Narkoseverfahrens und für die Überwachung der Lagerung solange verantwortlich, bis der Patient für die Operation endgültig gelagert wird. Mitwirkende Hilfskräfte bei der Lagerung bis zum Beginn des Narkoseverfahrens stehen unter Weisung und Aufsicht des Anästhesisten, auch wenn sie einer anderen Berufsgruppe angehören. 
 
-## **1.2 Lagerung zur Operation (2. Phase)** 
+## **1.2 Lagerung zur Operation (2. Phase)**
 
 Die Entscheidung über die Lagerung zur Operation trifft grundsätzlich der Operateur nach den Erfordernissen des operativen Vorgehens unter Berücksichtigung des anästhesiologischen Risikos. Kommt es intraoperativ z. B. zu Beatmungsproblemen, so haben Chirurg und Anästhesist zu prüfen, ob zu Gunsten der Überwachung eine Lagerungsänderung notwendig ist, die dann evtl. Lagerungsschäden verursachen könnte. Der Operateur trägt die volle ärztliche und rechtliche Verantwortung dafür, dass diese Abwägung mit der gebotenen Sorgfalt getroffen wird. Weiterhin hat der Operateur die Verpflichtung, dem Pflege- und Hilfspersonal die für die Durchführung der Lagerung erforderlichen Anweisungen zu erteilen und die Lagerung zu protokollieren. 
 
-## **1.3 Intraoperative Lageveränderungen (3. Phase)** 
+## **1.3 Intraoperative Lageveränderungen (3. Phase)**
 
 Die Entscheidung über planmäßige Lageveränderungen während der Operation und deren Durchführung obliegt dem Operateur unter Wahrung seiner gebotenen Sorgfaltspflicht. Ergeben sich im Verlauf des Eingriffs unbeabsichtigte Lageveränderungen, die das Lagerungsrisiko erhöhen, sind der Operateur und seine Mitarbeiter für die Kontrolle verantwortlich, soweit die Lageveränderungen und andere Einwirkungen auf den Körper des Patienten vom Operateur ausgehen. Bemerkt der Anästhesist eine nicht beabsichtigte Veränderung oder andere Einwirkungen, die mit Risiken für den Patienten verbunden sind, so muss er den Operateur darauf hinweisen. Ausgelagerte Extremitäten, die der Anästhesist zur Applikation von Medikamenten oder zur laufenden Überwachung benötigt, obliegen der Kontrolle und Verantwortlichkeit des Anästhesisten. 
 
-## **1.4 Postoperative Lagerung (4. Phase)** 
+## **1.4 Postoperative Lagerung (4. Phase)**
 
 Die Verantwortung für die Lagerung einschließlich der Umlagerung des Patienten nach Beendigung der Operation bis zur Beendigung der postanästhesiologischen Überwachung trägt der Anästhesist, soweit nicht besondere Umstände die Mitwirkung des Operateurs bei der Umlagerung erfordern. 
 
 Im DHZB bleibt der Anästhesist bis zur Patientenübergabe an die Pflegekräfte der Intensivstation, des Aufwachraumes oder der Pflegestation verantwortlich. 
 
-## **2. Zuständigkeiten** 
+# **2. Zuständigkeiten**
 
-## **2.1 Vorbereitung des OP-Tisches** 
+## **2.1 Vorbereitung des OP-Tisches**
 
 Die Reinigung und Wischdesinfektion des OP-Tisches, seiner einzelnen Bestandteile und der losen Lagerungshilfsmittel (inkl. Umlagerungsrollboard) werden von den OP-Reinigungskräften durchgeführt. Der Aufbau des OP-Tisches zu seiner einsatzbereiten Grundform wird von den OP-Helfern, dem OPReinigungspersonal oder dem OP-Funktionsdienst durchgeführt 
 
 - (s. SOP OPM OP-Tischvorbereitung). 
 
-## **2.2 Annahme der Patienten in der Bettenschleuse** 
+## **2.2 Annahme der Patienten in der Bettenschleuse**
 
 Der Transportdienst bringt die Patienten zur geplanten Operation von den Stationen in die Bettenschleuse des OP. In der Regel nehmen die OP-Helfer den zu operierenden Patienten an. Vor der Übernahme in den OP muss die Identität des Patienten und die Krankenakte auf Übereinstimmung erfolgen und dokumentiert werden (s. SOP OPM Team Time Out). 
 
@@ -73,17 +67,17 @@ Säuglinge und Kleinkinder verbleiben in ihrem Bett und werden direkt in die An�
 
 Kritisch Patienten, instabile Patienten, Notfallpatienten, Säuglinge / Kleinkinder und alle Patienten von der Intensivstation werden nur in Anwesenheit des zuständigen Anästhesiearztes und der Anästhesiepflegekraft angenommen und auf den OP-Tisch umgelagert. 
 
-## **2.3   Präoperative Vorbereitung** 
+## **2.3   Präoperative Vorbereitung**
 
 Die am häufigsten praktizierte Lagerung ist die Rückenlage mit angelagerten Armen. In der Regel werden beide Arme mit Roltawatte zirkulär gewickelt und anschließend mit Tempur-Polstern gepolstert sowie angelagert. Die Lagerungsschritte in der Einleitung werden von dem chirurgischen Assistent oder Operateur in der Einleitung durchgeführt. 
 
-## **2.4 Postoperativer Patiententransport zur Intensivstation** 
+## **2.4 Postoperativer Patiententransport zur Intensivstation**
 
 Der Transport zur Intensivstation erfolgt unter Aufsicht und Verantwortung des Anästhesisten in Begleitung eines chirurgischen Assistenzarztes und eines OP-Helfers (bzw. des OP-FD). 
 
-## **3. Lagerung von Säuglingen und Kleinkindern** 
+# **3. Lagerung von Säuglingen und Kleinkindern**
 
-## **3. 1  OP-Zugang: mediane Sternotomie**  **Rückenlage, beide Arme angelagert** 
+# **3. 1  OP-Zugang: mediane Sternotomie**  **Rückenlage, beide Arme angelagert**
 
 Lagerungshilfsmittel:  Gelkopfring Watte Gelrollen Baumwolltücher 
 
@@ -95,7 +89,7 @@ Lagerungshilfsmittel:  Gelkopfring Watte Gelrollen Baumwolltücher
 
 - unter dem Thorax und den Knien wird bei Bedarf je eine Gel- oder Baumwolltuchrolle positioniert 
 
-## **3.2 OP-Zugang: laterale Thorakotomie**  **Seitenlage rechts / links** 
+## **3.2 OP-Zugang: laterale Thorakotomie**  **Seitenlage rechts / links**
 
 Lagerungshilfsmittel: Gelkopfring Watte Gelrollen Baumwolltücher Pflasterstreifen 
 
@@ -117,7 +111,7 @@ Lagerungshilfsmittel: Gelkopfring Watte Gelrollen Baumwolltücher Pflasterstreif
 
 - unter dem Kopf wird ein Gelkopfring positioniert 
 
-## **3.3 Lagerung von Kindern** 
+## **3.3 Lagerung von Kindern**
 
 Die Patienten werden auf einem speziellen OP-Tisch für Kinder gelagert. Diese OP-Tischplatte ist wesentlich kürzer und schmaler als die OP-Tische für erwachsene Patienten. Es besteht keine Möglichkeit des Abknickens in bestimmten Bereichen des OP-Tischs. Die Platte kann lediglich nach kranial oder distal der OP-Tischsäule verschoben werden. 
 
@@ -135,7 +129,7 @@ Die folgenden Bilder zeigen den eingedeckten OP-Tisch mit Wärmedecke:
 
 Die Bilder zeigen das Lagerungsprozedere mit weichen Tüchern, Kopf-Gelring und Schulterrolle: 
 
-## **4. Inkrafttreten** 
+# **4. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

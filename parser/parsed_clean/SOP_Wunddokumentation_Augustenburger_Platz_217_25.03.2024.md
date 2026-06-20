@@ -11,27 +11,21 @@ Alle Stationen Standort Augustenburger Platz (ex-DHZB-Bereiche)
 
 Wunddokumentation und Fotodokumentation im SAP (Charité HQZ Wunde/Dekubitus) 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Ziel ................................................................................................................................................... 3|
 |---|---|
-|2.|Prozessverantwortliche Person ....................................................................................................... 3|
-|3.|Geltungsbereich / Zielgruppe .......................................................................................................... 3|
-|4.|Kriterien............................................................................................................................................ 3|
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Die vorliegende SOP soll eine vollständige Wunddokumentation sicherstellen. Die Dokumentation im Rahmen der unten genannten Kriterien in SAP ist für den Standort Augustenburger Platz (ex-DHZB-Bereiche) erforderlich, solange die Patientendatenmanagementsysteme m.life und SAP noch parallel laufen. 
 
-## **2. Prozessverantwortliche Person** 
+# **2. Prozessverantwortliche Person**
 
 Stationsleitungen DHZC Augustenburger Platz 
 
-## **3. Geltungsbereich / Zielgruppe** 
+# **3. Geltungsbereich / Zielgruppe**
 
 Pflegedienst DHZC Augustenburger Platz 
 
-## **4. Kriterien** 
+# **4. Kriterien**
 
 Ein Wunddokument wird auf jeden Fall angelegt: 
 
@@ -119,7 +113,7 @@ HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP
 
 ## **Wunddokument SAP** 
 
-## 1. Markiere den Patienten im SAP und 
+# 1. Markiere den Patienten im SAP und
 
 ## • Klicke auf WD oder 
 
@@ -131,7 +125,7 @@ HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP
 
 ## **Wunddokument SAP** 
 
-## 2. Wunde anlegen 
+# 2. Wunde anlegen
 
 HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP 
 
@@ -139,7 +133,7 @@ HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP
 
 ## **Wunddokument SAP** 
 
-## 3. Auswahl „Wundtyp“ 
+# 3. Auswahl „Wundtyp“
 
 HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP 
 
@@ -147,7 +141,7 @@ HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP
 
 ## **Wunddokument SAP** 
 
-## 3. Auswahl bei „Wundtyp“ Dekubitus muss immer der Grad mit angegeben werden! 
+# 3. Auswahl bei „Wundtyp“ Dekubitus muss immer der Grad mit angegeben werden!
 
 Bei Unsicherheit welcher Dekubitus Grad besteht, wähle den kleineren Grad! 
 
@@ -159,7 +153,7 @@ HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP
 
 ## **Wunddokument SAP** 
 
-## 4. Lokalisation/Anamnese 
+# 4. Lokalisation/Anamnese
 
 Merke: Pflichtfelder * müssen ausgefüllt werden ggf. Notizen/Bemerkun gen nutzen, um auf Abweichungen aufmerksam zu machen 
 
@@ -169,7 +163,7 @@ HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP
 
 ## **Wunddokument SAP** 
 
-## 5. Wundstatus/Zustand 
+# 5. Wundstatus/Zustand
 
 Merke: Länge und Breite können eingetragen werden. Diese werden aber auch beim Vermessen des Fotos automatisch übertragen 
 
@@ -179,7 +173,7 @@ HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP
 
 ## **Wunddokument SAP** 
 
-## 5. Wundversorgung 
+# 5. Wundversorgung
 
 HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP 
 
@@ -187,7 +181,7 @@ HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP
 
 ## **Wunddokument SAP** 
 
-## 6. Notizen/Bemerkungen 
+# 6. Notizen/Bemerkungen
 
 HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP 
 
@@ -195,7 +189,7 @@ HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP
 
 ## **Wunddokument SAP** 
 
-## 7. Dokument speichern und NICHT FREIGEBEN 
+# 7. Dokument speichern und NICHT FREIGEBEN
 
 **Merke: NEIN:** Wenn man noch ein **Foto einfügen** möchte! **Ja:** Wenn kein Foto vorhanden ist! 
 
@@ -205,7 +199,9 @@ HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP
 
 ## **Wunddokument SAP – Foto einfügen** 
 
-## 8. Foto einfügen 
+# 8. Foto einfügen
+
+Anlegen
 
 HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP 
 
@@ -213,7 +209,7 @@ HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP
 
 ## **Wunddokument SAP – Foto einfügen** 
 
-## 9. Foto aus Datei auswählen und öffnen oder direkt von der Kamera, den Wechseldatenträger auswählen 
+# 9. Foto aus Datei auswählen und öffnen oder direkt von der Kamera, den Wechseldatenträger auswählen
 
 HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP 
 
@@ -221,7 +217,7 @@ HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP
 
 ## **Wunddokument SAP – Foto einfügen** 
 
-## 10. Maßstab anlegen 
+# 10. Maßstab anlegen
 
 HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP 
 
@@ -229,7 +225,7 @@ HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP
 
 ## **Wunddokument SAP – Foto einfügen** 
 
-## 10. Maßstab übernehmen 
+# 10. Maßstab übernehmen
 
 Merke: Auf dem Lineal die gewünschte cm markieren und ins Feld eingeben 
 
@@ -239,7 +235,7 @@ HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP
 
 ## **Wunddokument SAP – Foto einfügen** 
 
-## 11. Breite und Länge vermessen 
+# 11. Breite und Länge vermessen
 
 Merke: Linie zeichnen. Erst die Breite und dann die Länge 
 
@@ -249,13 +245,11 @@ HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP
 
 ## **Wunddokument SAP – Foto einfügen** 
 
-## 11. Breite und Länge vermessen 
+# 11. Breite und Länge vermessen
 
 Bestätige mit
 dem Button
 „Fertig“
-**----- End of picture text -----**
-
 
 HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP 
 
@@ -263,7 +257,7 @@ HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP
 
 ## **Wunddokument SAP – Foto einfügen** 
 
-## 12. Speichern 
+# 12. Speichern
 
 HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP 
 
@@ -271,7 +265,7 @@ HQZ Wunde und Dekubitus I Wunddokumentation und Fotodokumentation im SAP
 
 ## **Wunddokument SAP – Foto einfügen** 
 
-## 12. Speichern 
+# 12. Speichern
 
 ## JA!!! 
 

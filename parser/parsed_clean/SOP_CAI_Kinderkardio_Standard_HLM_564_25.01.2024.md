@@ -7,34 +7,19 @@ CAI Kinderkardioanästhesiologie – Standard HLM (CAI Standard HLM Kinder)
 
 Klinik für Kardioanästhesiologie und Intensivmedizin 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Prämedikation .................................................................................................................................. 3|
 |---|---|
-|2.|Einleitung ......................................................................................................................................... 3|
-|2.1|Standardmonitoring ......................................................................................................................... 3|
-|2.2|Narkoseinduktion ............................................................................................................................. 3|
-|2.3|Atemwegsmanagement ................................................................................................................... 4|
-|2.4|Arterielle Druckmessung.................................................................................................................. 4|
-|2.5|ZVK mit/ohne Schleuse ................................................................................................................... 4|
-|2.6|Weitere Medikation und Vorgehen .................................................................................................. 4|
-|3.|Prä-HLM-Phase und HLM-Phase .................................................................................................... 4|
-|4.|HLM-Abgang und Post-HLM Phase ................................................................................................ 5|
-|5.|Transport und Übergabe auf Kinder-IPS ......................................................................................... 5|
-|6.|Instrumentierung Richtwerte ............................................................................................................ 6|
-|7.|Mitgeltende Dokumente ................................................................................................................... 6|
 
-## **1. Prämedikation** 
+# **1. Prämedikation**
 
 Siehe SOP520 „CAI Anästhesieaufklärung und Prämedikation“ 
 
-## **2. Einleitung** 
+# **2. Einleitung**
 
 - Einleitung erst nach vollständigem Sign In, siehe SOP614 „Patientensicherheitscheckliste und Team-Time-Out“ 
 
 - Temperaturmanagement: Bei Kindern < 10 kg immer auf angewärmten OP-Tisch (BairHugger) bzw. Wärmelampe achten 
 
-## **2.1 Standardmonitoring** 
+## **2.1 Standardmonitoring**
 
 ## Zur Einleitung 
 
@@ -70,7 +55,7 @@ Siehe SOP520 „CAI Anästhesieaufklärung und Prämedikation“
 
 - Bei Re-OP / lateralem Zugang / minimalinvasiver OP: externe Defi-Pads 
 
-## **2.2 Narkoseinduktion** 
+## **2.2 Narkoseinduktion**
 
 ## Bei vorhandenem venösem Zugang, titriert 
 
@@ -88,7 +73,7 @@ Siehe SOP520 „CAI Anästhesieaufklärung und Prämedikation“
 
 - Cave: bei TOF mit ausgeprägter RVOTO Einleitung möglichst mit liegendem Zugang, um bei Nachlast-Abfall mit kritischer Zunahme des Re-Li-Shunts medikamentös reagieren zu können. 
 
-## **2.3 Atemwegsmanagement** 
+## **2.3 Atemwegsmanagement**
 
 - Intubation: < 15 kgKG bevorzugt nasotracheal 
 
@@ -96,7 +81,7 @@ Siehe SOP520 „CAI Anästhesieaufklärung und Prämedikation“
 
 - Schwieriger Atemweg: Management gemäß SOP507 „CAI Atemwegsmanagement Anästhesie“ 
 
-## **2.4** 
+# **2.4**
 
 ## **Arterielle Druckmessung** 
 
@@ -106,7 +91,7 @@ Siehe SOP520 „CAI Anästhesieaufklärung und Prämedikation“
 
 - Zeitnahe BGA-Entnahme nach Etablierung des arteriellen Zugangs zur Optimierung der Beatmung (FiO2, pCO2) und Kontrolle des Blutzuckers 
 
-## **2.5 ZVK mit/ohne Schleuse** 
+## **2.5 ZVK mit/ohne Schleuse**
 
 - Nach sonographischer Kontrolle und in Rücksprache Operateur Entscheid für Punktion V. jugularis links oder rechts 
 
@@ -126,7 +111,7 @@ Siehe SOP520 „CAI Anästhesieaufklärung und Prämedikation“
 
    - weiß: Narkose/Hahnenbank 
 
-## **2.6 Weitere Medikation und Vorgehen** 
+## **2.6 Weitere Medikation und Vorgehen**
 
 - Antibiotikaprophylaxe: Gemäß SOP533 „Perioperative antimikrobielle Prophylaxe“, bei Patienten < 18Jahre i. d. R. Cefazolin 
 
@@ -138,7 +123,7 @@ Siehe SOP520 „CAI Anästhesieaufklärung und Prämedikation“
 
 - Lagerung durch chirurgisches Team 
 
-## **3. Prä-HLM-Phase und HLM-Phase** 
+# **3. Prä-HLM-Phase und HLM-Phase**
 
 - Schnitt erst nach Team Time Out, siehe SOP614 „CAI Patientensicherheitscheckliste und TeamTime-Out“ 
 
@@ -164,7 +149,7 @@ Siehe SOP520 „CAI Anästhesieaufklärung und Prämedikation“
 
 - An HLM in Rücksprache Operateur PEEP 5-10 cmH2O, FiO2 0,21 
 
-## **4. HLM-Abgang und Post-HLM Phase** 
+# **4. HLM-Abgang und Post-HLM Phase**
 
 - Vor HLM Abgang: Rotem und kleines Blutbild 
 
@@ -192,7 +177,7 @@ Siehe SOP520 „CAI Anästhesieaufklärung und Prämedikation“
 
 - Extubation im Saal: siehe SOP560 „CAI Kinderkardioanästhesiologie Fast Track“ 
 
-## **5. Transport und Übergabe auf Kinder-IPS** 
+# **5. Transport und Übergabe auf Kinder-IPS**
 
 - Mit komplettem Monitoring inkl. Kapnometrie-Überwachung bei beatmeten Patienten 
 
@@ -216,7 +201,7 @@ Siehe SOP520 „CAI Anästhesieaufklärung und Prämedikation“
 
 - Bei während des Transports instabil gewordenen Patienten ist die erneute Stabilisierung Aufgabe des verlegenden Anästhesisten mit Unterstützung des Kinder-IPS-Teams. 
 
-## **6. Instrumentierung Richtwerte** 
+# **6. Instrumentierung Richtwerte**
 
 ||||||||||
 |---|---|---|---|---|---|---|---|---|
@@ -264,7 +249,7 @@ Siehe SOP520 „CAI Anästhesieaufklärung und Prämedikation“
 **> 40 kg**|||7 F Arrow 30 cm/
 Erwachsenen-ZVK|9 F Arrow 10 cm|20 G|14-18|12-18|
 
-## **7. Mitgeltende Dokumente** 
+# **7. Mitgeltende Dokumente**
 
 SOP507 CAI Atemwegsmanagement Anästhesie SOP508 CAI Ultraschallgestützte Gefäßpunktion SOP520 CAI Anästhesieaufklärung und Prämedikation SOP533 CAI Perioperative antimikrobielle Prophylaxe (PAP) SOP560 CAI Kinderkardioanästhesiologie Fast Track SOP562 CAI Kinderkardioanästhesiologie Norwood SOP614 CAI Patientensicherheitscheckliste und Team-Time-Out 
 

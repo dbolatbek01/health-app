@@ -17,20 +17,13 @@ Flussdiagramm Chylothorax
 
 Ersterstellung 01.01.2025 
 
-## **Inhaltsverzeichnis** 
-
-|Mitgeltende Dokumente ................................................................................................................................ 3|Mitgeltende Dokumente ................................................................................................................................ 3|
 |---|---|
-|1.|Diagnostik ........................................................................................................................................ 3|
-|2.|Therapie ........................................................................................................................................... 3|
-|3.|Literatur ............................................................................................................................................ 4|
-|4.|Inkrafttreten ...................................................................................................................................... 5|
 
 ## **Mitgeltende Dokumente** 
 
 SOP033 Hygienemaßnahmen bei der Versorgung von Säuglingen und Kindern mit Muttermilch, Säuglingsnahrung und Sondennahrung 
 
-## **1. Diagnostik** 
+# **1. Diagnostik**
 
 - 1) Klinisch: milchig-trüber Erguss 
 
@@ -52,7 +45,7 @@ Pleurapunktat plus Serum auf Zellzahl, Lymphozyten, Triglyzeride, Cholesterin ve
 
 - 4) Laborkontrollen: Blutbild, Eiweiß, IgG, Gerinnung. Insbesondere bei hohen Verlusten regelmäßig bestimmen 
 
-## **2. Therapie** 
+# **2. Therapie**
 
 - 1) Anlage einer Pleuradrainage, Sog: initial 10 cmH2O, Reduktion auf 0-5 ab Tag 7. Entfernung der Drainage, wenn Erguss klar & Menge < 3 ml/kg/d. 
 
@@ -135,7 +128,7 @@ Start mit 1 µg/kg/h als Dauerinfusion, Steigerung täglich um 1 µg/kg/h bis au
 
 - Bei mangelndem Gedeihen ggfs. mit Proteinpulver anreichern 
 
-## **3. Literatur** 
+# **3. Literatur**
 
 1. Rosti L et al. Octreotide in the management of postoperative chylothorax. Pediatr Cardiol 2005;26:440-43 
 
@@ -165,7 +158,7 @@ Start mit 1 µg/kg/h als Dauerinfusion, Steigerung täglich um 1 µg/kg/h bis au
 
 14. Berns M, Bührer C. Verfahrensanweisung Charité Behandlung Chylothorax/Chylaskos. Neonatologie Charité (CVK, CCM). 2019 
 
-## **4. Inkrafttreten** 
+# **4. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 
@@ -193,6 +186,4 @@ ja
 Individuelles Therapiekonzept
 Re-Start normale Ernährung Erwäge invasive Diagnostik
 Erwäge chirurgisches Vorgehen
-**----- End of picture text -----**
-
 

@@ -2,7 +2,7 @@
 
 Änderungen zur Vorversion: Punkt 3 Ergänzung (Letzter Absatz). 
 
-## **1. Präambel** 
+# **1. Präambel**
 
 Bei der Implantation eines ventrikulären Unterstützungssystems (Ventricular Assist Device, VAD) ist der optimale Zeitpunkt entscheidend für den perioperativen Verlauf. 
 
@@ -16,7 +16,7 @@ Als implantierbares VAD steht zurzeit nur das System HeartMate 3 (HM3) zur Verf�
 
 als extrakorporales System mit Möglichkeit für einen biatrialen Anschluss nur Berlin Heart Excor, welches als LVAD, RVAD oder BVAD implantiert werden kann. 
 
-## **2. Richtwerte für den Zeitpunkt der Implantation (INTERMACS-Status)** 
+# **2. Richtwerte für den Zeitpunkt der Implantation (INTERMACS-Status)**
 
 Bei Patienten mit **INTERMACS-Status 1** sollte kein dauerhaftes LVAD/BVAD implantiert werden. Bei diesen Patienten erfolgt die Stabilisierung der Hämodynamik und der Organfunktion mittels temporärer mechanischer Kreislaufunterstützung (MCS), ausgeführt in SOP234 Schwerer kardiogener Schock: Therapie mit kurzzeitiger mechanischer Kreislaufunterstützung (Kurzzeit-MCS). 
 
@@ -34,7 +34,7 @@ Bei Patienten mit einem chronischen **biventrikulären Versagen oder mit einer r
 
 **Implantation eines dauerhaften ventrikulären Unterstützungssystems (VAD): Zeitpunkt, Indikation, Technik** 
 
-## **3. Indikation für ein primäres LVAD vs. BVAD** 
+# **3. Indikation für ein primäres LVAD vs. BVAD**
 
 Bei Patienten mit einem **chronischen biventrikulären Versagen** (chronische venöse Stauung mit dunkler Verfärbung der Unterschenkel bis über die Knie und mit einem Aszites) sollte primär ein BVAD mit zwei HM3Pumpen implantiert werden. Zum jetzigen Zeitpunkt ist dabei die Rücksprache mit der zuständigen Krankenkasse erforderlich. 
 
@@ -52,11 +52,11 @@ Vor einer geplanten VAD-Implantation wird der Patient mit dem internistischen Hi
 
 Die Entscheidung von Transplantations-/Herzinsuffizienzkonferenz/MCS-Board sollte in kurzer Form mit Erwähnung von Besonderheiten/erhöhtem Risiko in der Aufklärungsnotiz mit dokumentiert werden (Medfolio und Aufklärungsblatt). 
 
-## **4. Chirurgische Technik** 
+# **4. Chirurgische Technik**
 
-## **4.1 HM3 LVAD** 
+## **4.1 HM3 LVAD**
 
-## **4.1.1 Zugang bei voroperierten Patienten** 
+### **4.1.1 Zugang bei voroperierten Patienten**
 
 Bei voroperierten Patienten (> ein Monat) ohne Aortenklappeninsuffizienz (AI) und mit guter RV-Funktion und bei Patienten mit einer stark verkalkten Aorta ascendens erfolgt der Zugang über eine linkslaterale Thorakotomie mit Anschluss des Ausflussgrafts auf die Aorta descendens. Wird intraoperativ ein Patent Foramen Ovale (PFO) oder ein großer Atriumseptumdefekt (ASD) (< 5 mm) diagnostiziert, müssen diese interventionell mittels Amplatzer verschlossen werden. 
 
@@ -80,7 +80,7 @@ erfolgt die LVAD-Implantation über eine mediane Resternotomie.
 
 ## Implantation eines dauerhaften ventrikulären Unterstützungssystems (VAD): Zeitpunkt, Indikation, Technik
 
-## **4.1.2 Zugang bei nicht voroperierten Patienten** 
+### **4.1.2 Zugang bei nicht voroperierten Patienten**
 
 Bei nicht voroperierten Patienten (ohne Porzellanaorta) erfolgt die Implantation über eine mediane Sternotomie. Bei nicht voroperierten Patienten mit einer Porzellanaorta erfolgt die Implantation über eine linkslaterale Thorakotomie. 
 
@@ -180,7 +180,7 @@ Anschließend erfolgt der Thoraxverschluss. Die Durchtrittsstelle der DL wird er
 
    8. Restliche Schritte siehe oben. 
 
-## **4.1.3 Implantation über eine linkslaterale Thorakotomie** 
+### **4.1.3 Implantation über eine linkslaterale Thorakotomie**
 
 Für den linkslateralen Zugang werden die Patienten auf die rechte Seite (90°) gelagert und mit einer getrennten Lungenbeatmung ausgestattet. Das sterile Abdecken des OP-Felds sollte das Sternum, die Schulter und die linke Leiste frei lassen. Vor dem Abwaschen des OP-Felds sollte die Spitze des LV mittels transthorakaler Echokardiographie (TTE) lokalisiert und markiert werden. 
 
@@ -224,7 +224,7 @@ Wird intraoperativ ein PFO oder ein großer ASD (< 5 mm) diagnostiziert, müssen
 
 Diese Zugänge sind keine Standards und sind wegen ihrer Seltenheit in der vorliegenden SOP nicht weiter ausgeführt. 
 
-## **4.2 Implantation eines BVAD mit zwei HM3-Pumpen** 
+## **4.2 Implantation eines BVAD mit zwei HM3-Pumpen**
 
 Die Implantation erfolgt über eine mediane (re-)Sternotomie. Zuerst erfolgt die Implantation des LVAD wie unter 4.1.1 beschrieben. 
 
@@ -246,7 +246,7 @@ Die Implantation erfolgt über eine mediane (re-)Sternotomie. Zuerst erfolgt die
 
 - h) Beim HLM-Abgang und bei der „off pump“-Technik sollte das RVAD erst nach Anfahren des LVAD und langsamer als beim LVAD hochgefahren werden, um eine Überflutung der Lungen zu vermeiden. 
 
-## **4.3 Implantation eines BVAD Berlin Heart Excor** 
+## **4.3 Implantation eines BVAD Berlin Heart Excor**
 
 Bei Patienten mit restriktiver KMP und demensprechend kleinem LV-Cavum sollte das System Berlin Heart Excor mit biatrialem Anschluss implantiert werden. 
 
@@ -260,7 +260,7 @@ Bei Patienten mit restriktiver KMP und demensprechend kleinem LV-Cavum sollte da
 
 - e) Abschließend folgt der Thoraxverschluss. 
 
-## **5. Mitgeltende Dokumente** 
+# **5. Mitgeltende Dokumente**
 
 SOP234 Schwerer kardiogener Schock: Therapie mit kurzzeitiger mechanischer Kreislaufunterstützung (Kurzzeit-MCS) 
 

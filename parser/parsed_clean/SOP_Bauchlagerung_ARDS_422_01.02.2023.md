@@ -13,21 +13,7 @@ Organisationseinheit ITS
 
 Bauchlagerung bei ARDS – Schematische Darstellung 
 
-## **Änderungshistorie** 
-
-## **Inhaltsverzeichnis** 
-
-|Änderungen zu Version 3.0 .......................................................................................................................... 3|Änderungen zu Version 3.0 .......................................................................................................................... 3|
 |---|---|
-|1.|Indikation ......................................................................................................................................... 4|
-|2.|Kontraindikation ............................................................................................................................... 4|
-|3.|Material und Vorbereitung ............................................................................................................... 4|
-|4.|Durchführung ................................................................................................................................... 5|
-|5.|Kontrolle und Dokumentation .......................................................................................................... 5|
-|6.|Sedierung und Ernährung in Bauchlage .......................................................................................... 5|
-|7.|Risiken und Komplikationen ............................................................................................................ 6|
-|8.|Literatur ............................................................................................................................................ 6|
-|9.|Inkrafttreten ...................................................................................................................................... 6|
 
 ## **Änderungen zu Version 3.0** 
 
@@ -45,11 +31,11 @@ Kapitel 5 „Kontrolle und Dokumentation“ Änderung:
 
 Kapitel 6 „Risiken und Komplikationen“ neu eingefügt 
 
-## **1. Indikation** 
+# **1. Indikation**
 
 Schweres Akutes Atemnotsyndrom (Acute Respiratory Distress Syndrome, ARDS) mit einem Oxygenierungsindex (paO2/FiO2) ≤ 150 mmHg. 
 
-## **2. Kontraindikation** 
+# **2. Kontraindikation**
 
 - Instabilität der Wirbelsäule 
 
@@ -69,7 +55,7 @@ Schweres Akutes Atemnotsyndrom (Acute Respiratory Distress Syndrome, ARDS) mit e
 
 - Schwere hämodynamische Instabilität 
 
-## **3. Material und Vorbereitung** 
+# **3. Material und Vorbereitung**
 
 - Dreiteiliges Bauchlagerungsset (Abb. A-C) 
 
@@ -109,7 +95,7 @@ Schweres Akutes Atemnotsyndrom (Acute Respiratory Distress Syndrome, ARDS) mit e
 
 **B** 
 
-## **4. Durchführung** 
+# **4. Durchführung**
 
 - Benötigtes Personal: 4x Pflege, 1x Arzt 
 
@@ -143,7 +129,7 @@ Schweres Akutes Atemnotsyndrom (Acute Respiratory Distress Syndrome, ARDS) mit e
 
 - Erneute Kontrolle der anatomiegerechten Lagerung (durch Arzt und Pflegekraft) 
 
-## **5. Kontrolle und Dokumentation** 
+# **5. Kontrolle und Dokumentation**
 
 - Lagerungsdauer mindestens 16 h (alle 2 h Mikrolagerung) → Dokumentation durch Pflege in 
 
@@ -155,7 +141,7 @@ Schweres Akutes Atemnotsyndrom (Acute Respiratory Distress Syndrome, ARDS) mit e
 
 - Beendigung der Therapie bei anhaltender Verbesserung des Oxygenierungsindex paO2/FiO2 > 150 mmHg 
 
-## **6. Sedierung und Ernährung in Bauchlage** 
+# **6. Sedierung und Ernährung in Bauchlage**
 
 ## **Sedierung** 
 
@@ -171,7 +157,7 @@ Monitoring der Sedierung klinisch und via Sedline, Ziel-Wert PSI: 40–70. Anmer
 
 - Prokinetika erwägen 
 
-## **7. Risiken und Komplikationen** 
+# **7. Risiken und Komplikationen**
 
 - Hämodynamische Instabilität 
 
@@ -185,7 +171,7 @@ Monitoring der Sedierung klinisch und via Sedline, Ziel-Wert PSI: 40–70. Anmer
 
 - Nervenschäden (Pl. brachialis und N. ulnaris) 
 
-## **8. Literatur** 
+# **8. Literatur**
 
 S3-Leitlinie "Invasive Beatmung und Einsatz extrakorporaler Verfahren bei akuter respiratorischer Insuffizienz". 1. Aufl., Langversion, Stand 04.12.2017. AWMF-Leitlinien-Register Nr. 001/021. https://www.awmf.org/leitlinien/detail/ll/001-021.html 
 
@@ -195,7 +181,7 @@ Guérin C, Reignier J, Richard JC. Prone positioning in severe acute respiratory
 
 The ARDS Definition Task Force. Acute respiratory distress syndrome: the Berlin Definition. JAMA 2012;307(23):2526-33. https://pubmed.ncbi.nlm.nih.gov/22797452/ 
 
-## **9. Inkrafttreten** 
+# **9. Inkrafttreten**
 
 Diese SOP tritt mit dem Tag der Veröffentlichung im Intranet in Kraft. 
 

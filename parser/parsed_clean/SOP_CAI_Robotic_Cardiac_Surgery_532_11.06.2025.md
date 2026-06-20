@@ -1,20 +1,20 @@
 **CAI Robotic Cardiac Surgery** 
 
-## **1. Ziel** 
+# **1. Ziel**
 
 Diese SOP konkretisiert das anästhesiologische Management von Patienten im Rahmen der Roboterassistierten herzchirurgischen Operationen. 
 
-## **2. Prozessverantwortliche Person** 
+# **2. Prozessverantwortliche Person**
 
 Arztdienst Anästhesie OP 
 
-## **3. Geltungsbereich / Zielgruppe** 
+# **3. Geltungsbereich / Zielgruppe**
 
 OP-Bereich CVK MA 
 
-## **4. Prozessbeschreibung** 
+# **4. Prozessbeschreibung**
 
-## **4.1 Gesamtkonzept** 
+## **4.1 Gesamtkonzept**
 
 Das Da-Vinci-Roboter-System soll es ermöglichen, durch noch kleinere Schnitte viel präziser zu operieren. Entwickelt wurde das Da-Vinci-System in den 1980er Jahren von Medizintechnikern der US-Armee. Der Roboter sollte es Chirurgen ermöglichen, in Krisengebieten ferngesteuert zu operieren. Wenig später fand es auch in der zivilen Anwendung rasche Verbreitung. 
 
@@ -22,13 +22,13 @@ Das Operationssystem besteht aus einer Konsole, an der der Chirurg sitzt, und ei
 
 Der Einsatz vom Roboter-System erfordert besonders gut koordinierte Teamarbeit und effektive Kommunikation. 
 
-## **4.2 Arbeitsplatz Setup** 
+## **4.2 Arbeitsplatz Setup**
 
 Je nach geplanter Operation wird der Roboter von unterschiedlichen Seiten angedockt, und zwar immer von der gegenüberliegenden Seite des geplanten Zugangs: bei MIDCAB rechts und bei MKR links vom Patienten. Die Arbeitskonsole befindet sich stets an der Wand zum Steri-Flur. Die HLM steht am Ende des OP-Tisches rechts vom Patienten. 
 
 Da die Arme des Roboters einen großen Arbeitsbereich benötigen, werden alle kollisionsgefährdeten Gegenstände maximal kopfwärts versetzt (Stangen, Ampel, Perfusorbaum und Beatmungsgerät). Die Statham-Stange wird an der unteren Schiene der Ampel befestigt. Dabei dürfen der Zugang zum Anästhesiecockpit aus der Einleitung sowie der Zugang zum Versorgungsraum niemals versperrt werden. 
 
-## **4.3 Lagerung** 
+## **4.3 Lagerung**
 
 - fußseitige Tischverlängerung (durch Lagerungspflege) anbauen lassen 
 
@@ -40,7 +40,7 @@ Da die Arme des Roboters einen großen Arbeitsbereich benötigen, werden alle ko
 
 **CAI Robotic Cardiac Surgery** 
 
-## **4.4 Narkoseführung, Katheteranlage** 
+## **4.4 Narkoseführung, Katheteranlage**
 
 Die sichere seitengetrennte Ventilation hat in der roboterassistierten Chirurgie eine besondere Relevanz, da im Fall einer Dislokation und akzidentellen Lungenbelüftung der Zugangsseite die Instrumente und die Endoskop-Kamera nur verzögert entfernt werden können. 
 
@@ -76,7 +76,7 @@ Die Narkoseführung erfolgt nach Prinzipien des Fast-Track-Konzepts (s. SOP539 �
 
 Nach der Extubation soll großzügig die Indikation für NIV PSV gestellt werden, der Transport auf die nachversorgende Station ist u. U. unter NIV durchzuführen. 
 
-## **4.4.1 MIDCAB Robotic** 
+### **4.4.1 MIDCAB Robotic**
 
 Die Narkoseeinleitung und Instrumentierung erfolgen analog zu Vorbereitung auf eine konventionelle MIDCAB-Operation. Die Grundsätze sollten den folgenden SOPs entnommen werden: 
 
@@ -88,7 +88,7 @@ Während der ersten Operationsserie wird lediglich die LIMA-Präparation roboter
 
 **CAI Robotic Cardiac Surgery** 
 
-## **4.4.2 MKR Robotic** 
+### **4.4.2 MKR Robotic**
 
 Die Narkoseeinleitung und Instrumentierung erfolgt analog zu Vorbereitung auf eine konventionelle MIC-MKROperation mit Endo-Clamping (Intraclude®). Die Grundsätze sollte den folgenden SOPs entnommen werden: 
 
@@ -102,7 +102,7 @@ Nach Wiedereröffnen der Aorta und zum Test der Mitralklappenfunktion werden all
 
 Zu diesem Zeitpunkt entscheidet sich, ob der Patient die entsprechenden Kriterien für eine Extubation auf dem OP-Tisch erfüllt. Vor der geplanten Extubation wird nach Wundverschluss im Rahmen des multimodalen Schmerzkonzeptes ein Serratus anterior Block durchgeführt, soweit keine Kontraindikationen bestehen. 
 
-## **5. Mitgeltende Dokumente** 
+# **5. Mitgeltende Dokumente**
 
 SOP521 CAI Endoaortale Ballonokklusion mit IntraClude SOP528 CAI Klappenchirurgie SOP529 CAI Koronarchirurgie SOP533 Perioperative und periinterventionelle antimikrobielle Prophylaxe (PAP) SOP539 Enhanced Recovery after Cardiac Surgery bei minimalinvasiver Chirurgie (ERACS) 
 

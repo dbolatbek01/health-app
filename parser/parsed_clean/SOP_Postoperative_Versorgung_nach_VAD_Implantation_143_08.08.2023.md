@@ -9,19 +9,11 @@ Postoperative Versorgung nach VAD-Implantation
 
 Klinik für Herz-, Thorax und Gefäßchirurgie Klinik für Kardioanästhesiologie und Intensivmedizin 
 
-## **Inhaltsverzeichnis** 
-
-|1.|Ziele ................................................................................................................................................. 3|
 |---|---|
-|2.|Intraoperative Faktoren.................................................................................................................... 3|
-|3.|Versorgung auf der Intensivstation .................................................................................................. 3|
-|4.|Versorgung auf der Normalstation (WDH1/WD6) ........................................................................... 5|
-|5.|Entlassung ....................................................................................................................................... 6|
-|6.|Verlegung in ein anderes Krankenhaus .......................................................................................... 6|
 
 Anhang 1: Diagramm Optimale medikamentöse Therapie zur Behandlung einer Herzinsuffizienz Anhang 2: Checkliste Entlassung nach VAD-Implantation 
 
-## **1. Ziele** 
+# **1. Ziele**
 
 Die vorliegende SOP regelt medizinische und organisatorische Standards für die Behandlung von Patient:innen mit erstmalig implantiertem oder ausgetauschtem VAD. Folgende konkrete Ziele werden dabei verfolgt: 
 
@@ -35,7 +27,7 @@ Die vorliegende SOP regelt medizinische und organisatorische Standards für die 
 
 Komplexere medizinische Fragestellungen bzw. die Behandlung von Komplikationen werden in dieser SOP nicht behandelt. Zu einzelnen Themenbereichen wurden bereits SOPs im Intranet veröffentlicht, auf die in diesem Zusammenhang verwiesen wird (Dokumente → SOPs Klinik → MCS). 
 
-## **2. Intraoperative Faktoren** 
+# **2. Intraoperative Faktoren**
 
 Bereits intraoperativ gibt es Faktoren, welche auf das weitere postoperative Management einen Einfluss haben. Die wichtigsten sind dabei: 
 
@@ -57,7 +49,7 @@ Die Drehzahl wird intraoperativ unter echokardiographischer Kontrolle eher im un
 
 Die für die Weiterbehandlung relevanten Faktoren werden im Arztbrief (Entlassungsbericht) dokumentiert. 
 
-## **3. Versorgung auf der Intensivstation** 
+# **3. Versorgung auf der Intensivstation**
 
 ## **Bei Komplikationen: Information diensthabender VAD-Chirurg!** 
 
@@ -119,7 +111,7 @@ Nach der Implantation eines intrakorporalen dauerhaften Herzunterstützungssyste
 
 Bei Patienten mit einem funktionierenden CRT-D wird das Gerät nach LVAD-Implantation auf der Intensivstation oder auf der peripheren Station, aber spätestens vor der Verlegung auf eine RVStimulation umprogrammiert. Dabei sollten die Tachy-Therapien (1 VF-Zone und VT-Zone) eingeschaltet werden. 
 
-## **4. Versorgung auf der Normalstation (WDH1/WD6)** 
+# **4. Versorgung auf der Normalstation (WDH1/WD6)**
 
 ## **Hämodynamik und Blutdruckeinstellung** 
 
@@ -161,11 +153,11 @@ Informationen zum aktuellen Therapiekonzept werden im Entlassungsbericht dokumen
 
 Ein vorhandenes ICD-System wird vor der Entlassung überprüft, ein vorhandenes CRT-D-System sollte auf alleinige RV-Stimulation umprogrammiert werden, wobei die Tachytherapien aktiv bleiben (1 VFZone und VT-Zone). 
 
-## **5. Entlassung** 
+# **5. Entlassung**
 
 Bei Entlassung eines jeden Assist-Patienten ist die "Checkliste für die Entlassung nach VADImplantation" (Anhang 2) vollständig auszufüllen, einzuscannen und in SAP im Archiv-System Pegasus unter Dokumente in der Patientenakte zu speichern. 
 
-## **6. Verlegung in ein anderes Krankenhaus** 
+# **6. Verlegung in ein anderes Krankenhaus**
 
 Sollte der Patient vor Beginn der Rehabilitation in ein anderes Krankenhaus verlegt werden und nicht den regulären Weg vom DHZC direkt zur Rehabilitation ins Klinikum Seehof nach Teltow gehen, sind ggf. noch offen gebliebene Punkte anhand der Checkliste zusammen mit dem VAD-Team (Tel. 2222, 2160 oder 2226) zu klären, wie z. B. 
 
@@ -195,8 +187,6 @@ SGLT-2-Inhibitor
 Absetzen der zuletzt
 angesetzten  Dosierung anpassen
 Eisenmangel ausgleichen Therapie
-**----- End of picture text -----**
-
 
 2019 EACTS Expert Consensus on long-term mechanical circulatory support. doi: 10.1093/ejcts/ezz098 
 
