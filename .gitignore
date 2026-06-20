@@ -3,4 +3,4 @@ chromadb/*/
 chromadb/__pycache__/
 embeddings/models/
 parser/chunks*.jsonl
-retrieval/retrieval_results/
+retrieval/retrieval_results/*.json
