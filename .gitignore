@@ -6,3 +6,5 @@ parser/chunks*.jsonl
 retrieval/retrieval_results/*.json
 QA/*.json
 QA/*.jsonl
+backend/results/*.json
+evaluation/bert/results/*.json
