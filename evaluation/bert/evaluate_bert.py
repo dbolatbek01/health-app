@@ -21,7 +21,7 @@ from rouge_score import rouge_scorer as rouge_lib
 from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 
 # ── paths ──────────────────────────────────────────────────────────────────────
-RESULTS_DIR = Path(r"C:\Masterarbeit\App\backend\results")
+RESULTS_DIR = Path(r"C:\Masterarbeit\App\generation\results")
 OUTPUT_DIR  = Path(r"C:\Masterarbeit\App\evaluation\bert\results")
 
 # model_label -> filename
