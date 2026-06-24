@@ -10,10 +10,13 @@ EMBED_MODEL = "BAAI/bge-m3"
 COLLECTION = "small_bge_m3"
 OLLAMA_URL = "http://localhost:11434/api/generate"
 QA = Path(r"C:\Masterarbeit\App\QA\test_set_final.json")
-RESULT_DIR = Path(r"C:\Masterarbeit\App\backend\results")
+RESULT_DIR = Path(r"C:\Masterarbeit\App\generation\results")
 TOP_K = 5
 
 MODELS = [
+    "llama3.1_8b.json",
+    "mistral_7b.json",
+    "qwen2.5_7b.json",
     "meditron:7b",
     "hf.co/BioMistral/BioMistral-7B-GGUF:Q4_K_M",
 ]
@@ -76,7 +79,8 @@ def run():
                 "question": question,
                 "reference_answer": item["reference_answer"],
                 "answer": answer,
-                "sources": query_result["metadatas"][0]
+                "sources": query_result["metadatas"][0],
+                "chunks": query_result["documents"][0]
             })
 
         output_file = RESULT_DIR / f"{model.replace(':', '_').replace('/', '_')}.json"

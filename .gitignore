@@ -8,3 +8,14 @@ QA/*.json
 QA/*.jsonl
 backend/results/*.json
 evaluation/bert/results/*.json
+evaluation/ragas/results/*.json
+evaluation/ragas/results/*.csv
+generation/results/*.json
+venv
+venv_ragas
+parser/parsed/*.md
+parser/parsed_clean/*.md
+parser/parsed_ohne_ki/*.md
+parser/all_files_combined.md
+parser/COMBINED_FIRST_50_DOCUMENTS_MARKER.md
+parser/COMBINED_FIRST_50_DOCUMENTS_PYMUPDF4LLM.md
