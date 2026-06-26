@@ -16,6 +16,9 @@ JUDGE_MODEL = "qwen2.5:7b"
 OLLAMA_URL = "http://localhost:11434"
 
 MODEL_FILES = {
+    "llama3.1:8b":   "llama3.1_8b.json",
+    "mistral:7b":    "mistral_7b.json",
+    "qwen2.5:7b":    "qwen2.5_7b.json",
     "meditron:7b":   "meditron_7b.json",
     "BioMistral-7B": "hf.co_BioMistral_BioMistral-7B-GGUF_Q4_K_M.json",
 }
