@@ -14,9 +14,9 @@ RESULT_DIR = Path(r"C:\Masterarbeit\App\generation\results")
 TOP_K = 5
 
 MODELS = [
-    "llama3.1_8b.json",
-    "mistral_7b.json",
-    "qwen2.5_7b.json",
+    "llama3.1:8b",
+    "mistral:7b",
+    "qwen2.5:7b",
     "meditron:7b",
     "hf.co/BioMistral/BioMistral-7B-GGUF:Q4_K_M",
 ]

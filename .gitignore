@@ -19,3 +19,4 @@ parser/parsed_ohne_ki/*.md
 parser/all_files_combined.md
 parser/COMBINED_FIRST_50_DOCUMENTS_MARKER.md
 parser/COMBINED_FIRST_50_DOCUMENTS_PYMUPDF4LLM.md
+backend/fastapi/__pycache__/*.pyc
