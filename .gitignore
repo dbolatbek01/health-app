@@ -20,3 +20,7 @@ parser/all_files_combined.md
 parser/COMBINED_FIRST_50_DOCUMENTS_MARKER.md
 parser/COMBINED_FIRST_50_DOCUMENTS_PYMUPDF4LLM.md
 backend/fastapi/__pycache__/*.pyc
+evaluation/*.xlsx
+evaluation/*.json
+parser/marker_vs_parser.py
+parser/table.py

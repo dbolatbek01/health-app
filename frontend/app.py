@@ -11,6 +11,15 @@ with st.sidebar:
     st.title("🩺 SOP-Chatbot")
     st.caption("Klinische SOPs · Charité")
     st.divider()
+
+    # Modellauswahl
+    model = st.selectbox(
+        "Modell",
+        options=["mistral:7b", "qwen2.5:7b"],
+        index=0,
+    )
+
+    st.divider()
     st.markdown(
         "Dieser Assistent beantwortet Fragen ausschließlich "
         "auf Basis der hinterlegten klinischen SOP-Dokumente."
@@ -53,7 +62,7 @@ if prompt := st.chat_input("Ihre Frage zu den SOPs..."):
             try:
                 response = requests.post(
                     BACKEND_URL,
-                    json={"query": prompt},
+                    json={"query": prompt, "model": model},
                     timeout=180
                 )
                 data = response.json()
